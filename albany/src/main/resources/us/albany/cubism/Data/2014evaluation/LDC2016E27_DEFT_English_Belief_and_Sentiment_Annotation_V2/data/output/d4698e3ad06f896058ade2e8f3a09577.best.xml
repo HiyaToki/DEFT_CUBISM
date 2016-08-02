@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="d4698e3ad06f896058ade2e8f3a09577.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-106" length="2" offset="438">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-52" length="8" offset="357">Brigante</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-288" length="3" offset="484">
+        <text>who</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-52" length="8" offset="357">Brigante</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-70" length="13" offset="470">
+        <text>Jimmy Saville</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-52" length="8" offset="357">Brigante</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-79" length="3" offset="511">
+        <text>jim</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-52" length="8" offset="357">Brigante</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-136" length="17" offset="645">
+        <text>quit a nice bloke</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-85" length="4" offset="538">GTee</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-259" length="2" offset="1379">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-232" length="9" offset="1288">jonny2mad</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="aa003ea934a97bac86cee52b7122f1f8.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-46" length="6" offset="385">
+        <text>Mumbai</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-13" length="14" offset="14">Martin Timothy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-279" length="3" offset="937">
+        <text>his</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-13" length="14" offset="14">Martin Timothy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-270" length="6" offset="903">
+        <text>Hindus</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-13" length="14" offset="14">Martin Timothy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-410" length="3" offset="1145">
+        <text>one</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-13" length="14" offset="14">Martin Timothy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-85" length="8" offset="1249">
+        <text>Pakistan</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-13" length="14" offset="14">Martin Timothy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-94" length="21" offset="1313">
+        <text>some of the attackers</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-13" length="14" offset="14">Martin Timothy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-112" length="6" offset="1405">
+        <text>Mumbai</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-13" length="14" offset="14">Martin Timothy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-127" length="33" offset="1578">
+        <text>the surviving terrorist in mumbai</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-118" length="14" offset="1504">strollingbones</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

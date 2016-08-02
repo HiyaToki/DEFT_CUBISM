@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-5693faa80000000000000039">
+  
+  <sentiment_annotations><entities>
+      <entity ere_id="m-1574" length="67" offset="5911">
+        <text>the most despicable female this country has seen since Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-825" length="8" offset="5874">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1616" length="67" offset="5712">
+        <text>the most despicable female this country has seen since Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-831" length="8" offset="4491">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-903" length="12" offset="5767">
+        <text>Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-831" length="8" offset="4491">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-909" length="12" offset="5966">
+        <text>Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-825" length="8" offset="5874">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1397" length="10" offset="1135">
+        <text>a "friend"</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-585" length="9" offset="996">Ed Selley</source>
+        </sentiment>
+      </entity>
+    </entities></sentiment_annotations>
+</committed_belief_doc>

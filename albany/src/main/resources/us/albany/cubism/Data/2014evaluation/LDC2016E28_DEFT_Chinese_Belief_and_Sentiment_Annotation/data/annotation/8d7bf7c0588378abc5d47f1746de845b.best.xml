@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56a003a30000000000000006">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-372">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-382">
+        <trigger offset="410" length="3">迎来了</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-392">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-402">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-412">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-422">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-432">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-495">
+        <trigger offset="498" length="1">伤</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-264" offset="493" length="4">
+            <text>两个巨星</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-442">
+        <trigger offset="410" length="2">迎来</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-258" offset="413" length="11">
+            <text>小斯、安东尼等超级巨星</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-324" offset="394" length="3">
+            <text>尼克斯</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-474" offset="401" length="2">
+            <text>去年</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-66" offset="14" length="5">没落的残阳</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities/>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

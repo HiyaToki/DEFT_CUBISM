@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56acedd50000000000000008">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-825">
+        <trigger offset="186" length="6">worked</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-835">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-845">
+        <trigger offset="648" length="2">of</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-855">
+        <trigger offset="1351" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1358">
+        <trigger offset="1848" length="3">was</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-333" offset="833" length="5">BillW</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1368">
+        <trigger offset="1912" length="3">was</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-333" offset="833" length="5">BillW</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-865">
+        <trigger offset="2825" length="2">on</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-597" offset="2758" length="5">mikey</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-875">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-597" offset="2758" length="5">mikey</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-885">
+        <trigger offset="3967" length="4">fled</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="3891" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1147">
+        <trigger offset="277" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1322">
+        <trigger offset="132" length="4">know</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1332">
+        <beliefs>
+          <belief type="ncb" polarity="pos" sarcasm="no">
+            <source ere_id="m-333" offset="833" length="5">BillW</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1390">
+        <trigger offset="2825" length="2">on</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-597" offset="2758" length="5">mikey</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1409">
+        <trigger offset="2989" length="4">came</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-597" offset="2758" length="5">mikey</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1419">
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-597" offset="2758" length="5">mikey</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1429">
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-141" offset="3891" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1510">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-909">
+        <trigger offset="308" length="4">died</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-237" offset="331" length="10">
+            <text>the owners</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-249" offset="298" length="9">
+            <text>120 women</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-759" offset="280" length="11">
+            <text>N. Carolina</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-930">
+        <trigger offset="665" length="4">died</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-255" offset="651" length="18">
+            <text>the women who died</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-951">
+        <trigger offset="509" length="6">walked</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-231" offset="506" length="2">
+            <text>We</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-801" offset="540" length="13">
+            <text>State Capitol</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-819" offset="521" length="11">
+            <text>the factory</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1469">
+        <trigger offset="214" length="5">march</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-129" offset="202" length="2">
+            <text>My</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-189" offset="225" length="5">
+            <text>Jesse</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-813" offset="248" length="161">
+            <text>the chicken processing plant in N. Carolina where 120 women died in a fire because the owners locked the emergency exit so no one could sneak outside for a break</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-972">
+        <trigger offset="739" length="4">paid</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-753" offset="747" length="11">
+            <text>the company</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-993">
+        <trigger offset="786" length="8">released</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-765" offset="763" length="9">
+            <text>the state</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1014">
+        <trigger offset="1330" length="6">fought</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-333" offset="833" length="5">BillW</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-387" offset="1328" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-771" offset="1354" length="8">
+            <text>Viet Nam</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1035">
+        <trigger offset="2842" length="4">with</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-597" offset="2758" length="5">mikey</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-603" offset="2819" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-597" offset="2758" length="5">mikey</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-627" offset="2847" length="10">
+            <text>my friends</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-597" offset="2758" length="5">mikey</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-807" offset="2828" length="13">
+            <text>the curbstone</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-597" offset="2758" length="5">mikey</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1056">
+        <trigger offset="3967" length="4">fled</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="3891" length="11">JoanneDorel</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-711" offset="3953" length="28">
+            <text>the guys that fled to Canada</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="3891" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-795" offset="3975" length="6">
+            <text>Canada</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="3891" length="11">JoanneDorel</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1077">
+        <trigger offset="1663" length="6">strike</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-333" offset="833" length="5">BillW</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-405" offset="1621" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1554" offset="1658" length="4">
+            <text>B-52</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1561" offset="1741" length="5">
+            <text>bombs</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1520">
+        <trigger offset="1479" length="10">air strick</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-333" offset="833" length="5">BillW</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1190" offset="1490" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-777" offset="1403" length="5">
+            <text>there</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1697">
+        <trigger offset="1533" length="7">bombers</trigger>
+        <beliefs>
+          <belief type="ncb" polarity="pos" sarcasm="no">
+            <source ere_id="m-333" offset="833" length="5">BillW</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-279" offset="1504" length="3">
+            <text>You</text>
+            <beliefs>
+              <belief type="ncb" polarity="pos" sarcasm="no">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1564">
+        <trigger offset="1898" length="4">went</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-333" offset="833" length="5">BillW</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-429" offset="1896" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1229" offset="1916" length="5">
+            <text>there</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-333" offset="833" length="5">BillW</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1594">
+        <trigger offset="2940" length="8">listened</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-597" offset="2758" length="5">mikey</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-615" offset="2915" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-597" offset="2758" length="5">mikey</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-651" offset="2952" length="4">
+            <text>them</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-597" offset="2758" length="5">mikey</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-807" offset="2828" length="13">
+            <text>the curbstone</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-597" offset="2758" length="5">mikey</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1631">
+        <trigger offset="2989" length="4">came</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-597" offset="2758" length="5">mikey</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1400" offset="2984" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-597" offset="2758" length="5">mikey</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1259" offset="2994" length="4">
+            <text>home</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-597" offset="2758" length="5">mikey</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-315" offset="3611" length="6">
+        <text>george</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" offset="3563" length="5">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-321" offset="3744" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" offset="3563" length="5">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-327" offset="3711" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" offset="3563" length="5">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1667" offset="3719" length="10">
+        <text>a good man</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" offset="3563" length="5">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1175" offset="1022" length="121">
+        <text>one of those whose "worst qualities of an age and much of a generation notable mostly for its narcism and self-indulgence</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-333" offset="833" length="5">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-555" offset="2401" length="14">
+        <text>his detractors</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-543" offset="2281" length="11">edgarblythe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-561" offset="2445" length="4">
+        <text>They</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-543" offset="2281" length="11">edgarblythe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-567" offset="2494" length="4">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-543" offset="2281" length="11">edgarblythe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-573" offset="2582" length="4">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-543" offset="2281" length="11">edgarblythe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-711" offset="3953" length="28">
+        <text>the guys that fled to Canada</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" offset="3891" length="11">JoanneDorel</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-717" offset="3998" length="4">
+        <text>They</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" offset="3891" length="11">JoanneDorel</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-723" offset="4085" length="5">
+        <text>there</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" offset="3891" length="11">JoanneDorel</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-783" offset="3166" length="12">
+        <text>This country</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-597" offset="2758" length="5">mikey</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1265" offset="3197" length="6">
+        <text>itself</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-597" offset="2758" length="5">mikey</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1250" offset="3007" length="39">
+        <text>the guys that were "lucky" to come back</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-597" offset="2758" length="5">mikey</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-885">
+        <trigger offset="3967" length="4">fled</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" offset="3891" length="11">JoanneDorel</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-1469">
+        <trigger offset="214" length="5">march</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-117" offset="14" length="11">JoanneDorel</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

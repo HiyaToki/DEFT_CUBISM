@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-5693faac0000000000000040">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-1026">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1036">
+        <trigger offset="1208" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1046">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1056">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1066">
+        <trigger offset="1741" length="3">dad</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1076">
+        <trigger offset="2667" length="6">worked</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1086">
+        <trigger offset="2704" length="6">out of</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1096">
+        <trigger offset="2932" length="8">daughter</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1106">
+        <trigger offset="2925" length="4">wife</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1116">
+        <trigger offset="3128" length="6">mother</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1126">
+        <trigger offset="3212" length="6">dating</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1136">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1146">
+        <trigger offset="3449" length="6">affair</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1156">
+        <trigger offset="3533" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1166">
+        <trigger offset="1921" length="2">of</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1579">
+        <trigger offset="97" length="3">was</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1599">
+        <trigger offset="2593" length="3">was</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1589">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1609">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="2850" length="6">Amelia</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1619">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="2850" length="6">Amelia</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1629">
+        <trigger offset="5164" length="6">spouse</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-468" offset="2779" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-1182">
+        <trigger offset="1189" length="6">mining</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1008" offset="1196" length="24">
+            <text>the harbors in Nicaragua</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-144" offset="85" length="3">SAT</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1203">
+        <trigger offset="1264" length="5">mined</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-144" offset="85" length="3">SAT</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1014" offset="1240" length="10">
+            <text>The harbor</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-144" offset="85" length="3">SAT</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1224">
+        <trigger offset="2697" length="6">pulled</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-300" offset="2689" length="3">
+            <text>she</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-990" offset="2711" length="6">
+            <text>Russia</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1245">
+        <trigger offset="2981" length="9">divorcing</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-582" offset="2976" length="3">
+            <text>him</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-546" offset="2991" length="8">
+            <text>his wife</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1266">
+        <trigger offset="3153" length="7">divorce</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-564" offset="3135" length="3">
+            <text>who</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1287">
+        <trigger offset="3239" length="7">divorce</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-594" offset="3199" length="2">
+            <text>He</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-474" offset="2879" length="7">Foxfyre</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1308">
+        <trigger offset="975" length="7">charged</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-390" offset="965" length="4">
+            <text>They</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1639">
+        <trigger offset="210" length="7">charged</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1372" offset="199" length="6">
+            <text>no one</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1664" offset="223" length="15">
+            <text>outing an agent</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1831">
+        <trigger offset="2257" length="7">charged</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1435" offset="2246" length="6">
+            <text>no one</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1669">
+        <trigger offset="794" length="5">going</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-360" offset="807" length="7">
+            <text>contras</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1692">
+        <trigger offset="869" length="5">going</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-366" offset="878" length="4">
+            <text>them</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1713">
+        <trigger offset="923" length="7">charged</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1396" offset="898" length="6">
+            <text>no one</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1738" offset="936" length="27">
+            <text>sending arms to the Contras</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1743">
+        <trigger offset="936" length="7">sending</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="f-1775" offset="944" length="4">
+            <text>arms</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1780">
+        <trigger offset="2013" length="7">impeach</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-786" offset="1992" length="8">
+            <text>Congress</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1803">
+        <trigger offset="2098" length="7">impeach</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-798" offset="2065" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-348" offset="2106" length="11">
+            <text>a president</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-408" offset="1412" length="5">
+        <text>Barry</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-414" offset="1436" length="2">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-420" offset="1473" length="20">
+        <text>that senile old jerk</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-180" offset="14" length="7">JoeB131</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-750" offset="1341" length="21">
+        <text>Reagan administration</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-396" offset="1297" length="15">Barry Goldwater</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-1026">
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-144" offset="85" length="3">SAT</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

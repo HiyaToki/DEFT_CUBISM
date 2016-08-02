@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="55ccab530000000000000042" doc_id="7b5c935f7671391a5f4463832794af51" source_type="multi_post">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specific">
+      <entity_mention id="m-105" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="14" length="3">
+        <mention_text>许伯寅</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-18" type="PER" specificity="specific">
+      <entity_mention id="m-111" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="60" length="3">
+        <mention_text>小 金</mention_text>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="98" length="3">
+        <mention_text>小 金</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="167" length="3">
+        <mention_text>小 金</mention_text>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="206" length="3">
+        <mention_text>小 金</mention_text>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="500" length="3">
+        <mention_text>金正恩</mention_text>
+      </entity_mention>
+      <entity_mention id="m-141" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="507" length="2">
+        <mention_text>自己</mention_text>
+      </entity_mention>
+      <entity_mention id="m-147" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="523" length="1">
+        <mention_text>他</mention_text>
+      </entity_mention>
+      <entity_mention id="m-153" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="534" length="2">
+        <mention_text>自己</mention_text>
+      </entity_mention>
+      <entity_mention id="m-159" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="541" length="2">
+        <mention_text>自己</mention_text>
+      </entity_mention>
+      <entity_mention id="m-165" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="545" length="2">
+        <mention_text>自己</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-21" type="PER" specificity="nonspecific">
+      <entity_mention id="m-171" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="316" length="4">
+        <mention_text>朝鲜人民</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="318" length="2">人民</nom_head>
+      </entity_mention>
+      <entity_mention id="m-177" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="325" length="2">
+        <mention_text>自己</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="PER" specificity="specific">
+      <entity_mention id="m-183" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="312" length="2">
+        <mention_text>我们</mention_text>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="339" length="2">
+        <mention_text>我们</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="349" length="2">
+        <mention_text>我们</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="PER" specificity="specific">
+      <entity_mention id="m-201" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="651" length="4">
+        <mention_text>皇城明月</mention_text>
+      </entity_mention>
+      <entity_mention id="m-207" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="1200" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-213" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="709" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-219" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1146" length="4">
+        <mention_text>皇城明月</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="1268" length="1">
+        <mention_text>你</mention_text>
+      </entity_mention>
+      <entity_mention id="m-231" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="1280" length="1">
+        <mention_text>你</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specific">
+      <entity_mention id="m-237" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="453" length="8">
+        <mention_text>打败美帝野心狼。</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="PER" specificity="specific">
+      <entity_mention id="m-243" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="385" length="5">
+        <mention_text>好象懂一点</mention_text>
+      </entity_mention>
+      <entity_mention id="m-249" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1078" length="5">
+        <mention_text>好象懂一点</mention_text>
+      </entity_mention>
+      <entity_mention id="m-255" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="1321" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-261" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="1326" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="PER" specificity="specific">
+      <entity_mention id="m-267" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="265" length="4">
+        <mention_text>少校卫疆</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="PER" specificity="nonspecific">
+      <entity_mention id="m-273" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="233" length="3">
+        <mention_text>群 众</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="233" length="3">群 众</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-42" type="PER" specificity="specific">
+      <entity_mention id="m-279" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="698" length="3">
+        <mention_text>六楼的</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="700" length="1">的</nom_head>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="1189" length="3">
+        <mention_text>六楼的</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="1191" length="1">的</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="PER" specificity="specific">
+      <entity_mention id="m-291" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="769" length="4">
+        <mention_text>广州大佬</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specific">
+      <entity_mention id="m-297" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1248" length="2">
+        <mention_text>胡适</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="PER" specificity="nonspecific">
+      <entity_mention id="m-303" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="1255" length="5">
+        <mention_text>中国老百姓</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="1258" length="2">百姓</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="PER" specificity="specific">
+      <entity_mention id="m-309" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1365" length="4">
+        <mention_text>一寂绝尘</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-57" type="PER" specificity="specific">
+      <entity_mention id="m-315" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1455" length="4">
+        <mention_text>前哨-1</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-60" type="PER" specificity="specific">
+      <entity_mention id="m-321" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1730" length="1">
+        <mention_text>毛</mention_text>
+      </entity_mention>
+      <entity_mention id="m-327" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1741" length="1">
+        <mention_text>毛</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-63" type="PER" specificity="specific">
+      <entity_mention id="m-333" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1778" length="3">
+        <mention_text>蒋介石</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-66" type="PER" specificity="specific">
+      <entity_mention id="m-339" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1682" length="6">
+        <mention_text>想封我，白扯</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-69" type="PER" specificity="specific">
+      <entity_mention id="m-345" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1616" length="3">
+        <mention_text>浪飞起</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-72" type="PER" specificity="specific">
+      <entity_mention id="m-351" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1530" length="8">
+        <mention_text>xian2009</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-75" type="PER" specificity="specific">
+      <entity_mention id="m-357" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="1280" length="3">
+        <mention_text>你父母</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="1281" length="2">父母</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-78" type="ORG" specificity="specific">
+      <entity_mention id="m-363" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="728" length="2">
+        <mention_text>义利</mention_text>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1219" length="2">
+        <mention_text>义利</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-81" type="GPE" specificity="specific">
+      <entity_mention id="m-375" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="316" length="2">
+        <mention_text>朝鲜</mention_text>
+      </entity_mention>
+      <entity_mention id="m-381" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="356" length="2">
+        <mention_text>朝鲜</mention_text>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1586" length="2">
+        <mention_text>朝鲜</mention_text>
+      </entity_mention>
+      <entity_mention id="m-393" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1750" length="2">
+        <mention_text>朝鲜</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-84" type="GPE" specificity="specific">
+      <entity_mention id="m-399" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="227" length="5">
+        <mention_text>叙 利 亚</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-87" type="GPE" specificity="specific">
+      <entity_mention id="m-405" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="223" length="4">
+        <mention_text>利 比亚</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-90" type="GPE" specificity="specific">
+      <entity_mention id="m-411" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="220" length="3">
+        <mention_text>埃 及</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-93" type="GPE" specificity="specific">
+      <entity_mention id="m-417" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="105" length="3">
+        <mention_text>中 国</mention_text>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1255" length="2">
+        <mention_text>中国</mention_text>
+      </entity_mention>
+      <entity_mention id="m-429" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1771" length="2">
+        <mention_text>中国</mention_text>
+      </entity_mention>
+      <entity_mention id="m-644" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="1417" length="2">
+        <mention_text>自己</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-96" type="GPE" specificity="specific">
+      <entity_mention id="m-435" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1785" length="2">
+        <mention_text>台湾</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-99" type="GPE" specificity="specific">
+      <entity_mention id="m-441" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="1879" length="2">
+        <mention_text>美过</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-102" type="GPE" specificity="specific">
+      <entity_mention id="m-447" noun_type="NAM" source="7b5c935f7671391a5f4463832794af51" offset="2086" length="3">
+        <mention_text>伊拉克</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-597" type="PER" specificity="nonspecific">
+      <entity_mention id="m-591" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="129" length="3">
+        <mention_text>少数人</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="131" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-606" type="PER" specificity="nonspecific">
+      <entity_mention id="m-600" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="148" length="2">
+        <mention_text>众人</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="148" length="2">众人</nom_head>
+      </entity_mention>
+      <entity_mention id="m-638" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="1301" length="3">
+        <mention_text>所有人</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="1303" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-615" type="PER" specificity="nonspecific">
+      <entity_mention id="m-609" noun_type="NOM" source="7b5c935f7671391a5f4463832794af51" offset="528" length="4">
+        <mention_text>任何外人</mention_text>
+        <nom_head source="7b5c935f7671391a5f4463832794af51" offset="530" length="2">外人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-656" type="PER" specificity="nonspecific">
+      <entity_mention id="m-650" noun_type="PRO" source="7b5c935f7671391a5f4463832794af51" offset="1878" length="1">
+        <mention_text>你</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-626" source="7b5c935f7671391a5f4463832794af51" offset="712" length="3" type="age">五十多</filler>
+    <filler id="f-636" source="7b5c935f7671391a5f4463832794af51" offset="1203" length="3" type="age">五十多</filler>
+    <filler id="f-684" source="7b5c935f7671391a5f4463832794af51" offset="1216" length="2" type="commodity">面包</filler>
+    <filler id="f-714" source="7b5c935f7671391a5f4463832794af51" offset="725" length="2" type="commodity">面包</filler>
+  </fillers>
+  <relations>
+    <relation id="r-597" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-453" realis="true">
+        <rel_arg1 entity_id="ent-21" entity_mention_id="m-171" role="per">朝鲜人民</rel_arg1>
+        <rel_arg2 entity_id="ent-81" entity_mention_id="m-375" role="entity">朝鲜</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-598" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-463" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-303" role="per">中国老百姓</rel_arg1>
+        <rel_arg2 entity_id="ent-93" entity_mention_id="m-423" role="entity">中国</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-599" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-473" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-297" role="per">胡适</rel_arg1>
+        <rel_arg2 entity_id="ent-93" entity_mention_id="m-423" role="entity">中国</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-600" type="personalsocial" subtype="family">
+      <relation_mention id="relm-483" realis="true">
+        <rel_arg1 entity_id="ent-75" entity_mention_id="m-357" role="per">你父母</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-231" role="per">你</rel_arg2>
+        <trigger source="7b5c935f7671391a5f4463832794af51" offset="1281" length="2">父母</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-601" type="physical" subtype="locatednear">
+      <relation_mention id="relm-493" realis="true">
+        <rel_arg1 entity_id="ent-63" entity_mention_id="m-333" role="entity">蒋介石</rel_arg1>
+        <rel_arg2 entity_id="ent-96" entity_mention_id="m-435" role="loc">台湾</rel_arg2>
+        <trigger source="7b5c935f7671391a5f4463832794af51" offset="1784" length="1">去</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-602" type="generalaffiliation" subtype="personage">
+      <relation_mention id="relm-618" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-213" role="per">我</rel_arg1>
+        <rel_arg2 filler_id="f-626" role="age">五十多</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-628" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-207" role="per">我</rel_arg1>
+        <rel_arg2 filler_id="f-636" role="age">五十多</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-507" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="7b5c935f7671391a5f4463832794af51" offset="1783" length="2">跑去</trigger>
+        <em_arg entity_id="ent-63" entity_mention_id="m-333" role="person" realis="true">蒋介石</em_arg>
+        <em_arg entity_id="ent-96" entity_mention_id="m-435" role="destination" realis="true">台湾</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-503">
+      <event_mention id="em-717" type="conflict" subtype="attack" realis="generic">
+        <trigger source="7b5c935f7671391a5f4463832794af51" offset="238" length="3">武 力</trigger>
+        <em_arg entity_id="ent-90" entity_mention_id="m-411" role="attacker" realis="true">埃 及</em_arg>
+        <em_arg entity_id="ent-87" entity_mention_id="m-405" role="attacker" realis="true">利 比亚</em_arg>
+        <em_arg entity_id="ent-84" entity_mention_id="m-399" role="attacker" realis="true">叙 利 亚</em_arg>
+        <em_arg entity_id="ent-39" entity_mention_id="m-273" role="target" realis="true">群 众</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-505">
+      <event_mention id="em-549" type="conflict" subtype="attack" realis="actual">
+        <trigger source="7b5c935f7671391a5f4463832794af51" offset="2090" length="1">炸</trigger>
+        <em_arg entity_id="ent-99" entity_mention_id="m-441" role="attacker" realis="true">美过</em_arg>
+        <em_arg entity_id="ent-102" entity_mention_id="m-447" role="target" realis="true">伊拉克</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-687">
+      <event_mention id="em-659" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="7b5c935f7671391a5f4463832794af51" offset="1221" length="1">产</trigger>
+        <em_arg entity_id="ent-78" entity_mention_id="m-369" role="agent" realis="true">义利</em_arg>
+        <em_arg filler_id="f-684" role="artifact" realis="true">面包</em_arg>
+      </event_mention>
+      <event_mention id="em-689" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="7b5c935f7671391a5f4463832794af51" offset="730" length="1">产</trigger>
+        <em_arg entity_id="ent-78" entity_mention_id="m-363" role="agent" realis="true">义利</em_arg>
+        <em_arg filler_id="f-714" role="artifact" realis="true">面包</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-780">
+      <event_mention id="em-759" type="conflict" subtype="attack" realis="other">
+        <trigger source="7b5c935f7671391a5f4463832794af51" offset="174" length="6">使用 火 力</trigger>
+        <em_arg entity_id="ent-18" entity_mention_id="m-123" role="attacker" realis="true">小 金</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

@@ -1,0 +1,1180 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20091016.0091">
+  <document DOCID="NYT_ENG_20091016.0091">
+
+    <entity ID="NYT_ENG_20091016.0091-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E0-M200">
+          <extent>
+              <charseq START="116" END="150">Alfred A. Knopf; 411 pages; $27.95)</charseq>
+          </extent>
+          <head>
+              <charseq START="116" END="130">Alfred A. Knopf</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alfred A. Knopf">
+              <charseq START="116" END="130">Alfred A. Knopf</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E1-M300">
+          <extent>
+              <charseq START="171" END="180">Don Lattin</charseq>
+          </extent>
+          <head>
+              <charseq START="171" END="180">Don Lattin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Don Lattin">
+              <charseq START="171" END="180">Don Lattin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E2-M401">
+          <extent>
+              <charseq START="189" END="211">San Francisco Chronicle</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="211">San Francisco Chronicle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San Francisco Chronicle">
+              <charseq START="189" END="211">San Francisco Chronicle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M500">
+          <extent>
+              <charseq START="238" END="252">Karen Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="238" END="252">Karen Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M810">
+          <extent>
+              <charseq START="710" END="718">Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="710" END="718">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M801">
+          <extent>
+              <charseq START="624" END="626">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="624" END="626">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M1100">
+          <extent>
+              <charseq START="895" END="1103">Armstrong, who attracted a loyal following with her 1993
+best-seller &quot;A History of God,&quot; is a brilliant woman and engaging
+commentator on the philosophical and theological foundations of the
+world&apos;s religions.</charseq>
+          </extent>
+          <head>
+              <charseq START="895" END="903">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M1102">
+          <extent>
+              <charseq START="906" END="908">who</charseq>
+          </extent>
+          <head>
+              <charseq START="906" END="908">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M1105">
+          <extent>
+              <charseq START="943" END="945">her</charseq>
+          </extent>
+          <head>
+              <charseq START="943" END="945">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M1200">
+          <extent>
+              <charseq START="1109" END="1111">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1109" END="1111">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M1208">
+          <extent>
+              <charseq START="1186" END="1188">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1186" END="1188">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M1301">
+          <extent>
+              <charseq START="1222" END="1224">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="1222" END="1224">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M1400">
+          <extent>
+              <charseq START="1470" END="1478">Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="1470" END="1478">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M1501">
+          <extent>
+              <charseq START="1794" END="1802">Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="1794" END="1802">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M1601">
+          <extent>
+              <charseq START="1946" END="1948">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1946" END="1948">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E3-M1701">
+          <extent>
+              <charseq START="2121" END="2135">This former nun</charseq>
+          </extent>
+          <head>
+              <charseq START="2133" END="2135">nun</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M1710">
+          <extent>
+              <charseq START="2216" END="2218">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2216" END="2218">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M1808">
+          <extent>
+              <charseq START="2360" END="2362">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2360" END="2362">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M2000">
+          <extent>
+              <charseq START="2437" END="2445">Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="2437" END="2445">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M2100">
+          <extent>
+              <charseq START="2553" END="2555">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2553" END="2555">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M2201">
+          <extent>
+              <charseq START="2657" END="2659">She</charseq>
+          </extent>
+          <head>
+              <charseq START="2657" END="2659">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M2408">
+          <extent>
+              <charseq START="3279" END="3287">Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="3279" END="3287">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M2800">
+          <extent>
+              <charseq START="3636" END="3644">Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="3636" END="3644">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M2806">
+          <extent>
+              <charseq START="3673" END="3675">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3673" END="3675">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M3100">
+          <extent>
+              <charseq START="4123" END="4131">Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="4123" END="4131">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E3-M3107">
+          <extent>
+              <charseq START="4219" END="4221">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4219" END="4221">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E3-M3210">
+          <extent>
+              <charseq START="4438" END="4446">Armstrong</charseq>
+          </extent>
+          <head>
+              <charseq START="4438" END="4446">Armstrong</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Karen Armstrong">
+              <charseq START="238" END="252">Karen Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="710" END="718">Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="895" END="903">Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="1470" END="1478">Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="1794" END="1802">Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="2437" END="2445">Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="3279" END="3287">Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="3636" END="3644">Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="4123" END="4131">Armstrong</charseq>
+          </name>
+          <name NAME="Armstrong">
+              <charseq START="4438" END="4446">Armstrong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E4-M503">
+          <extent>
+              <charseq START="289" END="359">the various
+ways people throughout history and across cultures envision</charseq>
+          </extent>
+          <head>
+              <charseq START="306" END="311">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E4-M511">
+          <extent>
+              <charseq START="378" END="381">they</charseq>
+          </extent>
+          <head>
+              <charseq START="378" END="381">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E5-M603" ROLE="GPE">
+          <extent>
+              <charseq START="454" END="460">British</charseq>
+          </extent>
+          <head>
+              <charseq START="454" END="460">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="454" END="460">British</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E6-M602">
+          <extent>
+              <charseq START="441" END="467">the prolific British author</charseq>
+          </extent>
+          <head>
+              <charseq START="462" END="467">author</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E6-M1702">
+          <extent>
+              <charseq START="2141" END="2184">author of 18 other books on religious themes</charseq>
+          </extent>
+          <head>
+              <charseq START="2141" END="2146">author</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E7-M705">
+          <extent>
+              <charseq START="532" END="554">the postmodern
+believer</charseq>
+          </extent>
+          <head>
+              <charseq START="547" END="554">believer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E8-M804">
+          <extent>
+              <charseq START="661" END="703">time-pressed readers who&apos;d
+like to practice</charseq>
+          </extent>
+          <head>
+              <charseq START="674" END="680">readers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E8-M806">
+          <extent>
+              <charseq START="682" END="684">who</charseq>
+          </extent>
+          <head>
+              <charseq START="682" END="684">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E10-M1110">
+          <extent>
+              <charseq START="987" END="1003">a brilliant woman</charseq>
+          </extent>
+          <head>
+              <charseq START="999" END="1003">woman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E11-M1112">
+          <extent>
+              <charseq START="1009" END="1028">engaging
+commentator</charseq>
+          </extent>
+          <head>
+              <charseq START="1018" END="1028">commentator</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E12" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E12-M1116">
+          <extent>
+              <charseq START="1082" END="1090">the
+world</charseq>
+          </extent>
+          <head>
+              <charseq START="1086" END="1090">world</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E12-M1315">
+          <extent>
+              <charseq START="1395" END="1414">the publishing world</charseq>
+          </extent>
+          <head>
+              <charseq START="1410" END="1414">world</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E12-M2008">
+          <extent>
+              <charseq START="2533" END="2541">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="2537" END="2541">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E13-M1311">
+          <extent>
+              <charseq START="1327" END="1341">Richard Dawkins</charseq>
+          </extent>
+          <head>
+              <charseq START="1327" END="1341">Richard Dawkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E13-M1305">
+          <extent>
+              <charseq START="1268" END="1294">the so-called
+&quot;new atheists</charseq>
+          </extent>
+          <head>
+              <charseq START="1287" END="1294">atheists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E13-M1503">
+          <extent>
+              <charseq START="1812" END="1818">Dawkins</charseq>
+          </extent>
+          <head>
+              <charseq START="1812" END="1818">Dawkins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E13-M1603">
+          <extent>
+              <charseq START="1959" END="1974">the new
+atheists</charseq>
+          </extent>
+          <head>
+              <charseq START="1967" END="1974">atheists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E13-M1707">
+          <extent>
+              <charseq START="2194" END="2209">the new atheists</charseq>
+          </extent>
+          <head>
+              <charseq START="2202" END="2209">atheists</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Richard Dawkins">
+              <charseq START="1327" END="1341">Richard Dawkins</charseq>
+          </name>
+          <name NAME="Dawkins">
+              <charseq START="1812" END="1818">Dawkins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E14-M1312">
+          <extent>
+              <charseq START="1344" END="1353">Sam
+Harris</charseq>
+          </extent>
+          <head>
+              <charseq START="1344" END="1353">Sam
+Harris</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E14-M1504">
+          <extent>
+              <charseq START="1821" END="1826">Harris</charseq>
+          </extent>
+          <head>
+              <charseq START="1821" END="1826">Harris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sam
+Harris">
+              <charseq START="1344" END="1353">Sam
+Harris</charseq>
+          </name>
+          <name NAME="Harris">
+              <charseq START="1821" END="1826">Harris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E15-M1313">
+          <extent>
+              <charseq START="1359" END="1378">Christopher Hitchens</charseq>
+          </extent>
+          <head>
+              <charseq START="1359" END="1378">Christopher Hitchens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E15-M1505">
+          <extent>
+              <charseq START="1832" END="1839">Hitchens</charseq>
+          </extent>
+          <head>
+              <charseq START="1832" END="1839">Hitchens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Christopher Hitchens">
+              <charseq START="1359" END="1378">Christopher Hitchens</charseq>
+          </name>
+          <name NAME="Hitchens">
+              <charseq START="1832" END="1839">Hitchens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E16-M1306">
+          <extent>
+              <charseq START="1295" END="1326">,&quot; a trio of anti-religionists (</charseq>
+          </extent>
+          <head>
+              <charseq START="1300" END="1303">trio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E16-M1319">
+          <extent>
+              <charseq START="1421" END="1425">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1421" END="1425">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E17" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E17-M1409">
+          <extent>
+              <charseq START="1586" END="1588">God</charseq>
+          </extent>
+          <head>
+              <charseq START="1586" END="1588">God</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E17-M2305">
+          <extent>
+              <charseq START="2933" END="2935">God</charseq>
+          </extent>
+          <head>
+              <charseq START="2933" END="2935">God</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="God">
+              <charseq START="1586" END="1588">God</charseq>
+          </name>
+          <name NAME="God">
+              <charseq START="2933" END="2935">God</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E18-M1422">
+          <extent>
+              <charseq START="1723" END="1728">Muslim</charseq>
+          </extent>
+          <head>
+              <charseq START="1723" END="1728">Muslim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E18-M1403">
+          <extent>
+              <charseq START="1504" END="1516">these writers</charseq>
+          </extent>
+          <head>
+              <charseq START="1510" END="1516">writers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E18-M1408">
+          <extent>
+              <charseq START="1567" END="1571">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1567" END="1571">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E18-M1411">
+          <extent>
+              <charseq START="1608" END="1611">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1608" END="1611">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E18-M2814">
+          <extent>
+              <charseq START="3799" END="3804">Muslim</charseq>
+          </extent>
+          <head>
+              <charseq START="3799" END="3804">Muslim</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muslim">
+              <charseq START="1723" END="1728">Muslim</charseq>
+          </name>
+          <name NAME="Muslim">
+              <charseq START="3799" END="3804">Muslim</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E19-M1423">
+          <extent>
+              <charseq START="1731" END="1739">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="1731" END="1739">Christian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E19-M1610">
+          <extent>
+              <charseq START="2033" END="2041">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="2033" END="2041">Christian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E19-M2813">
+          <extent>
+              <charseq START="3776" END="3784">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="3776" END="3784">Christian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E19-M3003">
+          <extent>
+              <charseq START="3973" END="3981">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="3973" END="3981">Christian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E19-M3001">
+          <extent>
+              <charseq START="3971" END="4004">a Christian writer who appreciated</charseq>
+          </extent>
+          <head>
+              <charseq START="3983" END="3988">writer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E19-M3004">
+          <extent>
+              <charseq START="3990" END="3992">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3990" END="3992">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E20-M1424">
+          <extent>
+              <charseq START="1745" END="1750">Jewish</charseq>
+          </extent>
+          <head>
+              <charseq START="1745" END="1750">Jewish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E20-M2812">
+          <extent>
+              <charseq START="3758" END="3763">Jewish</charseq>
+          </extent>
+          <head>
+              <charseq START="3758" END="3763">Jewish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jewish">
+              <charseq START="1745" END="1750">Jewish</charseq>
+          </name>
+          <name NAME="Jewish">
+              <charseq START="3758" END="3763">Jewish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E21-M1413">
+          <extent>
+              <charseq START="1631" END="1766">all people of faith by focusing on
+the intolerant and sometimes violent message promoted by Muslim,
+Christian and Jewish fundamentalists</charseq>
+          </extent>
+          <head>
+              <charseq START="1635" END="1640">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E22-M1420">
+          <extent>
+              <charseq START="1723" END="1766">Muslim,
+Christian and Jewish fundamentalists</charseq>
+          </extent>
+          <head>
+              <charseq START="1752" END="1766">fundamentalists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E22-M1600">
+          <extent>
+              <charseq START="1914" END="1942">all religious fundamentalists</charseq>
+          </extent>
+          <head>
+              <charseq START="1928" END="1942">fundamentalists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E22-M1609">
+          <extent>
+              <charseq START="2033" END="2057">Christian fundamentalists</charseq>
+          </extent>
+          <head>
+              <charseq START="2043" END="2057">fundamentalists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E22-M1604">
+          <extent>
+              <charseq START="1989" END="1992">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1989" END="1992">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E22-M1611">
+          <extent>
+              <charseq START="2060" END="2063">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2060" END="2063">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E23-M1802">
+          <extent>
+              <charseq START="2296" END="2314">critics of religion</charseq>
+          </extent>
+          <head>
+              <charseq START="2296" END="2302">critics</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E24-M2005">
+          <extent>
+              <charseq START="2490" END="2509">the Osama
+bin Ladens</charseq>
+          </extent>
+          <head>
+              <charseq START="2494" END="2509">Osama
+bin Ladens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Osama
+bin Ladens">
+              <charseq START="2494" END="2509">Osama
+bin Ladens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E25-M2007">
+          <extent>
+              <charseq START="2515" END="2528">Jerry Falwells</charseq>
+          </extent>
+          <head>
+              <charseq START="2515" END="2528">Jerry Falwells</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jerry Falwells">
+              <charseq START="2515" END="2528">Jerry Falwells</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E26-M2105" ROLE="GPE">
+          <extent>
+              <charseq START="2586" END="2596">Christendom</charseq>
+          </extent>
+          <head>
+              <charseq START="2586" END="2596">Christendom</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Christendom">
+              <charseq START="2586" END="2596">Christendom</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E27-M2215">
+          <extent>
+              <charseq START="2823" END="2839">the Enlightenment</charseq>
+          </extent>
+          <head>
+              <charseq START="2827" END="2839">Enlightenment</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Enlightenment">
+              <charseq START="2827" END="2839">Enlightenment</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E28-M2208">
+          <extent>
+              <charseq START="2739" END="2869">modern theologians
+sought to rationalize the divine in the wake of the Reformation,
+the Enlightenment and the scientific revolution</charseq>
+          </extent>
+          <head>
+              <charseq START="2746" END="2756">theologians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E28-M2211">
+          <extent>
+              <charseq START="2780" END="2789">the divine</charseq>
+          </extent>
+          <head>
+              <charseq START="2784" END="2789">divine</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E29-M2311">
+          <extent>
+              <charseq START="3002" END="3013">the
+Almighty</charseq>
+          </extent>
+          <head>
+              <charseq START="3006" END="3013">Almighty</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Almighty">
+              <charseq START="3006" END="3013">Almighty</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E30-M2300">
+          <extent>
+              <charseq START="2881" END="2936">Philosophers who mistakenly predicted &quot;the death of God&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2881" END="2892">Philosophers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E30-M2302">
+          <extent>
+              <charseq START="2894" END="2896">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2894" END="2896">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E30-M2307">
+          <extent>
+              <charseq START="2976" END="2979">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2976" END="2979">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E32" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E32-M2811" ROLE="LOC">
+          <extent>
+              <charseq START="3740" END="3744">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="3740" END="3744">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greek">
+              <charseq START="3740" END="3744">Greek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E33-M2908" ROLE="GPE">
+          <extent>
+              <charseq START="3856" END="3861">Syrian</charseq>
+          </extent>
+          <head>
+              <charseq START="3856" END="3861">Syrian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Syrian">
+              <charseq START="3856" END="3861">Syrian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E34-M2910">
+          <extent>
+              <charseq START="3879" END="3917">the
+pseudonym Dionysius the Areopagite,</charseq>
+          </extent>
+          <head>
+              <charseq START="3893" END="3916">Dionysius the Areopagite</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E34-M2912">
+          <extent>
+              <charseq START="3883" END="3891">pseudonym</charseq>
+          </extent>
+          <head>
+              <charseq START="3883" END="3891">pseudonym</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E34-M3101">
+          <extent>
+              <charseq START="4145" END="4160">Pseudo-Dionysius</charseq>
+          </extent>
+          <head>
+              <charseq START="4145" END="4160">Pseudo-Dionysius</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dionysius the Areopagite">
+              <charseq START="3893" END="3916">Dionysius the Areopagite</charseq>
+          </name>
+          <name NAME="Pseudo-Dionysius">
+              <charseq START="4145" END="4160">Pseudo-Dionysius</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E35-M2914">
+          <extent>
+              <charseq START="3927" END="3934">St. Paul</charseq>
+          </extent>
+          <head>
+              <charseq START="3927" END="3934">St. Paul</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="St. Paul">
+              <charseq START="3927" END="3934">St. Paul</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091016.0091-E36-M2915">
+          <extent>
+              <charseq START="3938" END="3951">first
+Athenian</charseq>
+          </extent>
+          <head>
+              <charseq START="3944" END="3951">Athenian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Athenian">
+              <charseq START="3944" END="3951">Athenian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E37-M2904">
+          <extent>
+              <charseq START="3840" END="3877">a sixth century Syrian mystic who used</charseq>
+          </extent>
+          <head>
+              <charseq START="3863" END="3868">mystic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091016.0091-E37-M2909">
+          <extent>
+              <charseq START="3870" END="3872">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3870" END="3872">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091016.0091-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E38-M3306">
+          <extent>
+              <charseq START="4570" END="4687">people of faith -- and people of no faith -- to follow a
+middle path between mindless fundamentalism and rigid atheism</charseq>
+          </extent>
+          <head>
+              <charseq START="4570" END="4575">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091016.0091-E38-M3310">
+          <extent>
+              <charseq START="4593" END="4687">people of no faith -- to follow a
+middle path between mindless fundamentalism and rigid atheism</charseq>
+          </extent>
+          <head>
+              <charseq START="4593" END="4598">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <value ID="NYT_ENG_20091016.0091-V0" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20091016.0091-V0-M1">
+            <extent>
+              <charseq START="144" END="149">$27.95</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20091016.0091-T1" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20091016.0091-T1-M1">
+            <extent>
+              <charseq START="224" END="227">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091016.0091-T2" VAL="1993">
+        <timex2_mention ID="NYT_ENG_20091016.0091-T2-M1">
+            <extent>
+              <charseq START="947" END="950">1993</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091016.0091-T3" VAL="PAST_REF" ANCHOR_VAL="2009-10-16" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20091016.0091-T3-M1">
+            <extent>
+              <charseq START="2126" END="2131">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091016.0091-T4" VAL="PRESENT_REF" ANCHOR_VAL="2009-10-16" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20091016.0091-T4-M1">
+            <extent>
+              <charseq START="2739" END="2744">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091016.0091-T5" VAL="X5">
+        <timex2_mention ID="NYT_ENG_20091016.0091-T5-M1">
+            <extent>
+              <charseq START="3840" END="3854">a sixth century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20091016.0091-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091016.0091-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091016.0091-E5" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091016.0091-R0-M600">
+          <extent>
+              <charseq START="441" END="467">the prolific British author</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091016.0091-E6-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="441" END="467">the prolific British author</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091016.0091-E5-M603" ROLE="Arg-2">
+            <extent>
+              <charseq START="454" END="460">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091016.0091-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091016.0091-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091016.0091-E12" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091016.0091-R1-M2000">
+          <extent>
+              <charseq START="2490" END="2509">the Osama
+bin Ladens</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091016.0091-E24-M2005" ROLE="Arg-1">
+            <extent>
+              <charseq START="2490" END="2509">the Osama
+bin Ladens</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091016.0091-E12-M2008" ROLE="Arg-2">
+            <extent>
+              <charseq START="2533" END="2541">the world</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091016.0091-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091016.0091-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091016.0091-E12" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091016.0091-R2-M2001">
+          <extent>
+              <charseq START="2515" END="2528">Jerry Falwells</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091016.0091-E25-M2007" ROLE="Arg-1">
+            <extent>
+              <charseq START="2515" END="2528">Jerry Falwells</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091016.0091-E12-M2008" ROLE="Arg-2">
+            <extent>
+              <charseq START="2533" END="2541">the world</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091016.0091-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091016.0091-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091016.0091-E33" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091016.0091-R3-M2900">
+          <extent>
+              <charseq START="3840" END="3877">a sixth century Syrian mystic who used</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091016.0091-E37-M2904" ROLE="Arg-1">
+            <extent>
+              <charseq START="3840" END="3877">a sixth century Syrian mystic who used</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091016.0091-E33-M2908" ROLE="Arg-2">
+            <extent>
+              <charseq START="3856" END="3861">Syrian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

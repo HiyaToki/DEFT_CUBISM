@@ -1,0 +1,1856 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20091103.0182">
+  <document DOCID="NYT_ENG_20091103.0182">
+
+    <entity ID="NYT_ENG_20091103.0182-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E0-M0">
+          <extent>
+              <charseq START="58" END="71">MR. OCTOBER II</charseq>
+          </extent>
+          <head>
+              <charseq START="62" END="71">OCTOBER II</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E0-M1">
+          <extent>
+              <charseq START="58" END="60">MR.</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="60">MR.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E0-M704">
+          <extent>
+              <charseq START="581" END="591">Mr.
+October</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="591">October</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E0-M705">
+          <extent>
+              <charseq START="581" END="583">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="581" END="583">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="OCTOBER II">
+              <charseq START="62" END="71">OCTOBER II</charseq>
+          </name>
+          <name NAME="October">
+              <charseq START="585" END="591">October</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E1-M100">
+          <extent>
+              <charseq START="96" END="117">Times Sports Columnist</charseq>
+          </extent>
+          <head>
+              <charseq START="109" END="117">Columnist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E1-M201">
+          <extent>
+              <charseq START="152" END="153">he</charseq>
+          </extent>
+          <head>
+              <charseq START="152" END="153">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E1-M208">
+          <extent>
+              <charseq START="228" END="230">him</charseq>
+          </extent>
+          <head>
+              <charseq START="228" END="230">him</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E2-M203">
+          <extent>
+              <charseq START="170" END="196">the game&apos;s greatest
+players</charseq>
+          </extent>
+          <head>
+              <charseq START="190" END="196">players</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E2-M207">
+          <extent>
+              <charseq START="209" END="213">their</charseq>
+          </extent>
+          <head>
+              <charseq START="209" END="213">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E2-M2300">
+          <extent>
+              <charseq START="2289" END="2304">That
+generations</charseq>
+          </extent>
+          <head>
+              <charseq START="2294" END="2304">generations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E3-M301">
+          <extent>
+              <charseq START="234" END="247">Hall of Famers</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="247">Hall of Famers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hall of Famers">
+              <charseq START="234" END="247">Hall of Famers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E4-M302">
+          <extent>
+              <charseq START="253" END="260">sluggers</charseq>
+          </extent>
+          <head>
+              <charseq START="253" END="260">sluggers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E5-M403">
+          <extent>
+              <charseq START="282" END="290">All-Stars</charseq>
+          </extent>
+          <head>
+              <charseq START="282" END="290">All-Stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="All-Stars">
+              <charseq START="282" END="290">All-Stars</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E6-M500">
+          <extent>
+              <charseq START="298" END="312">Willie Stargell</charseq>
+          </extent>
+          <head>
+              <charseq START="298" END="312">Willie Stargell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Willie Stargell">
+              <charseq START="298" END="312">Willie Stargell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E7-M501">
+          <extent>
+              <charseq START="317" END="327">Barry Bonds</charseq>
+          </extent>
+          <head>
+              <charseq START="317" END="327">Barry Bonds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E7-M3400">
+          <extent>
+              <charseq START="2926" END="2930">Bonds</charseq>
+          </extent>
+          <head>
+              <charseq START="2926" END="2930">Bonds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E7-M3500">
+          <extent>
+              <charseq START="2968" END="2972">Bonds</charseq>
+          </extent>
+          <head>
+              <charseq START="2968" END="2972">Bonds</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barry Bonds">
+              <charseq START="317" END="327">Barry Bonds</charseq>
+          </name>
+          <name NAME="Bonds">
+              <charseq START="2926" END="2930">Bonds</charseq>
+          </name>
+          <name NAME="Bonds">
+              <charseq START="2968" END="2972">Bonds</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E8-M502">
+          <extent>
+              <charseq START="339" END="350">Mike Schmidt</charseq>
+          </extent>
+          <head>
+              <charseq START="339" END="350">Mike Schmidt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E8-M3100">
+          <extent>
+              <charseq START="2796" END="2802">Schmidt</charseq>
+          </extent>
+          <head>
+              <charseq START="2796" END="2802">Schmidt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E8-M3200">
+          <extent>
+              <charseq START="2824" END="2825">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2824" END="2825">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E8-M3300">
+          <extent>
+              <charseq START="2859" END="2860">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2859" END="2860">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mike Schmidt">
+              <charseq START="339" END="350">Mike Schmidt</charseq>
+          </name>
+          <name NAME="Schmidt">
+              <charseq START="2796" END="2802">Schmidt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E9-M503">
+          <extent>
+              <charseq START="355" END="366">Mark McGwire</charseq>
+          </extent>
+          <head>
+              <charseq START="355" END="366">Mark McGwire</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E9-M2800">
+          <extent>
+              <charseq START="2638" END="2644">McGwire</charseq>
+          </extent>
+          <head>
+              <charseq START="2638" END="2644">McGwire</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E9-M2900">
+          <extent>
+              <charseq START="2666" END="2667">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2666" END="2667">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E9-M3000">
+          <extent>
+              <charseq START="2740" END="2741">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2740" END="2741">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E9-M3005">
+          <extent>
+              <charseq START="2760" END="2762">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2760" END="2762">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark McGwire">
+              <charseq START="355" END="366">Mark McGwire</charseq>
+          </name>
+          <name NAME="McGwire">
+              <charseq START="2638" END="2644">McGwire</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E10-M605" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="433" END="442">Louisville</charseq>
+          </extent>
+          <head>
+              <charseq START="433" END="442">Louisville</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M610">
+          <extent>
+              <charseq START="497" END="510">Reggie Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="497" END="510">Reggie Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M710">
+          <extent>
+              <charseq START="646" END="652">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="646" END="652">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M808">
+          <extent>
+              <charseq START="798" END="804">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="798" END="804">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M805">
+          <extent>
+              <charseq START="768" END="769">he</charseq>
+          </extent>
+          <head>
+              <charseq START="768" END="769">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M903">
+          <extent>
+              <charseq START="927" END="929">his</charseq>
+          </extent>
+          <head>
+              <charseq START="927" END="929">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M905">
+          <extent>
+              <charseq START="966" END="967">he</charseq>
+          </extent>
+          <head>
+              <charseq START="966" END="967">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M1002">
+          <extent>
+              <charseq START="1009" END="1010">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1009" END="1010">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M1110">
+          <extent>
+              <charseq START="1104" END="1106">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1104" END="1106">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M1503">
+          <extent>
+              <charseq START="1271" END="1276">Reggie</charseq>
+          </extent>
+          <head>
+              <charseq START="1271" END="1276">Reggie</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M1602">
+          <extent>
+              <charseq START="1326" END="1339">Reggie Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="1326" END="1339">Reggie Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M1800">
+          <extent>
+              <charseq START="1478" END="1484">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="1478" END="1484">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M1903">
+          <extent>
+              <charseq START="1572" END="1574">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1572" END="1574">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M2013">
+          <extent>
+              <charseq START="1854" END="1860">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="1854" END="1860">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M2104">
+          <extent>
+              <charseq START="2033" END="2035">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2033" END="2035">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M2506">
+          <extent>
+              <charseq START="2435" END="2437">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2435" END="2437">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M2605">
+          <extent>
+              <charseq START="2519" END="2520">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2519" END="2520">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M2700">
+          <extent>
+              <charseq START="2574" END="2575">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2574" END="2575">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M3403">
+          <extent>
+              <charseq START="2953" END="2959">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="2953" END="2959">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M3504">
+          <extent>
+              <charseq START="3026" END="3028">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3026" END="3028">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M3904">
+          <extent>
+              <charseq START="3279" END="3281">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3279" END="3281">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M3906">
+          <extent>
+              <charseq START="3291" END="3292">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3291" END="3292">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M4800">
+          <extent>
+              <charseq START="3908" END="3914">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="3908" END="3914">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M4803">
+          <extent>
+              <charseq START="3937" END="3939">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3937" END="3939">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M5001">
+          <extent>
+              <charseq START="4101" END="4107">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4101" END="4107">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M5002">
+          <extent>
+              <charseq START="4110" END="4111">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4110" END="4111">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M5410">
+          <extent>
+              <charseq START="4425" END="4431">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4425" END="4431">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M5604">
+          <extent>
+              <charseq START="4560" END="4562">him</charseq>
+          </extent>
+          <head>
+              <charseq START="4560" END="4562">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M5607">
+          <extent>
+              <charseq START="4598" END="4599">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4598" END="4599">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M5701">
+          <extent>
+              <charseq START="4626" END="4627">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4626" END="4627">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M5804">
+          <extent>
+              <charseq START="4749" END="4755">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4749" END="4755">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M5800">
+          <extent>
+              <charseq START="4721" END="4722">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4721" END="4722">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M5805">
+          <extent>
+              <charseq START="4762" END="4763">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4762" END="4763">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M6000">
+          <extent>
+              <charseq START="4878" END="4884">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4878" END="4884">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M6303">
+          <extent>
+              <charseq START="4993" END="4999">Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="4993" END="4999">Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E11-M6300">
+          <extent>
+              <charseq START="4971" END="4972">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4971" END="4972">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E11-M6611">
+          <extent>
+              <charseq START="5153" END="5166">Reggie Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="5153" END="5166">Reggie Jackson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reggie Jackson">
+              <charseq START="497" END="510">Reggie Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="646" END="652">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="798" END="804">Jackson</charseq>
+          </name>
+          <name NAME="Reggie">
+              <charseq START="1271" END="1276">Reggie</charseq>
+          </name>
+          <name NAME="Reggie Jackson">
+              <charseq START="1326" END="1339">Reggie Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="1478" END="1484">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="1854" END="1860">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="2953" END="2959">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="3908" END="3914">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="4101" END="4107">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="4425" END="4431">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="4749" END="4755">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="4878" END="4884">Jackson</charseq>
+          </name>
+          <name NAME="Jackson">
+              <charseq START="4993" END="4999">Jackson</charseq>
+          </name>
+          <name NAME="Reggie Jackson">
+              <charseq START="5153" END="5166">Reggie Jackson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E12-M604">
+          <extent>
+              <charseq START="431" END="450">a Louisville Slugger</charseq>
+          </extent>
+          <head>
+              <charseq START="444" END="450">Slugger</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E12-M5904">
+          <extent>
+              <charseq START="4852" END="4868">a typical slugger</charseq>
+          </extent>
+          <head>
+              <charseq START="4862" END="4868">slugger</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M701">
+          <extent>
+              <charseq START="556" END="566">Chase Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="556" END="566">Chase Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M1108">
+          <extent>
+              <charseq START="1089" END="1093">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="1089" END="1093">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M1502">
+          <extent>
+              <charseq START="1246" END="1250">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="1246" END="1250">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M1700">
+          <extent>
+              <charseq START="1406" END="1416">Chase Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="1406" END="1416">Chase Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M1900">
+          <extent>
+              <charseq START="1558" END="1562">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="1558" END="1562">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M2100">
+          <extent>
+              <charseq START="1978" END="1982">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="1978" END="1982">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M2400">
+          <extent>
+              <charseq START="2373" END="2383">Chase Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="2373" END="2383">Chase Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E13-M2401">
+          <extent>
+              <charseq START="2388" END="2404">a terrific hitter</charseq>
+          </extent>
+          <head>
+              <charseq START="2399" END="2404">hitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M3607">
+          <extent>
+              <charseq START="3098" END="3102">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="3098" END="3102">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M3806">
+          <extent>
+              <charseq START="3198" END="3202">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="3198" END="3202">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M4403">
+          <extent>
+              <charseq START="3679" END="3683">Chase</charseq>
+          </extent>
+          <head>
+              <charseq START="3679" END="3683">Chase</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M4500">
+          <extent>
+              <charseq START="3737" END="3741">Chase</charseq>
+          </extent>
+          <head>
+              <charseq START="3737" END="3741">Chase</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M4701">
+          <extent>
+              <charseq START="3853" END="3857">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="3853" END="3857">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M4900">
+          <extent>
+              <charseq START="3961" END="3965">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="3961" END="3965">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M5809">
+          <extent>
+              <charseq START="4799" END="4803">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="4799" END="4803">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M6100">
+          <extent>
+              <charseq START="4909" END="4913">Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="4909" END="4913">Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E13-M6700">
+          <extent>
+              <charseq START="5184" END="5194">Chase Utley</charseq>
+          </extent>
+          <head>
+              <charseq START="5184" END="5194">Chase Utley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chase Utley">
+              <charseq START="556" END="566">Chase Utley</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="1089" END="1093">Utley</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="1246" END="1250">Utley</charseq>
+          </name>
+          <name NAME="Chase Utley">
+              <charseq START="1406" END="1416">Chase Utley</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="1558" END="1562">Utley</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="1978" END="1982">Utley</charseq>
+          </name>
+          <name NAME="Chase Utley">
+              <charseq START="2373" END="2383">Chase Utley</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="3098" END="3102">Utley</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="3198" END="3202">Utley</charseq>
+          </name>
+          <name NAME="Chase">
+              <charseq START="3679" END="3683">Chase</charseq>
+          </name>
+          <name NAME="Chase">
+              <charseq START="3737" END="3741">Chase</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="3853" END="3857">Utley</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="3961" END="3965">Utley</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="4799" END="4803">Utley</charseq>
+          </name>
+          <name NAME="Utley">
+              <charseq START="4909" END="4913">Utley</charseq>
+          </name>
+          <name NAME="Chase Utley">
+              <charseq START="5184" END="5194">Chase Utley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E14" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E14-M714">
+          <extent>
+              <charseq START="686" END="692">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="686" END="692">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E14-M816">
+          <extent>
+              <charseq START="856" END="862">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="856" END="862">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E14-M3202">
+          <extent>
+              <charseq START="2831" END="2840">the
+league</charseq>
+          </extent>
+          <head>
+              <charseq START="2835" END="2840">league</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E14-M3602">
+          <extent>
+              <charseq START="3064" END="3074">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="3068" END="3074">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E14-M5102">
+          <extent>
+              <charseq START="4158" END="4168">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="4162" END="4168">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E14-M5117">
+          <extent>
+              <charseq START="4290" END="4297">the team</charseq>
+          </extent>
+          <head>
+              <charseq START="4294" END="4297">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E14-M6903">
+          <extent>
+              <charseq START="5289" END="5295">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="5289" END="5295">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yankees">
+              <charseq START="686" END="692">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="856" END="862">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="3068" END="3074">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="4162" END="4168">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="5289" END="5295">Yankees</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E15-M707">
+          <extent>
+              <charseq START="605" END="613">five home</charseq>
+          </extent>
+          <head>
+              <charseq START="610" END="613">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E15-M2702">
+          <extent>
+              <charseq START="2581" END="2589">five home</charseq>
+          </extent>
+          <head>
+              <charseq START="2586" END="2589">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E15-M2902">
+          <extent>
+              <charseq START="2673" END="2733">home runs at a more ferocious
+pace than any player in history</charseq>
+          </extent>
+          <head>
+              <charseq START="2673" END="2676">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E15-M6602">
+          <extent>
+              <charseq START="5089" END="5117">home runs in the World Series</charseq>
+          </extent>
+          <head>
+              <charseq START="5089" END="5092">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E16-M713">
+          <extent>
+              <charseq START="682" END="725">the Yankees clubhouse consoling
+someone else</charseq>
+          </extent>
+          <head>
+              <charseq START="714" END="720">someone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E17-M804">
+          <extent>
+              <charseq START="753" END="759">Burnett</charseq>
+          </extent>
+          <head>
+              <charseq START="753" END="759">Burnett</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Burnett">
+              <charseq START="753" END="759">Burnett</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E18-M814">
+          <extent>
+              <charseq START="852" END="887">the Yankees clubhouse on the off day</charseq>
+          </extent>
+          <head>
+              <charseq START="864" END="872">clubhouse</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E20-M1109">
+          <extent>
+              <charseq START="1104" END="1121">his fifth home run</charseq>
+          </extent>
+          <head>
+              <charseq START="1114" END="1117">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E20-M2602">
+          <extent>
+              <charseq START="2471" END="2491">the greatest home run</charseq>
+          </extent>
+          <head>
+              <charseq START="2484" END="2487">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E21-M1403">
+          <extent>
+              <charseq START="1230" END="1232">men</charseq>
+          </extent>
+          <head>
+              <charseq START="1230" END="1232">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E22-M1806" ROLE="LOC">
+          <extent>
+              <charseq START="1548" END="1555">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="1548" END="1555">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E22-M2017">
+          <extent>
+              <charseq START="1891" END="1898">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="1891" END="1898">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York">
+              <charseq START="1548" END="1555">New York</charseq>
+          </name>
+          <name NAME="New York">
+              <charseq START="1891" END="1898">New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E23-M1901">
+          <extent>
+              <charseq START="1572" END="1699">his father saying it was
+unnecessary to tell the world how good you are because, if you
+really were, others would say it for you</charseq>
+          </extent>
+          <head>
+              <charseq START="1576" END="1581">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E23-M2004">
+          <extent>
+              <charseq START="1724" END="1725">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1724" END="1725">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E24" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E24-M1906">
+          <extent>
+              <charseq START="1617" END="1625">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1621" END="1625">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E25-M1912">
+          <extent>
+              <charseq START="1673" END="1678">others</charseq>
+          </extent>
+          <head>
+              <charseq START="1673" END="1678">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E27-M2009">
+          <extent>
+              <charseq START="1810" END="1816">Dodgers</charseq>
+          </extent>
+          <head>
+              <charseq START="1810" END="1816">Dodgers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dodgers">
+              <charseq START="1810" END="1816">Dodgers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E28-M2015">
+          <extent>
+              <charseq START="1886" END="1949">then-New York Gov.
+Hugh Carey at a Manhattan bar until 5 o&apos;clock</charseq>
+          </extent>
+          <head>
+              <charseq START="1905" END="1914">Hugh Carey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E28-M2018">
+          <extent>
+              <charseq START="1900" END="1903">Gov.</charseq>
+          </extent>
+          <head>
+              <charseq START="1900" END="1903">Gov.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hugh Carey">
+              <charseq START="1905" END="1914">Hugh Carey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E29-M2022" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1921" END="1929">Manhattan</charseq>
+          </extent>
+          <head>
+              <charseq START="1921" END="1929">Manhattan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E30" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E30-M2006">
+          <extent>
+              <charseq START="1770" END="1791">three
+consecutive home</charseq>
+          </extent>
+          <head>
+              <charseq START="1788" END="1791">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E31" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E31-M2020">
+          <extent>
+              <charseq START="1919" END="1949">a Manhattan bar until 5 o&apos;clock</charseq>
+          </extent>
+          <head>
+              <charseq START="1931" END="1933">bar</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E32-M2101">
+          <extent>
+              <charseq START="1998" END="2011">Yankee Stadium</charseq>
+          </extent>
+          <head>
+              <charseq START="1998" END="2011">Yankee Stadium</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yankee Stadium">
+              <charseq START="1998" END="2011">Yankee Stadium</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E33-M2109" ROLE="LOC">
+          <extent>
+              <charseq START="2107" END="2118">Philadelphia</charseq>
+          </extent>
+          <head>
+              <charseq START="2107" END="2118">Philadelphia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Philadelphia">
+              <charseq START="2107" END="2118">Philadelphia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E34-M2112">
+          <extent>
+              <charseq START="2154" END="2181">Pennsylvania Gov.
+Ed Rendell</charseq>
+          </extent>
+          <head>
+              <charseq START="2172" END="2181">Ed Rendell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E34-M2114">
+          <extent>
+              <charseq START="2167" END="2170">Gov.</charseq>
+          </extent>
+          <head>
+              <charseq START="2167" END="2170">Gov.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ed Rendell">
+              <charseq START="2172" END="2181">Ed Rendell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E35-M2113" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2154" END="2165">Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="2154" END="2165">Pennsylvania</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E36-M2906">
+          <extent>
+              <charseq START="2713" END="2733">any player in history</charseq>
+          </extent>
+          <head>
+              <charseq START="2717" END="2722">player</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E37-M3803" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="3148" END="3159">Philadelphia</charseq>
+          </extent>
+          <head>
+              <charseq START="3148" END="3159">Philadelphia</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E38" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E38-M3807">
+          <extent>
+              <charseq START="3208" END="3216">four home</charseq>
+          </extent>
+          <head>
+              <charseq START="3213" END="3216">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E39-M3910">
+          <extent>
+              <charseq START="3315" END="3345">Phillies manager Charlie Manuel</charseq>
+          </extent>
+          <head>
+              <charseq START="3332" END="3345">Charlie Manuel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E39-M3912">
+          <extent>
+              <charseq START="3324" END="3330">manager</charseq>
+          </extent>
+          <head>
+              <charseq START="3324" END="3330">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E39-M4000">
+          <extent>
+              <charseq START="3371" END="3372">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3371" END="3372">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E39-M4009">
+          <extent>
+              <charseq START="3434" END="3435">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3434" END="3435">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charlie Manuel">
+              <charseq START="3332" END="3345">Charlie Manuel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E40" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E40-M3911">
+          <extent>
+              <charseq START="3315" END="3322">Phillies</charseq>
+          </extent>
+          <head>
+              <charseq START="3315" END="3322">Phillies</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Phillies">
+              <charseq START="3315" END="3322">Phillies</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E41-M4103">
+          <extent>
+              <charseq START="3538" END="3550">Kirby Puckett</charseq>
+          </extent>
+          <head>
+              <charseq START="3538" END="3550">Kirby Puckett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E41-M4104">
+          <extent>
+              <charseq START="3556" END="3573">my favorite player</charseq>
+          </extent>
+          <head>
+              <charseq START="3568" END="3573">player</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E41-M4305">
+          <extent>
+              <charseq START="3629" END="3641">Kirby Puckett</charseq>
+          </extent>
+          <head>
+              <charseq START="3629" END="3641">Kirby Puckett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E41-M4402">
+          <extent>
+              <charseq START="3659" END="3663">Kirby</charseq>
+          </extent>
+          <head>
+              <charseq START="3659" END="3663">Kirby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E41-M4404">
+          <extent>
+              <charseq START="3689" END="3690">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3689" END="3690">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E41-M4406">
+          <extent>
+              <charseq START="3720" END="3721">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3720" END="3721">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E41-M4602">
+          <extent>
+              <charseq START="3770" END="3771">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3770" END="3771">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E41-M4604">
+          <extent>
+              <charseq START="3785" END="3786">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3785" END="3786">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E41-M4607">
+          <extent>
+              <charseq START="3799" END="3801">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3799" END="3801">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E41-M6302">
+          <extent>
+              <charseq START="4976" END="4989">a great player</charseq>
+          </extent>
+          <head>
+              <charseq START="4984" END="4989">player</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kirby Puckett">
+              <charseq START="3538" END="3550">Kirby Puckett</charseq>
+          </name>
+          <name NAME="Kirby Puckett">
+              <charseq START="3629" END="3641">Kirby Puckett</charseq>
+          </name>
+          <name NAME="Kirby">
+              <charseq START="3659" END="3663">Kirby</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E42-M5100">
+          <extent>
+              <charseq START="4131" END="4168">Now a
+special adviser with the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="4145" END="4151">adviser</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E42-M5104">
+          <extent>
+              <charseq START="4171" END="4172">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4171" END="4172">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E42-M5119">
+          <extent>
+              <charseq START="4304" END="4306">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4304" END="4306">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E42-M5402">
+          <extent>
+              <charseq START="4370" END="4371">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4370" END="4371">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20091103.0182-E43-M5901">
+          <extent>
+              <charseq START="4816" END="4834">left-handed hitters</charseq>
+          </extent>
+          <head>
+              <charseq START="4828" END="4834">hitters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E44" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20091103.0182-E44-M6607">
+          <extent>
+              <charseq START="5136" END="5166">anyone as big as Reggie Jackson</charseq>
+          </extent>
+          <head>
+              <charseq START="5136" END="5141">anyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20091103.0182-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20091103.0182-E45-M6800">
+          <extent>
+              <charseq START="5217" END="5227">John Romano</charseq>
+          </extent>
+          <head>
+              <charseq START="5217" END="5227">John Romano</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Romano">
+              <charseq START="5217" END="5227">John Romano</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T0" VAL="P30Y" MOD="MORE_THAN">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T0-M1">
+            <extent>
+              <charseq START="132" END="149">more than 30 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T1" SET="YES">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T1-M1">
+            <extent>
+              <charseq START="369" END="378">Every year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T2" VAL="2009-11-03TAF" MOD="END">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T2-M1">
+            <extent>
+              <charseq START="811" END="832">late Tuesday afternoon</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T3" VAL="P1D">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T3-M1">
+            <extent>
+              <charseq START="877" END="901">the off day before Game 6</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T4" VAL="PRESENT_REF" ANCHOR_VAL="2009-11-03" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T4-M1">
+            <extent>
+              <charseq START="1202" END="1204">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T5" VAL="PAST_REF" ANCHOR_VAL="2009-11-03" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T5-M1">
+            <extent>
+              <charseq START="1486" END="1489">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T6" VAL="2009-11-03TNI">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T6-M1">
+            <extent>
+              <charseq START="1714" END="1722">the night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T7" VAL="1977">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T7-M1">
+            <extent>
+              <charseq START="1835" END="1838">1977</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T8" VAL="2009-11-04T05:00">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T8-M1">
+            <extent>
+              <charseq START="1941" END="1966">5 o&apos;clock the next morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T9" VAL="2009-11-03">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T9-M1">
+            <extent>
+              <charseq START="2016" END="2022">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T10" VAL="2009-11-02TNI">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T10-M1">
+            <extent>
+              <charseq START="2089" END="2102">5 Monday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T11">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T11-M1">
+            <extent>
+              <charseq START="2435" END="2441">his era</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T12">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T12-M1">
+            <extent>
+              <charseq START="2507" END="2516">postseason</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T13" VAL="PAST_REF" ANCHOR_VAL="2009-11-03" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T13-M1">
+            <extent>
+              <charseq START="2565" END="2568">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T14">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T14-M1">
+            <extent>
+              <charseq START="2616" END="2626">this season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T15">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T15-M1">
+            <extent>
+              <charseq START="2842" END="2852">eight times</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T16">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T16-M1">
+            <extent>
+              <charseq START="3033" END="3035">&apos;02</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T17" VAL="PRESENT_REF" ANCHOR_VAL="2009-11-03" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T17-M1">
+            <extent>
+              <charseq START="3126" END="3128">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T18">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T18-M1">
+            <extent>
+              <charseq START="3983" END="3999">the end of Game 5</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T19" VAL="2009-11-03TNI">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T19-M1">
+            <extent>
+              <charseq START="4027" END="4033">tonight</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T20" VAL="2009-11-03">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T20-M1">
+            <extent>
+              <charseq START="4228" END="4234">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20091103.0182-V21" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20091103.0182-V21-M1">
+            <extent>
+              <charseq START="5247" END="5263">romanosptimes.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20091103.0182-T22" VAL="2009-11-03T19:57">
+        <timex2_mention ID="NYT_ENG_20091103.0182-T22-M1">
+            <extent>
+              <charseq START="5314" END="5325">7:57 tonight</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20091103.0182-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091103.0182-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091103.0182-E10" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091103.0182-R0-M600">
+          <extent>
+              <charseq START="431" END="450">a Louisville Slugger</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E12-M604" ROLE="Arg-1">
+            <extent>
+              <charseq START="431" END="450">a Louisville Slugger</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E10-M605" ROLE="Arg-2">
+            <extent>
+              <charseq START="433" END="442">Louisville</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091103.0182-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091103.0182-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091103.0182-E18" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091103.0182-R1-M800">
+          <extent>
+              <charseq START="856" END="862">Yankees</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E14-M816" ROLE="Arg-1">
+            <extent>
+              <charseq START="856" END="862">Yankees</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E18-M814" ROLE="Arg-2">
+            <extent>
+              <charseq START="852" END="887">the Yankees clubhouse on the off day</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091103.0182-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091103.0182-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091103.0182-E20" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091103.0182-R2-M1100">
+          <extent>
+              <charseq START="1104" END="1106">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E11-M1110" ROLE="Arg-1">
+            <extent>
+              <charseq START="1104" END="1106">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E20-M1109" ROLE="Arg-2">
+            <extent>
+              <charseq START="1104" END="1121">his fifth home run</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091103.0182-R3" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091103.0182-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091103.0182-E23" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091103.0182-R3-M1900">
+          <extent>
+              <charseq START="1572" END="1574">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E11-M1903" ROLE="Arg-1">
+            <extent>
+              <charseq START="1572" END="1574">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E23-M1901" ROLE="Arg-2">
+            <extent>
+              <charseq START="1572" END="1699">his father saying it was
+unnecessary to tell the world how good you are because, if you
+really were, others would say it for you</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091103.0182-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091103.0182-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091103.0182-E31" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091103.0182-R4-M2000">
+          <extent>
+              <charseq START="1886" END="1949">then-New York Gov.
+Hugh Carey at a Manhattan bar until 5 o&apos;clock</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E28-M2015" ROLE="Arg-1">
+            <extent>
+              <charseq START="1886" END="1949">then-New York Gov.
+Hugh Carey at a Manhattan bar until 5 o&apos;clock</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E31-M2020" ROLE="Arg-2">
+            <extent>
+              <charseq START="1919" END="1949">a Manhattan bar until 5 o&apos;clock</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091103.0182-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091103.0182-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091103.0182-E31" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091103.0182-R5-M2001">
+          <extent>
+              <charseq START="1921" END="1929">Manhattan</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E29-M2022" ROLE="Arg-1">
+            <extent>
+              <charseq START="1921" END="1929">Manhattan</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E31-M2020" ROLE="Arg-2">
+            <extent>
+              <charseq START="1919" END="1949">a Manhattan bar until 5 o&apos;clock</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091103.0182-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091103.0182-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091103.0182-E40" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091103.0182-R6-M3900">
+          <extent>
+              <charseq START="3324" END="3330">manager</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E39-M3912" ROLE="Arg-1">
+            <extent>
+              <charseq START="3324" END="3330">manager</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E40-M3911" ROLE="Arg-2">
+            <extent>
+              <charseq START="3315" END="3322">Phillies</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20091103.0182-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20091103.0182-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20091103.0182-E14" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20091103.0182-R7-M5100">
+          <extent>
+              <charseq START="4131" END="4168">Now a
+special adviser with the Yankees</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E42-M5100" ROLE="Arg-1">
+            <extent>
+              <charseq START="4131" END="4168">Now a
+special adviser with the Yankees</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20091103.0182-E14-M5102" ROLE="Arg-2">
+            <extent>
+              <charseq START="4158" END="4168">the Yankees</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

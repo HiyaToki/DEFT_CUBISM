@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="a9318b72c7a2ff32d459af958c7defe1.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-45" length="7" offset="61">
+        <text>My wife</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-54" length="10" offset="91">
+        <text>a car park</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-63" length="3" offset="161">
+        <text>She</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-99" length="10" offset="250">
+        <text>Our garage</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-135" length="2" offset="397">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-126" length="21" offset="368">
+        <text>the insurance company</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-156" length="3" offset="438">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-156" length="3" offset="438">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-180" length="2" offset="587">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-186" length="21" offset="636">
+        <text>the insurance company</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-192" length="3" offset="671">
+        <text>who</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="5" offset="14">malcb</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

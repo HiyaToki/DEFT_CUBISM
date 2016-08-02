@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="2d7d6761aad911a63a235a571fa7862f.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-135" length="19" offset="223">
+        <text>the major employers</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-57" length="7" offset="14">juanton</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-426" length="7" offset="428">
+        <text>parents</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-57" length="7" offset="14">juanton</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-441" length="5" offset="484">
+        <text>their</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-57" length="7" offset="14">juanton</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-117" length="11" offset="618">
+        <text>Beloit Corp</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-75" length="10" offset="519">fisticuffs</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-117" length="11" offset="618">
+        <text>Beloit Corp</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-75" length="10" offset="519">fisticuffs</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-480" length="6" offset="1147">
+        <text>people</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-75" length="10" offset="519">fisticuffs</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

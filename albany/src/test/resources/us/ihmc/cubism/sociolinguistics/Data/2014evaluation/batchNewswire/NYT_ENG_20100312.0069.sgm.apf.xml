@@ -1,0 +1,972 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100312.0069">
+  <document DOCID="NYT_ENG_20100312.0069">
+
+    <entity ID="NYT_ENG_20100312.0069-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M1" ROLE="LOC">
+          <extent>
+              <charseq START="58" END="62">INDIA</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">INDIA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M201">
+          <extent>
+              <charseq START="154" END="158">India</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="158">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M311" ROLE="GPE">
+          <extent>
+              <charseq START="384" END="389">Indian</charseq>
+          </extent>
+          <head>
+              <charseq START="384" END="389">Indian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M324">
+          <extent>
+              <charseq START="531" END="535">India</charseq>
+          </extent>
+          <head>
+              <charseq START="531" END="535">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E0-M307">
+          <extent>
+              <charseq START="370" END="373">here</charseq>
+          </extent>
+          <head>
+              <charseq START="370" END="373">here</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M407">
+          <extent>
+              <charseq START="685" END="707">an energy-starved India</charseq>
+          </extent>
+          <head>
+              <charseq START="703" END="707">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M412">
+          <extent>
+              <charseq START="748" END="752">India</charseq>
+          </extent>
+          <head>
+              <charseq START="748" END="752">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M510" ROLE="LOC">
+          <extent>
+              <charseq START="886" END="890">India</charseq>
+          </extent>
+          <head>
+              <charseq START="886" END="890">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E0-M515">
+          <extent>
+              <charseq START="945" END="947">its</charseq>
+          </extent>
+          <head>
+              <charseq START="945" END="947">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M604">
+          <extent>
+              <charseq START="1101" END="1105">India</charseq>
+          </extent>
+          <head>
+              <charseq START="1101" END="1105">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E0-M615">
+          <extent>
+              <charseq START="1231" END="1232">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1231" END="1232">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M704">
+          <extent>
+              <charseq START="1366" END="1370">India</charseq>
+          </extent>
+          <head>
+              <charseq START="1366" END="1370">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E0-M800">
+          <extent>
+              <charseq START="1408" END="1412">India</charseq>
+          </extent>
+          <head>
+              <charseq START="1408" END="1412">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E0-M804">
+          <extent>
+              <charseq START="1440" END="1442">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1440" END="1442">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E0-M815">
+          <extent>
+              <charseq START="1548" END="1550">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1548" END="1550">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="INDIA">
+              <charseq START="58" END="62">INDIA</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="154" END="158">India</charseq>
+          </name>
+          <name NAME="Indian">
+              <charseq START="384" END="389">Indian</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="531" END="535">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="703" END="707">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="748" END="752">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="886" END="890">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="1101" END="1105">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="1366" END="1370">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="1408" END="1412">India</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="68" END="73">RUSSIA</charseq>
+          </extent>
+          <head>
+              <charseq START="68" END="73">RUSSIA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E1-M202">
+          <extent>
+              <charseq START="164" END="169">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="164" END="169">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E1-M219">
+          <extent>
+              <charseq START="303" END="308">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="303" END="308">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E1-M404" ROLE="GPE">
+          <extent>
+              <charseq START="652" END="658">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="652" END="658">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E1-M410" ROLE="GPE">
+          <extent>
+              <charseq START="729" END="735">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="729" END="735">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E1-M705">
+          <extent>
+              <charseq START="1376" END="1381">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="1376" END="1381">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E1-M706">
+          <extent>
+              <charseq START="1390" END="1405">important
+allies</charseq>
+          </extent>
+          <head>
+              <charseq START="1400" END="1405">allies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E1-M805" ROLE="LOC">
+          <extent>
+              <charseq START="1457" END="1462">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="1457" END="1462">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E1-M808" ROLE="GPE">
+          <extent>
+              <charseq START="1485" END="1491">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="1485" END="1491">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E1-M1201" ROLE="GPE">
+          <extent>
+              <charseq START="1936" END="1942">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="1936" END="1942">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E1-M1200" ROLE="ORG">
+          <extent>
+              <charseq START="1932" END="1953">The Russian government</charseq>
+          </extent>
+          <head>
+              <charseq START="1944" END="1953">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="RUSSIA">
+              <charseq START="68" END="73">RUSSIA</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="164" END="169">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="303" END="308">Russia</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="652" END="658">Russian</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="729" END="735">Russian</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="1376" END="1381">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="1457" END="1462">Russia</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="1485" END="1491">Russian</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="1936" END="1942">Russian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E2-M100" ROLE="LOC">
+          <extent>
+              <charseq START="121" END="129">NEW DELHI</charseq>
+          </extent>
+          <head>
+              <charseq START="121" END="129">NEW DELHI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E2-M1012" ROLE="LOC">
+          <extent>
+              <charseq START="1815" END="1823">New Delhi</charseq>
+          </extent>
+          <head>
+              <charseq START="1815" END="1823">New Delhi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NEW DELHI">
+              <charseq START="121" END="129">NEW DELHI</charseq>
+          </name>
+          <name NAME="New Delhi">
+              <charseq START="1815" END="1823">New Delhi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E3-M214">
+          <extent>
+              <charseq START="267" END="308">Prime Minister Vladimir V. Putin of Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="282" END="298">Vladimir V. Putin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E3-M217">
+          <extent>
+              <charseq START="273" END="280">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="273" END="280">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E3-M302">
+          <extent>
+              <charseq START="320" END="324">Putin</charseq>
+          </extent>
+          <head>
+              <charseq START="320" END="324">Putin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E3-M305">
+          <extent>
+              <charseq START="358" END="359">he</charseq>
+          </extent>
+          <head>
+              <charseq START="358" END="359">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E3-M310">
+          <extent>
+              <charseq START="380" END="382">his</charseq>
+          </extent>
+          <head>
+              <charseq START="380" END="382">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E3-M600">
+          <extent>
+              <charseq START="1062" END="1098">a pioneer of the Non-Aligned Movement</charseq>
+          </extent>
+          <head>
+              <charseq START="1064" END="1070">pioneer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E3-M1000">
+          <extent>
+              <charseq START="1701" END="1705">Putin</charseq>
+          </extent>
+          <head>
+              <charseq START="1701" END="1705">Putin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E3-M1107">
+          <extent>
+              <charseq START="1906" END="1910">Putin</charseq>
+          </extent>
+          <head>
+              <charseq START="1906" END="1910">Putin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E3-M1109">
+          <extent>
+              <charseq START="1917" END="1919">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1917" END="1919">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vladimir V. Putin">
+              <charseq START="282" END="298">Vladimir V. Putin</charseq>
+          </name>
+          <name NAME="Putin">
+              <charseq START="320" END="324">Putin</charseq>
+          </name>
+          <name NAME="Putin">
+              <charseq START="1701" END="1705">Putin</charseq>
+          </name>
+          <name NAME="Putin">
+              <charseq START="1906" END="1910">Putin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E4-M312">
+          <extent>
+              <charseq START="404" END="418">Manmohan Singh,</charseq>
+          </extent>
+          <head>
+              <charseq START="404" END="417">Manmohan Singh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E4-M309">
+          <extent>
+              <charseq START="380" END="401">his
+Indian counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="391" END="401">counterpart</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Manmohan Singh">
+              <charseq START="404" END="417">Manmohan Singh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E5-M326" ROLE="LOC">
+          <extent>
+              <charseq START="565" END="581">the United
+States</charseq>
+          </extent>
+          <head>
+              <charseq START="569" END="581">United
+States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E5-M618">
+          <extent>
+              <charseq START="1243" END="1259">the
+United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1247" END="1259">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E5-M620">
+          <extent>
+              <charseq START="1262" END="1328">a country it viewed warily for ideological and
+geopolitical reasons</charseq>
+          </extent>
+          <head>
+              <charseq START="1264" END="1270">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United
+States">
+              <charseq START="569" END="581">United
+States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1247" END="1259">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E6-M317">
+          <extent>
+              <charseq START="461" END="467">nations</charseq>
+          </extent>
+          <head>
+              <charseq START="461" END="467">nations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E7" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E7-M403">
+          <extent>
+              <charseq START="630" END="679">at least a dozen more
+Russian nuclear power plants</charseq>
+          </extent>
+          <head>
+              <charseq START="674" END="679">plants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E8" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E8-M409">
+          <extent>
+              <charseq START="724" END="743">more Russian weapons</charseq>
+          </extent>
+          <head>
+              <charseq START="737" END="743">weapons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E9-M501" ROLE="LOC">
+          <extent>
+              <charseq START="775" END="787">The countries</charseq>
+          </extent>
+          <head>
+              <charseq START="779" END="787">countries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E9-M900">
+          <extent>
+              <charseq START="1583" END="1595">The countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1587" END="1595">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E10" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E10-M507">
+          <extent>
+              <charseq START="864" END="1047">two crucial areas for India, which has
+sought to send rockets into space even as its farmers, who make up
+about 70 percent of the population, struggle to coax subsistence
+from the soil</charseq>
+          </extent>
+          <head>
+              <charseq START="876" END="880">areas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E10-M511">
+          <extent>
+              <charseq START="893" END="897">which</charseq>
+          </extent>
+          <head>
+              <charseq START="893" END="897">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E10-M516">
+          <extent>
+              <charseq START="958" END="960">who</charseq>
+          </extent>
+          <head>
+              <charseq START="958" END="960">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E11" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E11-M512">
+          <extent>
+              <charseq START="918" END="924">rockets</charseq>
+          </extent>
+          <head>
+              <charseq START="918" END="924">rockets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E12-M514">
+          <extent>
+              <charseq START="945" END="955">its farmers</charseq>
+          </extent>
+          <head>
+              <charseq START="949" END="955">farmers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E13-M519">
+          <extent>
+              <charseq START="990" END="1003">the population</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="1003">population</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E15-M602">
+          <extent>
+              <charseq START="1075" END="1098">the Non-Aligned Movement</charseq>
+          </extent>
+          <head>
+              <charseq START="1079" END="1098">Non-Aligned Movement</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E15-M903">
+          <extent>
+              <charseq START="1618" END="1689">the BRIC Group of rapidly growing economies,
+along with Brazil and China</charseq>
+          </extent>
+          <head>
+              <charseq START="1627" END="1631">Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Non-Aligned Movement">
+              <charseq START="1079" END="1098">Non-Aligned Movement</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E16-M613" ROLE="GPE">
+          <extent>
+              <charseq START="1209" END="1224">the Soviet Union</charseq>
+          </extent>
+          <head>
+              <charseq START="1213" END="1224">Soviet Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Soviet Union">
+              <charseq START="1213" END="1224">Soviet Union</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E17" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E17-M803">
+          <extent>
+              <charseq START="1440" END="1450">its weapons</charseq>
+          </extent>
+          <head>
+              <charseq START="1444" END="1450">weapons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E18" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100312.0069-E18-M801">
+          <extent>
+              <charseq START="1419" END="1450">the vast majority of its weapons</charseq>
+          </extent>
+          <head>
+              <charseq START="1428" END="1435">majority</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E19-M909">
+          <extent>
+              <charseq START="1674" END="1679">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="1674" END="1679">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brazil">
+              <charseq START="1674" END="1679">Brazil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E20-M910">
+          <extent>
+              <charseq START="1685" END="1689">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1685" END="1689">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="1685" END="1689">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E22-M1010" ROLE="LOC">
+          <extent>
+              <charseq START="1793" END="1798">Mumbai</charseq>
+          </extent>
+          <head>
+              <charseq START="1793" END="1798">Mumbai</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mumbai">
+              <charseq START="1793" END="1798">Mumbai</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100312.0069-E23-M1011" ROLE="LOC">
+          <extent>
+              <charseq START="1801" END="1809">Bangalore</charseq>
+          </extent>
+          <head>
+              <charseq START="1801" END="1809">Bangalore</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bangalore">
+              <charseq START="1801" END="1809">Bangalore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E24-M1001">
+          <extent>
+              <charseq START="1734" END="1843">business leaders, speaking to a
+group of industrialists in Mumbai, Bangalore and New Delhi via
+videoconference</charseq>
+          </extent>
+          <head>
+              <charseq START="1743" END="1749">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E25-M1006">
+          <extent>
+              <charseq START="1775" END="1843">industrialists in Mumbai, Bangalore and New Delhi via
+videoconference</charseq>
+          </extent>
+          <head>
+              <charseq START="1775" END="1788">industrialists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E26" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E26-M1008">
+          <extent>
+              <charseq START="1793" END="1843">Mumbai, Bangalore and New Delhi via
+videoconference</charseq>
+          </extent>
+          <head>
+              <charseq START="1815" END="1823">New Delhi</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100312.0069-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100312.0069-E28-M1108">
+          <extent>
+              <charseq START="1917" END="1928">his audience</charseq>
+          </extent>
+          <head>
+              <charseq START="1921" END="1928">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100312.0069-T0" VAL="2010-03-12">
+        <timex2_mention ID="NYT_ENG_20100312.0069-T0-M1">
+            <extent>
+              <charseq START="242" END="247">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100312.0069-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E1" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R0-M200">
+          <extent>
+              <charseq START="267" END="308">Prime Minister Vladimir V. Putin of Russia</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E3-M214" ROLE="Arg-1">
+            <extent>
+              <charseq START="267" END="308">Prime Minister Vladimir V. Putin of Russia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E1-M219" ROLE="Arg-2">
+            <extent>
+              <charseq START="303" END="308">Russia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100312.0069-R1" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E4" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R1-M300">
+          <extent>
+              <charseq START="380" END="382">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E3-M310" ROLE="Arg-1">
+            <extent>
+              <charseq START="380" END="382">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E4-M309" ROLE="Arg-2">
+            <extent>
+              <charseq START="380" END="401">his
+Indian counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100312.0069-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E0" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R2-M301">
+          <extent>
+              <charseq START="380" END="401">his
+Indian counterpart</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E4-M309" ROLE="Arg-1">
+            <extent>
+              <charseq START="380" END="401">his
+Indian counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E0-M311" ROLE="Arg-2">
+            <extent>
+              <charseq START="384" END="389">Indian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100312.0069-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E1" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R3-M400">
+          <extent>
+              <charseq START="630" END="679">at least a dozen more
+Russian nuclear power plants</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E7-M403" ROLE="Arg-1">
+            <extent>
+              <charseq START="630" END="679">at least a dozen more
+Russian nuclear power plants</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E1-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="652" END="658">Russian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100312.0069-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E8" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R4-M401">
+          <extent>
+              <charseq START="729" END="735">Russian</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E1-M410" ROLE="Arg-1">
+            <extent>
+              <charseq START="729" END="735">Russian</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E8-M409" ROLE="Arg-2">
+            <extent>
+              <charseq START="724" END="743">more Russian weapons</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100312.0069-R5" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E15" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R5-M600">
+          <extent>
+              <charseq START="1062" END="1098">a pioneer of the Non-Aligned Movement</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E3-M600" ROLE="Arg-1">
+            <extent>
+              <charseq START="1062" END="1098">a pioneer of the Non-Aligned Movement</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E15-M602" ROLE="Arg-2">
+            <extent>
+              <charseq START="1075" END="1098">the Non-Aligned Movement</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100312.0069-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E18" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R6-M800">
+          <extent>
+              <charseq START="1408" END="1412">India</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E0-M800" ROLE="Arg-1">
+            <extent>
+              <charseq START="1408" END="1412">India</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E18-M801" ROLE="Arg-2">
+            <extent>
+              <charseq START="1419" END="1450">the vast majority of its weapons</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100312.0069-R7" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E17" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R7-M801">
+          <extent>
+              <charseq START="1440" END="1442">its</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E0-M804" ROLE="Arg-1">
+            <extent>
+              <charseq START="1440" END="1442">its</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E17-M803" ROLE="Arg-2">
+            <extent>
+              <charseq START="1440" END="1450">its weapons</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100312.0069-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E22" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R8-M1000">
+          <extent>
+              <charseq START="1775" END="1843">industrialists in Mumbai, Bangalore and New Delhi via
+videoconference</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E25-M1006" ROLE="Arg-1">
+            <extent>
+              <charseq START="1775" END="1843">industrialists in Mumbai, Bangalore and New Delhi via
+videoconference</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E22-M1010" ROLE="Arg-2">
+            <extent>
+              <charseq START="1793" END="1798">Mumbai</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100312.0069-R9" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100312.0069-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100312.0069-E2" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100312.0069-R9-M1001">
+          <extent>
+              <charseq START="1775" END="1843">industrialists in Mumbai, Bangalore and New Delhi via
+videoconference</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E25-M1006" ROLE="Arg-1">
+            <extent>
+              <charseq START="1775" END="1843">industrialists in Mumbai, Bangalore and New Delhi via
+videoconference</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100312.0069-E2-M1012" ROLE="Arg-2">
+            <extent>
+              <charseq START="1815" END="1823">New Delhi</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

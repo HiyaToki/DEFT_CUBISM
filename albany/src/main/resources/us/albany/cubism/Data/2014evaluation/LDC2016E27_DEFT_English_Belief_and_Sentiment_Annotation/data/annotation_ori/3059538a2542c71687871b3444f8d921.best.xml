@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56997df20000000000000026">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-639">
+        <trigger offset="587" length="7">British</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-649">
+        <trigger offset="1056" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-659">
+        <trigger offset="1085" length="6">family</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-669">
+        <trigger offset="1121" length="8">European</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-689">
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-969">
+        <trigger offset="745" length="9">appointed</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1156">
+        <trigger offset="2404" length="2">is</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-699">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-471" offset="3138" length="5">Carey</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-979">
+        <trigger offset="829" length="8">converts</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-447" offset="3206" length="9">MauiMamma</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-989">
+        <trigger offset="987" length="5">joins</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-999">
+        <trigger offset="1100" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1009">
+        <trigger offset="1100" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1039">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1075">
+        <trigger offset="1424" length="2">be</trigger>
+        <beliefs>
+          <belief type="ncb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1344">
+        <trigger offset="1645" length="2">be</trigger>
+        <beliefs>
+          <belief type="ncb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1136">
+        <trigger offset="1819" length="6">set up</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1146">
+        <trigger offset="2137" length="8">launches</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-735">
+        <trigger offset="578" length="4">left</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-201" offset="575" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-483" offset="587" length="18">
+            <text>British Parliament</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-872" offset="609" length="14">
+            <text>Prime Minister</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-549" offset="587" length="7">
+            <text>British</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-756">
+        <trigger offset="631" length="9">appointed</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-207" offset="624" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1334" offset="653" length="5">
+            <text>envoy</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-777">
+        <trigger offset="745" length="9">appointed</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-213" offset="739" length="5">
+            <text>Blair</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1341" offset="767" length="5">
+            <text>envoy</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-798">
+        <trigger offset="1037" length="9">purchased</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-231" offset="1030" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-567" offset="1059" length="9">
+            <text>Jerusalem</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-615" offset="1047" length="21">
+            <text>a palace in Jerusalem</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-819">
+        <trigger offset="1819" length="6">set up</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-321" offset="1812" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-513" offset="1826" length="22">
+            <text>a new faith foundation</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-840">
+        <trigger offset="2137" length="8">launches</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-339" offset="2131" length="5">
+            <text>Blair</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-525" offset="2146" length="16">
+            <text>faith foundation</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1222">
+        <trigger offset="2360" length="9">interview</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-543" offset="2375" length="13">
+            <text>Time magazine</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-363" offset="2393" length="5">
+            <text>Blair</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1194">
+        <trigger offset="2817" length="4">died</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-153" offset="14" length="10">PetersKeys</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-948" offset="2748" length="53">
+            <text>everyone that you have accused to be the "antichrist"</text>
+            <beliefs>
+              <belief type="ncb" polarity="pos" sarcasm="no">
+                <source ere_id="m-153" offset="14" length="10">PetersKeys</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1282">
+        <trigger offset="1037" length="9">purchased</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-231" offset="1030" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-567" offset="1059" length="9">
+            <text>Jerusalem</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-957" offset="2762" length="3">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-153" offset="14" length="10">PetersKeys</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-171" offset="275" length="10">
+        <text>Tony Blair</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-177" offset="380" length="3">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-183" offset="523" length="2">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-189" offset="529" length="14">
+        <text>the man of sin</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-195" offset="548" length="11">
+        <text>a candidate</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-219" offset="823" length="5">
+        <text>Blair</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-285" offset="1458" length="2">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-291" offset="1500" length="3">
+        <text>him</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-297" offset="1508" length="42">
+        <text>a man who is smart and understands riddles</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-351" offset="2233" length="2">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-399" offset="2883" length="10">
+        <text>Tony Blair</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-153" offset="14" length="10">PetersKeys</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-489" offset="914" length="15">
+        <text>catholic church</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events>
+      <event ere_id="em-756">
+        <trigger offset="631" length="9">appointed</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-777">
+        <trigger offset="745" length="9">appointed</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-798">
+        <trigger offset="1037" length="9">purchased</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-819">
+        <trigger offset="1819" length="6">set up</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-840">
+        <trigger offset="2137" length="8">launches</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1282">
+        <trigger offset="1037" length="9">purchased</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-99" offset="87" length="14">MountainFire77</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="36b12cef6f7a805e3e74a4f430129028.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-261" length="16" offset="195">
+        <text>our current home</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-69" length="1" offset="166">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-207" length="2" offset="143">
+        <text>VA</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-45" length="13" offset="14">vlscott@li...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-468" length="10" offset="230">
+        <text>any of you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-45" length="13" offset="14">vlscott@li...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-213" length="2" offset="248">
+        <text>VA</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-45" length="13" offset="14">vlscott@li...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-456" length="3" offset="333">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-45" length="13" offset="14">vlscott@li...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-462" length="3" offset="505">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-45" length="13" offset="14">vlscott@li...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-219" length="2" offset="523">
+        <text>VA</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-45" length="13" offset="14">vlscott@li...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-477" length="3" offset="643">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-45" length="13" offset="14">vlscott@li...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-267" length="9" offset="792">
+        <text>our house</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-135" length="2" offset="760">We</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-225" length="2" offset="772">
+        <text>VA</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-117" length="13" offset="705">MyAlterEgo...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-243" length="42" offset="872">
+        <text>the bank that currently holds our mortgage</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-117" length="13" offset="705">MyAlterEgo...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-123" length="2" offset="1011">
+        <text>me</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-117" length="13" offset="705">MyAlterEgo...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-249" length="23" offset="1092">
+        <text>our regular institution</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-117" length="13" offset="705">MyAlterEgo...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-201" length="10" offset="1308">
+        <text>The notary</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-117" length="13" offset="705">MyAlterEgo...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-492" length="3" offset="1403">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-117" length="13" offset="705">MyAlterEgo...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-498" length="8" offset="1471">
+        <text>military</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-117" length="13" offset="705">MyAlterEgo...</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-255" length="9" offset="1555">
+        <text>our banks</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-117" length="13" offset="705">MyAlterEgo...</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

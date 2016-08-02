@@ -1,0 +1,854 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100623.0085">
+  <document DOCID="NYT_ENG_20100623.0085">
+
+    <entity ID="NYT_ENG_20100623.0085-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E0-M300">
+          <extent>
+              <charseq START="141" END="152">Adam Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="141" END="152">Adam Lambert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M302">
+          <extent>
+              <charseq START="159" END="161">his</charseq>
+          </extent>
+          <head>
+              <charseq START="159" END="161">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M411">
+          <extent>
+              <charseq START="341" END="342">he</charseq>
+          </extent>
+          <head>
+              <charseq START="341" END="342">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M416">
+          <extent>
+              <charseq START="367" END="369">his</charseq>
+          </extent>
+          <head>
+              <charseq START="367" END="369">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M507">
+          <extent>
+              <charseq START="519" END="520">he</charseq>
+          </extent>
+          <head>
+              <charseq START="519" END="520">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M600">
+          <extent>
+              <charseq START="565" END="566">he</charseq>
+          </extent>
+          <head>
+              <charseq START="565" END="566">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E0-M800">
+          <extent>
+              <charseq START="644" END="665">The openly gay Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="659" END="665">Lambert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E0-M801">
+          <extent>
+              <charseq START="655" END="657">gay</charseq>
+          </extent>
+          <head>
+              <charseq START="655" END="657">gay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E0-M805">
+          <extent>
+              <charseq START="707" END="719">American Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="716" END="719">Idol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M900">
+          <extent>
+              <charseq START="723" END="724">He</charseq>
+          </extent>
+          <head>
+              <charseq START="723" END="724">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E0-M1014">
+          <extent>
+              <charseq START="1012" END="1018">Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="1012" END="1018">Lambert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1002">
+          <extent>
+              <charseq START="888" END="890">his</charseq>
+          </extent>
+          <head>
+              <charseq START="888" END="890">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1022">
+          <extent>
+              <charseq START="1109" END="1110">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1109" END="1110">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E0-M1100">
+          <extent>
+              <charseq START="1201" END="1352">In concert, this singer who proudly calls himself a &quot;freak&quot; in
+songs on his 2009 album &quot;For Your Entertainment&quot; (19/RCA) could
+be as daring as he chose.</charseq>
+          </extent>
+          <head>
+              <charseq START="1218" END="1223">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1104">
+          <extent>
+              <charseq START="1225" END="1227">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1225" END="1227">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1113">
+          <extent>
+              <charseq START="1273" END="1275">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1273" END="1275">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1119">
+          <extent>
+              <charseq START="1344" END="1345">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1344" END="1345">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1202">
+          <extent>
+              <charseq START="1365" END="1366">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1365" END="1366">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E0-M1300">
+          <extent>
+              <charseq START="1515" END="1521">Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="1515" END="1521">Lambert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E0-M1303">
+          <extent>
+              <charseq START="1557" END="1573">a guy in eyeliner</charseq>
+          </extent>
+          <head>
+              <charseq START="1559" END="1561">guy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1403">
+          <extent>
+              <charseq START="1694" END="1696">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1694" END="1696">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1405">
+          <extent>
+              <charseq START="1726" END="1728">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1726" END="1728">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E0-M1500">
+          <extent>
+              <charseq START="1801" END="1807">Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="1801" END="1807">Lambert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E0-M1704">
+          <extent>
+              <charseq START="2031" END="2037">Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="2031" END="2037">Lambert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1715">
+          <extent>
+              <charseq START="2158" END="2160">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2158" END="2160">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1722">
+          <extent>
+              <charseq START="2229" END="2230">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2229" END="2230">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E0-M1807">
+          <extent>
+              <charseq START="2423" END="2435">American Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="2432" END="2435">Idol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E0-M1903">
+          <extent>
+              <charseq START="2482" END="2488">Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="2482" END="2488">Lambert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E0-M1916">
+          <extent>
+              <charseq START="2664" END="2670">Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="2664" END="2670">Lambert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1908">
+          <extent>
+              <charseq START="2543" END="2545">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2543" END="2545">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M1914">
+          <extent>
+              <charseq START="2628" END="2630">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2628" END="2630">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2001">
+          <extent>
+              <charseq START="2719" END="2721">His</charseq>
+          </extent>
+          <head>
+              <charseq START="2719" END="2721">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2004">
+          <extent>
+              <charseq START="2741" END="2743">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2741" END="2743">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2200">
+          <extent>
+              <charseq START="2974" END="2975">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2974" END="2975">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2301">
+          <extent>
+              <charseq START="3066" END="3068">His</charseq>
+          </extent>
+          <head>
+              <charseq START="3066" END="3068">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2304">
+          <extent>
+              <charseq START="3111" END="3112">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3111" END="3112">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2307">
+          <extent>
+              <charseq START="3132" END="3134">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3132" END="3134">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2404">
+          <extent>
+              <charseq START="3189" END="3190">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3189" END="3190">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2502">
+          <extent>
+              <charseq START="3258" END="3260">His</charseq>
+          </extent>
+          <head>
+              <charseq START="3258" END="3260">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2510">
+          <extent>
+              <charseq START="3360" END="3361">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3360" END="3361">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2515">
+          <extent>
+              <charseq START="3410" END="3412">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3410" END="3412">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E0-M2603">
+          <extent>
+              <charseq START="3469" END="3475">Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="3469" END="3475">Lambert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E0-M2601">
+          <extent>
+              <charseq START="3445" END="3475">a
+big-voiced showman in Lambert</charseq>
+          </extent>
+          <head>
+              <charseq START="3458" END="3464">showman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2607">
+          <extent>
+              <charseq START="3500" END="3501">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3500" END="3501">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E0-M2613">
+          <extent>
+              <charseq START="3551" END="3553">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3551" END="3553">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Adam Lambert">
+              <charseq START="141" END="152">Adam Lambert</charseq>
+          </name>
+          <name NAME="Lambert">
+              <charseq START="659" END="665">Lambert</charseq>
+          </name>
+          <name NAME="Lambert">
+              <charseq START="1012" END="1018">Lambert</charseq>
+          </name>
+          <name NAME="Lambert">
+              <charseq START="1515" END="1521">Lambert</charseq>
+          </name>
+          <name NAME="Lambert">
+              <charseq START="1801" END="1807">Lambert</charseq>
+          </name>
+          <name NAME="Lambert">
+              <charseq START="2031" END="2037">Lambert</charseq>
+          </name>
+          <name NAME="Lambert">
+              <charseq START="2482" END="2488">Lambert</charseq>
+          </name>
+          <name NAME="Lambert">
+              <charseq START="2664" END="2670">Lambert</charseq>
+          </name>
+          <name NAME="Lambert">
+              <charseq START="3469" END="3475">Lambert</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E1-M303">
+          <extent>
+              <charseq START="175" END="208">the Nokia Theater on Tuesday
+night</charseq>
+          </extent>
+          <head>
+              <charseq START="179" END="191">Nokia Theater</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nokia Theater">
+              <charseq START="179" END="191">Nokia Theater</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E2-M410">
+          <extent>
+              <charseq START="329" END="338">one
+temple</charseq>
+          </extent>
+          <head>
+              <charseq START="333" END="338">temple</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E3-M415">
+          <extent>
+              <charseq START="367" END="391">his zombie-styled dancers</charseq>
+          </extent>
+          <head>
+              <charseq START="385" END="391">dancers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E3-M1401">
+          <extent>
+              <charseq START="1629" END="1639">The dancers</charseq>
+          </extent>
+          <head>
+              <charseq START="1633" END="1639">dancers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E4-M421">
+          <extent>
+              <charseq START="420" END="430">supplicants</charseq>
+          </extent>
+          <head>
+              <charseq START="420" END="430">supplicants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E5-M422">
+          <extent>
+              <charseq START="435" END="441">victims</charseq>
+          </extent>
+          <head>
+              <charseq START="435" END="441">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E8-M806" ROLE="GPE">
+          <extent>
+              <charseq START="707" END="714">American</charseq>
+          </extent>
+          <head>
+              <charseq START="707" END="714">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E8-M1029" ROLE="GPE">
+          <extent>
+              <charseq START="1162" END="1169">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1162" END="1169">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E8-M1808" ROLE="GPE">
+          <extent>
+              <charseq START="2423" END="2430">American</charseq>
+          </extent>
+          <head>
+              <charseq START="2423" END="2430">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E8-M2504" ROLE="GPE">
+          <extent>
+              <charseq START="3287" END="3294">American</charseq>
+          </extent>
+          <head>
+              <charseq START="3287" END="3294">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="707" END="714">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="1162" END="1169">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="2423" END="2430">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="3287" END="3294">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E9-M911">
+          <extent>
+              <charseq START="847" END="870">Freddie Mercury of Queen</charseq>
+          </extent>
+          <head>
+              <charseq START="847" END="870">Freddie Mercury of Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E9-M1205">
+          <extent>
+              <charseq START="1382" END="1386">Queen</charseq>
+          </extent>
+          <head>
+              <charseq START="1382" END="1386">Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Freddie Mercury of Queen">
+              <charseq START="847" END="870">Freddie Mercury of Queen</charseq>
+          </name>
+          <name NAME="Queen">
+              <charseq START="1382" END="1386">Queen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E10-M1004">
+          <extent>
+              <charseq START="907" END="937">the rock belter Allison Iraheta</charseq>
+          </extent>
+          <head>
+              <charseq START="923" END="937">Allison Iraheta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E10-M1006">
+          <extent>
+              <charseq START="916" END="921">belter</charseq>
+          </extent>
+          <head>
+              <charseq START="916" END="921">belter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Allison Iraheta">
+              <charseq START="923" END="937">Allison Iraheta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E11-M1009">
+          <extent>
+              <charseq START="940" END="965">a
+fellow &quot;Idol&quot; contestant</charseq>
+          </extent>
+          <head>
+              <charseq START="956" END="965">contestant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E12-M1206">
+          <extent>
+              <charseq START="1389" END="1399">David
+Bowie</charseq>
+          </extent>
+          <head>
+              <charseq START="1389" END="1399">David
+Bowie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David
+Bowie">
+              <charseq START="1389" END="1399">David
+Bowie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100623.0085-E13-M1207">
+          <extent>
+              <charseq START="1405" END="1411">Madonna</charseq>
+          </extent>
+          <head>
+              <charseq START="1405" END="1411">Madonna</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Madonna">
+              <charseq START="1405" END="1411">Madonna</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E14-M1201">
+          <extent>
+              <charseq START="1354" END="1363">Performers</charseq>
+          </extent>
+          <head>
+              <charseq START="1354" END="1363">Performers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E14-M1210">
+          <extent>
+              <charseq START="1469" END="1472">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1469" END="1472">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E15-M1402">
+          <extent>
+              <charseq START="1694" END="1715">his (male) bass
+player</charseq>
+          </extent>
+          <head>
+              <charseq START="1710" END="1715">player</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E16-M1404">
+          <extent>
+              <charseq START="1705" END="1708">bass</charseq>
+          </extent>
+          <head>
+              <charseq START="1705" END="1708">bass</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E17" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E17-M1720">
+          <extent>
+              <charseq START="2203" END="2212">this world</charseq>
+          </extent>
+          <head>
+              <charseq START="2208" END="2212">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E18-M1904">
+          <extent>
+              <charseq START="2504" END="2518">musical theater</charseq>
+          </extent>
+          <head>
+              <charseq START="2512" END="2518">theater</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E19" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E19-M1909">
+          <extent>
+              <charseq START="2583" END="2598">sluggish: groups</charseq>
+          </extent>
+          <head>
+              <charseq START="2593" END="2598">groups</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E20" TYPE="ORG" SUBTYPE="Entertainment" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E20-M1912">
+          <extent>
+              <charseq START="2628" END="2655">his band playing in
+the dark</charseq>
+          </extent>
+          <head>
+              <charseq START="2632" END="2635">band</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E20-M2202">
+          <extent>
+              <charseq START="2984" END="3014">the band for a drumless segment</charseq>
+          </extent>
+          <head>
+              <charseq START="2988" END="2991">band</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E21-M2112">
+          <extent>
+              <charseq START="2934" END="2947">lesser singers</charseq>
+          </extent>
+          <head>
+              <charseq START="2941" END="2947">singers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100623.0085-E22-M2400">
+          <extent>
+              <charseq START="3147" END="3186">a performer with such an
+outsize persona</charseq>
+          </extent>
+          <head>
+              <charseq START="3149" END="3157">performer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100623.0085-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100623.0085-E23-M2611">
+          <extent>
+              <charseq START="3531" END="3538">everyone</charseq>
+          </extent>
+          <head>
+              <charseq START="3531" END="3538">everyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100623.0085-T0" VAL="2010-06-22TNI">
+        <timex2_mention ID="NYT_ENG_20100623.0085-T0-M1">
+            <extent>
+              <charseq START="196" END="208">Tuesday
+night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100623.0085-T1" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100623.0085-T1-M1">
+            <extent>
+              <charseq START="744" END="752">last
+year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100623.0085-T2" VAL="PRESENT_REF" ANCHOR_VAL="2010-06-23" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100623.0085-T2-M1">
+            <extent>
+              <charseq START="873" END="875">Now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100623.0085-T3" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100623.0085-T3-M1">
+            <extent>
+              <charseq START="1277" END="1280">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100623.0085-T4" VAL="PT4M">
+        <timex2_mention ID="NYT_ENG_20100623.0085-T4-M1">
+            <extent>
+              <charseq START="2399" END="2409">four-minute</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100623.0085-T5" VAL="199" MOD="START">
+        <timex2_mention ID="NYT_ENG_20100623.0085-T5-M1">
+            <extent>
+              <charseq START="2526" END="2540">the early 1990s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100623.0085-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100623.0085-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100623.0085-E1" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100623.0085-R0-M300">
+          <extent>
+              <charseq START="141" END="152">Adam Lambert</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100623.0085-E0-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="141" END="152">Adam Lambert</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100623.0085-E1-M303" ROLE="Arg-2">
+            <extent>
+              <charseq START="175" END="208">the Nokia Theater on Tuesday
+night</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100623.0085-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100623.0085-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100623.0085-E8" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100623.0085-R1-M800">
+          <extent>
+              <charseq START="707" END="719">American Idol</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100623.0085-E0-M805" ROLE="Arg-1">
+            <extent>
+              <charseq START="707" END="719">American Idol</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100623.0085-E8-M806" ROLE="Arg-2">
+            <extent>
+              <charseq START="707" END="714">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="NYT_ENG_20100623.0085-R1-M1800">
+          <extent>
+              <charseq START="2423" END="2435">American Idol</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100623.0085-E0-M1807" ROLE="Arg-1">
+            <extent>
+              <charseq START="2423" END="2435">American Idol</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100623.0085-E8-M1808" ROLE="Arg-2">
+            <extent>
+              <charseq START="2423" END="2430">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100128.1164">
+  <document DOCID="APW_ENG_20100128.1164">
+
+    <entity ID="APW_ENG_20100128.1164-E0" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E0-M0">
+          <extent>
+              <charseq START="58" END="61">Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="61">Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E0-M202">
+          <extent>
+              <charseq START="227" END="234">the Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="231" END="234">Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E0-M305">
+          <extent>
+              <charseq START="435" END="442">the Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="439" END="442">Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E0-M401">
+          <extent>
+              <charseq START="554" END="557">Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="554" END="557">Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E0-M500">
+          <extent>
+              <charseq START="729" END="736">The Navy</charseq>
+          </extent>
+          <head>
+              <charseq START="733" END="736">Navy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Navy">
+              <charseq START="58" END="61">Navy</charseq>
+          </name>
+          <name NAME="Navy">
+              <charseq START="231" END="234">Navy</charseq>
+          </name>
+          <name NAME="Navy">
+              <charseq START="439" END="442">Navy</charseq>
+          </name>
+          <name NAME="Navy">
+              <charseq START="554" END="557">Navy</charseq>
+          </name>
+          <name NAME="Navy">
+              <charseq START="733" END="736">Navy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E1-M101">
+          <extent>
+              <charseq START="131" END="138">SAVANNAH</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="138">SAVANNAH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SAVANNAH">
+              <charseq START="131" END="138">SAVANNAH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E2-M102">
+          <extent>
+              <charseq START="141" END="147">Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="141" END="147">Georgia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E2-M312" ROLE="GPE">
+          <extent>
+              <charseq START="520" END="526">Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="520" END="526">Georgia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Georgia">
+              <charseq START="141" END="147">Georgia</charseq>
+          </name>
+          <name NAME="Georgia">
+              <charseq START="520" END="526">Georgia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100128.1164-E3-M200">
+          <extent>
+              <charseq START="196" END="215">Environmental groups</charseq>
+          </extent>
+          <head>
+              <charseq START="210" END="215">groups</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100128.1164-E3-M210">
+          <extent>
+              <charseq START="299" END="302">they</charseq>
+          </extent>
+          <head>
+              <charseq START="299" END="302">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E4-M300">
+          <extent>
+              <charseq START="357" END="393">The Southern Environmental Law Center</charseq>
+          </extent>
+          <head>
+              <charseq START="361" END="393">Southern Environmental Law Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Southern Environmental Law Center">
+              <charseq START="361" END="393">Southern Environmental Law Center</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100128.1164-E5-M313" ROLE="GPE">
+          <extent>
+              <charseq START="532" END="538">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="538">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Florida">
+              <charseq START="532" END="538">Florida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E6" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100128.1164-E6-M309">
+          <extent>
+              <charseq START="506" END="538">the coasts of Georgia and Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="515">coasts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E7" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100128.1164-E7-M413">
+          <extent>
+              <charseq START="697" END="701">ships</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="701">ships</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E8" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100128.1164-E8-M414">
+          <extent>
+              <charseq START="704" END="713">submarines</charseq>
+          </extent>
+          <head>
+              <charseq START="704" END="713">submarines</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E9" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100128.1164-E9-M415">
+          <extent>
+              <charseq START="719" END="726">aircraft</charseq>
+          </extent>
+          <head>
+              <charseq START="719" END="726">aircraft</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100128.1164-E10-M600">
+          <extent>
+              <charseq START="811" END="829">Conservation groups</charseq>
+          </extent>
+          <head>
+              <charseq START="824" END="829">groups</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100128.1164-E10-M613">
+          <extent>
+              <charseq START="940" END="944">their</charseq>
+          </extent>
+          <head>
+              <charseq START="940" END="944">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100128.1164-E11-M602">
+          <extent>
+              <charseq START="835" END="859">the planned training area</charseq>
+          </extent>
+          <head>
+              <charseq START="856" END="859">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100128.1164-E11-M606">
+          <extent>
+              <charseq START="884" END="888">where</charseq>
+          </extent>
+          <head>
+              <charseq START="884" END="888">where</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100128.1164-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100128.1164-E12-M700">
+          <extent>
+              <charseq START="954" END="964">Researchers</charseq>
+          </extent>
+          <head>
+              <charseq START="954" END="964">Researchers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100128.1164-T0" VAL="2010-01-28-01">
+        <timex2_mention ID="APW_ENG_20100128.1164-T0-M1">
+            <extent>
+              <charseq START="149" END="158">2010-01-28</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100128.1164-T1" VAL="2010-01-28">
+        <timex2_mention ID="APW_ENG_20100128.1164-T1-M1">
+            <extent>
+              <charseq START="421" END="428">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100128.1164-T2" VAL="2009">
+        <timex2_mention ID="APW_ENG_20100128.1164-T2-M1">
+            <extent>
+              <charseq START="559" END="567">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100128.1164-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100128.1164-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100128.1164-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100128.1164-R0-M300">
+          <extent>
+              <charseq START="506" END="538">the coasts of Georgia and Florida</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100128.1164-E6-M309" ROLE="Arg-1">
+            <extent>
+              <charseq START="506" END="538">the coasts of Georgia and Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100128.1164-E2-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="520" END="526">Georgia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100128.1164-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100128.1164-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100128.1164-E5" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100128.1164-R1-M301">
+          <extent>
+              <charseq START="506" END="538">the coasts of Georgia and Florida</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100128.1164-E6-M309" ROLE="Arg-1">
+            <extent>
+              <charseq START="506" END="538">the coasts of Georgia and Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100128.1164-E5-M313" ROLE="Arg-2">
+            <extent>
+              <charseq START="532" END="538">Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

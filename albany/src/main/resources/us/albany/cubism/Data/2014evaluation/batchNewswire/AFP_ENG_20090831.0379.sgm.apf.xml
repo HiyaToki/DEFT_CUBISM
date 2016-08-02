@@ -1,0 +1,1245 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20090831.0379">
+  <document DOCID="AFP_ENG_20090831.0379">
+
+    <entity ID="AFP_ENG_20090831.0379-E0" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="64">Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">Georgia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E0-M300">
+          <extent>
+              <charseq START="185" END="191">Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="185" END="191">Georgia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E0-M315" ROLE="LOC">
+          <extent>
+              <charseq START="339" END="382">the province named after the Russian capital</charseq>
+          </extent>
+          <head>
+              <charseq START="343" END="350">province</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090831.0379-E0-M308">
+          <extent>
+              <charseq START="244" END="246">its</charseq>
+          </extent>
+          <head>
+              <charseq START="244" END="246">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E0-M501" ROLE="GPE">
+          <extent>
+              <charseq START="563" END="570">Georgian</charseq>
+          </extent>
+          <head>
+              <charseq START="563" END="570">Georgian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E0-M517" ROLE="GPE">
+          <extent>
+              <charseq START="736" END="743">Georgian</charseq>
+          </extent>
+          <head>
+              <charseq START="736" END="743">Georgian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E0-M1004" ROLE="LOC">
+          <extent>
+              <charseq START="1628" END="1634">Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="1628" END="1634">Georgia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E0-M1008" ROLE="GPE">
+          <extent>
+              <charseq START="1662" END="1669">Georgian</charseq>
+          </extent>
+          <head>
+              <charseq START="1662" END="1669">Georgian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E0-M1106" ROLE="GPE">
+          <extent>
+              <charseq START="1843" END="1850">Georgian</charseq>
+          </extent>
+          <head>
+              <charseq START="1843" END="1850">Georgian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Georgia">
+              <charseq START="58" END="64">Georgia</charseq>
+          </name>
+          <name NAME="Georgia">
+              <charseq START="185" END="191">Georgia</charseq>
+          </name>
+          <name NAME="Georgian">
+              <charseq START="563" END="570">Georgian</charseq>
+          </name>
+          <name NAME="Georgian">
+              <charseq START="736" END="743">Georgian</charseq>
+          </name>
+          <name NAME="Georgia">
+              <charseq START="1628" END="1634">Georgia</charseq>
+          </name>
+          <name NAME="Georgian">
+              <charseq START="1662" END="1669">Georgian</charseq>
+          </name>
+          <name NAME="Georgian">
+              <charseq START="1843" END="1850">Georgian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E1-M5" ROLE="GPE">
+          <extent>
+              <charseq START="82" END="87">Moscow</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="87">Moscow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E1-M306" ROLE="GPE">
+          <extent>
+              <charseq START="234" END="239">Moscow</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="239">Moscow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E1-M317">
+          <extent>
+              <charseq START="364" END="382">the Russian capital</charseq>
+          </extent>
+          <head>
+              <charseq START="376" END="382">capital</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E1-M401" ROLE="GPE">
+          <extent>
+              <charseq START="394" END="399">Moscow</charseq>
+          </extent>
+          <head>
+              <charseq START="394" END="399">Moscow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E1-M1017" ROLE="LOC">
+          <extent>
+              <charseq START="1755" END="1760">Moscow</charseq>
+          </extent>
+          <head>
+              <charseq START="1755" END="1760">Moscow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E1-M1108" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1876" END="1881">Moscow</charseq>
+          </extent>
+          <head>
+              <charseq START="1876" END="1881">Moscow</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Moscow">
+              <charseq START="82" END="87">Moscow</charseq>
+          </name>
+          <name NAME="Moscow">
+              <charseq START="234" END="239">Moscow</charseq>
+          </name>
+          <name NAME="Moscow">
+              <charseq START="394" END="399">Moscow</charseq>
+          </name>
+          <name NAME="Moscow">
+              <charseq START="1755" END="1760">Moscow</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E2" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E2-M6">
+          <extent>
+              <charseq START="98" END="109">rebel region</charseq>
+          </extent>
+          <head>
+              <charseq START="104" END="109">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E2-M410">
+          <extent>
+              <charseq START="518" END="527">the region</charseq>
+          </extent>
+          <head>
+              <charseq START="522" END="527">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E2-M521">
+          <extent>
+              <charseq START="788" END="797">the
+region</charseq>
+          </extent>
+          <head>
+              <charseq START="792" END="797">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E2-M716">
+          <extent>
+              <charseq START="1245" END="1260">breakaway region</charseq>
+          </extent>
+          <head>
+              <charseq START="1255" END="1260">region</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E3-M7">
+          <extent>
+              <charseq START="98" END="102">rebel</charseq>
+          </extent>
+          <head>
+              <charseq START="98" END="102">rebel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E4-M101">
+          <extent>
+              <charseq START="134" END="140">TBILISI</charseq>
+          </extent>
+          <head>
+              <charseq START="134" END="140">TBILISI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E4-M615" ROLE="LOC">
+          <extent>
+              <charseq START="1067" END="1073">Tbilisi</charseq>
+          </extent>
+          <head>
+              <charseq START="1067" END="1073">Tbilisi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E4-M1209" ROLE="LOC">
+          <extent>
+              <charseq START="2057" END="2063">Tbilisi</charseq>
+          </extent>
+          <head>
+              <charseq START="2057" END="2063">Tbilisi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TBILISI">
+              <charseq START="134" END="140">TBILISI</charseq>
+          </name>
+          <name NAME="Tbilisi">
+              <charseq START="1067" END="1073">Tbilisi</charseq>
+          </name>
+          <name NAME="Tbilisi">
+              <charseq START="2057" END="2063">Tbilisi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E5-M200">
+          <extent>
+              <charseq START="157" END="159">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="157" END="159">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="157" END="159">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E6-M310" ROLE="GPE">
+          <extent>
+              <charseq START="254" END="266">South
+Ossetia</charseq>
+          </extent>
+          <head>
+              <charseq START="254" END="266">South
+Ossetia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E6-M307">
+          <extent>
+              <charseq START="244" END="273">its rebel South
+Ossetia region</charseq>
+          </extent>
+          <head>
+              <charseq START="268" END="273">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E6-M404">
+          <extent>
+              <charseq START="433" END="445">South Ossetia</charseq>
+          </extent>
+          <head>
+              <charseq START="433" END="445">South Ossetia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E6-M525" ROLE="LOC">
+          <extent>
+              <charseq START="827" END="839">South Ossetia</charseq>
+          </extent>
+          <head>
+              <charseq START="827" END="839">South Ossetia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E6-M709" ROLE="LOC">
+          <extent>
+              <charseq START="1153" END="1165">South
+Ossetia</charseq>
+          </extent>
+          <head>
+              <charseq START="1153" END="1165">South
+Ossetia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E6-M813">
+          <extent>
+              <charseq START="1372" END="1382">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="1376" END="1382">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E6-M1010" ROLE="LOC">
+          <extent>
+              <charseq START="1691" END="1770">retake South Ossetia, which had received extensive backing
+from Moscow for years</charseq>
+          </extent>
+          <head>
+              <charseq START="1698" END="1710">South Ossetia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E6-M1012">
+          <extent>
+              <charseq START="1691" END="1696">retake</charseq>
+          </extent>
+          <head>
+              <charseq START="1691" END="1696">retake</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E6-M1103" ROLE="LOC">
+          <extent>
+              <charseq START="1811" END="1823">South Ossetia</charseq>
+          </extent>
+          <head>
+              <charseq START="1811" END="1823">South Ossetia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South
+Ossetia">
+              <charseq START="254" END="266">South
+Ossetia</charseq>
+          </name>
+          <name NAME="South Ossetia">
+              <charseq START="433" END="445">South Ossetia</charseq>
+          </name>
+          <name NAME="South Ossetia">
+              <charseq START="827" END="839">South Ossetia</charseq>
+          </name>
+          <name NAME="South
+Ossetia">
+              <charseq START="1153" END="1165">South
+Ossetia</charseq>
+          </name>
+          <name NAME="South Ossetia">
+              <charseq START="1698" END="1710">South Ossetia</charseq>
+          </name>
+          <name NAME="South Ossetia">
+              <charseq START="1811" END="1823">South Ossetia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E7-M318" ROLE="GPE">
+          <extent>
+              <charseq START="368" END="374">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="368" END="374">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E7-M1000">
+          <extent>
+              <charseq START="1594" END="1599">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="1594" END="1599">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E7-M1101" ROLE="GPE">
+          <extent>
+              <charseq START="1773" END="1779">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="1773" END="1779">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E7-M1200">
+          <extent>
+              <charseq START="1941" END="1946">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="1941" END="1946">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russian">
+              <charseq START="368" END="374">Russian</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="1594" END="1599">Russia</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="1773" END="1779">Russian</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="1941" END="1946">Russia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E8-M304">
+          <extent>
+              <charseq START="221" END="239">the mayor of Moscow</charseq>
+          </extent>
+          <head>
+              <charseq START="225" END="229">mayor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E9-M400">
+          <extent>
+              <charseq START="394" END="418">Moscow Mayor Yuri Luzhkov</charseq>
+          </extent>
+          <head>
+              <charseq START="407" END="418">Yuri Luzhkov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E9-M402">
+          <extent>
+              <charseq START="401" END="405">Mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="401" END="405">Mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E9-M507">
+          <extent>
+              <charseq START="617" END="623">Luzhkov</charseq>
+          </extent>
+          <head>
+              <charseq START="617" END="623">Luzhkov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E9-M700">
+          <extent>
+              <charseq START="1085" END="1166">Luzhkov, whose government has pledged millions of dollars in aid to South
+Ossetia,</charseq>
+          </extent>
+          <head>
+              <charseq START="1085" END="1091">Luzhkov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090831.0379-E9-M702">
+          <extent>
+              <charseq START="1094" END="1098">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="1094" END="1098">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090831.0379-E9-M912">
+          <extent>
+              <charseq START="1546" END="1548">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1546" END="1548">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yuri Luzhkov">
+              <charseq START="407" END="418">Yuri Luzhkov</charseq>
+          </name>
+          <name NAME="Luzhkov">
+              <charseq START="617" END="623">Luzhkov</charseq>
+          </name>
+          <name NAME="Luzhkov">
+              <charseq START="1085" END="1091">Luzhkov</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E10-M411">
+          <extent>
+              <charseq START="542" END="551">Tskhinvali</charseq>
+          </extent>
+          <head>
+              <charseq START="542" END="551">Tskhinvali</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E10-M409">
+          <extent>
+              <charseq START="518" END="539">the region&apos;s main city</charseq>
+          </extent>
+          <head>
+              <charseq START="536" END="539">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E10-M405">
+          <extent>
+              <charseq START="461" END="472">a new suburb</charseq>
+          </extent>
+          <head>
+              <charseq START="467" END="472">suburb</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E10-M406">
+          <extent>
+              <charseq START="484" END="505">the Moskovsky district</charseq>
+          </extent>
+          <head>
+              <charseq START="498" END="505">district</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E10-M604" ROLE="GPE">
+          <extent>
+              <charseq START="904" END="913">Tskhinvali</charseq>
+          </extent>
+          <head>
+              <charseq START="904" END="913">Tskhinvali</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E10-M900">
+          <extent>
+              <charseq START="1404" END="1425">The Moskovsky district</charseq>
+          </extent>
+          <head>
+              <charseq START="1418" END="1425">district</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tskhinvali">
+              <charseq START="542" END="551">Tskhinvali</charseq>
+          </name>
+          <name NAME="Tskhinvali">
+              <charseq START="904" END="913">Tskhinvali</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E11-M500">
+          <extent>
+              <charseq START="563" END="610">Georgian Deputy Foreign Minister David Jalagania</charseq>
+          </extent>
+          <head>
+              <charseq START="596" END="610">David Jalagania</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E11-M504">
+          <extent>
+              <charseq START="587" END="594">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="587" END="594">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E11-M613">
+          <extent>
+              <charseq START="1037" END="1045">Jalagania</charseq>
+          </extent>
+          <head>
+              <charseq START="1037" END="1045">Jalagania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Jalagania">
+              <charseq START="596" END="610">David Jalagania</charseq>
+          </name>
+          <name NAME="Jalagania">
+              <charseq START="1037" END="1045">Jalagania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E12-M518" ROLE="GPE">
+          <extent>
+              <charseq START="754" END="764">Tamarasheni</charseq>
+          </extent>
+          <head>
+              <charseq START="754" END="764">Tamarasheni</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E12-M516">
+          <extent>
+              <charseq START="726" END="751">an ethnic Georgian village</charseq>
+          </extent>
+          <head>
+              <charseq START="745" END="751">village</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E12-M512">
+          <extent>
+              <charseq START="680" END="693">the new suburb</charseq>
+          </extent>
+          <head>
+              <charseq START="688" END="693">suburb</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090831.0379-E12-M519">
+          <extent>
+              <charseq START="767" END="771">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="767" END="771">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tamarasheni">
+              <charseq START="754" END="764">Tamarasheni</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E13-M513">
+          <extent>
+              <charseq START="713" END="839">the
+ruins of an ethnic Georgian village, Tamarasheni, whose residents fled the
+region during last year&apos;s war over South Ossetia</charseq>
+          </extent>
+          <head>
+              <charseq START="717" END="721">ruins</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E14-M605">
+          <extent>
+              <charseq START="960" END="973">even the Nazis</charseq>
+          </extent>
+          <head>
+              <charseq START="969" END="973">Nazis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E14-M603">
+          <extent>
+              <charseq START="900" END="929">the Tskhinvali criminal regime</charseq>
+          </extent>
+          <head>
+              <charseq START="924" END="929">regime</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nazis">
+              <charseq START="969" END="973">Nazis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E15-M612">
+          <extent>
+              <charseq START="1028" END="1033">Berlin</charseq>
+          </extent>
+          <head>
+              <charseq START="1028" END="1033">Berlin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Berlin">
+              <charseq START="1028" END="1033">Berlin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E16" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E16-M607">
+          <extent>
+              <charseq START="992" END="999">building</charseq>
+          </extent>
+          <head>
+              <charseq START="992" END="999">building</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E17-M614">
+          <extent>
+              <charseq START="1052" END="1062">journalists</charseq>
+          </extent>
+          <head>
+              <charseq START="1052" END="1062">journalists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E18-M803">
+          <extent>
+              <charseq START="1296" END="1401">needy people, who have lost their fathers, sons and
+defenders, who defended the country from the aggressor</charseq>
+          </extent>
+          <head>
+              <charseq START="1302" END="1307">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E18-M814">
+          <extent>
+              <charseq START="1389" END="1401">the aggressor</charseq>
+          </extent>
+          <head>
+              <charseq START="1393" END="1401">aggressor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090831.0379-E18-M806">
+          <extent>
+              <charseq START="1310" END="1312">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1310" END="1312">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090831.0379-E18-M809">
+          <extent>
+              <charseq START="1324" END="1328">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1324" END="1328">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090831.0379-E18-M812">
+          <extent>
+              <charseq START="1359" END="1361">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1359" END="1361">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E19-M808">
+          <extent>
+              <charseq START="1324" END="1336">their fathers</charseq>
+          </extent>
+          <head>
+              <charseq START="1330" END="1336">fathers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E20-M810">
+          <extent>
+              <charseq START="1339" END="1342">sons</charseq>
+          </extent>
+          <head>
+              <charseq START="1339" END="1342">sons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E21-M811">
+          <extent>
+              <charseq START="1348" END="1356">defenders</charseq>
+          </extent>
+          <head>
+              <charseq START="1348" END="1356">defenders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E23" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E23-M910">
+          <extent>
+              <charseq START="1518" END="1525">Interfax</charseq>
+          </extent>
+          <head>
+              <charseq START="1518" END="1525">Interfax</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E23-M908">
+          <extent>
+              <charseq START="1514" END="1582">the Interfax news agency quoted him as saying at the opening
+ceremony</charseq>
+          </extent>
+          <head>
+              <charseq START="1532" END="1537">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Interfax">
+              <charseq START="1518" END="1525">Interfax</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E24" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E24-M1002">
+          <extent>
+              <charseq START="1606" END="1610">tanks</charseq>
+          </extent>
+          <head>
+              <charseq START="1606" END="1610">tanks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E25-M1003">
+          <extent>
+              <charseq START="1616" END="1621">troops</charseq>
+          </extent>
+          <head>
+              <charseq START="1616" END="1621">troops</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E25-M1203">
+          <extent>
+              <charseq START="1970" END="1975">troops</charseq>
+          </extent>
+          <head>
+              <charseq START="1970" END="1975">troops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E26" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090831.0379-E26-M1107" ROLE="LOC">
+          <extent>
+              <charseq START="1860" END="1867">Abkhazia</charseq>
+          </extent>
+          <head>
+              <charseq START="1860" END="1867">Abkhazia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E26-M1109">
+          <extent>
+              <charseq START="1894" END="1907">both provinces</charseq>
+          </extent>
+          <head>
+              <charseq START="1899" END="1907">provinces</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Abkhazia">
+              <charseq START="1860" END="1867">Abkhazia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E27-M1100">
+          <extent>
+              <charseq START="1773" END="1786">Russian troops</charseq>
+          </extent>
+          <head>
+              <charseq START="1781" END="1786">troops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E28" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E28-M1104">
+          <extent>
+              <charseq START="1829" END="1857">another rebel Georgian region</charseq>
+          </extent>
+          <head>
+              <charseq START="1852" END="1857">region</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E29" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E29-M1110">
+          <extent>
+              <charseq START="1912" END="1929">independent states</charseq>
+          </extent>
+          <head>
+              <charseq START="1924" END="1929">states</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090831.0379-E30" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090831.0379-E30-M1207">
+          <extent>
+              <charseq START="2013" END="2023">the
+regions</charseq>
+          </extent>
+          <head>
+              <charseq START="2017" END="2023">regions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20090831.0379-T0" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20090831.0379-T0-M1">
+            <extent>
+              <charseq START="151" END="154">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090831.0379-T1" VAL="2009-08-31">
+        <timex2_mention ID="AFP_ENG_20090831.0379-T1-M1">
+            <extent>
+              <charseq START="198" END="203">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090831.0379-T2" VAL="2008">
+        <timex2_mention ID="AFP_ENG_20090831.0379-T2-M1">
+            <extent>
+              <charseq START="806" END="814">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="AFP_ENG_20090831.0379-V3" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="AFP_ENG_20090831.0379-V3-M1">
+            <extent>
+              <charseq START="1123" END="1141">millions of dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="AFP_ENG_20090831.0379-T4" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-31" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="AFP_ENG_20090831.0379-T4-M1">
+            <extent>
+              <charseq START="1441" END="1446">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090831.0379-T5" VAL="2008-08">
+        <timex2_mention ID="AFP_ENG_20090831.0379-T5-M1">
+            <extent>
+              <charseq START="1639" END="1649">August 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090831.0379-T6" VAL="PXY">
+        <timex2_mention ID="AFP_ENG_20090831.0379-T6-M1">
+            <extent>
+              <charseq START="1766" END="1770">years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="AFP_ENG_20090831.0379-V7" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="AFP_ENG_20090831.0379-V7-M1">
+            <extent>
+              <charseq START="1988" END="2006">millions of dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="AFP_ENG_20090831.0379-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E2" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R0-M0">
+          <extent>
+              <charseq START="98" END="102">rebel</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E3-M7" ROLE="Arg-1">
+            <extent>
+              <charseq START="98" END="102">rebel</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E2-M6" ROLE="Arg-2">
+            <extent>
+              <charseq START="98" END="109">rebel region</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R1-M300">
+          <extent>
+              <charseq START="221" END="239">the mayor of Moscow</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E8-M304" ROLE="Arg-1">
+            <extent>
+              <charseq START="221" END="239">the mayor of Moscow</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E1-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="234" END="239">Moscow</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E7" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R2-M301">
+          <extent>
+              <charseq START="364" END="382">the Russian capital</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E1-M317" ROLE="Arg-1">
+            <extent>
+              <charseq START="364" END="382">the Russian capital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E7-M318" ROLE="Arg-2">
+            <extent>
+              <charseq START="368" END="374">Russian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E2" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R3-M401">
+          <extent>
+              <charseq START="518" END="539">the region&apos;s main city</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E10-M409" ROLE="Arg-1">
+            <extent>
+              <charseq START="518" END="539">the region&apos;s main city</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E2-M410" ROLE="Arg-2">
+            <extent>
+              <charseq START="518" END="527">the region</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R4-M500">
+          <extent>
+              <charseq START="587" END="594">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E11-M504" ROLE="Arg-1">
+            <extent>
+              <charseq START="587" END="594">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E0-M501" ROLE="Arg-2">
+            <extent>
+              <charseq START="563" END="570">Georgian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R5-M501">
+          <extent>
+              <charseq START="726" END="751">an ethnic Georgian village</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E12-M516" ROLE="Arg-1">
+            <extent>
+              <charseq START="726" END="751">an ethnic Georgian village</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E0-M517" ROLE="Arg-2">
+            <extent>
+              <charseq START="736" END="743">Georgian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R6" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E10" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R6-M600">
+          <extent>
+              <charseq START="900" END="929">the Tskhinvali criminal regime</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E14-M603" ROLE="Arg-1">
+            <extent>
+              <charseq START="900" END="929">the Tskhinvali criminal regime</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E10-M604" ROLE="Arg-2">
+            <extent>
+              <charseq START="904" END="913">Tskhinvali</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R7-M601">
+          <extent>
+              <charseq START="1052" END="1062">journalists</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E17-M614" ROLE="Arg-1">
+            <extent>
+              <charseq START="1052" END="1062">journalists</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E4-M615" ROLE="Arg-2">
+            <extent>
+              <charseq START="1067" END="1073">Tbilisi</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R8" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E19" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R8-M800">
+          <extent>
+              <charseq START="1324" END="1328">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E18-M809" ROLE="Arg-1">
+            <extent>
+              <charseq START="1324" END="1328">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E19-M808" ROLE="Arg-2">
+            <extent>
+              <charseq START="1324" END="1336">their fathers</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R9" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E0" ROLE="Arg-2"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-T5" ROLE="Time-Within"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R9-M1000">
+          <extent>
+              <charseq START="1616" END="1621">troops</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E25-M1003" ROLE="Arg-1">
+            <extent>
+              <charseq START="1616" END="1621">troops</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E0-M1004" ROLE="Arg-2">
+            <extent>
+              <charseq START="1628" END="1634">Georgia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-T5-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1639" END="1649">August 2008</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R10" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E6" ROLE="Arg-2"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-T5" ROLE="Time-Within"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R10-M1001">
+          <extent>
+              <charseq START="1616" END="1621">troops</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E25-M1003" ROLE="Arg-1">
+            <extent>
+              <charseq START="1616" END="1621">troops</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E6-M1010" ROLE="Arg-2">
+            <extent>
+              <charseq START="1691" END="1770">retake South Ossetia, which had received extensive backing
+from Moscow for years</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-T5-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1639" END="1649">August 2008</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E7" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R11-M1100">
+          <extent>
+              <charseq START="1773" END="1786">Russian troops</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E27-M1100" ROLE="Arg-1">
+            <extent>
+              <charseq START="1773" END="1786">Russian troops</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E7-M1101" ROLE="Arg-2">
+            <extent>
+              <charseq START="1773" END="1779">Russian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090831.0379-R12" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090831.0379-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090831.0379-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090831.0379-R12-M1101">
+          <extent>
+              <charseq START="1829" END="1857">another rebel Georgian region</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E28-M1104" ROLE="Arg-1">
+            <extent>
+              <charseq START="1829" END="1857">another rebel Georgian region</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090831.0379-E0-M1106" ROLE="Arg-2">
+            <extent>
+              <charseq START="1843" END="1850">Georgian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

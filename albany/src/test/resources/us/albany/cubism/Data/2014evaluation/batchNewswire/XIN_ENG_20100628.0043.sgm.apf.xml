@@ -1,0 +1,420 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100628.0043">
+  <document DOCID="XIN_ENG_20100628.0043">
+
+    <entity ID="XIN_ENG_20100628.0043-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E0-M0">
+          <extent>
+              <charseq START="58" END="63">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E0-M300">
+          <extent>
+              <charseq START="193" END="198">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="193" END="198">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E0-M312" ROLE="GPE">
+          <extent>
+              <charseq START="328" END="334">Turkish</charseq>
+          </extent>
+          <head>
+              <charseq START="328" END="334">Turkish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E0-M407" ROLE="GPE">
+          <extent>
+              <charseq START="496" END="502">Turkish</charseq>
+          </extent>
+          <head>
+              <charseq START="496" END="502">Turkish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E0-M501">
+          <extent>
+              <charseq START="587" END="592">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="587" END="592">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E0-M510">
+          <extent>
+              <charseq START="723" END="728">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="723" END="728">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E0-M601">
+          <extent>
+              <charseq START="814" END="819">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="814" END="819">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Turkey">
+              <charseq START="58" END="63">Turkey</charseq>
+          </name>
+          <name NAME="Turkey">
+              <charseq START="193" END="198">Turkey</charseq>
+          </name>
+          <name NAME="Turkish">
+              <charseq START="328" END="334">Turkish</charseq>
+          </name>
+          <name NAME="Turkish">
+              <charseq START="496" END="502">Turkish</charseq>
+          </name>
+          <name NAME="Turkey">
+              <charseq START="587" END="592">Turkey</charseq>
+          </name>
+          <name NAME="Turkey">
+              <charseq START="723" END="728">Turkey</charseq>
+          </name>
+          <name NAME="Turkey">
+              <charseq START="814" END="819">Turkey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100628.0043-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E1-M2" ROLE="GPE">
+          <extent>
+              <charseq START="84" END="89">Afghan</charseq>
+          </extent>
+          <head>
+              <charseq START="84" END="89">Afghan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E1-M306" ROLE="GPE">
+          <extent>
+              <charseq START="259" END="264">Afghan</charseq>
+          </extent>
+          <head>
+              <charseq START="259" END="264">Afghan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E1-M409" ROLE="GPE">
+          <extent>
+              <charseq START="558" END="563">Afghan</charseq>
+          </extent>
+          <head>
+              <charseq START="558" END="563">Afghan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E1-M511">
+          <extent>
+              <charseq START="734" END="744">Afghanistan</charseq>
+          </extent>
+          <head>
+              <charseq START="734" END="744">Afghanistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E1-M600">
+          <extent>
+              <charseq START="801" END="811">Afghanistan</charseq>
+          </extent>
+          <head>
+              <charseq START="801" END="811">Afghanistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100628.0043-E1-M605" ROLE="LOC">
+          <extent>
+              <charseq START="880" END="890">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="884" END="890">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Afghan">
+              <charseq START="84" END="89">Afghan</charseq>
+          </name>
+          <name NAME="Afghan">
+              <charseq START="259" END="264">Afghan</charseq>
+          </name>
+          <name NAME="Afghan">
+              <charseq START="558" END="563">Afghan</charseq>
+          </name>
+          <name NAME="Afghanistan">
+              <charseq START="734" END="744">Afghanistan</charseq>
+          </name>
+          <name NAME="Afghanistan">
+              <charseq START="801" END="811">Afghanistan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100628.0043-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100628.0043-E2-M1">
+          <extent>
+              <charseq START="84" END="98">Afghan soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="91" END="98">soldiers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100628.0043-E2-M305">
+          <extent>
+              <charseq START="259" END="273">Afghan
+soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="266" END="273">soldiers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100628.0043-E2-M401">
+          <extent>
+              <charseq START="422" END="436">the 25 soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="429" END="436">soldiers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100628.0043-E2-M502">
+          <extent>
+              <charseq START="609" END="628">the wounded soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="628">soldiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100628.0043-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="145" END="150">ANKARA</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="150">ANKARA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ANKARA">
+              <charseq START="145" END="150">ANKARA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100628.0043-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100628.0043-E4-M200">
+          <extent>
+              <charseq START="162" END="167">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="162" END="167">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="162" END="167">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100628.0043-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100628.0043-E5-M311">
+          <extent>
+              <charseq START="328" END="351">Turkish foreign
+ministry</charseq>
+          </extent>
+          <head>
+              <charseq START="344" END="351">ministry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100628.0043-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100628.0043-E6-M405">
+          <extent>
+              <charseq START="492" END="535">the Turkish armed forces&apos; medical facilities</charseq>
+          </extent>
+          <head>
+              <charseq START="526" END="535">facilities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100628.0043-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100628.0043-E7-M406">
+          <extent>
+              <charseq START="492" END="515">the Turkish armed forces</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="515">forces</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100628.0043-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100628.0043-E8-M408">
+          <extent>
+              <charseq START="554" END="575">the Afghan authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="565" END="575">authorities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100628.0043-T0" VAL="2010-06-28">
+        <timex2_mention ID="XIN_ENG_20100628.0043-T0-M1">
+            <extent>
+              <charseq START="153" END="159">June 28</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100628.0043-T1" VAL="2010-06-29">
+        <timex2_mention ID="XIN_ENG_20100628.0043-T1-M1">
+            <extent>
+              <charseq START="319" END="325">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100628.0043-T2" VAL="2010-06-28">
+        <timex2_mention ID="XIN_ENG_20100628.0043-T2-M1">
+            <extent>
+              <charseq START="386" END="391">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100628.0043-T3" VAL="FUTURE_REF" ANCHOR_VAL="2010-06-28" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="XIN_ENG_20100628.0043-T3-M1">
+            <extent>
+              <charseq START="959" END="968">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100628.0043-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100628.0043-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100628.0043-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100628.0043-R0-M0">
+          <extent>
+              <charseq START="84" END="98">Afghan soldiers</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E2-M1" ROLE="Arg-1">
+            <extent>
+              <charseq START="84" END="98">Afghan soldiers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E1-M2" ROLE="Arg-2">
+            <extent>
+              <charseq START="84" END="89">Afghan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20100628.0043-R0-M300">
+          <extent>
+              <charseq START="259" END="273">Afghan
+soldiers</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E2-M305" ROLE="Arg-1">
+            <extent>
+              <charseq START="259" END="273">Afghan
+soldiers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E1-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="259" END="264">Afghan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100628.0043-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100628.0043-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100628.0043-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100628.0043-R1-M301">
+          <extent>
+              <charseq START="328" END="351">Turkish foreign
+ministry</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E5-M311" ROLE="Arg-1">
+            <extent>
+              <charseq START="328" END="351">Turkish foreign
+ministry</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E0-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="328" END="334">Turkish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100628.0043-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100628.0043-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100628.0043-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100628.0043-R2-M400">
+          <extent>
+              <charseq START="492" END="515">the Turkish armed forces</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E7-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="492" END="515">the Turkish armed forces</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E6-M405" ROLE="Arg-2">
+            <extent>
+              <charseq START="492" END="535">the Turkish armed forces&apos; medical facilities</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100628.0043-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100628.0043-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100628.0043-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100628.0043-R3-M401">
+          <extent>
+              <charseq START="492" END="515">the Turkish armed forces</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E7-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="492" END="515">the Turkish armed forces</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E0-M407" ROLE="Arg-2">
+            <extent>
+              <charseq START="496" END="502">Turkish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100628.0043-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100628.0043-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100628.0043-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100628.0043-R4-M402">
+          <extent>
+              <charseq START="554" END="575">the Afghan authorities</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E8-M408" ROLE="Arg-1">
+            <extent>
+              <charseq START="554" END="575">the Afghan authorities</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100628.0043-E1-M409" ROLE="Arg-2">
+            <extent>
+              <charseq START="558" END="563">Afghan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

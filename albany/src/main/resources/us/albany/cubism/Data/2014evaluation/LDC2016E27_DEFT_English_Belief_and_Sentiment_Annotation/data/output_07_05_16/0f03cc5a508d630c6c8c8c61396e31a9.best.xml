@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="0f03cc5a508d630c6c8c8c61396e31a9.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-387" length="16" offset="795">
+        <text>a good nicu unit</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-69" length="11" offset="14">Christina86</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-393" length="12" offset="1158">
+        <text>the hospital</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-225" length="1" offset="1127">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-393" length="12" offset="1158">
+        <text>the hospital</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-219" length="12" offset="1073">JenniferinCo</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-141" length="4" offset="2961">
+        <text>your</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-297" length="7" offset="1605">SarahSH</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

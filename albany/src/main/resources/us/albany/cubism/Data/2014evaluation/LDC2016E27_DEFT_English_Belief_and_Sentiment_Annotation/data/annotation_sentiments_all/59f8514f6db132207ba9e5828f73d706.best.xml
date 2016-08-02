@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-5693faa80000000000000039">
+  
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-1574" length="67" offset="5911">
+        <text>the most despicable female this country has seen since Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-825" length="8" offset="5874">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1616" length="67" offset="5712">
+        <text>the most despicable female this country has seen since Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-831" length="8" offset="4491">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-903" length="12" offset="5767">
+        <text>Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-831" length="8" offset="4491">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-909" length="12" offset="5966">
+        <text>Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-825" length="8" offset="5874">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1397" length="10" offset="1135">
+        <text>a "friend"</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-585" length="9" offset="996">Ed Selley</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-1722">
+        <trigger length="4" offset="4380">live</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-363" length="6" offset="4169">Pecker</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-1817">
+        <trigger length="4" offset="6731">live</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-351" length="6" offset="6561">Pecker</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-1966">
+        <trigger length="3" offset="4411">buy</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-363" length="6" offset="4169">Pecker</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-2063">
+        <trigger length="3" offset="6762">buy</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-351" length="6" offset="6561">Pecker</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-2119">
+        <trigger length="3" offset="4411">buy</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-363" length="6" offset="4169">Pecker</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-2156">
+        <trigger length="3" offset="6762">buy</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-351" length="6" offset="6561">Pecker</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

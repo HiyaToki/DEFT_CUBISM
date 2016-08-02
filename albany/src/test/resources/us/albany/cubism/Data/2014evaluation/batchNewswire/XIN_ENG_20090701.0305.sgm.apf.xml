@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20090701.0305">
+  <document DOCID="XIN_ENG_20090701.0305">
+
+    <entity ID="XIN_ENG_20090701.0305-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="64">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E0-M302" ROLE="GPE">
+          <extent>
+              <charseq START="199" END="205">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="199" END="205">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E0-M402">
+          <extent>
+              <charseq START="382" END="386">China</charseq>
+          </extent>
+          <head>
+              <charseq START="382" END="386">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E0-M502">
+          <extent>
+              <charseq START="660" END="664">China</charseq>
+          </extent>
+          <head>
+              <charseq START="660" END="664">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E0-M611" ROLE="GPE">
+          <extent>
+              <charseq START="1003" END="1008">China,</charseq>
+          </extent>
+          <head>
+              <charseq START="1003" END="1007">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E0-M616" ROLE="GPE">
+          <extent>
+              <charseq START="1026" END="1032">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="1026" END="1032">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E0-M623">
+          <extent>
+              <charseq START="1146" END="1150">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1146" END="1150">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E0-M628">
+          <extent>
+              <charseq START="1254" END="1258">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1254" END="1258">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090701.0305-E0-M615" ROLE="ORG">
+          <extent>
+              <charseq START="1022" END="1043">the Chinese
+government</charseq>
+          </extent>
+          <head>
+              <charseq START="1034" END="1043">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chinese">
+              <charseq START="58" END="64">Chinese</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="199" END="205">Chinese</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="382" END="386">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="660" END="664">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1003" END="1007">China</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="1026" END="1032">Chinese</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1146" END="1150">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1254" END="1258">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E1-M6" ROLE="GPE">
+          <extent>
+              <charseq START="108" END="114">British</charseq>
+          </extent>
+          <head>
+              <charseq START="108" END="114">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E1-M308">
+          <extent>
+              <charseq START="234" END="240">British</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="240">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E1-M403">
+          <extent>
+              <charseq START="388" END="394">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="388" END="394">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E1-M504">
+          <extent>
+              <charseq START="711" END="717">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="711" END="717">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E1-M509" ROLE="GPE">
+          <extent>
+              <charseq START="811" END="817">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="811" END="817">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E1-M603" ROLE="GPE">
+          <extent>
+              <charseq START="902" END="908">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="902" END="908">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090701.0305-E1-M610">
+          <extent>
+              <charseq START="958" END="960">its</charseq>
+          </extent>
+          <head>
+              <charseq START="958" END="960">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="108" END="114">British</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="234" END="240">British</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="388" END="394">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="711" END="717">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="811" END="817">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="902" END="908">Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090701.0305-E2-M0">
+          <extent>
+              <charseq START="58" END="72">Chinese premier</charseq>
+          </extent>
+          <head>
+              <charseq START="66" END="72">premier</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090701.0305-E3-M5">
+          <extent>
+              <charseq START="108" END="126">British
+counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="116" END="126">counterpart</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E4-M101" ROLE="LOC">
+          <extent>
+              <charseq START="151" END="157">BEIJING</charseq>
+          </extent>
+          <head>
+              <charseq START="151" END="157">BEIJING</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BEIJING">
+              <charseq START="151" END="157">BEIJING</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E5-M200">
+          <extent>
+              <charseq START="168" END="173">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="168" END="173">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="168" END="173">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E6-M301">
+          <extent>
+              <charseq START="199" END="224">Chinese Premier Wen Jiabao</charseq>
+          </extent>
+          <head>
+              <charseq START="215" END="224">Wen Jiabao</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090701.0305-E6-M303">
+          <extent>
+              <charseq START="207" END="213">Premier</charseq>
+          </extent>
+          <head>
+              <charseq START="207" END="213">Premier</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090701.0305-E6-M307">
+          <extent>
+              <charseq START="230" END="232">his</charseq>
+          </extent>
+          <head>
+              <charseq START="230" END="232">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E6-M400">
+          <extent>
+              <charseq START="373" END="375">Wen</charseq>
+          </extent>
+          <head>
+              <charseq START="373" END="375">Wen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090701.0305-E6-M500">
+          <extent>
+              <charseq START="652" END="653">He</charseq>
+          </extent>
+          <head>
+              <charseq START="652" END="653">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wen Jiabao">
+              <charseq START="215" END="224">Wen Jiabao</charseq>
+          </name>
+          <name NAME="Wen">
+              <charseq START="373" END="375">Wen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E7-M305">
+          <extent>
+              <charseq START="230" END="278">his British counterpart Gordon Brown on Wednesday</charseq>
+          </extent>
+          <head>
+              <charseq START="254" END="265">Gordon Brown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090701.0305-E7-M309">
+          <extent>
+              <charseq START="242" END="252">counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="242" END="252">counterpart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090701.0305-E7-M600">
+          <extent>
+              <charseq START="891" END="895">Brown</charseq>
+          </extent>
+          <head>
+              <charseq START="891" END="895">Brown</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gordon Brown">
+              <charseq START="254" END="265">Gordon Brown</charseq>
+          </name>
+          <name NAME="Brown">
+              <charseq START="891" END="895">Brown</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090701.0305-E8-M405">
+          <extent>
+              <charseq START="440" END="452">the two sides</charseq>
+          </extent>
+          <head>
+              <charseq START="448" END="452">sides</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E9" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090701.0305-E9-M513">
+          <extent>
+              <charseq START="845" END="853">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="849" END="853">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090701.0305-E10-M601">
+          <extent>
+              <charseq START="902" END="1135">Britain attaches great importance to the development of its
+comprehensive strategic partnership with China, appreciates the Chinese
+government&apos;s firm resolution and vigorous measures adopted in handling of the
+global financial crisis,</charseq>
+          </extent>
+          <head>
+              <charseq START="910" END="917">attaches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090701.0305-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090701.0305-E11-M700">
+          <extent>
+              <charseq START="1288" END="1302">The two leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="1296" END="1302">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20090701.0305-T0" VAL="2009-07-01">
+        <timex2_mention ID="XIN_ENG_20090701.0305-T0-M1">
+            <extent>
+              <charseq START="160" END="165">July 1</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090701.0305-T1" VAL="2009-07-01">
+        <timex2_mention ID="XIN_ENG_20090701.0305-T1-M1">
+            <extent>
+              <charseq START="270" END="278">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090701.0305-T2" VAL="PRESENT_REF" ANCHOR_VAL="2009-07-01" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20090701.0305-T2-M1">
+            <extent>
+              <charseq START="405" END="413">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20090701.0305-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090701.0305-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090701.0305-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090701.0305-R0-M0">
+          <extent>
+              <charseq START="58" END="72">Chinese premier</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090701.0305-E2-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="58" END="72">Chinese premier</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090701.0305-E0-M1" ROLE="Arg-2">
+            <extent>
+              <charseq START="58" END="64">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090701.0305-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090701.0305-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090701.0305-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090701.0305-R1-M1">
+          <extent>
+              <charseq START="108" END="126">British
+counterpart</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090701.0305-E3-M5" ROLE="Arg-1">
+            <extent>
+              <charseq START="108" END="126">British
+counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090701.0305-E1-M6" ROLE="Arg-2">
+            <extent>
+              <charseq START="108" END="114">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090701.0305-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090701.0305-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090701.0305-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090701.0305-R2-M600">
+          <extent>
+              <charseq START="902" END="1135">Britain attaches great importance to the development of its
+comprehensive strategic partnership with China, appreciates the Chinese
+government&apos;s firm resolution and vigorous measures adopted in handling of the
+global financial crisis,</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090701.0305-E10-M601" ROLE="Arg-1">
+            <extent>
+              <charseq START="902" END="1135">Britain attaches great importance to the development of its
+comprehensive strategic partnership with China, appreciates the Chinese
+government&apos;s firm resolution and vigorous measures adopted in handling of the
+global financial crisis,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090701.0305-E1-M603" ROLE="Arg-2">
+            <extent>
+              <charseq START="902" END="908">Britain</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

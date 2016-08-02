@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20101223.0051">
+  <document DOCID="NYT_ENG_20101223.0051">
+
+    <entity ID="NYT_ENG_20101223.0051-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101223.0051-E0-M0" ROLE="LOC">
+          <extent>
+              <charseq START="58" END="83">CITIES FOR SHOPPERS TOP 10</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">CITIES</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101223.0051-E0-M201">
+          <extent>
+              <charseq START="122" END="125">Here</charseq>
+          </extent>
+          <head>
+              <charseq START="122" END="125">Here</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101223.0051-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101223.0051-E1-M102">
+          <extent>
+              <charseq START="116" END="119">shop</charseq>
+          </extent>
+          <head>
+              <charseq START="116" END="119">shop</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101223.0051-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101223.0051-E2-M400">
+          <extent>
+              <charseq START="190" END="204">Bangkok
+      2</charseq>
+          </extent>
+          <head>
+              <charseq START="190" END="196">Bangkok</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bangkok">
+              <charseq START="190" END="196">Bangkok</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101223.0051-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101223.0051-E3-M500">
+          <extent>
+              <charseq START="207" END="226">Buenos Aires
+      3</charseq>
+          </extent>
+          <head>
+              <charseq START="207" END="218">Buenos Aires</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Buenos Aires">
+              <charseq START="207" END="218">Buenos Aires</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101223.0051-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101223.0051-E4-M700">
+          <extent>
+              <charseq START="249" END="265">Hong Kong
+      5</charseq>
+          </extent>
+          <head>
+              <charseq START="249" END="257">Hong Kong</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hong Kong">
+              <charseq START="249" END="257">Hong Kong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101223.0051-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101223.0051-E5-M800">
+          <extent>
+              <charseq START="268" END="281">London
+      6</charseq>
+          </extent>
+          <head>
+              <charseq START="268" END="273">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="London">
+              <charseq START="268" END="273">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101223.0051-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101223.0051-E6-M900">
+          <extent>
+              <charseq START="284" END="302">Los Angeles
+      7</charseq>
+          </extent>
+          <head>
+              <charseq START="284" END="294">Los Angeles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles">
+              <charseq START="284" END="294">Los Angeles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101223.0051-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101223.0051-E7-M1100">
+          <extent>
+              <charseq START="324" END="344">New York City
+      9</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="336">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York City">
+              <charseq START="324" END="336">New York City</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101223.0051-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101223.0051-E8-M1200">
+          <extent>
+              <charseq START="347" END="360">Paris
+      10</charseq>
+          </extent>
+          <head>
+              <charseq START="347" END="351">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paris">
+              <charseq START="347" END="351">Paris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101223.0051-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101223.0051-E9-M1301" ROLE="GPE">
+          <extent>
+              <charseq START="363" END="371">St. Barts</charseq>
+          </extent>
+          <head>
+              <charseq START="363" END="371">St. Barts</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="St. Barts">
+              <charseq START="363" END="371">St. Barts</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <value ID="NYT_ENG_20101223.0051-V0" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20101223.0051-V0-M1">
+            <extent>
+              <charseq START="129" END="146">ShermansTravel.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+  </document>
+</source_file>

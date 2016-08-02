@@ -1,0 +1,838 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091117.0187">
+  <document DOCID="XIN_ENG_20091117.0187">
+
+    <entity ID="XIN_ENG_20091117.0187-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E0-M0">
+          <extent>
+              <charseq START="58" END="64">Mutombo</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">Mutombo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E0-M402">
+          <extent>
+              <charseq START="360" END="366">Mutombo</charseq>
+          </extent>
+          <head>
+              <charseq START="360" END="366">Mutombo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E0-M501">
+          <extent>
+              <charseq START="506" END="507">he</charseq>
+          </extent>
+          <head>
+              <charseq START="506" END="507">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E0-M606">
+          <extent>
+              <charseq START="740" END="741">he</charseq>
+          </extent>
+          <head>
+              <charseq START="740" END="741">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E0-M800">
+          <extent>
+              <charseq START="985" END="991">Mutombo</charseq>
+          </extent>
+          <head>
+              <charseq START="985" END="991">Mutombo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E0-M806">
+          <extent>
+              <charseq START="1064" END="1066">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1064" END="1066">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E0-M902">
+          <extent>
+              <charseq START="1122" END="1124">His</charseq>
+          </extent>
+          <head>
+              <charseq START="1122" END="1124">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E0-M913">
+          <extent>
+              <charseq START="1210" END="1212">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1210" END="1212">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E0-M925">
+          <extent>
+              <charseq START="1382" END="1384">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1382" END="1384">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E0-M1006">
+          <extent>
+              <charseq START="1463" END="1469">Mutombo</charseq>
+          </extent>
+          <head>
+              <charseq START="1463" END="1469">Mutombo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E0-M1102">
+          <extent>
+              <charseq START="1573" END="1756">four NBA Defensive Player of the Year awards through a career that also
+saw him named to eight All-Star Game appearances, and a place on three All-NBA
+teams and six All-Defensive teams</charseq>
+          </extent>
+          <head>
+              <charseq START="1592" END="1597">Player</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E0-M1101">
+          <extent>
+              <charseq START="1541" END="1543">His</charseq>
+          </extent>
+          <head>
+              <charseq START="1541" END="1543">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E0-M1111">
+          <extent>
+              <charseq START="1649" END="1651">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1649" END="1651">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mutombo">
+              <charseq START="58" END="64">Mutombo</charseq>
+          </name>
+          <name NAME="Mutombo">
+              <charseq START="360" END="366">Mutombo</charseq>
+          </name>
+          <name NAME="Mutombo">
+              <charseq START="985" END="991">Mutombo</charseq>
+          </name>
+          <name NAME="Mutombo">
+              <charseq START="1463" END="1469">Mutombo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E1" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E1-M2">
+          <extent>
+              <charseq START="84" END="86">NBA</charseq>
+          </extent>
+          <head>
+              <charseq START="84" END="86">NBA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E1-M301">
+          <extent>
+              <charseq START="179" END="181">NBA</charseq>
+          </extent>
+          <head>
+              <charseq START="179" END="181">NBA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E1-M307">
+          <extent>
+              <charseq START="266" END="268">NBA</charseq>
+          </extent>
+          <head>
+              <charseq START="266" END="268">NBA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E1-M407">
+          <extent>
+              <charseq START="444" END="446">NBA</charseq>
+          </extent>
+          <head>
+              <charseq START="444" END="446">NBA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E1-M504">
+          <extent>
+              <charseq START="530" END="538">NBA
+Cares</charseq>
+          </extent>
+          <head>
+              <charseq START="530" END="538">NBA
+Cares</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E1-M1104">
+          <extent>
+              <charseq START="1578" END="1580">NBA</charseq>
+          </extent>
+          <head>
+              <charseq START="1578" END="1580">NBA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NBA">
+              <charseq START="84" END="86">NBA</charseq>
+          </name>
+          <name NAME="NBA">
+              <charseq START="179" END="181">NBA</charseq>
+          </name>
+          <name NAME="NBA">
+              <charseq START="266" END="268">NBA</charseq>
+          </name>
+          <name NAME="NBA">
+              <charseq START="444" END="446">NBA</charseq>
+          </name>
+          <name NAME="NBA
+Cares">
+              <charseq START="530" END="538">NBA
+Cares</charseq>
+          </name>
+          <name NAME="NBA">
+              <charseq START="1578" END="1580">NBA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E2-M1">
+          <extent>
+              <charseq START="84" END="104">NBA global ambassador</charseq>
+          </extent>
+          <head>
+              <charseq START="95" END="104">ambassador</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E2-M306">
+          <extent>
+              <charseq START="262" END="286">the NBA global ambassador</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="286">ambassador</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="129" END="136">NEW YORK</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="136">NEW YORK</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NEW YORK">
+              <charseq START="129" END="136">NEW YORK</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E4-M200">
+          <extent>
+              <charseq START="148" END="153">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="148" END="153">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="148" END="153">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E5-M300">
+          <extent>
+              <charseq START="179" END="206">NBA Commissioner David Stern</charseq>
+          </extent>
+          <head>
+              <charseq START="196" END="206">David Stern</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E5-M302">
+          <extent>
+              <charseq START="183" END="194">Commissioner</charseq>
+          </extent>
+          <head>
+              <charseq START="183" END="194">Commissioner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E5-M515">
+          <extent>
+              <charseq START="622" END="637">the Commissioner</charseq>
+          </extent>
+          <head>
+              <charseq START="626" END="637">Commissioner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E5-M612">
+          <extent>
+              <charseq START="789" END="793">Stern</charseq>
+          </extent>
+          <head>
+              <charseq START="789" END="793">Stern</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E5-M702">
+          <extent>
+              <charseq START="811" END="813">His</charseq>
+          </extent>
+          <head>
+              <charseq START="811" END="813">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Stern">
+              <charseq START="196" END="206">David Stern</charseq>
+          </name>
+          <name NAME="Stern">
+              <charseq START="789" END="793">Stern</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E6-M305">
+          <extent>
+              <charseq START="232" END="246">Dikembe Mutombo</charseq>
+          </extent>
+          <head>
+              <charseq START="232" END="246">Dikembe Mutombo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dikembe Mutombo">
+              <charseq START="232" END="246">Dikembe Mutombo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E7-M408">
+          <extent>
+              <charseq START="465" END="490">Basketball without Borders</charseq>
+          </extent>
+          <head>
+              <charseq START="465" END="490">Basketball without Borders</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Basketball without Borders">
+              <charseq START="465" END="490">Basketball without Borders</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E8-M506">
+          <extent>
+              <charseq START="562" END="617">Hall of Famer Bob Lanier who serves as Special
+Assistant</charseq>
+          </extent>
+          <head>
+              <charseq START="562" END="565">Hall</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E8-M512">
+          <extent>
+              <charseq START="587" END="589">who</charseq>
+          </extent>
+          <head>
+              <charseq START="587" END="589">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hall">
+              <charseq START="562" END="565">Hall</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E9-M508">
+          <extent>
+              <charseq START="570" END="617">Famer Bob Lanier who serves as Special
+Assistant</charseq>
+          </extent>
+          <head>
+              <charseq START="576" END="585">Bob Lanier</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E9-M510">
+          <extent>
+              <charseq START="570" END="574">Famer</charseq>
+          </extent>
+          <head>
+              <charseq START="570" END="574">Famer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bob Lanier">
+              <charseq START="576" END="585">Bob Lanier</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E10-M513">
+          <extent>
+              <charseq START="601" END="617">Special
+Assistant</charseq>
+          </extent>
+          <head>
+              <charseq START="609" END="617">Assistant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E11-M604">
+          <extent>
+              <charseq START="693" END="701">the court</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="701">court</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E12-M605" ROLE="LOC">
+          <extent>
+              <charseq START="710" END="722">the community</charseq>
+          </extent>
+          <head>
+              <charseq START="714" END="722">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E13-M610">
+          <extent>
+              <charseq START="753" END="785">sports&apos; outstanding humanitarians</charseq>
+          </extent>
+          <head>
+              <charseq START="773" END="785">humanitarians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E15-M715">
+          <extent>
+              <charseq START="941" END="972">leaders in social
+responsibility</charseq>
+          </extent>
+          <head>
+              <charseq START="941" END="947">leaders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091117.0187-E15-M713">
+          <extent>
+              <charseq START="924" END="925">we</charseq>
+          </extent>
+          <head>
+              <charseq START="924" END="925">we</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E17-M801">
+          <extent>
+              <charseq START="1001" END="1030">the Dikembe Mutombo Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="1005" END="1030">Dikembe Mutombo Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dikembe Mutombo Foundation">
+              <charseq START="1005" END="1030">Dikembe Mutombo Foundation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E18-M805" ROLE="LOC">
+          <extent>
+              <charseq START="1064" END="1102">his native Democratic Republic of Congo</charseq>
+          </extent>
+          <head>
+              <charseq START="1068" END="1102">native Democratic Republic of Congo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="native Democratic Republic of Congo">
+              <charseq START="1068" END="1102">native Democratic Republic of Congo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E19" TYPE="ORG" SUBTYPE="Medical-Science" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E19-M918">
+          <extent>
+              <charseq START="1264" END="1316">the Biamba Marie
+Mutombo Hospital and Research Center</charseq>
+          </extent>
+          <head>
+              <charseq START="1268" END="1316">Biamba Marie
+Mutombo Hospital and Research Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Biamba Marie
+Mutombo Hospital and Research Center">
+              <charseq START="1268" END="1316">Biamba Marie
+Mutombo Hospital and Research Center</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091117.0187-E20-M923" ROLE="LOC">
+          <extent>
+              <charseq START="1361" END="1368">Kinshasa</charseq>
+          </extent>
+          <head>
+              <charseq START="1361" END="1368">Kinshasa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E20-M911" ROLE="LOC">
+          <extent>
+              <charseq START="1210" END="1259">his birthplace led to the construction and opening</charseq>
+          </extent>
+          <head>
+              <charseq START="1214" END="1223">birthplace</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kinshasa">
+              <charseq START="1361" END="1368">Kinshasa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E21-M909">
+          <extent>
+              <charseq START="1196" END="1259">the
+people in his birthplace led to the construction and opening</charseq>
+          </extent>
+          <head>
+              <charseq START="1200" END="1205">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E21-M924">
+          <extent>
+              <charseq START="1382" END="1396">his late mother</charseq>
+          </extent>
+          <head>
+              <charseq START="1391" END="1396">mother</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E22-M921">
+          <extent>
+              <charseq START="1341" END="1396">300-bed hospital in
+Kinshasa named after his late mother</charseq>
+          </extent>
+          <head>
+              <charseq START="1349" END="1356">hospital</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E23-M1002">
+          <extent>
+              <charseq START="1427" END="1460">the top post defenders of all time</charseq>
+          </extent>
+          <head>
+              <charseq START="1440" END="1448">defenders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E24-M1010">
+          <extent>
+              <charseq START="1524" END="1538">current players</charseq>
+          </extent>
+          <head>
+              <charseq START="1532" END="1538">players</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E26-M1113">
+          <extent>
+              <charseq START="1662" END="1670">eight All</charseq>
+          </extent>
+          <head>
+              <charseq START="1662" END="1666">eight</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091117.0187-E27" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E27-M1122">
+          <extent>
+              <charseq START="1720" END="1728">NBA
+teams</charseq>
+          </extent>
+          <head>
+              <charseq START="1724" END="1728">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091117.0187-E27-M1125">
+          <extent>
+              <charseq START="1742" END="1756">Defensive teams</charseq>
+          </extent>
+          <head>
+              <charseq START="1752" END="1756">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091117.0187-T0" VAL="2009-11-17">
+        <timex2_mention ID="XIN_ENG_20091117.0187-T0-M1">
+            <extent>
+              <charseq START="139" END="145">Nov. 17</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091117.0187-T1" VAL="2009-11-12">
+        <timex2_mention ID="XIN_ENG_20091117.0187-T1-M1">
+            <extent>
+              <charseq START="218" END="225">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091117.0187-T2">
+        <timex2_mention ID="XIN_ENG_20091117.0187-T2-M1">
+            <extent>
+              <charseq START="348" END="357">18 seasons</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091117.0187-T3" VAL="PRESENT_REF" ANCHOR_VAL="2009-11-17" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20091117.0187-T3-M1">
+            <extent>
+              <charseq START="373" END="375">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091117.0187-T4" VAL="1997">
+        <timex2_mention ID="XIN_ENG_20091117.0187-T4-M1">
+            <extent>
+              <charseq START="1107" END="1110">1997</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="XIN_ENG_20091117.0187-V5" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="XIN_ENG_20091117.0187-V5-M1">
+            <extent>
+              <charseq START="1321" END="1338">29 million dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="XIN_ENG_20091117.0187-T6" VAL="PRESENT_REF" ANCHOR_VAL="2009-11-17" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20091117.0187-T6-M1">
+            <extent>
+              <charseq START="1524" END="1530">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20091117.0187-R0" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091117.0187-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091117.0187-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091117.0187-R0-M300">
+          <extent>
+              <charseq START="183" END="194">Commissioner</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E5-M302" ROLE="Arg-1">
+            <extent>
+              <charseq START="183" END="194">Commissioner</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E1-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="179" END="181">NBA</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091117.0187-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091117.0187-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091117.0187-E17" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091117.0187-R1-M800">
+          <extent>
+              <charseq START="985" END="991">Mutombo</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E0-M800" ROLE="Arg-1">
+            <extent>
+              <charseq START="985" END="991">Mutombo</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E17-M801" ROLE="Arg-2">
+            <extent>
+              <charseq START="1001" END="1030">the Dikembe Mutombo Foundation</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091117.0187-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091117.0187-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091117.0187-E18" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091117.0187-R2-M801">
+          <extent>
+              <charseq START="1064" END="1066">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E0-M806" ROLE="Arg-1">
+            <extent>
+              <charseq START="1064" END="1066">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E18-M805" ROLE="Arg-2">
+            <extent>
+              <charseq START="1064" END="1102">his native Democratic Republic of Congo</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091117.0187-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091117.0187-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091117.0187-E20" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091117.0187-R3-M900">
+          <extent>
+              <charseq START="1196" END="1259">the
+people in his birthplace led to the construction and opening</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E21-M909" ROLE="Arg-1">
+            <extent>
+              <charseq START="1196" END="1259">the
+people in his birthplace led to the construction and opening</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E20-M911" ROLE="Arg-2">
+            <extent>
+              <charseq START="1210" END="1259">his birthplace led to the construction and opening</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091117.0187-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091117.0187-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091117.0187-E20" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091117.0187-R4-M901">
+          <extent>
+              <charseq START="1210" END="1212">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E0-M913" ROLE="Arg-1">
+            <extent>
+              <charseq START="1210" END="1212">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E20-M911" ROLE="Arg-2">
+            <extent>
+              <charseq START="1210" END="1259">his birthplace led to the construction and opening</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091117.0187-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091117.0187-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091117.0187-E20" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091117.0187-R5-M902">
+          <extent>
+              <charseq START="1341" END="1396">300-bed hospital in
+Kinshasa named after his late mother</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E22-M921" ROLE="Arg-1">
+            <extent>
+              <charseq START="1341" END="1396">300-bed hospital in
+Kinshasa named after his late mother</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E20-M923" ROLE="Arg-2">
+            <extent>
+              <charseq START="1361" END="1368">Kinshasa</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091117.0187-R6" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091117.0187-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091117.0187-E21" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091117.0187-R6-M903">
+          <extent>
+              <charseq START="1382" END="1384">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E0-M925" ROLE="Arg-1">
+            <extent>
+              <charseq START="1382" END="1384">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E21-M924" ROLE="Arg-2">
+            <extent>
+              <charseq START="1382" END="1396">his late mother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091117.0187-R7" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091117.0187-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091117.0187-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091117.0187-R7-M1100">
+          <extent>
+              <charseq START="1573" END="1756">four NBA Defensive Player of the Year awards through a career that also
+saw him named to eight All-Star Game appearances, and a place on three All-NBA
+teams and six All-Defensive teams</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E0-M1102" ROLE="Arg-1">
+            <extent>
+              <charseq START="1573" END="1756">four NBA Defensive Player of the Year awards through a career that also
+saw him named to eight All-Star Game appearances, and a place on three All-NBA
+teams and six All-Defensive teams</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091117.0187-E1-M1104" ROLE="Arg-2">
+            <extent>
+              <charseq START="1578" END="1580">NBA</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

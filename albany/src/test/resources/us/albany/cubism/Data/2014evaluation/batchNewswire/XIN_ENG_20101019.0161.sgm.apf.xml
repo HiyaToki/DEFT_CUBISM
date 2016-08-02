@@ -1,0 +1,884 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20101019.0161">
+  <document DOCID="XIN_ENG_20101019.0161">
+
+    <entity ID="XIN_ENG_20101019.0161-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="68">New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="68">New Zealand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E0-M301" ROLE="GPE">
+          <extent>
+              <charseq START="177" END="187">New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="187">New Zealand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E0-M402" ROLE="GPE">
+          <extent>
+              <charseq START="316" END="326">New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="316" END="326">New Zealand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E0-M505">
+          <extent>
+              <charseq START="502" END="512">New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="502" END="512">New Zealand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E0-M803">
+          <extent>
+              <charseq START="1117" END="1127">New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="1117" END="1127">New Zealand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E0-M910">
+          <extent>
+              <charseq START="1477" END="1487">New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="1477" END="1487">New Zealand</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Zealand">
+              <charseq START="58" END="68">New Zealand</charseq>
+          </name>
+          <name NAME="New Zealand">
+              <charseq START="177" END="187">New Zealand</charseq>
+          </name>
+          <name NAME="New Zealand">
+              <charseq START="316" END="326">New Zealand</charseq>
+          </name>
+          <name NAME="New Zealand">
+              <charseq START="502" END="512">New Zealand</charseq>
+          </name>
+          <name NAME="New Zealand">
+              <charseq START="1117" END="1127">New Zealand</charseq>
+          </name>
+          <name NAME="New Zealand">
+              <charseq START="1477" END="1487">New Zealand</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E1-M4" ROLE="LOC">
+          <extent>
+              <charseq START="76" END="90">visit Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="90">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E1-M5">
+          <extent>
+              <charseq START="76" END="80">visit</charseq>
+          </extent>
+          <head>
+              <charseq START="76" END="80">visit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E1-M308" ROLE="LOC">
+          <extent>
+              <charseq START="248" END="256">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="248" END="256">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E1-M400" ROLE="LOC">
+          <extent>
+              <charseq START="301" END="309">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="301" END="309">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E1-M508" ROLE="GPE">
+          <extent>
+              <charseq START="550" END="558">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="550" END="558">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E1-M604" ROLE="GPE">
+          <extent>
+              <charseq START="728" END="738">Indonessian</charseq>
+          </extent>
+          <head>
+              <charseq START="728" END="738">Indonessian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E1-M614" ROLE="LOC">
+          <extent>
+              <charseq START="865" END="873">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="865" END="873">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E1-M901">
+          <extent>
+              <charseq START="1369" END="1377">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="1369" END="1377">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indonesia">
+              <charseq START="82" END="90">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="248" END="256">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="301" END="309">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="550" END="558">Indonesia</charseq>
+          </name>
+          <name NAME="Indonessian">
+              <charseq START="728" END="738">Indonessian</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="865" END="873">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="1369" END="1377">Indonesia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E2-M7" ROLE="LOC">
+          <extent>
+              <charseq START="93" END="100">Malaysia</charseq>
+          </extent>
+          <head>
+              <charseq START="93" END="100">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E2-M309" ROLE="LOC">
+          <extent>
+              <charseq START="262" END="269">Malaysia</charseq>
+          </extent>
+          <head>
+              <charseq START="262" END="269">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E2-M703" ROLE="LOC">
+          <extent>
+              <charseq START="935" END="942">Malaysia</charseq>
+          </extent>
+          <head>
+              <charseq START="935" END="942">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E2-M804" ROLE="GPE">
+          <extent>
+              <charseq START="1175" END="1346">Malaysia, which is built on strong links at many levels, as well as
+increasingly integrated economies, thanks to the Free Trade Agreement which
+entered into force on Aug. 1</charseq>
+          </extent>
+          <head>
+              <charseq START="1175" END="1182">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0161-E2-M806">
+          <extent>
+              <charseq START="1185" END="1189">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1185" END="1189">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E2-M902">
+          <extent>
+              <charseq START="1383" END="1390">Malaysia</charseq>
+          </extent>
+          <head>
+              <charseq START="1383" END="1390">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Malaysia">
+              <charseq START="93" END="100">Malaysia</charseq>
+          </name>
+          <name NAME="Malaysia">
+              <charseq START="262" END="269">Malaysia</charseq>
+          </name>
+          <name NAME="Malaysia">
+              <charseq START="935" END="942">Malaysia</charseq>
+          </name>
+          <name NAME="Malaysia">
+              <charseq START="1175" END="1182">Malaysia</charseq>
+          </name>
+          <name NAME="Malaysia">
+              <charseq START="1383" END="1390">Malaysia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="125" END="134">WELLINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="125" END="134">WELLINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WELLINGTON">
+              <charseq START="125" END="134">WELLINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E4-M200">
+          <extent>
+              <charseq START="146" END="151">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="146" END="151">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="146" END="151">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E5-M300">
+          <extent>
+              <charseq START="177" END="219">New Zealand Foreign Minister Murray McCully</charseq>
+          </extent>
+          <head>
+              <charseq START="206" END="219">Murray McCully</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E5-M303">
+          <extent>
+              <charseq START="197" END="204">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="197" END="204">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E5-M401">
+          <extent>
+              <charseq START="312" END="343">the New Zealand foreign minister</charseq>
+          </extent>
+          <head>
+              <charseq START="336" END="343">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0161-E5-M408">
+          <extent>
+              <charseq START="407" END="409">his</charseq>
+          </extent>
+          <head>
+              <charseq START="407" END="409">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E5-M516">
+          <extent>
+              <charseq START="652" END="658">McCully</charseq>
+          </extent>
+          <head>
+              <charseq START="652" END="658">McCully</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E5-M702">
+          <extent>
+              <charseq START="916" END="922">McCully</charseq>
+          </extent>
+          <head>
+              <charseq START="916" END="922">McCully</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0161-E5-M819">
+          <extent>
+              <charseq START="1350" END="1351">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1350" END="1351">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E5-M916">
+          <extent>
+              <charseq START="1626" END="1632">McCully</charseq>
+          </extent>
+          <head>
+              <charseq START="1626" END="1632">McCully</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Murray McCully">
+              <charseq START="206" END="219">Murray McCully</charseq>
+          </name>
+          <name NAME="McCully">
+              <charseq START="652" END="658">McCully</charseq>
+          </name>
+          <name NAME="McCully">
+              <charseq START="916" END="922">McCully</charseq>
+          </name>
+          <name NAME="McCully">
+              <charseq START="1626" END="1632">McCully</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E6-M405">
+          <extent>
+              <charseq START="363" END="400">the third Joint
+Ministerial Commission</charseq>
+          </extent>
+          <head>
+              <charseq START="373" END="400">Joint
+Ministerial Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joint
+Ministerial Commission">
+              <charseq START="373" END="400">Joint
+Ministerial Commission</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E7-M407">
+          <extent>
+              <charseq START="407" END="438">his counterpart Marty Natalegawa</charseq>
+          </extent>
+          <head>
+              <charseq START="423" END="438">Marty Natalegawa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E7-M409">
+          <extent>
+              <charseq START="411" END="421">counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="421">counterpart</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marty Natalegawa">
+              <charseq START="423" END="438">Marty Natalegawa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E8-M500">
+          <extent>
+              <charseq START="452" END="473">key area of discussion</charseq>
+          </extent>
+          <head>
+              <charseq START="456" END="459">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E9-M600">
+          <extent>
+              <charseq START="701" END="706">McCull</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="706">McCull</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="McCull">
+              <charseq START="701" END="706">McCull</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E10-M603">
+          <extent>
+              <charseq START="728" END="773">Indonessian President Susilo Bambang Yudhoyono</charseq>
+          </extent>
+          <head>
+              <charseq START="750" END="773">Susilo Bambang Yudhoyono</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E10-M605">
+          <extent>
+              <charseq START="740" END="748">President</charseq>
+          </extent>
+          <head>
+              <charseq START="740" END="748">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Susilo Bambang Yudhoyono">
+              <charseq START="750" END="773">Susilo Bambang Yudhoyono</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E11-M607">
+          <extent>
+              <charseq START="777" END="791">Foreign Affairs</charseq>
+          </extent>
+          <head>
+              <charseq START="777" END="791">Foreign Affairs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Foreign Affairs">
+              <charseq START="777" END="791">Foreign Affairs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E12-M608">
+          <extent>
+              <charseq START="793" END="799">Advisor</charseq>
+          </extent>
+          <head>
+              <charseq START="793" END="799">Advisor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Advisor">
+              <charseq START="793" END="799">Advisor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E13-M611">
+          <extent>
+              <charseq START="831" END="845">Hassan Wirajuda</charseq>
+          </extent>
+          <head>
+              <charseq START="831" END="845">Hassan Wirajuda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E13-M609">
+          <extent>
+              <charseq START="806" END="828">former Foreign Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="821" END="828">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hassan Wirajuda">
+              <charseq START="831" END="845">Hassan Wirajuda</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E14-M615">
+          <extent>
+              <charseq START="875" END="904">New Zealand Friendship Council</charseq>
+          </extent>
+          <head>
+              <charseq START="875" END="904">New Zealand Friendship Council</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Zealand Friendship Council">
+              <charseq START="875" END="904">New Zealand Friendship Council</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E15-M707" ROLE="LOC">
+          <extent>
+              <charseq START="971" END="1011">Foreign Minister Dato&apos;
+Sri Anifah Hj Aman</charseq>
+          </extent>
+          <head>
+              <charseq START="1005" END="1011">Hj Aman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hj Aman">
+              <charseq START="1005" END="1011">Hj Aman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E16-M708">
+          <extent>
+              <charseq START="971" END="991">Foreign Minister Dato</charseq>
+          </extent>
+          <head>
+              <charseq START="988" END="991">Dato</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E16-M710">
+          <extent>
+              <charseq START="979" END="986">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="986">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dato">
+              <charseq START="988" END="991">Dato</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E17-M712">
+          <extent>
+              <charseq START="994" END="1003">Sri Anifah</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="1003">Sri Anifah</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sri Anifah">
+              <charseq START="994" END="1003">Sri Anifah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E18-M714">
+          <extent>
+              <charseq START="1018" END="1080">International Trade and Industry Minister Dato&apos; Mustapa
+Mohamed</charseq>
+          </extent>
+          <head>
+              <charseq START="1060" END="1080">Dato&apos; Mustapa
+Mohamed</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E18-M716">
+          <extent>
+              <charseq START="1051" END="1058">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="1051" END="1058">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dato&apos; Mustapa
+Mohamed">
+              <charseq START="1060" END="1080">Dato&apos; Mustapa
+Mohamed</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E19-M715">
+          <extent>
+              <charseq START="1018" END="1049">International Trade and Industry</charseq>
+          </extent>
+          <head>
+              <charseq START="1018" END="1049">International Trade and Industry</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="International Trade and Industry">
+              <charseq START="1018" END="1049">International Trade and Industry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E20-M906">
+          <extent>
+              <charseq START="1421" END="1470">ASEAN (the Association of
+Southeast Asian Nations)</charseq>
+          </extent>
+          <head>
+              <charseq START="1421" END="1425">ASEAN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E20-M912">
+          <extent>
+              <charseq START="1545" END="1549">ASEAN</charseq>
+          </extent>
+          <head>
+              <charseq START="1545" END="1549">ASEAN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ASEAN">
+              <charseq START="1421" END="1425">ASEAN</charseq>
+          </name>
+          <name NAME="ASEAN">
+              <charseq START="1545" END="1549">ASEAN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0161-E21-M908">
+          <extent>
+              <charseq START="1428" END="1469">the Association of
+Southeast Asian Nations</charseq>
+          </extent>
+          <head>
+              <charseq START="1432" END="1469">Association of
+Southeast Asian Nations</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Association of
+Southeast Asian Nations">
+              <charseq START="1432" END="1469">Association of
+Southeast Asian Nations</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0161-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0161-E22-M903">
+          <extent>
+              <charseq START="1401" END="1470">founding members of ASEAN (the Association of
+Southeast Asian Nations)</charseq>
+          </extent>
+          <head>
+              <charseq START="1410" END="1416">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20101019.0161-T0" VAL="2010-10-19">
+        <timex2_mention ID="XIN_ENG_20101019.0161-T0-M1">
+            <extent>
+              <charseq START="137" END="143">Oct. 19</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0161-T1" VAL="P4D">
+        <timex2_mention ID="XIN_ENG_20101019.0161-T1-M1">
+            <extent>
+              <charseq START="231" END="238">four-day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0161-T2" VAL="2010-10-19TNI">
+        <timex2_mention ID="XIN_ENG_20101019.0161-T2-M1">
+            <extent>
+              <charseq START="274" END="286">Tuesday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0161-T3" VAL="2010-10-19">
+        <timex2_mention ID="XIN_ENG_20101019.0161-T3-M1">
+            <extent>
+              <charseq START="683" END="689">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0161-T4" VAL="PAST_REF" ANCHOR_VAL="2010-10-19" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20101019.0161-T4-M1">
+            <extent>
+              <charseq START="806" END="811">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0161-T5" VAL="2010-08-01">
+        <timex2_mention ID="XIN_ENG_20101019.0161-T5-M1">
+            <extent>
+              <charseq START="1341" END="1346">Aug. 1</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20101019.0161-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0161-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0161-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0161-R0-M300">
+          <extent>
+              <charseq START="197" END="204">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E5-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="197" END="204">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E0-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="177" END="187">New Zealand</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20101019.0161-R0-M400">
+          <extent>
+              <charseq START="312" END="343">the New Zealand foreign minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E5-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="312" END="343">the New Zealand foreign minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E0-M402" ROLE="Arg-2">
+            <extent>
+              <charseq START="316" END="326">New Zealand</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0161-R1" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0161-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0161-E7" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0161-R1-M401">
+          <extent>
+              <charseq START="407" END="409">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E5-M408" ROLE="Arg-1">
+            <extent>
+              <charseq START="407" END="409">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E7-M409" ROLE="Arg-2">
+            <extent>
+              <charseq START="411" END="421">counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0161-R2" TYPE="ORG-AFF" SUBTYPE="Founder" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0161-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0161-E11" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0161-R2-M600">
+          <extent>
+              <charseq START="728" END="773">Indonessian President Susilo Bambang Yudhoyono</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E10-M603" ROLE="Arg-1">
+            <extent>
+              <charseq START="728" END="773">Indonessian President Susilo Bambang Yudhoyono</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E11-M607" ROLE="Arg-2">
+            <extent>
+              <charseq START="777" END="791">Foreign Affairs</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0161-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0161-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0161-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0161-R3-M601">
+          <extent>
+              <charseq START="740" END="748">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E10-M605" ROLE="Arg-1">
+            <extent>
+              <charseq START="740" END="748">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E1-M604" ROLE="Arg-2">
+            <extent>
+              <charseq START="728" END="738">Indonessian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0161-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0161-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0161-E2" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0161-R4-M700">
+          <extent>
+              <charseq START="916" END="922">McCully</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E5-M702" ROLE="Arg-1">
+            <extent>
+              <charseq START="916" END="922">McCully</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E2-M703" ROLE="Arg-2">
+            <extent>
+              <charseq START="935" END="942">Malaysia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0161-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0161-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0161-E19" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0161-R5-M701">
+          <extent>
+              <charseq START="1051" END="1058">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E18-M716" ROLE="Arg-1">
+            <extent>
+              <charseq START="1051" END="1058">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E19-M715" ROLE="Arg-2">
+            <extent>
+              <charseq START="1018" END="1049">International Trade and Industry</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0161-R6" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0161-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0161-E20" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0161-R6-M900">
+          <extent>
+              <charseq START="1401" END="1470">founding members of ASEAN (the Association of
+Southeast Asian Nations)</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E22-M903" ROLE="Arg-1">
+            <extent>
+              <charseq START="1401" END="1470">founding members of ASEAN (the Association of
+Southeast Asian Nations)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0161-E20-M906" ROLE="Arg-2">
+            <extent>
+              <charseq START="1421" END="1470">ASEAN (the Association of
+Southeast Asian Nations)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

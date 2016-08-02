@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091110.0287">
+  <document DOCID="XIN_ENG_20091110.0287">
+
+    <entity ID="XIN_ENG_20091110.0287-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E0-M0">
+          <extent>
+              <charseq START="58" END="63">Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E0-M301">
+          <extent>
+              <charseq START="198" END="204">Mexican</charseq>
+          </extent>
+          <head>
+              <charseq START="198" END="204">Mexican</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E0-M402" ROLE="GPE">
+          <extent>
+              <charseq START="379" END="384">Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="379" END="384">Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E0-M400" ROLE="ORG">
+          <extent>
+              <charseq START="361" END="384">The government of Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="365" END="374">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091110.0287-E0-M404">
+          <extent>
+              <charseq START="396" END="398">its</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="398">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E0-M500">
+          <extent>
+              <charseq START="560" END="565">Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="560" END="565">Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E0-M510" ROLE="LOC">
+          <extent>
+              <charseq START="653" END="662">government</charseq>
+          </extent>
+          <head>
+              <charseq START="653" END="662">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091110.0287-E0-M503">
+          <extent>
+              <charseq START="577" END="579">its</charseq>
+          </extent>
+          <head>
+              <charseq START="577" END="579">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mexico">
+              <charseq START="58" END="63">Mexico</charseq>
+          </name>
+          <name NAME="Mexican">
+              <charseq START="198" END="204">Mexican</charseq>
+          </name>
+          <name NAME="Mexico">
+              <charseq START="379" END="384">Mexico</charseq>
+          </name>
+          <name NAME="Mexico">
+              <charseq START="560" END="565">Mexico</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E1-M2" ROLE="GPE">
+          <extent>
+              <charseq START="81" END="88">Pakistan</charseq>
+          </extent>
+          <head>
+              <charseq START="81" END="88">Pakistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E1-M310" ROLE="LOC">
+          <extent>
+              <charseq START="289" END="296">Pakistan</charseq>
+          </extent>
+          <head>
+              <charseq START="289" END="296">Pakistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E1-M409" ROLE="LOC">
+          <extent>
+              <charseq START="473" END="480">Pakistan</charseq>
+          </extent>
+          <head>
+              <charseq START="473" END="480">Pakistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E1-M511">
+          <extent>
+              <charseq START="667" END="674">Pakistan</charseq>
+          </extent>
+          <head>
+              <charseq START="667" END="674">Pakistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pakistan">
+              <charseq START="81" END="88">Pakistan</charseq>
+          </name>
+          <name NAME="Pakistan">
+              <charseq START="289" END="296">Pakistan</charseq>
+          </name>
+          <name NAME="Pakistan">
+              <charseq START="473" END="480">Pakistan</charseq>
+          </name>
+          <name NAME="Pakistan">
+              <charseq START="667" END="674">Pakistan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="141" END="151">MEXICO CITY</charseq>
+          </extent>
+          <head>
+              <charseq START="141" END="151">MEXICO CITY</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MEXICO CITY">
+              <charseq START="141" END="151">MEXICO CITY</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E3-M200">
+          <extent>
+              <charseq START="163" END="168">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="163" END="168">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="163" END="168">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E4-M300">
+          <extent>
+              <charseq START="194" END="221">The Mexican Foreign Ministry</charseq>
+          </extent>
+          <head>
+              <charseq START="206" END="221">Foreign Ministry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E4-M414">
+          <extent>
+              <charseq START="528" END="547">the Foreign Ministry</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="547">Foreign Ministry</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Foreign Ministry">
+              <charseq START="206" END="221">Foreign Ministry</charseq>
+          </name>
+          <name NAME="Foreign Ministry">
+              <charseq START="532" END="547">Foreign Ministry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E5-M311">
+          <extent>
+              <charseq START="310" END="328">more than 25 people</charseq>
+          </extent>
+          <head>
+              <charseq START="323" END="328">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E5-M507">
+          <extent>
+              <charseq START="609" END="619">the victims</charseq>
+          </extent>
+          <head>
+              <charseq START="613" END="619">victims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E5-M509">
+          <extent>
+              <charseq START="638" END="647">the people</charseq>
+          </extent>
+          <head>
+              <charseq START="642" END="647">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E6-M505">
+          <extent>
+              <charseq START="609" END="662">the victims&apos; families and to
+the people and government</charseq>
+          </extent>
+          <head>
+              <charseq START="622" END="629">families</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E7-M605">
+          <extent>
+              <charseq START="740" END="783">at least 20 people in a crowded market place</charseq>
+          </extent>
+          <head>
+              <charseq START="752" END="757">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0287-E8-M707" ROLE="LOC">
+          <extent>
+              <charseq START="909" END="916">Peshawar</charseq>
+          </extent>
+          <head>
+              <charseq START="909" END="916">Peshawar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E8-M806" ROLE="LOC">
+          <extent>
+              <charseq START="986" END="1003">the city on Sunday</charseq>
+          </extent>
+          <head>
+              <charseq START="990" END="993">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Peshawar">
+              <charseq START="909" END="916">Peshawar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E9-M704">
+          <extent>
+              <charseq START="862" END="916">at
+least three people including a policeman in Peshawar</charseq>
+          </extent>
+          <head>
+              <charseq START="877" END="882">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E9-M706">
+          <extent>
+              <charseq START="894" END="904">a policeman</charseq>
+          </extent>
+          <head>
+              <charseq START="896" END="904">policeman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E10-M800">
+          <extent>
+              <charseq START="919" END="1004">Another suicide bomber
+killed 13 people including a local mayor in the city on Sunday.</charseq>
+          </extent>
+          <head>
+              <charseq START="935" END="940">bomber</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E11-M803">
+          <extent>
+              <charseq START="949" END="1003">13 people including a local mayor in the city on Sunday</charseq>
+          </extent>
+          <head>
+              <charseq START="952" END="957">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0287-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0287-E12-M805">
+          <extent>
+              <charseq START="969" END="981">a local mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="977" END="981">mayor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091110.0287-T0" VAL="PAST_REF" ANCHOR_VAL="2009-11-10" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20091110.0287-T0-M1">
+            <extent>
+              <charseq START="74" END="79">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091110.0287-T1" VAL="2009-11-10">
+        <timex2_mention ID="XIN_ENG_20091110.0287-T1-M1">
+            <extent>
+              <charseq START="154" END="160">Nov. 10</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091110.0287-T2" VAL="2009-11-10">
+        <timex2_mention ID="XIN_ENG_20091110.0287-T2-M1">
+            <extent>
+              <charseq START="245" END="251">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091110.0287-T3" VAL="PXD">
+        <timex2_mention ID="XIN_ENG_20091110.0287-T3-M1">
+            <extent>
+              <charseq START="333" END="349">the past few days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091110.0287-T4" VAL="2009-11-06">
+        <timex2_mention ID="XIN_ENG_20091110.0287-T4-M1">
+            <extent>
+              <charseq START="487" END="492">Nov. 6</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091110.0287-T5" VAL="2009-11-10">
+        <timex2_mention ID="XIN_ENG_20091110.0287-T5-M1">
+            <extent>
+              <charseq START="819" END="825">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091110.0287-T6" VAL="2009-11-09">
+        <timex2_mention ID="XIN_ENG_20091110.0287-T6-M1">
+            <extent>
+              <charseq START="831" END="836">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091110.0287-T7" VAL="2009-11-08">
+        <timex2_mention ID="XIN_ENG_20091110.0287-T7-M1">
+            <extent>
+              <charseq START="998" END="1003">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20091110.0287-R0" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091110.0287-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091110.0287-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091110.0287-R0-M300">
+          <extent>
+              <charseq START="194" END="221">The Mexican Foreign Ministry</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0287-E4-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="194" END="221">The Mexican Foreign Ministry</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0287-E0-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="198" END="204">Mexican</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091110.0287-R1" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091110.0287-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091110.0287-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091110.0287-R1-M500">
+          <extent>
+              <charseq START="609" END="619">the victims</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0287-E5-M507" ROLE="Arg-1">
+            <extent>
+              <charseq START="609" END="619">the victims</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0287-E6-M505" ROLE="Arg-2">
+            <extent>
+              <charseq START="609" END="662">the victims&apos; families and to
+the people and government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091110.0287-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091110.0287-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091110.0287-E8" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091110.0287-R2-M700">
+          <extent>
+              <charseq START="894" END="904">a policeman</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0287-E9-M706" ROLE="Arg-1">
+            <extent>
+              <charseq START="894" END="904">a policeman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0287-E8-M707" ROLE="Arg-2">
+            <extent>
+              <charseq START="909" END="916">Peshawar</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091110.0287-R3" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091110.0287-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091110.0287-E8" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091110.0287-R3-M800">
+          <extent>
+              <charseq START="969" END="981">a local mayor</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0287-E12-M805" ROLE="Arg-1">
+            <extent>
+              <charseq START="969" END="981">a local mayor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0287-E8-M806" ROLE="Arg-2">
+            <extent>
+              <charseq START="986" END="1003">the city on Sunday</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

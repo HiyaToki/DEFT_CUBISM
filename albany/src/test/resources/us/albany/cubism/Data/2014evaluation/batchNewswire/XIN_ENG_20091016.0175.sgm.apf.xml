@@ -1,0 +1,786 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091016.0175">
+  <document DOCID="XIN_ENG_20091016.0175">
+
+    <entity ID="XIN_ENG_20091016.0175-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M1" ROLE="LOC">
+          <extent>
+              <charseq START="58" END="65">Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="65">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M301">
+          <extent>
+              <charseq START="176" END="183">Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="176" END="183">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M402" ROLE="LOC">
+          <extent>
+              <charseq START="431" END="444">visit Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="437" END="444">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E0-M403">
+          <extent>
+              <charseq START="431" END="435">visit</charseq>
+          </extent>
+          <head>
+              <charseq START="431" END="435">visit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M507" ROLE="GPE">
+          <extent>
+              <charseq START="522" END="530">Bulgarian</charseq>
+          </extent>
+          <head>
+              <charseq START="522" END="530">Bulgarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M511" ROLE="GPE">
+          <extent>
+              <charseq START="562" END="570">Bulgarian</charseq>
+          </extent>
+          <head>
+              <charseq START="562" END="570">Bulgarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M605">
+          <extent>
+              <charseq START="641" END="648">Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="641" END="648">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M719" ROLE="LOC">
+          <extent>
+              <charseq START="907" END="914">Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="907" END="914">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M804" ROLE="LOC">
+          <extent>
+              <charseq START="971" END="978">Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="971" END="978">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091016.0175-E0-M807">
+          <extent>
+              <charseq START="983" END="985">its</charseq>
+          </extent>
+          <head>
+              <charseq START="983" END="985">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M905">
+          <extent>
+              <charseq START="1191" END="1198">Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="1191" END="1198">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M1007" ROLE="GPE">
+          <extent>
+              <charseq START="1322" END="1330">Bulgarian</charseq>
+          </extent>
+          <head>
+              <charseq START="1322" END="1330">Bulgarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E0-M1101">
+          <extent>
+              <charseq START="1374" END="1381">Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="1374" END="1381">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bulgaria">
+              <charseq START="58" END="65">Bulgaria</charseq>
+          </name>
+          <name NAME="Bulgaria">
+              <charseq START="176" END="183">Bulgaria</charseq>
+          </name>
+          <name NAME="Bulgaria">
+              <charseq START="437" END="444">Bulgaria</charseq>
+          </name>
+          <name NAME="Bulgarian">
+              <charseq START="522" END="530">Bulgarian</charseq>
+          </name>
+          <name NAME="Bulgarian">
+              <charseq START="562" END="570">Bulgarian</charseq>
+          </name>
+          <name NAME="Bulgaria">
+              <charseq START="641" END="648">Bulgaria</charseq>
+          </name>
+          <name NAME="Bulgaria">
+              <charseq START="907" END="914">Bulgaria</charseq>
+          </name>
+          <name NAME="Bulgaria">
+              <charseq START="971" END="978">Bulgaria</charseq>
+          </name>
+          <name NAME="Bulgaria">
+              <charseq START="1191" END="1198">Bulgaria</charseq>
+          </name>
+          <name NAME="Bulgarian">
+              <charseq START="1322" END="1330">Bulgarian</charseq>
+          </name>
+          <name NAME="Bulgaria">
+              <charseq START="1374" END="1381">Bulgaria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="68" END="72">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="68" END="72">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E1-M302">
+          <extent>
+              <charseq START="189" END="193">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="193">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E1-M309" ROLE="GPE">
+          <extent>
+              <charseq START="270" END="276">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="270" END="276">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E1-M405" ROLE="ORG">
+          <extent>
+              <charseq START="452" END="469">the new
+government</charseq>
+          </extent>
+          <head>
+              <charseq START="460" END="469">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E1-M601">
+          <extent>
+              <charseq START="624" END="628">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="624" END="628">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091016.0175-E1-M602">
+          <extent>
+              <charseq START="634" END="675">one of Bulgaria&apos;s top three trade partners</charseq>
+          </extent>
+          <head>
+              <charseq START="634" END="636">one</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E1-M703" ROLE="GPE">
+          <extent>
+              <charseq START="692" END="698">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="692" END="698">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E1-M1000">
+          <extent>
+              <charseq START="1238" END="1242">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="1238" END="1242">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E1-M1102">
+          <extent>
+              <charseq START="1387" END="1391">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="1387" END="1391">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italy">
+              <charseq START="68" END="72">Italy</charseq>
+          </name>
+          <name NAME="Italy">
+              <charseq START="189" END="193">Italy</charseq>
+          </name>
+          <name NAME="Italian">
+              <charseq START="270" END="276">Italian</charseq>
+          </name>
+          <name NAME="Italy">
+              <charseq START="624" END="628">Italy</charseq>
+          </name>
+          <name NAME="Italian">
+              <charseq START="692" END="698">Italian</charseq>
+          </name>
+          <name NAME="Italy">
+              <charseq START="1238" END="1242">Italy</charseq>
+          </name>
+          <name NAME="Italy">
+              <charseq START="1387" END="1391">Italy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="129" END="133">SOFIA</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="133">SOFIA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E2-M313" ROLE="LOC">
+          <extent>
+              <charseq START="314" END="318">Sofia</charseq>
+          </extent>
+          <head>
+              <charseq START="314" END="318">Sofia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SOFIA">
+              <charseq START="129" END="133">SOFIA</charseq>
+          </name>
+          <name NAME="Sofia">
+              <charseq START="314" END="318">Sofia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E3-M200">
+          <extent>
+              <charseq START="145" END="150">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="150">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="145" END="150">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E4-M308">
+          <extent>
+              <charseq START="270" END="309">Italian Prime Minister Silvio Berlusconi</charseq>
+          </extent>
+          <head>
+              <charseq START="293" END="309">Silvio Berlusconi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E4-M311">
+          <extent>
+              <charseq START="284" END="291">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="284" END="291">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E4-M400">
+          <extent>
+              <charseq START="380" END="389">Berlusconi</charseq>
+          </extent>
+          <head>
+              <charseq START="380" END="389">Berlusconi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E4-M401">
+          <extent>
+              <charseq START="395" END="426">the first foreign prime minister</charseq>
+          </extent>
+          <head>
+              <charseq START="419" END="426">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091016.0175-E4-M500">
+          <extent>
+              <charseq START="497" END="498">He</charseq>
+          </extent>
+          <head>
+              <charseq START="497" END="498">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091016.0175-E4-M506">
+          <extent>
+              <charseq START="518" END="520">his</charseq>
+          </extent>
+          <head>
+              <charseq START="518" END="520">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E4-M600">
+          <extent>
+              <charseq START="608" END="617">Berlusconi</charseq>
+          </extent>
+          <head>
+              <charseq START="608" END="617">Berlusconi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E4-M800">
+          <extent>
+              <charseq START="927" END="936">Berlusconi</charseq>
+          </extent>
+          <head>
+              <charseq START="927" END="936">Berlusconi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091016.0175-E4-M802">
+          <extent>
+              <charseq START="951" END="953">his</charseq>
+          </extent>
+          <head>
+              <charseq START="951" END="953">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E4-M1008">
+          <extent>
+              <charseq START="1353" END="1362">Berlusconi</charseq>
+          </extent>
+          <head>
+              <charseq START="1353" END="1362">Berlusconi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Silvio Berlusconi">
+              <charseq START="293" END="309">Silvio Berlusconi</charseq>
+          </name>
+          <name NAME="Berlusconi">
+              <charseq START="380" END="389">Berlusconi</charseq>
+          </name>
+          <name NAME="Berlusconi">
+              <charseq START="608" END="617">Berlusconi</charseq>
+          </name>
+          <name NAME="Berlusconi">
+              <charseq START="927" END="936">Berlusconi</charseq>
+          </name>
+          <name NAME="Berlusconi">
+              <charseq START="1353" END="1362">Berlusconi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E5-M505">
+          <extent>
+              <charseq START="518" END="556">his Bulgarian
+counterpart Boiko Borisov</charseq>
+          </extent>
+          <head>
+              <charseq START="544" END="556">Boiko Borisov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E5-M508">
+          <extent>
+              <charseq START="532" END="542">counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="542">counterpart</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boiko Borisov">
+              <charseq START="544" END="556">Boiko Borisov</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E6-M510">
+          <extent>
+              <charseq START="562" END="596">Bulgarian President Georgi Parvanov</charseq>
+          </extent>
+          <head>
+              <charseq START="582" END="596">Georgi Parvanov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E6-M512">
+          <extent>
+              <charseq START="572" END="580">President</charseq>
+          </extent>
+          <head>
+              <charseq START="572" END="580">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Georgi Parvanov">
+              <charseq START="582" END="596">Georgi Parvanov</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E7-M604">
+          <extent>
+              <charseq START="641" END="675">Bulgaria&apos;s top three trade partners</charseq>
+          </extent>
+          <head>
+              <charseq START="668" END="675">partners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E8-M702">
+          <extent>
+              <charseq START="692" END="708">Italian companies</charseq>
+          </extent>
+          <head>
+              <charseq START="700" END="708">companies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E9-M709">
+          <extent>
+              <charseq START="748" END="757">Bulgarians</charseq>
+          </extent>
+          <head>
+              <charseq START="748" END="757">Bulgarians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E10-M715">
+          <extent>
+              <charseq START="829" END="861">small and medium-
+sized companies</charseq>
+          </extent>
+          <head>
+              <charseq START="853" END="861">companies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091016.0175-E10-M716">
+          <extent>
+              <charseq START="871" END="874">they</charseq>
+          </extent>
+          <head>
+              <charseq START="871" END="874">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E13" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E13-M811" ROLE="LOC">
+          <extent>
+              <charseq START="1058" END="1063">the EU</charseq>
+          </extent>
+          <head>
+              <charseq START="1062" END="1063">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E13-M906" ROLE="GPE">
+          <extent>
+              <charseq START="1202" END="1203">EU</charseq>
+          </extent>
+          <head>
+              <charseq START="1202" END="1203">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="EU">
+              <charseq START="1062" END="1063">EU</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="1202" END="1203">EU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E14-M817">
+          <extent>
+              <charseq START="1101" END="1132">the Nuclear Power Plant Kozloduy</charseq>
+          </extent>
+          <head>
+              <charseq START="1105" END="1132">Nuclear Power Plant Kozloduy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nuclear Power Plant Kozloduy">
+              <charseq START="1105" END="1132">Nuclear Power Plant Kozloduy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E16-M900">
+          <extent>
+              <charseq START="1135" END="1143">The units</charseq>
+          </extent>
+          <head>
+              <charseq START="1139" END="1143">units</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091016.0175-E17-M1001" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1260" END="1267">Brussels</charseq>
+          </extent>
+          <head>
+              <charseq START="1260" END="1267">Brussels</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091016.0175-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091016.0175-E18-M1107">
+          <extent>
+              <charseq START="1462" END="1475">both countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1467" END="1475">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091016.0175-T0" VAL="2009-10-16">
+        <timex2_mention ID="XIN_ENG_20091016.0175-T0-M1">
+            <extent>
+              <charseq START="136" END="142">Oct. 16</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091016.0175-T1" VAL="P1D">
+        <timex2_mention ID="XIN_ENG_20091016.0175-T1-M1">
+            <extent>
+              <charseq START="250" END="259">a one-
+day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091016.0175-T2" VAL="2009-10-15">
+        <timex2_mention ID="XIN_ENG_20091016.0175-T2-M1">
+            <extent>
+              <charseq START="323" END="330">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091016.0175-T3" VAL="2009-10-16">
+        <timex2_mention ID="XIN_ENG_20091016.0175-T3-M1">
+            <extent>
+              <charseq START="363" END="368">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091016.0175-T4" VAL="2009-07">
+        <timex2_mention ID="XIN_ENG_20091016.0175-T4-M1">
+            <extent>
+              <charseq START="486" END="494">July 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091016.0175-T5" VAL="PRESENT_REF" ANCHOR_VAL="2009-10-16" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20091016.0175-T5-M1">
+            <extent>
+              <charseq START="710" END="712">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="XIN_ENG_20091016.0175-V6" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="XIN_ENG_20091016.0175-V6-M1">
+            <extent>
+              <charseq START="1012" END="1038">445.87 million U.S. dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="XIN_ENG_20091016.0175-V7" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="XIN_ENG_20091016.0175-V7-M1">
+            <extent>
+              <charseq START="1292" END="1316">10.4 billion U.S. dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="XIN_ENG_20091016.0175-T8" VAL="1879">
+        <timex2_mention ID="XIN_ENG_20091016.0175-T8-M1">
+            <extent>
+              <charseq START="1429" END="1432">1879</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091016.0175-T9" VAL="P15Y">
+        <timex2_mention ID="XIN_ENG_20091016.0175-T9-M1">
+            <extent>
+              <charseq START="1502" END="1518">the past 15 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091016.0175-T10" VAL="2008">
+        <timex2_mention ID="XIN_ENG_20091016.0175-T10-M1">
+            <extent>
+              <charseq START="1530" END="1538">last
+year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="XIN_ENG_20091016.0175-V11" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="XIN_ENG_20091016.0175-V11-M1">
+            <extent>
+              <charseq START="1547" END="1571">4.46 billion U.S. dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="XIN_ENG_20091016.0175-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091016.0175-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091016.0175-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091016.0175-R0-M300">
+          <extent>
+              <charseq START="284" END="291">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E4-M311" ROLE="Arg-1">
+            <extent>
+              <charseq START="284" END="291">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E1-M309" ROLE="Arg-2">
+            <extent>
+              <charseq START="270" END="276">Italian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091016.0175-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091016.0175-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091016.0175-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091016.0175-R1-M400">
+          <extent>
+              <charseq START="380" END="389">Berlusconi</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E4-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="380" END="389">Berlusconi</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E0-M402" ROLE="Arg-2">
+            <extent>
+              <charseq START="431" END="444">visit Bulgaria</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091016.0175-R2" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091016.0175-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091016.0175-E5" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091016.0175-R2-M500">
+          <extent>
+              <charseq START="518" END="520">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E4-M506" ROLE="Arg-1">
+            <extent>
+              <charseq START="518" END="520">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E5-M508" ROLE="Arg-2">
+            <extent>
+              <charseq START="532" END="542">counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091016.0175-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091016.0175-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091016.0175-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091016.0175-R3-M501">
+          <extent>
+              <charseq START="532" END="542">counterpart</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E5-M508" ROLE="Arg-1">
+            <extent>
+              <charseq START="532" END="542">counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E0-M507" ROLE="Arg-2">
+            <extent>
+              <charseq START="522" END="530">Bulgarian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091016.0175-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091016.0175-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091016.0175-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091016.0175-R4-M502">
+          <extent>
+              <charseq START="572" END="580">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E6-M512" ROLE="Arg-1">
+            <extent>
+              <charseq START="572" END="580">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E0-M511" ROLE="Arg-2">
+            <extent>
+              <charseq START="562" END="570">Bulgarian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091016.0175-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091016.0175-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091016.0175-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091016.0175-R5-M700">
+          <extent>
+              <charseq START="692" END="708">Italian companies</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E8-M702" ROLE="Arg-1">
+            <extent>
+              <charseq START="692" END="708">Italian companies</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091016.0175-E1-M703" ROLE="Arg-2">
+            <extent>
+              <charseq START="692" END="698">Italian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

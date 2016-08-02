@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="0659c87d9fd3d5efd258ee6de3ba1003.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-174" length="33" offset="280">
+        <text>a whole bunch of hacks at the Sun</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-156" length="10" offset="14">GunnerBill</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-102" length="14" offset="1359">
+        <text>Stephen Hester</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-126" length="16" offset="1247">Existentialistic</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-96" length="14" offset="1465">
+        <text>Stephen Hester</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-126" length="16" offset="1247">Existentialistic</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

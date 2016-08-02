@@ -1,0 +1,932 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100609.0188">
+  <document DOCID="AFP_ENG_20100609.0188">
+
+    <entity ID="AFP_ENG_20100609.0188-E0" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E0-M2">
+          <extent>
+              <charseq START="58" END="63">Senate</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">Senate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E0-M302">
+          <extent>
+              <charseq START="192" END="197">Senate</charseq>
+          </extent>
+          <head>
+              <charseq START="192" END="197">Senate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Senate">
+              <charseq START="58" END="63">Senate</charseq>
+          </name>
+          <name NAME="Senate">
+              <charseq START="192" END="197">Senate</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E1-M101" ROLE="LOC">
+          <extent>
+              <charseq START="136" END="145">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="145">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="136" END="145">WASHINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E2-M200">
+          <extent>
+              <charseq START="162" END="164">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="162" END="164">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="162" END="164">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E3" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E3-M304">
+          <extent>
+              <charseq START="214" END="227">Gulf of Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="214" END="227">Gulf of Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E3-M508">
+          <extent>
+              <charseq START="606" END="665">the Gulf and that her protest was directed against Murkowski</charseq>
+          </extent>
+          <head>
+              <charseq START="610" END="613">Gulf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E3-M1008">
+          <extent>
+              <charseq START="1409" END="1426">the Gulf of Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="1413" END="1426">Gulf of Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E3-M1702">
+          <extent>
+              <charseq START="2591" END="2608">the Gulf of Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="2595" END="2608">Gulf of Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gulf of Mexico">
+              <charseq START="214" END="227">Gulf of Mexico</charseq>
+          </name>
+          <name NAME="Gulf">
+              <charseq START="610" END="613">Gulf</charseq>
+          </name>
+          <name NAME="Gulf of Mexico">
+              <charseq START="1413" END="1426">Gulf of Mexico</charseq>
+          </name>
+          <name NAME="Gulf of Mexico">
+              <charseq START="2595" END="2608">Gulf of Mexico</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E4-M307">
+          <extent>
+              <charseq START="266" END="276">a
+protester</charseq>
+          </extent>
+          <head>
+              <charseq START="268" END="276">protester</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E5-M410">
+          <extent>
+              <charseq START="432" END="444">Diane Wilson,</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="443">Diane Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E5-M408">
+          <extent>
+              <charseq START="407" END="444">the woman, identified as
+Diane Wilson,</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="415">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E5-M500">
+          <extent>
+              <charseq START="519" END="524">Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="519" END="524">Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E5-M600">
+          <extent>
+              <charseq START="797" END="802">Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="797" END="802">Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E5-M810">
+          <extent>
+              <charseq START="1132" END="1137">Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="1132" END="1137">Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Diane Wilson">
+              <charseq START="432" END="443">Diane Wilson</charseq>
+          </name>
+          <name NAME="Wilson">
+              <charseq START="519" END="524">Wilson</charseq>
+          </name>
+          <name NAME="Wilson">
+              <charseq START="797" END="802">Wilson</charseq>
+          </name>
+          <name NAME="Wilson">
+              <charseq START="1132" END="1137">Wilson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E6-M414">
+          <extent>
+              <charseq START="476" END="507">Senator Lisa Murkowski of Alaska</charseq>
+          </extent>
+          <head>
+              <charseq START="484" END="497">Lisa Murkowski</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E6-M416">
+          <extent>
+              <charseq START="476" END="482">Senator</charseq>
+          </extent>
+          <head>
+              <charseq START="476" END="482">Senator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E6-M513">
+          <extent>
+              <charseq START="657" END="665">Murkowski</charseq>
+          </extent>
+          <head>
+              <charseq START="657" END="665">Murkowski</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E6-M503">
+          <extent>
+              <charseq START="565" END="567">she</charseq>
+          </extent>
+          <head>
+              <charseq START="565" END="567">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E6-M512">
+          <extent>
+              <charseq START="624" END="626">her</charseq>
+          </extent>
+          <head>
+              <charseq START="624" END="626">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E6-M606">
+          <extent>
+              <charseq START="862" END="864">her</charseq>
+          </extent>
+          <head>
+              <charseq START="862" END="864">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E6-M812">
+          <extent>
+              <charseq START="1147" END="1149">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1147" END="1149">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E6-M904">
+          <extent>
+              <charseq START="1218" END="1239">Senator Lisa Murkowski</charseq>
+          </extent>
+          <head>
+              <charseq START="1226" END="1239">Lisa Murkowski</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E6-M905">
+          <extent>
+              <charseq START="1218" END="1224">Senator</charseq>
+          </extent>
+          <head>
+              <charseq START="1218" END="1224">Senator</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lisa Murkowski">
+              <charseq START="484" END="497">Lisa Murkowski</charseq>
+          </name>
+          <name NAME="Murkowski">
+              <charseq START="657" END="665">Murkowski</charseq>
+          </name>
+          <name NAME="Lisa Murkowski">
+              <charseq START="1226" END="1239">Lisa Murkowski</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E7" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E7-M418">
+          <extent>
+              <charseq START="502" END="507">Alaska</charseq>
+          </extent>
+          <head>
+              <charseq START="502" END="507">Alaska</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alaska">
+              <charseq START="502" END="507">Alaska</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E9-M514">
+          <extent>
+              <charseq START="682" END="697">the oil industry</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="697">industry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E9-M1325">
+          <extent>
+              <charseq START="2065" END="2080">the oil industry</charseq>
+          </extent>
+          <head>
+              <charseq START="2073" END="2080">industry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E10-M521">
+          <extent>
+              <charseq START="758" END="785">oil firms in offshore spills</charseq>
+          </extent>
+          <head>
+              <charseq START="762" END="766">firms</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E11-M608">
+          <extent>
+              <charseq START="889" END="938">the Senate Energy and Natural Resources Committee,</charseq>
+          </extent>
+          <head>
+              <charseq START="893" END="937">Senate Energy and Natural Resources Committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E11-M701">
+          <extent>
+              <charseq START="983" END="991">Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="983" END="991">Committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E11-M1101">
+          <extent>
+              <charseq START="1535" END="1547">the committee</charseq>
+          </extent>
+          <head>
+              <charseq START="1539" END="1547">committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E11-M1207">
+          <extent>
+              <charseq START="1761" END="1769">the panel</charseq>
+          </extent>
+          <head>
+              <charseq START="1765" END="1769">panel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E11-M1202">
+          <extent>
+              <charseq START="1719" END="1720">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1719" END="1720">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Senate Energy and Natural Resources Committee">
+              <charseq START="893" END="937">Senate Energy and Natural Resources Committee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E12-M611">
+          <extent>
+              <charseq START="967" END="980">Capitol police</charseq>
+          </extent>
+          <head>
+              <charseq START="967" END="980">Capitol police</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Capitol police">
+              <charseq START="967" END="980">Capitol police</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E13-M700">
+          <extent>
+              <charseq START="983" END="997">Committee staff</charseq>
+          </extent>
+          <head>
+              <charseq START="993" END="997">staff</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E14-M801">
+          <extent>
+              <charseq START="1055" END="1056">BP</charseq>
+          </extent>
+          <head>
+              <charseq START="1055" END="1056">BP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E14-M907">
+          <extent>
+              <charseq START="1250" END="1251">BP</charseq>
+          </extent>
+          <head>
+              <charseq START="1250" END="1251">BP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E14-M1108">
+          <extent>
+              <charseq START="1619" END="1638">the BP-operated well</charseq>
+          </extent>
+          <head>
+              <charseq START="1623" END="1624">BP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E14-M1608">
+          <extent>
+              <charseq START="2457" END="2458">BP</charseq>
+          </extent>
+          <head>
+              <charseq START="2457" END="2458">BP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E14-M1801">
+          <extent>
+              <charseq START="2780" END="2781">BP</charseq>
+          </extent>
+          <head>
+              <charseq START="2780" END="2781">BP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BP">
+              <charseq START="1055" END="1056">BP</charseq>
+          </name>
+          <name NAME="BP">
+              <charseq START="1250" END="1251">BP</charseq>
+          </name>
+          <name NAME="BP">
+              <charseq START="1623" END="1624">BP</charseq>
+          </name>
+          <name NAME="BP">
+              <charseq START="2457" END="2458">BP</charseq>
+          </name>
+          <name NAME="BP">
+              <charseq START="2780" END="2781">BP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E15-M806">
+          <extent>
+              <charseq START="1099" END="1110">my community</charseq>
+          </extent>
+          <head>
+              <charseq START="1102" END="1110">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E17-M902">
+          <extent>
+              <charseq START="1189" END="1239">elected representatives like Senator Lisa Murkowski</charseq>
+          </extent>
+          <head>
+              <charseq START="1197" END="1211">representatives</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E18-M1001">
+          <extent>
+              <charseq START="1339" END="1371">US Interior Secretary Ken Salazar</charseq>
+          </extent>
+          <head>
+              <charseq START="1361" END="1371">Ken Salazar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E18-M1004">
+          <extent>
+              <charseq START="1351" END="1359">Secretary</charseq>
+          </extent>
+          <head>
+              <charseq START="1351" END="1359">Secretary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E18-M1100">
+          <extent>
+              <charseq START="1522" END="1528">Salazar</charseq>
+          </extent>
+          <head>
+              <charseq START="1522" END="1528">Salazar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E18-M1205">
+          <extent>
+              <charseq START="1753" END="1754">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1753" END="1754">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E18-M1301">
+          <extent>
+              <charseq START="1781" END="1787">Salazar</charseq>
+          </extent>
+          <head>
+              <charseq START="1781" END="1787">Salazar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E18-M1400">
+          <extent>
+              <charseq START="2096" END="2097">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2096" END="2097">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E18-M1508">
+          <extent>
+              <charseq START="2357" END="2363">Salazar</charseq>
+          </extent>
+          <head>
+              <charseq START="2357" END="2363">Salazar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E18-M1600">
+          <extent>
+              <charseq START="2380" END="2381">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2380" END="2381">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E18-M1800">
+          <extent>
+              <charseq START="2757" END="2763">Salazar</charseq>
+          </extent>
+          <head>
+              <charseq START="2757" END="2763">Salazar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E18-M2005">
+          <extent>
+              <charseq START="3011" END="3012">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3011" END="3012">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ken Salazar">
+              <charseq START="1361" END="1371">Ken Salazar</charseq>
+          </name>
+          <name NAME="Salazar">
+              <charseq START="1522" END="1528">Salazar</charseq>
+          </name>
+          <name NAME="Salazar">
+              <charseq START="1781" END="1787">Salazar</charseq>
+          </name>
+          <name NAME="Salazar">
+              <charseq START="2357" END="2363">Salazar</charseq>
+          </name>
+          <name NAME="Salazar">
+              <charseq START="2757" END="2763">Salazar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E19-M1002" ROLE="GPE">
+          <extent>
+              <charseq START="1339" END="1340">US</charseq>
+          </extent>
+          <head>
+              <charseq START="1339" END="1340">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="1339" END="1340">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E20-M1006">
+          <extent>
+              <charseq START="1378" END="1386">lawmakers</charseq>
+          </extent>
+          <head>
+              <charseq START="1378" END="1386">lawmakers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E21-M1318">
+          <extent>
+              <charseq START="1969" END="1999">the Minerals Management Service</charseq>
+          </extent>
+          <head>
+              <charseq START="1973" END="1999">Minerals Management Service</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E21-M1304">
+          <extent>
+              <charseq START="1800" END="1941">the agency that oversees oil leasing and management of
+federal lands, highlighted tougher safety rules imposed this week for offshore
+drilling</charseq>
+          </extent>
+          <head>
+              <charseq START="1804" END="1809">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E21-M1320">
+          <extent>
+              <charseq START="2002" END="2080">the division
+which has been criticized for being too cozy with the oil industry</charseq>
+          </extent>
+          <head>
+              <charseq START="2006" END="2013">division</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E21-M1322">
+          <extent>
+              <charseq START="2015" END="2019">which</charseq>
+          </extent>
+          <head>
+              <charseq START="2015" END="2019">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Minerals Management Service">
+              <charseq START="1973" END="1999">Minerals Management Service</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E22" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E22-M1310">
+          <extent>
+              <charseq START="1855" END="1867">federal lands</charseq>
+          </extent>
+          <head>
+              <charseq START="1863" END="1867">lands</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E23-M1411">
+          <extent>
+              <charseq START="2218" END="2239">President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="2228" END="2239">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E23-M1412">
+          <extent>
+              <charseq START="2218" END="2226">President</charseq>
+          </extent>
+          <head>
+              <charseq START="2218" END="2226">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E23-M1505">
+          <extent>
+              <charseq START="2318" END="2330">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="2322" END="2330">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="2228" END="2239">Barack Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E24-M1602">
+          <extent>
+              <charseq START="2388" END="2421">Senator Mary Landrieu of Louisiana</charseq>
+          </extent>
+          <head>
+              <charseq START="2396" END="2408">Mary Landrieu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E24-M1604">
+          <extent>
+              <charseq START="2388" END="2394">Senator</charseq>
+          </extent>
+          <head>
+              <charseq START="2388" END="2394">Senator</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mary Landrieu">
+              <charseq START="2396" END="2408">Mary Landrieu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E25" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E25-M1606">
+          <extent>
+              <charseq START="2413" END="2421">Louisiana</charseq>
+          </extent>
+          <head>
+              <charseq START="2413" END="2421">Louisiana</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Louisiana">
+              <charseq START="2413" END="2421">Louisiana</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E26-M1607">
+          <extent>
+              <charseq START="2428" END="2445">the administration</charseq>
+          </extent>
+          <head>
+              <charseq START="2432" END="2445">administration</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E27-M1611">
+          <extent>
+              <charseq START="2479" END="2547">oil sector workers whose jobs have been suspended by the
+drilling ban</charseq>
+          </extent>
+          <head>
+              <charseq START="2490" END="2496">workers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100609.0188-E27-M1615">
+          <extent>
+              <charseq START="2498" END="2502">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="2498" END="2502">whose</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100609.0188-E28-M1717">
+          <extent>
+              <charseq START="2725" END="2745">the Deepwater Horizon</charseq>
+          </extent>
+          <head>
+              <charseq START="2729" END="2745">Deepwater Horizon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Deepwater Horizon">
+              <charseq START="2729" END="2745">Deepwater Horizon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100609.0188-E29" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100609.0188-E29-M1807">
+          <extent>
+              <charseq START="2853" END="2864">the wellhead</charseq>
+          </extent>
+          <head>
+              <charseq START="2857" END="2864">wellhead</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100609.0188-T0" VAL="2010-06-09">
+        <timex2_mention ID="AFP_ENG_20100609.0188-T0-M1">
+            <extent>
+              <charseq START="148" END="159">June 9, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100609.0188-T1" VAL="2010-06-09">
+        <timex2_mention ID="AFP_ENG_20100609.0188-T1-M1">
+            <extent>
+              <charseq START="253" END="261">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100609.0188-T2" VAL="2010-W24">
+        <timex2_mention ID="AFP_ENG_20100609.0188-T2-M1">
+            <extent>
+              <charseq START="1911" END="1919">this week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100609.0188-T3" VAL="P6M">
+        <timex2_mention ID="AFP_ENG_20100609.0188-T3-M1">
+            <extent>
+              <charseq START="2163" END="2171">six-month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100609.0188-T4" VAL="2010-05">
+        <timex2_mention ID="AFP_ENG_20100609.0188-T4-M1">
+            <extent>
+              <charseq START="2241" END="2250">last month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100609.0188-T5" VAL="P1D">
+        <timex2_mention ID="AFP_ENG_20100609.0188-T5-M1">
+            <extent>
+              <charseq START="2819" END="2823">a day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100609.0188-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100609.0188-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100609.0188-E7" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100609.0188-R0-M400">
+          <extent>
+              <charseq START="476" END="507">Senator Lisa Murkowski of Alaska</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E6-M414" ROLE="Arg-1">
+            <extent>
+              <charseq START="476" END="507">Senator Lisa Murkowski of Alaska</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E7-M418" ROLE="Arg-2">
+            <extent>
+              <charseq START="502" END="507">Alaska</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100609.0188-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100609.0188-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100609.0188-E11" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100609.0188-R1-M700">
+          <extent>
+              <charseq START="983" END="997">Committee staff</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E13-M700" ROLE="Arg-1">
+            <extent>
+              <charseq START="983" END="997">Committee staff</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E11-M701" ROLE="Arg-2">
+            <extent>
+              <charseq START="983" END="991">Committee</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100609.0188-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100609.0188-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100609.0188-E19" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100609.0188-R3-M1000">
+          <extent>
+              <charseq START="1351" END="1359">Secretary</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E18-M1004" ROLE="Arg-1">
+            <extent>
+              <charseq START="1351" END="1359">Secretary</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E19-M1002" ROLE="Arg-2">
+            <extent>
+              <charseq START="1339" END="1340">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100609.0188-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100609.0188-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100609.0188-E3" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100609.0188-R4-M1001">
+          <extent>
+              <charseq START="1378" END="1386">lawmakers</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E20-M1006" ROLE="Arg-1">
+            <extent>
+              <charseq START="1378" END="1386">lawmakers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E3-M1008" ROLE="Arg-2">
+            <extent>
+              <charseq START="1409" END="1426">the Gulf of Mexico</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100609.0188-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100609.0188-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100609.0188-E25" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100609.0188-R5-M1600">
+          <extent>
+              <charseq START="2388" END="2421">Senator Mary Landrieu of Louisiana</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E24-M1602" ROLE="Arg-1">
+            <extent>
+              <charseq START="2388" END="2421">Senator Mary Landrieu of Louisiana</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100609.0188-E25-M1606" ROLE="Arg-2">
+            <extent>
+              <charseq START="2413" END="2421">Louisiana</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

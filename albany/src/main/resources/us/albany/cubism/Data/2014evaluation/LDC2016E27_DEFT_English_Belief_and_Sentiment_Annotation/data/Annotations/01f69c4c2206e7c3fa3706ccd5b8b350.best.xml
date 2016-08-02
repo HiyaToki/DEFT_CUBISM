@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-56acedc20000000000000001">
+  
+  <sentiment_annotations><entities>
+      <entity ere_id="m-267" length="4" offset="2409">
+        <text>them</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-117" length="7" offset="2142">Bricker</source>
+        </sentiment>
+      </entity>
+    <entity ere_id="m-285" length="7" offset="2845"><text>Diebold</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-171" length="7" offset="2071">suranyi</source></sentiment></entity><entity ere_id="m-285" length="7" offset="2845"><text>Diebold</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-129" length="7" offset="3031">Bricker</source></sentiment></entity></entities></sentiment_annotations>
+</committed_belief_doc>

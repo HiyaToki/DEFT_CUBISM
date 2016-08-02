@@ -1,0 +1,1163 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20101124.0681">
+  <document DOCID="APW_ENG_20101124.0681">
+
+    <entity ID="APW_ENG_20101124.0681-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="67" END="71">Egypt</charseq>
+          </extent>
+          <head>
+              <charseq START="67" END="71">Egypt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E0-M202" ROLE="GPE">
+          <extent>
+              <charseq START="204" END="211">Egyptian</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="211">Egyptian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Egypt">
+              <charseq START="67" END="71">Egypt</charseq>
+          </name>
+          <name NAME="Egyptian">
+              <charseq START="204" END="211">Egyptian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E1-M0">
+          <extent>
+              <charseq START="67" END="79">Egypt blogger</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="79">blogger</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E2-M2">
+          <extent>
+              <charseq START="103" END="106">jail</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="106">jail</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E2-M211">
+          <extent>
+              <charseq START="311" END="314">jail</charseq>
+          </extent>
+          <head>
+              <charseq START="311" END="314">jail</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E2-M403">
+          <extent>
+              <charseq START="557" END="562">prison</charseq>
+          </extent>
+          <head>
+              <charseq START="557" END="562">prison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E2-M604">
+          <extent>
+              <charseq START="769" END="818">the most prominent religious center in Sunni Islam</charseq>
+          </extent>
+          <head>
+              <charseq START="798" END="803">center</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E2-M1412">
+          <extent>
+              <charseq START="1831" END="1836">prison</charseq>
+          </extent>
+          <head>
+              <charseq START="1831" END="1836">prison</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E3-M101" ROLE="GPE">
+          <extent>
+              <charseq START="131" END="135">CAIRO</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="135">CAIRO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CAIRO">
+              <charseq START="131" END="135">CAIRO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E4-M207" ROLE="GPE">
+          <extent>
+              <charseq START="263" END="266">Arab</charseq>
+          </extent>
+          <head>
+              <charseq START="263" END="266">Arab</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arab">
+              <charseq START="263" END="266">Arab</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E5-M200">
+          <extent>
+              <charseq START="184" END="289">A recently released Egyptian blogger who served the longest prison term in the Arab world for his writings</charseq>
+          </extent>
+          <head>
+              <charseq START="213" END="219">blogger</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E5-M203">
+          <extent>
+              <charseq START="221" END="223">who</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="223">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E5-M209">
+          <extent>
+              <charseq START="278" END="280">his</charseq>
+          </extent>
+          <head>
+              <charseq START="278" END="280">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E5-M215">
+          <extent>
+              <charseq START="345" END="347">his</charseq>
+          </extent>
+          <head>
+              <charseq START="345" END="347">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E5-M309">
+          <extent>
+              <charseq START="506" END="518">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="518">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E5-M304">
+          <extent>
+              <charseq START="411" END="413">his</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="413">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E5-M311">
+          <extent>
+              <charseq START="523" END="525">his</charseq>
+          </extent>
+          <head>
+              <charseq START="523" END="525">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E5-M400">
+          <extent>
+              <charseq START="533" END="534">He</charseq>
+          </extent>
+          <head>
+              <charseq START="533" END="534">He</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E6" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E6-M206">
+          <extent>
+              <charseq START="259" END="272">the Arab world</charseq>
+          </extent>
+          <head>
+              <charseq START="268" END="272">world</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E6-M2015">
+          <extent>
+              <charseq START="2385" END="2397">all the world</charseq>
+          </extent>
+          <head>
+              <charseq START="2393" END="2397">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E7-M300">
+          <extent>
+              <charseq START="382" END="440">Abdel Kareem Nabil, known by his blogging name Kareem Amer,</charseq>
+          </extent>
+          <head>
+              <charseq START="382" END="399">Abdel Kareem Nabil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E7-M305">
+          <extent>
+              <charseq START="429" END="439">Kareem Amer</charseq>
+          </extent>
+          <head>
+              <charseq START="429" END="439">Kareem Amer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E7-M506">
+          <extent>
+              <charseq START="658" END="662">Nabil</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="662">Nabil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E7-M508">
+          <extent>
+              <charseq START="668" END="690">an outspoken secularist</charseq>
+          </extent>
+          <head>
+              <charseq START="681" END="690">secularist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E7-M509">
+          <extent>
+              <charseq START="696" END="707">sharp critic</charseq>
+          </extent>
+          <head>
+              <charseq START="702" END="707">critic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M600">
+          <extent>
+              <charseq START="734" END="735">He</charseq>
+          </extent>
+          <head>
+              <charseq START="734" END="735">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M700">
+          <extent>
+              <charseq START="915" END="916">He</charseq>
+          </extent>
+          <head>
+              <charseq START="915" END="916">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M800">
+          <extent>
+              <charseq START="1081" END="1082">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1081" END="1082">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M803">
+          <extent>
+              <charseq START="1117" END="1119">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1117" END="1119">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E7-M904">
+          <extent>
+              <charseq START="1201" END="1205">Nabil</charseq>
+          </extent>
+          <head>
+              <charseq START="1201" END="1205">Nabil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1001">
+          <extent>
+              <charseq START="1256" END="1258">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1256" END="1258">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1002">
+          <extent>
+              <charseq START="1274" END="1275">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1274" END="1275">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1005">
+          <extent>
+              <charseq START="1293" END="1294">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1293" END="1294">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E7-M1300">
+          <extent>
+              <charseq START="1639" END="1643">Nabil</charseq>
+          </extent>
+          <head>
+              <charseq START="1639" END="1643">Nabil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1305">
+          <extent>
+              <charseq START="1686" END="1688">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1686" END="1688">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1400">
+          <extent>
+              <charseq START="1720" END="1721">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1720" END="1721">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1402">
+          <extent>
+              <charseq START="1743" END="1744">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1743" END="1744">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1410">
+          <extent>
+              <charseq START="1824" END="1826">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1824" END="1826">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1413">
+          <extent>
+              <charseq START="1841" END="1842">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1841" END="1842">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1416">
+          <extent>
+              <charseq START="1858" END="1860">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1858" END="1860">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1511">
+          <extent>
+              <charseq START="1964" END="1965">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1964" END="1965">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E7-M1603">
+          <extent>
+              <charseq START="1994" END="1998">Nabil</charseq>
+          </extent>
+          <head>
+              <charseq START="1994" END="1998">Nabil</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1605">
+          <extent>
+              <charseq START="2018" END="2020">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2018" END="2020">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1609">
+          <extent>
+              <charseq START="2069" END="2071">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2069" END="2071">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1802">
+          <extent>
+              <charseq START="2159" END="2160">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2159" END="2160">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M1905">
+          <extent>
+              <charseq START="2207" END="2208">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2207" END="2208">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M2001">
+          <extent>
+              <charseq START="2229" END="2231">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2229" END="2231">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M2002">
+          <extent>
+              <charseq START="2239" END="2240">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2239" END="2240">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E7-M2100">
+          <extent>
+              <charseq START="2468" END="2469">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2468" END="2469">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Abdel Kareem Nabil">
+              <charseq START="382" END="399">Abdel Kareem Nabil</charseq>
+          </name>
+          <name NAME="Kareem Amer">
+              <charseq START="429" END="439">Kareem Amer</charseq>
+          </name>
+          <name NAME="Nabil">
+              <charseq START="658" END="662">Nabil</charseq>
+          </name>
+          <name NAME="Nabil">
+              <charseq START="1201" END="1205">Nabil</charseq>
+          </name>
+          <name NAME="Nabil">
+              <charseq START="1639" END="1643">Nabil</charseq>
+          </name>
+          <name NAME="Nabil">
+              <charseq START="1994" END="1998">Nabil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E8-M510">
+          <extent>
+              <charseq START="712" END="731">conservative Muslims</charseq>
+          </extent>
+          <head>
+              <charseq START="725" END="731">Muslims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E8-M503">
+          <extent>
+              <charseq START="632" END="655">a prisoner of conscience</charseq>
+          </extent>
+          <head>
+              <charseq START="634" END="641">prisoner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E8-M1207">
+          <extent>
+              <charseq START="1567" END="1627">a fellow prisoner, who was also working as a police informant</charseq>
+          </extent>
+          <head>
+              <charseq START="1576" END="1583">prisoner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E8-M1210">
+          <extent>
+              <charseq START="1586" END="1588">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1586" END="1588">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E8-M2008">
+          <extent>
+              <charseq START="2287" END="2293">Muslims</charseq>
+          </extent>
+          <head>
+              <charseq START="2287" END="2293">Muslims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E8-M2011">
+          <extent>
+              <charseq START="2331" END="2337">Muslims</charseq>
+          </extent>
+          <head>
+              <charseq START="2331" END="2337">Muslims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E8-M2013">
+          <extent>
+              <charseq START="2348" END="2352">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2348" END="2352">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E8-M2016">
+          <extent>
+              <charseq START="2404" END="2407">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2404" END="2407">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E8-M2109">
+          <extent>
+              <charseq START="2541" END="2554">devout Muslims</charseq>
+          </extent>
+          <head>
+              <charseq START="2548" END="2554">Muslims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E8-M2110">
+          <extent>
+              <charseq START="2541" END="2546">devout</charseq>
+          </extent>
+          <head>
+              <charseq START="2541" END="2546">devout</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E8-M2117">
+          <extent>
+              <charseq START="2583" END="2587">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2583" END="2587">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E9-M500">
+          <extent>
+              <charseq START="615" END="655">rights groups as a prisoner of conscience</charseq>
+          </extent>
+          <head>
+              <charseq START="622" END="627">groups</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E10" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E10-M602">
+          <extent>
+              <charseq START="757" END="821">Al-Azhar -- the most prominent religious center in Sunni Islam --</charseq>
+          </extent>
+          <head>
+              <charseq START="757" END="764">Al-Azhar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E10-M609">
+          <extent>
+              <charseq START="835" END="861">the university of terrorism</charseq>
+          </extent>
+          <head>
+              <charseq START="839" END="848">university</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E10-M702">
+          <extent>
+              <charseq START="925" END="932">Al-Azhar</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="932">Al-Azhar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E10-M708">
+          <extent>
+              <charseq START="984" END="1012">the 1,000-year-old university</charseq>
+          </extent>
+          <head>
+              <charseq START="1003" END="1012">university</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E10-M1606">
+          <extent>
+              <charseq START="2046" END="2054">Al-Azhar,</charseq>
+          </extent>
+          <head>
+              <charseq START="2046" END="2053">Al-Azhar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Al-Azhar">
+              <charseq START="757" END="764">Al-Azhar</charseq>
+          </name>
+          <name NAME="Al-Azhar">
+              <charseq START="925" END="932">Al-Azhar</charseq>
+          </name>
+          <name NAME="Al-Azhar">
+              <charseq START="2046" END="2053">Al-Azhar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E11-M606">
+          <extent>
+              <charseq START="808" END="818">Sunni Islam</charseq>
+          </extent>
+          <head>
+              <charseq START="808" END="818">Sunni Islam</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sunni Islam">
+              <charseq START="808" END="818">Sunni Islam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E12-M707">
+          <extent>
+              <charseq START="965" END="972">al-Qaida</charseq>
+          </extent>
+          <head>
+              <charseq START="965" END="972">al-Qaida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="al-Qaida">
+              <charseq START="965" END="972">al-Qaida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E13-M709">
+          <extent>
+              <charseq START="1049" END="1069">a secular institution</charseq>
+          </extent>
+          <head>
+              <charseq START="1059" END="1069">institution</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E14-M802">
+          <extent>
+              <charseq START="1100" END="1106">Mubarak</charseq>
+          </extent>
+          <head>
+              <charseq START="1100" END="1106">Mubarak</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mubarak">
+              <charseq START="1100" END="1106">Mubarak</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E15-M900">
+          <extent>
+              <charseq START="1155" END="1171">The United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1159" END="1171">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="1159" END="1171">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E16-M1004">
+          <extent>
+              <charseq START="1282" END="1290">reporters</charseq>
+          </extent>
+          <head>
+              <charseq START="1282" END="1290">reporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E17-M1011">
+          <extent>
+              <charseq START="1367" END="1381">police officers</charseq>
+          </extent>
+          <head>
+              <charseq START="1374" END="1381">officers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E17-M1406">
+          <extent>
+              <charseq START="1788" END="1836">police officers who vowed to return him to prison</charseq>
+          </extent>
+          <head>
+              <charseq START="1795" END="1802">officers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E17-M1409">
+          <extent>
+              <charseq START="1804" END="1806">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1804" END="1806">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E17-M1500">
+          <extent>
+              <charseq START="1879" END="1882">They</charseq>
+          </extent>
+          <head>
+              <charseq START="1879" END="1882">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E18-M1012">
+          <extent>
+              <charseq START="1367" END="1372">police</charseq>
+          </extent>
+          <head>
+              <charseq START="1367" END="1372">police</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E18-M1101">
+          <extent>
+              <charseq START="1398" END="1403">police</charseq>
+          </extent>
+          <head>
+              <charseq START="1398" END="1403">police</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E18-M1212">
+          <extent>
+              <charseq START="1612" END="1617">police</charseq>
+          </extent>
+          <head>
+              <charseq START="1612" END="1617">police</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E18-M1408">
+          <extent>
+              <charseq START="1788" END="1793">police</charseq>
+          </extent>
+          <head>
+              <charseq START="1788" END="1793">police</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E19-M1100">
+          <extent>
+              <charseq START="1394" END="1411">One police officer</charseq>
+          </extent>
+          <head>
+              <charseq START="1405" END="1411">officer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E19-M1110">
+          <extent>
+              <charseq START="1485" END="1487">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1485" END="1487">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E19-M1111">
+          <extent>
+              <charseq START="1498" END="1499">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1498" END="1499">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E19-M1201">
+          <extent>
+              <charseq START="1521" END="1522">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1521" END="1522">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E19-M1205">
+          <extent>
+              <charseq START="1548" END="1549">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1548" END="1549">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E21-M1211">
+          <extent>
+              <charseq START="1610" END="1627">a police informant</charseq>
+          </extent>
+          <head>
+              <charseq START="1619" END="1627">informant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E23-M2009">
+          <extent>
+              <charseq START="2299" END="2308">Christians</charseq>
+          </extent>
+          <head>
+              <charseq START="2299" END="2308">Christians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101124.0681-E24-M2104">
+          <extent>
+              <charseq START="2478" END="2485">Muhammad</charseq>
+          </extent>
+          <head>
+              <charseq START="2478" END="2485">Muhammad</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muhammad">
+              <charseq START="2478" END="2485">Muhammad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101124.0681-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101124.0681-E25-M2102">
+          <extent>
+              <charseq START="2478" END="2608">Muhammad&apos;s 7th century companions -- who are deeply revered by devout Muslims -- &quot;spillers of blood&quot; for their teachings on warfare</charseq>
+          </extent>
+          <head>
+              <charseq START="2501" END="2510">companions</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101124.0681-E25-M2108">
+          <extent>
+              <charseq START="2515" END="2517">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2515" END="2517">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20101124.0681-T0" VAL="2010-11-24T16:37:50">
+        <timex2_mention ID="APW_ENG_20101124.0681-T0-M1">
+            <extent>
+              <charseq START="137" END="159">2010-11-24 16:37:50 UTC</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T1" VAL="PAST_REF" ANCHOR_VAL="2010-11-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="APW_ENG_20101124.0681-T1-M1">
+            <extent>
+              <charseq START="186" END="193">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T2" VAL="2010-11-24">
+        <timex2_mention ID="APW_ENG_20101124.0681-T2-M1">
+            <extent>
+              <charseq START="296" END="304">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T3" VAL="2006-03">
+        <timex2_mention ID="APW_ENG_20101124.0681-T3-M1">
+            <extent>
+              <charseq START="458" END="467">March 2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T4" VAL="P4Y">
+        <timex2_mention ID="APW_ENG_20101124.0681-T4-M1">
+            <extent>
+              <charseq START="543" END="562">four years in prison</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T5" VAL="2010-11-16">
+        <timex2_mention ID="APW_ENG_20101124.0681-T5-M1">
+            <extent>
+              <charseq START="584" END="590">Nov. 16</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T6" VAL="P1000Y">
+        <timex2_mention ID="APW_ENG_20101124.0681-T6-M1">
+            <extent>
+              <charseq START="988" END="1001">1,000-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T7">
+        <timex2_mention ID="APW_ENG_20101124.0681-T7-M1">
+            <extent>
+              <charseq START="1515" END="1518">time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T8" VAL="P10D">
+        <timex2_mention ID="APW_ENG_20101124.0681-T8-M1">
+            <extent>
+              <charseq START="1651" END="1684">an extra 10 days in detention past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T9">
+        <timex2_mention ID="APW_ENG_20101124.0681-T9-M1">
+            <extent>
+              <charseq START="2109" END="2112">time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T10" VAL="2005">
+        <timex2_mention ID="APW_ENG_20101124.0681-T10-M1">
+            <extent>
+              <charseq START="2313" END="2316">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101124.0681-T11" VAL="X6">
+        <timex2_mention ID="APW_ENG_20101124.0681-T11-M1">
+            <extent>
+              <charseq START="2489" END="2499">7th century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20101124.0681-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101124.0681-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101124.0681-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101124.0681-R0-M0">
+          <extent>
+              <charseq START="67" END="79">Egypt blogger</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E1-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="67" END="79">Egypt blogger</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E0-M1" ROLE="Arg-2">
+            <extent>
+              <charseq START="67" END="71">Egypt</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101124.0681-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101124.0681-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101124.0681-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101124.0681-R1-M200">
+          <extent>
+              <charseq START="184" END="289">A recently released Egyptian blogger who served the longest prison term in the Arab world for his writings</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E5-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="184" END="289">A recently released Egyptian blogger who served the longest prison term in the Arab world for his writings</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E0-M202" ROLE="Arg-2">
+            <extent>
+              <charseq START="204" END="211">Egyptian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101124.0681-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101124.0681-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101124.0681-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101124.0681-R2-M201">
+          <extent>
+              <charseq START="263" END="266">Arab</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E4-M207" ROLE="Arg-1">
+            <extent>
+              <charseq START="263" END="266">Arab</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E6-M206" ROLE="Arg-2">
+            <extent>
+              <charseq START="259" END="272">the Arab world</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101124.0681-R3" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101124.0681-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101124.0681-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101124.0681-R3-M400">
+          <extent>
+              <charseq START="533" END="534">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E5-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="533" END="534">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E2-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="557" END="562">prison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101124.0681-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101124.0681-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101124.0681-E18" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101124.0681-R4-M1000">
+          <extent>
+              <charseq START="1367" END="1381">police officers</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E17-M1011" ROLE="Arg-1">
+            <extent>
+              <charseq START="1367" END="1381">police officers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E18-M1012" ROLE="Arg-2">
+            <extent>
+              <charseq START="1367" END="1372">police</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="APW_ENG_20101124.0681-R4-M1400">
+          <extent>
+              <charseq START="1788" END="1836">police officers who vowed to return him to prison</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E17-M1406" ROLE="Arg-1">
+            <extent>
+              <charseq START="1788" END="1836">police officers who vowed to return him to prison</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E18-M1408" ROLE="Arg-2">
+            <extent>
+              <charseq START="1788" END="1793">police</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101124.0681-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101124.0681-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101124.0681-E18" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101124.0681-R5-M1100">
+          <extent>
+              <charseq START="1394" END="1411">One police officer</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E19-M1100" ROLE="Arg-1">
+            <extent>
+              <charseq START="1394" END="1411">One police officer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E18-M1101" ROLE="Arg-2">
+            <extent>
+              <charseq START="1398" END="1403">police</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101124.0681-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101124.0681-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101124.0681-E18" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101124.0681-R6-M1200">
+          <extent>
+              <charseq START="1610" END="1627">a police informant</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E21-M1211" ROLE="Arg-1">
+            <extent>
+              <charseq START="1610" END="1627">a police informant</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E18-M1212" ROLE="Arg-2">
+            <extent>
+              <charseq START="1612" END="1617">police</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101124.0681-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101124.0681-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101124.0681-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101124.0681-R7-M1401">
+          <extent>
+              <charseq START="1804" END="1806">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E17-M1409" ROLE="Arg-1">
+            <extent>
+              <charseq START="1804" END="1806">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E2-M1412" ROLE="Arg-2">
+            <extent>
+              <charseq START="1831" END="1836">prison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101124.0681-R8" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101124.0681-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101124.0681-E25" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101124.0681-R8-M2100">
+          <extent>
+              <charseq START="2478" END="2485">Muhammad</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E24-M2104" ROLE="Arg-1">
+            <extent>
+              <charseq START="2478" END="2485">Muhammad</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101124.0681-E25-M2102" ROLE="Arg-2">
+            <extent>
+              <charseq START="2478" END="2608">Muhammad&apos;s 7th century companions -- who are deeply revered by devout Muslims -- &quot;spillers of blood&quot; for their teachings on warfare</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

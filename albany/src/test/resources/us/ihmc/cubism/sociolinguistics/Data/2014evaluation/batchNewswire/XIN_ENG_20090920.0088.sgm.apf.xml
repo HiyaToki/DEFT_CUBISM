@@ -1,0 +1,1595 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20090920.0088">
+  <document DOCID="XIN_ENG_20090920.0088">
+
+    <entity ID="XIN_ENG_20090920.0088-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E0-M200">
+          <extent>
+              <charseq START="171" END="192">Xinhua writer Wang Wei</charseq>
+          </extent>
+          <head>
+              <charseq START="185" END="192">Wang Wei</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E0-M202">
+          <extent>
+              <charseq START="178" END="183">writer</charseq>
+          </extent>
+          <head>
+              <charseq START="178" END="183">writer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wang Wei">
+              <charseq START="185" END="192">Wang Wei</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E1-M201">
+          <extent>
+              <charseq START="171" END="176">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="171" END="176">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E1-M304">
+          <extent>
+              <charseq START="225" END="230">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="225" END="230">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E1-M410">
+          <extent>
+              <charseq START="641" END="646">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="641" END="646">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="171" END="176">Xinhua</charseq>
+          </name>
+          <name NAME="Xinhua">
+              <charseq START="225" END="230">Xinhua</charseq>
+          </name>
+          <name NAME="Xinhua">
+              <charseq START="641" END="646">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E2-M302" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="203" END="212">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="212">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M308">
+          <extent>
+              <charseq START="265" END="274">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="265" END="274">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M324">
+          <extent>
+              <charseq START="451" END="469">his reinvented city</charseq>
+          </extent>
+          <head>
+              <charseq START="466" END="469">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M403">
+          <extent>
+              <charseq START="530" END="539">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="530" END="539">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M406">
+          <extent>
+              <charseq START="586" END="594">this city</charseq>
+          </extent>
+          <head>
+              <charseq START="591" END="594">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M501">
+          <extent>
+              <charseq START="658" END="667">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="667">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M502">
+          <extent>
+              <charseq START="670" END="708">the second largest city in Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="689" END="692">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M511">
+          <extent>
+              <charseq START="790" END="797">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="794" END="797">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M602">
+          <extent>
+              <charseq START="945" END="954">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="945" END="954">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M604">
+          <extent>
+              <charseq START="971" END="978">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="975" END="978">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M700">
+          <extent>
+              <charseq START="1097" END="1138">Pittsburgh, also known as the &quot;Steel City,</charseq>
+          </extent>
+          <head>
+              <charseq START="1097" END="1106">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M705">
+          <extent>
+              <charseq START="1159" END="1183">a steel town in
+the 1970s</charseq>
+          </extent>
+          <head>
+              <charseq START="1167" END="1170">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M702">
+          <extent>
+              <charseq START="1123" END="1138">the &quot;Steel City,</charseq>
+          </extent>
+          <head>
+              <charseq START="1134" END="1137">City</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M720" ROLE="LOC">
+          <extent>
+              <charseq START="1292" END="1330">the city with no choice but to reinvent</charseq>
+          </extent>
+          <head>
+              <charseq START="1296" END="1299">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M915">
+          <extent>
+              <charseq START="1696" END="1701">a town</charseq>
+          </extent>
+          <head>
+              <charseq START="1698" END="1701">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M1104">
+          <extent>
+              <charseq START="1881" END="1890">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="1881" END="1890">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E3-M1102">
+          <extent>
+              <charseq START="1853" END="1855">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1853" END="1855">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E3-M1114">
+          <extent>
+              <charseq START="2000" END="2002">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2000" END="2002">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M1203" ROLE="LOC">
+          <extent>
+              <charseq START="2156" END="2165">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="2156" END="2165">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M1204">
+          <extent>
+              <charseq START="2170" END="2175">a town</charseq>
+          </extent>
+          <head>
+              <charseq START="2172" END="2175">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M1307" ROLE="LOC">
+          <extent>
+              <charseq START="2345" END="2354">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="2345" END="2354">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M1401" ROLE="LOC">
+          <extent>
+              <charseq START="2427" END="2436">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="2427" END="2436">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M1504">
+          <extent>
+              <charseq START="2650" END="2657">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="2654" END="2657">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E3-M1507">
+          <extent>
+              <charseq START="2681" END="2683">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2681" END="2683">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M1700">
+          <extent>
+              <charseq START="3163" END="3170">The city</charseq>
+          </extent>
+          <head>
+              <charseq START="3167" END="3170">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M1701">
+          <extent>
+              <charseq START="3202" END="3247">the &quot;city of bridges&quot; for boasting 446
+bridges</charseq>
+          </extent>
+          <head>
+              <charseq START="3207" END="3210">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M1802">
+          <extent>
+              <charseq START="3280" END="3298">the city of bridges</charseq>
+          </extent>
+          <head>
+              <charseq START="3284" END="3287">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M1908">
+          <extent>
+              <charseq START="3594" END="3601">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="3598" END="3601">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E3-M1914">
+          <extent>
+              <charseq START="3677" END="3680">here</charseq>
+          </extent>
+          <head>
+              <charseq START="3677" END="3680">here</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M2105">
+          <extent>
+              <charseq START="3931" END="3940">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="3931" END="3940">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M2200">
+          <extent>
+              <charseq START="3974" END="3983">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="3974" END="3983">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M2206" ROLE="GPE">
+          <extent>
+              <charseq START="4088" END="4099">a major city</charseq>
+          </extent>
+          <head>
+              <charseq START="4096" END="4099">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M2302" ROLE="GPE">
+          <extent>
+              <charseq START="4125" END="4134">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="4125" END="4134">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M2507" ROLE="GPE">
+          <extent>
+              <charseq START="4326" END="4333">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="4330" END="4333">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M2605" ROLE="LOC">
+          <extent>
+              <charseq START="4378" END="4387">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="4378" END="4387">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M2805">
+          <extent>
+              <charseq START="4570" END="4577">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="4574" END="4577">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E3-M2814" ROLE="LOC">
+          <extent>
+              <charseq START="4638" END="4645">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="4642" END="4645">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E3-M2913" ROLE="LOC">
+          <extent>
+              <charseq START="4917" END="4926">Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="4917" END="4926">Pittsburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pittsburgh">
+              <charseq START="265" END="274">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="530" END="539">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="658" END="667">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="945" END="954">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="1097" END="1106">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="1881" END="1890">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="2156" END="2165">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="2345" END="2354">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="2427" END="2436">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="3931" END="3940">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="3974" END="3983">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="4125" END="4134">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="4378" END="4387">Pittsburgh</charseq>
+          </name>
+          <name NAME="Pittsburgh">
+              <charseq START="4917" END="4926">Pittsburgh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E4-M309">
+          <extent>
+              <charseq START="277" END="288">Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="288">Pennsylvania</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E4-M504" ROLE="LOC">
+          <extent>
+              <charseq START="697" END="708">Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="708">Pennsylvania</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E4-M2817" ROLE="LOC">
+          <extent>
+              <charseq START="4670" END="4678">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="4674" END="4678">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pennsylvania">
+              <charseq START="277" END="288">Pennsylvania</charseq>
+          </name>
+          <name NAME="Pennsylvania">
+              <charseq START="697" END="708">Pennsylvania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E5-M315">
+          <extent>
+              <charseq START="330" END="350">Mayor Luke Ravenstahl</charseq>
+          </extent>
+          <head>
+              <charseq START="336" END="350">Luke Ravenstahl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E5-M316">
+          <extent>
+              <charseq START="330" END="334">Mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="334">Mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E5-M325">
+          <extent>
+              <charseq START="451" END="453">his</charseq>
+          </extent>
+          <head>
+              <charseq START="451" END="453">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E5-M407">
+          <extent>
+              <charseq START="600" END="609">Ravenstahl</charseq>
+          </extent>
+          <head>
+              <charseq START="600" END="609">Ravenstahl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E5-M812">
+          <extent>
+              <charseq START="1511" END="1519">the mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="1515" END="1519">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E5-M922">
+          <extent>
+              <charseq START="1775" END="1776">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1775" END="1776">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E5-M1213">
+          <extent>
+              <charseq START="2291" END="2299">the mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="2295" END="2299">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E5-M2006">
+          <extent>
+              <charseq START="3791" END="3800">Ravenstahl</charseq>
+          </extent>
+          <head>
+              <charseq START="3791" END="3800">Ravenstahl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E5-M2010">
+          <extent>
+              <charseq START="3817" END="3819">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3817" END="3819">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E5-M2100">
+          <extent>
+              <charseq START="3863" END="3864">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3863" END="3864">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E5-M2203">
+          <extent>
+              <charseq START="4021" END="4030">Ravenstahl</charseq>
+          </extent>
+          <head>
+              <charseq START="4021" END="4030">Ravenstahl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E5-M2204">
+          <extent>
+              <charseq START="4066" END="4099">the youngest mayor of a major city</charseq>
+          </extent>
+          <head>
+              <charseq START="4079" END="4083">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E5-M2306">
+          <extent>
+              <charseq START="4169" END="4178">Ravenstahl</charseq>
+          </extent>
+          <head>
+              <charseq START="4169" END="4178">Ravenstahl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E5-M2307">
+          <extent>
+              <charseq START="4181" END="4217">a 26-year-
+old city council president</charseq>
+          </extent>
+          <head>
+              <charseq START="4209" END="4217">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E5-M2400">
+          <extent>
+              <charseq START="4252" END="4253">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4252" END="4253">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E5-M2505">
+          <extent>
+              <charseq START="4313" END="4333">the mayor of the city</charseq>
+          </extent>
+          <head>
+              <charseq START="4317" END="4321">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E5-M2607">
+          <extent>
+              <charseq START="4427" END="4428">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4427" END="4428">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E5-M2703">
+          <extent>
+              <charseq START="4502" END="4516">the young mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="4512" END="4516">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E5-M2800">
+          <extent>
+              <charseq START="4528" END="4529">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4528" END="4529">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E5-M2904">
+          <extent>
+              <charseq START="4860" END="4869">Ravenstahl</charseq>
+          </extent>
+          <head>
+              <charseq START="4860" END="4869">Ravenstahl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E5-M2900">
+          <extent>
+              <charseq START="4821" END="4822">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4821" END="4822">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E5-M3012">
+          <extent>
+              <charseq START="5059" END="5060">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5059" END="5060">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Luke Ravenstahl">
+              <charseq START="336" END="350">Luke Ravenstahl</charseq>
+          </name>
+          <name NAME="Ravenstahl">
+              <charseq START="600" END="609">Ravenstahl</charseq>
+          </name>
+          <name NAME="Ravenstahl">
+              <charseq START="3791" END="3800">Ravenstahl</charseq>
+          </name>
+          <name NAME="Ravenstahl">
+              <charseq START="4021" END="4030">Ravenstahl</charseq>
+          </name>
+          <name NAME="Ravenstahl">
+              <charseq START="4169" END="4178">Ravenstahl</charseq>
+          </name>
+          <name NAME="Ravenstahl">
+              <charseq START="4860" END="4869">Ravenstahl</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E6-M305">
+          <extent>
+              <charseq START="241" END="253">world leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="247" END="253">leaders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E6-M318">
+          <extent>
+              <charseq START="369" END="395">them with a diverse economy</charseq>
+          </extent>
+          <head>
+              <charseq START="369" END="372">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E6-M404">
+          <extent>
+              <charseq START="546" END="558">world leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="552" END="558">leaders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E6-M1305">
+          <extent>
+              <charseq START="2323" END="2335">world leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="2329" END="2335">leaders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E6-M1308">
+          <extent>
+              <charseq START="2357" END="2360">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2357" END="2360">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E7-M508">
+          <extent>
+              <charseq START="752" END="773">President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="762" END="773">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E7-M509">
+          <extent>
+              <charseq START="752" END="760">President</charseq>
+          </extent>
+          <head>
+              <charseq START="752" END="760">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E7-M603">
+          <extent>
+              <charseq START="957" END="961">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="957" END="961">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E7-M600">
+          <extent>
+              <charseq START="935" END="936">he</charseq>
+          </extent>
+          <head>
+              <charseq START="935" END="936">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E7-M1002">
+          <extent>
+              <charseq START="1810" END="1824">President Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1820" END="1824">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E7-M1003">
+          <extent>
+              <charseq START="1810" END="1818">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1810" END="1818">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E7-M1200">
+          <extent>
+              <charseq START="2131" END="2145">President Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="2141" END="2145">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E7-M1201">
+          <extent>
+              <charseq START="2131" END="2139">President</charseq>
+          </extent>
+          <head>
+              <charseq START="2131" END="2139">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E7-M1412">
+          <extent>
+              <charseq START="2568" END="2580">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="2572" END="2580">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E7-M1816">
+          <extent>
+              <charseq START="3432" END="3436">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="3432" END="3436">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="762" END="773">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="957" END="961">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="1820" END="1824">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="2141" END="2145">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="3432" END="3436">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E8-M609">
+          <extent>
+              <charseq START="1029" END="1038">industries</charseq>
+          </extent>
+          <head>
+              <charseq START="1029" END="1038">industries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E8-M920">
+          <extent>
+              <charseq START="1750" END="1759">industries</charseq>
+          </extent>
+          <head>
+              <charseq START="1750" END="1759">industries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E9-M713" ROLE="GPE">
+          <extent>
+              <charseq START="1207" END="1210">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1207" END="1210">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E9-M1108" ROLE="GPE">
+          <extent>
+              <charseq START="1943" END="1946">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1943" END="1946">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E9-M1408">
+          <extent>
+              <charseq START="2497" END="2513">the United
+States</charseq>
+          </extent>
+          <head>
+              <charseq START="2501" END="2513">United
+States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E9-M1611">
+          <extent>
+              <charseq START="2923" END="2926">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="2923" END="2926">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="1207" END="1210">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="1943" END="1946">U.S.</charseq>
+          </name>
+          <name NAME="United
+States">
+              <charseq START="2501" END="2513">United
+States</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="2923" END="2926">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E10-M712">
+          <extent>
+              <charseq START="1203" END="1225">the U.S. steel industry</charseq>
+          </extent>
+          <head>
+              <charseq START="1218" END="1225">industry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E11-M906">
+          <extent>
+              <charseq START="1568" END="1573">people</charseq>
+          </extent>
+          <head>
+              <charseq START="1568" END="1573">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E12-M911">
+          <extent>
+              <charseq START="1650" END="1657">old town</charseq>
+          </extent>
+          <head>
+              <charseq START="1654" END="1657">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E12-M912">
+          <extent>
+              <charseq START="1663" END="1672">smoky town</charseq>
+          </extent>
+          <head>
+              <charseq START="1669" END="1672">town</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E13-M921">
+          <extent>
+              <charseq START="1765" END="1771">sectors</charseq>
+          </extent>
+          <head>
+              <charseq START="1765" END="1771">sectors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E15-M1101">
+          <extent>
+              <charseq START="1853" END="1878">its broader economic bases</charseq>
+          </extent>
+          <head>
+              <charseq START="1874" END="1878">bases</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E16-M1105">
+          <extent>
+              <charseq START="1923" END="1953">those of many other U.S. cities</charseq>
+          </extent>
+          <head>
+              <charseq START="1923" END="1927">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E17-M1107">
+          <extent>
+              <charseq START="1932" END="1953">many other U.S. cities</charseq>
+          </extent>
+          <head>
+              <charseq START="1948" END="1953">cities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E18-M1205">
+          <extent>
+              <charseq START="2182" END="2187">others</charseq>
+          </extent>
+          <head>
+              <charseq START="2182" END="2187">others</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090920.0088-E18-M1209">
+          <extent>
+              <charseq START="2221" END="2224">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2221" END="2224">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E19-M1407">
+          <extent>
+              <charseq START="2478" END="2492">cleanest cities</charseq>
+          </extent>
+          <head>
+              <charseq START="2487" END="2492">cities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E20-M1502">
+          <extent>
+              <charseq START="2607" END="2617">White House</charseq>
+          </extent>
+          <head>
+              <charseq START="2607" END="2617">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House">
+              <charseq START="2607" END="2617">White House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E21" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E21-M1602">
+          <extent>
+              <charseq START="2805" END="2843">the David L. Lawrence Convention Center</charseq>
+          </extent>
+          <head>
+              <charseq START="2809" END="2843">David L. Lawrence Convention Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E21-M1604">
+          <extent>
+              <charseq START="2846" END="2888">the main venue for the
+upcoming G20 summit,</charseq>
+          </extent>
+          <head>
+              <charseq START="2855" END="2859">venue</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David L. Lawrence Convention Center">
+              <charseq START="2809" END="2843">David L. Lawrence Convention Center</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E22-M1608" ROLE="GPE">
+          <extent>
+              <charseq START="2878" END="2880">G20</charseq>
+          </extent>
+          <head>
+              <charseq START="2878" END="2880">G20</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="G20">
+              <charseq START="2878" END="2880">G20</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E23-M1610">
+          <extent>
+              <charseq START="2919" END="2949">the U.S. Green Building
+Council</charseq>
+          </extent>
+          <head>
+              <charseq START="2928" END="2949">Green Building
+Council</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E23-M2309">
+          <extent>
+              <charseq START="4201" END="4207">council</charseq>
+          </extent>
+          <head>
+              <charseq START="4201" END="4207">council</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Green Building
+Council">
+              <charseq START="2928" END="2949">Green Building
+Council</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E24" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E24-M1703">
+          <extent>
+              <charseq START="3215" END="3247">bridges&quot; for boasting 446
+bridges</charseq>
+          </extent>
+          <head>
+              <charseq START="3215" END="3221">bridges</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E25" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E25-M1705">
+          <extent>
+              <charseq START="3237" END="3247">446
+bridges</charseq>
+          </extent>
+          <head>
+              <charseq START="3241" END="3247">bridges</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E26" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E26-M1804">
+          <extent>
+              <charseq START="3292" END="3298">bridges</charseq>
+          </extent>
+          <head>
+              <charseq START="3292" END="3298">bridges</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E27" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E27-M1909">
+          <extent>
+              <charseq START="3615" END="3645">a corporate headquarters&apos; home,</charseq>
+          </extent>
+          <head>
+              <charseq START="3641" END="3644">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E28-M1911">
+          <extent>
+              <charseq START="3615" END="3638">a corporate headquarters</charseq>
+          </extent>
+          <head>
+              <charseq START="3627" END="3638">headquarters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E29-M1912">
+          <extent>
+              <charseq START="3652" END="3723">over 300
+companies based here, including eight listed on the Fortune 500</charseq>
+          </extent>
+          <head>
+              <charseq START="3661" END="3669">companies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E30-M2102">
+          <extent>
+              <charseq START="3878" END="3940">China as having great potential for cooperation that Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="3878" END="3882">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="3878" END="3882">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090920.0088-E31-M2301">
+          <extent>
+              <charseq START="4125" END="4153">Pittsburgh mayor Bob O&apos;Connor</charseq>
+          </extent>
+          <head>
+              <charseq START="4142" END="4153">Bob O&apos;Connor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E31-M2303">
+          <extent>
+              <charseq START="4136" END="4140">mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="4136" END="4140">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bob O&apos;Connor">
+              <charseq START="4142" END="4153">Bob O&apos;Connor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E32-M2606">
+          <extent>
+              <charseq START="4405" END="4423">young professionals</charseq>
+          </extent>
+          <head>
+              <charseq START="4411" END="4423">professionals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E34-M2808">
+          <extent>
+              <charseq START="4601" END="4624">training police officers</charseq>
+          </extent>
+          <head>
+              <charseq START="4617" END="4624">officers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E35" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E35-M2810">
+          <extent>
+              <charseq START="4610" END="4615">police</charseq>
+          </extent>
+          <head>
+              <charseq START="4610" END="4615">police</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E36" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E36-M2911">
+          <extent>
+              <charseq START="4901" END="4926">a great team in Pittsburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="4909" END="4912">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090920.0088-E37" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090920.0088-E37-M2914">
+          <extent>
+              <charseq START="4932" END="4956">a region working together</charseq>
+          </extent>
+          <head>
+              <charseq START="4934" END="4939">region</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T0" VAL="2009-W39">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T0-M1">
+            <extent>
+              <charseq START="291" END="299">next week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T1" VAL="2009-05">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T1-M1">
+            <extent>
+              <charseq START="742" END="744">May</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T2" VAL="2008-11">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T2-M1">
+            <extent>
+              <charseq START="864" END="876">November 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T3" VAL="20">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T3-M1">
+            <extent>
+              <charseq START="1063" END="1076">a 21st century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T4" VAL="197">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T4-M1">
+            <extent>
+              <charseq START="1175" END="1183">the 1970s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T5" VAL="198">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T5-M1">
+            <extent>
+              <charseq START="1230" END="1234">1980s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T6" VAL="PRESENT_REF" ANCHOR_VAL="2009-09-20" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T6-M1">
+            <extent>
+              <charseq START="1349" END="1357">Currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T7" VAL="2008">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T7-M1">
+            <extent>
+              <charseq START="1984" END="1992">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T8" VAL="20">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T8-M1">
+            <extent>
+              <charseq START="3403" END="3420">truly 21st
+century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T9" VAL="2009-09">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T9-M1">
+            <extent>
+              <charseq START="3473" END="3490">earlier this month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T10" VAL="2006">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T10-M1">
+            <extent>
+              <charseq START="4114" END="4117">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T11" VAL="P29Y">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T11-M1">
+            <extent>
+              <charseq START="4286" END="4302">only 29 years old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090920.0088-T12" VAL="2009-W37">
+        <timex2_mention ID="XIN_ENG_20090920.0088-T12-M1">
+            <extent>
+              <charseq START="4555" END="4563">last week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="XIN_ENG_20090920.0088-V13" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="XIN_ENG_20090920.0088-V13-M1">
+            <extent>
+              <charseq START="4766" END="4795">almost 34 million U.S. dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="XIN_ENG_20090920.0088-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E3" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R0-M300">
+          <extent>
+              <charseq START="451" END="453">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E5-M325" ROLE="Arg-1">
+            <extent>
+              <charseq START="451" END="453">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E3-M324" ROLE="Arg-2">
+            <extent>
+              <charseq START="451" END="469">his reinvented city</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E9" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R1-M700">
+          <extent>
+              <charseq START="1203" END="1225">the U.S. steel industry</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E10-M712" ROLE="Arg-1">
+            <extent>
+              <charseq START="1203" END="1225">the U.S. steel industry</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E9-M713" ROLE="Arg-2">
+            <extent>
+              <charseq START="1207" END="1210">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E15" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R2-M1100">
+          <extent>
+              <charseq START="1853" END="1855">its</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E3-M1102" ROLE="Arg-1">
+            <extent>
+              <charseq START="1853" END="1855">its</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E15-M1101" ROLE="Arg-2">
+            <extent>
+              <charseq START="1853" END="1878">its broader economic bases</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R3" TYPE="PHYS" SUBTYPE="Near" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E17" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R3-M1101">
+          <extent>
+              <charseq START="1923" END="1953">those of many other U.S. cities</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E16-M1105" ROLE="Arg-1">
+            <extent>
+              <charseq START="1923" END="1953">those of many other U.S. cities</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E17-M1107" ROLE="Arg-2">
+            <extent>
+              <charseq START="1932" END="1953">many other U.S. cities</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E9" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R4-M1102">
+          <extent>
+              <charseq START="1932" END="1953">many other U.S. cities</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E17-M1107" ROLE="Arg-1">
+            <extent>
+              <charseq START="1932" END="1953">many other U.S. cities</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E9-M1108" ROLE="Arg-2">
+            <extent>
+              <charseq START="1943" END="1946">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E3" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R5-M1300">
+          <extent>
+              <charseq START="2323" END="2335">world leaders</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E6-M1305" ROLE="Arg-1">
+            <extent>
+              <charseq START="2323" END="2335">world leaders</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E3-M1307" ROLE="Arg-2">
+            <extent>
+              <charseq START="2345" END="2354">Pittsburgh</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R6" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E9" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R6-M1600">
+          <extent>
+              <charseq START="2919" END="2949">the U.S. Green Building
+Council</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E23-M1610" ROLE="Arg-1">
+            <extent>
+              <charseq START="2919" END="2949">the U.S. Green Building
+Council</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E9-M1611" ROLE="Arg-2">
+            <extent>
+              <charseq START="2923" END="2926">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E3" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R7-M2200">
+          <extent>
+              <charseq START="4066" END="4099">the youngest mayor of a major city</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E5-M2204" ROLE="Arg-1">
+            <extent>
+              <charseq START="4066" END="4099">the youngest mayor of a major city</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E3-M2206" ROLE="Arg-2">
+            <extent>
+              <charseq START="4088" END="4099">a major city</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E3" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R8-M2300">
+          <extent>
+              <charseq START="4136" END="4140">mayor</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E31-M2303" ROLE="Arg-1">
+            <extent>
+              <charseq START="4136" END="4140">mayor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E3-M2302" ROLE="Arg-2">
+            <extent>
+              <charseq START="4125" END="4134">Pittsburgh</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R9" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E23" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R9-M2301">
+          <extent>
+              <charseq START="4181" END="4217">a 26-year-
+old city council president</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E5-M2307" ROLE="Arg-1">
+            <extent>
+              <charseq START="4181" END="4217">a 26-year-
+old city council president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E23-M2309" ROLE="Arg-2">
+            <extent>
+              <charseq START="4201" END="4207">council</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E34" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E35" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R10-M2800">
+          <extent>
+              <charseq START="4601" END="4624">training police officers</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E34-M2808" ROLE="Arg-1">
+            <extent>
+              <charseq START="4601" END="4624">training police officers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E35-M2810" ROLE="Arg-2">
+            <extent>
+              <charseq START="4610" END="4615">police</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090920.0088-R12" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090920.0088-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090920.0088-E3" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090920.0088-R12-M2901">
+          <extent>
+              <charseq START="4901" END="4926">a great team in Pittsburgh</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E36-M2911" ROLE="Arg-1">
+            <extent>
+              <charseq START="4901" END="4926">a great team in Pittsburgh</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090920.0088-E3-M2913" ROLE="Arg-2">
+            <extent>
+              <charseq START="4917" END="4926">Pittsburgh</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

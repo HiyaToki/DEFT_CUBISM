@@ -1,0 +1,1299 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100520.0662">
+  <document DOCID="AFP_ENG_20100520.0662">
+
+    <entity ID="AFP_ENG_20100520.0662-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E0-M7" ROLE="LOC">
+          <extent>
+              <charseq START="100" END="106">Bangkok</charseq>
+          </extent>
+          <head>
+              <charseq START="100" END="106">Bangkok</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E0-M101" ROLE="LOC">
+          <extent>
+              <charseq START="131" END="137">BANGKOK</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="137">BANGKOK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E0-M305">
+          <extent>
+              <charseq START="213" END="219">Bangkok</charseq>
+          </extent>
+          <head>
+              <charseq START="213" END="219">Bangkok</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E0-M402" ROLE="LOC">
+          <extent>
+              <charseq START="413" END="423">the capital</charseq>
+          </extent>
+          <head>
+              <charseq START="417" END="423">capital</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bangkok">
+              <charseq START="100" END="106">Bangkok</charseq>
+          </name>
+          <name NAME="BANGKOK">
+              <charseq START="131" END="137">BANGKOK</charseq>
+          </name>
+          <name NAME="Bangkok">
+              <charseq START="213" END="219">Bangkok</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E1-M200">
+          <extent>
+              <charseq START="154" END="156">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="156">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E1-M1109">
+          <extent>
+              <charseq START="1701" END="1703">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="1701" END="1703">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="154" END="156">AFP</charseq>
+          </name>
+          <name NAME="AFP">
+              <charseq START="1701" END="1703">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E2-M308">
+          <extent>
+              <charseq START="259" END="267">buildings</charseq>
+          </extent>
+          <head>
+              <charseq START="259" END="267">buildings</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E2-M312">
+          <extent>
+              <charseq START="317" END="374">a temple where
+thousands of people spent a night in terror</charseq>
+          </extent>
+          <head>
+              <charseq START="319" END="324">temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E2-M314">
+          <extent>
+              <charseq START="326" END="330">where</charseq>
+          </extent>
+          <head>
+              <charseq START="326" END="330">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E2-M900">
+          <extent>
+              <charseq START="1293" END="1324">a temple inside the protest area</charseq>
+          </extent>
+          <head>
+              <charseq START="1295" END="1300">temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E2-M1202">
+          <extent>
+              <charseq START="1894" END="1996">the temple, which had been seen as a
+&quot;safe zone&quot; within the rally site before troops firing live rounds</charseq>
+          </extent>
+          <head>
+              <charseq START="1898" END="1903">temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E2-M1403">
+          <extent>
+              <charseq START="2198" END="2226">the Red Shirt protesters home</charseq>
+          </extent>
+          <head>
+              <charseq START="2223" END="2226">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E2-M1412">
+          <extent>
+              <charseq START="2297" END="2305">buildings</charseq>
+          </extent>
+          <head>
+              <charseq START="2297" END="2305">buildings</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E2-M1813">
+          <extent>
+              <charseq START="2593" END="2602">the temple</charseq>
+          </extent>
+          <head>
+              <charseq START="2597" END="2602">temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E2-M2703">
+          <extent>
+              <charseq START="3535" END="3556">the temple
+with Buddha</charseq>
+          </extent>
+          <head>
+              <charseq START="3539" END="3544">temple</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E3" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E3-M309">
+          <extent>
+              <charseq START="277" END="281">shops</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="281">shops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E4-M317">
+          <extent>
+              <charseq START="345" END="350">people</charseq>
+          </extent>
+          <head>
+              <charseq START="345" END="350">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E6-M403">
+          <extent>
+              <charseq START="428" END="608">people ventured back onto the streets
+after a night-time curfew imposed by the army to allow them to quash remaining
+pockets of resistance after it broke up an anti-government rally</charseq>
+          </extent>
+          <head>
+              <charseq START="428" END="433">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E6-M409">
+          <extent>
+              <charseq START="521" END="524">them</charseq>
+          </extent>
+          <head>
+              <charseq START="521" END="524">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E6-M511">
+          <extent>
+              <charseq START="769" END="786">enraged protesters</charseq>
+          </extent>
+          <head>
+              <charseq START="777" END="786">protesters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E6-M808">
+          <extent>
+              <charseq START="1170" END="1183">the protesters</charseq>
+          </extent>
+          <head>
+              <charseq START="1174" END="1183">protesters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E6-M1100">
+          <extent>
+              <charseq START="1626" END="1689">People clutching belongings and children filed out of the pagoda</charseq>
+          </extent>
+          <head>
+              <charseq START="1626" END="1631">People</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E6-M1118">
+          <extent>
+              <charseq START="1805" END="1832">black-clad protesters darted</charseq>
+          </extent>
+          <head>
+              <charseq START="1816" END="1825">protesters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E6-M1405">
+          <extent>
+              <charseq START="2212" END="2221">protesters</charseq>
+          </extent>
+          <head>
+              <charseq START="2212" END="2221">protesters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E6-M1702">
+          <extent>
+              <charseq START="2457" END="2468">the soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="2461" END="2468">soldiers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E6-M1700">
+          <extent>
+              <charseq START="2447" END="2450">They</charseq>
+          </extent>
+          <head>
+              <charseq START="2447" END="2450">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E7" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E7-M405">
+          <extent>
+              <charseq START="454" END="464">the streets</charseq>
+          </extent>
+          <head>
+              <charseq START="458" END="464">streets</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E7-M1410">
+          <extent>
+              <charseq START="2278" END="2288">the streets</charseq>
+          </extent>
+          <head>
+              <charseq START="2282" END="2288">streets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E8-M408">
+          <extent>
+              <charseq START="503" END="510">the army</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="510">army</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E8-M1300">
+          <extent>
+              <charseq START="2076" END="2083">The army</charseq>
+          </extent>
+          <head>
+              <charseq START="2080" END="2083">army</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E9-M503">
+          <extent>
+              <charseq START="650" END="662">Central World</charseq>
+          </extent>
+          <head>
+              <charseq START="650" END="662">Central World</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E9-M500">
+          <extent>
+              <charseq START="620" END="748">The charred ruins of the vast Central World shopping mall -- a favourite
+destination of well-heeled Thais and foreign tourists --</charseq>
+          </extent>
+          <head>
+              <charseq START="632" END="636">ruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Central World">
+              <charseq START="650" END="662">Central World</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E10" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E10-M502">
+          <extent>
+              <charseq START="641" END="676">the vast Central World shopping mall</charseq>
+          </extent>
+          <head>
+              <charseq START="673" END="676">mall</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E11-M507">
+          <extent>
+              <charseq START="708" END="724">well-heeled Thais</charseq>
+          </extent>
+          <head>
+              <charseq START="720" END="724">Thais</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E12-M509">
+          <extent>
+              <charseq START="730" END="745">foreign tourists</charseq>
+          </extent>
+          <head>
+              <charseq START="738" END="745">tourists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E13-M609">
+          <extent>
+              <charseq START="932" END="945">Southeast Asia</charseq>
+          </extent>
+          <head>
+              <charseq START="932" END="945">Southeast Asia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Southeast Asia">
+              <charseq START="932" END="945">Southeast Asia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E14-M600">
+          <extent>
+              <charseq START="837" END="843">Firemen</charseq>
+          </extent>
+          <head>
+              <charseq START="837" END="843">Firemen</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E15-M709">
+          <extent>
+              <charseq START="1051" END="1065">other locations</charseq>
+          </extent>
+          <head>
+              <charseq START="1057" END="1065">locations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E15-M922">
+          <extent>
+              <charseq START="1500" END="1503">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1500" END="1503">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E16-M711">
+          <extent>
+              <charseq START="1077" END="1081">banks</charseq>
+          </extent>
+          <head>
+              <charseq START="1077" END="1081">banks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E17-M712">
+          <extent>
+              <charseq START="1087" END="1106">a television station</charseq>
+          </extent>
+          <head>
+              <charseq START="1100" END="1106">station</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E19-M916">
+          <extent>
+              <charseq START="1431" END="1438">Thailand</charseq>
+          </extent>
+          <head>
+              <charseq START="1431" END="1438">Thailand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E19-M1400" ROLE="ORG">
+          <extent>
+              <charseq START="2157" END="2170">The government</charseq>
+          </extent>
+          <head>
+              <charseq START="2161" END="2170">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E19-M1500">
+          <extent>
+              <charseq START="2400" END="2407">Thailand</charseq>
+          </extent>
+          <head>
+              <charseq START="2400" END="2407">Thailand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E19-M1602">
+          <extent>
+              <charseq START="2427" END="2444">a barbaric country</charseq>
+          </extent>
+          <head>
+              <charseq START="2438" END="2444">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E19-M2104" ROLE="ORG">
+          <extent>
+              <charseq START="2698" END="2711">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="2702" END="2711">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E19-M2401" ROLE="GPE">
+          <extent>
+              <charseq START="3003" END="3006">Thai</charseq>
+          </extent>
+          <head>
+              <charseq START="3003" END="3006">Thai</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E19-M2507" ROLE="GPE">
+          <extent>
+              <charseq START="3267" END="3275">Thailand,</charseq>
+          </extent>
+          <head>
+              <charseq START="3267" END="3274">Thailand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E19-M2514" ROLE="ORG">
+          <extent>
+              <charseq START="3330" END="3341">a government</charseq>
+          </extent>
+          <head>
+              <charseq START="3332" END="3341">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Thailand">
+              <charseq START="1431" END="1438">Thailand</charseq>
+          </name>
+          <name NAME="Thailand">
+              <charseq START="2400" END="2407">Thailand</charseq>
+          </name>
+          <name NAME="Thai">
+              <charseq START="3003" END="3006">Thai</charseq>
+          </name>
+          <name NAME="Thailand">
+              <charseq START="3267" END="3274">Thailand</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E20-M902">
+          <extent>
+              <charseq START="1309" END="1324">the protest area</charseq>
+          </extent>
+          <head>
+              <charseq START="1321" END="1324">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E20-M1415">
+          <extent>
+              <charseq START="2380" END="2387">the area</charseq>
+          </extent>
+          <head>
+              <charseq START="2384" END="2387">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E20-M2313">
+          <extent>
+              <charseq START="2887" END="2894">the area</charseq>
+          </extent>
+          <head>
+              <charseq START="2891" END="2894">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E20-M2406">
+          <extent>
+              <charseq START="3104" END="3111">the area</charseq>
+          </extent>
+          <head>
+              <charseq START="3108" END="3111">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E21-M906">
+          <extent>
+              <charseq START="1341" END="1382">six people killed during a
+night of mayhem</charseq>
+          </extent>
+          <head>
+              <charseq START="1345" END="1350">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E21-M919">
+          <extent>
+              <charseq START="1456" END="1460">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1460">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E22-M915">
+          <extent>
+              <charseq START="1431" END="1453">Thailand&apos;s
+revered king</charseq>
+          </extent>
+          <head>
+              <charseq START="1450" END="1453">king</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E23-M1104">
+          <extent>
+              <charseq START="1658" END="1689">children filed out of the pagoda</charseq>
+          </extent>
+          <head>
+              <charseq START="1658" END="1665">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E24" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E24-M1106">
+          <extent>
+              <charseq START="1680" END="1689">the pagoda</charseq>
+          </extent>
+          <head>
+              <charseq START="1684" END="1689">pagoda</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E25-M1108">
+          <extent>
+              <charseq START="1698" END="1712">an AFP
+reporter</charseq>
+          </extent>
+          <head>
+              <charseq START="1705" END="1712">reporter</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E26-M1200">
+          <extent>
+              <charseq START="1855" END="1860">Police</charseq>
+          </extent>
+          <head>
+              <charseq START="1855" END="1860">Police</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E26-M2408">
+          <extent>
+              <charseq START="3136" END="3141">police</charseq>
+          </extent>
+          <head>
+              <charseq START="3136" END="3141">police</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E26-M2700">
+          <extent>
+              <charseq START="3500" END="3509">the police</charseq>
+          </extent>
+          <head>
+              <charseq START="3504" END="3509">police</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E27-M1201">
+          <extent>
+              <charseq START="1867" END="1877">nine people</charseq>
+          </extent>
+          <head>
+              <charseq START="1872" END="1877">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E28" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E28-M1205">
+          <extent>
+              <charseq START="1929" END="1941">a
+&quot;safe zone&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1937" END="1940">zone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E29-M1209">
+          <extent>
+              <charseq START="1972" END="1996">troops firing live rounds</charseq>
+          </extent>
+          <head>
+              <charseq START="1972" END="1977">troops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E30" TYPE="VEH" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E30-M1212">
+          <extent>
+              <charseq START="2012" END="2064">armoured vehicles stormed the rally site on Wednesday</charseq>
+          </extent>
+          <head>
+              <charseq START="2021" END="2028">vehicles</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E31-M1304">
+          <extent>
+              <charseq START="2131" END="2145">armed militants</charseq>
+          </extent>
+          <head>
+              <charseq START="2137" END="2145">militants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E31-M2402">
+          <extent>
+              <charseq START="3033" END="3048">armed militants&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="3039" END="3047">militants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E32-M1404">
+          <extent>
+              <charseq START="2202" END="2210">Red Shirt</charseq>
+          </extent>
+          <head>
+              <charseq START="2202" END="2210">Red Shirt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E32-M1407">
+          <extent>
+              <charseq START="2234" END="2238">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2234" END="2238">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Red Shirt">
+              <charseq START="2202" END="2210">Red Shirt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E33" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E33-M1401">
+          <extent>
+              <charseq START="2184" END="2188">buses</charseq>
+          </extent>
+          <head>
+              <charseq START="2184" END="2188">buses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E34-M1406">
+          <extent>
+              <charseq START="2234" END="2246">their leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="2240" END="2246">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E35-M1414">
+          <extent>
+              <charseq START="2324" END="2332">armed men</charseq>
+          </extent>
+          <head>
+              <charseq START="2330" END="2332">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E37-M1803">
+          <extent>
+              <charseq START="2506" END="2523">Sirikwan Nemisiwpa</charseq>
+          </extent>
+          <head>
+              <charseq START="2506" END="2523">Sirikwan Nemisiwpa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E37-M1804">
+          <extent>
+              <charseq START="2526" END="2602">a woman in her late 50s who was
+among those who spent the night in the temple</charseq>
+          </extent>
+          <head>
+              <charseq START="2528" END="2532">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E37-M1807">
+          <extent>
+              <charseq START="2537" END="2539">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2537" END="2539">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E37-M1808">
+          <extent>
+              <charseq START="2550" END="2552">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2550" END="2552">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E37-M1811">
+          <extent>
+              <charseq START="2570" END="2572">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2570" END="2572">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E37-M2204">
+          <extent>
+              <charseq START="2753" END="2755">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2753" END="2755">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E37-M2603">
+          <extent>
+              <charseq START="3418" END="3449">a woman from northern Chiang Mai</charseq>
+          </extent>
+          <head>
+              <charseq START="3420" END="3424">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E37-M2608">
+          <extent>
+              <charseq START="3472" END="3474">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3472" END="3474">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sirikwan Nemisiwpa">
+              <charseq START="2506" END="2523">Sirikwan Nemisiwpa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E38-M1809">
+          <extent>
+              <charseq START="2564" END="2602">those who spent the night in the temple</charseq>
+          </extent>
+          <head>
+              <charseq START="2564" END="2568">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E39" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E39-M2105">
+          <extent>
+              <charseq START="2725" END="2738">the parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="2729" END="2738">parliament</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E40-M2304">
+          <extent>
+              <charseq START="2798" END="2815">Red Shirts leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="2809" END="2815">leaders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E40-M2312">
+          <extent>
+              <charseq START="2869" END="2873">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2869" END="2873">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E41-M2311">
+          <extent>
+              <charseq START="2869" END="2884">their supporters</charseq>
+          </extent>
+          <head>
+              <charseq START="2875" END="2884">supporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E42-M2316">
+          <extent>
+              <charseq START="2936" END="2954">peaceful protesters</charseq>
+          </extent>
+          <head>
+              <charseq START="2945" END="2954">protesters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E43-M2317">
+          <extent>
+              <charseq START="2957" END="2970">no terrorists&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2960" END="2969">terrorists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E43-M2409">
+          <extent>
+              <charseq START="3147" END="3154">soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="3147" END="3154">soldiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E44-M2400">
+          <extent>
+              <charseq START="3003" END="3018">Thai authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="3008" END="3018">authorities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E45" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E45-M2403">
+          <extent>
+              <charseq START="3073" END="3098">high rise
+buildings nearby</charseq>
+          </extent>
+          <head>
+              <charseq START="3083" END="3091">buildings</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E46" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E46-M2410">
+          <extent>
+              <charseq START="3164" END="3174">checkpoints</charseq>
+          </extent>
+          <head>
+              <charseq START="3164" END="3174">checkpoints</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E47-M2500">
+          <extent>
+              <charseq START="3201" END="3378">Some protesters, many of whom hail from the impoverished north of Thailand, said
+they did not want to end their campaign to oust a government they see as elitist
+and undemocratic</charseq>
+          </extent>
+          <head>
+              <charseq START="3206" END="3215">protesters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E47-M2502">
+          <extent>
+              <charseq START="3226" END="3229">whom</charseq>
+          </extent>
+          <head>
+              <charseq START="3226" END="3229">whom</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E47-M2509">
+          <extent>
+              <charseq START="3282" END="3285">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3282" END="3285">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E47-M2513">
+          <extent>
+              <charseq START="3307" END="3311">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3307" END="3311">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100520.0662-E47-M2515">
+          <extent>
+              <charseq START="3343" END="3346">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3343" END="3346">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E48-M2605">
+          <extent>
+              <charseq START="3431" END="3449">northern Chiang Mai</charseq>
+          </extent>
+          <head>
+              <charseq START="3440" END="3449">Chiang Mai</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chiang Mai">
+              <charseq START="3440" END="3449">Chiang Mai</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E49" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100520.0662-E49-M2610">
+          <extent>
+              <charseq START="3484" END="3488">a bus</charseq>
+          </extent>
+          <head>
+              <charseq START="3486" END="3488">bus</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100520.0662-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100520.0662-E50-M2705">
+          <extent>
+              <charseq START="3551" END="3556">Buddha</charseq>
+          </extent>
+          <head>
+              <charseq START="3551" END="3556">Buddha</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Buddha">
+              <charseq START="3551" END="3556">Buddha</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T0" VAL="2010-05-20">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T0-M1">
+            <extent>
+              <charseq START="140" END="151">May 20, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T1" VAL="2010-05-20">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T1-M1">
+            <extent>
+              <charseq START="221" END="228">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T2" VAL="2010-05-20TNI">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T2-M1">
+            <extent>
+              <charseq START="358" END="364">a night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T3" VAL="PAST_REF" ANCHOR_VAL="2010-05-20" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T3-M1">
+            <extent>
+              <charseq START="888" END="891">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T4" VAL="2010-05-20TNI">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T4-M1">
+            <extent>
+              <charseq START="1366" END="1372">a
+night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T5" VAL="2010-05-19TEV">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T5-M1">
+            <extent>
+              <charseq START="1739" END="1758">the previous evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T6" VAL="2010-05-19">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T6-M1">
+            <extent>
+              <charseq START="2056" END="2064">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T7" VAL="195" MOD="END">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T7-M1">
+            <extent>
+              <charseq START="2541" END="2548">late 50s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T8" VAL="2010-05-20TNI">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T8-M1">
+            <extent>
+              <charseq START="2580" END="2602">the night in the temple</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100520.0662-T9" VAL="P6W">
+        <timex2_mention ID="AFP_ENG_20100520.0662-T9-M1">
+            <extent>
+              <charseq START="2825" END="2833">six weeks</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100520.0662-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100520.0662-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-E13" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100520.0662-R0-M600">
+          <extent>
+              <charseq START="837" END="843">Firemen</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E14-M600" ROLE="Arg-1">
+            <extent>
+              <charseq START="837" END="843">Firemen</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E13-M609" ROLE="Arg-2">
+            <extent>
+              <charseq START="932" END="945">Southeast Asia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100520.0662-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100520.0662-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-E20" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100520.0662-R1-M900">
+          <extent>
+              <charseq START="1293" END="1324">a temple inside the protest area</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E2-M900" ROLE="Arg-1">
+            <extent>
+              <charseq START="1293" END="1324">a temple inside the protest area</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E20-M902" ROLE="Arg-2">
+            <extent>
+              <charseq START="1309" END="1324">the protest area</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100520.0662-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100520.0662-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-E19" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100520.0662-R2-M901">
+          <extent>
+              <charseq START="1431" END="1453">Thailand&apos;s
+revered king</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E22-M915" ROLE="Arg-1">
+            <extent>
+              <charseq START="1431" END="1453">Thailand&apos;s
+revered king</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E19-M916" ROLE="Arg-2">
+            <extent>
+              <charseq START="1431" END="1438">Thailand</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100520.0662-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100520.0662-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100520.0662-R3-M1100">
+          <extent>
+              <charseq START="1698" END="1712">an AFP
+reporter</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E25-M1108" ROLE="Arg-1">
+            <extent>
+              <charseq START="1698" END="1712">an AFP
+reporter</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E1-M1109" ROLE="Arg-2">
+            <extent>
+              <charseq START="1701" END="1703">AFP</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100520.0662-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100520.0662-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-E2" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100520.0662-R4-M1200">
+          <extent>
+              <charseq START="1867" END="1877">nine people</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E27-M1201" ROLE="Arg-1">
+            <extent>
+              <charseq START="1867" END="1877">nine people</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E2-M1202" ROLE="Arg-2">
+            <extent>
+              <charseq START="1894" END="1996">the temple, which had been seen as a
+&quot;safe zone&quot; within the rally site before troops firing live rounds</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100520.0662-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100520.0662-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-E32" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100520.0662-R5-M1400">
+          <extent>
+              <charseq START="2212" END="2221">protesters</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E6-M1405" ROLE="Arg-1">
+            <extent>
+              <charseq START="2212" END="2221">protesters</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E32-M1404" ROLE="Arg-2">
+            <extent>
+              <charseq START="2202" END="2210">Red Shirt</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100520.0662-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100520.0662-E34" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-E32" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100520.0662-R6-M1401">
+          <extent>
+              <charseq START="2234" END="2246">their leaders</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E34-M1406" ROLE="Arg-1">
+            <extent>
+              <charseq START="2234" END="2246">their leaders</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E32-M1407" ROLE="Arg-2">
+            <extent>
+              <charseq START="2234" END="2238">their</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100520.0662-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100520.0662-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-E2" ROLE="Arg-2"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-T8" ROLE="Time-Holds"/>
+        <relation_mention ID="AFP_ENG_20100520.0662-R7-M1800">
+          <extent>
+              <charseq START="2570" END="2572">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E37-M1811" ROLE="Arg-1">
+            <extent>
+              <charseq START="2570" END="2572">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E2-M1813" ROLE="Arg-2">
+            <extent>
+              <charseq START="2593" END="2602">the temple</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-T8-M1" ROLE="Time-Holds">
+            <extent>
+              <charseq START="2580" END="2602">the night in the temple</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100520.0662-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100520.0662-E44" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100520.0662-E19" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100520.0662-R8-M2400">
+          <extent>
+              <charseq START="3003" END="3018">Thai authorities</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E44-M2400" ROLE="Arg-1">
+            <extent>
+              <charseq START="3003" END="3018">Thai authorities</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100520.0662-E19-M2401" ROLE="Arg-2">
+            <extent>
+              <charseq START="3003" END="3006">Thai</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

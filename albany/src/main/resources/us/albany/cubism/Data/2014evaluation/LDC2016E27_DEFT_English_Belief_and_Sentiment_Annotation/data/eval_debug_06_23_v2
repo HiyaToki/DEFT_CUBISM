@@ -1,0 +1,1175 @@
+Evaluating all files in the specified directories (batch mode).
+
+---Scoring 010aaf594ae6ef20eb28e3ee26038375---
+Gold private state tuples: [<PST (ent-45,ent-24,neg,['m-174'])>, <PST (ent-45,ent-99,pos,['m-666'])>, <PST (ent-45,ent-27,pos,['m-246', 'm-252', 'm-258', 'm-264', 'm-276', 'm-282', 'm-1128', 'm-1169', 'm-1185'])>, <PST (ent-45,ent-1241,pos,['m-1235'])>]
+Predict private state tuples: [<PST (ent-45,ent-24,neg,['m-174'])>, <PST (ent-45,ent-99,pos,['m-666'])>, <PST (ent-45,ent-27,pos,['m-246', 'm-252', 'm-258', 'm-264', 'm-276', 'm-282', 'm-1128', 'm-1169', 'm-1185'])>, <PST (ent-45,ent-1241,pos,['m-1235'])>]
+---False Negatives---
+<PST (ent-45,ent-99,pos,['m-666'])>
+<PST (ent-45,ent-1241,pos,['m-1235'])>
+---True Positives---
+<PST (ent-45,ent-24,neg,['m-168'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+<PST (ent-45,ent-27,pos,['m-1169', 'm-282', 'm-258'])> TP match score: 1.0 provenance weight: 1.5 total: 1.0
+---False Positives---
+<PST (ent-45,ent-81,neg,['m-510'])>
+<PST (ent-45,ent-1275,pos,['m-1269'])>
+<PST (ent-8,ent-63,neg,['m-438'])>
+TP: 2.0
+FN: 2.0
+FP: 3.0
+
+---Scoring 018fb4e59ac5474167ffc5940d7e55e7---
+Gold private state tuples: [<PST (ent-27,ent-30,neg,['m-282', 'm-294'])>]
+Predict private state tuples: [<PST (ent-27,ent-30,neg,['m-282', 'm-294'])>]
+---False Negatives---
+<PST (ent-27,ent-30,neg,['m-282', 'm-294'])>
+---True Positives---
+---False Positives---
+<PST (ent-48,ent-81,neg,['m-828'])>
+<PST (ent-42,ent-63,neg,['m-702', 'm-702'])>
+<PST (ent-27,ent-1446,pos,['m-1464', 'm-1464'])>
+<PST (ent-27,ent-33,neg,['m-474', 'm-474'])>
+<PST (ent-30,ent-1398,pos,['m-1554'])>
+<PST (ent-51,ent-81,neg,['m-840'])>
+<PST (ent-48,ent-63,neg,['m-714'])>
+<PST (ent-30,ent-108,neg,['m-942'])>
+TP: 0.0
+FN: 1.0
+FP: 8.0
+
+---Scoring 01f69c4c2206e7c3fa3706ccd5b8b350---
+Gold private state tuples: [<PST (ent-21,ent-51,neg,['m-267'])>]
+Predict private state tuples: [<PST (ent-21,ent-51,neg,['m-267'])>]
+---False Negatives---
+---True Positives---
+<PST (ent-21,ent-51,neg,['m-285'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+---False Positives---
+<PST (ent-33,ent-51,neg,['m-285'])>
+TP: 1.0
+FN: 0.0
+FP: 1.0
+
+---Scoring 026bd1c7eae9f14da9480a4b88ba2fb6---
+Gold private state tuples: [<PST (ent-45,ent-81,neg,['m-624', 'm-630'])>, <PST (ent-45,ent-42,neg,['m-258', 'm-264', 'm-270'])>, <PST (ent-8,ent-33,neg,['m-222'])>]
+Predict private state tuples: [<PST (ent-45,ent-81,neg,['m-624', 'm-630'])>, <PST (ent-45,ent-42,neg,['m-258', 'm-264', 'm-270'])>, <PST (ent-8,ent-33,neg,['m-222'])>]
+---False Negatives---
+<PST (ent-45,ent-81,neg,['m-624', 'm-630'])>
+<PST (ent-45,ent-42,neg,['m-258', 'm-264', 'm-270'])>
+---True Positives---
+<PST (ent-8,ent-33,neg,['m-234'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+---False Positives---
+<PST (ent-27,ent-72,neg,['m-570'])>
+<PST (ent-60,ent-72,neg,['m-570'])>
+<PST (ent-8,ent-24,pos,['m-150'])>
+<PST (ent-24,ent-33,neg,['m-204'])>
+<PST (ent-45,ent-57,neg,['m-504', 'm-504', 'm-504'])>
+<PST (ent-48,ent-45,pos,['m-360', 'm-360', 'm-360', 'm-360'])>
+TP: 1.0
+FN: 2.0
+FP: 6.0
+
+---Scoring 02905b7ce3a6b8b0961c6c2310392ef9---
+Gold private state tuples: []
+Predict private state tuples: []
+---False Negatives---
+---True Positives---
+---False Positives---
+<PST (ent-21,ent-57,pos,['m-1240'])>
+<PST (ent-21,ent-30,pos,['m-1183'])>
+<PST (ent-69,ent-90,pos,['m-423'])>
+<PST (ent-69,ent-99,neg,['m-585'])>
+<PST (ent-21,ent-1383,pos,['m-1431'])>
+<PST (ent-69,ent-111,neg,['m-687'])>
+<PST (ent-21,ent-1228,pos,['m-1231'])>
+<PST (ent-69,ent-102,neg,['m-645'])>
+TP: 0.0
+FN: 0.0
+FP: 8.0
+
+---Scoring 04134f2be20afbb868d7a8292f49e277---
+Gold private state tuples: [<PST (ent-21,ent-1396,pos,['m-1390'])>, <PST (ent-8,ent-24,pos,['m-336'])>, <PST (ent-33,ent-1484,neg,['m-1478'])>, <PST (ent-8,ent-1022,pos,['m-1445', 'm-1466'])>, <PST (ent-33,ent-42,neg,['m-486', 'm-492', 'm-498'])>, <PST (ent-8,ent-1442,pos,['m-1436'])>, <PST (ent-8,ent-892,pos,['m-949', 'm-1451'])>, <PST (ent-8,ent-8,pos,['m-234'])>, <PST (ent-21,ent-18,pos,['m-294', 'm-300'])>, <PST (ent-21,ent-1387,pos,['m-1381'])>, <PST (ent-8,ent-1037,neg,['m-1031'])>, <PST (ent-21,ent-42,neg,['m-462', 'm-474', 'm-480', 'm-534', 'm-1506'])>, <PST (ent-30,ent-54,neg,['m-570'])>, <PST (ent-8,ent-27,pos,['m-342'])>, <PST (ent-30,ent-1581,neg,['m-1575'])>, <PST (ent-8,ent-42,neg,['m-426', 'm-438', 'm-450', 'm-456', 'm-504', 'm-516'])>, <PST (ent-8,ent-42,pos,['m-444', 'm-510', 'm-540', 'm-992'])>, <PST (ent-21,ent-1022,pos,['m-1375'])>, <PST (ent-33,ent-39,neg,['m-390'])>, <PST (ent-8,ent-1022,neg,['m-1016', 'm-1025', 'm-1052'])>, <PST (ent-8,ent-998,pos,['m-1001'])>, <PST (ent-33,ent-763,pos,['m-757'])>, <PST (ent-8,ent-1013,neg,['m-1007', 'm-1040', 'm-1046'])>, <PST (ent-30,ent-1022,pos,['m-1418', 'm-1424'])>, <PST (ent-30,ent-1415,neg,['m-1409'])>, <PST (ent-33,ent-1493,pos,['m-1487'])>, <PST (ent-30,ent-901,neg,['m-895'])>]
+Predict private state tuples: [<PST (ent-21,ent-1396,pos,['m-1390'])>, <PST (ent-8,ent-24,pos,['m-336'])>, <PST (ent-33,ent-1484,neg,['m-1478'])>, <PST (ent-8,ent-1022,pos,['m-1445', 'm-1466'])>, <PST (ent-33,ent-42,neg,['m-486', 'm-492', 'm-498'])>, <PST (ent-8,ent-1442,pos,['m-1436'])>, <PST (ent-8,ent-892,pos,['m-949', 'm-1451'])>, <PST (ent-8,ent-8,pos,['m-234'])>, <PST (ent-21,ent-18,pos,['m-294', 'm-300'])>, <PST (ent-21,ent-1387,pos,['m-1381'])>, <PST (ent-8,ent-1037,neg,['m-1031'])>, <PST (ent-21,ent-42,neg,['m-462', 'm-474', 'm-480', 'm-534', 'm-1506'])>, <PST (ent-30,ent-54,neg,['m-570'])>, <PST (ent-8,ent-27,pos,['m-342'])>, <PST (ent-30,ent-1581,neg,['m-1575'])>, <PST (ent-8,ent-42,neg,['m-426', 'm-438', 'm-450', 'm-456', 'm-504', 'm-516'])>, <PST (ent-8,ent-42,pos,['m-444', 'm-510', 'm-540', 'm-992'])>, <PST (ent-21,ent-1022,pos,['m-1375'])>, <PST (ent-33,ent-39,neg,['m-390'])>, <PST (ent-8,ent-1022,neg,['m-1016', 'm-1025', 'm-1052'])>, <PST (ent-8,ent-998,pos,['m-1001'])>, <PST (ent-33,ent-763,pos,['m-757'])>, <PST (ent-8,ent-1013,neg,['m-1007', 'm-1040', 'm-1046'])>, <PST (ent-30,ent-1022,pos,['m-1418', 'm-1424'])>, <PST (ent-30,ent-1415,neg,['m-1409'])>, <PST (ent-33,ent-1493,pos,['m-1487'])>, <PST (ent-30,ent-901,neg,['m-895'])>]
+---False Negatives---
+<PST (ent-21,ent-1396,pos,['m-1390'])>
+<PST (ent-8,ent-24,pos,['m-336'])>
+<PST (ent-8,ent-1022,pos,['m-1445', 'm-1466'])>
+<PST (ent-8,ent-1442,pos,['m-1436'])>
+<PST (ent-8,ent-892,pos,['m-949', 'm-1451'])>
+<PST (ent-8,ent-1037,neg,['m-1031'])>
+<PST (ent-30,ent-54,neg,['m-570'])>
+<PST (ent-8,ent-27,pos,['m-342'])>
+<PST (ent-30,ent-1581,neg,['m-1575'])>
+<PST (ent-8,ent-42,neg,['m-426', 'm-438', 'm-450', 'm-456', 'm-504', 'm-516'])>
+<PST (ent-8,ent-42,pos,['m-444', 'm-510', 'm-540', 'm-992'])>
+<PST (ent-21,ent-1022,pos,['m-1375'])>
+<PST (ent-33,ent-39,neg,['m-390'])>
+<PST (ent-8,ent-1022,neg,['m-1016', 'm-1025', 'm-1052'])>
+<PST (ent-8,ent-998,pos,['m-1001'])>
+<PST (ent-33,ent-763,pos,['m-757'])>
+<PST (ent-8,ent-1013,neg,['m-1007', 'm-1040', 'm-1046'])>
+<PST (ent-30,ent-1022,pos,['m-1418', 'm-1424'])>
+<PST (ent-30,ent-1415,neg,['m-1409'])>
+<PST (ent-30,ent-901,neg,['m-895'])>
+---True Positives---
+<PST (ent-8,ent-8,pos,['m-234'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-21,ent-18,pos,['m-300'])> TP match score: 1.0 provenance weight: 1.33333333333 total: 1.0
+<PST (ent-21,ent-42,pos,['m-468'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+<PST (ent-21,ent-1387,pos,['m-1381'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-8,ent-1493,pos,['m-1487'])> TP match score: 0.666666666667 provenance weight: 1.0 total: 0.666666666667
+<PST (ent-8,ent-1484,neg,['m-1478'])> TP match score: 0.666666666667 provenance weight: 1.0 total: 0.666666666667
+<PST (ent-33,ent-42,neg,['m-498'])> TP match score: 1.0 provenance weight: 1.5 total: 1.0
+---False Positives---
+TP: 6.0
+FN: 20.0
+FP: 0.0
+
+---Scoring 0648a08469a3be9eb972f0d213562805---
+Gold private state tuples: [<PST (ent-8,ent-1285,neg,['m-1279'])>, <PST (ent-8,ent-39,neg,['m-465'])>, <PST (ent-8,ent-33,neg,['m-447', 'm-453'])>, <PST (ent-24,ent-51,neg,['m-942', 'm-1204'])>, <PST (ent-8,ent-1267,neg,['m-1261'])>, <PST (ent-8,ent-27,neg,['m-327', 'm-333', 'm-363', 'm-369', 'm-381', 'm-393', 'm-399', 'm-405', 'm-411', 'm-845', 'm-851'])>, <PST (ent-30,ent-69,neg,['m-561'])>, <PST (ent-30,ent-66,neg,['m-555'])>, <PST (ent-24,ent-27,neg,['m-309', 'm-345'])>]
+Predict private state tuples: [<PST (ent-8,ent-1285,neg,['m-1279'])>, <PST (ent-8,ent-39,neg,['m-465'])>, <PST (ent-8,ent-33,neg,['m-447', 'm-453'])>, <PST (ent-24,ent-51,neg,['m-942', 'm-1204'])>, <PST (ent-8,ent-1267,neg,['m-1261'])>, <PST (ent-8,ent-27,neg,['m-327', 'm-333', 'm-363', 'm-369', 'm-381', 'm-393', 'm-399', 'm-405', 'm-411', 'm-845', 'm-851'])>, <PST (ent-30,ent-69,neg,['m-561'])>, <PST (ent-30,ent-66,neg,['m-555'])>, <PST (ent-24,ent-27,neg,['m-309', 'm-345'])>]
+---False Negatives---
+<PST (ent-8,ent-1285,neg,['m-1279'])>
+<PST (ent-8,ent-33,neg,['m-447', 'm-453'])>
+<PST (ent-24,ent-51,neg,['m-942', 'm-1204'])>
+<PST (ent-30,ent-69,neg,['m-561'])>
+<PST (ent-30,ent-66,neg,['m-555'])>
+---True Positives---
+<PST (ent-8,ent-1267,neg,['m-1261'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-8,ent-27,neg,['m-411', 'm-387', 'm-363'])> TP match score: 1.0 provenance weight: 1.71428571429 total: 1.0
+<PST (ent-8,ent-27,pos,['m-399', 'm-327', 'm-333'])> TP match score: 0.333333333333 provenance weight: 2.0 total: 0.333333333333
+<PST (ent-30,ent-39,neg,['m-465'])> TP match score: 0.666666666667 provenance weight: 1.0 total: 0.666666666667
+---False Positives---
+<PST (ent-8,ent-18,pos,['m-201'])>
+<PST (ent-30,ent-60,neg,['m-543'])>
+<PST (ent-8,ent-21,pos,['m-219'])>
+<PST (ent-24,ent-81,neg,['m-603'])>
+TP: 3.0
+FN: 5.0
+FP: 4.0
+
+---Scoring 0659c87d9fd3d5efd258ee6de3ba1003---
+Gold private state tuples: [<PST (ent-36,ent-45,neg,['m-174'])>, <PST (ent-36,ent-42,pos,['m-168'])>, <PST (ent-27,ent-21,pos,['m-96', 'm-108', 'm-114'])>, <PST (ent-36,ent-39,neg,['m-162'])>]
+Predict private state tuples: [<PST (ent-36,ent-45,neg,['m-174'])>, <PST (ent-36,ent-42,pos,['m-168'])>, <PST (ent-27,ent-21,pos,['m-96', 'm-108', 'm-114'])>, <PST (ent-36,ent-39,neg,['m-162'])>]
+---False Negatives---
+<PST (ent-36,ent-42,pos,['m-168'])>
+<PST (ent-27,ent-21,pos,['m-96', 'm-108', 'm-114'])>
+<PST (ent-36,ent-39,neg,['m-162'])>
+---True Positives---
+<PST (ent-36,ent-45,neg,['m-174'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+---False Positives---
+TP: 1.0
+FN: 3.0
+FP: 0.0
+
+---Scoring 086e26ec92d1cc02f3900e9ac46d6962---
+Gold private state tuples: [<PST (ent-36,ent-36,neg,['m-1175'])>, <PST (ent-8,ent-75,pos,['m-711', 'm-717', 'm-723'])>, <PST (ent-72,ent-54,neg,['m-555', 'm-561', 'm-567', 'm-573'])>, <PST (ent-63,ent-93,neg,['m-783', 'm-1265'])>, <PST (ent-36,ent-33,pos,['m-315', 'm-321', 'm-327', 'm-1667'])>, <PST (ent-63,ent-1256,pos,['m-1250'])>]
+Predict private state tuples: [<PST (ent-36,ent-36,neg,['m-1175'])>, <PST (ent-8,ent-75,pos,['m-711', 'm-717', 'm-723'])>, <PST (ent-72,ent-54,neg,['m-555', 'm-561', 'm-567', 'm-573'])>, <PST (ent-63,ent-93,neg,['m-783', 'm-1265'])>, <PST (ent-36,ent-33,pos,['m-315', 'm-321', 'm-327', 'm-1667'])>, <PST (ent-63,ent-1256,pos,['m-1250'])>]
+---False Negatives---
+<PST (ent-36,ent-36,neg,['m-1175'])>
+<PST (ent-63,ent-1256,pos,['m-1250'])>
+---True Positives---
+<PST (ent-8,ent-75,pos,['m-711'])> TP match score: 1.0 provenance weight: 1.5 total: 1.0
+<PST (ent-72,ent-54,neg,['m-555'])> TP match score: 1.0 provenance weight: 1.6 total: 1.0
+<PST (ent-63,ent-93,neg,['m-783'])> TP match score: 1.0 provenance weight: 1.33333333333 total: 1.0
+<PST (ent-36,ent-33,pos,['m-321', 'm-1667'])> TP match score: 1.0 provenance weight: 1.33333333333 total: 1.0
+---False Positives---
+<PST (ent-36,ent-1679,pos,['m-1673'])>
+<PST (ent-63,ent-66,neg,['m-645'])>
+<PST (ent-72,ent-18,neg,['m-195'])>
+<PST (ent-8,ent-30,neg,['m-249'])>
+<PST (ent-36,ent-90,neg,['m-771'])>
+TP: 4.0
+FN: 2.0
+FP: 5.0
+
+---Scoring 087f58983ef5e94e54024bc9f0f009ae---
+Gold private state tuples: [<PST (ent-54,ent-27,pos,['m-435'])>, <PST (ent-8,ent-18,neg,['m-213', 'm-219'])>, <PST (ent-8,ent-30,neg,['m-531'])>, <PST (ent-51,ent-1816,neg,['m-1810'])>]
+Predict private state tuples: [<PST (ent-54,ent-27,pos,['m-435'])>, <PST (ent-8,ent-18,neg,['m-213', 'm-219'])>, <PST (ent-8,ent-30,neg,['m-531'])>, <PST (ent-51,ent-1816,neg,['m-1810'])>]
+---False Negatives---
+<PST (ent-8,ent-30,neg,['m-531'])>
+<PST (ent-51,ent-1816,neg,['m-1810'])>
+---True Positives---
+<PST (ent-54,ent-27,pos,['m-435'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-8,ent-18,neg,['m-201'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+---False Positives---
+<PST (ent-51,ent-24,neg,['m-267', 'm-267'])>
+<PST (ent-51,ent-27,pos,['m-333', 'm-345', 'm-333', 'm-345'])>
+TP: 2.0
+FN: 2.0
+FP: 2.0
+
+---Scoring 08b0dfe15192c063055ed7db8d24c625---
+Gold private state tuples: []
+Predict private state tuples: []
+---False Negatives---
+---True Positives---
+---False Positives---
+<PST (ent-8,ent-1075,pos,['m-1069'])>
+<PST (ent-8,ent-36,pos,['m-327'])>
+TP: 0.0
+FN: 0.0
+FP: 2.0
+
+---Scoring 08ebdc5f0ec8588af38ab1684318d99c---
+Gold private state tuples: [<PST (ent-33,ent-8,neg,['m-198'])>, <PST (ent-8,ent-1395,neg,['m-1389'])>, <PST (ent-8,ent-914,neg,['m-908'])>, <PST (ent-1220,ent-1247,neg,['m-1241'])>, <PST (ent-21,ent-54,neg,['m-318'])>, <PST (ent-8,ent-1220,neg,['m-1214', 'm-1223', 'm-1229'])>, <PST (ent-8,ent-90,neg,['m-450'])>, <PST (ent-39,ent-830,pos,['m-824'])>, <PST (ent-8,ent-1036,neg,['m-1030'])>, <PST (ent-8,ent-1481,pos,['m-1475'])>, <PST (ent-8,ent-1183,neg,['m-1177'])>, <PST (ent-39,ent-45,neg,['m-863'])>, <PST (ent-39,ent-45,pos,['m-288'])>, <PST (ent-8,ent-1265,neg,['m-1259'])>, <PST (ent-39,ent-839,pos,['m-833'])>, <PST (ent-8,ent-991,neg,['m-985', 'm-1024'])>, <PST (ent-8,ent-99,neg,['m-492'])>, <PST (ent-21,ent-93,neg,['m-456'])>, <PST (ent-8,ent-905,neg,['m-1383'])>, <PST (ent-39,ent-743,neg,['m-737'])>, <PST (ent-8,ent-96,neg,['m-468', 'm-474', 'm-480'])>, <PST (ent-8,ent-1256,neg,['m-1250'])>, <PST (ent-8,ent-1289,pos,['m-1283'])>, <PST (ent-8,ent-1192,pos,['m-1186'])>]
+Predict private state tuples: [<PST (ent-33,ent-8,neg,['m-198'])>, <PST (ent-8,ent-1395,neg,['m-1389'])>, <PST (ent-8,ent-914,neg,['m-908'])>, <PST (ent-1220,ent-1247,neg,['m-1241'])>, <PST (ent-21,ent-54,neg,['m-318'])>, <PST (ent-8,ent-1220,neg,['m-1214', 'm-1223', 'm-1229'])>, <PST (ent-8,ent-90,neg,['m-450'])>, <PST (ent-39,ent-830,pos,['m-824'])>, <PST (ent-8,ent-1036,neg,['m-1030'])>, <PST (ent-8,ent-1481,pos,['m-1475'])>, <PST (ent-8,ent-1183,neg,['m-1177'])>, <PST (ent-39,ent-45,neg,['m-863'])>, <PST (ent-39,ent-45,pos,['m-288'])>, <PST (ent-8,ent-1265,neg,['m-1259'])>, <PST (ent-39,ent-839,pos,['m-833'])>, <PST (ent-8,ent-991,neg,['m-985', 'm-1024'])>, <PST (ent-8,ent-99,neg,['m-492'])>, <PST (ent-21,ent-93,neg,['m-456'])>, <PST (ent-8,ent-905,neg,['m-1383'])>, <PST (ent-39,ent-743,neg,['m-737'])>, <PST (ent-8,ent-96,neg,['m-468', 'm-474', 'm-480'])>, <PST (ent-8,ent-1256,neg,['m-1250'])>, <PST (ent-8,ent-1289,pos,['m-1283'])>, <PST (ent-8,ent-1192,pos,['m-1186'])>]
+---False Negatives---
+<PST (ent-33,ent-8,neg,['m-198'])>
+<PST (ent-8,ent-1395,neg,['m-1389'])>
+<PST (ent-8,ent-914,neg,['m-908'])>
+<PST (ent-1220,ent-1247,neg,['m-1241'])>
+<PST (ent-21,ent-54,neg,['m-318'])>
+<PST (ent-8,ent-90,neg,['m-450'])>
+<PST (ent-39,ent-830,pos,['m-824'])>
+<PST (ent-8,ent-1036,neg,['m-1030'])>
+<PST (ent-8,ent-1481,pos,['m-1475'])>
+<PST (ent-8,ent-1183,neg,['m-1177'])>
+<PST (ent-39,ent-45,neg,['m-863'])>
+<PST (ent-39,ent-45,pos,['m-288'])>
+<PST (ent-8,ent-1265,neg,['m-1259'])>
+<PST (ent-39,ent-839,pos,['m-833'])>
+<PST (ent-8,ent-99,neg,['m-492'])>
+<PST (ent-21,ent-93,neg,['m-456'])>
+<PST (ent-8,ent-905,neg,['m-1383'])>
+<PST (ent-39,ent-743,neg,['m-737'])>
+<PST (ent-8,ent-1256,neg,['m-1250'])>
+<PST (ent-8,ent-1289,pos,['m-1283'])>
+<PST (ent-8,ent-1192,pos,['m-1186'])>
+---True Positives---
+<PST (ent-8,ent-96,neg,['m-474'])> TP match score: 1.0 provenance weight: 1.5 total: 1.0
+<PST (ent-8,ent-991,neg,['m-985'])> TP match score: 1.0 provenance weight: 1.33333333333 total: 1.0
+<PST (ent-8,ent-1220,pos,['m-1214'])> TP match score: 0.666666666667 provenance weight: 1.5 total: 0.666666666667
+---False Positives---
+<PST (ent-8,ent-48,neg,['m-294'])>
+TP: 2.66666666667
+FN: 21.0
+FP: 1.0
+
+---Scoring 09098ae4e956a51b038876197814735e---
+Gold private state tuples: [<PST (ent-30,ent-18,pos,['m-210', 'm-216', 'm-222'])>, <PST (ent-36,ent-18,pos,['m-1132'])>, <PST (ent-36,ent-54,pos,['m-1138'])>, <PST (ent-60,ent-18,pos,['m-324', 'm-330', 'm-336', 'm-342'])>, <PST (ent-8,ent-18,pos,['m-192'])>]
+Predict private state tuples: [<PST (ent-30,ent-18,pos,['m-210', 'm-216', 'm-222'])>, <PST (ent-36,ent-18,pos,['m-1132'])>, <PST (ent-36,ent-54,pos,['m-1138'])>, <PST (ent-60,ent-18,pos,['m-324', 'm-330', 'm-336', 'm-342'])>, <PST (ent-8,ent-18,pos,['m-192'])>]
+---False Negatives---
+<PST (ent-36,ent-54,pos,['m-1138'])>
+<PST (ent-60,ent-18,pos,['m-324', 'm-330', 'm-336', 'm-342'])>
+---True Positives---
+<PST (ent-8,ent-18,pos,['m-162', 'm-168'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+<PST (ent-36,ent-18,neg,['m-282'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+<PST (ent-69,ent-18,pos,['m-366'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+---False Positives---
+<PST (ent-72,ent-126,pos,['m-726'])>
+<PST (ent-8,ent-18,neg,['m-156'])>
+<PST (ent-30,ent-135,neg,['m-744'])>
+<PST (ent-72,ent-111,pos,['m-696'])>
+<PST (ent-57,ent-93,pos,['m-630'])>
+TP: 2.33333333333
+FN: 2.0
+FP: 5.0
+
+---Scoring 0a421343005f3241376fa01e1cb3c6fb---
+Gold private state tuples: [<PST (ent-21,ent-27,neg,['m-954'])>, <PST (ent-8,ent-24,pos,['m-732', 'm-756', 'm-762'])>, <PST (ent-21,ent-18,neg,['m-684', 'm-690'])>, <PST (ent-8,ent-18,pos,['m-618', 'm-624', 'm-630', 'm-636', 'm-642', 'm-648'])>, <PST (ent-8,ent-8,neg,['m-576', 'm-582'])>, <PST (ent-8,ent-27,neg,['m-810', 'm-816', 'm-876', 'm-894', 'm-900', 'm-918', 'm-924', 'm-930', 'm-936', 'm-942', 'm-948'])>, <PST (ent-8,ent-27,pos,['m-798', 'm-840'])>, <PST (ent-8,ent-18,neg,['m-660', 'm-666', 'm-672', 'm-678'])>]
+Predict private state tuples: [<PST (ent-21,ent-27,neg,['m-954'])>, <PST (ent-8,ent-24,pos,['m-732', 'm-756', 'm-762'])>, <PST (ent-21,ent-18,neg,['m-684', 'm-690'])>, <PST (ent-8,ent-18,pos,['m-618', 'm-624', 'm-630', 'm-636', 'm-642', 'm-648'])>, <PST (ent-8,ent-8,neg,['m-576', 'm-582'])>, <PST (ent-8,ent-27,neg,['m-810', 'm-816', 'm-876', 'm-894', 'm-900', 'm-918', 'm-924', 'm-930', 'm-936', 'm-942', 'm-948'])>, <PST (ent-8,ent-27,pos,['m-798', 'm-840'])>, <PST (ent-8,ent-18,neg,['m-660', 'm-666', 'm-672', 'm-678'])>]
+---False Negatives---
+<PST (ent-8,ent-24,pos,['m-732', 'm-756', 'm-762'])>
+<PST (ent-21,ent-18,neg,['m-684', 'm-690'])>
+<PST (ent-8,ent-8,neg,['m-576', 'm-582'])>
+<PST (ent-8,ent-27,pos,['m-798', 'm-840'])>
+---True Positives---
+<PST (ent-8,ent-18,pos,['m-618'])> TP match score: 1.0 provenance weight: 1.71428571429 total: 1.0
+<PST (ent-8,ent-18,neg,['m-672'])> TP match score: 1.0 provenance weight: 1.6 total: 1.0
+<PST (ent-8,ent-27,neg,['m-810', 'm-858'])> TP match score: 1.0 provenance weight: 1.84615384615 total: 1.0
+<PST (ent-21,ent-27,pos,['m-954'])> TP match score: 0.666666666667 provenance weight: 1.0 total: 0.666666666667
+---False Positives---
+<PST (ent-8,ent-30,pos,['m-966'])>
+<PST (ent-8,ent-33,pos,['m-1002'])>
+TP: 3.66666666667
+FN: 4.0
+FP: 2.0
+
+---Scoring 0ba982819aaf9f5b94a7cebd48ac6018---
+Gold private state tuples: [<PST (ent-8,ent-24,neg,['m-234', 'm-240'])>, <PST (ent-27,ent-910,neg,['m-904', 'm-955', 'm-1056', 'm-1097', 'm-1251'])>, <PST (ent-27,ent-51,neg,['m-540', 'm-546'])>, <PST (ent-27,ent-1309,neg,['m-1303', 'm-1312'])>, <PST (ent-30,ent-48,neg,['m-534'])>, <PST (ent-8,ent-57,neg,['m-558'])>, <PST (ent-45,ent-18,pos,['m-90', 'm-96', 'm-102'])>, <PST (ent-27,ent-39,neg,['m-402'])>, <PST (ent-8,ent-21,neg,['m-216', 'm-222', 'm-228'])>, <PST (ent-42,ent-48,neg,['m-516', 'm-522', 'm-528'])>, <PST (ent-18,ent-1300,neg,['m-1294'])>, <PST (ent-27,ent-18,neg,['m-210'])>, <PST (ent-33,ent-910,neg,['m-1351'])>, <PST (ent-27,ent-57,neg,['m-913', 'm-919'])>, <PST (ent-27,ent-18,pos,['m-108', 'm-132', 'm-156', 'm-174', 'm-180'])>, <PST (ent-27,ent-1207,neg,['m-1210'])>, <PST (ent-33,ent-39,neg,['m-438'])>, <PST (ent-42,ent-18,pos,['m-114', 'm-120', 'm-126', 'm-138', 'm-144', 'm-150', 'm-162', 'm-168'])>, <PST (ent-42,ent-27,neg,['m-336', 'm-342', 'm-348'])>, <PST (ent-8,ent-874,neg,['m-868'])>, <PST (ent-30,ent-18,pos,['m-192', 'm-198', 'm-204'])>, <PST (ent-27,ent-24,neg,['m-246'])>, <PST (ent-36,ent-39,neg,['m-444'])>]
+Predict private state tuples: [<PST (ent-8,ent-24,neg,['m-234', 'm-240'])>, <PST (ent-27,ent-910,neg,['m-904', 'm-955', 'm-1056', 'm-1097', 'm-1251'])>, <PST (ent-27,ent-51,neg,['m-540', 'm-546'])>, <PST (ent-27,ent-1309,neg,['m-1303', 'm-1312'])>, <PST (ent-30,ent-48,neg,['m-534'])>, <PST (ent-8,ent-57,neg,['m-558'])>, <PST (ent-45,ent-18,pos,['m-90', 'm-96', 'm-102'])>, <PST (ent-27,ent-39,neg,['m-402'])>, <PST (ent-8,ent-21,neg,['m-216', 'm-222', 'm-228'])>, <PST (ent-42,ent-48,neg,['m-516', 'm-522', 'm-528'])>, <PST (ent-18,ent-1300,neg,['m-1294'])>, <PST (ent-27,ent-18,neg,['m-210'])>, <PST (ent-33,ent-910,neg,['m-1351'])>, <PST (ent-27,ent-57,neg,['m-913', 'm-919'])>, <PST (ent-27,ent-18,pos,['m-108', 'm-132', 'm-156', 'm-174', 'm-180'])>, <PST (ent-27,ent-1207,neg,['m-1210'])>, <PST (ent-33,ent-39,neg,['m-438'])>, <PST (ent-42,ent-18,pos,['m-114', 'm-120', 'm-126', 'm-138', 'm-144', 'm-150', 'm-162', 'm-168'])>, <PST (ent-42,ent-27,neg,['m-336', 'm-342', 'm-348'])>, <PST (ent-8,ent-874,neg,['m-868'])>, <PST (ent-30,ent-18,pos,['m-192', 'm-198', 'm-204'])>, <PST (ent-27,ent-24,neg,['m-246'])>, <PST (ent-36,ent-39,neg,['m-444'])>]
+---False Negatives---
+<PST (ent-8,ent-24,neg,['m-234', 'm-240'])>
+<PST (ent-27,ent-910,neg,['m-904', 'm-955', 'm-1056', 'm-1097', 'm-1251'])>
+<PST (ent-27,ent-51,neg,['m-540', 'm-546'])>
+<PST (ent-27,ent-1309,neg,['m-1303', 'm-1312'])>
+<PST (ent-30,ent-48,neg,['m-534'])>
+<PST (ent-8,ent-57,neg,['m-558'])>
+<PST (ent-27,ent-39,neg,['m-402'])>
+<PST (ent-8,ent-21,neg,['m-216', 'm-222', 'm-228'])>
+<PST (ent-42,ent-48,neg,['m-516', 'm-522', 'm-528'])>
+<PST (ent-18,ent-1300,neg,['m-1294'])>
+<PST (ent-27,ent-18,neg,['m-210'])>
+<PST (ent-33,ent-910,neg,['m-1351'])>
+<PST (ent-27,ent-57,neg,['m-913', 'm-919'])>
+<PST (ent-33,ent-39,neg,['m-438'])>
+<PST (ent-42,ent-27,neg,['m-336', 'm-342', 'm-348'])>
+<PST (ent-8,ent-874,neg,['m-868'])>
+<PST (ent-30,ent-18,pos,['m-192', 'm-198', 'm-204'])>
+<PST (ent-27,ent-24,neg,['m-246'])>
+<PST (ent-36,ent-39,neg,['m-444'])>
+---True Positives---
+<PST (ent-27,ent-18,pos,['m-174'])> TP match score: 1.0 provenance weight: 1.66666666667 total: 1.0
+<PST (ent-27,ent-1207,neg,['m-1201'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+<PST (ent-45,ent-18,pos,['m-90'])> TP match score: 1.0 provenance weight: 1.5 total: 1.0
+<PST (ent-42,ent-18,pos,['m-126', 'm-126', 'm-126'])> TP match score: 1.0 provenance weight: 1.77777777778 total: 1.0
+---False Positives---
+<PST (ent-42,ent-60,neg,['m-570', 'm-570', 'm-570'])>
+<PST (ent-30,ent-1330,pos,['m-1324'])>
+TP: 4.0
+FN: 19.0
+FP: 2.0
+
+---Scoring 0c49bb860962aa0d5b8e3fc277592da0---
+Gold private state tuples: [<PST (ent-48,ent-987,neg,['m-981'])>, <PST (ent-54,ent-27,neg,['m-294'])>, <PST (ent-48,ent-942,neg,['m-1053', 'm-1059'])>, <PST (ent-8,ent-18,pos,['m-90', 'm-132', 'm-144', 'm-1005'])>, <PST (ent-48,ent-900,neg,['m-903'])>, <PST (ent-8,ent-75,neg,['m-648'])>, <PST (ent-8,ent-18,neg,['m-120', 'm-126', 'm-138', 'm-168'])>, <PST (ent-54,ent-900,neg,['m-1017'])>, <PST (ent-48,ent-18,neg,['m-174', 'm-234', 'm-246'])>, <PST (ent-8,ent-1002,pos,['m-996'])>, <PST (ent-54,ent-915,neg,['m-909', 'm-1023'])>, <PST (ent-48,ent-897,pos,['m-891'])>, <PST (ent-45,ent-18,neg,['m-186', 'm-192', 'm-228', 'm-240'])>, <PST (ent-54,ent-18,neg,['m-216', 'm-252'])>, <PST (ent-45,ent-900,neg,['m-1038'])>, <PST (ent-8,ent-81,neg,['m-660'])>]
+Predict private state tuples: [<PST (ent-48,ent-987,neg,['m-981'])>, <PST (ent-54,ent-27,neg,['m-294'])>, <PST (ent-48,ent-942,neg,['m-1053', 'm-1059'])>, <PST (ent-8,ent-18,pos,['m-90', 'm-132', 'm-144', 'm-1005'])>, <PST (ent-48,ent-900,neg,['m-903'])>, <PST (ent-8,ent-75,neg,['m-648'])>, <PST (ent-8,ent-18,neg,['m-120', 'm-126', 'm-138', 'm-168'])>, <PST (ent-54,ent-900,neg,['m-1017'])>, <PST (ent-48,ent-18,neg,['m-174', 'm-234', 'm-246'])>, <PST (ent-8,ent-1002,pos,['m-996'])>, <PST (ent-54,ent-915,neg,['m-909', 'm-1023'])>, <PST (ent-48,ent-897,pos,['m-891'])>, <PST (ent-45,ent-18,neg,['m-186', 'm-192', 'm-228', 'm-240'])>, <PST (ent-54,ent-18,neg,['m-216', 'm-252'])>, <PST (ent-45,ent-900,neg,['m-1038'])>, <PST (ent-8,ent-81,neg,['m-660'])>]
+---False Negatives---
+<PST (ent-54,ent-27,neg,['m-294'])>
+<PST (ent-48,ent-942,neg,['m-1053', 'm-1059'])>
+<PST (ent-48,ent-900,neg,['m-903'])>
+<PST (ent-8,ent-75,neg,['m-648'])>
+<PST (ent-54,ent-900,neg,['m-1017'])>
+<PST (ent-48,ent-18,neg,['m-174', 'm-234', 'm-246'])>
+<PST (ent-8,ent-1002,pos,['m-996'])>
+<PST (ent-54,ent-915,neg,['m-909', 'm-1023'])>
+<PST (ent-48,ent-897,pos,['m-891'])>
+<PST (ent-45,ent-18,neg,['m-186', 'm-192', 'm-228', 'm-240'])>
+<PST (ent-54,ent-18,neg,['m-216', 'm-252'])>
+<PST (ent-45,ent-900,neg,['m-1038'])>
+<PST (ent-8,ent-81,neg,['m-660'])>
+---True Positives---
+<PST (ent-8,ent-18,neg,['m-138'])> TP match score: 1.0 provenance weight: 1.6 total: 1.0
+<PST (ent-8,ent-18,pos,['m-90'])> TP match score: 1.0 provenance weight: 1.6 total: 1.0
+<PST (ent-48,ent-987,pos,['m-981'])> TP match score: 0.666666666667 provenance weight: 1.0 total: 0.666666666667
+---False Positives---
+TP: 2.66666666667
+FN: 13.0
+FP: 0.0
+
+---Scoring 0cfdfe102b7a4cb34e1a181c1d36d23d---
+Gold private state tuples: [<PST (ent-18,ent-721,neg,['m-715'])>, <PST (ent-27,ent-45,neg,['m-366', 'm-378'])>, <PST (ent-18,ent-931,neg,['m-925', 'm-934'])>, <PST (ent-18,ent-60,neg,['m-438', 'm-444', 'm-462'])>, <PST (ent-18,ent-54,neg,['m-426'])>, <PST (ent-18,ent-51,neg,['m-420'])>, <PST (ent-18,ent-640,neg,['m-631'])>, <PST (ent-27,ent-1132,neg,['m-1126'])>, <PST (ent-18,ent-703,neg,['m-697'])>, <PST (ent-30,ent-1069,neg,['m-1063', 'm-1120'])>, <PST (ent-27,ent-27,neg,['m-186'])>, <PST (ent-18,ent-63,neg,['m-480', 'm-486'])>, <PST (ent-33,ent-21,neg,['m-150', 'm-156', 'm-1795'])>, <PST (ent-18,ent-48,neg,['m-408', 'm-1697'])>, <PST (ent-18,ent-45,neg,['m-324', 'm-330', 'm-336', 'm-348', 'm-354', 'm-360', 'm-652', 'm-1165'])>, <PST (ent-27,ent-1141,neg,['m-1135'])>, <PST (ent-18,ent-745,neg,['m-739'])>, <PST (ent-18,ent-667,neg,['m-661'])>, <PST (ent-18,ent-1727,neg,['m-1721'])>, <PST (ent-18,ent-66,neg,['m-691', 'm-826', 'm-841', 'm-856', 'm-862', 'm-1268'])>, <PST (ent-18,ent-805,neg,['m-799'])>, <PST (ent-30,ent-27,neg,['m-198'])>, <PST (ent-18,ent-853,pos,['m-847'])>, <PST (ent-18,ent-72,neg,['m-510', 'm-516'])>]
+Predict private state tuples: [<PST (ent-18,ent-721,neg,['m-715'])>, <PST (ent-27,ent-45,neg,['m-366', 'm-378'])>, <PST (ent-18,ent-931,neg,['m-925', 'm-934'])>, <PST (ent-18,ent-60,neg,['m-438', 'm-444', 'm-462'])>, <PST (ent-18,ent-54,neg,['m-426'])>, <PST (ent-18,ent-51,neg,['m-420'])>, <PST (ent-18,ent-640,neg,['m-631'])>, <PST (ent-27,ent-1132,neg,['m-1126'])>, <PST (ent-18,ent-703,neg,['m-697'])>, <PST (ent-30,ent-1069,neg,['m-1063', 'm-1120'])>, <PST (ent-27,ent-27,neg,['m-186'])>, <PST (ent-18,ent-63,neg,['m-480', 'm-486'])>, <PST (ent-33,ent-21,neg,['m-150', 'm-156', 'm-1795'])>, <PST (ent-18,ent-48,neg,['m-408', 'm-1697'])>, <PST (ent-18,ent-45,neg,['m-324', 'm-330', 'm-336', 'm-348', 'm-354', 'm-360', 'm-652', 'm-1165'])>, <PST (ent-27,ent-1141,neg,['m-1135'])>, <PST (ent-18,ent-745,neg,['m-739'])>, <PST (ent-18,ent-667,neg,['m-661'])>, <PST (ent-18,ent-1727,neg,['m-1721'])>, <PST (ent-18,ent-66,neg,['m-691', 'm-826', 'm-841', 'm-856', 'm-862', 'm-1268'])>, <PST (ent-18,ent-805,neg,['m-799'])>, <PST (ent-30,ent-27,neg,['m-198'])>, <PST (ent-18,ent-853,pos,['m-847'])>, <PST (ent-18,ent-72,neg,['m-510', 'm-516'])>]
+---False Negatives---
+<PST (ent-18,ent-721,neg,['m-715'])>
+<PST (ent-18,ent-931,neg,['m-925', 'm-934'])>
+<PST (ent-18,ent-60,neg,['m-438', 'm-444', 'm-462'])>
+<PST (ent-18,ent-54,neg,['m-426'])>
+<PST (ent-18,ent-51,neg,['m-420'])>
+<PST (ent-18,ent-640,neg,['m-631'])>
+<PST (ent-18,ent-703,neg,['m-697'])>
+<PST (ent-30,ent-1069,neg,['m-1063', 'm-1120'])>
+<PST (ent-27,ent-27,neg,['m-186'])>
+<PST (ent-18,ent-63,neg,['m-480', 'm-486'])>
+<PST (ent-18,ent-48,neg,['m-408', 'm-1697'])>
+<PST (ent-27,ent-1141,neg,['m-1135'])>
+<PST (ent-18,ent-745,neg,['m-739'])>
+<PST (ent-18,ent-667,neg,['m-661'])>
+<PST (ent-18,ent-1727,neg,['m-1721'])>
+<PST (ent-18,ent-66,neg,['m-691', 'm-826', 'm-841', 'm-856', 'm-862', 'm-1268'])>
+<PST (ent-18,ent-805,neg,['m-799'])>
+<PST (ent-30,ent-27,neg,['m-198'])>
+<PST (ent-18,ent-853,pos,['m-847'])>
+<PST (ent-18,ent-72,neg,['m-510', 'm-516'])>
+---True Positives---
+<PST (ent-27,ent-45,pos,['m-366', 'm-366', 'm-396'])> TP match score: 0.666666666667 provenance weight: 1.5 total: 0.666666666667
+<PST (ent-18,ent-21,pos,['m-126', 'm-126'])> TP match score: 0.333333333333 provenance weight: 2.0 total: 0.333333333333
+<PST (ent-27,ent-1132,neg,['m-1126'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-18,ent-45,neg,['m-348', 'm-360'])> TP match score: 1.0 provenance weight: 1.6 total: 1.0
+---False Positives---
+<PST (ent-27,ent-1792,pos,['m-1786'])>
+<PST (ent-27,ent-30,neg,['m-270'])>
+<PST (ent-18,ent-1783,neg,['m-1831'])>
+TP: 3.0
+FN: 20.0
+FP: 3.0
+
+---Scoring 0f03cc5a508d630c6c8c8c61396e31a9---
+Gold private state tuples: [<PST (ent-27,ent-8,pos,['m-111'])>, <PST (ent-8,ent-8,pos,['m-87'])>, <PST (ent-27,ent-45,pos,['m-339'])>, <PST (ent-8,ent-913,pos,['m-907'])>, <PST (ent-8,ent-60,pos,['m-387'])>, <PST (ent-30,ent-33,pos,['m-285'])>, <PST (ent-8,ent-904,pos,['m-898'])>, <PST (ent-8,ent-57,pos,['m-381'])>]
+Predict private state tuples: [<PST (ent-27,ent-8,pos,['m-111'])>, <PST (ent-8,ent-8,pos,['m-87'])>, <PST (ent-27,ent-45,pos,['m-339'])>, <PST (ent-8,ent-913,pos,['m-907'])>, <PST (ent-8,ent-60,pos,['m-387'])>, <PST (ent-30,ent-33,pos,['m-285'])>, <PST (ent-8,ent-904,pos,['m-898'])>, <PST (ent-8,ent-57,pos,['m-381'])>]
+---False Negatives---
+<PST (ent-27,ent-8,pos,['m-111'])>
+<PST (ent-8,ent-8,pos,['m-87'])>
+<PST (ent-27,ent-45,pos,['m-339'])>
+<PST (ent-8,ent-913,pos,['m-907'])>
+<PST (ent-8,ent-60,pos,['m-387'])>
+<PST (ent-8,ent-904,pos,['m-898'])>
+<PST (ent-8,ent-57,pos,['m-381'])>
+---True Positives---
+<PST (ent-30,ent-33,neg,['m-285'])> TP match score: 0.666666666667 provenance weight: 1.0 total: 0.666666666667
+---False Positives---
+<PST (ent-30,ent-63,neg,['m-393'])>
+<PST (ent-8,ent-27,neg,['m-213'])>
+<PST (ent-39,ent-42,neg,['m-333'])>
+TP: 0.666666666667
+FN: 7.0
+FP: 3.0
+
+---Scoring 0f565d3822dca80336582ffac4adaf78---
+Gold private state tuples: [<PST (ent-18,ent-78,neg,['m-663'])>]
+Predict private state tuples: [<PST (ent-18,ent-78,neg,['m-663'])>]
+---False Negatives---
+---True Positives---
+<PST (ent-18,ent-78,neg,['m-657'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+---False Positives---
+<PST (ent-8,ent-75,pos,['m-555'])>
+<PST (ent-8,ent-75,neg,['m-537'])>
+<PST (ent-78,ent-42,pos,['m-327'])>
+<PST (ent-78,ent-102,neg,['m-735'])>
+<PST (ent-78,ent-114,neg,['m-825'])>
+<PST (ent-8,ent-114,neg,['m-837'])>
+<PST (ent-18,ent-42,pos,['m-327'])>
+TP: 1.0
+FN: 0.0
+FP: 7.0
+
+---Scoring 0fe5904ced20c20537fe29c1db11cd28---
+Gold private state tuples: [<PST (ent-30,ent-27,neg,['m-168'])>, <PST (ent-30,ent-75,neg,['m-432'])>]
+Predict private state tuples: [<PST (ent-30,ent-27,neg,['m-168'])>, <PST (ent-30,ent-75,neg,['m-432'])>]
+---False Negatives---
+<PST (ent-30,ent-27,neg,['m-168'])>
+<PST (ent-30,ent-75,neg,['m-432'])>
+---True Positives---
+---False Positives---
+<PST (ent-24,ent-18,pos,['m-812'])>
+TP: 0.0
+FN: 2.0
+FP: 1.0
+
+---Scoring 11329f1cdb44019afc8f48b6fdc5376d---
+Gold private state tuples: [<PST (ent-33,ent-63,neg,['m-456', 'm-462'])>, <PST (ent-24,ent-887,neg,['m-881'])>, <PST (ent-42,ent-33,pos,['m-192', 'm-198', 'm-204', 'm-216', 'm-222', 'm-228'])>, <PST (ent-42,ent-1669,pos,['m-1663', 'm-1672'])>, <PST (ent-33,ent-69,neg,['m-528', 'm-534'])>, <PST (ent-24,ent-878,neg,['m-872'])>, <PST (ent-24,ent-60,neg,['m-450'])>, <PST (ent-24,ent-794,neg,['m-896'])>]
+Predict private state tuples: [<PST (ent-33,ent-63,neg,['m-456', 'm-462'])>, <PST (ent-24,ent-887,neg,['m-881'])>, <PST (ent-42,ent-33,pos,['m-192', 'm-198', 'm-204', 'm-216', 'm-222', 'm-228'])>, <PST (ent-42,ent-1669,pos,['m-1663', 'm-1672'])>, <PST (ent-33,ent-69,neg,['m-528', 'm-534'])>, <PST (ent-24,ent-878,neg,['m-872'])>, <PST (ent-24,ent-60,neg,['m-450'])>, <PST (ent-24,ent-794,neg,['m-896'])>]
+---False Negatives---
+<PST (ent-33,ent-63,neg,['m-456', 'm-462'])>
+<PST (ent-24,ent-887,neg,['m-881'])>
+<PST (ent-42,ent-33,pos,['m-192', 'm-198', 'm-204', 'm-216', 'm-222', 'm-228'])>
+<PST (ent-42,ent-1669,pos,['m-1663', 'm-1672'])>
+<PST (ent-33,ent-69,neg,['m-528', 'm-534'])>
+<PST (ent-24,ent-878,neg,['m-872'])>
+<PST (ent-24,ent-60,neg,['m-450'])>
+<PST (ent-24,ent-794,neg,['m-896'])>
+---True Positives---
+---False Positives---
+<PST (ent-45,ent-48,neg,['m-420'])>
+<PST (ent-8,ent-1740,neg,['m-935'])>
+<PST (ent-8,ent-1737,neg,['m-950'])>
+<PST (ent-8,ent-836,pos,['m-851'])>
+TP: 0.0
+FN: 8.0
+FP: 4.0
+
+---Scoring 11c906f2f798abb05f143b206edf77a5---
+Gold private state tuples: [<PST (ent-18,ent-63,neg,['m-366'])>, <PST (ent-18,ent-48,neg,['m-318', 'm-336'])>, <PST (ent-8,ent-18,neg,['m-162'])>, <PST (ent-18,ent-51,neg,['m-342'])>, <PST (ent-24,ent-48,neg,['m-360'])>, <PST (ent-24,ent-18,neg,['m-192'])>]
+Predict private state tuples: [<PST (ent-18,ent-63,neg,['m-366'])>, <PST (ent-18,ent-48,neg,['m-318', 'm-336'])>, <PST (ent-8,ent-18,neg,['m-162'])>, <PST (ent-18,ent-51,neg,['m-342'])>, <PST (ent-24,ent-48,neg,['m-360'])>, <PST (ent-24,ent-18,neg,['m-192'])>]
+---False Negatives---
+<PST (ent-18,ent-63,neg,['m-366'])>
+<PST (ent-18,ent-48,neg,['m-318', 'm-336'])>
+<PST (ent-8,ent-18,neg,['m-162'])>
+<PST (ent-18,ent-51,neg,['m-342'])>
+<PST (ent-24,ent-48,neg,['m-360'])>
+<PST (ent-24,ent-18,neg,['m-192'])>
+---True Positives---
+---False Positives---
+<PST (ent-8,ent-39,neg,['m-288'])>
+<PST (ent-18,ent-912,pos,['m-906'])>
+TP: 0.0
+FN: 6.0
+FP: 2.0
+
+---Scoring 1557734399e8da2b84a2dd9ddb4eba49---
+Gold private state tuples: []
+Predict private state tuples: []
+---False Negatives---
+---True Positives---
+---False Positives---
+<PST (ent-8,ent-764,neg,['m-758'])>
+TP: 0.0
+FN: 0.0
+FP: 1.0
+
+---Scoring 1656bbad43fee4569b5c5f14110c1342---
+Gold private state tuples: [<PST (ent-8,ent-63,neg,['m-363'])>]
+Predict private state tuples: [<PST (ent-8,ent-63,neg,['m-363'])>]
+---False Negatives---
+<PST (ent-8,ent-63,neg,['m-363'])>
+---True Positives---
+---False Positives---
+<PST (ent-18,ent-66,neg,['m-369'])>
+<PST (ent-8,ent-529,pos,['m-523'])>
+<PST (ent-27,ent-33,pos,['m-255'])>
+<PST (ent-18,ent-42,pos,['m-285'])>
+<PST (ent-8,ent-60,pos,['m-339'])>
+<PST (ent-18,ent-54,neg,['m-327'])>
+<PST (ent-8,ent-57,pos,['m-333'])>
+TP: 0.0
+FN: 1.0
+FP: 7.0
+
+---Scoring 178e7de35eccad0df800f0c7539cf614---
+Gold private state tuples: [<PST (ent-30,ent-48,pos,['m-453'])>]
+Predict private state tuples: [<PST (ent-30,ent-48,pos,['m-453'])>]
+---False Negatives---
+<PST (ent-30,ent-48,pos,['m-453'])>
+---True Positives---
+---False Positives---
+<PST (ent-21,ent-772,neg,['m-766', 'm-766'])>
+<PST (ent-30,ent-1535,neg,['m-1529'])>
+<PST (ent-24,ent-1448,neg,['m-1442', 'm-1442'])>
+<PST (ent-21,ent-42,neg,['m-393', 'm-393', 'm-429'])>
+<PST (ent-8,ent-1598,pos,['m-1592'])>
+<PST (ent-21,ent-36,neg,['m-225', 'm-225'])>
+<PST (ent-8,ent-45,neg,['m-447'])>
+TP: 0.0
+FN: 1.0
+FP: 7.0
+
+---Scoring 17f98f0c6cda0227e732e6761f396d1f---
+Gold private state tuples: [<PST (ent-8,ent-403,neg,['m-397'])>, <PST (ent-8,ent-385,neg,['m-379'])>, <PST (ent-8,ent-388,neg,['m-391'])>]
+Predict private state tuples: [<PST (ent-8,ent-403,neg,['m-397'])>, <PST (ent-8,ent-385,neg,['m-379'])>, <PST (ent-8,ent-388,neg,['m-391'])>]
+---False Negatives---
+<PST (ent-8,ent-403,neg,['m-397'])>
+<PST (ent-8,ent-385,neg,['m-379'])>
+<PST (ent-8,ent-388,neg,['m-391'])>
+---True Positives---
+---False Positives---
+<PST (ent-24,ent-48,pos,['m-186'])>
+<PST (ent-24,ent-30,pos,['m-138'])>
+<PST (ent-24,ent-54,pos,['m-198'])>
+<PST (ent-24,ent-57,pos,['m-204', 'm-406'])>
+TP: 0.0
+FN: 3.0
+FP: 4.0
+
+---Scoring 18a89cdd00dadc593a88c924111575f1---
+Gold private state tuples: [<PST (ent-8,ent-39,neg,['m-168', 'm-180', 'm-186'])>, <PST (ent-8,ent-42,neg,['m-192'])>, <PST (ent-8,ent-30,neg,['m-144'])>, <PST (ent-8,ent-63,neg,['m-318'])>, <PST (ent-8,ent-764,neg,['m-758'])>]
+Predict private state tuples: [<PST (ent-8,ent-39,neg,['m-168', 'm-180', 'm-186'])>, <PST (ent-8,ent-42,neg,['m-192'])>, <PST (ent-8,ent-30,neg,['m-144'])>, <PST (ent-8,ent-63,neg,['m-318'])>, <PST (ent-8,ent-764,neg,['m-758'])>]
+---False Negatives---
+<PST (ent-8,ent-42,neg,['m-192'])>
+<PST (ent-8,ent-30,neg,['m-144'])>
+<PST (ent-8,ent-764,neg,['m-758'])>
+---True Positives---
+<PST (ent-8,ent-63,neg,['m-318'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-8,ent-39,pos,['m-162'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+---False Positives---
+<PST (ent-8,ent-21,pos,['m-120'])>
+<PST (ent-8,ent-779,pos,['m-782'])>
+<PST (ent-8,ent-84,neg,['m-384'])>
+TP: 1.66666666667
+FN: 3.0
+FP: 3.0
+
+---Scoring 18e8a277f2659f79291efa0e12e80cb3---
+Gold private state tuples: [<PST (ent-8,ent-24,neg,['m-225'])>, <PST (ent-8,ent-18,neg,['m-123', 'm-129', 'm-135', 'm-737'])>, <PST (ent-8,ent-51,neg,['m-351', 'm-357'])>, <PST (ent-8,ent-51,pos,['m-363', 'm-611'])>, <PST (ent-8,ent-590,neg,['m-584'])>, <PST (ent-33,ent-48,neg,['m-339'])>, <PST (ent-33,ent-72,neg,['m-405', 'm-865', 'm-871', 'm-877'])>, <PST (ent-33,ent-42,neg,['m-279', 'm-285', 'm-291', 'm-297', 'm-303', 'm-309'])>, <PST (ent-33,ent-18,neg,['m-141'])>, <PST (ent-33,ent-647,pos,['m-641'])>, <PST (ent-8,ent-63,neg,['m-387'])>, <PST (ent-8,ent-21,neg,['m-189'])>, <PST (ent-33,ent-638,pos,['m-632'])>, <PST (ent-8,ent-21,pos,['m-147', 'm-153', 'm-159', 'm-165', 'm-171', 'm-177', 'm-183', 'm-195', 'm-201', 'm-207', 'm-213', 'm-219', 'm-599', 'm-605', 'm-743'])>, <PST (ent-8,ent-27,neg,['m-231', 'm-237'])>, <PST (ent-30,ent-54,neg,['m-369'])>, <PST (ent-33,ent-45,neg,['m-315', 'm-321', 'm-327', 'm-333'])>, <PST (ent-33,ent-36,neg,['m-255', 'm-261', 'm-267'])>, <PST (ent-30,ent-51,neg,['m-345'])>, <PST (ent-33,ent-656,neg,['m-650', 'm-659'])>, <PST (ent-8,ent-57,pos,['m-375'])>, <PST (ent-8,ent-39,neg,['m-273'])>, <PST (ent-8,ent-60,neg,['m-381'])>, <PST (ent-30,ent-69,pos,['m-399'])>]
+Predict private state tuples: [<PST (ent-8,ent-24,neg,['m-225'])>, <PST (ent-8,ent-18,neg,['m-123', 'm-129', 'm-135', 'm-737'])>, <PST (ent-8,ent-51,neg,['m-351', 'm-357'])>, <PST (ent-8,ent-51,pos,['m-363', 'm-611'])>, <PST (ent-8,ent-590,neg,['m-584'])>, <PST (ent-33,ent-48,neg,['m-339'])>, <PST (ent-33,ent-72,neg,['m-405', 'm-865', 'm-871', 'm-877'])>, <PST (ent-33,ent-42,neg,['m-279', 'm-285', 'm-291', 'm-297', 'm-303', 'm-309'])>, <PST (ent-33,ent-18,neg,['m-141'])>, <PST (ent-33,ent-647,pos,['m-641'])>, <PST (ent-8,ent-63,neg,['m-387'])>, <PST (ent-8,ent-21,neg,['m-189'])>, <PST (ent-33,ent-638,pos,['m-632'])>, <PST (ent-8,ent-21,pos,['m-147', 'm-153', 'm-159', 'm-165', 'm-171', 'm-177', 'm-183', 'm-195', 'm-201', 'm-207', 'm-213', 'm-219', 'm-599', 'm-605', 'm-743'])>, <PST (ent-8,ent-27,neg,['m-231', 'm-237'])>, <PST (ent-30,ent-54,neg,['m-369'])>, <PST (ent-33,ent-45,neg,['m-315', 'm-321', 'm-327', 'm-333'])>, <PST (ent-33,ent-36,neg,['m-255', 'm-261', 'm-267'])>, <PST (ent-30,ent-51,neg,['m-345'])>, <PST (ent-33,ent-656,neg,['m-650', 'm-659'])>, <PST (ent-8,ent-57,pos,['m-375'])>, <PST (ent-8,ent-39,neg,['m-273'])>, <PST (ent-8,ent-60,neg,['m-381'])>, <PST (ent-30,ent-69,pos,['m-399'])>]
+---False Negatives---
+<PST (ent-8,ent-24,neg,['m-225'])>
+<PST (ent-8,ent-18,neg,['m-123', 'm-129', 'm-135', 'm-737'])>
+<PST (ent-8,ent-51,neg,['m-351', 'm-357'])>
+<PST (ent-8,ent-51,pos,['m-363', 'm-611'])>
+<PST (ent-8,ent-590,neg,['m-584'])>
+<PST (ent-33,ent-48,neg,['m-339'])>
+<PST (ent-33,ent-18,neg,['m-141'])>
+<PST (ent-33,ent-647,pos,['m-641'])>
+<PST (ent-8,ent-63,neg,['m-387'])>
+<PST (ent-33,ent-638,pos,['m-632'])>
+<PST (ent-8,ent-27,neg,['m-231', 'm-237'])>
+<PST (ent-30,ent-54,neg,['m-369'])>
+<PST (ent-33,ent-45,neg,['m-315', 'm-321', 'm-327', 'm-333'])>
+<PST (ent-33,ent-36,neg,['m-255', 'm-261', 'm-267'])>
+<PST (ent-30,ent-51,neg,['m-345'])>
+<PST (ent-33,ent-656,neg,['m-650', 'm-659'])>
+<PST (ent-8,ent-57,pos,['m-375'])>
+<PST (ent-8,ent-39,neg,['m-273'])>
+<PST (ent-8,ent-60,neg,['m-381'])>
+<PST (ent-30,ent-69,pos,['m-399'])>
+---True Positives---
+<PST (ent-33,ent-72,pos,['m-871'])> TP match score: 0.666666666667 provenance weight: 1.6 total: 0.666666666667
+<PST (ent-8,ent-21,pos,['m-159'])> TP match score: 1.0 provenance weight: 1.875 total: 1.0
+<PST (ent-33,ent-42,pos,['m-279', 'm-285', 'm-303'])> TP match score: 0.666666666667 provenance weight: 1.33333333333 total: 0.666666666667
+<PST (ent-8,ent-21,neg,['m-147'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+---False Positives---
+TP: 3.33333333333
+FN: 20.0
+FP: 0.0
+
+---Scoring 19569b08f07d751d6ac4a07633653c50---
+Gold private state tuples: [<PST (ent-8,ent-1039,neg,['m-1060'])>, <PST (ent-30,ent-18,neg,['m-240'])>]
+Predict private state tuples: [<PST (ent-8,ent-1039,neg,['m-1060'])>, <PST (ent-30,ent-18,neg,['m-240'])>]
+---False Negatives---
+<PST (ent-8,ent-1039,neg,['m-1060'])>
+---True Positives---
+<PST (ent-8,ent-18,neg,['m-228'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+---False Positives---
+<PST (ent-8,ent-1219,pos,['m-1237'])>
+<PST (ent-39,ent-42,pos,['m-414'])>
+TP: 0.666666666667
+FN: 1.0
+FP: 2.0
+
+---Scoring 1e9dfabe5e068a4142e768c0c5c37b6b---
+Gold private state tuples: [<PST (ent-27,ent-8,pos,['m-120'])>, <PST (ent-8,ent-18,pos,['m-438'])>, <PST (ent-21,ent-8,neg,['m-180'])>, <PST (ent-45,ent-8,pos,['m-330', 'm-336'])>, <PST (ent-21,ent-8,pos,['m-96'])>, <PST (ent-48,ent-8,pos,['m-390'])>, <PST (ent-8,ent-21,pos,['m-492', 'm-552'])>, <PST (ent-45,ent-1083,pos,['m-1077'])>, <PST (ent-8,ent-8,neg,['m-228', 'm-246'])>, <PST (ent-36,ent-36,pos,['m-630'])>]
+Predict private state tuples: [<PST (ent-27,ent-8,pos,['m-120'])>, <PST (ent-8,ent-18,pos,['m-438'])>, <PST (ent-21,ent-8,neg,['m-180'])>, <PST (ent-45,ent-8,pos,['m-330', 'm-336'])>, <PST (ent-21,ent-8,pos,['m-96'])>, <PST (ent-48,ent-8,pos,['m-390'])>, <PST (ent-8,ent-21,pos,['m-492', 'm-552'])>, <PST (ent-45,ent-1083,pos,['m-1077'])>, <PST (ent-8,ent-8,neg,['m-228', 'm-246'])>, <PST (ent-36,ent-36,pos,['m-630'])>]
+---False Negatives---
+<PST (ent-27,ent-8,pos,['m-120'])>
+<PST (ent-45,ent-8,pos,['m-330', 'm-336'])>
+<PST (ent-21,ent-8,pos,['m-96'])>
+<PST (ent-48,ent-8,pos,['m-390'])>
+<PST (ent-45,ent-1083,pos,['m-1077'])>
+<PST (ent-36,ent-36,pos,['m-630'])>
+---True Positives---
+<PST (ent-8,ent-18,pos,['m-408'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+<PST (ent-8,ent-8,pos,['m-96'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+<PST (ent-36,ent-8,neg,['m-300', 'm-324'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+<PST (ent-8,ent-21,pos,['m-492'])> TP match score: 1.0 provenance weight: 1.33333333333 total: 1.0
+---False Positives---
+<PST (ent-8,ent-980,pos,['m-974'])>
+<PST (ent-8,ent-21,neg,['m-504'])>
+TP: 3.33333333333
+FN: 6.0
+FP: 2.0
+
+---Scoring 24d93564f48ae17904aa82f937db8c21---
+Gold private state tuples: [<PST (ent-8,ent-72,pos,['m-849'])>, <PST (ent-42,ent-60,pos,['m-819'])>, <PST (ent-8,ent-75,pos,['m-867'])>, <PST (ent-8,ent-8,pos,['m-273'])>, <PST (ent-8,ent-8,neg,['m-147', 'm-297', 'm-357'])>, <PST (ent-42,ent-30,neg,['m-531', 'm-537'])>, <PST (ent-8,ent-69,pos,['m-837', 'm-843'])>, <PST (ent-84,ent-93,neg,['m-1083'])>, <PST (ent-42,ent-48,neg,['m-771'])>, <PST (ent-78,ent-84,pos,['m-957'])>, <PST (ent-18,ent-30,neg,['m-477'])>, <PST (ent-75,ent-8,pos,['m-255', 'm-261', 'm-267'])>]
+Predict private state tuples: [<PST (ent-8,ent-72,pos,['m-849'])>, <PST (ent-42,ent-60,pos,['m-819'])>, <PST (ent-8,ent-75,pos,['m-867'])>, <PST (ent-8,ent-8,pos,['m-273'])>, <PST (ent-8,ent-8,neg,['m-147', 'm-297', 'm-357'])>, <PST (ent-42,ent-30,neg,['m-531', 'm-537'])>, <PST (ent-8,ent-69,pos,['m-837', 'm-843'])>, <PST (ent-84,ent-93,neg,['m-1083'])>, <PST (ent-42,ent-48,neg,['m-771'])>, <PST (ent-78,ent-84,pos,['m-957'])>, <PST (ent-18,ent-30,neg,['m-477'])>, <PST (ent-75,ent-8,pos,['m-255', 'm-261', 'm-267'])>]
+---False Negatives---
+<PST (ent-8,ent-72,pos,['m-849'])>
+<PST (ent-42,ent-60,pos,['m-819'])>
+<PST (ent-8,ent-75,pos,['m-867'])>
+<PST (ent-8,ent-69,pos,['m-837', 'm-843'])>
+<PST (ent-84,ent-93,neg,['m-1083'])>
+<PST (ent-42,ent-48,neg,['m-771'])>
+<PST (ent-78,ent-84,pos,['m-957'])>
+<PST (ent-18,ent-30,neg,['m-477'])>
+<PST (ent-75,ent-8,pos,['m-255', 'm-261', 'm-267'])>
+---True Positives---
+<PST (ent-81,ent-30,neg,['m-585'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+<PST (ent-36,ent-8,pos,['m-183'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+<PST (ent-42,ent-8,pos,['m-195'])> TP match score: 0.333333333333 provenance weight: 2.0 total: 0.333333333333
+---False Positives---
+<PST (ent-8,ent-39,pos,['m-639', 'm-639', 'm-639'])>
+<PST (ent-84,ent-87,pos,['m-969', 'm-993'])>
+<PST (ent-42,ent-57,neg,['m-813'])>
+TP: 1.66666666667
+FN: 9.0
+FP: 3.0
+
+---Scoring 2701285c791f423cd2f8fd827df9c2c9---
+Gold private state tuples: [<PST (ent-8,ent-750,pos,['m-777'])>, <PST (ent-33,ent-912,neg,['m-915'])>, <PST (ent-33,ent-42,pos,['m-348', 'm-408'])>]
+Predict private state tuples: [<PST (ent-8,ent-750,pos,['m-777'])>, <PST (ent-33,ent-912,neg,['m-915'])>, <PST (ent-33,ent-42,pos,['m-348', 'm-408'])>]
+---False Negatives---
+<PST (ent-33,ent-912,neg,['m-915'])>
+---True Positives---
+<PST (ent-8,ent-750,pos,['m-777'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-33,ent-42,neg,['m-396'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+---False Positives---
+<PST (ent-57,ent-1026,pos,['m-1020'])>
+<PST (ent-57,ent-48,neg,['m-426'])>
+<PST (ent-18,ent-21,neg,['m-120'])>
+<PST (ent-36,ent-42,pos,['m-354', 'm-354', 'm-354'])>
+<PST (ent-33,ent-72,neg,['m-534'])>
+<PST (ent-36,ent-42,neg,['m-354', 'm-354', 'm-354'])>
+<PST (ent-33,ent-45,pos,['m-414'])>
+TP: 1.66666666667
+FN: 1.0
+FP: 7.0
+
+---Scoring 2bdb9d86091c6f412ffa767bdc749be9---
+Gold private state tuples: [<PST (ent-60,ent-18,pos,['m-540'])>, <PST (ent-8,ent-18,pos,['m-264', 'm-270', 'm-282', 'm-546'])>, <PST (ent-51,ent-1506,pos,['m-1500'])>, <PST (ent-8,ent-18,neg,['m-348'])>, <PST (ent-54,ent-8,pos,['m-234'])>, <PST (ent-51,ent-18,pos,['m-480', 'm-486', 'm-492', 'm-498', 'm-504'])>, <PST (ent-42,ent-18,pos,['m-408'])>, <PST (ent-51,ent-1196,pos,['m-1190'])>, <PST (ent-8,ent-75,pos,['m-750', 'm-768'])>]
+Predict private state tuples: [<PST (ent-60,ent-18,pos,['m-540'])>, <PST (ent-8,ent-18,pos,['m-264', 'm-270', 'm-282', 'm-546'])>, <PST (ent-51,ent-1506,pos,['m-1500'])>, <PST (ent-8,ent-18,neg,['m-348'])>, <PST (ent-54,ent-8,pos,['m-234'])>, <PST (ent-51,ent-18,pos,['m-480', 'm-486', 'm-492', 'm-498', 'm-504'])>, <PST (ent-42,ent-18,pos,['m-408'])>, <PST (ent-51,ent-1196,pos,['m-1190'])>, <PST (ent-8,ent-75,pos,['m-750', 'm-768'])>]
+---False Negatives---
+<PST (ent-60,ent-18,pos,['m-540'])>
+<PST (ent-8,ent-18,neg,['m-348'])>
+<PST (ent-54,ent-8,pos,['m-234'])>
+<PST (ent-51,ent-18,pos,['m-480', 'm-486', 'm-492', 'm-498', 'm-504'])>
+<PST (ent-42,ent-18,pos,['m-408'])>
+<PST (ent-51,ent-1196,pos,['m-1190'])>
+---True Positives---
+<PST (ent-51,ent-1506,pos,['m-1500'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-8,ent-75,neg,['m-774'])> TP match score: 0.666666666667 provenance weight: 2.0 total: 0.666666666667
+<PST (ent-8,ent-18,pos,['m-264', 'm-270', 'm-420'])> TP match score: 1.0 provenance weight: 1.42857142857 total: 1.0
+---False Positives---
+<PST (ent-8,ent-1136,pos,['m-1130'])>
+<PST (ent-51,ent-1187,neg,['m-1181'])>
+TP: 2.66666666667
+FN: 6.0
+FP: 2.0
+
+---Scoring 2d8d3572658fdb8754fdc84d2b15f302---
+Gold private state tuples: [<PST (ent-36,ent-57,neg,['m-333', 'm-339', 'm-345', 'm-351'])>, <PST (ent-18,ent-602,pos,['m-596'])>, <PST (ent-18,ent-1447,neg,['m-1441'])>, <PST (ent-18,ent-575,pos,['m-569'])>, <PST (ent-21,ent-21,neg,['m-135'])>, <PST (ent-24,ent-78,neg,['m-503'])>, <PST (ent-18,ent-584,pos,['m-578'])>, <PST (ent-8,ent-36,neg,['m-261', 'm-267', 'm-273', 'm-279'])>, <PST (ent-18,ent-593,neg,['m-587'])>, <PST (ent-36,ent-69,neg,['m-375'])>, <PST (ent-39,ent-758,pos,['m-767'])>, <PST (ent-21,ent-24,neg,['m-153'])>, <PST (ent-24,ent-33,neg,['m-189'])>, <PST (ent-24,ent-515,neg,['m-509'])>, <PST (ent-21,ent-557,pos,['m-551'])>, <PST (ent-24,ent-30,pos,['m-177'])>, <PST (ent-21,ent-500,pos,['m-545'])>, <PST (ent-18,ent-63,neg,['m-363'])>, <PST (ent-39,ent-728,neg,['m-722', 'm-734', 'm-740', 'm-746'])>, <PST (ent-36,ent-60,neg,['m-357'])>, <PST (ent-24,ent-21,neg,['m-129'])>, <PST (ent-21,ent-21,pos,['m-111'])>, <PST (ent-39,ent-800,neg,['m-794', 'm-830', 'm-836', 'm-860', 'm-878', 'm-884', 'm-890', 'm-902'])>, <PST (ent-18,ent-566,pos,['m-560'])>, <PST (ent-36,ent-33,neg,['m-207', 'm-213'])>, <PST (ent-21,ent-530,neg,['m-524', 'm-533'])>, <PST (ent-36,ent-626,pos,['m-620', 'm-629', 'm-635', 'm-659'])>, <PST (ent-36,ent-704,neg,['m-698'])>, <PST (ent-39,ent-731,pos,['m-752', 'm-761', 'm-773'])>, <PST (ent-36,ent-72,neg,['m-381'])>]
+Predict private state tuples: [<PST (ent-36,ent-57,neg,['m-333', 'm-339', 'm-345', 'm-351'])>, <PST (ent-18,ent-602,pos,['m-596'])>, <PST (ent-18,ent-1447,neg,['m-1441'])>, <PST (ent-18,ent-575,pos,['m-569'])>, <PST (ent-21,ent-21,neg,['m-135'])>, <PST (ent-24,ent-78,neg,['m-503'])>, <PST (ent-18,ent-584,pos,['m-578'])>, <PST (ent-8,ent-36,neg,['m-261', 'm-267', 'm-273', 'm-279'])>, <PST (ent-18,ent-593,neg,['m-587'])>, <PST (ent-36,ent-69,neg,['m-375'])>, <PST (ent-39,ent-758,pos,['m-767'])>, <PST (ent-21,ent-24,neg,['m-153'])>, <PST (ent-24,ent-33,neg,['m-189'])>, <PST (ent-24,ent-515,neg,['m-509'])>, <PST (ent-21,ent-557,pos,['m-551'])>, <PST (ent-24,ent-30,pos,['m-177'])>, <PST (ent-21,ent-500,pos,['m-545'])>, <PST (ent-18,ent-63,neg,['m-363'])>, <PST (ent-39,ent-728,neg,['m-722', 'm-734', 'm-740', 'm-746'])>, <PST (ent-36,ent-60,neg,['m-357'])>, <PST (ent-24,ent-21,neg,['m-129'])>, <PST (ent-21,ent-21,pos,['m-111'])>, <PST (ent-39,ent-800,neg,['m-794', 'm-830', 'm-836', 'm-860', 'm-878', 'm-884', 'm-890', 'm-902'])>, <PST (ent-18,ent-566,pos,['m-560'])>, <PST (ent-36,ent-33,neg,['m-207', 'm-213'])>, <PST (ent-21,ent-530,neg,['m-524', 'm-533'])>, <PST (ent-36,ent-626,pos,['m-620', 'm-629', 'm-635', 'm-659'])>, <PST (ent-36,ent-704,neg,['m-698'])>, <PST (ent-39,ent-731,pos,['m-752', 'm-761', 'm-773'])>, <PST (ent-36,ent-72,neg,['m-381'])>]
+---False Negatives---
+<PST (ent-36,ent-57,neg,['m-333', 'm-339', 'm-345', 'm-351'])>
+<PST (ent-18,ent-602,pos,['m-596'])>
+<PST (ent-18,ent-1447,neg,['m-1441'])>
+<PST (ent-21,ent-21,neg,['m-135'])>
+<PST (ent-24,ent-78,neg,['m-503'])>
+<PST (ent-18,ent-584,pos,['m-578'])>
+<PST (ent-8,ent-36,neg,['m-261', 'm-267', 'm-273', 'm-279'])>
+<PST (ent-18,ent-593,neg,['m-587'])>
+<PST (ent-36,ent-69,neg,['m-375'])>
+<PST (ent-39,ent-758,pos,['m-767'])>
+<PST (ent-21,ent-24,neg,['m-153'])>
+<PST (ent-24,ent-33,neg,['m-189'])>
+<PST (ent-24,ent-515,neg,['m-509'])>
+<PST (ent-21,ent-557,pos,['m-551'])>
+<PST (ent-24,ent-30,pos,['m-177'])>
+<PST (ent-18,ent-63,neg,['m-363'])>
+<PST (ent-39,ent-728,neg,['m-722', 'm-734', 'm-740', 'm-746'])>
+<PST (ent-36,ent-60,neg,['m-357'])>
+<PST (ent-24,ent-21,neg,['m-129'])>
+<PST (ent-21,ent-21,pos,['m-111'])>
+<PST (ent-18,ent-566,pos,['m-560'])>
+<PST (ent-36,ent-33,neg,['m-207', 'm-213'])>
+<PST (ent-21,ent-530,neg,['m-524', 'm-533'])>
+<PST (ent-36,ent-626,pos,['m-620', 'm-629', 'm-635', 'm-659'])>
+<PST (ent-36,ent-704,neg,['m-698'])>
+<PST (ent-39,ent-731,pos,['m-752', 'm-761', 'm-773'])>
+<PST (ent-36,ent-72,neg,['m-381'])>
+---True Positives---
+<PST (ent-18,ent-575,pos,['m-569'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-36,ent-800,pos,['m-902'])> TP match score: 0.333333333333 provenance weight: 1.77777777778 total: 0.333333333333
+<PST (ent-21,ent-500,pos,['m-545', 'm-545'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+---False Positives---
+<PST (ent-36,ent-818,neg,['m-812'])>
+<PST (ent-24,ent-467,pos,['m-470'])>
+TP: 2.33333333333
+FN: 27.0
+FP: 2.0
+
+---Scoring 3059538a2542c71687871b3444f8d921---
+Gold private state tuples: [<PST (ent-8,ent-54,neg,['m-489'])>, <PST (ent-18,ent-8,neg,['m-957'])>, <PST (ent-18,ent-21,neg,['m-399'])>, <PST (ent-8,ent-21,pos,['m-285', 'm-291', 'm-297'])>, <PST (ent-8,ent-21,neg,['m-171', 'm-177', 'm-183', 'm-189', 'm-195', 'm-219', 'm-351'])>]
+Predict private state tuples: [<PST (ent-8,ent-54,neg,['m-489'])>, <PST (ent-18,ent-8,neg,['m-957'])>, <PST (ent-18,ent-21,neg,['m-399'])>, <PST (ent-8,ent-21,pos,['m-285', 'm-291', 'm-297'])>, <PST (ent-8,ent-21,neg,['m-171', 'm-177', 'm-183', 'm-189', 'm-195', 'm-219', 'm-351'])>]
+---False Negatives---
+<PST (ent-8,ent-54,neg,['m-489'])>
+<PST (ent-18,ent-8,neg,['m-957'])>
+<PST (ent-8,ent-21,neg,['m-171', 'm-177', 'm-183', 'm-189', 'm-195', 'm-219', 'm-351'])>
+---True Positives---
+<PST (ent-8,ent-21,pos,['m-339', 'm-351', 'm-375'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+<PST (ent-18,ent-21,neg,['m-399'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+---False Positives---
+<PST (ent-8,ent-96,neg,['m-1176'])>
+<PST (ent-18,ent-954,neg,['m-948'])>
+TP: 2.0
+FN: 3.0
+FP: 2.0
+
+---Scoring 324274e50f2d07757e2d88ff58a0c33b---
+Gold private state tuples: [<PST (ent-8,ent-60,pos,['m-435'])>, <PST (ent-8,ent-905,pos,['m-899'])>, <PST (ent-8,ent-54,pos,['m-917'])>, <PST (ent-24,ent-39,pos,['m-381'])>, <PST (ent-24,ent-96,pos,['m-531'])>]
+Predict private state tuples: [<PST (ent-8,ent-60,pos,['m-435'])>, <PST (ent-8,ent-905,pos,['m-899'])>, <PST (ent-8,ent-54,pos,['m-917'])>, <PST (ent-24,ent-39,pos,['m-381'])>, <PST (ent-24,ent-96,pos,['m-531'])>]
+---False Negatives---
+<PST (ent-8,ent-60,pos,['m-435'])>
+<PST (ent-8,ent-905,pos,['m-899'])>
+<PST (ent-8,ent-54,pos,['m-917'])>
+<PST (ent-24,ent-39,pos,['m-381'])>
+<PST (ent-24,ent-96,pos,['m-531'])>
+---True Positives---
+---False Positives---
+<PST (ent-24,ent-102,pos,['m-549'])>
+<PST (ent-24,ent-36,pos,['m-351'])>
+<PST (ent-24,ent-8,pos,['m-237'])>
+TP: 0.0
+FN: 5.0
+FP: 3.0
+
+---Scoring 3322caacf140c92366a639ee004560ce---
+Gold private state tuples: [<PST (ent-33,ent-18,neg,['m-156'])>, <PST (ent-30,ent-18,neg,['m-639'])>, <PST (ent-654,ent-27,neg,['m-222', 'm-228'])>, <PST (ent-8,ent-18,pos,['m-114'])>, <PST (ent-33,ent-27,neg,['m-210'])>]
+Predict private state tuples: [<PST (ent-33,ent-18,neg,['m-156'])>, <PST (ent-30,ent-18,neg,['m-639'])>, <PST (ent-654,ent-27,neg,['m-222', 'm-228'])>, <PST (ent-8,ent-18,pos,['m-114'])>, <PST (ent-33,ent-27,neg,['m-210'])>]
+---False Negatives---
+<PST (ent-33,ent-18,neg,['m-156'])>
+<PST (ent-30,ent-18,neg,['m-639'])>
+<PST (ent-33,ent-27,neg,['m-210'])>
+---True Positives---
+<PST (ent-36,ent-27,pos,['m-204'])> TP match score: 0.333333333333 provenance weight: 2.0 total: 0.333333333333
+<PST (ent-8,ent-18,neg,['m-114'])> TP match score: 0.666666666667 provenance weight: 1.0 total: 0.666666666667
+---False Positives---
+<PST (ent-54,ent-45,neg,['m-312'])>
+TP: 1.0
+FN: 3.0
+FP: 1.0
+
+---Scoring 33ed1c9fdee1000e2340ac7f92c77752---
+Gold private state tuples: [<PST (ent-18,ent-1004,neg,['m-998'])>, <PST (ent-18,ent-883,neg,['m-877'])>]
+Predict private state tuples: [<PST (ent-18,ent-1004,neg,['m-998'])>, <PST (ent-18,ent-883,neg,['m-877'])>]
+---False Negatives---
+<PST (ent-18,ent-1004,neg,['m-998'])>
+<PST (ent-18,ent-883,neg,['m-877'])>
+---True Positives---
+---False Positives---
+<PST (ent-27,ent-51,pos,['m-414', 'm-420'])>
+<PST (ent-27,ent-54,neg,['m-432'])>
+<PST (ent-27,ent-42,neg,['m-396'])>
+<PST (ent-36,ent-69,neg,['m-480'])>
+TP: 0.0
+FN: 2.0
+FP: 4.0
+
+---Scoring 36d45aff571e3fbe036f309c18d31668---
+Gold private state tuples: [<PST (ent-33,ent-21,pos,['m-483'])>]
+Predict private state tuples: [<PST (ent-33,ent-21,pos,['m-483'])>]
+---False Negatives---
+---True Positives---
+<PST (ent-33,ent-21,pos,['m-483'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+---False Positives---
+<PST (ent-8,ent-18,neg,['m-195', 'm-225'])>
+<PST (ent-8,ent-21,neg,['m-375'])>
+TP: 1.0
+FN: 0.0
+FP: 2.0
+
+---Scoring 389c70a4859f7528cc6e8b84c10766d7---
+Gold private state tuples: [<PST (ent-39,ent-66,pos,['m-654', 'm-660'])>, <PST (ent-18,ent-1337,neg,['m-1322'])>, <PST (ent-18,ent-8,neg,['m-138', 'm-144', 'm-150', 'm-156', 'm-162', 'm-168', 'm-174', 'm-180', 'm-186', 'm-192', 'm-210', 'm-216', 'm-222', 'm-228', 'm-234', 'm-240', 'm-246', 'm-252', 'm-258', 'm-264', 'm-270', 'm-276', 'm-282', 'm-288', 'm-294', 'm-300'])>, <PST (ent-18,ent-1289,neg,['m-1277'])>, <PST (ent-18,ent-1274,neg,['m-1268'])>, <PST (ent-8,ent-18,neg,['m-360', 'm-366', 'm-1470'])>]
+Predict private state tuples: [<PST (ent-39,ent-66,pos,['m-654', 'm-660'])>, <PST (ent-18,ent-1337,neg,['m-1322'])>, <PST (ent-18,ent-8,neg,['m-138', 'm-144', 'm-150', 'm-156', 'm-162', 'm-168', 'm-174', 'm-180', 'm-186', 'm-192', 'm-210', 'm-216', 'm-222', 'm-228', 'm-234', 'm-240', 'm-246', 'm-252', 'm-258', 'm-264', 'm-270', 'm-276', 'm-282', 'm-288', 'm-294', 'm-300'])>, <PST (ent-18,ent-1289,neg,['m-1277'])>, <PST (ent-18,ent-1274,neg,['m-1268'])>, <PST (ent-8,ent-18,neg,['m-360', 'm-366', 'm-1470'])>]
+---False Negatives---
+<PST (ent-39,ent-66,pos,['m-654', 'm-660'])>
+<PST (ent-18,ent-1337,neg,['m-1322'])>
+<PST (ent-18,ent-1289,neg,['m-1277'])>
+<PST (ent-18,ent-1274,neg,['m-1268'])>
+<PST (ent-8,ent-18,neg,['m-360', 'm-366', 'm-1470'])>
+---True Positives---
+<PST (ent-18,ent-8,neg,['m-300'])> TP match score: 1.0 provenance weight: 1.92592592593 total: 1.0
+---False Positives---
+<PST (ent-18,ent-30,pos,['m-1396'])>
+<PST (ent-39,ent-21,pos,['m-1446'])>
+<PST (ent-18,ent-8,pos,['m-294'])>
+<PST (ent-18,ent-21,pos,['m-456'])>
+<PST (ent-18,ent-51,pos,['m-612', 'm-618'])>
+<PST (ent-8,ent-21,pos,['m-408', 'm-420', 'm-474'])>
+<PST (ent-8,ent-90,pos,['m-732'])>
+<PST (ent-8,ent-27,pos,['m-516'])>
+<PST (ent-8,ent-1381,neg,['m-1390'])>
+TP: 1.0
+FN: 5.0
+FP: 9.0
+
+---Scoring 3c9fb643a48360935c1044efca570514---
+Gold private state tuples: [<PST (ent-27,ent-745,neg,['m-739'])>, <PST (ent-27,ent-730,neg,['m-724'])>, <PST (ent-27,ent-45,neg,['m-733'])>, <PST (ent-8,ent-42,neg,['m-213'])>, <PST (ent-27,ent-51,neg,['m-267', 'm-273', 'm-279', 'm-981'])>, <PST (ent-27,ent-33,neg,['m-195'])>, <PST (ent-30,ent-769,pos,['m-763'])>, <PST (ent-8,ent-45,neg,['m-219', 'm-225', 'm-231', 'm-237', 'm-243', 'm-249', 'm-255', 'm-590'])>, <PST (ent-27,ent-27,pos,['m-129', 'm-141', 'm-147', 'm-153', 'm-159', 'm-177'])>]
+Predict private state tuples: [<PST (ent-27,ent-745,neg,['m-739'])>, <PST (ent-27,ent-730,neg,['m-724'])>, <PST (ent-27,ent-45,neg,['m-733'])>, <PST (ent-8,ent-42,neg,['m-213'])>, <PST (ent-27,ent-51,neg,['m-267', 'm-273', 'm-279', 'm-981'])>, <PST (ent-27,ent-33,neg,['m-195'])>, <PST (ent-30,ent-769,pos,['m-763'])>, <PST (ent-8,ent-45,neg,['m-219', 'm-225', 'm-231', 'm-237', 'm-243', 'm-249', 'm-255', 'm-590'])>, <PST (ent-27,ent-27,pos,['m-129', 'm-141', 'm-147', 'm-153', 'm-159', 'm-177'])>]
+---False Negatives---
+<PST (ent-27,ent-745,neg,['m-739'])>
+<PST (ent-27,ent-45,neg,['m-733'])>
+<PST (ent-8,ent-42,neg,['m-213'])>
+<PST (ent-27,ent-51,neg,['m-267', 'm-273', 'm-279', 'm-981'])>
+<PST (ent-27,ent-33,neg,['m-195'])>
+<PST (ent-30,ent-769,pos,['m-763'])>
+<PST (ent-8,ent-45,neg,['m-219', 'm-225', 'm-231', 'm-237', 'm-243', 'm-249', 'm-255', 'm-590'])>
+<PST (ent-27,ent-27,pos,['m-129', 'm-141', 'm-147', 'm-153', 'm-159', 'm-177'])>
+---True Positives---
+<PST (ent-27,ent-730,neg,['m-724'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+---False Positives---
+<PST (ent-30,ent-57,pos,['m-291'])>
+<PST (ent-30,ent-754,pos,['m-748'])>
+<PST (ent-30,ent-60,pos,['m-303'])>
+<PST (ent-8,ent-509,neg,['m-503'])>
+<PST (ent-8,ent-596,pos,['m-668'])>
+TP: 1.0
+FN: 8.0
+FP: 5.0
+
+---Scoring 3ddbad6f438c88eec387131477ffe1b9---
+Gold private state tuples: [<PST (ent-8,ent-18,pos,['m-354', 'm-360', 'm-366'])>, <PST (ent-8,ent-8,neg,['m-102', 'm-108'])>, <PST (ent-8,ent-1144,pos,['m-1138'])>, <PST (ent-36,ent-1159,pos,['m-1659'])>, <PST (ent-8,ent-989,neg,['m-983', 'm-1722'])>, <PST (ent-8,ent-18,neg,['m-372'])>]
+Predict private state tuples: [<PST (ent-8,ent-18,pos,['m-354', 'm-360', 'm-366'])>, <PST (ent-8,ent-8,neg,['m-102', 'm-108'])>, <PST (ent-8,ent-1144,pos,['m-1138'])>, <PST (ent-36,ent-1159,pos,['m-1659'])>, <PST (ent-8,ent-989,neg,['m-983', 'm-1722'])>, <PST (ent-8,ent-18,neg,['m-372'])>]
+---False Negatives---
+<PST (ent-8,ent-18,pos,['m-354', 'm-360', 'm-366'])>
+<PST (ent-8,ent-8,neg,['m-102', 'm-108'])>
+<PST (ent-8,ent-1144,pos,['m-1138'])>
+<PST (ent-36,ent-1159,pos,['m-1659'])>
+---True Positives---
+<PST (ent-8,ent-18,neg,['m-390'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+<PST (ent-8,ent-989,neg,['m-983'])> TP match score: 1.0 provenance weight: 1.33333333333 total: 1.0
+---False Positives---
+<PST (ent-36,ent-39,pos,['m-630'])>
+<PST (ent-8,ent-980,pos,['m-1103', 'm-1109'])>
+TP: 2.0
+FN: 4.0
+FP: 2.0
+
+---Scoring 3e6c7121211de578d7fd831eae801438---
+Gold private state tuples: []
+Predict private state tuples: []
+---False Negatives---
+---True Positives---
+---False Positives---
+<PST (ent-8,ent-42,neg,['m-438', 'm-480'])>
+<PST (ent-8,ent-42,pos,['m-432', 'm-456', 'm-468', 'm-480', 'm-486'])>
+<PST (ent-36,ent-8,pos,['m-162', 'm-162'])>
+<PST (ent-18,ent-42,pos,['m-384', 'm-396'])>
+TP: 0.0
+FN: 0.0
+FP: 4.0
+
+---Scoring 408dff173c599256711f23238e280c15---
+Gold private state tuples: [<PST (ent-21,ent-66,neg,['m-336', 'm-342', 'm-496'])>, <PST (ent-21,ent-1056,pos,['m-1050'])>, <PST (ent-21,ent-75,neg,['m-390', 'm-396'])>, <PST (ent-21,ent-69,neg,['m-378', 'm-604'])>, <PST (ent-42,ent-682,neg,['m-676'])>]
+Predict private state tuples: [<PST (ent-21,ent-66,neg,['m-336', 'm-342', 'm-496'])>, <PST (ent-21,ent-1056,pos,['m-1050'])>, <PST (ent-21,ent-75,neg,['m-390', 'm-396'])>, <PST (ent-21,ent-69,neg,['m-378', 'm-604'])>, <PST (ent-42,ent-682,neg,['m-676'])>]
+---False Negatives---
+<PST (ent-21,ent-66,neg,['m-336', 'm-342', 'm-496'])>
+<PST (ent-21,ent-1056,pos,['m-1050'])>
+<PST (ent-42,ent-682,neg,['m-676'])>
+---True Positives---
+<PST (ent-21,ent-69,neg,['m-619'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+<PST (ent-21,ent-75,pos,['m-390'])> TP match score: 0.666666666667 provenance weight: 1.33333333333 total: 0.666666666667
+---False Positives---
+<PST (ent-42,ent-520,pos,['m-715', 'm-721'])>
+<PST (ent-60,ent-57,pos,['m-306'])>
+<PST (ent-21,ent-63,neg,['m-631'])>
+<PST (ent-42,ent-33,neg,['m-222'])>
+<PST (ent-42,ent-36,neg,['m-234'])>
+<PST (ent-54,ent-733,pos,['m-727'])>
+TP: 1.66666666667
+FN: 3.0
+FP: 6.0
+
+---Scoring 41404718f9c1e94cf58aad1fc90c70a7---
+Gold private state tuples: [<PST (ent-75,ent-1590,neg,['m-1920', 'm-2018', 'm-2118', 'm-2140', 'm-2146'])>, <PST (ent-33,ent-24,pos,['m-204'])>, <PST (ent-72,ent-126,neg,['m-786', 'm-1825'])>, <PST (ent-72,ent-93,neg,['m-582', 'm-1716', 'm-1725'])>, <PST (ent-72,ent-27,neg,['m-210'])>, <PST (ent-72,ent-1869,neg,['m-1863'])>, <PST (ent-75,ent-126,neg,['m-792'])>, <PST (ent-72,ent-30,neg,['m-216'])>, <PST (ent-75,ent-33,pos,['m-252', 'm-258', 'm-282'])>, <PST (ent-72,ent-33,neg,['m-222', 'm-228', 'm-234', 'm-240', 'm-246'])>, <PST (ent-42,ent-1722,neg,['m-654'])>, <PST (ent-42,ent-108,pos,['m-684', 'm-690', 'm-696', 'm-2316'])>, <PST (ent-72,ent-42,neg,['m-342'])>]
+Predict private state tuples: [<PST (ent-75,ent-1590,neg,['m-1920', 'm-2018', 'm-2118', 'm-2140', 'm-2146'])>, <PST (ent-33,ent-24,pos,['m-204'])>, <PST (ent-72,ent-126,neg,['m-786', 'm-1825'])>, <PST (ent-72,ent-93,neg,['m-582', 'm-1716', 'm-1725'])>, <PST (ent-72,ent-27,neg,['m-210'])>, <PST (ent-72,ent-1869,neg,['m-1863'])>, <PST (ent-75,ent-126,neg,['m-792'])>, <PST (ent-72,ent-30,neg,['m-216'])>, <PST (ent-75,ent-33,pos,['m-252', 'm-258', 'm-282'])>, <PST (ent-72,ent-33,neg,['m-222', 'm-228', 'm-234', 'm-240', 'm-246'])>, <PST (ent-42,ent-1722,neg,['m-654'])>, <PST (ent-42,ent-108,pos,['m-684', 'm-690', 'm-696', 'm-2316'])>, <PST (ent-72,ent-42,neg,['m-342'])>]
+---False Negatives---
+<PST (ent-75,ent-1590,neg,['m-1920', 'm-2018', 'm-2118', 'm-2140', 'm-2146'])>
+<PST (ent-33,ent-24,pos,['m-204'])>
+<PST (ent-72,ent-93,neg,['m-582', 'm-1716', 'm-1725'])>
+<PST (ent-72,ent-27,neg,['m-210'])>
+<PST (ent-72,ent-1869,neg,['m-1863'])>
+<PST (ent-72,ent-30,neg,['m-216'])>
+<PST (ent-75,ent-33,pos,['m-252', 'm-258', 'm-282'])>
+<PST (ent-42,ent-1722,neg,['m-654'])>
+<PST (ent-72,ent-42,neg,['m-342'])>
+---True Positives---
+<PST (ent-72,ent-126,neg,['m-786'])> TP match score: 1.0 provenance weight: 1.33333333333 total: 1.0
+<PST (ent-75,ent-126,neg,['m-792'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-42,ent-108,neg,['m-690', 'm-2316'])> TP match score: 0.666666666667 provenance weight: 1.33333333333 total: 0.666666666667
+<PST (ent-72,ent-33,pos,['m-228'])> TP match score: 0.666666666667 provenance weight: 1.66666666667 total: 0.666666666667
+---False Positives---
+<PST (ent-75,ent-2281,pos,['m-2275'])>
+<PST (ent-75,ent-36,pos,['m-318'])>
+<PST (ent-75,ent-36,neg,['m-294'])>
+<PST (ent-75,ent-2685,neg,['m-2679'])>
+<PST (ent-42,ent-105,neg,['m-672'])>
+<PST (ent-75,ent-105,pos,['m-2627'])>
+<PST (ent-72,ent-114,neg,['m-732'])>
+TP: 3.33333333333
+FN: 9.0
+FP: 7.0
+
+---Scoring 4683e6affe801713ed4cc9d596b57fac---
+Gold private state tuples: [<PST (ent-51,ent-1026,neg,['m-1077'])>, <PST (ent-51,ent-54,neg,['m-615'])>, <PST (ent-51,ent-60,neg,['m-627'])>, <PST (ent-51,ent-1338,neg,['m-1332'])>, <PST (ent-18,ent-8,neg,['m-267'])>, <PST (ent-51,ent-57,neg,['m-621'])>]
+Predict private state tuples: [<PST (ent-51,ent-1026,neg,['m-1077'])>, <PST (ent-51,ent-54,neg,['m-615'])>, <PST (ent-51,ent-60,neg,['m-627'])>, <PST (ent-51,ent-1338,neg,['m-1332'])>, <PST (ent-18,ent-8,neg,['m-267'])>, <PST (ent-51,ent-57,neg,['m-621'])>]
+---False Negatives---
+<PST (ent-51,ent-54,neg,['m-615'])>
+<PST (ent-51,ent-60,neg,['m-627'])>
+<PST (ent-51,ent-1338,neg,['m-1332'])>
+<PST (ent-51,ent-57,neg,['m-621'])>
+---True Positives---
+<PST (ent-51,ent-1026,neg,['m-1077'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-45,ent-8,pos,['m-249'])> TP match score: 0.333333333333 provenance weight: 2.0 total: 0.333333333333
+---False Positives---
+<PST (ent-45,ent-63,pos,['m-657'])>
+<PST (ent-51,ent-1026,pos,['m-1077', 'm-1077'])>
+<PST (ent-8,ent-987,pos,['m-981', 'm-981', 'm-981'])>
+<PST (ent-51,ent-63,pos,['m-651'])>
+<PST (ent-72,ent-66,pos,['m-675', 'm-675'])>
+<PST (ent-72,ent-69,pos,['m-705'])>
+TP: 1.33333333333
+FN: 4.0
+FP: 6.0
+
+---Scoring 4743a10c1d5f1ad35c31646049acb9db---
+Gold private state tuples: []
+Predict private state tuples: []
+---False Negatives---
+---True Positives---
+---False Positives---
+<PST (ent-18,ent-30,pos,['m-429', 'm-447'])>
+<PST (ent-8,ent-1032,pos,['m-1026', 'm-1053'])>
+<PST (ent-33,ent-1429,pos,['m-1423'])>
+<PST (ent-33,ent-21,pos,['m-207', 'm-219'])>
+<PST (ent-66,ent-81,pos,['m-741'])>
+<PST (ent-8,ent-21,neg,['m-195'])>
+<PST (ent-93,ent-21,neg,['m-381'])>
+<PST (ent-66,ent-21,neg,['m-261'])>
+<PST (ent-66,ent-21,pos,['m-273'])>
+<PST (ent-18,ent-36,pos,['m-495'])>
+<PST (ent-90,ent-21,neg,['m-351'])>
+<PST (ent-66,ent-69,neg,['m-693', 'm-699'])>
+TP: 0.0
+FN: 0.0
+FP: 12.0
+
+---Scoring 47c26ba3563092e41c5a42252931baf1---
+Gold private state tuples: [<PST (ent-21,ent-45,neg,['m-423', 'm-429'])>, <PST (ent-36,ent-54,neg,['m-501'])>, <PST (ent-27,ent-1298,neg,['m-1292'])>]
+Predict private state tuples: [<PST (ent-21,ent-45,neg,['m-423', 'm-429'])>, <PST (ent-36,ent-54,neg,['m-501'])>, <PST (ent-27,ent-1298,neg,['m-1292'])>]
+---False Negatives---
+<PST (ent-36,ent-54,neg,['m-501'])>
+<PST (ent-27,ent-1298,neg,['m-1292'])>
+---True Positives---
+<PST (ent-21,ent-45,neg,['m-429'])> TP match score: 1.0 provenance weight: 1.33333333333 total: 1.0
+---False Positives---
+<PST (ent-36,ent-48,neg,['m-483'])>
+<PST (ent-21,ent-24,neg,['m-207'])>
+<PST (ent-27,ent-45,pos,['m-447'])>
+<PST (ent-21,ent-24,pos,['m-213'])>
+<PST (ent-36,ent-1390,neg,['m-1384'])>
+<PST (ent-27,ent-45,neg,['m-447'])>
+<PST (ent-27,ent-48,pos,['m-471', 'm-477'])>
+<PST (ent-27,ent-33,neg,['m-315'])>
+<PST (ent-8,ent-679,pos,['m-673'])>
+<PST (ent-8,ent-627,neg,['m-399'])>
+<PST (ent-36,ent-1352,neg,['m-1346'])>
+<PST (ent-36,ent-51,neg,['m-495'])>
+<PST (ent-8,ent-655,pos,['m-667'])>
+<PST (ent-27,ent-1289,pos,['m-1283'])>
+<PST (ent-8,ent-646,pos,['m-640'])>
+TP: 1.0
+FN: 2.0
+FP: 15.0
+
+---Scoring 4f7eedf44076ea050d7db3715f9333fa---
+Gold private state tuples: [<PST (ent-21,ent-250,pos,['m-244'])>, <PST (ent-21,ent-235,pos,['m-229'])>, <PST (ent-18,ent-24,pos,['m-195'])>]
+Predict private state tuples: [<PST (ent-21,ent-250,pos,['m-244'])>, <PST (ent-21,ent-235,pos,['m-229'])>, <PST (ent-18,ent-24,pos,['m-195'])>]
+---False Negatives---
+<PST (ent-21,ent-235,pos,['m-229'])>
+<PST (ent-18,ent-24,pos,['m-195'])>
+---True Positives---
+<PST (ent-21,ent-250,pos,['m-244'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+---False Positives---
+TP: 1.0
+FN: 2.0
+FP: 0.0
+
+---Scoring 593cb5020613a4695859130542f7fc94---
+Gold private state tuples: []
+Predict private state tuples: []
+---False Negatives---
+---True Positives---
+---False Positives---
+<PST (ent-27,ent-8,pos,['m-234'])>
+TP: 0.0
+FN: 0.0
+FP: 1.0
+
+---Scoring 59f8514f6db132207ba9e5828f73d706---
+Gold private state tuples: [<PST (ent-27,ent-1403,neg,['m-1397'])>, <PST (ent-51,ent-57,neg,['m-903', 'm-909'])>, <PST (ent-51,ent-39,neg,['m-1574', 'm-1616'])>]
+Predict private state tuples: [<PST (ent-27,ent-1403,neg,['m-1397'])>, <PST (ent-51,ent-57,neg,['m-903', 'm-909'])>, <PST (ent-51,ent-39,neg,['m-1574', 'm-1616'])>]
+---False Negatives---
+<PST (ent-51,ent-57,neg,['m-903', 'm-909'])>
+---True Positives---
+<PST (ent-27,ent-1403,neg,['m-1397'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+<PST (ent-51,ent-39,neg,['m-1616', 'm-1616'])> TP match score: 1.0 provenance weight: 1.33333333333 total: 1.0
+---False Positives---
+<PST (ent-33,ent-18,neg,['m-1415'])>
+<PST (ent-48,ent-111,pos,['m-1137'])>
+<PST (ent-54,ent-1412,pos,['m-1538'])>
+<PST (ent-36,ent-39,pos,['m-723'])>
+<PST (ent-8,ent-18,neg,['m-189'])>
+<PST (ent-33,ent-39,pos,['m-699', 'm-705'])>
+<PST (ent-54,ent-30,pos,['m-645'])>
+<PST (ent-33,ent-39,neg,['m-699'])>
+<PST (ent-78,ent-69,pos,['m-957'])>
+<PST (ent-33,ent-75,pos,['m-981'])>
+<PST (ent-24,ent-8,neg,['m-141', 'm-141'])>
+<PST (ent-48,ent-90,pos,['m-1047'])>
+<PST (ent-54,ent-90,neg,['m-1017'])>
+<PST (ent-54,ent-21,neg,['m-231'])>
+<PST (ent-24,ent-8,pos,['m-153'])>
+TP: 2.0
+FN: 1.0
+FP: 15.0
+
+---Scoring 6154640fdb94510274583591cad7b379---
+Gold private state tuples: [<PST (ent-36,ent-102,neg,['m-750'])>, <PST (ent-18,ent-36,neg,['m-408', 'm-414', 'm-420'])>]
+Predict private state tuples: [<PST (ent-36,ent-102,neg,['m-750'])>, <PST (ent-18,ent-36,neg,['m-408', 'm-414', 'm-420'])>]
+---False Negatives---
+<PST (ent-36,ent-102,neg,['m-750'])>
+---True Positives---
+<PST (ent-18,ent-36,neg,['m-402', 'm-420'])> TP match score: 1.0 provenance weight: 1.6 total: 1.0
+---False Positives---
+<PST (ent-57,ent-1561,neg,['m-1555'])>
+<PST (ent-18,ent-105,pos,['m-786'])>
+<PST (ent-60,ent-1513,neg,['m-1516'])>
+<PST (ent-18,ent-105,neg,['m-762'])>
+<PST (ent-18,ent-39,neg,['m-426'])>
+<PST (ent-18,ent-18,neg,['m-198'])>
+<PST (ent-57,ent-1576,pos,['m-1570'])>
+<PST (ent-57,ent-66,neg,['m-552'])>
+<PST (ent-8,ent-21,neg,['m-1357'])>
+<PST (ent-18,ent-42,pos,['m-432'])>
+<PST (ent-18,ent-21,neg,['m-258', 'm-264', 'm-270', 'm-1456'])>
+<PST (ent-60,ent-90,neg,['m-714'])>
+<PST (ent-57,ent-120,pos,['m-948'])>
+<PST (ent-18,ent-51,pos,['m-456'])>
+<PST (ent-60,ent-90,pos,['m-708'])>
+TP: 1.0
+FN: 1.0
+FP: 15.0
+
+---Scoring 61d2b0dcc730f0b4e92ae0d1929b3caf---
+Gold private state tuples: [<PST (ent-21,ent-24,neg,['m-321'])>, <PST (ent-21,ent-18,neg,['m-135', 'm-141'])>, <PST (ent-21,ent-1010,neg,['m-1004'])>, <PST (ent-24,ent-63,pos,['m-507'])>, <PST (ent-21,ent-971,neg,['m-965'])>, <PST (ent-21,ent-956,neg,['m-950', 'm-959'])>]
+Predict private state tuples: [<PST (ent-21,ent-24,neg,['m-321'])>, <PST (ent-21,ent-18,neg,['m-135', 'm-141'])>, <PST (ent-21,ent-1010,neg,['m-1004'])>, <PST (ent-24,ent-63,pos,['m-507'])>, <PST (ent-21,ent-971,neg,['m-965'])>, <PST (ent-21,ent-956,neg,['m-950', 'm-959'])>]
+---False Negatives---
+<PST (ent-21,ent-18,neg,['m-135', 'm-141'])>
+<PST (ent-21,ent-1010,neg,['m-1004'])>
+<PST (ent-24,ent-63,pos,['m-507'])>
+<PST (ent-21,ent-971,neg,['m-965'])>
+<PST (ent-21,ent-956,neg,['m-950', 'm-959'])>
+---True Positives---
+<PST (ent-21,ent-24,neg,['m-321'])> TP match score: 1.0 provenance weight: 1.0 total: 1.0
+---False Positives---
+<PST (ent-21,ent-45,pos,['m-1090'])>
+<PST (ent-21,ent-102,neg,['m-663'])>
+<PST (ent-24,ent-21,neg,['m-195', 'm-201'])>
+<PST (ent-18,ent-851,pos,['m-899'])>
+<PST (ent-24,ent-78,neg,['m-591'])>
+<PST (ent-24,ent-878,neg,['m-944'])>
+<PST (ent-21,ent-920,neg,['m-914'])>
+<PST (ent-8,ent-869,pos,['m-863'])>
+TP: 1.0
+FN: 5.0
+FP: 8.0
+
+---Scoring 644706e2d97c9a9a1f9874510180f136---
+Gold private state tuples: [<PST (ent-18,ent-93,neg,['m-3042'])>, <PST (ent-18,ent-1782,neg,['m-1791', 'm-1800'])>, <PST (ent-18,ent-1797,neg,['m-1812'])>, <PST (ent-21,ent-1773,neg,['m-1890'])>]
+Predict private state tuples: [<PST (ent-18,ent-93,neg,['m-3042'])>, <PST (ent-18,ent-1782,neg,['m-1791', 'm-1800'])>, <PST (ent-18,ent-1797,neg,['m-1812'])>, <PST (ent-21,ent-1773,neg,['m-1890'])>]
+---False Negatives---
+<PST (ent-18,ent-1782,neg,['m-1791', 'm-1800'])>
+<PST (ent-18,ent-1797,neg,['m-1812'])>
+<PST (ent-21,ent-1773,neg,['m-1890'])>
+---True Positives---
+<PST (ent-18,ent-93,neg,['m-483', 'm-489', 'm-495'])> TP match score: 1.0 provenance weight: 2.0 total: 1.0
+---False Positives---
+<PST (ent-27,ent-93,neg,['m-465'])>
+<PST (ent-27,ent-66,neg,['m-459'])>
+<PST (ent-8,ent-78,pos,['m-351'])>
+<PST (ent-18,ent-42,neg,['m-273', 'm-273'])>
+<PST (ent-18,ent-42,pos,['m-273', 'm-273'])>
+<PST (ent-18,ent-1524,pos,['m-1806'])>
+<PST (ent-18,ent-1857,neg,['m-1860'])>
+<PST (ent-21,ent-1857,pos,['m-1878'])>
+<PST (ent-18,ent-1524,neg,['m-1626', 'm-1626', 'm-1806'])>
+<PST (ent-8,ent-1524,neg,['m-1545'])>
+TP: 1.0
+FN: 3.0
+FP: 10.0
+
+---Scoring 6491f0650d9628b84dee6f539df5a53d---
+Gold private state tuples: []
+Predict private state tuples: []
+---False Negatives---
+---True Positives---
+---False Positives---
+<PST (ent-39,ent-551,neg,['m-545', 'm-545'])>
+<PST (ent-39,ent-8,neg,['m-81'])>
+<PST (ent-8,ent-24,neg,['m-201'])>
+TP: 0.0
+FN: 0.0
+FP: 3.0
+
+---Scoring 661ece467567ffbb54b551dfc1c2c254---
+Gold private state tuples: []
+Predict private state tuples: []
+---False Negatives---
+---True Positives---
+---False Positives---
+<PST (ent-18,ent-48,pos,['m-177'])>
+TP: 0.0
+FN: 0.0
+FP: 1.0
+
+---micro-averaged scores---
+P: 0.246861924686 R: 0.221180880975 F: 0.233316856154
+
+---macro-averaged scores---
+P: 0.298925216821 R: 0.399300708336 F: 0.34189807773

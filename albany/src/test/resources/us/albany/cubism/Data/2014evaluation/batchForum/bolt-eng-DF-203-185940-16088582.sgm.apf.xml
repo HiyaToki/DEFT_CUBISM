@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="bolt-eng-DF-203-185940-16088582">
+  <document DOCID="bolt-eng-DF-203-185940-16088582">
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E0-M100">
+          <extent>
+              <charseq START="77" END="84">KC MMers</charseq>
+          </extent>
+          <head>
+              <charseq START="77" END="84">KC MMers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E0-M1303">
+          <extent>
+              <charseq START="1227" END="1228">KC</charseq>
+          </extent>
+          <head>
+              <charseq START="1227" END="1228">KC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E0-M2103">
+          <extent>
+              <charseq START="1999" END="2000">KC</charseq>
+          </extent>
+          <head>
+              <charseq START="1999" END="2000">KC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="KC MMers">
+              <charseq START="77" END="84">KC MMers</charseq>
+          </name>
+          <name NAME="KC">
+              <charseq START="1227" END="1228">KC</charseq>
+          </name>
+          <name NAME="KC">
+              <charseq START="1999" END="2000">KC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E1-M201">
+          <extent>
+              <charseq START="162" END="163">DH</charseq>
+          </extent>
+          <head>
+              <charseq START="162" END="163">DH</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E1-M4800">
+          <extent>
+              <charseq START="4254" END="4255">DH</charseq>
+          </extent>
+          <head>
+              <charseq START="4254" END="4255">DH</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E1-M6400">
+          <extent>
+              <charseq START="6164" END="6165">DH</charseq>
+          </extent>
+          <head>
+              <charseq START="6164" END="6165">DH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DH">
+              <charseq START="162" END="163">DH</charseq>
+          </name>
+          <name NAME="DH">
+              <charseq START="4254" END="4255">DH</charseq>
+          </name>
+          <name NAME="DH">
+              <charseq START="6164" END="6165">DH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E2-M205">
+          <extent>
+              <charseq START="182" END="204">a short weekend getaway</charseq>
+          </extent>
+          <head>
+              <charseq START="198" END="204">getaway</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185940-16088582-E2-M208">
+          <extent>
+              <charseq START="227" END="230">here</charseq>
+          </extent>
+          <head>
+              <charseq START="227" END="230">here</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E3-M207">
+          <extent>
+              <charseq START="213" END="220">the baby</charseq>
+          </extent>
+          <head>
+              <charseq START="217" END="220">baby</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E5-M706">
+          <extent>
+              <charseq START="589" END="596">Marriott</charseq>
+          </extent>
+          <head>
+              <charseq START="589" END="596">Marriott</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marriott">
+              <charseq START="589" END="596">Marriott</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E6-M812">
+          <extent>
+              <charseq START="722" END="728">museums</charseq>
+          </extent>
+          <head>
+              <charseq START="722" END="728">museums</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E7-M906">
+          <extent>
+              <charseq START="831" END="839">St. Louis</charseq>
+          </extent>
+          <head>
+              <charseq START="831" END="839">St. Louis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="St. Louis">
+              <charseq START="831" END="839">St. Louis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M1108">
+          <extent>
+              <charseq START="1058" END="1064">Branson</charseq>
+          </extent>
+          <head>
+              <charseq START="1058" END="1064">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M1111">
+          <extent>
+              <charseq START="1075" END="1081">Branson</charseq>
+          </extent>
+          <head>
+              <charseq START="1075" END="1081">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M1708">
+          <extent>
+              <charseq START="1643" END="1649">Branson</charseq>
+          </extent>
+          <head>
+              <charseq START="1643" END="1649">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M1711">
+          <extent>
+              <charseq START="1660" END="1666">Branson</charseq>
+          </extent>
+          <head>
+              <charseq START="1660" END="1666">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M1800">
+          <extent>
+              <charseq START="1692" END="1698">Branson</charseq>
+          </extent>
+          <head>
+              <charseq START="1692" END="1698">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M2800">
+          <extent>
+              <charseq START="2525" END="2531">Branson</charseq>
+          </extent>
+          <head>
+              <charseq START="2525" END="2531">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M3000">
+          <extent>
+              <charseq START="2728" END="2734">Branson</charseq>
+          </extent>
+          <head>
+              <charseq START="2728" END="2734">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M3801">
+          <extent>
+              <charseq START="3210" END="3216">Branson</charseq>
+          </extent>
+          <head>
+              <charseq START="3210" END="3216">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M4301">
+          <extent>
+              <charseq START="3782" END="3788">Branson</charseq>
+          </extent>
+          <head>
+              <charseq START="3782" END="3788">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E8-M5105">
+          <extent>
+              <charseq START="4636" END="4653">Branson) until you</charseq>
+          </extent>
+          <head>
+              <charseq START="4636" END="4642">Branson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Branson">
+              <charseq START="1058" END="1064">Branson</charseq>
+          </name>
+          <name NAME="Branson">
+              <charseq START="1075" END="1081">Branson</charseq>
+          </name>
+          <name NAME="Branson">
+              <charseq START="1643" END="1649">Branson</charseq>
+          </name>
+          <name NAME="Branson">
+              <charseq START="1660" END="1666">Branson</charseq>
+          </name>
+          <name NAME="Branson">
+              <charseq START="1692" END="1698">Branson</charseq>
+          </name>
+          <name NAME="Branson">
+              <charseq START="2525" END="2531">Branson</charseq>
+          </name>
+          <name NAME="Branson">
+              <charseq START="2728" END="2734">Branson</charseq>
+          </name>
+          <name NAME="Branson">
+              <charseq START="3210" END="3216">Branson</charseq>
+          </name>
+          <name NAME="Branson">
+              <charseq START="3782" END="3788">Branson</charseq>
+          </name>
+          <name NAME="Branson">
+              <charseq START="4636" END="4642">Branson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E9-M1113">
+          <extent>
+              <charseq START="1084" END="1085">MO</charseq>
+          </extent>
+          <head>
+              <charseq START="1084" END="1085">MO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E9-M1713">
+          <extent>
+              <charseq START="1669" END="1670">MO</charseq>
+          </extent>
+          <head>
+              <charseq START="1669" END="1670">MO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MO">
+              <charseq START="1084" END="1085">MO</charseq>
+          </name>
+          <name NAME="MO">
+              <charseq START="1669" END="1670">MO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E10-M1200">
+          <extent>
+              <charseq START="1183" END="1200">Eureka Springs, AR</charseq>
+          </extent>
+          <head>
+              <charseq START="1183" END="1196">Eureka Springs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E10-M2000">
+          <extent>
+              <charseq START="1955" END="1972">Eureka Springs, AR</charseq>
+          </extent>
+          <head>
+              <charseq START="1955" END="1968">Eureka Springs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E10-M5602" ROLE="LOC">
+          <extent>
+              <charseq START="5112" END="5126">Eureka Springs,</charseq>
+          </extent>
+          <head>
+              <charseq START="5112" END="5125">Eureka Springs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E10-M5918" ROLE="LOC">
+          <extent>
+              <charseq START="5539" END="5552">Eureka Springs</charseq>
+          </extent>
+          <head>
+              <charseq START="5539" END="5552">Eureka Springs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E10-M5902" ROLE="LOC">
+          <extent>
+              <charseq START="5417" END="5420">town</charseq>
+          </extent>
+          <head>
+              <charseq START="5417" END="5420">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eureka Springs">
+              <charseq START="1183" END="1196">Eureka Springs</charseq>
+          </name>
+          <name NAME="Eureka Springs">
+              <charseq START="1955" END="1968">Eureka Springs</charseq>
+          </name>
+          <name NAME="Eureka Springs">
+              <charseq START="5112" END="5125">Eureka Springs</charseq>
+          </name>
+          <name NAME="Eureka Springs">
+              <charseq START="5539" END="5552">Eureka Springs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E11-M1202" ROLE="LOC">
+          <extent>
+              <charseq START="1199" END="1200">AR</charseq>
+          </extent>
+          <head>
+              <charseq START="1199" END="1200">AR</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E11-M2002" ROLE="LOC">
+          <extent>
+              <charseq START="1971" END="1972">AR</charseq>
+          </extent>
+          <head>
+              <charseq START="1971" END="1972">AR</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AR">
+              <charseq START="1199" END="1200">AR</charseq>
+          </name>
+          <name NAME="AR">
+              <charseq START="1971" END="1972">AR</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E12-M1405">
+          <extent>
+              <charseq START="1243" END="1252">cute shops</charseq>
+          </extent>
+          <head>
+              <charseq START="1248" END="1252">shops</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E12-M2205">
+          <extent>
+              <charseq START="2015" END="2024">cute shops</charseq>
+          </extent>
+          <head>
+              <charseq START="2020" END="2024">shops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E13-M1407">
+          <extent>
+              <charseq START="1258" END="1270">art galleries</charseq>
+          </extent>
+          <head>
+              <charseq START="1262" END="1270">galleries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E13-M2207">
+          <extent>
+              <charseq START="2030" END="2042">art galleries</charseq>
+          </extent>
+          <head>
+              <charseq START="2034" END="2042">galleries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E14" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E14-M1505">
+          <extent>
+              <charseq START="1358" END="1373">Turpentine Creek</charseq>
+          </extent>
+          <head>
+              <charseq START="1358" END="1373">Turpentine Creek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E14-M2305">
+          <extent>
+              <charseq START="2130" END="2145">Turpentine Creek</charseq>
+          </extent>
+          <head>
+              <charseq START="2130" END="2145">Turpentine Creek</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Turpentine Creek">
+              <charseq START="1358" END="1373">Turpentine Creek</charseq>
+          </name>
+          <name NAME="Turpentine Creek">
+              <charseq START="2130" END="2145">Turpentine Creek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E15-M1509">
+          <extent>
+              <charseq START="1395" END="1400">tigers</charseq>
+          </extent>
+          <head>
+              <charseq START="1395" END="1400">tigers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E15-M2309">
+          <extent>
+              <charseq START="2167" END="2172">tigers</charseq>
+          </extent>
+          <head>
+              <charseq START="2167" END="2172">tigers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E16" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E16-M1805">
+          <extent>
+              <charseq START="1729" END="1737">our house</charseq>
+          </extent>
+          <head>
+              <charseq START="1733" END="1737">house</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E17" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E17-M2910">
+          <extent>
+              <charseq START="2680" END="2687">the lake</charseq>
+          </extent>
+          <head>
+              <charseq START="2684" END="2687">lake</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E18-M2911">
+          <extent>
+              <charseq START="2694" END="2705">some outlets</charseq>
+          </extent>
+          <head>
+              <charseq START="2699" END="2705">outlets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E19-M2915">
+          <extent>
+              <charseq START="2722" END="2725">shop</charseq>
+          </extent>
+          <head>
+              <charseq START="2722" END="2725">shop</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E21" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E21-M3004">
+          <extent>
+              <charseq START="2776" END="2793">Silver Dollar City</charseq>
+          </extent>
+          <head>
+              <charseq START="2776" END="2793">Silver Dollar City</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Silver Dollar City">
+              <charseq START="2776" END="2793">Silver Dollar City</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E22" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E22-M3003">
+          <extent>
+              <charseq START="2753" END="2770">old-timey downtown</charseq>
+          </extent>
+          <head>
+              <charseq START="2763" END="2770">downtown</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E23" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E23-M3402">
+          <extent>
+              <charseq START="2985" END="2997">love Colorado</charseq>
+          </extent>
+          <head>
+              <charseq START="2990" END="2997">Colorado</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E23-M3403">
+          <extent>
+              <charseq START="2985" END="2988">love</charseq>
+          </extent>
+          <head>
+              <charseq START="2985" END="2988">love</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E23-M6401" ROLE="LOC">
+          <extent>
+              <charseq START="6175" END="6182">Colorado</charseq>
+          </extent>
+          <head>
+              <charseq START="6175" END="6182">Colorado</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Colorado">
+              <charseq START="2990" END="2997">Colorado</charseq>
+          </name>
+          <name NAME="Colorado">
+              <charseq START="6175" END="6182">Colorado</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E24" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E24-M3905">
+          <extent>
+              <charseq START="3239" END="3246">the Lake</charseq>
+          </extent>
+          <head>
+              <charseq START="3243" END="3246">Lake</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E24-M4405">
+          <extent>
+              <charseq START="3811" END="3818">the Lake</charseq>
+          </extent>
+          <head>
+              <charseq START="3815" END="3818">Lake</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E24-M4801">
+          <extent>
+              <charseq START="4278" END="4285">the Lake</charseq>
+          </extent>
+          <head>
+              <charseq START="4282" END="4285">Lake</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lake">
+              <charseq START="3243" END="3246">Lake</charseq>
+          </name>
+          <name NAME="Lake">
+              <charseq START="3815" END="3818">Lake</charseq>
+          </name>
+          <name NAME="Lake">
+              <charseq START="4282" END="4285">Lake</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E25" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E25-M4003">
+          <extent>
+              <charseq START="3322" END="3327">Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="3322" END="3327">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185940-16088582-E25-M4008">
+          <extent>
+              <charseq START="3359" END="3363">there</charseq>
+          </extent>
+          <head>
+              <charseq START="3359" END="3363">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E25-M4503">
+          <extent>
+              <charseq START="3894" END="3899">Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="3894" END="3899">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185940-16088582-E25-M4508">
+          <extent>
+              <charseq START="3931" END="3935">there</charseq>
+          </extent>
+          <head>
+              <charseq START="3931" END="3935">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E25-M5003" ROLE="GPE">
+          <extent>
+              <charseq START="4482" END="4487">Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="4482" END="4487">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E25-M5303">
+          <extent>
+              <charseq START="4767" END="4772">Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="4767" END="4772">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E25-M5514">
+          <extent>
+              <charseq START="5060" END="5065">Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="5060" END="5065">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E25-M6310">
+          <extent>
+              <charseq START="6141" END="6146">Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="6141" END="6146">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Denver">
+              <charseq START="3322" END="3327">Denver</charseq>
+          </name>
+          <name NAME="Denver">
+              <charseq START="3894" END="3899">Denver</charseq>
+          </name>
+          <name NAME="Denver">
+              <charseq START="4482" END="4487">Denver</charseq>
+          </name>
+          <name NAME="Denver">
+              <charseq START="4767" END="4772">Denver</charseq>
+          </name>
+          <name NAME="Denver">
+              <charseq START="5060" END="5065">Denver</charseq>
+          </name>
+          <name NAME="Denver">
+              <charseq START="6141" END="6146">Denver</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E26" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E26-M4025">
+          <extent>
+              <charseq START="3533" END="3547">the restaurants</charseq>
+          </extent>
+          <head>
+              <charseq START="3537" END="3547">restaurants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E26-M4525">
+          <extent>
+              <charseq START="4105" END="4119">the restaurants</charseq>
+          </extent>
+          <head>
+              <charseq START="4109" END="4119">restaurants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E26-M6605">
+          <extent>
+              <charseq START="6385" END="6400">good restaurants</charseq>
+          </extent>
+          <head>
+              <charseq START="6390" END="6400">restaurants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E27-M4101">
+          <extent>
+              <charseq START="3579" END="3585">Chicago</charseq>
+          </extent>
+          <head>
+              <charseq START="3579" END="3585">Chicago</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E27-M4209" ROLE="LOC">
+          <extent>
+              <charseq START="3661" END="3668">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="3665" END="3668">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E27-M4601">
+          <extent>
+              <charseq START="4151" END="4157">Chicago</charseq>
+          </extent>
+          <head>
+              <charseq START="4151" END="4157">Chicago</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E27-M4709" ROLE="LOC">
+          <extent>
+              <charseq START="4233" END="4240">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="4237" END="4240">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E27-M4902" ROLE="LOC">
+          <extent>
+              <charseq START="4328" END="4334">Chicago</charseq>
+          </extent>
+          <head>
+              <charseq START="4328" END="4334">Chicago</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E27-M5304">
+          <extent>
+              <charseq START="4778" END="4784">CHicago</charseq>
+          </extent>
+          <head>
+              <charseq START="4778" END="4784">CHicago</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E27-M5403" ROLE="LOC">
+          <extent>
+              <charseq START="4844" END="4850">Chicago</charseq>
+          </extent>
+          <head>
+              <charseq START="4844" END="4850">Chicago</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chicago">
+              <charseq START="3579" END="3585">Chicago</charseq>
+          </name>
+          <name NAME="Chicago">
+              <charseq START="4151" END="4157">Chicago</charseq>
+          </name>
+          <name NAME="Chicago">
+              <charseq START="4328" END="4334">Chicago</charseq>
+          </name>
+          <name NAME="CHicago">
+              <charseq START="4778" END="4784">CHicago</charseq>
+          </name>
+          <name NAME="Chicago">
+              <charseq START="4844" END="4850">Chicago</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E28" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E28-M4202">
+          <extent>
+              <charseq START="3603" END="3611">the train</charseq>
+          </extent>
+          <head>
+              <charseq START="3607" END="3611">train</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E28-M4702">
+          <extent>
+              <charseq START="4175" END="4183">the train</charseq>
+          </extent>
+          <head>
+              <charseq START="4179" END="4183">train</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E28-M5402">
+          <extent>
+              <charseq START="4831" END="4839">the train</charseq>
+          </extent>
+          <head>
+              <charseq START="4835" END="4839">train</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E28-M5410">
+          <extent>
+              <charseq START="4903" END="4911">the train</charseq>
+          </extent>
+          <head>
+              <charseq START="4907" END="4911">train</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E29" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E29-M4207">
+          <extent>
+              <charseq START="3652" END="3668">a car in the city</charseq>
+          </extent>
+          <head>
+              <charseq START="3654" END="3656">car</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E29-M4707">
+          <extent>
+              <charseq START="4224" END="4240">a car in the city</charseq>
+          </extent>
+          <head>
+              <charseq START="4226" END="4228">car</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E30-M4905">
+          <extent>
+              <charseq START="4361" END="4366">family</charseq>
+          </extent>
+          <head>
+              <charseq START="4361" END="4366">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E31-M5103">
+          <extent>
+              <charseq START="4599" END="4613">Big Cedar Lodge</charseq>
+          </extent>
+          <head>
+              <charseq START="4599" END="4613">Big Cedar Lodge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E31-M5800">
+          <extent>
+              <charseq START="5369" END="5377">Big Cedar</charseq>
+          </extent>
+          <head>
+              <charseq START="5369" END="5377">Big Cedar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Big Cedar Lodge">
+              <charseq START="4599" END="4613">Big Cedar Lodge</charseq>
+          </name>
+          <name NAME="Big Cedar">
+              <charseq START="5369" END="5377">Big Cedar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185940-16088582-E32-M5300">
+          <extent>
+              <charseq START="4742" END="4818">Others already mentioned Denver and CHicago, which are potentially driveable.</charseq>
+          </extent>
+          <head>
+              <charseq START="4742" END="4747">Others</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185940-16088582-E32-M5305">
+          <extent>
+              <charseq START="4787" END="4791">which</charseq>
+          </extent>
+          <head>
+              <charseq START="4787" END="4791">which</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E33-M5408" ROLE="LOC">
+          <extent>
+              <charseq START="4879" END="4895">St Louis and then</charseq>
+          </extent>
+          <head>
+              <charseq START="4879" END="4886">St Louis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E33-M6600">
+          <extent>
+              <charseq START="6341" END="6348">St Louis</charseq>
+          </extent>
+          <head>
+              <charseq START="6341" END="6348">St Louis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="St Louis">
+              <charseq START="4879" END="4886">St Louis</charseq>
+          </name>
+          <name NAME="St Louis">
+              <charseq START="6341" END="6348">St Louis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E34-M5501">
+          <extent>
+              <charseq START="4949" END="4986">Des Moines (much cooler than you think</charseq>
+          </extent>
+          <head>
+              <charseq START="4949" END="4958">Des Moines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E34-M5500">
+          <extent>
+              <charseq START="4914" END="4938">Other driveable locations</charseq>
+          </extent>
+          <head>
+              <charseq START="4930" END="4938">locations</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Des Moines">
+              <charseq START="4949" END="4958">Des Moines</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E35" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E35-M5512">
+          <extent>
+              <charseq START="5029" END="5035">Boulder</charseq>
+          </extent>
+          <head>
+              <charseq START="5029" END="5035">Boulder</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boulder">
+              <charseq START="5029" END="5035">Boulder</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E36" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E36-M5515">
+          <extent>
+              <charseq START="5069" END="5079">Minneapolis</charseq>
+          </extent>
+          <head>
+              <charseq START="5069" END="5079">Minneapolis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E36-M6804">
+          <extent>
+              <charseq START="6569" END="6579">Minneapolis</charseq>
+          </extent>
+          <head>
+              <charseq START="6569" END="6579">Minneapolis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Minneapolis">
+              <charseq START="5069" END="5079">Minneapolis</charseq>
+          </name>
+          <name NAME="Minneapolis">
+              <charseq START="6569" END="6579">Minneapolis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E37-M5516">
+          <extent>
+              <charseq START="5086" END="5091">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="5086" END="5091">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dallas">
+              <charseq START="5086" END="5091">Dallas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185940-16088582-E38-M5507">
+          <extent>
+              <charseq START="4995" END="5012">someone from there</charseq>
+          </extent>
+          <head>
+              <charseq START="4995" END="5001">someone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E39-M5606">
+          <extent>
+              <charseq START="5146" END="5151">people</charseq>
+          </extent>
+          <head>
+              <charseq START="5146" END="5151">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185940-16088582-E39-M5607">
+          <extent>
+              <charseq START="5153" END="5155">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5153" END="5155">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E40-M5916">
+          <extent>
+              <charseq START="5513" END="5522">My parents</charseq>
+          </extent>
+          <head>
+              <charseq START="5516" END="5522">parents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E41" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E41-M6005">
+          <extent>
+              <charseq START="5697" END="5706">Shreveport</charseq>
+          </extent>
+          <head>
+              <charseq START="5697" END="5706">Shreveport</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185940-16088582-E41-M6104">
+          <extent>
+              <charseq START="5727" END="5731">there</charseq>
+          </extent>
+          <head>
+              <charseq START="5727" END="5731">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E41-M6502">
+          <extent>
+              <charseq START="6246" END="6263">a really cool city</charseq>
+          </extent>
+          <head>
+              <charseq START="6260" END="6263">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Shreveport">
+              <charseq START="5697" END="5706">Shreveport</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E42-M6204">
+          <extent>
+              <charseq START="5866" END="5875">Hutchinson</charseq>
+          </extent>
+          <head>
+              <charseq START="5866" END="5875">Hutchinson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hutchinson">
+              <charseq START="5866" END="5875">Hutchinson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E43" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E43-M6205" ROLE="LOC">
+          <extent>
+              <charseq START="5878" END="5879">KS</charseq>
+          </extent>
+          <head>
+              <charseq START="5878" END="5879">KS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="KS">
+              <charseq START="5878" END="5879">KS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E44" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E44-M6207">
+          <extent>
+              <charseq START="5891" END="5905">the Cosmosphere</charseq>
+          </extent>
+          <head>
+              <charseq START="5895" END="5905">Cosmosphere</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185940-16088582-E44-M6215">
+          <extent>
+              <charseq START="5952" END="5956">their</charseq>
+          </extent>
+          <head>
+              <charseq START="5952" END="5956">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E44-M6602">
+          <extent>
+              <charseq START="6368" END="6374">the zoo</charseq>
+          </extent>
+          <head>
+              <charseq START="6372" END="6374">zoo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cosmosphere">
+              <charseq START="5895" END="5905">Cosmosphere</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E45" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E45-M6212" ROLE="LOC">
+          <extent>
+              <charseq START="5933" END="5940">Wichita,</charseq>
+          </extent>
+          <head>
+              <charseq START="5933" END="5939">Wichita</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wichita">
+              <charseq START="5933" END="5939">Wichita</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E46" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E46-M6214">
+          <extent>
+              <charseq START="5952" END="5964">their museums</charseq>
+          </extent>
+          <head>
+              <charseq START="5958" END="5964">museums</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E47" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E47-M6606">
+          <extent>
+              <charseq START="6406" END="6416">nice hotels</charseq>
+          </extent>
+          <head>
+              <charseq START="6411" END="6416">hotels</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185940-16088582-E48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185940-16088582-E48-M6908">
+          <extent>
+              <charseq START="6711" END="6722">vote Memphis</charseq>
+          </extent>
+          <head>
+              <charseq START="6716" END="6722">Memphis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185940-16088582-E48-M6909">
+          <extent>
+              <charseq START="6711" END="6714">vote</charseq>
+          </extent>
+          <head>
+              <charseq START="6711" END="6714">vote</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Memphis">
+              <charseq START="6716" END="6722">Memphis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T0" VAL="XXXX-XX-WE">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T0-M1">
+            <extent>
+              <charseq START="184" END="196">short weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T1" VAL="PT6H">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T1-M1">
+            <extent>
+              <charseq START="547" END="553">6 hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T2" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T2-M1">
+            <extent>
+              <charseq START="787" END="811">our anniversary last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T3" VAL="PT4H" MOD="APPROX">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T3-M1">
+            <extent>
+              <charseq START="1208" END="1228">about 4 hours from KC</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T4">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T4-M1">
+            <extent>
+              <charseq START="1291" END="1302">time to time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T5" VAL="PT4H" MOD="APPROX">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T5-M1">
+            <extent>
+              <charseq START="1980" END="2000">about 4 hours from KC</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T6">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T6-M1">
+            <extent>
+              <charseq START="2063" END="2074">time to time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T7" VAL="PT2H">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T7-M1">
+            <extent>
+              <charseq START="2414" END="2429">an extra 2 hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T8" VAL="XXXX-SU">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T8-M1">
+            <extent>
+              <charseq START="3495" END="3504">the summer</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T9" VAL="XXXX-SU">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T9-M1">
+            <extent>
+              <charseq START="4067" END="4076">the summer</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T10" VAL="XXXX-SU">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T10-M1">
+            <extent>
+              <charseq START="4342" END="4352">this summer</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T11" VAL="XXXX-SU" MOD="START">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T11-M1">
+            <extent>
+              <charseq START="5265" END="5276">early summer</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T12" VAL="TNI">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T12-M1">
+            <extent>
+              <charseq START="5498" END="5510">wedding night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T13" VAL="P1W">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T13-M1">
+            <extent>
+              <charseq START="5717" END="5746">some time there this past week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T14" VAL="XXXX-12">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T14-M1">
+            <extent>
+              <charseq START="5817" END="5820">Dec.</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185940-16088582-T15" VAL="XXXX-01-02">
+        <timex2_mention ID="bolt-eng-DF-203-185940-16088582-T15-M1">
+            <extent>
+              <charseq START="6200" END="6215">1-2 times a year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="bolt-eng-DF-203-185940-16088582-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-203-185940-16088582-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-203-185940-16088582-E2" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-203-185940-16088582-R0-M200">
+          <extent>
+              <charseq START="213" END="220">the baby</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E3-M207" ROLE="Arg-1">
+            <extent>
+              <charseq START="213" END="220">the baby</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E2-M208" ROLE="Arg-2">
+            <extent>
+              <charseq START="227" END="230">here</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-203-185940-16088582-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-203-185940-16088582-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-203-185940-16088582-E11" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-203-185940-16088582-R1-M1200">
+          <extent>
+              <charseq START="1183" END="1200">Eureka Springs, AR</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E10-M1200" ROLE="Arg-1">
+            <extent>
+              <charseq START="1183" END="1200">Eureka Springs, AR</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E11-M1202" ROLE="Arg-2">
+            <extent>
+              <charseq START="1199" END="1200">AR</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-203-185940-16088582-R1-M2000">
+          <extent>
+              <charseq START="1955" END="1972">Eureka Springs, AR</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E10-M2000" ROLE="Arg-1">
+            <extent>
+              <charseq START="1955" END="1972">Eureka Springs, AR</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E11-M2002" ROLE="Arg-2">
+            <extent>
+              <charseq START="1971" END="1972">AR</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-203-185940-16088582-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-203-185940-16088582-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-203-185940-16088582-E10" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-203-185940-16088582-R6-M5901">
+          <extent>
+              <charseq START="5513" END="5522">My parents</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E40-M5916" ROLE="Arg-1">
+            <extent>
+              <charseq START="5513" END="5522">My parents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E10-M5918" ROLE="Arg-2">
+            <extent>
+              <charseq START="5539" END="5552">Eureka Springs</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-203-185940-16088582-R8" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-203-185940-16088582-E44" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-203-185940-16088582-E46" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-203-185940-16088582-R8-M6200">
+          <extent>
+              <charseq START="5952" END="5956">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E44-M6215" ROLE="Arg-1">
+            <extent>
+              <charseq START="5952" END="5956">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185940-16088582-E46-M6214" ROLE="Arg-2">
+            <extent>
+              <charseq START="5952" END="5964">their museums</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

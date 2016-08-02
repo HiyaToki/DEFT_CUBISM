@@ -1,0 +1,989 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20101214.0613">
+  <document DOCID="AFP_ENG_20101214.0613">
+
+    <entity ID="AFP_ENG_20101214.0613-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="64">British</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E0-M301" ROLE="GPE">
+          <extent>
+              <charseq START="189" END="195">British</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="195">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E0-M419" ROLE="LOC">
+          <extent>
+              <charseq START="577" END="583">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="577" END="583">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E0-M610" ROLE="LOC">
+          <extent>
+              <charseq START="920" END="926">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="920" END="926">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E0-M1406" ROLE="GPE">
+          <extent>
+              <charseq START="2006" END="2012">British</charseq>
+          </extent>
+          <head>
+              <charseq START="2006" END="2012">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E0-M1405" ROLE="ORG">
+          <extent>
+              <charseq START="2002" END="2023">the British government</charseq>
+          </extent>
+          <head>
+              <charseq START="2014" END="2023">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="58" END="64">British</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="189" END="195">British</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="577" END="583">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="920" END="926">Britain</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="2006" END="2012">British</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E1-M6" ROLE="GPE">
+          <extent>
+              <charseq START="103" END="104">US</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="104">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E1-M306" ROLE="GPE">
+          <extent>
+              <charseq START="247" END="248">US</charseq>
+          </extent>
+          <head>
+              <charseq START="247" END="248">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="103" END="104">US</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="247" END="248">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E2-M5">
+          <extent>
+              <charseq START="103" END="111">US pastor</charseq>
+          </extent>
+          <head>
+              <charseq START="106" END="111">pastor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E3-M102" ROLE="GPE">
+          <extent>
+              <charseq START="137" END="142">LONDON</charseq>
+          </extent>
+          <head>
+              <charseq START="137" END="142">LONDON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E3-M421" ROLE="LOC">
+          <extent>
+              <charseq START="621" END="626">London</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="626">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E3-M1303" ROLE="LOC">
+          <extent>
+              <charseq START="1868" END="1894">London sometime in February</charseq>
+          </extent>
+          <head>
+              <charseq START="1868" END="1873">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E3-M1309" ROLE="LOC">
+          <extent>
+              <charseq START="1922" END="1927">London</charseq>
+          </extent>
+          <head>
+              <charseq START="1922" END="1927">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E3-M1508" ROLE="GPE">
+          <extent>
+              <charseq START="2144" END="2149">London</charseq>
+          </extent>
+          <head>
+              <charseq START="2144" END="2149">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E3-M1506">
+          <extent>
+              <charseq START="2128" END="2191">a town north of London
+which has a significant Muslim population</charseq>
+          </extent>
+          <head>
+              <charseq START="2130" END="2133">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E3-M1509">
+          <extent>
+              <charseq START="2151" END="2155">which</charseq>
+          </extent>
+          <head>
+              <charseq START="2151" END="2155">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LONDON">
+              <charseq START="137" END="142">LONDON</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="621" END="626">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="1868" END="1873">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="1922" END="1927">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="2144" END="2149">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E4-M200">
+          <extent>
+              <charseq START="159" END="161">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="159" END="161">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="159" END="161">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E5-M304">
+          <extent>
+              <charseq START="237" END="267">firebrand US pastor Terry
+Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="257" END="267">Terry
+Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E5-M307">
+          <extent>
+              <charseq START="250" END="255">pastor</charseq>
+          </extent>
+          <head>
+              <charseq START="250" END="255">pastor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M316">
+          <extent>
+              <charseq START="330" END="332">his</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="332">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E5-M400">
+          <extent>
+              <charseq START="394" END="402">But Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="398" END="402">Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M416">
+          <extent>
+              <charseq START="547" END="548">he</charseq>
+          </extent>
+          <head>
+              <charseq START="547" END="548">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E5-M517">
+          <extent>
+              <charseq START="783" END="806">the
+controversial pastor</charseq>
+          </extent>
+          <head>
+              <charseq START="801" END="806">pastor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E5-M618">
+          <extent>
+              <charseq START="1016" END="1020">Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="1016" END="1020">Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M604">
+          <extent>
+              <charseq START="870" END="872">his</charseq>
+          </extent>
+          <head>
+              <charseq START="870" END="872">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E5-M705">
+          <extent>
+              <charseq START="1085" END="1089">Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="1085" END="1089">Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M809">
+          <extent>
+              <charseq START="1227" END="1229">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1227" END="1229">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M815">
+          <extent>
+              <charseq START="1302" END="1304">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1302" END="1304">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M900">
+          <extent>
+              <charseq START="1347" END="1348">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1347" END="1348">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M1000">
+          <extent>
+              <charseq START="1395" END="1396">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1395" END="1396">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M1007">
+          <extent>
+              <charseq START="1462" END="1463">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1462" END="1463">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M1016">
+          <extent>
+              <charseq START="1518" END="1520">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1518" END="1520">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M1022">
+          <extent>
+              <charseq START="1548" END="1550">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1548" END="1550">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M1027">
+          <extent>
+              <charseq START="1590" END="1592">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1590" END="1592">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E5-M1200">
+          <extent>
+              <charseq START="1701" END="1705">Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="1701" END="1705">Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M1310">
+          <extent>
+              <charseq START="1931" END="1932">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1931" END="1932">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E5-M1400">
+          <extent>
+              <charseq START="1950" END="1954">Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="1950" END="1954">Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M1401">
+          <extent>
+              <charseq START="1973" END="1974">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1973" END="1974">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E5-M1407">
+          <extent>
+              <charseq START="2034" END="2036">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2034" END="2036">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Terry
+Jones">
+              <charseq START="257" END="267">Terry
+Jones</charseq>
+          </name>
+          <name NAME="Jones">
+              <charseq START="398" END="402">Jones</charseq>
+          </name>
+          <name NAME="Jones">
+              <charseq START="1016" END="1020">Jones</charseq>
+          </name>
+          <name NAME="Jones">
+              <charseq START="1085" END="1089">Jones</charseq>
+          </name>
+          <name NAME="Jones">
+              <charseq START="1701" END="1705">Jones</charseq>
+          </name>
+          <name NAME="Jones">
+              <charseq START="1950" END="1954">Jones</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E6-M319">
+          <extent>
+              <charseq START="367" END="373">the BBC</charseq>
+          </extent>
+          <head>
+              <charseq START="371" END="373">BBC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E6-M804">
+          <extent>
+              <charseq START="1171" END="1177">the BBC</charseq>
+          </extent>
+          <head>
+              <charseq START="1175" END="1177">BBC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E6-M1213">
+          <extent>
+              <charseq START="1824" END="1830">the BBC</charseq>
+          </extent>
+          <head>
+              <charseq START="1828" END="1830">BBC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BBC">
+              <charseq START="371" END="373">BBC</charseq>
+          </name>
+          <name NAME="BBC">
+              <charseq START="1175" END="1177">BBC</charseq>
+          </name>
+          <name NAME="BBC">
+              <charseq START="1828" END="1830">BBC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E7-M300">
+          <extent>
+              <charseq START="187" END="211">A British far-right group</charseq>
+          </extent>
+          <head>
+              <charseq START="207" END="211">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E7-M312">
+          <extent>
+              <charseq START="288" END="290">its</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="290">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E7-M313">
+          <extent>
+              <charseq START="312" END="313">it</charseq>
+          </extent>
+          <head>
+              <charseq START="312" END="313">it</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E8-M503">
+          <extent>
+              <charseq START="654" END="769">the English Defence League (EDL), which organises protests
+against what it terms as the &quot;Islamification&quot; of England,</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="679">English Defence League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E8-M506">
+          <extent>
+              <charseq START="682" END="684">EDL</charseq>
+          </extent>
+          <head>
+              <charseq START="682" END="684">EDL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E8-M500">
+          <extent>
+              <charseq START="638" END="838">Far-right group the English Defence League (EDL), which organises protests
+against what it terms as the &quot;Islamification&quot; of England, had invited the
+controversial pastor to speak at a rally in February</charseq>
+          </extent>
+          <head>
+              <charseq START="648" END="652">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E8-M511">
+          <extent>
+              <charseq START="726" END="727">it</charseq>
+          </extent>
+          <head>
+              <charseq START="726" END="727">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E8-M700">
+          <extent>
+              <charseq START="1048" END="1054">the EDL</charseq>
+          </extent>
+          <head>
+              <charseq START="1052" END="1054">EDL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E8-M703">
+          <extent>
+              <charseq START="1068" END="1071">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1068" END="1071">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E8-M707">
+          <extent>
+              <charseq START="1116" END="1120">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1116" END="1120">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E8-M801">
+          <extent>
+              <charseq START="1138" END="1140">EDL</charseq>
+          </extent>
+          <head>
+              <charseq START="1138" END="1140">EDL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E8-M1002">
+          <extent>
+              <charseq START="1415" END="1440">the English Defence League</charseq>
+          </extent>
+          <head>
+              <charseq START="1419" END="1440">English Defence League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E8-M1201">
+          <extent>
+              <charseq START="1712" END="1718">the EDL</charseq>
+          </extent>
+          <head>
+              <charseq START="1716" END="1718">EDL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E8-M1501">
+          <extent>
+              <charseq START="2078" END="2080">EDL</charseq>
+          </extent>
+          <head>
+              <charseq START="2078" END="2080">EDL</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="English Defence League">
+              <charseq START="658" END="679">English Defence League</charseq>
+          </name>
+          <name NAME="EDL">
+              <charseq START="682" END="684">EDL</charseq>
+          </name>
+          <name NAME="EDL">
+              <charseq START="1052" END="1054">EDL</charseq>
+          </name>
+          <name NAME="EDL">
+              <charseq START="1138" END="1140">EDL</charseq>
+          </name>
+          <name NAME="English Defence League">
+              <charseq START="1419" END="1440">English Defence League</charseq>
+          </name>
+          <name NAME="EDL">
+              <charseq START="1716" END="1718">EDL</charseq>
+          </name>
+          <name NAME="EDL">
+              <charseq START="2078" END="2080">EDL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E9-M516" ROLE="GPE">
+          <extent>
+              <charseq START="762" END="768">England</charseq>
+          </extent>
+          <head>
+              <charseq START="762" END="768">England</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E9-M1206" ROLE="LOC">
+          <extent>
+              <charseq START="1748" END="1761">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="1752" END="1761">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E9-M1409" ROLE="LOC">
+          <extent>
+              <charseq START="2052" END="2062">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="2056" END="2062">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="England">
+              <charseq START="762" END="768">England</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E10-M612">
+          <extent>
+              <charseq START="950" END="960">Theresa May</charseq>
+          </extent>
+          <head>
+              <charseq START="950" END="960">Theresa May</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E10-M614">
+          <extent>
+              <charseq START="971" END="973">she</charseq>
+          </extent>
+          <head>
+              <charseq START="971" END="973">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E10-M616">
+          <extent>
+              <charseq START="999" END="1001">she</charseq>
+          </extent>
+          <head>
+              <charseq START="999" END="1001">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Theresa May">
+              <charseq START="950" END="960">Theresa May</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E11-M611">
+          <extent>
+              <charseq START="932" END="948">interior minister</charseq>
+          </extent>
+          <head>
+              <charseq START="941" END="948">minister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E12-M800">
+          <extent>
+              <charseq START="1138" END="1164">EDL spokesman Guramit Singh</charseq>
+          </extent>
+          <head>
+              <charseq START="1152" END="1164">Guramit Singh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E12-M802">
+          <extent>
+              <charseq START="1142" END="1150">spokesman</charseq>
+          </extent>
+          <head>
+              <charseq START="1142" END="1150">spokesman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guramit Singh">
+              <charseq START="1152" END="1164">Guramit Singh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E14-M902">
+          <extent>
+              <charseq START="1357" END="1382">the right candidate for us</charseq>
+          </extent>
+          <head>
+              <charseq START="1367" END="1375">candidate</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E15-M1207">
+          <extent>
+              <charseq START="1770" END="1805">people
+within their own organisation</charseq>
+          </extent>
+          <head>
+              <charseq START="1770" END="1775">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E15-M1210">
+          <extent>
+              <charseq START="1784" END="1788">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1784" END="1788">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E16-M1505" ROLE="LOC">
+          <extent>
+              <charseq START="2121" END="2125">Luton</charseq>
+          </extent>
+          <head>
+              <charseq START="2121" END="2125">Luton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Luton">
+              <charseq START="2121" END="2125">Luton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E17-M1511">
+          <extent>
+              <charseq START="2175" END="2180">Muslim</charseq>
+          </extent>
+          <head>
+              <charseq START="2175" END="2180">Muslim</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muslim">
+              <charseq START="2175" END="2180">Muslim</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E18-M1510">
+          <extent>
+              <charseq START="2161" END="2191">a significant Muslim population</charseq>
+          </extent>
+          <head>
+              <charseq START="2182" END="2191">population</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E19" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101214.0613-E19-M1615" ROLE="LOC">
+          <extent>
+              <charseq START="2350" END="2358">Stockholm</charseq>
+          </extent>
+          <head>
+              <charseq START="2350" END="2358">Stockholm</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E19-M1603" ROLE="LOC">
+          <extent>
+              <charseq START="2244" END="2370">the town, believed to have been the
+home of a suspected suicide bomber who blew himself up in a attack in Stockholm
+on Saturday</charseq>
+          </extent>
+          <head>
+              <charseq START="2248" END="2251">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stockholm">
+              <charseq START="2350" END="2358">Stockholm</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E20-M1600">
+          <extent>
+              <charseq START="2203" END="2208">Police</charseq>
+          </extent>
+          <head>
+              <charseq START="2203" END="2208">Police</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E21" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E21-M1606">
+          <extent>
+              <charseq START="2276" END="2313">the
+home of a suspected suicide bomber</charseq>
+          </extent>
+          <head>
+              <charseq START="2280" END="2283">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101214.0613-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101214.0613-E22-M1608">
+          <extent>
+              <charseq START="2288" END="2313">a suspected suicide bomber</charseq>
+          </extent>
+          <head>
+              <charseq START="2308" END="2313">bomber</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101214.0613-E22-M1610">
+          <extent>
+              <charseq START="2315" END="2317">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2315" END="2317">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20101214.0613-T0" VAL="2010">
+        <timex2_mention ID="AFP_ENG_20101214.0613-T0-M1">
+            <extent>
+              <charseq START="153" END="156">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101214.0613-T1" VAL="2001-09-11">
+        <timex2_mention ID="AFP_ENG_20101214.0613-T1-M1">
+            <extent>
+              <charseq START="505" END="531">the anniversary of the 9/11</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101214.0613-T2" VAL="2011-02">
+        <timex2_mention ID="AFP_ENG_20101214.0613-T2-M1">
+            <extent>
+              <charseq START="831" END="838">February</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101214.0613-T3" VAL="2010-12-13">
+        <timex2_mention ID="AFP_ENG_20101214.0613-T3-M1">
+            <extent>
+              <charseq START="1061" END="1066">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101214.0613-T4" VAL="2011-02">
+        <timex2_mention ID="AFP_ENG_20101214.0613-T4-M1">
+            <extent>
+              <charseq START="1887" END="1894">February</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101214.0613-T5" VAL="2011-02-05">
+        <timex2_mention ID="AFP_ENG_20101214.0613-T5-M1">
+            <extent>
+              <charseq START="2107" END="2116">February 5</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101214.0613-T6" VAL="2010-12-11">
+        <timex2_mention ID="AFP_ENG_20101214.0613-T6-M1">
+            <extent>
+              <charseq START="2363" END="2370">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20101214.0613-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101214.0613-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101214.0613-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101214.0613-R0-M0">
+          <extent>
+              <charseq START="103" END="111">US pastor</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E2-M5" ROLE="Arg-1">
+            <extent>
+              <charseq START="103" END="111">US pastor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E1-M6" ROLE="Arg-2">
+            <extent>
+              <charseq START="103" END="104">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101214.0613-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101214.0613-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101214.0613-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101214.0613-R1-M300">
+          <extent>
+              <charseq START="187" END="211">A British far-right group</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E7-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="187" END="211">A British far-right group</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E0-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="189" END="195">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101214.0613-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101214.0613-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101214.0613-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101214.0613-R2-M600">
+          <extent>
+              <charseq START="932" END="948">interior minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E11-M611" ROLE="Arg-1">
+            <extent>
+              <charseq START="932" END="948">interior minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E0-M610" ROLE="Arg-2">
+            <extent>
+              <charseq START="920" END="926">Britain</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101214.0613-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101214.0613-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101214.0613-E8" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101214.0613-R3-M800">
+          <extent>
+              <charseq START="1142" END="1150">spokesman</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E12-M802" ROLE="Arg-1">
+            <extent>
+              <charseq START="1142" END="1150">spokesman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E8-M801" ROLE="Arg-2">
+            <extent>
+              <charseq START="1138" END="1140">EDL</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101214.0613-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101214.0613-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101214.0613-E21" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101214.0613-R5-M1600">
+          <extent>
+              <charseq START="2288" END="2313">a suspected suicide bomber</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E22-M1608" ROLE="Arg-1">
+            <extent>
+              <charseq START="2288" END="2313">a suspected suicide bomber</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101214.0613-E21-M1606" ROLE="Arg-2">
+            <extent>
+              <charseq START="2276" END="2313">the
+home of a suspected suicide bomber</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56997dde0000000000000022">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-1155">
+        <trigger offset="1970" length="2">my</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1165">
+        <trigger offset="2133" length="3">Mum</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1175">
+        <trigger offset="2171" length="3">Dad</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1185">
+        <trigger offset="2484" length="6">sister</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1195">
+        <trigger offset="2710" length="7">parents</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-189" offset="1391" length="14">purpletoenails</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1205">
+        <trigger offset="2761" length="8">partners</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-189" offset="1391" length="14">purpletoenails</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1215">
+        <trigger offset="4584" length="7">husband</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1225">
+        <trigger offset="4693" length="4">baby</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1235">
+        <trigger offset="5027" length="8">mistress</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1245">
+        <trigger offset="5233" length="5">child</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1530">
+        <trigger offset="287" length="2">at</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1790">
+        <trigger offset="1967" length="2">at</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-1271">
+        <trigger offset="2378" length="7">married</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-777" offset="2371" length="6">
+            <text>My Mum</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-801" offset="2386" length="13">
+            <text>the other man</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1292">
+        <trigger offset="2429" length="4">died</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-813" offset="2426" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1313">
+        <trigger offset="2442" length="3">met</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-789" offset="2435" length="6">
+            <text>My Dad</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-819" offset="2446" length="14">
+            <text>a lovely woman</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1334">
+        <trigger offset="2470" length="9">remarried</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-789" offset="2435" length="6">
+            <text>My Dad</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-819" offset="2446" length="14">
+            <text>a lovely woman</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1355">
+        <trigger offset="4685" length="12">had his baby</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1035" offset="4689" length="8">
+            <text>his baby</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1376">
+        <trigger offset="5239" length="4">died</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1041" offset="5228" length="10">
+            <text>heir child</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1397">
+        <trigger offset="5002" length="15">keep in contact</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-933" offset="4986" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1077" offset="5023" length="12">
+            <text>his mistress</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1418">
+        <trigger offset="186" length="8">marriage</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-477" offset="231" length="11">
+            <text>the husband</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1439">
+        <trigger offset="667" length="8">marriage</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-603" offset="610" length="3">
+            <text>she</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1460">
+        <trigger offset="924" length="8">marriage</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-501" offset="904" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1481">
+        <trigger offset="4440" length="8">marriage</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-897" offset="3718" length="7">justmel</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-591" offset="4436" length="3">
+            <text>his</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-897" offset="3718" length="7">justmel</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1549">
+        <trigger offset="505" length="4">told</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-489" offset="491" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-597" offset="510" length="3">
+            <text>her</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1600">
+        <trigger offset="727" length="3">ask</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-615" offset="731" length="3">
+            <text>her</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1621">
+        <trigger offset="707" length="15">drop her a line</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-609" offset="712" length="3">
+            <text>her</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1644">
+        <trigger offset="842" length="4">tell</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-447" offset="830" length="2">
+            <text>my</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-627" offset="847" length="3">
+            <text>her</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1672">
+        <trigger offset="1317" length="4">tell</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-633" offset="996" length="6">Errata</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-519" offset="1310" length="2">
+            <text>He</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-633" offset="996" length="6">Errata</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-177" offset="1322" length="3">
+            <text>you</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-633" offset="996" length="6">Errata</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1709">
+        <trigger offset="1696" length="4">meet</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-207" offset="1688" length="3">
+            <text>you</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1730">
+        <trigger offset="1708" length="4">meet</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-189" offset="1391" length="14">purpletoenails</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-747" offset="1705" length="2">
+            <text>We</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-189" offset="1391" length="14">purpletoenails</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1751">
+        <trigger offset="1928" length="8">visiting</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-543" offset="1923" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1836">
+        <trigger offset="5274" length="5">visit</trigger>
+        <beliefs>
+          <belief type="cb" polarity="neg" sarcasm="no">
+            <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1023" offset="5252" length="3">
+            <text>him</text>
+            <beliefs>
+              <belief type="cb" polarity="neg" sarcasm="no">
+                <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-147" offset="1155" length="1">
+        <text>I</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-135" offset="1073" length="14">purpletoenails</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-255" offset="2899" length="2">
+        <text>OP</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-855" offset="2877" length="9">a1969baby</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-261" offset="2931" length="5">
+        <text>youre</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-855" offset="2877" length="9">a1969baby</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-267" offset="3034" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-855" offset="2877" length="9">a1969baby</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-273" offset="3042" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-273" offset="3042" length="3">you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-297" offset="3453" length="1">
+        <text>I</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-279" offset="3371" length="14">purpletoenails</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-357" offset="3878" length="1">
+        <text>I</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-339" offset="3796" length="14">purpletoenails</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-477" offset="231" length="11">
+        <text>the husband</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-531" offset="1655" length="3">
+        <text>his</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-537" offset="1679" length="3">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-771" offset="2214" length="3">
+        <text>her</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-819" offset="2446" length="14">
+        <text>a lovely woman</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-837" offset="2705" length="12">
+        <text>your parents</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-189" offset="1391" length="14">purpletoenails</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-843" offset="2751" length="5">
+        <text>their</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-189" offset="1391" length="14">purpletoenails</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-849" offset="2751" length="18">
+        <text>their new partners</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-189" offset="1391" length="14">purpletoenails</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-867" offset="3184" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-423" offset="2792" length="14">purpletoenails</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-957" offset="5503" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-885" offset="4491" length="9">Gingham R</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1083" offset="5107" length="3">
+        <text>her</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-951" offset="4571" length="7">Sally42</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events>
+      <event ere_id="em-1271">
+        <trigger offset="2378" length="7">married</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1313">
+        <trigger offset="2442" length="3">met</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1334">
+        <trigger offset="2470" length="9">remarried</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-657" offset="1476" length="19">caledonian princess</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1418">
+        <trigger offset="186" length="8">marriage</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" offset="99" length="11">paddy's mum</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1439">
+        <trigger offset="667" length="8">marriage</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-123" offset="600" length="3">you</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

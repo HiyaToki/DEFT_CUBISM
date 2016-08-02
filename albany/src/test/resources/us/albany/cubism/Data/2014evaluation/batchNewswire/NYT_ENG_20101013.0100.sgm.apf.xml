@@ -1,0 +1,1724 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20101013.0100">
+  <document DOCID="NYT_ENG_20101013.0100">
+
+    <entity ID="NYT_ENG_20101013.0100-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E0-M3">
+          <extent>
+              <charseq START="74" END="106">BUT WITH MORE THAN 140 CHARACTERS</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="106">CHARACTERS</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E1-M102">
+          <extent>
+              <charseq START="146" END="165">guitarist John Mayer</charseq>
+          </extent>
+          <head>
+              <charseq START="156" END="165">John Mayer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E1-M103">
+          <extent>
+              <charseq START="146" END="154">guitarist</charseq>
+          </extent>
+          <head>
+              <charseq START="146" END="154">guitarist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E1-M101">
+          <extent>
+              <charseq START="131" END="140">The singer</charseq>
+          </extent>
+          <head>
+              <charseq START="135" END="140">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E1-M105">
+          <extent>
+              <charseq START="168" END="172">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="168" END="172">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E1-M115">
+          <extent>
+              <charseq START="274" END="276">his</charseq>
+          </extent>
+          <head>
+              <charseq START="274" END="276">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E1-M200">
+          <extent>
+              <charseq START="300" END="304">Mayer</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="304">Mayer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E1-M300">
+          <extent>
+              <charseq START="324" END="325">He</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="325">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E1-M500">
+          <extent>
+              <charseq START="508" END="512">Mayer</charseq>
+          </extent>
+          <head>
+              <charseq START="508" END="512">Mayer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E1-M506">
+          <extent>
+              <charseq START="562" END="564">his</charseq>
+          </extent>
+          <head>
+              <charseq START="562" END="564">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E1-M900">
+          <extent>
+              <charseq START="957" END="1019">Mayer,
+for example, used Tumblr to share a touching fan letter.</charseq>
+          </extent>
+          <head>
+              <charseq START="957" END="961">Mayer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E1-M2500">
+          <extent>
+              <charseq START="2616" END="2620">Mayer</charseq>
+          </extent>
+          <head>
+              <charseq START="2616" END="2620">Mayer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E1-M2617">
+          <extent>
+              <charseq START="2813" END="2817">Mayer</charseq>
+          </extent>
+          <head>
+              <charseq START="2813" END="2817">Mayer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E1-M4802">
+          <extent>
+              <charseq START="4962" END="4985">the Scaffold theme Mayer</charseq>
+          </extent>
+          <head>
+              <charseq START="4981" END="4985">Mayer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E1-M4804">
+          <extent>
+              <charseq START="4975" END="4979">theme</charseq>
+          </extent>
+          <head>
+              <charseq START="4975" END="4979">theme</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Mayer">
+              <charseq START="156" END="165">John Mayer</charseq>
+          </name>
+          <name NAME="Mayer">
+              <charseq START="300" END="304">Mayer</charseq>
+          </name>
+          <name NAME="Mayer">
+              <charseq START="508" END="512">Mayer</charseq>
+          </name>
+          <name NAME="Mayer">
+              <charseq START="957" END="961">Mayer</charseq>
+          </name>
+          <name NAME="Mayer">
+              <charseq START="2616" END="2620">Mayer</charseq>
+          </name>
+          <name NAME="Mayer">
+              <charseq START="2813" END="2817">Mayer</charseq>
+          </name>
+          <name NAME="Mayer">
+              <charseq START="4981" END="4985">Mayer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E2-M107">
+          <extent>
+              <charseq START="192" END="198">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="192" END="198">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E2-M302">
+          <extent>
+              <charseq START="343" END="349">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="343" END="349">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E2-M702">
+          <extent>
+              <charseq START="797" END="803">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="797" END="803">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E2-M6408">
+          <extent>
+              <charseq START="6551" END="6557">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="6551" END="6557">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E2-M6502">
+          <extent>
+              <charseq START="6660" END="6676">a popular
+blogger</charseq>
+          </extent>
+          <head>
+              <charseq START="6670" END="6676">blogger</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Twitter">
+              <charseq START="192" END="198">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="343" END="349">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="797" END="803">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="6551" END="6557">Twitter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E3-M108">
+          <extent>
+              <charseq START="205" END="230">nearly 4 million followers</charseq>
+          </extent>
+          <head>
+              <charseq START="222" END="230">followers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E4-M109">
+          <extent>
+              <charseq START="241" END="261">fans in
+mid-September</charseq>
+          </extent>
+          <head>
+              <charseq START="241" END="244">fans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M303" ROLE="LOC">
+          <extent>
+              <charseq START="354" END="359">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="354" END="359">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M400">
+          <extent>
+              <charseq START="436" END="461">Tumblr, based in New York,</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="441">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M903">
+          <extent>
+              <charseq START="982" END="987">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="982" END="987">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M1002">
+          <extent>
+              <charseq START="1030" END="1035">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="1030" END="1035">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M1100">
+          <extent>
+              <charseq START="1199" END="1204">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="1199" END="1204">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M1302" ROLE="GPE">
+          <extent>
+              <charseq START="1422" END="1427">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="1422" END="1427">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M1904">
+          <extent>
+              <charseq START="1932" END="1937">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="1932" END="1937">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M2004">
+          <extent>
+              <charseq START="2087" END="2166">Tumblr, which means you get all their posts sent to you in your
+Tumblr dashboard</charseq>
+          </extent>
+          <head>
+              <charseq START="2087" END="2092">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E5-M2006">
+          <extent>
+              <charseq START="2095" END="2099">which</charseq>
+          </extent>
+          <head>
+              <charseq START="2095" END="2099">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M2400">
+          <extent>
+              <charseq START="2587" END="2592">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="2587" END="2592">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M2904">
+          <extent>
+              <charseq START="2994" END="2999">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="2994" END="2999">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M3101">
+          <extent>
+              <charseq START="3166" END="3171">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="3166" END="3171">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M3304">
+          <extent>
+              <charseq START="3380" END="3391">, and Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="3386" END="3391">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M3510" ROLE="GPE">
+          <extent>
+              <charseq START="3671" END="3676">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="3671" END="3676">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M3802" ROLE="LOC">
+          <extent>
+              <charseq START="3844" END="3849">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="3844" END="3849">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M3806" ROLE="GPE">
+          <extent>
+              <charseq START="3878" END="3883">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="3878" END="3883">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M3902">
+          <extent>
+              <charseq START="3961" END="3966">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="3961" END="3966">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M3911" ROLE="LOC">
+          <extent>
+              <charseq START="4055" END="4070">the other Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="4065" END="4070">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M4001">
+          <extent>
+              <charseq START="4108" END="4113">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="4108" END="4113">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M4500">
+          <extent>
+              <charseq START="4687" END="4692">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="4687" END="4692">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M5200">
+          <extent>
+              <charseq START="5333" END="5338">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="5333" END="5338">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E5-M6401" ROLE="LOC">
+          <extent>
+              <charseq START="6484" END="6489">Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="6484" END="6489">Tumblr</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tumblr">
+              <charseq START="354" END="359">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="436" END="441">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="982" END="987">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="1030" END="1035">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="1199" END="1204">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="1422" END="1427">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="1932" END="1937">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="2087" END="2092">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="2587" END="2592">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="2994" END="2999">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="3166" END="3171">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="3386" END="3391">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="3671" END="3676">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="3844" END="3849">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="3878" END="3883">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="3961" END="3966">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="4065" END="4070">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="4108" END="4113">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="4687" END="4692">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="5333" END="5338">Tumblr</charseq>
+          </name>
+          <name NAME="Tumblr">
+              <charseq START="6484" END="6489">Tumblr</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E6-M308">
+          <extent>
+              <charseq START="414" END="433">Internet enthusiasts</charseq>
+          </extent>
+          <head>
+              <charseq START="423" END="433">enthusiasts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E7-M402" ROLE="LOC">
+          <extent>
+              <charseq START="453" END="460">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="460">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York">
+              <charseq START="453" END="460">New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E8-M405">
+          <extent>
+              <charseq START="482" END="505">30,000 new members a day</charseq>
+          </extent>
+          <head>
+              <charseq START="493" END="499">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E9-M505">
+          <extent>
+              <charseq START="556" END="576">upset his girlfriends</charseq>
+          </extent>
+          <head>
+              <charseq START="566" END="576">girlfriends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E10-M507">
+          <extent>
+              <charseq START="592" END="592">I</charseq>
+          </extent>
+          <head>
+              <charseq START="592" END="592">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E10-M2001">
+          <extent>
+              <charseq START="2048" END="2048">I</charseq>
+          </extent>
+          <head>
+              <charseq START="2048" END="2048">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E10-M2204">
+          <extent>
+              <charseq START="2361" END="2362">me</charseq>
+          </extent>
+          <head>
+              <charseq START="2361" END="2362">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E10-M3508">
+          <extent>
+              <charseq START="3657" END="3676">the genius of Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="3661" END="3666">genius</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E11-M606">
+          <extent>
+              <charseq START="692" END="700">Posterous</charseq>
+          </extent>
+          <head>
+              <charseq START="692" END="700">Posterous</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E11-M5208">
+          <extent>
+              <charseq START="5405" END="5413">Posterous</charseq>
+          </extent>
+          <head>
+              <charseq START="5405" END="5413">Posterous</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E11-M5209">
+          <extent>
+              <charseq START="5416" END="5444">another free blogging service</charseq>
+          </extent>
+          <head>
+              <charseq START="5438" END="5444">service</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E11-M5800">
+          <extent>
+              <charseq START="5896" END="5904">Posterous</charseq>
+          </extent>
+          <head>
+              <charseq START="5896" END="5904">Posterous</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E11-M6104">
+          <extent>
+              <charseq START="6172" END="6180">Posterous</charseq>
+          </extent>
+          <head>
+              <charseq START="6172" END="6180">Posterous</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E11-M6105">
+          <extent>
+              <charseq START="6186" END="6187">it</charseq>
+          </extent>
+          <head>
+              <charseq START="6186" END="6187">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E11-M6208">
+          <extent>
+              <charseq START="6323" END="6331">Posterous</charseq>
+          </extent>
+          <head>
+              <charseq START="6323" END="6331">Posterous</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E11-M6402">
+          <extent>
+              <charseq START="6495" END="6503">Posterous</charseq>
+          </extent>
+          <head>
+              <charseq START="6495" END="6503">Posterous</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Posterous">
+              <charseq START="692" END="700">Posterous</charseq>
+          </name>
+          <name NAME="Posterous">
+              <charseq START="5405" END="5413">Posterous</charseq>
+          </name>
+          <name NAME="Posterous">
+              <charseq START="5896" END="5904">Posterous</charseq>
+          </name>
+          <name NAME="Posterous">
+              <charseq START="6172" END="6180">Posterous</charseq>
+          </name>
+          <name NAME="Posterous">
+              <charseq START="6323" END="6331">Posterous</charseq>
+          </name>
+          <name NAME="Posterous">
+              <charseq START="6495" END="6503">Posterous</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E12-M804">
+          <extent>
+              <charseq START="857" END="887">140 characters of text per post</charseq>
+          </extent>
+          <head>
+              <charseq START="861" END="870">characters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E12-M800">
+          <extent>
+              <charseq START="824" END="827">they</charseq>
+          </extent>
+          <head>
+              <charseq START="824" END="827">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E13-M816">
+          <extent>
+              <charseq START="937" END="947">other users</charseq>
+          </extent>
+          <head>
+              <charseq START="943" END="947">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E13-M1005">
+          <extent>
+              <charseq START="1059" END="1063">users</charseq>
+          </extent>
+          <head>
+              <charseq START="1059" END="1063">users</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E15-M1007">
+          <extent>
+              <charseq START="1074" END="1085">Robert Reich</charseq>
+          </extent>
+          <head>
+              <charseq START="1074" END="1085">Robert Reich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E15-M1008">
+          <extent>
+              <charseq START="1088" END="1185">the
+former labor secretary who is now a professor of public policy at
+the University of California</charseq>
+          </extent>
+          <head>
+              <charseq START="1105" END="1113">secretary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E15-M1012">
+          <extent>
+              <charseq START="1126" END="1185">a professor of public policy at
+the University of California</charseq>
+          </extent>
+          <head>
+              <charseq START="1128" END="1136">professor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E15-M1011">
+          <extent>
+              <charseq START="1115" END="1117">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1115" END="1117">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E15-M1102">
+          <extent>
+              <charseq START="1257" END="1261">Reich</charseq>
+          </extent>
+          <head>
+              <charseq START="1257" END="1261">Reich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E15-M1200">
+          <extent>
+              <charseq START="1282" END="1284">His</charseq>
+          </extent>
+          <head>
+              <charseq START="1282" END="1284">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E15-M1402">
+          <extent>
+              <charseq START="1522" END="1554">a
+34-year-old resident of Hoboken</charseq>
+          </extent>
+          <head>
+              <charseq START="1536" END="1543">resident</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E15-M1416">
+          <extent>
+              <charseq START="1645" END="1646">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1645" END="1646">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert Reich">
+              <charseq START="1074" END="1085">Robert Reich</charseq>
+          </name>
+          <name NAME="Reich">
+              <charseq START="1257" END="1261">Reich</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E16" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E16-M1015">
+          <extent>
+              <charseq START="1158" END="1185">the University of California</charseq>
+          </extent>
+          <head>
+              <charseq START="1162" END="1185">University of California</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University of California">
+              <charseq START="1162" END="1185">University of California</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E17-M1017" ROLE="LOC">
+          <extent>
+              <charseq START="1188" END="1195">Berkeley</charseq>
+          </extent>
+          <head>
+              <charseq START="1188" END="1195">Berkeley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Berkeley">
+              <charseq START="1188" END="1195">Berkeley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E18-M1000">
+          <extent>
+              <charseq START="1030" END="1063">Tumblr&apos;s ad hoc community of users</charseq>
+          </extent>
+          <head>
+              <charseq START="1046" END="1054">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E19-M1303">
+          <extent>
+              <charseq START="1432" END="1446">Anthony De Rosa</charseq>
+          </extent>
+          <head>
+              <charseq START="1432" END="1446">Anthony De Rosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E19-M1300">
+          <extent>
+              <charseq START="1399" END="1427">the undisputed king of Tumblr</charseq>
+          </extent>
+          <head>
+              <charseq START="1414" END="1417">king</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E19-M1304">
+          <extent>
+              <charseq START="1449" END="1451">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1449" END="1451">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E19-M1307">
+          <extent>
+              <charseq START="1494" END="1496">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1494" END="1496">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E19-M1401">
+          <extent>
+              <charseq START="1513" END="1519">De Rosa</charseq>
+          </extent>
+          <head>
+              <charseq START="1513" END="1519">De Rosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E19-M1900">
+          <extent>
+              <charseq START="1879" END="1885">De Rosa</charseq>
+          </extent>
+          <head>
+              <charseq START="1879" END="1885">De Rosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E19-M1902">
+          <extent>
+              <charseq START="1915" END="1916">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1915" END="1916">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E19-M1906">
+          <extent>
+              <charseq START="1948" END="1949">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1948" END="1949">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E19-M1918">
+          <extent>
+              <charseq START="2006" END="2008">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2006" END="2008">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E19-M2016">
+          <extent>
+              <charseq START="2170" END="2171">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2170" END="2171">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E19-M6609">
+          <extent>
+              <charseq START="6803" END="6809">De
+Rosa</charseq>
+          </extent>
+          <head>
+              <charseq START="6803" END="6809">De
+Rosa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E19-M6611">
+          <extent>
+              <charseq START="6836" END="6838">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6836" END="6838">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anthony De Rosa">
+              <charseq START="1432" END="1446">Anthony De Rosa</charseq>
+          </name>
+          <name NAME="De Rosa">
+              <charseq START="1513" END="1519">De Rosa</charseq>
+          </name>
+          <name NAME="De Rosa">
+              <charseq START="1879" END="1885">De Rosa</charseq>
+          </name>
+          <name NAME="De
+Rosa">
+              <charseq START="6803" END="6809">De
+Rosa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E20-M1305">
+          <extent>
+              <charseq START="1467" END="1489">nearly 11,000 followers</charseq>
+          </extent>
+          <head>
+              <charseq START="1481" END="1489">followers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E21-M1404" ROLE="GPE">
+          <extent>
+              <charseq START="1548" END="1554">Hoboken</charseq>
+          </extent>
+          <head>
+              <charseq START="1548" END="1554">Hoboken</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hoboken">
+              <charseq START="1548" END="1554">Hoboken</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E22-M1405" ROLE="LOC">
+          <extent>
+              <charseq START="1557" END="1560">N.J.</charseq>
+          </extent>
+          <head>
+              <charseq START="1557" END="1560">N.J.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="N.J.">
+              <charseq START="1557" END="1560">N.J.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E23-M1411">
+          <extent>
+              <charseq START="1600" END="1611">other people</charseq>
+          </extent>
+          <head>
+              <charseq START="1606" END="1611">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E24-M1503">
+          <extent>
+              <charseq START="1680" END="1688">Lady Gaga</charseq>
+          </extent>
+          <head>
+              <charseq START="1680" END="1688">Lady Gaga</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lady Gaga">
+              <charseq START="1680" END="1688">Lady Gaga</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E25-M1802">
+          <extent>
+              <charseq START="1813" END="1827">Stephen Colbert</charseq>
+          </extent>
+          <head>
+              <charseq START="1813" END="1827">Stephen Colbert</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stephen Colbert">
+              <charseq START="1813" END="1827">Stephen Colbert</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E26-M2003">
+          <extent>
+              <charseq START="2071" END="2082">other people</charseq>
+          </extent>
+          <head>
+              <charseq START="2077" END="2082">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E26-M2010">
+          <extent>
+              <charseq START="2119" END="2123">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2119" END="2123">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E26-M2105">
+          <extent>
+              <charseq START="2256" END="2259">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2256" END="2259">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E27-M2212">
+          <extent>
+              <charseq START="2421" END="2430">WordPress,</charseq>
+          </extent>
+          <head>
+              <charseq START="2421" END="2429">WordPress</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WordPress">
+              <charseq START="2421" END="2429">WordPress</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E28-M2210">
+          <extent>
+              <charseq START="2399" END="2430">other platforms,
+like WordPress,</charseq>
+          </extent>
+          <head>
+              <charseq START="2405" END="2413">platforms</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E29" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E29-M2301">
+          <extent>
+              <charseq START="2490" END="2498">Newsweek,</charseq>
+          </extent>
+          <head>
+              <charseq START="2490" END="2497">Newsweek</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Newsweek">
+              <charseq START="2490" END="2497">Newsweek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E30-M2303">
+          <extent>
+              <charseq START="2500" END="2524">The Atlantic and
+Politico</charseq>
+          </extent>
+          <head>
+              <charseq START="2500" END="2524">The Atlantic and
+Politico</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E30-M2305">
+          <extent>
+              <charseq START="2538" END="2542">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2538" END="2542">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E30-M4700">
+          <extent>
+              <charseq START="4836" END="4847">The Atlantic</charseq>
+          </extent>
+          <head>
+              <charseq START="4840" END="4847">Atlantic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E30-M4704">
+          <extent>
+              <charseq START="4858" END="4860">its</charseq>
+          </extent>
+          <head>
+              <charseq START="4858" END="4860">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Atlantic and
+Politico">
+              <charseq START="2500" END="2524">The Atlantic and
+Politico</charseq>
+          </name>
+          <name NAME="Atlantic">
+              <charseq START="4840" END="4847">Atlantic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E31-M2603">
+          <extent>
+              <charseq START="2694" END="2703">Tumblr.com</charseq>
+          </extent>
+          <head>
+              <charseq START="2694" END="2703">Tumblr.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tumblr.com">
+              <charseq START="2694" END="2703">Tumblr.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E32-M2909">
+          <extent>
+              <charseq START="3065" END="3087">some other Tumblr users</charseq>
+          </extent>
+          <head>
+              <charseq START="3083" END="3087">users</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E33-M3106">
+          <extent>
+              <charseq START="3226" END="3237">Fisher-Price</charseq>
+          </extent>
+          <head>
+              <charseq START="3226" END="3237">Fisher-Price</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fisher-Price">
+              <charseq START="3226" END="3237">Fisher-Price</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E34-M3808">
+          <extent>
+              <charseq START="3893" END="3898">Reblog</charseq>
+          </extent>
+          <head>
+              <charseq START="3893" END="3898">Reblog</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reblog">
+              <charseq START="3893" END="3898">Reblog</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E35-M3804">
+          <extent>
+              <charseq START="3863" END="3874">someone else</charseq>
+          </extent>
+          <head>
+              <charseq START="3863" END="3869">someone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E36-M4002">
+          <extent>
+              <charseq START="4128" END="4140">John Maloney,</charseq>
+          </extent>
+          <head>
+              <charseq START="4128" END="4139">John Maloney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Maloney">
+              <charseq START="4128" END="4139">John Maloney</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E37-M4000">
+          <extent>
+              <charseq START="4108" END="4125">Tumblr&apos;s president</charseq>
+          </extent>
+          <head>
+              <charseq START="4117" END="4125">president</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E38-M4010">
+          <extent>
+              <charseq START="4195" END="4200">people</charseq>
+          </extent>
+          <head>
+              <charseq START="4195" END="4200">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E38-M4015">
+          <extent>
+              <charseq START="4241" END="4244">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4241" END="4244">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E39-M4705">
+          <extent>
+              <charseq START="4906" END="4913">everyone</charseq>
+          </extent>
+          <head>
+              <charseq START="4906" END="4913">everyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E40-M4803">
+          <extent>
+              <charseq START="4966" END="4973">Scaffold</charseq>
+          </extent>
+          <head>
+              <charseq START="4966" END="4973">Scaffold</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E40-M4900">
+          <extent>
+              <charseq START="5052" END="5059">Scaffold</charseq>
+          </extent>
+          <head>
+              <charseq START="5052" END="5059">Scaffold</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scaffold">
+              <charseq START="4966" END="4973">Scaffold</charseq>
+          </name>
+          <name NAME="Scaffold">
+              <charseq START="5052" END="5059">Scaffold</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E41-M4906">
+          <extent>
+              <charseq START="5106" END="5119">Purchase
+Theme</charseq>
+          </extent>
+          <head>
+              <charseq START="5106" END="5119">Purchase
+Theme</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Purchase
+Theme">
+              <charseq START="5106" END="5119">Purchase
+Theme</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E42" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E42-M4901">
+          <extent>
+              <charseq START="5064" END="5072">your site</charseq>
+          </extent>
+          <head>
+              <charseq START="5069" END="5072">site</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E43-M5106">
+          <extent>
+              <charseq START="5290" END="5306">your own designer</charseq>
+          </extent>
+          <head>
+              <charseq START="5299" END="5306">designer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E44" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E44-M6004">
+          <extent>
+              <charseq START="6076" END="6089">FunnyOrDie.com</charseq>
+          </extent>
+          <head>
+              <charseq START="6076" END="6089">FunnyOrDie.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FunnyOrDie.com">
+              <charseq START="6076" END="6089">FunnyOrDie.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E45-M6007">
+          <extent>
+              <charseq START="6112" END="6117">Scribd</charseq>
+          </extent>
+          <head>
+              <charseq START="6112" END="6117">Scribd</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scribd">
+              <charseq START="6112" END="6117">Scribd</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E46-M6009">
+          <extent>
+              <charseq START="6135" END="6140">Google</charseq>
+          </extent>
+          <head>
+              <charseq START="6135" END="6140">Google</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Google">
+              <charseq START="6135" END="6140">Google</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E47-M6306">
+          <extent>
+              <charseq START="6388" END="6394">friends</charseq>
+          </extent>
+          <head>
+              <charseq START="6388" END="6394">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E48-M6307">
+          <extent>
+              <charseq START="6400" END="6405">family</charseq>
+          </extent>
+          <head>
+              <charseq START="6400" END="6405">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E49" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E49-M6409">
+          <extent>
+              <charseq START="6560" END="6567">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="6560" END="6567">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Facebook">
+              <charseq START="6560" END="6567">Facebook</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E50-M6410">
+          <extent>
+              <charseq START="6573" END="6626">other social networks with a
+little configuration work</charseq>
+          </extent>
+          <head>
+              <charseq START="6586" END="6593">networks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E51-M6505">
+          <extent>
+              <charseq START="6699" END="6707">strangers</charseq>
+          </extent>
+          <head>
+              <charseq START="6699" END="6707">strangers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E53-M6601">
+          <extent>
+              <charseq START="6710" END="6720">Brian Solis</charseq>
+          </extent>
+          <head>
+              <charseq START="6710" END="6720">Brian Solis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101013.0100-E53-M6602">
+          <extent>
+              <charseq START="6723" END="6757">a social media
+marketing consultant</charseq>
+          </extent>
+          <head>
+              <charseq START="6748" END="6757">consultant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101013.0100-E53-M6702">
+          <extent>
+              <charseq START="6900" END="6901">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6900" END="6901">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brian Solis">
+              <charseq START="6710" END="6720">Brian Solis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101013.0100-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101013.0100-E54-M6606">
+          <extent>
+              <charseq START="6770" END="6777">SoupSoup</charseq>
+          </extent>
+          <head>
+              <charseq START="6770" END="6777">SoupSoup</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SoupSoup">
+              <charseq START="6770" END="6777">SoupSoup</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20101013.0100-T0" VAL="2010-09" MOD="MID">
+        <timex2_mention ID="NYT_ENG_20101013.0100-T0-M1">
+            <extent>
+              <charseq START="249" END="261">mid-September</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101013.0100-T1" VAL="P1D">
+        <timex2_mention ID="NYT_ENG_20101013.0100-T1-M1">
+            <extent>
+              <charseq START="501" END="505">a day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101013.0100-T2" VAL="PAST_REF" ANCHOR_VAL="2010-10-13" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20101013.0100-T2-M1">
+            <extent>
+              <charseq START="1092" END="1097">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101013.0100-T3" VAL="PRESENT_REF" ANCHOR_VAL="2010-10-13" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20101013.0100-T3-M1">
+            <extent>
+              <charseq START="1122" END="1124">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20101013.0100-V4" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20101013.0100-V4-M1">
+            <extent>
+              <charseq START="1295" END="1309">robertreich.org</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20101013.0100-T5" VAL="P34Y">
+        <timex2_mention ID="NYT_ENG_20101013.0100-T5-M1">
+            <extent>
+              <charseq START="1524" END="1534">34-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101013.0100-T6" VAL="2007">
+        <timex2_mention ID="NYT_ENG_20101013.0100-T6-M1">
+            <extent>
+              <charseq START="1942" END="1945">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20101013.0100-V7" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20101013.0100-V7-M1">
+            <extent>
+              <charseq START="2694" END="2703">Tumblr.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20101013.0100-V8" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20101013.0100-V8-M1">
+            <extent>
+              <charseq START="2821" END="2837">jhnmyr.tumblr.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20101013.0100-V9" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20101013.0100-V9-M1">
+            <extent>
+              <charseq START="5032" END="5033">$9</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20101013.0100-V10" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20101013.0100-V10-M1">
+            <extent>
+              <charseq START="5038" END="5040">$49</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20101013.0100-V11" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20101013.0100-V11-M1">
+            <extent>
+              <charseq START="5238" END="5239">$9</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20101013.0100-V12" TYPE="Contact-Info" SUBTYPE="E-Mail">
+        <value_mention ID="NYT_ENG_20101013.0100-V12-M1">
+            <extent>
+              <charseq START="5475" END="5492">post@posterous.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20101013.0100-V13" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20101013.0100-V13-M1">
+            <extent>
+              <charseq START="6076" END="6089">FunnyOrDie.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="NYT_ENG_20101013.0100-R0" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101013.0100-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101013.0100-E9" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101013.0100-R0-M500">
+          <extent>
+              <charseq START="562" END="564">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E1-M506" ROLE="Arg-1">
+            <extent>
+              <charseq START="562" END="564">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E9-M505" ROLE="Arg-2">
+            <extent>
+              <charseq START="556" END="576">upset his girlfriends</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101013.0100-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101013.0100-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101013.0100-E16" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101013.0100-R1-M1000">
+          <extent>
+              <charseq START="1126" END="1185">a professor of public policy at
+the University of California</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E15-M1012" ROLE="Arg-1">
+            <extent>
+              <charseq START="1126" END="1185">a professor of public policy at
+the University of California</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E16-M1015" ROLE="Arg-2">
+            <extent>
+              <charseq START="1158" END="1185">the University of California</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101013.0100-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101013.0100-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101013.0100-E5" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101013.0100-R2-M1300">
+          <extent>
+              <charseq START="1399" END="1427">the undisputed king of Tumblr</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E19-M1300" ROLE="Arg-1">
+            <extent>
+              <charseq START="1399" END="1427">the undisputed king of Tumblr</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E5-M1302" ROLE="Arg-2">
+            <extent>
+              <charseq START="1422" END="1427">Tumblr</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101013.0100-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101013.0100-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101013.0100-E21" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101013.0100-R3-M1400">
+          <extent>
+              <charseq START="1522" END="1554">a
+34-year-old resident of Hoboken</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E15-M1402" ROLE="Arg-1">
+            <extent>
+              <charseq START="1522" END="1554">a
+34-year-old resident of Hoboken</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E21-M1404" ROLE="Arg-2">
+            <extent>
+              <charseq START="1548" END="1554">Hoboken</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101013.0100-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101013.0100-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101013.0100-E22" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101013.0100-R4-M1401">
+          <extent>
+              <charseq START="1548" END="1554">Hoboken</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E21-M1404" ROLE="Arg-1">
+            <extent>
+              <charseq START="1548" END="1554">Hoboken</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E22-M1405" ROLE="Arg-2">
+            <extent>
+              <charseq START="1557" END="1560">N.J.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101013.0100-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101013.0100-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101013.0100-E5" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101013.0100-R5-M4000">
+          <extent>
+              <charseq START="4108" END="4125">Tumblr&apos;s president</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E37-M4000" ROLE="Arg-1">
+            <extent>
+              <charseq START="4108" END="4125">Tumblr&apos;s president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101013.0100-E5-M4001" ROLE="Arg-2">
+            <extent>
+              <charseq START="4108" END="4113">Tumblr</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="3e6c7121211de578d7fd831eae801438.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-841" length="4" offset="190">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-234" length="7" offset="85">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-853" length="16" offset="409">
+        <text>a strong militia</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" length="7" offset="14">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-937" length="42" offset="2422">
+        <text>armed bodies outside their regulatory code</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-258" length="7" offset="2305">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-988" length="12" offset="2894">
+        <text>armed bodies</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-264" length="7" offset="2651">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-474" length="5" offset="4311">
+        <text>their</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="7" offset="3853">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-480" length="13" offset="4472">
+        <text>Supreme Court</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="7" offset="3853">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-150" length="4" offset="4984">
+        <text>your</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-336" length="7" offset="4729">parados</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1148" length="6" offset="5012">
+        <text>A fool</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-336" length="7" offset="4729">parados</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-150" length="4" offset="4984">
+        <text>your</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-342" length="7" offset="5229">parados</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1148" length="6" offset="5012">
+        <text>A fool</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-342" length="7" offset="5229">parados</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1163" length="6" offset="5663">
+        <text>a fool</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-168" length="7" offset="5158">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1169" length="8" offset="5754">
+        <text>The fool</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-348" length="7" offset="5703">parados</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

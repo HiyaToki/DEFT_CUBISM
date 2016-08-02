@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100114.0237">
+  <document DOCID="XIN_ENG_20100114.0237">
+
+    <entity ID="XIN_ENG_20100114.0237-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E0-M0">
+          <extent>
+              <charseq START="58" END="63">Disney</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">Disney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E0-M406">
+          <extent>
+              <charseq START="373" END="378">Disney</charseq>
+          </extent>
+          <head>
+              <charseq START="373" END="378">Disney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E0-M613">
+          <extent>
+              <charseq START="690" END="695">Disney</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="695">Disney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E0-M706">
+          <extent>
+              <charseq START="806" END="811">Disney</charseq>
+          </extent>
+          <head>
+              <charseq START="806" END="811">Disney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E0-M812">
+          <extent>
+              <charseq START="1054" END="1073">Walt Disney Pictures</charseq>
+          </extent>
+          <head>
+              <charseq START="1054" END="1073">Walt Disney Pictures</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E0-M1112">
+          <extent>
+              <charseq START="1635" END="1640">Disney</charseq>
+          </extent>
+          <head>
+              <charseq START="1635" END="1640">Disney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E0-M1309">
+          <extent>
+              <charseq START="1809" END="1814">Disney</charseq>
+          </extent>
+          <head>
+              <charseq START="1809" END="1814">Disney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Disney">
+              <charseq START="58" END="63">Disney</charseq>
+          </name>
+          <name NAME="Disney">
+              <charseq START="373" END="378">Disney</charseq>
+          </name>
+          <name NAME="Disney">
+              <charseq START="690" END="695">Disney</charseq>
+          </name>
+          <name NAME="Disney">
+              <charseq START="806" END="811">Disney</charseq>
+          </name>
+          <name NAME="Walt Disney Pictures">
+              <charseq START="1054" END="1073">Walt Disney Pictures</charseq>
+          </name>
+          <name NAME="Disney">
+              <charseq START="1635" END="1640">Disney</charseq>
+          </name>
+          <name NAME="Disney">
+              <charseq START="1809" END="1814">Disney</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E1-M1">
+          <extent>
+              <charseq START="70" END="111">new president of motion picture production</charseq>
+          </extent>
+          <head>
+              <charseq START="74" END="82">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E1-M308">
+          <extent>
+              <charseq START="256" END="293">president of
+motion picture production</charseq>
+          </extent>
+          <head>
+              <charseq START="256" END="264">president</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E2-M101">
+          <extent>
+              <charseq START="136" END="146">LOS ANGELES</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="146">LOS ANGELES</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LOS ANGELES">
+              <charseq START="136" END="146">LOS ANGELES</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E3-M200">
+          <extent>
+              <charseq START="158" END="163">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="163">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="158" END="163">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E4-M300">
+          <extent>
+              <charseq START="189" END="219">The Walt Disney Co. on Thursday</charseq>
+          </extent>
+          <head>
+              <charseq START="193" END="207">Walt Disney Co.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E4-M502">
+          <extent>
+              <charseq START="436" END="475">a company with the history and tradition</charseq>
+          </extent>
+          <head>
+              <charseq START="438" END="444">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E4-M712">
+          <extent>
+              <charseq START="921" END="931">the
+company</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="931">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E4-M904">
+          <extent>
+              <charseq START="1149" END="1159">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="1153" END="1159">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Walt Disney Co.">
+              <charseq START="193" END="207">Walt Disney Co.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E5-M304">
+          <extent>
+              <charseq START="227" END="251">film producer Sean Bailey</charseq>
+          </extent>
+          <head>
+              <charseq START="241" END="251">Sean Bailey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E5-M306">
+          <extent>
+              <charseq START="232" END="239">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="232" END="239">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E5-M509">
+          <extent>
+              <charseq START="506" END="511">Bailey</charseq>
+          </extent>
+          <head>
+              <charseq START="506" END="511">Bailey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E5-M700">
+          <extent>
+              <charseq START="767" END="772">Bailey</charseq>
+          </extent>
+          <head>
+              <charseq START="767" END="772">Bailey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E5-M803">
+          <extent>
+              <charseq START="983" END="988">Bailey</charseq>
+          </extent>
+          <head>
+              <charseq START="983" END="988">Bailey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E5-M800">
+          <extent>
+              <charseq START="963" END="980">head of production</charseq>
+          </extent>
+          <head>
+              <charseq START="963" END="966">head</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E5-M905">
+          <extent>
+              <charseq START="1162" END="1165">Sean</charseq>
+          </extent>
+          <head>
+              <charseq START="1162" END="1165">Sean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E5-M1101">
+          <extent>
+              <charseq START="1507" END="1510">Sean</charseq>
+          </extent>
+          <head>
+              <charseq START="1507" END="1510">Sean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E5-M1200">
+          <extent>
+              <charseq START="1714" END="1719">Bailey</charseq>
+          </extent>
+          <head>
+              <charseq START="1714" END="1719">Bailey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sean Bailey">
+              <charseq START="241" END="251">Sean Bailey</charseq>
+          </name>
+          <name NAME="Bailey">
+              <charseq START="506" END="511">Bailey</charseq>
+          </name>
+          <name NAME="Bailey">
+              <charseq START="767" END="772">Bailey</charseq>
+          </name>
+          <name NAME="Bailey">
+              <charseq START="983" END="988">Bailey</charseq>
+          </name>
+          <name NAME="Sean">
+              <charseq START="1162" END="1165">Sean</charseq>
+          </name>
+          <name NAME="Sean">
+              <charseq START="1507" END="1510">Sean</charseq>
+          </name>
+          <name NAME="Bailey">
+              <charseq START="1714" END="1719">Bailey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E6-M507">
+          <extent>
+              <charseq START="480" END="502">The Walt Disney Studios</charseq>
+          </extent>
+          <head>
+              <charseq START="484" END="502">Walt Disney Studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E6-M604">
+          <extent>
+              <charseq START="551" END="561">the
+studios</charseq>
+          </extent>
+          <head>
+              <charseq START="555" END="561">studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E6-M913">
+          <extent>
+              <charseq START="1257" END="1279">The Walt
+Disney Studios</charseq>
+          </extent>
+          <head>
+              <charseq START="1261" END="1279">Walt
+Disney Studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E6-M919">
+          <extent>
+              <charseq START="1311" END="1329">Walt Disney Studios</charseq>
+          </extent>
+          <head>
+              <charseq START="1311" END="1329">Walt Disney Studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E6-M1506">
+          <extent>
+              <charseq START="2045" END="2063">Walt Disney Studios</charseq>
+          </extent>
+          <head>
+              <charseq START="2045" END="2063">Walt Disney Studios</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Walt Disney Studios">
+              <charseq START="484" END="502">Walt Disney Studios</charseq>
+          </name>
+          <name NAME="Walt
+Disney Studios">
+              <charseq START="1261" END="1279">Walt
+Disney Studios</charseq>
+          </name>
+          <name NAME="Walt Disney Studios">
+              <charseq START="1311" END="1329">Walt Disney Studios</charseq>
+          </name>
+          <name NAME="Walt Disney Studios">
+              <charseq START="2045" END="2063">Walt Disney Studios</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E8-M605">
+          <extent>
+              <charseq START="584" END="602">talented filmmakers</charseq>
+          </extent>
+          <head>
+              <charseq START="593" END="602">filmmakers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E9-M618">
+          <extent>
+              <charseq START="735" END="754">our global audiences</charseq>
+          </extent>
+          <head>
+              <charseq START="746" END="754">audiences</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E11-M701">
+          <extent>
+              <charseq START="787" END="888">Oren Aviv, who was Disney&apos;s production chief for almost four
+years but stepped down earlier this week,</charseq>
+          </extent>
+          <head>
+              <charseq START="787" END="795">Oren Aviv</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100114.0237-E11-M703">
+          <extent>
+              <charseq START="798" END="800">who</charseq>
+          </extent>
+          <head>
+              <charseq START="798" END="800">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oren Aviv">
+              <charseq START="787" END="795">Oren Aviv</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E12-M711">
+          <extent>
+              <charseq START="921" END="948">the
+company&apos;s top management</charseq>
+          </extent>
+          <head>
+              <charseq START="939" END="948">management</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E13-M813">
+          <extent>
+              <charseq START="1079" END="1097">Touchstone Pictures</charseq>
+          </extent>
+          <head>
+              <charseq START="1079" END="1097">Touchstone Pictures</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Touchstone Pictures">
+              <charseq START="1079" END="1097">Touchstone Pictures</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E14-M916">
+          <extent>
+              <charseq START="1288" END="1296">Rich Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="1288" END="1296">Rich Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E14-M917">
+          <extent>
+              <charseq START="1299" END="1329">chairman of Walt Disney Studios</charseq>
+          </extent>
+          <head>
+              <charseq START="1299" END="1306">chairman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100114.0237-E14-M912">
+          <extent>
+              <charseq START="1241" END="1243">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1241" END="1243">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E14-M1008">
+          <extent>
+              <charseq START="1431" END="1494">an ideal leader to set the direction of TWDS&apos; future film slates</charseq>
+          </extent>
+          <head>
+              <charseq START="1440" END="1445">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100114.0237-E14-M1000">
+          <extent>
+              <charseq START="1342" END="1344">His</charseq>
+          </extent>
+          <head>
+              <charseq START="1342" END="1344">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100114.0237-E14-M1006">
+          <extent>
+              <charseq START="1427" END="1429">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1427" END="1429">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E14-M1116">
+          <extent>
+              <charseq START="1694" END="1697">Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="1694" END="1697">Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100114.0237-E14-M1400">
+          <extent>
+              <charseq START="1845" END="1846">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1845" END="1846">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E14-M1500">
+          <extent>
+              <charseq START="1994" END="1997">Ross</charseq>
+          </extent>
+          <head>
+              <charseq START="1994" END="1997">Ross</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rich Ross">
+              <charseq START="1288" END="1296">Rich Ross</charseq>
+          </name>
+          <name NAME="Ross">
+              <charseq START="1694" END="1697">Ross</charseq>
+          </name>
+          <name NAME="Ross">
+              <charseq START="1994" END="1997">Ross</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E15-M900">
+          <extent>
+              <charseq START="1110" END="1159">Building upon a strong foundation with the company</charseq>
+          </extent>
+          <head>
+              <charseq START="1110" END="1117">Building</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E16-M1004">
+          <extent>
+              <charseq START="1377" END="1398">the creative community</charseq>
+          </extent>
+          <head>
+              <charseq START="1390" END="1398">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E17-M1005">
+          <extent>
+              <charseq START="1404" END="1411">industry</charseq>
+          </extent>
+          <head>
+              <charseq START="1404" END="1411">industry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E18-M1301">
+          <extent>
+              <charseq START="1748" END="1761">atchstick Men&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1758" END="1760">Men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E19-M1403">
+          <extent>
+              <charseq START="1860" END="1872">Idealogy Inc.</charseq>
+          </extent>
+          <head>
+              <charseq START="1860" END="1872">Idealogy Inc.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E19-M1402">
+          <extent>
+              <charseq START="1856" END="1891">the Idealogy Inc. production company</charseq>
+          </extent>
+          <head>
+              <charseq START="1885" END="1891">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E19-M1405">
+          <extent>
+              <charseq START="1908" END="1937">the LivePlanet
+production firm</charseq>
+          </extent>
+          <head>
+              <charseq START="1934" END="1937">firm</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Idealogy Inc.">
+              <charseq START="1860" END="1872">Idealogy Inc.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E20-M1406" ROLE="GPE">
+          <extent>
+              <charseq START="1912" END="1921">LivePlanet</charseq>
+          </extent>
+          <head>
+              <charseq START="1912" END="1921">LivePlanet</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LivePlanet">
+              <charseq START="1912" END="1921">LivePlanet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E21-M1409">
+          <extent>
+              <charseq START="1944" END="1954">Ben Affleck</charseq>
+          </extent>
+          <head>
+              <charseq START="1944" END="1954">Ben Affleck</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ben Affleck">
+              <charseq START="1944" END="1954">Ben Affleck</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E22-M1410">
+          <extent>
+              <charseq START="1957" END="1966">Matt Damon</charseq>
+          </extent>
+          <head>
+              <charseq START="1957" END="1966">Matt Damon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Matt Damon">
+              <charseq START="1957" END="1966">Matt Damon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E23-M1411">
+          <extent>
+              <charseq START="1972" END="1982">Chris Moore</charseq>
+          </extent>
+          <head>
+              <charseq START="1972" END="1982">Chris Moore</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chris Moore">
+              <charseq START="1972" END="1982">Chris Moore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100114.0237-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100114.0237-E24-M1502">
+          <extent>
+              <charseq START="2019" END="2029">Chuck Viane</charseq>
+          </extent>
+          <head>
+              <charseq START="2019" END="2029">Chuck Viane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100114.0237-E24-M1503">
+          <extent>
+              <charseq START="2032" END="2076">president of Walt Disney Studios
+distribution</charseq>
+          </extent>
+          <head>
+              <charseq START="2032" END="2040">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chuck Viane">
+              <charseq START="2019" END="2029">Chuck Viane</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100114.0237-T0" VAL="2010-01-14">
+        <timex2_mention ID="XIN_ENG_20100114.0237-T0-M1">
+            <extent>
+              <charseq START="149" END="155">Jan. 14</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100114.0237-T1" VAL="2010-01-14">
+        <timex2_mention ID="XIN_ENG_20100114.0237-T1-M1">
+            <extent>
+              <charseq START="212" END="219">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100114.0237-T2" VAL="P4Y" MOD="LESS_THAN">
+        <timex2_mention ID="XIN_ENG_20100114.0237-T2-M1">
+            <extent>
+              <charseq START="836" END="852">almost four
+years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100114.0237-T3" VAL="2010-W03">
+        <timex2_mention ID="XIN_ENG_20100114.0237-T3-M1">
+            <extent>
+              <charseq START="871" END="887">earlier this week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100114.0237-T4" VAL="FUTURE_REF" ANCHOR_VAL="2010-01-14" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="XIN_ENG_20100114.0237-T4-M1">
+            <extent>
+              <charseq START="1477" END="1482">future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100114.0237-T5" VAL="PRESENT_REF" ANCHOR_VAL="2010-01-14" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20100114.0237-T5-M1">
+            <extent>
+              <charseq START="2084" END="2086">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100114.0237-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100114.0237-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100114.0237-E4" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100114.0237-R0-M700">
+          <extent>
+              <charseq START="921" END="948">the
+company&apos;s top management</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E12-M711" ROLE="Arg-1">
+            <extent>
+              <charseq START="921" END="948">the
+company&apos;s top management</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E4-M712" ROLE="Arg-2">
+            <extent>
+              <charseq START="921" END="931">the
+company</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100114.0237-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100114.0237-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100114.0237-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100114.0237-R1-M900">
+          <extent>
+              <charseq START="1299" END="1329">chairman of Walt Disney Studios</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E14-M917" ROLE="Arg-1">
+            <extent>
+              <charseq START="1299" END="1329">chairman of Walt Disney Studios</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E6-M919" ROLE="Arg-2">
+            <extent>
+              <charseq START="1311" END="1329">Walt Disney Studios</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100114.0237-R2" TYPE="ORG-AFF" SUBTYPE="Founder" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100114.0237-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100114.0237-E19" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100114.0237-R2-M1400">
+          <extent>
+              <charseq START="1845" END="1846">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E14-M1400" ROLE="Arg-1">
+            <extent>
+              <charseq START="1845" END="1846">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E19-M1402" ROLE="Arg-2">
+            <extent>
+              <charseq START="1856" END="1891">the Idealogy Inc. production company</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100114.0237-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100114.0237-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100114.0237-E20" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100114.0237-R3-M1401">
+          <extent>
+              <charseq START="1908" END="1937">the LivePlanet
+production firm</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E19-M1405" ROLE="Arg-1">
+            <extent>
+              <charseq START="1908" END="1937">the LivePlanet
+production firm</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E20-M1406" ROLE="Arg-2">
+            <extent>
+              <charseq START="1912" END="1921">LivePlanet</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100114.0237-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100114.0237-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100114.0237-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100114.0237-R4-M1500">
+          <extent>
+              <charseq START="2032" END="2076">president of Walt Disney Studios
+distribution</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E24-M1503" ROLE="Arg-1">
+            <extent>
+              <charseq START="2032" END="2076">president of Walt Disney Studios
+distribution</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100114.0237-E6-M1506" ROLE="Arg-2">
+            <extent>
+              <charseq START="2045" END="2063">Walt Disney Studios</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,800 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20090904.0110">
+  <document DOCID="NYT_ENG_20090904.0110">
+
+    <entity ID="NYT_ENG_20090904.0110-E0" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E0-M1">
+          <extent>
+              <charseq START="58" END="68">BUS FACTORY</charseq>
+          </extent>
+          <head>
+              <charseq START="62" END="68">FACTORY</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E0-M207">
+          <extent>
+              <charseq START="240" END="294">the New Flyer bus factory here a symbol of
+the stimulus</charseq>
+          </extent>
+          <head>
+              <charseq START="258" END="264">factory</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E0-M308">
+          <extent>
+              <charseq START="375" END="385">the factory</charseq>
+          </extent>
+          <head>
+              <charseq START="379" END="385">factory</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E0-M309">
+          <extent>
+              <charseq START="388" END="392">where</charseq>
+          </extent>
+          <head>
+              <charseq START="388" END="392">where</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E1" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E1-M2">
+          <extent>
+              <charseq START="58" END="60">BUS</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="60">BUS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E1-M210">
+          <extent>
+              <charseq START="254" END="256">bus</charseq>
+          </extent>
+          <head>
+              <charseq START="254" END="256">bus</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E2-M6">
+          <extent>
+              <charseq START="91" END="112">NOW LAYING OFF WORKERS</charseq>
+          </extent>
+          <head>
+              <charseq START="106" END="112">WORKERS</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E3-M100" ROLE="LOC">
+          <extent>
+              <charseq START="137" END="152">ST. CLOUD, Minn.</charseq>
+          </extent>
+          <head>
+              <charseq START="137" END="145">ST. CLOUD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E3-M1403" ROLE="LOC">
+          <extent>
+              <charseq START="2415" END="2423">St.
+Cloud</charseq>
+          </extent>
+          <head>
+              <charseq START="2415" END="2423">St.
+Cloud</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ST. CLOUD">
+              <charseq START="137" END="145">ST. CLOUD</charseq>
+          </name>
+          <name NAME="St.
+Cloud">
+              <charseq START="2415" END="2423">St.
+Cloud</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E4-M102" ROLE="LOC">
+          <extent>
+              <charseq START="148" END="151">Minn</charseq>
+          </extent>
+          <head>
+              <charseq START="148" END="151">Minn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Minn">
+              <charseq START="148" END="151">Minn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E5-M203">
+          <extent>
+              <charseq START="210" END="233">Vice
+President Joe Biden</charseq>
+          </extent>
+          <head>
+              <charseq START="225" END="233">Joe Biden</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E5-M205">
+          <extent>
+              <charseq START="215" END="223">President</charseq>
+          </extent>
+          <head>
+              <charseq START="215" END="223">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E5-M304">
+          <extent>
+              <charseq START="338" END="339">he</charseq>
+          </extent>
+          <head>
+              <charseq START="338" END="339">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E5-M310">
+          <extent>
+              <charseq START="394" END="395">he</charseq>
+          </extent>
+          <head>
+              <charseq START="394" END="395">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joe Biden">
+              <charseq START="225" END="233">Joe Biden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E6-M209">
+          <extent>
+              <charseq START="244" END="252">New Flyer</charseq>
+          </extent>
+          <head>
+              <charseq START="244" END="252">New Flyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E6-M211">
+          <extent>
+              <charseq START="266" END="269">here</charseq>
+          </extent>
+          <head>
+              <charseq START="266" END="269">here</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E6-M509">
+          <extent>
+              <charseq START="979" END="987">New Flyer</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="987">New Flyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E6-M703">
+          <extent>
+              <charseq START="1173" END="1181">New Flyer</charseq>
+          </extent>
+          <head>
+              <charseq START="1173" END="1181">New Flyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E6-M802">
+          <extent>
+              <charseq START="1279" END="1287">New Flyer</charseq>
+          </extent>
+          <head>
+              <charseq START="1279" END="1287">New Flyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Flyer">
+              <charseq START="244" END="252">New Flyer</charseq>
+          </name>
+          <name NAME="New Flyer">
+              <charseq START="979" END="987">New Flyer</charseq>
+          </name>
+          <name NAME="New Flyer">
+              <charseq START="1173" END="1181">New Flyer</charseq>
+          </name>
+          <name NAME="New Flyer">
+              <charseq START="1279" END="1287">New Flyer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E7-M302">
+          <extent>
+              <charseq START="310" END="316">Cabinet</charseq>
+          </extent>
+          <head>
+              <charseq START="310" END="316">Cabinet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E7-M312">
+          <extent>
+              <charseq START="405" END="415">the
+company</charseq>
+          </extent>
+          <head>
+              <charseq START="409" END="415">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E7-M316">
+          <extent>
+              <charseq START="461" END="462">it</charseq>
+          </extent>
+          <head>
+              <charseq START="461" END="462">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E7-M321">
+          <extent>
+              <charseq START="493" END="495">its</charseq>
+          </extent>
+          <head>
+              <charseq START="493" END="495">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E7-M401">
+          <extent>
+              <charseq START="617" END="627">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="627">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E7-M412">
+          <extent>
+              <charseq START="746" END="748">its</charseq>
+          </extent>
+          <head>
+              <charseq START="746" END="748">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cabinet">
+              <charseq START="310" END="316">Cabinet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E8-M300">
+          <extent>
+              <charseq START="302" END="335">several Cabinet secretaries in tow</charseq>
+          </extent>
+          <head>
+              <charseq START="318" END="328">secretaries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E9" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E9-M320">
+          <extent>
+              <charseq START="493" END="517">its hybrid electric buses</charseq>
+          </extent>
+          <head>
+              <charseq START="513" END="517">buses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E10-M402">
+          <extent>
+              <charseq START="634" END="657">administration officials</charseq>
+          </extent>
+          <head>
+              <charseq START="649" END="657">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E11-M403">
+          <extent>
+              <charseq START="634" END="647">administration</charseq>
+          </extent>
+          <head>
+              <charseq START="634" END="647">administration</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E12-M408">
+          <extent>
+              <charseq START="717" END="726">320 people</charseq>
+          </extent>
+          <head>
+              <charseq START="721" END="726">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E13-M500">
+          <extent>
+              <charseq START="882" END="910">The Chicago Transit Authority</charseq>
+          </extent>
+          <head>
+              <charseq START="886" END="910">Chicago Transit Authority</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E13-M506">
+          <extent>
+              <charseq START="928" END="930">its</charseq>
+          </extent>
+          <head>
+              <charseq START="928" END="930">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chicago Transit Authority">
+              <charseq START="886" END="910">Chicago Transit Authority</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E14" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E14-M508">
+          <extent>
+              <charseq START="954" END="972">58 new hybrid buses</charseq>
+          </extent>
+          <head>
+              <charseq START="968" END="972">buses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E15-M600">
+          <extent>
+              <charseq START="994" END="1000">Chicago</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="1000">Chicago</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E15-M1201" ROLE="GPE">
+          <extent>
+              <charseq START="2155" END="2161">Chicago</charseq>
+          </extent>
+          <head>
+              <charseq START="2155" END="2161">Chicago</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E15-M1310" ROLE="LOC">
+          <extent>
+              <charseq START="2362" END="2368">Chicago</charseq>
+          </extent>
+          <head>
+              <charseq START="2362" END="2368">Chicago</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E15-M1400">
+          <extent>
+              <charseq START="2371" END="2378">The city</charseq>
+          </extent>
+          <head>
+              <charseq START="2375" END="2378">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chicago">
+              <charseq START="994" END="1000">Chicago</charseq>
+          </name>
+          <name NAME="Chicago">
+              <charseq START="2155" END="2161">Chicago</charseq>
+          </name>
+          <name NAME="Chicago">
+              <charseq START="2362" END="2368">Chicago</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E16" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E16-M603">
+          <extent>
+              <charseq START="1031" END="1047">another 140 buses</charseq>
+          </extent>
+          <head>
+              <charseq START="1043" END="1047">buses</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E16-M604">
+          <extent>
+              <charseq START="1054" END="1057">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1054" END="1057">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E16-M612">
+          <extent>
+              <charseq START="1117" END="1120">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1117" END="1120">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E17" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E17-M815">
+          <extent>
+              <charseq START="1436" END="1440">state</charseq>
+          </extent>
+          <head>
+              <charseq START="1436" END="1440">state</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E18-M816" ROLE="ORG">
+          <extent>
+              <charseq START="1446" END="1462">local
+governments</charseq>
+          </extent>
+          <head>
+              <charseq START="1452" END="1462">governments</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E19" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E19-M910">
+          <extent>
+              <charseq START="1658" END="1699">the Center on Budget and Policy Priorities</charseq>
+          </extent>
+          <head>
+              <charseq START="1662" END="1699">Center on Budget and Policy Priorities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E19-M912">
+          <extent>
+              <charseq START="1702" END="1730">a
+liberal fiscal policy group</charseq>
+          </extent>
+          <head>
+              <charseq START="1726" END="1730">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Center on Budget and Policy Priorities">
+              <charseq START="1662" END="1699">Center on Budget and Policy Priorities</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E20" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E20-M906">
+          <extent>
+              <charseq START="1593" END="1610">at least 30 states</charseq>
+          </extent>
+          <head>
+              <charseq START="1605" END="1610">states</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E21" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E21-M1015">
+          <extent>
+              <charseq START="1908" END="1966">the American Road &amp;amp;
+Transportation Builders Association</charseq>
+          </extent>
+          <head>
+              <charseq START="1912" END="1966">American Road &amp;amp;
+Transportation Builders Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E21-M1017">
+          <extent>
+              <charseq START="1969" END="1981">a trade group</charseq>
+          </extent>
+          <head>
+              <charseq START="1977" END="1981">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Road &amp;amp;
+Transportation Builders Association">
+              <charseq START="1912" END="1966">American Road &amp;amp;
+Transportation Builders Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E22-M1006">
+          <extent>
+              <charseq START="1822" END="1839">at least 19 states</charseq>
+          </extent>
+          <head>
+              <charseq START="1834" END="1839">states</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E22-M1011">
+          <extent>
+              <charseq START="1861" END="1865">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1861" END="1865">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E23-M1110" ROLE="LOC">
+          <extent>
+              <charseq START="2065" END="2071">America</charseq>
+          </extent>
+          <head>
+              <charseq START="2065" END="2071">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="America">
+              <charseq START="2065" END="2071">America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E24-M1200">
+          <extent>
+              <charseq START="2155" END="2179">Chicago transit officials</charseq>
+          </extent>
+          <head>
+              <charseq START="2171" END="2179">officials</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090904.0110-E24-M1203">
+          <extent>
+              <charseq START="2196" END="2199">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2196" END="2199">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E25" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090904.0110-E25-M1302" ROLE="GPE">
+          <extent>
+              <charseq START="2262" END="2269">Illinois</charseq>
+          </extent>
+          <head>
+              <charseq START="2262" END="2269">Illinois</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E25-M1300">
+          <extent>
+              <charseq START="2249" END="2294">the state of Illinois, facing budget
+pressure,</charseq>
+          </extent>
+          <head>
+              <charseq START="2253" END="2257">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Illinois">
+              <charseq START="2262" END="2269">Illinois</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090904.0110-E26" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090904.0110-E26-M1401">
+          <extent>
+              <charseq START="2392" END="2423">another 140 buses from St.
+Cloud</charseq>
+          </extent>
+          <head>
+              <charseq START="2404" END="2408">buses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20090904.0110-T0" VAL="2009-04">
+        <timex2_mention ID="NYT_ENG_20090904.0110-T0-M1">
+            <extent>
+              <charseq START="184" END="203">just five months ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090904.0110-T1" VAL="FUTURE_REF" ANCHOR_VAL="2009-09-04" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="NYT_ENG_20090904.0110-T1-M1">
+            <extent>
+              <charseq START="435" END="444">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090904.0110-V2" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090904.0110-V2-M1">
+            <extent>
+              <charseq START="533" END="544">$8.4
+billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090904.0110-T3" VAL="2009-08">
+        <timex2_mention ID="NYT_ENG_20090904.0110-T3-M1">
+            <extent>
+              <charseq START="609" END="614">August</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090904.0110-V4" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20090904.0110-V4-M1">
+            <extent>
+              <charseq START="732" END="741">13 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090904.0110-T5" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20090904.0110-T5-M1">
+            <extent>
+              <charseq START="1209" END="1228">the rest of the year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090904.0110-V6" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090904.0110-V6-M1">
+            <extent>
+              <charseq START="1365" END="1376">$787 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090904.0110-T7" VAL="2009-01">
+        <timex2_mention ID="NYT_ENG_20090904.0110-T7-M1">
+            <extent>
+              <charseq START="1636" END="1642">January</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090904.0110-V8" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090904.0110-V8-M1">
+            <extent>
+              <charseq START="1766" END="1778">$27.5 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090904.0110-T9" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20090904.0110-T9-M1">
+            <extent>
+              <charseq START="1884" END="1892">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090904.0110-V10" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090904.0110-V10-M1">
+            <extent>
+              <charseq START="2012" END="2023">$8.4 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20090904.0110-V11" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090904.0110-V11-M1">
+            <extent>
+              <charseq START="2208" END="2217">$7 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20090904.0110-V12" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090904.0110-V12-M1">
+            <extent>
+              <charseq START="2312" END="2328">only $2.7 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="NYT_ENG_20090904.0110-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090904.0110-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090904.0110-E4" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090904.0110-R0-M100">
+          <extent>
+              <charseq START="137" END="152">ST. CLOUD, Minn.</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090904.0110-E3-M100" ROLE="Arg-1">
+            <extent>
+              <charseq START="137" END="152">ST. CLOUD, Minn.</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090904.0110-E4-M102" ROLE="Arg-2">
+            <extent>
+              <charseq START="148" END="151">Minn</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090904.0110-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090904.0110-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090904.0110-E7" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090904.0110-R1-M300">
+          <extent>
+              <charseq START="302" END="335">several Cabinet secretaries in tow</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090904.0110-E8-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="302" END="335">several Cabinet secretaries in tow</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090904.0110-E7-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="310" END="316">Cabinet</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090904.0110-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090904.0110-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090904.0110-E11" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090904.0110-R2-M400">
+          <extent>
+              <charseq START="634" END="657">administration officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090904.0110-E10-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="634" END="657">administration officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090904.0110-E11-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="634" END="647">administration</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090904.0110-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090904.0110-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090904.0110-E15" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090904.0110-R3-M1200">
+          <extent>
+              <charseq START="2155" END="2179">Chicago transit officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090904.0110-E24-M1200" ROLE="Arg-1">
+            <extent>
+              <charseq START="2155" END="2179">Chicago transit officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090904.0110-E15-M1201" ROLE="Arg-2">
+            <extent>
+              <charseq START="2155" END="2161">Chicago</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

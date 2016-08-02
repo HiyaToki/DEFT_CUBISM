@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="3e6c7121211de578d7fd831eae801438.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-354" length="14" offset="250">
+        <text>the government</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-234" length="7" offset="85">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-853" length="16" offset="409">
+        <text>a strong militia</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" length="7" offset="14">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-877" length="15" offset="536">
+        <text>a standing army</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-72" length="7" offset="14">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-384" length="5" offset="955">
+        <text>Court</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-240" length="7" offset="725">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-312" length="6" offset="1971">
+        <text>Miller</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-72" length="7" offset="14">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-402" length="5" offset="2066">
+        <text>Court</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-252" length="7" offset="2007">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-456" length="13" offset="4071">
+        <text>Supreme Court</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="7" offset="3853">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-462" length="4" offset="4130">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="7" offset="3853">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-474" length="5" offset="4311">
+        <text>their</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="7" offset="3853">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-480" length="13" offset="4472">
+        <text>Supreme Court</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="7" offset="3853">oralloy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-162" length="3" offset="5096">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-336" length="7" offset="4729">parados</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-162" length="3" offset="5096">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-342" length="7" offset="5229">parados</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

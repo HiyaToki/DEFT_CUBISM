@@ -1,0 +1,2025 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="bolt-eng-DF-203-185933-21070945">
+  <document DOCID="bolt-eng-DF-203-185933-21070945">
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E0" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E0-M0">
+          <extent>
+              <charseq START="62" END="76">all hockey fans</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="76">fans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E2" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E2-M305">
+          <extent>
+              <charseq START="456" END="463">Penguins</charseq>
+          </extent>
+          <head>
+              <charseq START="456" END="463">Penguins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E2-M2402">
+          <extent>
+              <charseq START="2818" END="2825">Penguins</charseq>
+          </extent>
+          <head>
+              <charseq START="2818" END="2825">Penguins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E2-M7500">
+          <extent>
+              <charseq START="7386" END="7393">Penguins</charseq>
+          </extent>
+          <head>
+              <charseq START="7386" END="7393">Penguins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E2-M7700">
+          <extent>
+              <charseq START="7548" END="7555">Penguins</charseq>
+          </extent>
+          <head>
+              <charseq START="7548" END="7555">Penguins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E2-M10100">
+          <extent>
+              <charseq START="9478" END="9485">PENGUINS</charseq>
+          </extent>
+          <head>
+              <charseq START="9478" END="9485">PENGUINS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E2-M10400">
+          <extent>
+              <charseq START="9631" END="9638">Penguins</charseq>
+          </extent>
+          <head>
+              <charseq START="9631" END="9638">Penguins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Penguins">
+              <charseq START="456" END="463">Penguins</charseq>
+          </name>
+          <name NAME="Penguins">
+              <charseq START="2818" END="2825">Penguins</charseq>
+          </name>
+          <name NAME="Penguins">
+              <charseq START="7386" END="7393">Penguins</charseq>
+          </name>
+          <name NAME="Penguins">
+              <charseq START="7548" END="7555">Penguins</charseq>
+          </name>
+          <name NAME="PENGUINS">
+              <charseq START="9478" END="9485">PENGUINS</charseq>
+          </name>
+          <name NAME="Penguins">
+              <charseq START="9631" END="9638">Penguins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E3-M304">
+          <extent>
+              <charseq START="440" END="467">the Kid loving, Penguins fan</charseq>
+          </extent>
+          <head>
+              <charseq START="465" END="467">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E3-M11004">
+          <extent>
+              <charseq START="10382" END="10409">the only Coyotes fan on here</charseq>
+          </extent>
+          <head>
+              <charseq START="10399" END="10401">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E3-M11002">
+          <extent>
+              <charseq START="10374" END="10374">I</charseq>
+          </extent>
+          <head>
+              <charseq START="10374" END="10374">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E3-M11102">
+          <extent>
+              <charseq START="10439" END="10450">the underdog</charseq>
+          </extent>
+          <head>
+              <charseq START="10443" END="10450">underdog</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E3-M11404">
+          <extent>
+              <charseq START="10645" END="10672">the only Coyotes fan on here</charseq>
+          </extent>
+          <head>
+              <charseq START="10662" END="10664">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E3-M11402">
+          <extent>
+              <charseq START="10637" END="10637">I</charseq>
+          </extent>
+          <head>
+              <charseq START="10637" END="10637">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E3-M11502">
+          <extent>
+              <charseq START="10702" END="10713">the underdog</charseq>
+          </extent>
+          <head>
+              <charseq START="10706" END="10713">underdog</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E4-M400">
+          <extent>
+              <charseq START="547" END="572">Another bruins fan here...</charseq>
+          </extent>
+          <head>
+              <charseq START="562" END="564">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E4-M8503">
+          <extent>
+              <charseq START="8172" END="8186">hard Bruins fan</charseq>
+          </extent>
+          <head>
+              <charseq START="8184" END="8186">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E4-M8605">
+          <extent>
+              <charseq START="8235" END="8246">a hockey fan</charseq>
+          </extent>
+          <head>
+              <charseq START="8244" END="8246">fan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E5-M600">
+          <extent>
+              <charseq START="626" END="627">DH</charseq>
+          </extent>
+          <head>
+              <charseq START="626" END="627">DH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DH">
+              <charseq START="626" END="627">DH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E6-M702" ROLE="LOC">
+          <extent>
+              <charseq START="734" END="740">Toronto</charseq>
+          </extent>
+          <head>
+              <charseq START="734" END="740">Toronto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E6-M1024" ROLE="LOC">
+          <extent>
+              <charseq START="1117" END="1138">the city with the team</charseq>
+          </extent>
+          <head>
+              <charseq START="1121" END="1124">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E6-M1402" ROLE="LOC">
+          <extent>
+              <charseq START="1686" END="1692">Toronto</charseq>
+          </extent>
+          <head>
+              <charseq START="1686" END="1692">Toronto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E6-M1724" ROLE="LOC">
+          <extent>
+              <charseq START="2069" END="2090">the city with the team</charseq>
+          </extent>
+          <head>
+              <charseq START="2073" END="2076">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E6-M9202" ROLE="LOC">
+          <extent>
+              <charseq START="8612" END="8618">Toronto</charseq>
+          </extent>
+          <head>
+              <charseq START="8612" END="8618">Toronto</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E6-M9524" ROLE="LOC">
+          <extent>
+              <charseq START="8995" END="9016">the city with the team</charseq>
+          </extent>
+          <head>
+              <charseq START="8999" END="9002">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Toronto">
+              <charseq START="734" END="740">Toronto</charseq>
+          </name>
+          <name NAME="Toronto">
+              <charseq START="1686" END="1692">Toronto</charseq>
+          </name>
+          <name NAME="Toronto">
+              <charseq START="8612" END="8618">Toronto</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E7" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E7-M707">
+          <extent>
+              <charseq START="793" END="797">Leafs</charseq>
+          </extent>
+          <head>
+              <charseq START="793" END="797">Leafs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E7-M1001">
+          <extent>
+              <charseq START="970" END="978">the Leafs</charseq>
+          </extent>
+          <head>
+              <charseq START="974" END="978">Leafs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E7-M1026">
+          <extent>
+              <charseq START="1131" END="1138">the team</charseq>
+          </extent>
+          <head>
+              <charseq START="1135" END="1138">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E7-M1407">
+          <extent>
+              <charseq START="1745" END="1749">Leafs</charseq>
+          </extent>
+          <head>
+              <charseq START="1745" END="1749">Leafs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E7-M1701">
+          <extent>
+              <charseq START="1922" END="1930">the Leafs</charseq>
+          </extent>
+          <head>
+              <charseq START="1926" END="1930">Leafs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E7-M1726">
+          <extent>
+              <charseq START="2083" END="2090">the team</charseq>
+          </extent>
+          <head>
+              <charseq START="2087" END="2090">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E7-M9207">
+          <extent>
+              <charseq START="8671" END="8675">Leafs</charseq>
+          </extent>
+          <head>
+              <charseq START="8671" END="8675">Leafs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E7-M9501">
+          <extent>
+              <charseq START="8848" END="8856">the Leafs</charseq>
+          </extent>
+          <head>
+              <charseq START="8852" END="8856">Leafs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E7-M9526">
+          <extent>
+              <charseq START="9009" END="9016">the team</charseq>
+          </extent>
+          <head>
+              <charseq START="9013" END="9016">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E7-M9802">
+          <extent>
+              <charseq START="9284" END="9292">the Leafs</charseq>
+          </extent>
+          <head>
+              <charseq START="9288" END="9292">Leafs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leafs">
+              <charseq START="793" END="797">Leafs</charseq>
+          </name>
+          <name NAME="Leafs">
+              <charseq START="974" END="978">Leafs</charseq>
+          </name>
+          <name NAME="Leafs">
+              <charseq START="1745" END="1749">Leafs</charseq>
+          </name>
+          <name NAME="Leafs">
+              <charseq START="1926" END="1930">Leafs</charseq>
+          </name>
+          <name NAME="Leafs">
+              <charseq START="8671" END="8675">Leafs</charseq>
+          </name>
+          <name NAME="Leafs">
+              <charseq START="8852" END="8856">Leafs</charseq>
+          </name>
+          <name NAME="Leafs">
+              <charseq START="9288" END="9292">Leafs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E8-M705">
+          <extent>
+              <charseq START="778" END="801">a fair weather Leafs fan</charseq>
+          </extent>
+          <head>
+              <charseq START="799" END="801">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E8-M1405">
+          <extent>
+              <charseq START="1730" END="1753">a fair weather Leafs fan</charseq>
+          </extent>
+          <head>
+              <charseq START="1751" END="1753">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E8-M9205">
+          <extent>
+              <charseq START="8656" END="8679">a fair weather Leafs fan</charseq>
+          </extent>
+          <head>
+              <charseq START="8677" END="8679">fan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E9-M805">
+          <extent>
+              <charseq START="860" END="881">the Montreal Canadiens</charseq>
+          </extent>
+          <head>
+              <charseq START="864" END="881">Montreal Canadiens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E9-M1505">
+          <extent>
+              <charseq START="1812" END="1833">the Montreal Canadiens</charseq>
+          </extent>
+          <head>
+              <charseq START="1816" END="1833">Montreal Canadiens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E9-M9305">
+          <extent>
+              <charseq START="8738" END="8759">the Montreal Canadiens</charseq>
+          </extent>
+          <head>
+              <charseq START="8742" END="8759">Montreal Canadiens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Montreal Canadiens">
+              <charseq START="864" END="881">Montreal Canadiens</charseq>
+          </name>
+          <name NAME="Montreal Canadiens">
+              <charseq START="1816" END="1833">Montreal Canadiens</charseq>
+          </name>
+          <name NAME="Montreal Canadiens">
+              <charseq START="8742" END="8759">Montreal Canadiens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E10-M1003">
+          <extent>
+              <charseq START="984" END="987">Habs</charseq>
+          </extent>
+          <head>
+              <charseq START="984" END="987">Habs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E10-M1008">
+          <extent>
+              <charseq START="1008" END="1010">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1008" END="1010">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E10-M1703">
+          <extent>
+              <charseq START="1936" END="1939">Habs</charseq>
+          </extent>
+          <head>
+              <charseq START="1936" END="1939">Habs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E10-M1708">
+          <extent>
+              <charseq START="1960" END="1962">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1960" END="1962">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E10-M9503">
+          <extent>
+              <charseq START="8862" END="8865">Habs</charseq>
+          </extent>
+          <head>
+              <charseq START="8862" END="8865">Habs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E10-M9508">
+          <extent>
+              <charseq START="8886" END="8888">who</charseq>
+          </extent>
+          <head>
+              <charseq START="8886" END="8888">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Habs">
+              <charseq START="984" END="987">Habs</charseq>
+          </name>
+          <name NAME="Habs">
+              <charseq START="1936" END="1939">Habs</charseq>
+          </name>
+          <name NAME="Habs">
+              <charseq START="8862" END="8865">Habs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E11-M1009">
+          <extent>
+              <charseq START="1020" END="1083">long as it&apos;s not the Ottawa Senators (bunch of uppity upstarts),</charseq>
+          </extent>
+          <head>
+              <charseq START="1041" END="1055">Ottawa Senators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E11-M1709">
+          <extent>
+              <charseq START="1972" END="2035">long as it&apos;s not the Ottawa Senators (bunch of uppity upstarts),</charseq>
+          </extent>
+          <head>
+              <charseq START="1993" END="2007">Ottawa Senators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E11-M9509">
+          <extent>
+              <charseq START="8898" END="8961">long as it&apos;s not the Ottawa Senators (bunch of uppity upstarts),</charseq>
+          </extent>
+          <head>
+              <charseq START="8919" END="8933">Ottawa Senators</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ottawa Senators">
+              <charseq START="1041" END="1055">Ottawa Senators</charseq>
+          </name>
+          <name NAME="Ottawa Senators">
+              <charseq START="1993" END="2007">Ottawa Senators</charseq>
+          </name>
+          <name NAME="Ottawa Senators">
+              <charseq START="8919" END="8933">Ottawa Senators</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M1029" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1167" END="1175">so Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="1170" END="1175">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M1729" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2119" END="2127">so Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="2122" END="2127">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M3515" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="3815" END="3820">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="3815" END="3820">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M4115" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="4328" END="4333">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="4328" END="4333">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M4404" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="4484" END="4489">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="4484" END="4489">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M5015" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="5214" END="5219">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="5214" END="5219">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M5304" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="5370" END="5375">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="5370" END="5375">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M6415" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="6458" END="6463">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="6458" END="6463">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M6704" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="6614" END="6619">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="6614" END="6619">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E12-M9529" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="9045" END="9053">so Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="9048" END="9053">Boston</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E13-M1031" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1182" END="1188">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="1182" END="1188">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E13-M1731" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2134" END="2140">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="2134" END="2140">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E13-M9531" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="9060" END="9066">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="9060" END="9066">Florida</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E14-M1017">
+          <extent>
+              <charseq START="1067" END="1081">uppity upstarts</charseq>
+          </extent>
+          <head>
+              <charseq START="1074" END="1081">upstarts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E14-M1717">
+          <extent>
+              <charseq START="2019" END="2033">uppity upstarts</charseq>
+          </extent>
+          <head>
+              <charseq START="2026" END="2033">upstarts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E14-M9517">
+          <extent>
+              <charseq START="8945" END="8959">uppity upstarts</charseq>
+          </extent>
+          <head>
+              <charseq START="8952" END="8959">upstarts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E15-M1102">
+          <extent>
+              <charseq START="1215" END="1237">the hockey hall of fame</charseq>
+          </extent>
+          <head>
+              <charseq START="1226" END="1229">hall</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E15-M1100">
+          <extent>
+              <charseq START="1203" END="1203">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1203" END="1203">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E15-M1802">
+          <extent>
+              <charseq START="2167" END="2189">the hockey hall of fame</charseq>
+          </extent>
+          <head>
+              <charseq START="2178" END="2181">hall</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E15-M1800">
+          <extent>
+              <charseq START="2155" END="2155">I</charseq>
+          </extent>
+          <head>
+              <charseq START="2155" END="2155">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E15-M8106">
+          <extent>
+              <charseq START="7821" END="7868">yet the Seattle TV stations never show NHL games</charseq>
+          </extent>
+          <head>
+              <charseq START="7840" END="7847">stations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E15-M9602">
+          <extent>
+              <charseq START="9093" END="9115">the hockey hall of fame</charseq>
+          </extent>
+          <head>
+              <charseq START="9104" END="9107">hall</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E15-M9600">
+          <extent>
+              <charseq START="9081" END="9081">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9081" END="9081">I</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E16-M1106">
+          <extent>
+              <charseq START="1243" END="1250">everyone</charseq>
+          </extent>
+          <head>
+              <charseq START="1243" END="1250">everyone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E16-M1806">
+          <extent>
+              <charseq START="2195" END="2202">everyone</charseq>
+          </extent>
+          <head>
+              <charseq START="2195" END="2202">everyone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E16-M9606">
+          <extent>
+              <charseq START="9121" END="9128">everyone</charseq>
+          </extent>
+          <head>
+              <charseq START="9121" END="9128">everyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E17-M1200">
+          <extent>
+              <charseq START="1357" END="1377">Another Pens fan here</charseq>
+          </extent>
+          <head>
+              <charseq START="1370" END="1372">fan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E18" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E18-M2104">
+          <extent>
+              <charseq START="2337" END="2349">a hockey team</charseq>
+          </extent>
+          <head>
+              <charseq START="2346" END="2349">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E20-M2203">
+          <extent>
+              <charseq START="2508" END="2512">Stars</charseq>
+          </extent>
+          <head>
+              <charseq START="2508" END="2512">Stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stars">
+              <charseq START="2508" END="2512">Stars</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E21-M2206" ROLE="LOC">
+          <extent>
+              <charseq START="2559" END="2564">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="2559" END="2564">Dallas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dallas">
+              <charseq START="2559" END="2564">Dallas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E22" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E22-M2213" ROLE="LOC">
+          <extent>
+              <charseq START="2611" END="2616">Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="2611" END="2616">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E22-M7901" ROLE="LOC">
+          <extent>
+              <charseq START="7624" END="7629">Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="7624" END="7629">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Denver">
+              <charseq START="2611" END="2616">Denver</charseq>
+          </name>
+          <name NAME="Denver">
+              <charseq START="7624" END="7629">Denver</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E23-M2218">
+          <extent>
+              <charseq START="2639" END="2687">the Avs as long as they are not up against Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="2643" END="2645">Avs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E23-M2221">
+          <extent>
+              <charseq START="2658" END="2661">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2658" END="2661">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E23-M7903">
+          <extent>
+              <charseq START="7645" END="7647">Avs</charseq>
+          </extent>
+          <head>
+              <charseq START="7645" END="7647">Avs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E23-M8003">
+          <extent>
+              <charseq START="7733" END="7735">Avs</charseq>
+          </extent>
+          <head>
+              <charseq START="7733" END="7735">Avs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Avs">
+              <charseq START="2643" END="2645">Avs</charseq>
+          </name>
+          <name NAME="Avs">
+              <charseq START="7645" END="7647">Avs</charseq>
+          </name>
+          <name NAME="Avs">
+              <charseq START="7733" END="7735">Avs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E24-M2223" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2682" END="2687">Dallas</charseq>
+          </extent>
+          <head>
+              <charseq START="2682" END="2687">Dallas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E25-M2202">
+          <extent>
+              <charseq START="2506" END="2519">a Stars fan (I</charseq>
+          </extent>
+          <head>
+              <charseq START="2514" END="2516">fan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E26" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E26-M2209">
+          <extent>
+              <charseq START="2588" END="2594">my team</charseq>
+          </extent>
+          <head>
+              <charseq START="2591" END="2594">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E27-M2301">
+          <extent>
+              <charseq START="2694" END="2713">the Eastern Division</charseq>
+          </extent>
+          <head>
+              <charseq START="2698" END="2713">Eastern Division</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eastern Division">
+              <charseq START="2698" END="2713">Eastern Division</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E28" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M2306">
+          <extent>
+              <charseq START="2727" END="2736">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="2731" END="2736">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M3003">
+          <extent>
+              <charseq START="3302" END="3307">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="3302" END="3307">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M3005">
+          <extent>
+              <charseq START="3326" END="3335">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="3330" END="3335">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M3203">
+          <extent>
+              <charseq START="3539" END="3544">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="3539" END="3544">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M3205">
+          <extent>
+              <charseq START="3563" END="3572">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="3567" END="3572">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M3401">
+          <extent>
+              <charseq START="3631" END="3636">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="3631" END="3636">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M3803">
+          <extent>
+              <charseq START="4052" END="4057">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="4052" END="4057">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M3805">
+          <extent>
+              <charseq START="4076" END="4085">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="4080" END="4085">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M4001">
+          <extent>
+              <charseq START="4144" END="4149">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="4144" END="4149">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M4400">
+          <extent>
+              <charseq START="4460" END="4469">The Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="4464" END="4469">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M4412">
+          <extent>
+              <charseq START="4556" END="4565">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="4560" END="4565">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E28-M4402">
+          <extent>
+              <charseq START="4475" END="4597">the only Boston team I root for, because about 5 years ago I was forced to watch the Bruins and I just kinda fell in &quot;love&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="4491" END="4494">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M4703">
+          <extent>
+              <charseq START="4938" END="4943">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="4938" END="4943">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M4705">
+          <extent>
+              <charseq START="4962" END="4971">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="4966" END="4971">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E28-M4707">
+          <extent>
+              <charseq START="4982" END="4983">it</charseq>
+          </extent>
+          <head>
+              <charseq START="4982" END="4983">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M4901">
+          <extent>
+              <charseq START="5030" END="5035">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="5030" END="5035">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M5300">
+          <extent>
+              <charseq START="5346" END="5355">The Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="5350" END="5355">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M5312">
+          <extent>
+              <charseq START="5442" END="5451">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="5446" END="5451">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E28-M5302">
+          <extent>
+              <charseq START="5361" END="5483">the only Boston team I root for, because about 5 years ago I was forced to watch the Bruins and I just kinda fell in &quot;love&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="5377" END="5380">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M6103">
+          <extent>
+              <charseq START="6182" END="6187">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="6182" END="6187">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M6105">
+          <extent>
+              <charseq START="6206" END="6215">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="6210" END="6215">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M6301">
+          <extent>
+              <charseq START="6274" END="6279">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="6274" END="6279">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M6700">
+          <extent>
+              <charseq START="6590" END="6599">The Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="6594" END="6599">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M6712">
+          <extent>
+              <charseq START="6686" END="6695">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="6690" END="6695">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E28-M6702">
+          <extent>
+              <charseq START="6605" END="6727">the only Boston team I root for, because about 5 years ago I was forced to watch the Bruins and I just kinda fell in &quot;love&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="6621" END="6624">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M8504">
+          <extent>
+              <charseq START="8177" END="8182">Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="8177" END="8182">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E28-M8906">
+          <extent>
+              <charseq START="8441" END="8450">the Bruins</charseq>
+          </extent>
+          <head>
+              <charseq START="8445" END="8450">Bruins</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bruins">
+              <charseq START="2731" END="2736">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="3302" END="3307">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="3330" END="3335">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="3539" END="3544">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="3567" END="3572">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="3631" END="3636">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="4052" END="4057">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="4080" END="4085">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="4144" END="4149">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="4464" END="4469">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="4560" END="4565">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="4938" END="4943">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="4966" END="4971">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="5030" END="5035">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="5350" END="5355">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="5446" END="5451">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="6182" END="6187">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="6210" END="6215">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="6274" END="6279">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="6594" END="6599">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="6690" END="6695">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="8177" END="8182">Bruins</charseq>
+          </name>
+          <name NAME="Bruins">
+              <charseq START="8445" END="8450">Bruins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E29-M2400">
+          <extent>
+              <charseq START="2810" END="2834">Another Penguins fan here</charseq>
+          </extent>
+          <head>
+              <charseq START="2827" END="2829">fan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E30-M2700">
+          <extent>
+              <charseq START="3007" END="3028">Another Pens fan here!</charseq>
+          </extent>
+          <head>
+              <charseq START="3020" END="3022">fan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E31-M2806">
+          <extent>
+              <charseq START="3164" END="3173">Blackhawks</charseq>
+          </extent>
+          <head>
+              <charseq START="3164" END="3173">Blackhawks</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Blackhawks">
+              <charseq START="3164" END="3173">Blackhawks</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E32-M3002">
+          <extent>
+              <charseq START="3288" END="3296">Islanders</charseq>
+          </extent>
+          <head>
+              <charseq START="3288" END="3296">Islanders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E32-M3202">
+          <extent>
+              <charseq START="3525" END="3533">Islanders</charseq>
+          </extent>
+          <head>
+              <charseq START="3525" END="3533">Islanders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E32-M3802">
+          <extent>
+              <charseq START="4038" END="4046">Islanders</charseq>
+          </extent>
+          <head>
+              <charseq START="4038" END="4046">Islanders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E32-M4702">
+          <extent>
+              <charseq START="4924" END="4932">Islanders</charseq>
+          </extent>
+          <head>
+              <charseq START="4924" END="4932">Islanders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E32-M6102">
+          <extent>
+              <charseq START="6168" END="6176">Islanders</charseq>
+          </extent>
+          <head>
+              <charseq START="6168" END="6176">Islanders</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Islanders">
+              <charseq START="3288" END="3296">Islanders</charseq>
+          </name>
+          <name NAME="Islanders">
+              <charseq START="3525" END="3533">Islanders</charseq>
+          </name>
+          <name NAME="Islanders">
+              <charseq START="4038" END="4046">Islanders</charseq>
+          </name>
+          <name NAME="Islanders">
+              <charseq START="4924" END="4932">Islanders</charseq>
+          </name>
+          <name NAME="Islanders">
+              <charseq START="6168" END="6176">Islanders</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E33" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E33-M3402">
+          <extent>
+              <charseq START="3642" END="3648">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="3642" END="3648">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E33-M3509">
+          <extent>
+              <charseq START="3778" END="3788">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="3782" END="3788">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E33-M4002">
+          <extent>
+              <charseq START="4155" END="4161">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="4155" END="4161">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E33-M4109">
+          <extent>
+              <charseq START="4291" END="4301">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="4295" END="4301">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E33-M4902">
+          <extent>
+              <charseq START="5041" END="5047">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="5041" END="5047">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E33-M5009">
+          <extent>
+              <charseq START="5177" END="5187">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="5181" END="5187">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E33-M6302">
+          <extent>
+              <charseq START="6285" END="6291">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="6285" END="6291">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E33-M6409">
+          <extent>
+              <charseq START="6421" END="6431">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="6425" END="6431">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yankees">
+              <charseq START="3642" END="3648">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="3782" END="3788">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="4155" END="4161">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="4295" END="4301">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="5041" END="5047">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="5181" END="5187">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="6285" END="6291">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="6425" END="6431">Yankees</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E34" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E34-M3500">
+          <extent>
+              <charseq START="3743" END="3838">ETA: Meaning, how can you root for the Yankees but still say you like a Boston team of any kind?</charseq>
+          </extent>
+          <head>
+              <charseq START="3743" END="3745">ETA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E34-M4100">
+          <extent>
+              <charseq START="4256" END="4351">ETA: Meaning, how can you root for the Yankees but still say you like a Boston team of any kind?</charseq>
+          </extent>
+          <head>
+              <charseq START="4256" END="4258">ETA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E34-M5000">
+          <extent>
+              <charseq START="5142" END="5237">ETA: Meaning, how can you root for the Yankees but still say you like a Boston team of any kind?</charseq>
+          </extent>
+          <head>
+              <charseq START="5142" END="5144">ETA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E34-M6400">
+          <extent>
+              <charseq START="6386" END="6481">ETA: Meaning, how can you root for the Yankees but still say you like a Boston team of any kind?</charseq>
+          </extent>
+          <head>
+              <charseq START="6386" END="6388">ETA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ETA">
+              <charseq START="3743" END="3745">ETA</charseq>
+          </name>
+          <name NAME="ETA">
+              <charseq START="4256" END="4258">ETA</charseq>
+          </name>
+          <name NAME="ETA">
+              <charseq START="5142" END="5144">ETA</charseq>
+          </name>
+          <name NAME="ETA">
+              <charseq START="6386" END="6388">ETA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E35" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E35-M4305">
+          <extent>
+              <charseq START="4428" END="4434">Red Sox</charseq>
+          </extent>
+          <head>
+              <charseq START="4428" END="4434">Red Sox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E35-M5205">
+          <extent>
+              <charseq START="5314" END="5320">Red Sox</charseq>
+          </extent>
+          <head>
+              <charseq START="5314" END="5320">Red Sox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E35-M6605">
+          <extent>
+              <charseq START="6558" END="6564">Red Sox</charseq>
+          </extent>
+          <head>
+              <charseq START="6558" END="6564">Red Sox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Red Sox">
+              <charseq START="4428" END="4434">Red Sox</charseq>
+          </name>
+          <name NAME="Red Sox">
+              <charseq START="5314" END="5320">Red Sox</charseq>
+          </name>
+          <name NAME="Red Sox">
+              <charseq START="6558" END="6564">Red Sox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E36-M4300">
+          <extent>
+              <charseq START="4388" END="4397">My husband</charseq>
+          </extent>
+          <head>
+              <charseq START="4391" END="4397">husband</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E36-M5200">
+          <extent>
+              <charseq START="5274" END="5283">My husband</charseq>
+          </extent>
+          <head>
+              <charseq START="5277" END="5283">husband</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E36-M5801">
+          <extent>
+              <charseq START="5873" END="5884">your husband</charseq>
+          </extent>
+          <head>
+              <charseq START="5878" END="5884">husband</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E36-M5803">
+          <extent>
+              <charseq START="5889" END="5903">a very wise man</charseq>
+          </extent>
+          <head>
+              <charseq START="5901" END="5903">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E36-M5902">
+          <extent>
+              <charseq START="5927" END="5929">him</charseq>
+          </extent>
+          <head>
+              <charseq START="5927" END="5929">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E36-M6600">
+          <extent>
+              <charseq START="6518" END="6527">My husband</charseq>
+          </extent>
+          <head>
+              <charseq START="6521" END="6527">husband</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E36-M7201">
+          <extent>
+              <charseq START="7117" END="7128">your husband</charseq>
+          </extent>
+          <head>
+              <charseq START="7122" END="7128">husband</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E36-M7203">
+          <extent>
+              <charseq START="7133" END="7147">a very wise man</charseq>
+          </extent>
+          <head>
+              <charseq START="7145" END="7147">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E36-M7302">
+          <extent>
+              <charseq START="7171" END="7173">him</charseq>
+          </extent>
+          <head>
+              <charseq START="7171" END="7173">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E36-M7402">
+          <extent>
+              <charseq START="7201" END="7203">him</charseq>
+          </extent>
+          <head>
+              <charseq START="7201" END="7203">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E36-M7409">
+          <extent>
+              <charseq START="7246" END="7248">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7246" END="7248">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E36-M10707">
+          <extent>
+              <charseq START="9739" END="9740">he</charseq>
+          </extent>
+          <head>
+              <charseq START="9739" END="9740">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-203-185933-21070945-E36-M10802">
+          <extent>
+              <charseq START="9788" END="9790">him</charseq>
+          </extent>
+          <head>
+              <charseq START="9788" END="9790">him</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E37-M4304">
+          <extent>
+              <charseq START="4426" END="4438">a Red Sox fan</charseq>
+          </extent>
+          <head>
+              <charseq START="4436" END="4438">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E37-M5204">
+          <extent>
+              <charseq START="5312" END="5324">a Red Sox fan</charseq>
+          </extent>
+          <head>
+              <charseq START="5322" END="5324">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E37-M6604">
+          <extent>
+              <charseq START="6556" END="6568">a Red Sox fan</charseq>
+          </extent>
+          <head>
+              <charseq START="6566" END="6568">fan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E38" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E38-M7410" ROLE="LOC">
+          <extent>
+              <charseq START="7277" END="7287">the &quot;Nation</charseq>
+          </extent>
+          <head>
+              <charseq START="7282" END="7287">Nation</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E39-M7602">
+          <extent>
+              <charseq START="7412" END="7429">forgive Max Talbot</charseq>
+          </extent>
+          <head>
+              <charseq START="7420" END="7429">Max Talbot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E39-M7802">
+          <extent>
+              <charseq START="7574" END="7591">forgive Max Talbot</charseq>
+          </extent>
+          <head>
+              <charseq START="7582" END="7591">Max Talbot</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E39-M10502">
+          <extent>
+              <charseq START="9657" END="9674">forgive Max Talbot</charseq>
+          </extent>
+          <head>
+              <charseq START="9665" END="9674">Max Talbot</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Max Talbot">
+              <charseq START="7420" END="7429">Max Talbot</charseq>
+          </name>
+          <name NAME="Max Talbot">
+              <charseq START="7582" END="7591">Max Talbot</charseq>
+          </name>
+          <name NAME="Max Talbot">
+              <charseq START="9665" END="9674">Max Talbot</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E40-M7902">
+          <extent>
+              <charseq START="7642" END="7651">an Avs fan</charseq>
+          </extent>
+          <head>
+              <charseq START="7649" END="7651">fan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E40-M8002">
+          <extent>
+              <charseq START="7730" END="7739">an Avs fan</charseq>
+          </extent>
+          <head>
+              <charseq START="7737" END="7739">fan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E41" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E41-M8105" ROLE="LOC">
+          <extent>
+              <charseq START="7810" END="7818">Vancouver</charseq>
+          </extent>
+          <head>
+              <charseq START="7810" END="7818">Vancouver</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vancouver">
+              <charseq START="7810" END="7818">Vancouver</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E42-M8108" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="7829" END="7835">Seattle</charseq>
+          </extent>
+          <head>
+              <charseq START="7829" END="7835">Seattle</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E43" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E43-M8112">
+          <extent>
+              <charseq START="7860" END="7862">NHL</charseq>
+          </extent>
+          <head>
+              <charseq START="7860" END="7862">NHL</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NHL">
+              <charseq START="7860" END="7862">NHL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E44-M8609">
+          <extent>
+              <charseq START="8289" END="8301">good athletes</charseq>
+          </extent>
+          <head>
+              <charseq START="8294" END="8301">athletes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E45-M10001">
+          <extent>
+              <charseq START="9365" END="9372">the Sens</charseq>
+          </extent>
+          <head>
+              <charseq START="9369" END="9372">Sens</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E46-M10200">
+          <extent>
+              <charseq START="9490" END="9493">GENO</charseq>
+          </extent>
+          <head>
+              <charseq START="9490" END="9493">GENO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GENO">
+              <charseq START="9490" END="9493">GENO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-203-185933-21070945-E47-M10804">
+          <extent>
+              <charseq START="9795" END="9821">orange pow wowing with jagr</charseq>
+          </extent>
+          <head>
+              <charseq START="9802" END="9804">pow</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E48-M11006">
+          <extent>
+              <charseq START="10391" END="10397">Coyotes</charseq>
+          </extent>
+          <head>
+              <charseq START="10391" END="10397">Coyotes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E48-M11406">
+          <extent>
+              <charseq START="10654" END="10660">Coyotes</charseq>
+          </extent>
+          <head>
+              <charseq START="10654" END="10660">Coyotes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Coyotes">
+              <charseq START="10391" END="10397">Coyotes</charseq>
+          </name>
+          <name NAME="Coyotes">
+              <charseq START="10654" END="10660">Coyotes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E49" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E49-M11804">
+          <extent>
+              <charseq START="10819" END="10831">the Nordiques</charseq>
+          </extent>
+          <head>
+              <charseq START="10823" END="10831">Nordiques</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nordiques">
+              <charseq START="10823" END="10831">Nordiques</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-203-185933-21070945-E50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-203-185933-21070945-E50-M12000">
+          <extent>
+              <charseq START="10952" END="10963">Flyers &amp;lt;3</charseq>
+          </extent>
+          <head>
+              <charseq START="10952" END="10957">Flyers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Flyers">
+              <charseq START="10952" END="10957">Flyers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T0">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T0-M1">
+            <extent>
+              <charseq START="925" END="933">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T1">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T1-M1">
+            <extent>
+              <charseq START="1877" END="1885">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T2" VAL="P1Y">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T2-M1">
+            <extent>
+              <charseq START="2406" END="2411">a year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T3">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T3-M1">
+            <extent>
+              <charseq START="3151" END="3161">this season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T4" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T4-M1">
+            <extent>
+              <charseq START="4516" END="4532">about 5 years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T5" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T5-M1">
+            <extent>
+              <charseq START="5402" END="5418">about 5 years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T6" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T6-M1">
+            <extent>
+              <charseq START="6646" END="6662">about 5 years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T7" VAL="PT2H">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T7-M1">
+            <extent>
+              <charseq START="7790" END="7803">mere two hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T8" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T8-M1">
+            <extent>
+              <charseq START="8108" END="8111">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T9" VAL="XXXX-SU">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T9-M1">
+            <extent>
+              <charseq START="8334" END="8344">last summer</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T10">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T10-M1">
+            <extent>
+              <charseq START="8803" END="8811">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T11" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T11-M1">
+            <extent>
+              <charseq START="10493" END="10501">next year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T12" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T12-M1">
+            <extent>
+              <charseq START="10756" END="10764">next year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-203-185933-21070945-T13">
+        <timex2_mention ID="bolt-eng-DF-203-185933-21070945-T13-M1">
+            <extent>
+              <charseq START="10963" END="10963">3</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="bolt-eng-DF-203-185933-21070945-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-203-185933-21070945-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-203-185933-21070945-E12" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-203-185933-21070945-R4-M4400">
+          <extent>
+              <charseq START="4475" END="4597">the only Boston team I root for, because about 5 years ago I was forced to watch the Bruins and I just kinda fell in &quot;love&quot;</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185933-21070945-E28-M4402" ROLE="Arg-1">
+            <extent>
+              <charseq START="4475" END="4597">the only Boston team I root for, because about 5 years ago I was forced to watch the Bruins and I just kinda fell in &quot;love&quot;</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185933-21070945-E12-M4404" ROLE="Arg-2">
+            <extent>
+              <charseq START="4484" END="4489">Boston</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-203-185933-21070945-R4-M5300">
+          <extent>
+              <charseq START="5361" END="5483">the only Boston team I root for, because about 5 years ago I was forced to watch the Bruins and I just kinda fell in &quot;love&quot;</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185933-21070945-E28-M5302" ROLE="Arg-1">
+            <extent>
+              <charseq START="5361" END="5483">the only Boston team I root for, because about 5 years ago I was forced to watch the Bruins and I just kinda fell in &quot;love&quot;</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185933-21070945-E12-M5304" ROLE="Arg-2">
+            <extent>
+              <charseq START="5370" END="5375">Boston</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-203-185933-21070945-R4-M6700">
+          <extent>
+              <charseq START="6605" END="6727">the only Boston team I root for, because about 5 years ago I was forced to watch the Bruins and I just kinda fell in &quot;love&quot;</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185933-21070945-E28-M6702" ROLE="Arg-1">
+            <extent>
+              <charseq START="6605" END="6727">the only Boston team I root for, because about 5 years ago I was forced to watch the Bruins and I just kinda fell in &quot;love&quot;</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185933-21070945-E12-M6704" ROLE="Arg-2">
+            <extent>
+              <charseq START="6614" END="6619">Boston</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-203-185933-21070945-R7" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-203-185933-21070945-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-203-185933-21070945-E15" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-203-185933-21070945-R7-M8101">
+          <extent>
+              <charseq START="7829" END="7835">Seattle</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185933-21070945-E42-M8108" ROLE="Arg-1">
+            <extent>
+              <charseq START="7829" END="7835">Seattle</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-203-185933-21070945-E15-M8106" ROLE="Arg-2">
+            <extent>
+              <charseq START="7821" END="7868">yet the Seattle TV stations never show NHL games</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

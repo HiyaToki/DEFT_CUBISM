@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-5693faa50000000000000038">
+  
+  <sentiment_annotations><entities>
+      <entity ere_id="m-423" length="5" offset="1587">
+        <text>Fedex</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="13" offset="1239">windchimeman1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-429" length="4" offset="1594">
+        <text>They</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="13" offset="1239">windchimeman1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-501" length="4" offset="2963">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-327" length="13" offset="2907">splakdaddy420</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1292" length="21" offset="2555">
+        <text>more crappy customers</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-225" length="9" offset="1874">debbiet22</source>
+        </sentiment>
+      </entity>
+    </entities></sentiment_annotations>
+</committed_belief_doc>

@@ -1,0 +1,582 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20101108.0226">
+  <document DOCID="AFP_ENG_20101108.0226">
+
+    <entity ID="AFP_ENG_20101108.0226-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E0-M0">
+          <extent>
+              <charseq START="58" END="62">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E0-M301">
+          <extent>
+              <charseq START="175" END="199">US President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="188" END="199">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E0-M303">
+          <extent>
+              <charseq START="178" END="186">President</charseq>
+          </extent>
+          <head>
+              <charseq START="178" END="186">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101108.0226-E0-M313">
+          <extent>
+              <charseq START="309" END="311">his</charseq>
+          </extent>
+          <head>
+              <charseq START="309" END="311">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101108.0226-E0-M410">
+          <extent>
+              <charseq START="470" END="471">he</charseq>
+          </extent>
+          <head>
+              <charseq START="470" END="471">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101108.0226-E0-M509">
+          <extent>
+              <charseq START="671" END="672">he</charseq>
+          </extent>
+          <head>
+              <charseq START="671" END="672">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101108.0226-E0-M600">
+          <extent>
+              <charseq START="726" END="727">He</charseq>
+          </extent>
+          <head>
+              <charseq START="726" END="727">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101108.0226-E0-M603">
+          <extent>
+              <charseq START="745" END="747">his</charseq>
+          </extent>
+          <head>
+              <charseq START="745" END="747">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101108.0226-E0-M706">
+          <extent>
+              <charseq START="935" END="936">he</charseq>
+          </extent>
+          <head>
+              <charseq START="935" END="936">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E0-M1006">
+          <extent>
+              <charseq START="1364" END="1368">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1364" END="1368">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Obama">
+              <charseq START="58" END="62">Obama</charseq>
+          </name>
+          <name NAME="Barack Obama">
+              <charseq START="188" END="199">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="1364" END="1368">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="69" END="75">Myanmar</charseq>
+          </extent>
+          <head>
+              <charseq START="69" END="75">Myanmar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E1-M307" ROLE="GPE">
+          <extent>
+              <charseq START="220" END="226">Myanmar</charseq>
+          </extent>
+          <head>
+              <charseq START="220" END="226">Myanmar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E1-M311" ROLE="LOC">
+          <extent>
+              <charseq START="270" END="295">the military-ruled country</charseq>
+          </extent>
+          <head>
+              <charseq START="289" END="295">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E1-M400">
+          <extent>
+              <charseq START="360" END="366">Myanmar</charseq>
+          </extent>
+          <head>
+              <charseq START="360" END="366">Myanmar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E1-M403" ROLE="GPE">
+          <extent>
+              <charseq START="385" END="467">a country where a &quot;bankrupt regime&quot; imprisoned
+opponents and gunned down protesters</charseq>
+          </extent>
+          <head>
+              <charseq START="387" END="393">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101108.0226-E1-M405">
+          <extent>
+              <charseq START="395" END="399">where</charseq>
+          </extent>
+          <head>
+              <charseq START="395" END="399">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E1-M507">
+          <extent>
+              <charseq START="620" END="626">Myanmar</charseq>
+          </extent>
+          <head>
+              <charseq START="620" END="626">Myanmar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E1-M804">
+          <extent>
+              <charseq START="981" END="987">Myanmar</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="987">Myanmar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E1-M901">
+          <extent>
+              <charseq START="1135" END="1141">Myanmar</charseq>
+          </extent>
+          <head>
+              <charseq START="1135" END="1141">Myanmar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Myanmar">
+              <charseq START="69" END="75">Myanmar</charseq>
+          </name>
+          <name NAME="Myanmar">
+              <charseq START="220" END="226">Myanmar</charseq>
+          </name>
+          <name NAME="Myanmar">
+              <charseq START="360" END="366">Myanmar</charseq>
+          </name>
+          <name NAME="Myanmar">
+              <charseq START="620" END="626">Myanmar</charseq>
+          </name>
+          <name NAME="Myanmar">
+              <charseq START="981" END="987">Myanmar</charseq>
+          </name>
+          <name NAME="Myanmar">
+              <charseq START="1135" END="1141">Myanmar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E2-M1">
+          <extent>
+              <charseq START="69" END="98">Myanmar junta &apos;stole&apos; election</charseq>
+          </extent>
+          <head>
+              <charseq START="77" END="81">junta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E2-M306">
+          <extent>
+              <charseq START="216" END="232">the Myanmar junta</charseq>
+          </extent>
+          <head>
+              <charseq START="228" END="232">junta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E2-M806">
+          <extent>
+              <charseq START="1036" END="1044">the junta</charseq>
+          </extent>
+          <head>
+              <charseq START="1040" END="1044">junta</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E3-M102" ROLE="GPE">
+          <extent>
+              <charseq START="123" END="131">NEW DELHI</charseq>
+          </extent>
+          <head>
+              <charseq START="123" END="131">NEW DELHI</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NEW DELHI">
+              <charseq START="123" END="131">NEW DELHI</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E4-M200">
+          <extent>
+              <charseq START="147" END="149">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="147" END="149">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="147" END="149">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E5-M302" ROLE="GPE">
+          <extent>
+              <charseq START="175" END="176">US</charseq>
+          </extent>
+          <head>
+              <charseq START="175" END="176">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="175" END="176">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E6-M406">
+          <extent>
+              <charseq START="401" END="456">a &quot;bankrupt regime&quot; imprisoned
+opponents and gunned down</charseq>
+          </extent>
+          <head>
+              <charseq START="413" END="418">regime</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E6-M503">
+          <extent>
+              <charseq START="599" END="627">the regime in Burma (Myanmar)</charseq>
+          </extent>
+          <head>
+              <charseq START="603" END="608">regime</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E7-M408">
+          <extent>
+              <charseq START="432" END="456">opponents and gunned down</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="440">opponents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E8-M415">
+          <extent>
+              <charseq START="525" END="542">repressive regimes</charseq>
+          </extent>
+          <head>
+              <charseq START="536" END="542">regimes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E9-M505" ROLE="LOC">
+          <extent>
+              <charseq START="613" END="627">Burma (Myanmar)</charseq>
+          </extent>
+          <head>
+              <charseq START="613" END="617">Burma</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Burma">
+              <charseq START="613" END="617">Burma</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E10-M514" ROLE="GPE">
+          <extent>
+              <charseq START="698" END="703">Indian</charseq>
+          </extent>
+          <head>
+              <charseq START="698" END="703">Indian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E10-M704">
+          <extent>
+              <charseq START="888" END="892">India</charseq>
+          </extent>
+          <head>
+              <charseq START="888" END="892">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E10-M805">
+          <extent>
+              <charseq START="1015" END="1019">India</charseq>
+          </extent>
+          <head>
+              <charseq START="1015" END="1019">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E10-M1000">
+          <extent>
+              <charseq START="1313" END="1317">India</charseq>
+          </extent>
+          <head>
+              <charseq START="1313" END="1317">India</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indian">
+              <charseq START="698" END="703">Indian</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="888" END="892">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="1015" END="1019">India</charseq>
+          </name>
+          <name NAME="India">
+              <charseq START="1313" END="1317">India</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E11-M513">
+          <extent>
+              <charseq START="694" END="714">the Indian
+parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="705" END="714">parliament</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E12-M602">
+          <extent>
+              <charseq START="745" END="753">his hosts</charseq>
+          </extent>
+          <head>
+              <charseq START="749" END="753">hosts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E14-M800">
+          <extent>
+              <charseq START="953" END="1012">Once a staunch supporter of Myanmar&apos;s pro-democracy movement</charseq>
+          </extent>
+          <head>
+              <charseq START="968" END="976">supporter</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101108.0226-E15-M910">
+          <extent>
+              <charseq START="1271" END="1301">democracy icon Aung
+San Suu Kyi</charseq>
+          </extent>
+          <head>
+              <charseq START="1286" END="1301">Aung
+San Suu Kyi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E15-M912">
+          <extent>
+              <charseq START="1281" END="1284">icon</charseq>
+          </extent>
+          <head>
+              <charseq START="1281" END="1284">icon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Aung
+San Suu Kyi">
+              <charseq START="1286" END="1301">Aung
+San Suu Kyi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101108.0226-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101108.0226-E16-M902" ROLE="ORG">
+          <extent>
+              <charseq START="1181" END="1266">Western governments because of
+widespread complaints of intimidation and the detention</charseq>
+          </extent>
+          <head>
+              <charseq START="1189" END="1199">governments</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20101108.0226-T0" VAL="2010">
+        <timex2_mention ID="AFP_ENG_20101108.0226-T0-M1">
+            <extent>
+              <charseq START="141" END="144">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101108.0226-T1" VAL="2010-11-08">
+        <timex2_mention ID="AFP_ENG_20101108.0226-T1-M1">
+            <extent>
+              <charseq START="201" END="206">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101108.0226-T2" VAL="2010-W46-WE">
+        <timex2_mention ID="AFP_ENG_20101108.0226-T2-M1">
+            <extent>
+              <charseq START="246" END="256">the
+weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101108.0226-T3" VAL="2010-11-07">
+        <timex2_mention ID="AFP_ENG_20101108.0226-T3-M1">
+            <extent>
+              <charseq START="1383" END="1388">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20101108.0226-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101108.0226-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101108.0226-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101108.0226-R0-M0">
+          <extent>
+              <charseq START="69" END="98">Myanmar junta &apos;stole&apos; election</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E2-M1" ROLE="Arg-1">
+            <extent>
+              <charseq START="69" END="98">Myanmar junta &apos;stole&apos; election</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E1-M3" ROLE="Arg-2">
+            <extent>
+              <charseq START="69" END="75">Myanmar</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="AFP_ENG_20101108.0226-R0-M301">
+          <extent>
+              <charseq START="216" END="232">the Myanmar junta</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E2-M306" ROLE="Arg-1">
+            <extent>
+              <charseq START="216" END="232">the Myanmar junta</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E1-M307" ROLE="Arg-2">
+            <extent>
+              <charseq START="220" END="226">Myanmar</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101108.0226-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101108.0226-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101108.0226-E5" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101108.0226-R1-M300">
+          <extent>
+              <charseq START="178" END="186">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E0-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="178" END="186">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E5-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="175" END="176">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101108.0226-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101108.0226-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101108.0226-E9" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101108.0226-R2-M500">
+          <extent>
+              <charseq START="599" END="627">the regime in Burma (Myanmar)</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E6-M503" ROLE="Arg-1">
+            <extent>
+              <charseq START="599" END="627">the regime in Burma (Myanmar)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E9-M505" ROLE="Arg-2">
+            <extent>
+              <charseq START="613" END="627">Burma (Myanmar)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101108.0226-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101108.0226-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101108.0226-E10" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101108.0226-R3-M501">
+          <extent>
+              <charseq START="694" END="714">the Indian
+parliament</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E11-M513" ROLE="Arg-1">
+            <extent>
+              <charseq START="694" END="714">the Indian
+parliament</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101108.0226-E10-M514" ROLE="Arg-2">
+            <extent>
+              <charseq START="698" END="703">Indian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

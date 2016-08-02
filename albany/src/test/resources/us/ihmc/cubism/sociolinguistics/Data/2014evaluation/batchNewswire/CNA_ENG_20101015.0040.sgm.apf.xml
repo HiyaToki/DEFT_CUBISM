@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="CNA_ENG_20101015.0040">
+  <document DOCID="CNA_ENG_20101015.0040">
+
+    <entity ID="CNA_ENG_20101015.0040-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E0-M0">
+          <extent>
+              <charseq START="58" END="63">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E0-M500">
+          <extent>
+              <charseq START="235" END="240">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="235" END="240">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E0-M602">
+          <extent>
+              <charseq START="479" END="484">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="479" END="484">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taiwan">
+              <charseq START="58" END="63">Taiwan</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="235" END="240">Taiwan</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="479" END="484">Taiwan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E1-M4" ROLE="GPE">
+          <extent>
+              <charseq START="99" END="105">Chilean</charseq>
+          </extent>
+          <head>
+              <charseq START="99" END="105">Chilean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E1-M507" ROLE="GPE">
+          <extent>
+              <charseq START="318" END="324">Chilean</charseq>
+          </extent>
+          <head>
+              <charseq START="318" END="324">Chilean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E1-M513" ROLE="LOC">
+          <extent>
+              <charseq START="402" END="415">northern Chile</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="415">Chile</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E1-M604" ROLE="LOC">
+          <extent>
+              <charseq START="513" END="517">Chile</charseq>
+          </extent>
+          <head>
+              <charseq START="513" END="517">Chile</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E1-M615" ROLE="GPE">
+          <extent>
+              <charseq START="642" END="648">Chilean</charseq>
+          </extent>
+          <head>
+              <charseq START="642" END="648">Chilean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E1-M607" ROLE="LOC">
+          <extent>
+              <charseq START="559" END="572">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="563" END="572">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E1-M708">
+          <extent>
+              <charseq START="786" END="790">Chile</charseq>
+          </extent>
+          <head>
+              <charseq START="786" END="790">Chile</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E1-M707" ROLE="ORG">
+          <extent>
+              <charseq START="786" END="803">Chile&apos;s government</charseq>
+          </extent>
+          <head>
+              <charseq START="794" END="803">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E1-M908" ROLE="GPE">
+          <extent>
+              <charseq START="1330" END="1336">Chilean</charseq>
+          </extent>
+          <head>
+              <charseq START="1330" END="1336">Chilean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chilean">
+              <charseq START="99" END="105">Chilean</charseq>
+          </name>
+          <name NAME="Chilean">
+              <charseq START="318" END="324">Chilean</charseq>
+          </name>
+          <name NAME="Chile">
+              <charseq START="411" END="415">Chile</charseq>
+          </name>
+          <name NAME="Chile">
+              <charseq START="513" END="517">Chile</charseq>
+          </name>
+          <name NAME="Chilean">
+              <charseq START="642" END="648">Chilean</charseq>
+          </name>
+          <name NAME="Chile">
+              <charseq START="786" END="790">Chile</charseq>
+          </name>
+          <name NAME="Chilean">
+              <charseq START="1330" END="1336">Chilean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E2-M3">
+          <extent>
+              <charseq START="91" END="112">rescued Chilean miners</charseq>
+          </extent>
+          <head>
+              <charseq START="107" END="112">miners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="137" END="142">Taipei</charseq>
+          </extent>
+          <head>
+              <charseq START="137" END="142">Taipei</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taipei">
+              <charseq START="137" END="142">Taipei</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E4-M200">
+          <extent>
+              <charseq START="154" END="156">CNA</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="156">CNA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CNA">
+              <charseq START="154" END="156">CNA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E5-M401">
+          <extent>
+              <charseq START="182" END="196">Hsieh Chia-chen</charseq>
+          </extent>
+          <head>
+              <charseq START="182" END="196">Hsieh Chia-chen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hsieh Chia-chen">
+              <charseq START="182" END="196">Hsieh Chia-chen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E6-M402">
+          <extent>
+              <charseq START="202" END="209">Sofia Wu</charseq>
+          </extent>
+          <head>
+              <charseq START="202" END="209">Sofia Wu</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sofia Wu">
+              <charseq START="202" END="209">Sofia Wu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E7-M515">
+          <extent>
+              <charseq START="418" END="455">the Ministry of Foreign Affairs (MOFA)</charseq>
+          </extent>
+          <head>
+              <charseq START="422" END="448">Ministry of Foreign Affairs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ministry of Foreign Affairs">
+              <charseq START="422" END="448">Ministry of Foreign Affairs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E8-M518">
+          <extent>
+              <charseq START="451" END="454">MOFA</charseq>
+          </extent>
+          <head>
+              <charseq START="451" END="454">MOFA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MOFA">
+              <charseq START="451" END="454">MOFA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E9-M505">
+          <extent>
+              <charseq START="307" END="363">33
+rescued Chilean miners for their bravery and ingenuity</charseq>
+          </extent>
+          <head>
+              <charseq START="326" END="331">miners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E9-M512">
+          <extent>
+              <charseq START="394" END="397">mine</charseq>
+          </extent>
+          <head>
+              <charseq START="394" END="397">mine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20101015.0040-E9-M510">
+          <extent>
+              <charseq START="337" END="341">their</charseq>
+          </extent>
+          <head>
+              <charseq START="337" END="341">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E9-M802">
+          <extent>
+              <charseq START="1017" END="1026">The miners</charseq>
+          </extent>
+          <head>
+              <charseq START="1021" END="1026">miners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E9-M906">
+          <extent>
+              <charseq START="1284" END="1296">the 33
+miners</charseq>
+          </extent>
+          <head>
+              <charseq START="1291" END="1296">miners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E10-M614">
+          <extent>
+              <charseq START="642" END="680">Chilean Foreign Minister Alfredo Moreno</charseq>
+          </extent>
+          <head>
+              <charseq START="667" END="680">Alfredo Moreno</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E10-M617">
+          <extent>
+              <charseq START="658" END="665">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="665">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E10-M603">
+          <extent>
+              <charseq START="488" END="501">representative</charseq>
+          </extent>
+          <head>
+              <charseq START="488" END="501">representative</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E10-M706">
+          <extent>
+              <charseq START="774" END="779">Moreno</charseq>
+          </extent>
+          <head>
+              <charseq START="774" END="779">Moreno</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E10-M701">
+          <extent>
+              <charseq START="730" END="743">representative</charseq>
+          </extent>
+          <head>
+              <charseq START="730" END="743">representative</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alfredo Moreno">
+              <charseq START="667" END="680">Alfredo Moreno</charseq>
+          </name>
+          <name NAME="Moreno">
+              <charseq START="774" END="779">Moreno</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E11-M608">
+          <extent>
+              <charseq START="578" END="583">people</charseq>
+          </extent>
+          <head>
+              <charseq START="578" END="583">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20101015.0040-E11-M611">
+          <extent>
+              <charseq START="589" END="593">their</charseq>
+          </extent>
+          <head>
+              <charseq START="589" END="593">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E12-M619">
+          <extent>
+              <charseq START="683" END="694">the ministry</charseq>
+          </extent>
+          <head>
+              <charseq START="687" END="694">ministry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E12-M900">
+          <extent>
+              <charseq START="1225" END="1236">the ministry</charseq>
+          </extent>
+          <head>
+              <charseq START="1229" END="1236">ministry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20101015.0040-E13-M718">
+          <extent>
+              <charseq START="980" END="1005">President Sebastian Pinera</charseq>
+          </extent>
+          <head>
+              <charseq START="990" END="1005">Sebastian Pinera</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E13-M719">
+          <extent>
+              <charseq START="980" END="988">President</charseq>
+          </extent>
+          <head>
+              <charseq START="980" END="988">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sebastian Pinera">
+              <charseq START="990" END="1005">Sebastian Pinera</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E14-M700">
+          <extent>
+              <charseq START="726" END="750">The representative office</charseq>
+          </extent>
+          <head>
+              <charseq START="745" END="750">office</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20101015.0040-E14-M705">
+          <extent>
+              <charseq START="760" END="762">its</charseq>
+          </extent>
+          <head>
+              <charseq START="760" END="762">its</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20101015.0040-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20101015.0040-E15-M709">
+          <extent>
+              <charseq START="848" END="863">the professional</charseq>
+          </extent>
+          <head>
+              <charseq START="852" END="863">professional</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="CNA_ENG_20101015.0040-T0" VAL="2010-10-15">
+        <timex2_mention ID="CNA_ENG_20101015.0040-T0-M1">
+            <extent>
+              <charseq START="145" END="151">Oct. 15</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20101015.0040-T1" VAL="2010-10-15T20:30:51">
+        <timex2_mention ID="CNA_ENG_20101015.0040-T1-M1">
+            <extent>
+              <charseq START="169" END="176">20:30:51</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20101015.0040-T2" VAL="2010-10-15">
+        <timex2_mention ID="CNA_ENG_20101015.0040-T2-M1">
+            <extent>
+              <charseq START="462" END="467">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20101015.0040-T3" VAL="P69D">
+        <timex2_mention ID="CNA_ENG_20101015.0040-T3-M1">
+            <extent>
+              <charseq START="1091" END="1097">69
+days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="CNA_ENG_20101015.0040-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20101015.0040-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20101015.0040-E1" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20101015.0040-R0-M0">
+          <extent>
+              <charseq START="91" END="112">rescued Chilean miners</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20101015.0040-E2-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="91" END="112">rescued Chilean miners</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20101015.0040-E1-M4" ROLE="Arg-2">
+            <extent>
+              <charseq START="99" END="105">Chilean</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20101015.0040-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20101015.0040-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20101015.0040-E1" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20101015.0040-R1-M600">
+          <extent>
+              <charseq START="658" END="665">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20101015.0040-E10-M617" ROLE="Arg-1">
+            <extent>
+              <charseq START="658" END="665">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20101015.0040-E1-M615" ROLE="Arg-2">
+            <extent>
+              <charseq START="642" END="648">Chilean</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

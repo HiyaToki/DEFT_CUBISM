@@ -1,0 +1,501 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100203.0761">
+  <document DOCID="APW_ENG_20100203.0761">
+
+    <entity ID="APW_ENG_20100203.0761-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0761-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="62">Saudi</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Saudi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0761-E0-M203" ROLE="GPE">
+          <extent>
+              <charseq START="191" END="195">Saudi</charseq>
+          </extent>
+          <head>
+              <charseq START="191" END="195">Saudi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E0-M215">
+          <extent>
+              <charseq START="303" END="312">the nation</charseq>
+          </extent>
+          <head>
+              <charseq START="307" END="312">nation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Saudi">
+              <charseq START="58" END="62">Saudi</charseq>
+          </name>
+          <name NAME="Saudi">
+              <charseq START="191" END="195">Saudi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E1-M0">
+          <extent>
+              <charseq START="58" END="72">Saudi activists</charseq>
+          </extent>
+          <head>
+              <charseq START="64" END="72">activists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E1-M2">
+          <extent>
+              <charseq START="79" END="82">king</charseq>
+          </extent>
+          <head>
+              <charseq START="79" END="82">king</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E1-M202">
+          <extent>
+              <charseq START="191" END="205">Saudi activists</charseq>
+          </extent>
+          <head>
+              <charseq START="197" END="205">activists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E1-M304">
+          <extent>
+              <charseq START="428" END="438">the monarch</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="438">monarch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100203.0761-E1-M307">
+          <extent>
+              <charseq START="471" END="472">he</charseq>
+          </extent>
+          <head>
+              <charseq START="471" END="472">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100203.0761-E1-M309">
+          <extent>
+              <charseq START="488" END="489">he</charseq>
+          </extent>
+          <head>
+              <charseq START="488" END="489">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E1-M614">
+          <extent>
+              <charseq START="830" END="840">the monarch</charseq>
+          </extent>
+          <head>
+              <charseq START="834" END="840">monarch</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0761-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="127" END="131">CAIRO</charseq>
+          </extent>
+          <head>
+              <charseq START="127" END="131">CAIRO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CAIRO">
+              <charseq START="127" END="131">CAIRO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0761-E3-M204">
+          <extent>
+              <charseq START="217" END="229">King Abdullah</charseq>
+          </extent>
+          <head>
+              <charseq START="222" END="229">Abdullah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E3-M205">
+          <extent>
+              <charseq START="217" END="220">King</charseq>
+          </extent>
+          <head>
+              <charseq START="217" END="220">King</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Abdullah">
+              <charseq START="222" END="229">Abdullah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E4-M207">
+          <extent>
+              <charseq START="241" END="298">an independent commission to probe human rights violations</charseq>
+          </extent>
+          <head>
+              <charseq START="256" END="265">commission</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E5-M214">
+          <extent>
+              <charseq START="303" END="341">the nation&apos;s powerful security agencies</charseq>
+          </extent>
+          <head>
+              <charseq START="334" END="341">agencies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100203.0761-E6-M200">
+          <extent>
+              <charseq START="180" END="205">A group of Saudi activists</charseq>
+          </extent>
+          <head>
+              <charseq START="182" END="186">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E6-M403">
+          <extent>
+              <charseq START="560" END="580">university professors</charseq>
+          </extent>
+          <head>
+              <charseq START="571" END="580">professors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0761-E7-M302">
+          <extent>
+              <charseq START="366" END="408">the Committee of Civil and Political Rights</charseq>
+          </extent>
+          <head>
+              <charseq START="370" END="408">Committee of Civil and Political Rights</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E7-M300">
+          <extent>
+              <charseq START="353" END="521">The group -- the Committee of Civil and Political Rights -- also called on the monarch to introduce political reforms he promised when he ascended to the throne in 2005.</charseq>
+          </extent>
+          <head>
+              <charseq START="357" END="361">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E7-M400">
+          <extent>
+              <charseq START="532" END="540">The group</charseq>
+          </extent>
+          <head>
+              <charseq START="536" END="540">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100203.0761-E7-M504">
+          <extent>
+              <charseq START="690" END="692">its</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="692">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E7-M606">
+          <extent>
+              <charseq START="762" END="869">the group blamed the violations on the Ministry of Interior, led by the monarch&apos;s half brother, Prince Nayef</charseq>
+          </extent>
+          <head>
+              <charseq START="766" END="770">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100203.0761-E7-M604">
+          <extent>
+              <charseq START="748" END="750">its</charseq>
+          </extent>
+          <head>
+              <charseq START="748" END="750">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Committee of Civil and Political Rights">
+              <charseq START="370" END="408">Committee of Civil and Political Rights</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0761-E8-M406">
+          <extent>
+              <charseq START="608" END="648">university lecturer Abdul-Rahman al-Hamid</charseq>
+          </extent>
+          <head>
+              <charseq START="628" END="648">Abdul-Rahman al-Hamid</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E8-M408">
+          <extent>
+              <charseq START="619" END="626">lecturer</charseq>
+          </extent>
+          <head>
+              <charseq START="619" END="626">lecturer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Abdul-Rahman al-Hamid">
+              <charseq START="628" END="648">Abdul-Rahman al-Hamid</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E9-M402">
+          <extent>
+              <charseq START="551" END="557">lawyers</charseq>
+          </extent>
+          <head>
+              <charseq START="551" END="557">lawyers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E10" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E10-M404">
+          <extent>
+              <charseq START="560" END="569">university</charseq>
+          </extent>
+          <head>
+              <charseq START="560" END="569">university</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E11-M405">
+          <extent>
+              <charseq START="586" END="592">writers</charseq>
+          </extent>
+          <head>
+              <charseq START="586" END="592">writers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0761-E12-M610">
+          <extent>
+              <charseq START="797" END="820">the Ministry of Interior</charseq>
+          </extent>
+          <head>
+              <charseq START="801" END="820">Ministry of Interior</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ministry of Interior">
+              <charseq START="801" END="820">Ministry of Interior</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0761-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0761-E13-M616">
+          <extent>
+              <charseq START="858" END="869">Prince Nayef</charseq>
+          </extent>
+          <head>
+              <charseq START="858" END="869">Prince Nayef</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0761-E13-M613">
+          <extent>
+              <charseq START="830" END="855">the monarch&apos;s half brother</charseq>
+          </extent>
+          <head>
+              <charseq START="849" END="855">brother</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Prince Nayef">
+              <charseq START="858" END="869">Prince Nayef</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100203.0761-T0" VAL="2010-02-03-02">
+        <timex2_mention ID="APW_ENG_20100203.0761-T0-M1">
+            <extent>
+              <charseq START="133" END="142">2010-02-03</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100203.0761-T1" VAL="2005">
+        <timex2_mention ID="APW_ENG_20100203.0761-T1-M1">
+            <extent>
+              <charseq START="517" END="520">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100203.0761-T2" VAL="2009-10">
+        <timex2_mention ID="APW_ENG_20100203.0761-T2-M1">
+            <extent>
+              <charseq START="668" END="674">October</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100203.0761-T3" VAL="2010-02-03">
+        <timex2_mention ID="APW_ENG_20100203.0761-T3-M1">
+            <extent>
+              <charseq START="735" END="743">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100203.0761-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100203.0761-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100203.0761-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100203.0761-R0-M0">
+          <extent>
+              <charseq START="58" END="72">Saudi activists</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E1-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="58" END="72">Saudi activists</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E0-M1" ROLE="Arg-2">
+            <extent>
+              <charseq START="58" END="62">Saudi</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="APW_ENG_20100203.0761-R0-M200">
+          <extent>
+              <charseq START="191" END="205">Saudi activists</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E1-M202" ROLE="Arg-1">
+            <extent>
+              <charseq START="191" END="205">Saudi activists</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E0-M203" ROLE="Arg-2">
+            <extent>
+              <charseq START="191" END="195">Saudi</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100203.0761-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100203.0761-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100203.0761-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100203.0761-R1-M201">
+          <extent>
+              <charseq START="303" END="341">the nation&apos;s powerful security agencies</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E5-M214" ROLE="Arg-1">
+            <extent>
+              <charseq START="303" END="341">the nation&apos;s powerful security agencies</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E0-M215" ROLE="Arg-2">
+            <extent>
+              <charseq START="303" END="312">the nation</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100203.0761-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100203.0761-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100203.0761-E7" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100203.0761-R2-M400">
+          <extent>
+              <charseq START="551" END="557">lawyers</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E9-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="551" END="557">lawyers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E7-M400" ROLE="Arg-2">
+            <extent>
+              <charseq START="532" END="540">The group</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100203.0761-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100203.0761-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100203.0761-E7" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100203.0761-R3-M401">
+          <extent>
+              <charseq START="560" END="580">university professors</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E6-M403" ROLE="Arg-1">
+            <extent>
+              <charseq START="560" END="580">university professors</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E7-M400" ROLE="Arg-2">
+            <extent>
+              <charseq START="532" END="540">The group</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100203.0761-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100203.0761-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100203.0761-E7" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100203.0761-R4-M402">
+          <extent>
+              <charseq START="586" END="592">writers</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E11-M405" ROLE="Arg-1">
+            <extent>
+              <charseq START="586" END="592">writers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E7-M400" ROLE="Arg-2">
+            <extent>
+              <charseq START="532" END="540">The group</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100203.0761-R5" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100203.0761-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100203.0761-E13" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100203.0761-R5-M600">
+          <extent>
+              <charseq START="830" END="840">the monarch</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E1-M614" ROLE="Arg-1">
+            <extent>
+              <charseq START="830" END="840">the monarch</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100203.0761-E13-M613" ROLE="Arg-2">
+            <extent>
+              <charseq START="830" END="855">the monarch&apos;s half brother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

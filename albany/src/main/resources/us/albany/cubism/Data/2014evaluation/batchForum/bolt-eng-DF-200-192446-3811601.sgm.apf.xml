@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="bolt-eng-DF-200-192446-3811601">
+  <document DOCID="bolt-eng-DF-200-192446-3811601">
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E0-M0">
+          <extent>
+              <charseq START="62" END="89">japan because of the culture</charseq>
+          </extent>
+          <head>
+              <charseq START="62" END="66">japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E0-M102">
+          <extent>
+              <charseq START="182" END="186">japan</charseq>
+          </extent>
+          <head>
+              <charseq START="182" END="186">japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192446-3811601-E0-M105">
+          <extent>
+              <charseq START="204" END="208">their</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="208">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E0-M303" ROLE="LOC">
+          <extent>
+              <charseq START="384" END="388">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="384" END="388">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192446-3811601-E0-M401">
+          <extent>
+              <charseq START="409" END="411">Its</charseq>
+          </extent>
+          <head>
+              <charseq START="409" END="411">Its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E0-M603" ROLE="LOC">
+          <extent>
+              <charseq START="689" END="693">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="689" END="693">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E0-M607">
+          <extent>
+              <charseq START="712" END="743">a beautiful and historic country</charseq>
+          </extent>
+          <head>
+              <charseq START="737" END="743">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E0-M706" ROLE="LOC">
+          <extent>
+              <charseq START="857" END="861">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="857" END="861">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E0-M801" ROLE="GPE">
+          <extent>
+              <charseq START="864" END="871">Japanese</charseq>
+          </extent>
+          <head>
+              <charseq START="864" END="871">Japanese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E0-M1102">
+          <extent>
+              <charseq START="1367" END="1371">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="1367" END="1371">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="japan">
+              <charseq START="62" END="66">japan</charseq>
+          </name>
+          <name NAME="japan">
+              <charseq START="182" END="186">japan</charseq>
+          </name>
+          <name NAME="Japan">
+              <charseq START="384" END="388">Japan</charseq>
+          </name>
+          <name NAME="Japan">
+              <charseq START="689" END="693">Japan</charseq>
+          </name>
+          <name NAME="Japan">
+              <charseq START="857" END="861">Japan</charseq>
+          </name>
+          <name NAME="Japanese">
+              <charseq START="864" END="871">Japanese</charseq>
+          </name>
+          <name NAME="Japan">
+              <charseq START="1367" END="1371">Japan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E1-M109">
+          <extent>
+              <charseq START="241" END="251">bath houses</charseq>
+          </extent>
+          <head>
+              <charseq START="246" END="251">houses</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E1-M803">
+          <extent>
+              <charseq START="884" END="898">all bath houses</charseq>
+          </extent>
+          <head>
+              <charseq START="893" END="898">houses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E3-M700">
+          <extent>
+              <charseq START="817" END="826">LOL people</charseq>
+          </extent>
+          <head>
+              <charseq START="821" END="826">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E5-M805">
+          <extent>
+              <charseq START="904" END="934">green-haired cartoon characters</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="934">characters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E6-M905">
+          <extent>
+              <charseq START="1162" END="1180">naked ten year olds</charseq>
+          </extent>
+          <head>
+              <charseq START="1177" END="1180">olds</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E7-M1004">
+          <extent>
+              <charseq START="1272" END="1277">people</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1277">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E8-M1305">
+          <extent>
+              <charseq START="1468" END="1475">Buddhist</charseq>
+          </extent>
+          <head>
+              <charseq START="1468" END="1475">Buddhist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Buddhist">
+              <charseq START="1468" END="1475">Buddhist</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E9-M1306">
+          <extent>
+              <charseq START="1486" END="1492">Castles</charseq>
+          </extent>
+          <head>
+              <charseq START="1486" END="1492">Castles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Castles">
+              <charseq START="1486" END="1492">Castles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E10-M1302" ROLE="LOC">
+          <extent>
+              <charseq START="1437" END="1465">very historical Samurai towns</charseq>
+          </extent>
+          <head>
+              <charseq START="1461" END="1465">towns</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E11-M1304">
+          <extent>
+              <charseq START="1468" END="1483">Buddhist temples</charseq>
+          </extent>
+          <head>
+              <charseq START="1477" END="1483">temples</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E12-M1307">
+          <extent>
+              <charseq START="1495" END="1513">amazing Zen gardens</charseq>
+          </extent>
+          <head>
+              <charseq START="1507" END="1513">gardens</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E13-M1309">
+          <extent>
+              <charseq START="1516" END="1560">parks with cherry blossoms, rivers, mountains</charseq>
+          </extent>
+          <head>
+              <charseq START="1516" END="1520">parks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E14" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E14-M1314">
+          <extent>
+              <charseq START="1544" END="1549">rivers</charseq>
+          </extent>
+          <head>
+              <charseq START="1544" END="1549">rivers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E15" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E15-M1315">
+          <extent>
+              <charseq START="1552" END="1560">mountains</charseq>
+          </extent>
+          <head>
+              <charseq START="1552" END="1560">mountains</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E16-M1410" ROLE="LOC">
+          <extent>
+              <charseq START="1709" END="1716">the U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1713" END="1716">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="1713" END="1716">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E17-M1412" ROLE="LOC">
+          <extent>
+              <charseq START="1721" END="1726">the UK</charseq>
+          </extent>
+          <head>
+              <charseq START="1725" END="1726">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UK">
+              <charseq START="1725" END="1726">UK</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192446-3811601-E18-M1703">
+          <extent>
+              <charseq START="1901" END="1936">dislike people that just go to japan</charseq>
+          </extent>
+          <head>
+              <charseq START="1909" END="1914">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192446-3811601-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192446-3811601-E19-M1800">
+          <extent>
+              <charseq START="2035" END="2045">South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="2035" END="2045">South Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Korea">
+              <charseq START="2035" END="2045">South Korea</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="bolt-eng-DF-200-192446-3811601-T0" VAL="P10Y">
+        <timex2_mention ID="bolt-eng-DF-200-192446-3811601-T0-M1">
+            <extent>
+              <charseq START="1168" END="1180">ten year olds</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192446-3811601-T1" VAL="P17M">
+        <timex2_mention ID="bolt-eng-DF-200-192446-3811601-T1-M1">
+            <extent>
+              <charseq START="1377" END="1394">the past 17 months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192446-3811601-T2">
+        <timex2_mention ID="bolt-eng-DF-200-192446-3811601-T2-M1">
+            <extent>
+              <charseq START="1576" END="1581">annual</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="bolt-eng-DF-200-192446-3811601-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192446-3811601-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192446-3811601-E11" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192446-3811601-R2-M1300">
+          <extent>
+              <charseq START="1468" END="1475">Buddhist</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192446-3811601-E8-M1305" ROLE="Arg-1">
+            <extent>
+              <charseq START="1468" END="1475">Buddhist</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192446-3811601-E11-M1304" ROLE="Arg-2">
+            <extent>
+              <charseq START="1468" END="1483">Buddhist temples</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

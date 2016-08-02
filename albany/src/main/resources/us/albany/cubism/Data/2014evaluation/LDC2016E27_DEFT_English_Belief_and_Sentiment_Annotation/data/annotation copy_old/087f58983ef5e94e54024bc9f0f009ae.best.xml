@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56acedd90000000000000009">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-1059">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-195" offset="123" length="13">ClosedCaption</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1069">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-195" offset="123" length="13">ClosedCaption</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1079">
+        <trigger offset="447" length="7">members</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-195" offset="123" length="13">ClosedCaption</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1089">
+        <trigger offset="517" length="2">at</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-195" offset="123" length="13">ClosedCaption</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1099">
+        <trigger offset="537" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-195" offset="123" length="13">ClosedCaption</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1109">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1467">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1119">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1129">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1563">
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1139">
+        <trigger offset="1076" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1149">
+        <trigger offset="1076" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1159">
+        <trigger offset="1076" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1169">
+        <trigger offset="1225" length="3">his</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1179">
+        <trigger offset="1414" length="7">outside</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1189">
+        <trigger offset="2575" length="4">from</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-573" offset="2163" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1523">
+        <trigger offset="5514" length="4">from</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-591" offset="5102" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1199">
+        <trigger offset="2648" length="2">of</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-573" offset="2163" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1533">
+        <trigger offset="5587" length="2">of</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-591" offset="5102" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1209">
+        <trigger offset="3052" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-573" offset="2163" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1553">
+        <trigger offset="5991" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-591" offset="5102" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1219">
+        <trigger offset="3621" length="9">President</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1229">
+        <trigger offset="5710" length="6">tyrant</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-591" offset="5102" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1543">
+        <trigger offset="2771" length="6">tyrant</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-573" offset="2163" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1429">
+        <trigger offset="1414" length="7">outside</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1507">
+        <trigger offset="4420" length="9">Americans</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1573">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-1268">
+        <trigger offset="2634" length="4">gone</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-573" offset="2163" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-657" offset="2622" length="9">
+            <text>Khaddaffi</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-573" offset="2163" length="7">MarcATL</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1289">
+        <trigger offset="5573" length="4">gone</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-591" offset="5102" length="7">MarcATL</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-663" offset="5561" length="9">
+            <text>Khaddaffi</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-591" offset="5102" length="7">MarcATL</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1310">
+        <trigger offset="3921" length="9">appointed</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-243" offset="3931" length="73">
+            <text>the same man who got Marc Rich off for a lump sum payment to the Clintons</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1331">
+        <trigger offset="4031" length="9">appointed</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-729" offset="4041" length="38">
+            <text>a man who couldn't figure out TurboTax</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1352">
+        <trigger offset="4188" length="5">spent</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-405" offset="4216" length="3">
+            <text>his</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1583">
+        <trigger offset="193" length="4">case</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-153" offset="159" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-741" offset="235" length="3">
+            <text>NBP</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-153" offset="159" length="10">Pale Rider</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1608" offset="489" length="27">
+            <text> alleged voter intimidation</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-195" offset="123" length="13">ClosedCaption</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1613">
+        <trigger offset="1215" length="9">judgments</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-549" offset="1256" length="68">
+            <text>two of three defendants charged with violating the Voting Rights Act</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1638" offset="1293" length="31">
+            <text>violating the Voting Rights Act</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1643">
+        <trigger offset="1280" length="7">charged</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1387" offset="1263" length="61">
+            <text>three defendants charged with violating the Voting Rights Act</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-777" offset="1225" length="14">
+            <text>his department</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1675" offset="1293" length="31">
+            <text>violating the Voting Rights Act</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1680">
+        <trigger offset="3981" length="7">payment</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-723" offset="3996" length="8">
+            <text>Clintons</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1703">
+        <trigger offset="431" length="7">charges</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-195" offset="123" length="13">ClosedCaption</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-759" offset="338" length="18">
+            <text>Justice Department</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-195" offset="123" length="13">ClosedCaption</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-525" offset="447" length="38">
+            <text>members of the New Black Panther Party</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-195" offset="123" length="13">ClosedCaption</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-213" offset="595" length="4">
+        <text>liar</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-219" offset="179" length="4">
+        <text>liar</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-153" offset="159" length="10">Pale Rider</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-435" offset="4986" length="2">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-609" offset="2092" length="8">Oldstyle</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-531" offset="986" length="73">
+        <text>hate-mongering thugs who harassed and bullied precinct workers and voters</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-147" offset="90" length="10">Pale Rider</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1810" offset="2196" length="20">
+        <text>those other palookas</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-573" offset="2163" length="7">MarcATL</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

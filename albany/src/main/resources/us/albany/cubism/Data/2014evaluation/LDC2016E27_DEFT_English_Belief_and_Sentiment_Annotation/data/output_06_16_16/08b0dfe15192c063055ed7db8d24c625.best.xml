@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="08b0dfe15192c063055ed7db8d24c625.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-417" length="6" offset="328">
+        <text>Bombay</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-213" length="10" offset="292">its leader</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-327" length="6" offset="223">
+        <text>Indian</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-213" length="10" offset="292">
+        <text>its leader</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-225" length="6" offset="459">
+        <text>Gandhi</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-772" length="19" offset="419">the Imperial powers</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1069" length="27" offset="645">
+        <text>Other nationalist movements</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-633" length="9" offset="923">
+        <text>Europeans</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-781" length="25" offset="844">African and Asian peoples</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-381" length="7" offset="1519">
+        <text>Indians</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-345" length="5" offset="1493">India</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-441" length="7" offset="1592">
+        <text>English</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-435" length="7" offset="1560">England</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-453" length="7" offset="1605">
+        <text>Germany</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-435" length="7" offset="1560">England</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-459" length="7" offset="1620">
+        <text>Germans</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-435" length="7" offset="1560">England</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-811" length="27" offset="1645">
+        <text>the normal people of Europe</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-811" length="27" offset="1645">
+        <text>the normal people of Europe</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-853" length="10" offset="2000">
+        <text>the courts</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-279" length="3" offset="1976">BNP</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-862" length="29" offset="2150">
+        <text>the native peoples of Britain</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-291" length="2" offset="2090">it</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-411" length="7" offset="2172">
+        <text>Britain</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-291" length="2" offset="2090">it</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-279" length="3" offset="1976">
+        <text>BNP</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-273" length="10" offset="2357">
+        <text>the Regime</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-129" length="1" offset="2334">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-255" length="24" offset="2392">
+        <text>Indian National Congress</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-129" length="1" offset="2334">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-465" length="12" offset="2572">
+        <text>South Africa</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-231" length="13" offset="14">Ravin McRaven</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-657" length="9" offset="2724">
+        <text>europeans</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-934" length="3" offset="2704">you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-357" length="5" offset="2737">
+        <text>india</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-934" length="3" offset="2704">you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-387" length="7" offset="3233">
+        <text>Indians</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-171" length="1" offset="3218">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-994" length="7" offset="3273">
+        <text>nations</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-171" length="1" offset="3218">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1018" length="5" offset="3371">
+        <text>their</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-1003" length="4" offset="3288">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1042" length="10" offset="3478">
+        <text>any people</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="1" offset="3466">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1051" length="8" offset="3489">
+        <text>anywhere</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="1" offset="3466">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1060" length="6" offset="3533">
+        <text>itself</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="1" offset="3466">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-201" length="3" offset="3589">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-183" length="1" offset="3567">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-201" length="3" offset="3589">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" length="4" offset="2925">nmds</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

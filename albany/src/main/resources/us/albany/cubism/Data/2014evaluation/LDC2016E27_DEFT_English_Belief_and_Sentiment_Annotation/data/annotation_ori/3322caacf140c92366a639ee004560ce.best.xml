@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-5654e46b0000000000000015">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-402">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-84" offset="14" length="4">Hans</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-412">
+        <trigger offset="132" length="9">Pakistani</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-84" offset="14" length="4">Hans</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-422">
+        <trigger offset="229" length="8">students</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-84" offset="14" length="4">Hans</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-432">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-348" offset="705" length="8">Walrus32</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-442">
+        <trigger offset="1446" length="6">detail</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-258" offset="1518" length="9">twinstead</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-452">
+        <trigger offset="1695" length="9">Pakistani</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-258" offset="1518" length="9">twinstead</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-742">
+        <trigger offset="953" length="7">Islamic</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-258" offset="1518" length="9">twinstead</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-462">
+        <trigger offset="72" length="6">killed</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-84" offset="14" length="4">Hans</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-96" offset="60" length="2">
+            <text>BB</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-396" offset="82" length="9">
+            <text>Rawapindi</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-494" offset="101" length="17">
+            <text>about an hour ago</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-497">
+        <trigger offset="216" length="5">speak</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-84" offset="14" length="4">Hans</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-108" offset="205" length="3">
+            <text>she</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-168" offset="225" length="12">
+            <text>our students</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-549">
+        <trigger offset="1000" length="7">blow up</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-330" offset="868" length="3">CHF</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-312" offset="989" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-595">
+        <trigger offset="1921" length="4">kill</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-258" offset="1518" length="9">twinstead</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-234" offset="1888" length="18">
+            <text>Islamic extremists</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-258" offset="1518" length="9">twinstead</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-675">
+        <trigger offset="1244" length="9">elections</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-276" offset="1191" length="7">RedIbis</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="f-692" offset="1273" length="5">
+            <text>Jan 9</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-276" offset="1191" length="7">RedIbis</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-752">
+        <trigger offset="779" length="7">publish</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-348" offset="705" length="8">Walrus32</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-342" offset="755" length="10">
+            <text>Jim Fetzer</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-777" offset="787" length="6">
+            <text>a book</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-114" offset="289" length="3">
+        <text>she</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-84" offset="14" length="4">Hans</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-156" offset="1728" length="6">
+        <text>Bhutto</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-246" offset="1695" length="20">Pakistani extremists</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-639" offset="1963" length="25">
+        <text>a potential prime minster</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-240" offset="1989" length="4">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-210" offset="1759" length="3">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-252" offset="1749" length="4">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-222" offset="2051" length="5">
+        <text>Mushy</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-648" offset="2065" length="6">people</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-228" offset="2083" length="3">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-648" offset="2065" length="6">people</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

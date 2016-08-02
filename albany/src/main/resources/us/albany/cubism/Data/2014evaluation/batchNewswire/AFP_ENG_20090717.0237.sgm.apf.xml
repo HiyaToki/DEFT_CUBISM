@@ -1,0 +1,737 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20090717.0237">
+  <document DOCID="AFP_ENG_20090717.0237">
+
+    <entity ID="AFP_ENG_20090717.0237-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E0-M0">
+          <extent>
+              <charseq START="58" END="62">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E0-M300">
+          <extent>
+              <charseq START="177" END="211">US President Barack Obama on Friday</charseq>
+          </extent>
+          <head>
+              <charseq START="190" END="201">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E0-M303">
+          <extent>
+              <charseq START="180" END="188">President</charseq>
+          </extent>
+          <head>
+              <charseq START="180" END="188">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E0-M414">
+          <extent>
+              <charseq START="494" END="498">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="494" END="498">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E0-M700">
+          <extent>
+              <charseq START="806" END="857">Obama, who spent part of his childhood in Indonesia,</charseq>
+          </extent>
+          <head>
+              <charseq START="806" END="810">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090717.0237-E0-M702">
+          <extent>
+              <charseq START="813" END="815">who</charseq>
+          </extent>
+          <head>
+              <charseq START="813" END="815">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090717.0237-E0-M706">
+          <extent>
+              <charseq START="831" END="833">his</charseq>
+          </extent>
+          <head>
+              <charseq START="831" END="833">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090717.0237-E0-M817">
+          <extent>
+              <charseq START="1142" END="1143">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1142" END="1143">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Obama">
+              <charseq START="58" END="62">Obama</charseq>
+          </name>
+          <name NAME="Barack Obama">
+              <charseq START="190" END="201">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="494" END="498">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="806" END="810">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E1-M2" ROLE="GPE">
+          <extent>
+              <charseq START="82" END="88">Jakarta</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="88">Jakarta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E1-M308" ROLE="LOC">
+          <extent>
+              <charseq START="242" END="248">Jakarta</charseq>
+          </extent>
+          <head>
+              <charseq START="242" END="248">Jakarta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E1-M404" ROLE="LOC">
+          <extent>
+              <charseq START="406" END="413">Jakarta,</charseq>
+          </extent>
+          <head>
+              <charseq START="406" END="412">Jakarta</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jakarta">
+              <charseq START="82" END="88">Jakarta</charseq>
+          </name>
+          <name NAME="Jakarta">
+              <charseq START="242" END="248">Jakarta</charseq>
+          </name>
+          <name NAME="Jakarta">
+              <charseq START="406" END="412">Jakarta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="122" END="131">Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="122" END="131">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Washington">
+              <charseq START="122" END="131">Washington</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E3-M200">
+          <extent>
+              <charseq START="149" END="151">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="149" END="151">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="149" END="151">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E4-M302">
+          <extent>
+              <charseq START="177" END="178">US</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="178">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E4-M501" ROLE="GPE">
+          <extent>
+              <charseq START="535" END="536">US</charseq>
+          </extent>
+          <head>
+              <charseq START="535" END="536">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E4-M500" ROLE="ORG">
+          <extent>
+              <charseq START="531" END="547">The US government</charseq>
+          </extent>
+          <head>
+              <charseq START="538" END="547">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E4-M610" ROLE="GPE">
+          <extent>
+              <charseq START="784" END="785">US</charseq>
+          </extent>
+          <head>
+              <charseq START="784" END="785">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E4-M902" ROLE="GPE">
+          <extent>
+              <charseq START="1168" END="1169">US</charseq>
+          </extent>
+          <head>
+              <charseq START="1168" END="1169">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E4-M910" ROLE="GPE">
+          <extent>
+              <charseq START="1247" END="1254">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1247" END="1254">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="177" END="178">US</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="535" END="536">US</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="784" END="785">US</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="1168" END="1169">US</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="1247" END="1254">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E5-M309">
+          <extent>
+              <charseq START="262" END="281">at least nine people</charseq>
+          </extent>
+          <head>
+              <charseq START="276" END="281">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E5-M410">
+          <extent>
+              <charseq START="459" END="469">the victims</charseq>
+          </extent>
+          <head>
+              <charseq START="463" END="469">victims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090717.0237-E5-M411">
+          <extent>
+              <charseq START="475" END="479">their</charseq>
+          </extent>
+          <head>
+              <charseq START="475" END="479">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E5-M1013">
+          <extent>
+              <charseq START="1462" END="1472">the victims</charseq>
+          </extent>
+          <head>
+              <charseq START="1466" END="1472">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E6-M311">
+          <extent>
+              <charseq START="318" END="332">eight Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="332">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090717.0237-E7-M413">
+          <extent>
+              <charseq START="487" END="490">ones</charseq>
+          </extent>
+          <head>
+              <charseq START="487" END="490">ones</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E10-M503" ROLE="GPE">
+          <extent>
+              <charseq START="574" END="583">Indonesian</charseq>
+          </extent>
+          <head>
+              <charseq START="574" END="583">Indonesian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E10-M502" ROLE="ORG">
+          <extent>
+              <charseq START="570" END="594">the Indonesian government</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="594">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E10-M707" ROLE="LOC">
+          <extent>
+              <charseq START="848" END="856">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="848" END="856">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E10-M709">
+          <extent>
+              <charseq START="867" END="877">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="871" END="877">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E10-M804" ROLE="GPE">
+          <extent>
+              <charseq START="972" END="980">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="972" END="980">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E10-M816" ROLE="GPE">
+          <extent>
+              <charseq START="1122" END="1131">Indonesian</charseq>
+          </extent>
+          <head>
+              <charseq START="1122" END="1131">Indonesian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E10-M815" ROLE="PER">
+          <extent>
+              <charseq START="1118" END="1138">the Indonesian people</charseq>
+          </extent>
+          <head>
+              <charseq START="1133" END="1138">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E10-M1015" ROLE="GPE">
+          <extent>
+              <charseq START="1482" END="1491">Indonesian</charseq>
+          </extent>
+          <head>
+              <charseq START="1482" END="1491">Indonesian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E10-M1014" ROLE="PER">
+          <extent>
+              <charseq START="1478" END="1498">the Indonesian people</charseq>
+          </extent>
+          <head>
+              <charseq START="1493" END="1498">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indonesian">
+              <charseq START="574" END="583">Indonesian</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="848" END="856">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="972" END="980">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesian">
+              <charseq START="1122" END="1131">Indonesian</charseq>
+          </name>
+          <name NAME="Indonesian">
+              <charseq START="1482" END="1491">Indonesian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E11-M507">
+          <extent>
+              <charseq START="652" END="659">a friend</charseq>
+          </extent>
+          <head>
+              <charseq START="654" END="659">friend</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E12-M508">
+          <extent>
+              <charseq START="665" END="671">partner</charseq>
+          </extent>
+          <head>
+              <charseq START="665" END="671">partner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E12-M802">
+          <extent>
+              <charseq START="959" END="980">partner with Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="959" END="965">partner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E12-M807">
+          <extent>
+              <charseq START="1011" END="1034">these
+violent extremists</charseq>
+          </extent>
+          <head>
+              <charseq START="1025" END="1034">extremists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E12-M1003">
+          <extent>
+              <charseq START="1338" END="1355">violent extremists</charseq>
+          </extent>
+          <head>
+              <charseq START="1346" END="1355">extremists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E13-M600">
+          <extent>
+              <charseq START="684" END="724">State Department spokesperson Robert Wood</charseq>
+          </extent>
+          <head>
+              <charseq START="714" END="724">Robert Wood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E13-M602">
+          <extent>
+              <charseq START="701" END="712">spokesperson</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="712">spokesperson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert Wood">
+              <charseq START="714" END="724">Robert Wood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E14-M601">
+          <extent>
+              <charseq START="684" END="699">State Department</charseq>
+          </extent>
+          <head>
+              <charseq START="684" END="699">State Department</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E14-M904">
+          <extent>
+              <charseq START="1184" END="1188">State</charseq>
+          </extent>
+          <head>
+              <charseq START="1184" END="1188">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E14-M906">
+          <extent>
+              <charseq START="1211" END="1224">her department</charseq>
+          </extent>
+          <head>
+              <charseq START="1215" END="1224">department</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="State Department">
+              <charseq START="684" END="699">State Department</charseq>
+          </name>
+          <name NAME="State">
+              <charseq START="1184" END="1188">State</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E15-M609">
+          <extent>
+              <charseq START="784" END="794">US citizens</charseq>
+          </extent>
+          <head>
+              <charseq START="787" END="794">citizens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E15-M908">
+          <extent>
+              <charseq START="1247" END="1285">American citizens injured in the blasts</charseq>
+          </extent>
+          <head>
+              <charseq START="1256" END="1263">citizens</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E16-M903">
+          <extent>
+              <charseq START="1184" END="1204">State Hillary Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="1190" END="1204">Hillary Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E16-M900">
+          <extent>
+              <charseq START="1168" END="1204">US Secretary of State Hillary Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="1171" END="1179">Secretary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090717.0237-E16-M907">
+          <extent>
+              <charseq START="1211" END="1213">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1211" END="1213">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090717.0237-E16-M1009">
+          <extent>
+              <charseq START="1421" END="1427">Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="1421" END="1427">Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090717.0237-E16-M1011">
+          <extent>
+              <charseq START="1444" END="1446">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1444" END="1446">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hillary Clinton">
+              <charseq START="1190" END="1204">Hillary Clinton</charseq>
+          </name>
+          <name NAME="Clinton">
+              <charseq START="1421" END="1427">Clinton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090717.0237-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090717.0237-E17-M1106">
+          <extent>
+              <charseq START="1578" END="1592">other
+countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1584" END="1592">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20090717.0237-T0" VAL="2009-07-17">
+        <timex2_mention ID="AFP_ENG_20090717.0237-T0-M1">
+            <extent>
+              <charseq START="134" END="146">July 17, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090717.0237-T1" VAL="2009-07-17">
+        <timex2_mention ID="AFP_ENG_20090717.0237-T1-M1">
+            <extent>
+              <charseq START="206" END="211">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090717.0237-T2" VAL="2009-07-17TMO">
+        <timex2_mention ID="AFP_ENG_20090717.0237-T2-M1">
+            <extent>
+              <charseq START="390" END="401">this morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090717.0237-T3" VAL="FUTURE_REF" ANCHOR_VAL="2009-07-17" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="AFP_ENG_20090717.0237-T3-M1">
+            <extent>
+              <charseq START="1079" END="1084">future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090717.0237-T4" VAL="FUTURE_REF" ANCHOR_VAL="2009-07-17" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="AFP_ENG_20090717.0237-T4-M1">
+            <extent>
+              <charseq START="1643" END="1659">prosperous future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20090717.0237-R0" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090717.0237-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090717.0237-E7" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090717.0237-R0-M400">
+          <extent>
+              <charseq START="475" END="479">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E5-M411" ROLE="Arg-1">
+            <extent>
+              <charseq START="475" END="479">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E7-M413" ROLE="Arg-2">
+            <extent>
+              <charseq START="487" END="490">ones</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090717.0237-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090717.0237-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090717.0237-E14" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090717.0237-R1-M600">
+          <extent>
+              <charseq START="701" END="712">spokesperson</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E13-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="701" END="712">spokesperson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E14-M601" ROLE="Arg-2">
+            <extent>
+              <charseq START="684" END="699">State Department</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090717.0237-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090717.0237-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090717.0237-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090717.0237-R2-M601">
+          <extent>
+              <charseq START="784" END="794">US citizens</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E15-M609" ROLE="Arg-1">
+            <extent>
+              <charseq START="784" END="794">US citizens</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E4-M610" ROLE="Arg-2">
+            <extent>
+              <charseq START="784" END="785">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="AFP_ENG_20090717.0237-R2-M902">
+          <extent>
+              <charseq START="1247" END="1285">American citizens injured in the blasts</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E15-M908" ROLE="Arg-1">
+            <extent>
+              <charseq START="1247" END="1285">American citizens injured in the blasts</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E4-M910" ROLE="Arg-2">
+            <extent>
+              <charseq START="1247" END="1254">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090717.0237-R3" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090717.0237-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090717.0237-E10" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090717.0237-R3-M700">
+          <extent>
+              <charseq START="813" END="815">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E0-M702" ROLE="Arg-1">
+            <extent>
+              <charseq START="813" END="815">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E10-M707" ROLE="Arg-2">
+            <extent>
+              <charseq START="848" END="856">Indonesia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090717.0237-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090717.0237-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090717.0237-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090717.0237-R4-M900">
+          <extent>
+              <charseq START="1168" END="1204">US Secretary of State Hillary Clinton</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E16-M900" ROLE="Arg-1">
+            <extent>
+              <charseq START="1168" END="1204">US Secretary of State Hillary Clinton</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E4-M902" ROLE="Arg-2">
+            <extent>
+              <charseq START="1168" END="1169">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090717.0237-R5" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090717.0237-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090717.0237-E14" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090717.0237-R5-M901">
+          <extent>
+              <charseq START="1211" END="1213">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E16-M907" ROLE="Arg-1">
+            <extent>
+              <charseq START="1211" END="1213">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090717.0237-E14-M906" ROLE="Arg-2">
+            <extent>
+              <charseq START="1211" END="1224">her department</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

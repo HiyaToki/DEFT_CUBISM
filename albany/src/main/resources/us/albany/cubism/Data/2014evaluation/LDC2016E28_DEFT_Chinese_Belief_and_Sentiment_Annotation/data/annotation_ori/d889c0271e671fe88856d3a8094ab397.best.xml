@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56a003a60000000000000009">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-324">
+        <trigger offset="369" length="2">解救</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-334">
+        <trigger offset="386" length="1">被</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-344">
+        <trigger offset="410" length="1">救</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-354">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-374">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-384">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-394">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-744">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-404">
+        <trigger offset="394" length="1">进</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-734">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-754">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-418">
+        <trigger offset="226" length="2">葬送</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-240" offset="229" length="5">
+            <text>19名幼儿</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-439">
+        <trigger offset="393" length="2">送进</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-252" offset="379" length="3">
+            <text>小悦悦</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-318" offset="396" length="2">
+            <text>医院</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-460">
+        <trigger offset="417" length="2">撞断</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-174" offset="406" length="2">
+            <text>刁娜</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-629">
+        <trigger offset="454" length="1">说</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-554" offset="453" length="1">
+            <text>谁</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-682">
+        <trigger offset="657" length="1">说</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-96" offset="625" length="1">
+            <text>我</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-707" offset="30" length="10">
+            <text>2011-12-09</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-216" offset="692" length="4">
+            <text>各位童鞋</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-785">
+        <trigger offset="396" length="2">医院</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-252" offset="379" length="3">
+            <text>小悦悦</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-168" offset="399" length="7">
+        <text>美丽的山东姑娘</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-174" offset="406" length="2">
+        <text>刁娜</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-180" offset="511" length="8">
+        <text>山东龙口最美女孩</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-186" offset="520" length="2">
+        <text>刁娜</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-192" offset="632" length="2">
+        <text>刁娜</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-198" offset="637" length="7">
+        <text>一个年轻的姑娘</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-204" offset="645" length="1">
+        <text>她</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-210" offset="680" length="1">
+        <text>她</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-264" offset="390" length="1">
+        <text>陈</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-548" offset="423" length="13">
+        <text>生活中那些平凡而又伟大的人</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-569" offset="474" length="2">
+        <text>自己</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-728" offset="470" length="2">
+        <text>他们</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-596" offset="608" length="4">
+        <text>玉德人物</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-324">
+        <trigger offset="369" length="2">解救</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-334">
+        <trigger offset="386" length="1">被</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-344">
+        <trigger offset="410" length="1">救</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-418">
+        <trigger offset="226" length="2">葬送</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-439">
+        <trigger offset="393" length="2">送进</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" offset="14" length="4">黑寡妇的</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

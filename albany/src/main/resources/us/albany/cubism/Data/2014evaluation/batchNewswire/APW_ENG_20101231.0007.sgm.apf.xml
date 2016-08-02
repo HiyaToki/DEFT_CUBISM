@@ -1,0 +1,2382 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20101231.0007">
+  <document DOCID="APW_ENG_20101231.0007">
+
+    <entity ID="APW_ENG_20101231.0007-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E0-M0">
+          <extent>
+              <charseq START="58" END="69">Annie Lennox</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="69">Annie Lennox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E0-M204">
+          <extent>
+              <charseq START="216" END="299">Annie Lennox, honored by Queen Elizabeth II in the monarch&apos;s New Year list of awards</charseq>
+          </extent>
+          <head>
+              <charseq START="216" END="227">Annie Lennox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E0-M500">
+          <extent>
+              <charseq START="640" END="645">Lennox</charseq>
+          </extent>
+          <head>
+              <charseq START="640" END="645">Lennox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E0-M701">
+          <extent>
+              <charseq START="916" END="921">Lennox</charseq>
+          </extent>
+          <head>
+              <charseq START="916" END="921">Lennox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Annie Lennox">
+              <charseq START="58" END="69">Annie Lennox</charseq>
+          </name>
+          <name NAME="Annie Lennox">
+              <charseq START="216" END="227">Annie Lennox</charseq>
+          </name>
+          <name NAME="Lennox">
+              <charseq START="640" END="645">Lennox</charseq>
+          </name>
+          <name NAME="Lennox">
+              <charseq START="916" END="921">Lennox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E1-M1">
+          <extent>
+              <charseq START="82" END="103">queen for charity work</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="86">queen</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="128" END="133">LONDON</charseq>
+          </extent>
+          <head>
+              <charseq START="128" END="133">LONDON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E2-M3210" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="4698" END="4703">London</charseq>
+          </extent>
+          <head>
+              <charseq START="4698" END="4703">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LONDON">
+              <charseq START="128" END="133">LONDON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E3-M206">
+          <extent>
+              <charseq START="241" END="258">Queen Elizabeth II</charseq>
+          </extent>
+          <head>
+              <charseq START="247" END="258">Elizabeth II</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E3-M207">
+          <extent>
+              <charseq START="241" END="245">Queen</charseq>
+          </extent>
+          <head>
+              <charseq START="241" END="245">Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E3-M211">
+          <extent>
+              <charseq START="263" END="273">the monarch</charseq>
+          </extent>
+          <head>
+              <charseq START="267" END="273">monarch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E3-M903">
+          <extent>
+              <charseq START="1319" END="1329">the monarch</charseq>
+          </extent>
+          <head>
+              <charseq START="1323" END="1329">monarch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E3-M908">
+          <extent>
+              <charseq START="1355" END="1357">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1355" END="1357">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Elizabeth II">
+              <charseq START="247" END="258">Elizabeth II</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E4-M303" ROLE="GPE">
+          <extent>
+              <charseq START="326" END="333">Scottish</charseq>
+          </extent>
+          <head>
+              <charseq START="326" END="333">Scottish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scottish">
+              <charseq START="326" END="333">Scottish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E5-M306">
+          <extent>
+              <charseq START="363" END="382">1980s duo Eurythmics</charseq>
+          </extent>
+          <head>
+              <charseq START="373" END="382">Eurythmics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E5-M307">
+          <extent>
+              <charseq START="369" END="371">duo</charseq>
+          </extent>
+          <head>
+              <charseq START="369" END="371">duo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E5-M300">
+          <extent>
+              <charseq START="311" END="383">The statuesque Scottish singer, who came to fame in 1980s duo Eurythmics,</charseq>
+          </extent>
+          <head>
+              <charseq START="335" END="340">singer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E5-M309">
+          <extent>
+              <charseq START="395" END="439">an Officer of the Order of the British Empire</charseq>
+          </extent>
+          <head>
+              <charseq START="398" END="404">Officer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E5-M304">
+          <extent>
+              <charseq START="343" END="345">who</charseq>
+          </extent>
+          <head>
+              <charseq START="343" END="345">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E5-M319">
+          <extent>
+              <charseq START="454" END="456">her</charseq>
+          </extent>
+          <head>
+              <charseq START="454" END="456">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E5-M400">
+          <extent>
+              <charseq START="515" END="517">She</charseq>
+          </extent>
+          <head>
+              <charseq START="515" END="517">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E5-M501">
+          <extent>
+              <charseq START="652" END="654">she</charseq>
+          </extent>
+          <head>
+              <charseq START="652" END="654">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E5-M611">
+          <extent>
+              <charseq START="897" END="899">she</charseq>
+          </extent>
+          <head>
+              <charseq START="897" END="899">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eurythmics">
+              <charseq START="373" END="382">Eurythmics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E6-M313" ROLE="GPE">
+          <extent>
+              <charseq START="422" END="439">the British Empire</charseq>
+          </extent>
+          <head>
+              <charseq START="426" END="439">British Empire</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E6-M833" ROLE="LOC">
+          <extent>
+              <charseq START="1236" END="1253">the British Empire</charseq>
+          </extent>
+          <head>
+              <charseq START="1240" END="1253">British Empire</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E6-M1012" ROLE="GPE">
+          <extent>
+              <charseq START="1605" END="1622">the British Empire</charseq>
+          </extent>
+          <head>
+              <charseq START="1609" END="1622">British Empire</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E6-M1719" ROLE="GPE">
+          <extent>
+              <charseq START="2565" END="2571">British</charseq>
+          </extent>
+          <head>
+              <charseq START="2565" END="2571">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E6-M2301" ROLE="GPE">
+          <extent>
+              <charseq START="3239" END="3245">British</charseq>
+          </extent>
+          <head>
+              <charseq START="3239" END="3245">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British Empire">
+              <charseq START="426" END="439">British Empire</charseq>
+          </name>
+          <name NAME="British Empire">
+              <charseq START="1240" END="1253">British Empire</charseq>
+          </name>
+          <name NAME="British Empire">
+              <charseq START="1609" END="1622">British Empire</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="2565" END="2571">British</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="3239" END="3245">British</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E7" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E7-M325" ROLE="LOC">
+          <extent>
+              <charseq START="507" END="512">Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="512">Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Africa">
+              <charseq START="507" END="512">Africa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E8-M320">
+          <extent>
+              <charseq START="468" END="490">charities fighting AIDS</charseq>
+          </extent>
+          <head>
+              <charseq START="468" END="476">charities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E9-M404">
+          <extent>
+              <charseq START="540" END="562">development group Oxfam</charseq>
+          </extent>
+          <head>
+              <charseq START="558" END="562">Oxfam</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E9-M406">
+          <extent>
+              <charseq START="552" END="556">group</charseq>
+          </extent>
+          <head>
+              <charseq START="552" END="556">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oxfam">
+              <charseq START="558" END="562">Oxfam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E10-M409">
+          <extent>
+              <charseq START="580" END="583">SING</charseq>
+          </extent>
+          <head>
+              <charseq START="580" END="583">SING</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SING">
+              <charseq START="580" END="583">SING</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E11-M402">
+          <extent>
+              <charseq START="522" END="562">an ambassador for development group Oxfam</charseq>
+          </extent>
+          <head>
+              <charseq START="525" END="534">ambassador</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E12-M411">
+          <extent>
+              <charseq START="602" END="606">women</charseq>
+          </extent>
+          <head>
+              <charseq START="602" END="606">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E13-M412">
+          <extent>
+              <charseq START="612" END="628">children with HIV</charseq>
+          </extent>
+          <head>
+              <charseq START="612" END="619">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E14-M509">
+          <extent>
+              <charseq START="723" END="739">Buckingham Palace</charseq>
+          </extent>
+          <head>
+              <charseq START="723" END="739">Buckingham Palace</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Buckingham Palace">
+              <charseq START="723" END="739">Buckingham Palace</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E16-M600">
+          <extent>
+              <charseq START="788" END="797">a renegade</charseq>
+          </extent>
+          <head>
+              <charseq START="790" END="797">renegade</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E17-M802">
+          <extent>
+              <charseq START="983" END="1016">Fashion designer Katharine Hamnett</charseq>
+          </extent>
+          <head>
+              <charseq START="1000" END="1016">Katharine Hamnett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E17-M804">
+          <extent>
+              <charseq START="991" END="998">designer</charseq>
+          </extent>
+          <head>
+              <charseq START="991" END="998">designer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E17-M806">
+          <extent>
+              <charseq START="1019" END="1082">creator of that decade&apos;s oversized &quot;Choose Life&quot; slogan T-shirts</charseq>
+          </extent>
+          <head>
+              <charseq START="1019" END="1025">creator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E17-M1102">
+          <extent>
+              <charseq START="1650" END="1654">&quot;sir&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1651" END="1653">sir</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E17-M1103">
+          <extent>
+              <charseq START="1659" END="1663">&quot;dame</charseq>
+          </extent>
+          <head>
+              <charseq START="1660" END="1663">dame</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Katharine Hamnett">
+              <charseq START="1000" END="1016">Katharine Hamnett</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E18-M815">
+          <extent>
+              <charseq START="1089" END="1261">Grammy-winning music producer Trevor Horn, who honed the futuristic sound of Frankie Goes to Hollywood, were both named Commanders of the Order of the British Empire, or CBE</charseq>
+          </extent>
+          <head>
+              <charseq START="1119" END="1129">Trevor Horn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E18-M819">
+          <extent>
+              <charseq START="1110" END="1117">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="1110" END="1117">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E18-M821">
+          <extent>
+              <charseq START="1132" END="1134">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1132" END="1134">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Trevor Horn">
+              <charseq START="1119" END="1129">Trevor Horn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E19-M824">
+          <extent>
+              <charseq START="1166" END="1177">Frankie Goes</charseq>
+          </extent>
+          <head>
+              <charseq START="1166" END="1177">Frankie Goes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Frankie Goes">
+              <charseq START="1166" END="1177">Frankie Goes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E20-M825" ROLE="LOC">
+          <extent>
+              <charseq START="1182" END="1190">Hollywood</charseq>
+          </extent>
+          <head>
+              <charseq START="1182" END="1190">Hollywood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hollywood">
+              <charseq START="1182" END="1190">Hollywood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E21-M828">
+          <extent>
+              <charseq START="1209" END="1261">Commanders of the Order of the British Empire, or CBE</charseq>
+          </extent>
+          <head>
+              <charseq START="1209" END="1218">Commanders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E22-M901">
+          <extent>
+              <charseq START="1273" END="1279">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="1273" END="1279">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E22-M919" ROLE="LOC">
+          <extent>
+              <charseq START="1473" END="1486">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="1477" END="1486">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Britain">
+              <charseq START="1273" END="1279">Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E23-M911">
+          <extent>
+              <charseq START="1392" END="1401">recipients</charseq>
+          </extent>
+          <head>
+              <charseq START="1392" END="1401">recipients</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E23-M1200">
+          <extent>
+              <charseq START="1667" END="1696">Recipients of the other honors</charseq>
+          </extent>
+          <head>
+              <charseq START="1667" END="1676">Recipients</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E23-M1206">
+          <extent>
+              <charseq START="1742" END="1746">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1742" END="1746">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E24-M912">
+          <extent>
+              <charseq START="1419" END="1501">committees of civil servants from nominations made by the government and the public</charseq>
+          </extent>
+          <head>
+              <charseq START="1419" END="1428">committees</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E25-M914">
+          <extent>
+              <charseq START="1433" END="1501">civil servants from nominations made by the government and the public</charseq>
+          </extent>
+          <head>
+              <charseq START="1439" END="1446">servants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E26-M920">
+          <extent>
+              <charseq START="1492" END="1501">the public</charseq>
+          </extent>
+          <head>
+              <charseq START="1496" END="1501">public</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E27" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E27-M1005">
+          <extent>
+              <charseq START="1562" END="1564">CBE</charseq>
+          </extent>
+          <head>
+              <charseq START="1562" END="1564">CBE</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CBE">
+              <charseq START="1562" END="1564">CBE</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E28-M1006">
+          <extent>
+              <charseq START="1567" END="1569">OBE</charseq>
+          </extent>
+          <head>
+              <charseq START="1567" END="1569">OBE</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="OBE">
+              <charseq START="1567" END="1569">OBE</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E29-M1008">
+          <extent>
+              <charseq START="1582" END="1622">Member of the Order of the British Empire</charseq>
+          </extent>
+          <head>
+              <charseq START="1582" END="1587">Member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E30-M1100">
+          <extent>
+              <charseq START="1625" END="1631">Knights</charseq>
+          </extent>
+          <head>
+              <charseq START="1625" END="1631">Knights</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Knights">
+              <charseq START="1625" END="1631">Knights</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E31-M1303">
+          <extent>
+              <charseq START="1789" END="1823">people who are not in the limelight</charseq>
+          </extent>
+          <head>
+              <charseq START="1789" END="1794">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E31-M1305">
+          <extent>
+              <charseq START="1796" END="1798">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1796" END="1798">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E31-M1311">
+          <extent>
+              <charseq START="1842" END="1846">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1842" END="1846">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E32-M1310">
+          <extent>
+              <charseq START="1842" END="1856">their community</charseq>
+          </extent>
+          <head>
+              <charseq START="1848" END="1856">community</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E32-M1313">
+          <extent>
+              <charseq START="1875" END="1919">they also reward a sprinkling of famous faces</charseq>
+          </extent>
+          <head>
+              <charseq START="1875" END="1878">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E33-M1312">
+          <extent>
+              <charseq START="1861" END="1868">industry</charseq>
+          </extent>
+          <head>
+              <charseq START="1861" END="1868">industry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E34-M1400">
+          <extent>
+              <charseq START="1931" END="1964">Theater grande dame Harriet Walter</charseq>
+          </extent>
+          <head>
+              <charseq START="1951" END="1964">Harriet Walter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E34-M1403">
+          <extent>
+              <charseq START="1946" END="1949">dame</charseq>
+          </extent>
+          <head>
+              <charseq START="1946" END="1949">dame</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E34-M1405">
+          <extent>
+              <charseq START="1975" END="2025">a real dame -- the female equivalent of a knight --</charseq>
+          </extent>
+          <head>
+              <charseq START="1982" END="1985">dame</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E34-M1409">
+          <extent>
+              <charseq START="2015" END="2022">a knight</charseq>
+          </extent>
+          <head>
+              <charseq START="2017" END="2022">knight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E34-M1512">
+          <extent>
+              <charseq START="2245" END="2250">a dame</charseq>
+          </extent>
+          <head>
+              <charseq START="2247" END="2250">dame</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E34-M2406">
+          <extent>
+              <charseq START="3406" END="3413">a knight</charseq>
+          </extent>
+          <head>
+              <charseq START="3408" END="3413">knight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E34-M2608">
+          <extent>
+              <charseq START="3931" END="3938">a knight</charseq>
+          </extent>
+          <head>
+              <charseq START="3933" END="3938">knight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E34-M2906">
+          <extent>
+              <charseq START="4303" END="4310">a knight</charseq>
+          </extent>
+          <head>
+              <charseq START="4305" END="4310">knight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E34-M3009">
+          <extent>
+              <charseq START="4430" END="4435">a dame</charseq>
+          </extent>
+          <head>
+              <charseq START="4432" END="4435">dame</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harriet Walter">
+              <charseq START="1951" END="1964">Harriet Walter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E35-M1415">
+          <extent>
+              <charseq START="2075" END="2103">the Royal Shakespeare Company</charseq>
+          </extent>
+          <head>
+              <charseq START="2079" END="2103">Royal Shakespeare Company</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Royal Shakespeare Company">
+              <charseq START="2079" END="2103">Royal Shakespeare Company</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E36-M1501">
+          <extent>
+              <charseq START="2150" END="2173">Historian Antonia Fraser</charseq>
+          </extent>
+          <head>
+              <charseq START="2160" END="2173">Antonia Fraser</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E36-M1502">
+          <extent>
+              <charseq START="2150" END="2158">Historian</charseq>
+          </extent>
+          <head>
+              <charseq START="2150" END="2158">Historian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E36-M1504">
+          <extent>
+              <charseq START="2176" END="2230">biographer of Marie Antoinette and Mary, Queen of Scots</charseq>
+          </extent>
+          <head>
+              <charseq START="2176" END="2185">biographer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Antonia Fraser">
+              <charseq START="2160" END="2173">Antonia Fraser</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E37-M1507">
+          <extent>
+              <charseq START="2190" END="2205">Marie Antoinette</charseq>
+          </extent>
+          <head>
+              <charseq START="2190" END="2205">Marie Antoinette</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marie Antoinette">
+              <charseq START="2190" END="2205">Marie Antoinette</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E38-M1508">
+          <extent>
+              <charseq START="2211" END="2214">Mary</charseq>
+          </extent>
+          <head>
+              <charseq START="2211" END="2214">Mary</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mary">
+              <charseq START="2211" END="2214">Mary</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E39-M1510">
+          <extent>
+              <charseq START="2217" END="2224">Queen of</charseq>
+          </extent>
+          <head>
+              <charseq START="2217" END="2224">Queen of</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Queen of">
+              <charseq START="2217" END="2224">Queen of</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E40-M1509">
+          <extent>
+              <charseq START="2217" END="2230">Queen of Scots</charseq>
+          </extent>
+          <head>
+              <charseq START="2226" END="2230">Scots</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E41-M1600">
+          <extent>
+              <charseq START="2262" END="2279">Actor David Suchet</charseq>
+          </extent>
+          <head>
+              <charseq START="2268" END="2279">David Suchet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E41-M1601">
+          <extent>
+              <charseq START="2262" END="2266">Actor</charseq>
+          </extent>
+          <head>
+              <charseq START="2262" END="2266">Actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Suchet">
+              <charseq START="2268" END="2279">David Suchet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E42-M1603">
+          <extent>
+              <charseq START="2307" END="2356">Agatha Christie&apos;s Belgian detective Hercule Poirot</charseq>
+          </extent>
+          <head>
+              <charseq START="2343" END="2356">Hercule Poirot</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hercule Poirot">
+              <charseq START="2343" END="2356">Hercule Poirot</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E43-M1604">
+          <extent>
+              <charseq START="2307" END="2321">Agatha Christie</charseq>
+          </extent>
+          <head>
+              <charseq START="2307" END="2321">Agatha Christie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Agatha Christie">
+              <charseq START="2307" END="2321">Agatha Christie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E44" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E44-M1605">
+          <extent>
+              <charseq START="2325" END="2331">Belgian</charseq>
+          </extent>
+          <head>
+              <charseq START="2325" END="2331">Belgian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Belgian">
+              <charseq START="2325" END="2331">Belgian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E45-M1608">
+          <extent>
+              <charseq START="2379" END="2400">actress Sheila Hancock</charseq>
+          </extent>
+          <head>
+              <charseq START="2387" END="2400">Sheila Hancock</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sheila Hancock">
+              <charseq START="2387" END="2400">Sheila Hancock</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E46-M1701">
+          <extent>
+              <charseq START="2429" END="2454">sculptor Richard Wentworth</charseq>
+          </extent>
+          <head>
+              <charseq START="2438" END="2454">Richard Wentworth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E46-M1702">
+          <extent>
+              <charseq START="2429" END="2436">sculptor</charseq>
+          </extent>
+          <head>
+              <charseq START="2429" END="2436">sculptor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E46-M1709">
+          <extent>
+              <charseq START="2503" END="2507">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="2503" END="2507">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Richard Wentworth">
+              <charseq START="2438" END="2454">Richard Wentworth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E47-M1704">
+          <extent>
+              <charseq START="2460" END="2500">Turner Prize-winning artist Steve McQueen</charseq>
+          </extent>
+          <head>
+              <charseq START="2488" END="2500">Steve McQueen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E47-M1707">
+          <extent>
+              <charseq START="2481" END="2486">artist</charseq>
+          </extent>
+          <head>
+              <charseq START="2481" END="2486">artist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E47-M1800">
+          <extent>
+              <charseq START="2596" END="2597">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2596" END="2597">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steve McQueen">
+              <charseq START="2488" END="2500">Steve McQueen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E48" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E48-M1720" ROLE="LOC">
+          <extent>
+              <charseq START="2590" END="2593">Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="2590" END="2593">Iraq</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iraq">
+              <charseq START="2590" END="2593">Iraq</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E49-M1717">
+          <extent>
+              <charseq START="2565" END="2593">British troops killed in Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="2573" END="2578">troops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E50" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E50-M1802">
+          <extent>
+              <charseq START="2626" END="2639">the Royal Mail</charseq>
+          </extent>
+          <head>
+              <charseq START="2630" END="2639">Royal Mail</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E50-M1804">
+          <extent>
+              <charseq START="2650" END="2653">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2650" END="2653">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Royal Mail">
+              <charseq START="2630" END="2639">Royal Mail</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E51-M1903">
+          <extent>
+              <charseq START="2712" END="2789">veteran actor Burt Kwouk -- best known as Cato in the &quot;Pink Panther&quot; movies --</charseq>
+          </extent>
+          <head>
+              <charseq START="2726" END="2735">Burt Kwouk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E51-M1906">
+          <extent>
+              <charseq START="2720" END="2724">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="2720" END="2724">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Burt Kwouk">
+              <charseq START="2726" END="2735">Burt Kwouk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E52" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E52-M1908">
+          <extent>
+              <charseq START="2754" END="2757">Cato</charseq>
+          </extent>
+          <head>
+              <charseq START="2754" END="2757">Cato</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cato">
+              <charseq START="2754" END="2757">Cato</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E53" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E53-M1910">
+          <extent>
+              <charseq START="2767" END="2778">Pink Panther</charseq>
+          </extent>
+          <head>
+              <charseq START="2767" END="2778">Pink Panther</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pink Panther">
+              <charseq START="2767" END="2778">Pink Panther</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E54" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E54-M1911">
+          <extent>
+              <charseq START="2795" END="2829">folk-rock musician Richard Thompson</charseq>
+          </extent>
+          <head>
+              <charseq START="2814" END="2829">Richard Thompson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E54-M1912">
+          <extent>
+              <charseq START="2805" END="2812">musician</charseq>
+          </extent>
+          <head>
+              <charseq START="2805" END="2812">musician</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Richard Thompson">
+              <charseq START="2814" END="2829">Richard Thompson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E55-M1900">
+          <extent>
+              <charseq START="2680" END="2705">Other entertainers honored</charseq>
+          </extent>
+          <head>
+              <charseq START="2686" END="2697">entertainers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E56-M2102">
+          <extent>
+              <charseq START="2886" END="2936">Academy Award-winning costume designer Sandy Powell</charseq>
+          </extent>
+          <head>
+              <charseq START="2925" END="2936">Sandy Powell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E56-M2106">
+          <extent>
+              <charseq START="2916" END="2923">designer</charseq>
+          </extent>
+          <head>
+              <charseq START="2916" END="2923">designer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sandy Powell">
+              <charseq START="2925" END="2936">Sandy Powell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E57-M2115">
+          <extent>
+              <charseq START="2981" END="3082">movie director Andrea Arnold, whose gritty feature &quot;Fish Tank&quot; was a Cannes Film Festival prize-winner</charseq>
+          </extent>
+          <head>
+              <charseq START="2996" END="3008">Andrea Arnold</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E57-M2118">
+          <extent>
+              <charseq START="2987" END="2994">director</charseq>
+          </extent>
+          <head>
+              <charseq START="2987" END="2994">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E57-M2112">
+          <extent>
+              <charseq START="2960" END="2975">&quot; &quot;The Aviator&quot;)</charseq>
+          </extent>
+          <head>
+              <charseq START="2967" END="2973">Aviator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E57-M2120">
+          <extent>
+              <charseq START="3011" END="3015">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="3011" END="3015">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrea Arnold">
+              <charseq START="2996" END="3008">Andrea Arnold</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E58" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E58-M2123">
+          <extent>
+              <charseq START="3033" END="3041">Fish Tank</charseq>
+          </extent>
+          <head>
+              <charseq START="3038" END="3041">Tank</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E59-M2200">
+          <extent>
+              <charseq START="3094" END="3103">John Lloyd</charseq>
+          </extent>
+          <head>
+              <charseq START="3094" END="3103">John Lloyd</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Lloyd">
+              <charseq START="3094" END="3103">John Lloyd</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E60-M2300">
+          <extent>
+              <charseq START="3239" END="3279">British-born NASA astronaut Piers Sellers</charseq>
+          </extent>
+          <head>
+              <charseq START="3267" END="3279">Piers Sellers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E60-M2303">
+          <extent>
+              <charseq START="3257" END="3265">astronaut</charseq>
+          </extent>
+          <head>
+              <charseq START="3257" END="3265">astronaut</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Piers Sellers">
+              <charseq START="3267" END="3279">Piers Sellers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E61" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E61-M2302">
+          <extent>
+              <charseq START="3252" END="3255">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="3252" END="3255">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NASA">
+              <charseq START="3252" END="3255">NASA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E62" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E62-M2305">
+          <extent>
+              <charseq START="3290" END="3295">an OBE</charseq>
+          </extent>
+          <head>
+              <charseq START="3293" END="3295">OBE</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E63-M2402">
+          <extent>
+              <charseq START="3354" END="3394">British Airways chairman Martin Broughton</charseq>
+          </extent>
+          <head>
+              <charseq START="3379" END="3394">Martin Broughton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E63-M2404">
+          <extent>
+              <charseq START="3370" END="3377">chairman</charseq>
+          </extent>
+          <head>
+              <charseq START="3370" END="3377">chairman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E63-M2500">
+          <extent>
+              <charseq START="3635" END="3643">Broughton</charseq>
+          </extent>
+          <head>
+              <charseq START="3635" END="3643">Broughton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E63-M2506">
+          <extent>
+              <charseq START="3700" END="3701">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3700" END="3701">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Martin Broughton">
+              <charseq START="3379" END="3394">Martin Broughton</charseq>
+          </name>
+          <name NAME="Broughton">
+              <charseq START="3635" END="3643">Broughton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E64" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E64-M2403">
+          <extent>
+              <charseq START="3354" END="3368">British Airways</charseq>
+          </extent>
+          <head>
+              <charseq START="3354" END="3368">British Airways</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E64-M2410">
+          <extent>
+              <charseq START="3445" END="3455">the airline</charseq>
+          </extent>
+          <head>
+              <charseq START="3449" END="3455">airline</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British Airways">
+              <charseq START="3354" END="3368">British Airways</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E65" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E65-M2420" ROLE="GPE">
+          <extent>
+              <charseq START="3547" END="3555">Icelandic</charseq>
+          </extent>
+          <head>
+              <charseq START="3547" END="3555">Icelandic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Icelandic">
+              <charseq START="3547" END="3555">Icelandic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E66" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E66-M2424">
+          <extent>
+              <charseq START="3608" END="3623">Heathrow Airport</charseq>
+          </extent>
+          <head>
+              <charseq START="3608" END="3623">Heathrow Airport</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Heathrow Airport">
+              <charseq START="3608" END="3623">Heathrow Airport</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E67" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E67-M2400">
+          <extent>
+              <charseq START="3334" END="3351">the business world</charseq>
+          </extent>
+          <head>
+              <charseq START="3347" END="3351">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E68" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E68-M2411">
+          <extent>
+              <charseq START="3466" END="3540">customers inconvenienced in the thousands by a series of cabin crew strikes</charseq>
+          </extent>
+          <head>
+              <charseq START="3466" END="3474">customers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E69" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E69-M2508" ROLE="PER">
+          <extent>
+              <charseq START="3711" END="3718">the U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="3715" END="3718">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E69-M2709" ROLE="GPE">
+          <extent>
+              <charseq START="4056" END="4059">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="4056" END="4059">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="3715" END="3718">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="4056" END="4059">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E70" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E70-M2514">
+          <extent>
+              <charseq START="3775" END="3806">airports, such as removing shoes</charseq>
+          </extent>
+          <head>
+              <charseq START="3775" END="3782">airports</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E71" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E71-M2601">
+          <extent>
+              <charseq START="3864" END="3873">Roger Carr</charseq>
+          </extent>
+          <head>
+              <charseq START="3864" END="3873">Roger Carr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E71-M2602">
+          <extent>
+              <charseq START="3876" END="3914">chairman of energy company Centrica PLC</charseq>
+          </extent>
+          <head>
+              <charseq START="3876" END="3883">chairman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E71-M2700">
+          <extent>
+              <charseq START="3941" END="3944">Carr</charseq>
+          </extent>
+          <head>
+              <charseq START="3941" END="3944">Carr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E71-M2701">
+          <extent>
+              <charseq START="3962" END="3984">chairman of Cadbury PLC</charseq>
+          </extent>
+          <head>
+              <charseq START="3962" END="3969">chairman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roger Carr">
+              <charseq START="3864" END="3873">Roger Carr</charseq>
+          </name>
+          <name NAME="Carr">
+              <charseq START="3941" END="3944">Carr</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E72" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E72-M2607">
+          <extent>
+              <charseq START="3903" END="3914">Centrica PLC</charseq>
+          </extent>
+          <head>
+              <charseq START="3903" END="3914">Centrica PLC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E72-M2604">
+          <extent>
+              <charseq START="3888" END="3914">energy company Centrica PLC</charseq>
+          </extent>
+          <head>
+              <charseq START="3895" END="3901">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Centrica PLC">
+              <charseq START="3903" END="3914">Centrica PLC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E73" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E73-M2703">
+          <extent>
+              <charseq START="3974" END="3984">Cadbury PLC</charseq>
+          </extent>
+          <head>
+              <charseq START="3974" END="3984">Cadbury PLC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cadbury PLC">
+              <charseq START="3974" END="3984">Cadbury PLC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E74" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E74-M2708">
+          <extent>
+              <charseq START="4056" END="4087">U.S. food conglomerate Kraft Inc</charseq>
+          </extent>
+          <head>
+              <charseq START="4079" END="4087">Kraft Inc</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E74-M2711">
+          <extent>
+              <charseq START="4066" END="4077">conglomerate</charseq>
+          </extent>
+          <head>
+              <charseq START="4066" END="4077">conglomerate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kraft Inc">
+              <charseq START="4079" END="4087">Kraft Inc</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E75" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E75-M2814">
+          <extent>
+              <charseq START="4216" END="4225">Parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="4216" END="4225">Parliament</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E75-M3008">
+          <extent>
+              <charseq START="4409" END="4418">Parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="4409" END="4418">Parliament</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Parliament">
+              <charseq START="4216" END="4225">Parliament</charseq>
+          </name>
+          <name NAME="Parliament">
+              <charseq START="4409" END="4418">Parliament</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E76" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E76-M2803">
+          <extent>
+              <charseq START="4121" END="4202">politicians for the first time since an expenses scandal last year outraged voters</charseq>
+          </extent>
+          <head>
+              <charseq START="4121" END="4131">politicians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E77" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E77-M2812">
+          <extent>
+              <charseq START="4188" END="4202">outraged voters</charseq>
+          </extent>
+          <head>
+              <charseq START="4197" END="4202">voters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E78" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E78-M2901">
+          <extent>
+              <charseq START="4241" END="4255">Peter Bottomley</charseq>
+          </extent>
+          <head>
+              <charseq START="4241" END="4255">Peter Bottomley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E78-M2902">
+          <extent>
+              <charseq START="4258" END="4291">a Conservative lawmaker since 1975</charseq>
+          </extent>
+          <head>
+              <charseq START="4273" END="4280">lawmaker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Peter Bottomley">
+              <charseq START="4241" END="4255">Peter Bottomley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E79" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E79-M2904" ROLE="GPE">
+          <extent>
+              <charseq START="4260" END="4271">Conservative</charseq>
+          </extent>
+          <head>
+              <charseq START="4260" END="4271">Conservative</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Conservative">
+              <charseq START="4260" END="4271">Conservative</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E80" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E80-M3001">
+          <extent>
+              <charseq START="4334" END="4359">Labour legislator Ann Begg</charseq>
+          </extent>
+          <head>
+              <charseq START="4352" END="4359">Ann Begg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E80-M3003">
+          <extent>
+              <charseq START="4341" END="4350">legislator</charseq>
+          </extent>
+          <head>
+              <charseq START="4341" END="4350">legislator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E80-M3005">
+          <extent>
+              <charseq START="4362" END="4418">the first full-time wheelchair user elected to Parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="4393" END="4396">user</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ann Begg">
+              <charseq START="4352" END="4359">Ann Begg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E81" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E81-M3012">
+          <extent>
+              <charseq START="4453" END="4467">disabled people</charseq>
+          </extent>
+          <head>
+              <charseq START="4462" END="4467">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E82" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E82-M3103">
+          <extent>
+              <charseq START="4535" END="4553">people little known</charseq>
+          </extent>
+          <head>
+              <charseq START="4535" END="4540">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E82-M3107">
+          <extent>
+              <charseq START="4563" END="4567">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4563" END="4567">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101231.0007-E82-M3200">
+          <extent>
+              <charseq START="4603" END="4606">They</charseq>
+          </extent>
+          <head>
+              <charseq START="4603" END="4606">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E83" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E83-M3106">
+          <extent>
+              <charseq START="4563" END="4579">their communities</charseq>
+          </extent>
+          <head>
+              <charseq START="4569" END="4579">communities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E84" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E84-M3203">
+          <extent>
+              <charseq START="4616" END="4628">Eric Sutherns</charseq>
+          </extent>
+          <head>
+              <charseq START="4616" END="4628">Eric Sutherns</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E84-M3204">
+          <extent>
+              <charseq START="4631" END="4725">the bridge master responsible for raising and lowering the arms of London&apos;s iconic Tower Bridge</charseq>
+          </extent>
+          <head>
+              <charseq START="4642" END="4647">master</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eric Sutherns">
+              <charseq START="4616" END="4628">Eric Sutherns</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E85" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E85-M3209">
+          <extent>
+              <charseq START="4698" END="4725">London&apos;s iconic Tower Bridge</charseq>
+          </extent>
+          <head>
+              <charseq START="4714" END="4725">Tower Bridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E85-M3211">
+          <extent>
+              <charseq START="4707" END="4712">iconic</charseq>
+          </extent>
+          <head>
+              <charseq START="4707" END="4712">iconic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E85-M3206">
+          <extent>
+              <charseq START="4635" END="4640">bridge</charseq>
+          </extent>
+          <head>
+              <charseq START="4635" END="4640">bridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tower Bridge">
+              <charseq START="4714" END="4725">Tower Bridge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E86" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E86-M3213">
+          <extent>
+              <charseq START="4732" END="4755">apiarist Anne Buckingham</charseq>
+          </extent>
+          <head>
+              <charseq START="4741" END="4755">Anne Buckingham</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E86-M3214">
+          <extent>
+              <charseq START="4732" END="4739">apiarist</charseq>
+          </extent>
+          <head>
+              <charseq START="4732" END="4739">apiarist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anne Buckingham">
+              <charseq START="4741" END="4755">Anne Buckingham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E87" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101231.0007-E87-M3218" ROLE="LOC">
+          <extent>
+              <charseq START="4804" END="4809">Surrey</charseq>
+          </extent>
+          <head>
+              <charseq START="4804" END="4809">Surrey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Surrey">
+              <charseq START="4804" END="4809">Surrey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101231.0007-E88" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101231.0007-E88-M3207">
+          <extent>
+              <charseq START="4686" END="4725">the arms of London&apos;s iconic Tower Bridge</charseq>
+          </extent>
+          <head>
+              <charseq START="4690" END="4693">arms</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20101231.0007-T0" VAL="2010-12-31-12">
+        <timex2_mention ID="APW_ENG_20101231.0007-T0-M1">
+            <extent>
+              <charseq START="135" END="144">2010-12-31</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T1" VAL="198">
+        <timex2_mention ID="APW_ENG_20101231.0007-T1-M1">
+            <extent>
+              <charseq START="363" END="367">1980s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T2" VAL="198">
+        <timex2_mention ID="APW_ENG_20101231.0007-T2-M1">
+            <extent>
+              <charseq START="937" END="949">several 1980s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T3" VAL="2010-12-31">
+        <timex2_mention ID="APW_ENG_20101231.0007-T3-M1">
+            <extent>
+              <charseq START="968" END="973">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T4" VAL="P1DE">
+        <timex2_mention ID="APW_ENG_20101231.0007-T4-M1">
+            <extent>
+              <charseq START="1030" END="1040">that decade</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T5" VAL="P1Y">
+        <timex2_mention ID="APW_ENG_20101231.0007-T5-M1">
+            <extent>
+              <charseq START="1303" END="1314">twice a year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T6" VAL="P1Y">
+        <timex2_mention ID="APW_ENG_20101231.0007-T6-M1">
+            <extent>
+              <charseq START="1337" END="1344">New Year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T7" VAL="2010-06">
+        <timex2_mention ID="APW_ENG_20101231.0007-T7-M1">
+            <extent>
+              <charseq START="1380" END="1383">June</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T8">
+        <timex2_mention ID="APW_ENG_20101231.0007-T8-M1">
+            <extent>
+              <charseq START="2343" END="2356">Hercule Poirot</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T9" VAL="P1Y">
+        <timex2_mention ID="APW_ENG_20101231.0007-T9-M1">
+            <extent>
+              <charseq START="3426" END="3439">difficult year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T10" VAL="2010-10">
+        <timex2_mention ID="APW_ENG_20101231.0007-T10-M1">
+            <extent>
+              <charseq START="3687" END="3693">October</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T11" VAL="2010">
+        <timex2_mention ID="APW_ENG_20101231.0007-T11-M1">
+            <extent>
+              <charseq START="3986" END="4002">earlier this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T12" VAL="2009">
+        <timex2_mention ID="APW_ENG_20101231.0007-T12-M1">
+            <extent>
+              <charseq START="4178" END="4186">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101231.0007-T13" VAL="1975">
+        <timex2_mention ID="APW_ENG_20101231.0007-T13-M1">
+            <extent>
+              <charseq START="4288" END="4291">1975</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20101231.0007-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R0-M300">
+          <extent>
+              <charseq START="311" END="383">The statuesque Scottish singer, who came to fame in 1980s duo Eurythmics,</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E5-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="311" END="383">The statuesque Scottish singer, who came to fame in 1980s duo Eurythmics,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E4-M303" ROLE="Arg-2">
+            <extent>
+              <charseq START="326" END="333">Scottish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E9" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R1-M400">
+          <extent>
+              <charseq START="522" END="562">an ambassador for development group Oxfam</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E11-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="522" END="562">an ambassador for development group Oxfam</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E9-M406" ROLE="Arg-2">
+            <extent>
+              <charseq START="552" END="556">group</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R2" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E32" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R2-M1300">
+          <extent>
+              <charseq START="1842" END="1846">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E31-M1311" ROLE="Arg-1">
+            <extent>
+              <charseq START="1842" END="1846">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E32-M1310" ROLE="Arg-2">
+            <extent>
+              <charseq START="1842" END="1856">their community</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R3" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E37" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R3-M1500">
+          <extent>
+              <charseq START="2176" END="2230">biographer of Marie Antoinette and Mary, Queen of Scots</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E36-M1504" ROLE="Arg-1">
+            <extent>
+              <charseq START="2176" END="2230">biographer of Marie Antoinette and Mary, Queen of Scots</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E37-M1507" ROLE="Arg-2">
+            <extent>
+              <charseq START="2190" END="2205">Marie Antoinette</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E39" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R4-M1501">
+          <extent>
+              <charseq START="2217" END="2230">Queen of Scots</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E40-M1509" ROLE="Arg-1">
+            <extent>
+              <charseq START="2217" END="2230">Queen of Scots</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E39-M1510" ROLE="Arg-2">
+            <extent>
+              <charseq START="2217" END="2224">Queen of</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E46" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E48" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R5-M1700">
+          <extent>
+              <charseq START="2503" END="2507">whose</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E46-M1709" ROLE="Arg-1">
+            <extent>
+              <charseq START="2503" END="2507">whose</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E48-M1720" ROLE="Arg-2">
+            <extent>
+              <charseq START="2590" END="2593">Iraq</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R6-M1701">
+          <extent>
+              <charseq START="2565" END="2593">British troops killed in Iraq</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E49-M1717" ROLE="Arg-1">
+            <extent>
+              <charseq START="2565" END="2593">British troops killed in Iraq</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E6-M1719" ROLE="Arg-2">
+            <extent>
+              <charseq START="2565" END="2571">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E48" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R7-M1702">
+          <extent>
+              <charseq START="2565" END="2593">British troops killed in Iraq</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E49-M1717" ROLE="Arg-1">
+            <extent>
+              <charseq START="2565" END="2593">British troops killed in Iraq</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E48-M1720" ROLE="Arg-2">
+            <extent>
+              <charseq START="2590" END="2593">Iraq</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R8" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E60" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R8-M2300">
+          <extent>
+              <charseq START="3257" END="3265">astronaut</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E60-M2303" ROLE="Arg-1">
+            <extent>
+              <charseq START="3257" END="3265">astronaut</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E6-M2301" ROLE="Arg-2">
+            <extent>
+              <charseq START="3239" END="3245">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E60" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E61" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R9-M2301">
+          <extent>
+              <charseq START="3257" END="3265">astronaut</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E60-M2303" ROLE="Arg-1">
+            <extent>
+              <charseq START="3257" END="3265">astronaut</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E61-M2302" ROLE="Arg-2">
+            <extent>
+              <charseq START="3252" END="3255">NASA</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E63" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E64" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R10-M2400">
+          <extent>
+              <charseq START="3370" END="3377">chairman</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E63-M2404" ROLE="Arg-1">
+            <extent>
+              <charseq START="3370" END="3377">chairman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E64-M2403" ROLE="Arg-2">
+            <extent>
+              <charseq START="3354" END="3368">British Airways</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E71" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E72" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R11-M2600">
+          <extent>
+              <charseq START="3876" END="3914">chairman of energy company Centrica PLC</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E71-M2602" ROLE="Arg-1">
+            <extent>
+              <charseq START="3876" END="3914">chairman of energy company Centrica PLC</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E72-M2604" ROLE="Arg-2">
+            <extent>
+              <charseq START="3888" END="3914">energy company Centrica PLC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R12" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E71" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E73" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R12-M2700">
+          <extent>
+              <charseq START="3962" END="3984">chairman of Cadbury PLC</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E71-M2701" ROLE="Arg-1">
+            <extent>
+              <charseq START="3962" END="3984">chairman of Cadbury PLC</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E73-M2703" ROLE="Arg-2">
+            <extent>
+              <charseq START="3974" END="3984">Cadbury PLC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R13" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E74" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E69" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R13-M2701">
+          <extent>
+              <charseq START="4066" END="4077">conglomerate</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E74-M2711" ROLE="Arg-1">
+            <extent>
+              <charseq START="4066" END="4077">conglomerate</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E69-M2709" ROLE="Arg-2">
+            <extent>
+              <charseq START="4056" END="4059">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R14" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E78" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E79" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R14-M2900">
+          <extent>
+              <charseq START="4258" END="4291">a Conservative lawmaker since 1975</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E78-M2902" ROLE="Arg-1">
+            <extent>
+              <charseq START="4258" END="4291">a Conservative lawmaker since 1975</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E79-M2904" ROLE="Arg-2">
+            <extent>
+              <charseq START="4260" END="4271">Conservative</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R15" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E80" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E75" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R15-M3000">
+          <extent>
+              <charseq START="4362" END="4418">the first full-time wheelchair user elected to Parliament</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E80-M3005" ROLE="Arg-1">
+            <extent>
+              <charseq START="4362" END="4418">the first full-time wheelchair user elected to Parliament</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E75-M3008" ROLE="Arg-2">
+            <extent>
+              <charseq START="4409" END="4418">Parliament</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R16" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E82" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E83" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R16-M3100">
+          <extent>
+              <charseq START="4563" END="4567">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E82-M3107" ROLE="Arg-1">
+            <extent>
+              <charseq START="4563" END="4567">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E83-M3106" ROLE="Arg-2">
+            <extent>
+              <charseq START="4563" END="4579">their communities</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101231.0007-R17" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101231.0007-E85" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101231.0007-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101231.0007-R17-M3200">
+          <extent>
+              <charseq START="4707" END="4712">iconic</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E85-M3211" ROLE="Arg-1">
+            <extent>
+              <charseq START="4707" END="4712">iconic</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101231.0007-E2-M3210" ROLE="Arg-2">
+            <extent>
+              <charseq START="4698" END="4703">London</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

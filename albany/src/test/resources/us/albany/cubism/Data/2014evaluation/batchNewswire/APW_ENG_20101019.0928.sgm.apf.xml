@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20101019.0928">
+  <document DOCID="APW_ENG_20101019.0928">
+
+    <entity ID="APW_ENG_20101019.0928-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E0-M0">
+          <extent>
+              <charseq START="58" END="62">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E0-M200">
+          <extent>
+              <charseq START="194" END="215">President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="215">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101019.0928-E0-M201">
+          <extent>
+              <charseq START="194" END="202">President</charseq>
+          </extent>
+          <head>
+              <charseq START="194" END="202">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101019.0928-E0-M204">
+          <extent>
+              <charseq START="227" END="229">his</charseq>
+          </extent>
+          <head>
+              <charseq START="227" END="229">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E0-M304">
+          <extent>
+              <charseq START="335" END="339">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="335" END="339">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E0-M600">
+          <extent>
+              <charseq START="719" END="723">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="719" END="723">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101019.0928-E0-M704">
+          <extent>
+              <charseq START="771" END="783">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="775" END="783">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Obama">
+              <charseq START="58" END="62">Obama</charseq>
+          </name>
+          <name NAME="Barack Obama">
+              <charseq START="204" END="215">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="335" END="339">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="719" END="723">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101019.0928-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E1-M1">
+          <extent>
+              <charseq START="77" END="83">Stewart</charseq>
+          </extent>
+          <head>
+              <charseq START="77" END="83">Stewart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E1-M208">
+          <extent>
+              <charseq START="273" END="283">Jon Stewart</charseq>
+          </extent>
+          <head>
+              <charseq START="273" END="283">Jon Stewart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E1-M400">
+          <extent>
+              <charseq START="416" END="422">Stewart</charseq>
+          </extent>
+          <head>
+              <charseq START="416" END="422">Stewart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101019.0928-E1-M407">
+          <extent>
+              <charseq START="492" END="493">he</charseq>
+          </extent>
+          <head>
+              <charseq START="492" END="493">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101019.0928-E1-M500">
+          <extent>
+              <charseq START="576" END="610">The host of the Comedy Central show</charseq>
+          </extent>
+          <head>
+              <charseq START="580" END="583">host</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E1-M602">
+          <extent>
+              <charseq START="743" END="749">Stewart</charseq>
+          </extent>
+          <head>
+              <charseq START="743" END="749">Stewart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E1-M706">
+          <extent>
+              <charseq START="807" END="813">Stewart</charseq>
+          </extent>
+          <head>
+              <charseq START="807" END="813">Stewart</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stewart">
+              <charseq START="77" END="83">Stewart</charseq>
+          </name>
+          <name NAME="Jon Stewart">
+              <charseq START="273" END="283">Jon Stewart</charseq>
+          </name>
+          <name NAME="Stewart">
+              <charseq START="416" END="422">Stewart</charseq>
+          </name>
+          <name NAME="Stewart">
+              <charseq START="743" END="749">Stewart</charseq>
+          </name>
+          <name NAME="Stewart">
+              <charseq START="807" END="813">Stewart</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101019.0928-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="136" END="145">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="145">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E2-M401" ROLE="LOC">
+          <extent>
+              <charseq START="437" END="446">Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="437" END="446">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="136" END="145">WASHINGTON</charseq>
+          </name>
+          <name NAME="Washington">
+              <charseq START="437" END="446">Washington</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101019.0928-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E3-M300">
+          <extent>
+              <charseq START="295" END="328">White House spokesman Dan Pfeiffer</charseq>
+          </extent>
+          <head>
+              <charseq START="317" END="328">Dan Pfeiffer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101019.0928-E3-M302">
+          <extent>
+              <charseq START="307" END="315">spokesman</charseq>
+          </extent>
+          <head>
+              <charseq START="307" END="315">spokesman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dan Pfeiffer">
+              <charseq START="317" END="328">Dan Pfeiffer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101019.0928-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E4-M301">
+          <extent>
+              <charseq START="295" END="305">White House</charseq>
+          </extent>
+          <head>
+              <charseq START="295" END="305">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House">
+              <charseq START="295" END="305">White House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101019.0928-E5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E5-M413">
+          <extent>
+              <charseq START="548" END="564">the National Mall</charseq>
+          </extent>
+          <head>
+              <charseq START="552" END="564">National Mall</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Mall">
+              <charseq START="552" END="564">National Mall</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101019.0928-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101019.0928-E6-M503">
+          <extent>
+              <charseq START="592" END="605">Comedy Central</charseq>
+          </extent>
+          <head>
+              <charseq START="592" END="605">Comedy Central</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Comedy Central">
+              <charseq START="592" END="605">Comedy Central</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101019.0928-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101019.0928-E7-M505">
+          <extent>
+              <charseq START="634" END="707">people who think the loudest voices shouldn&apos;t be the only ones people hear</charseq>
+          </extent>
+          <head>
+              <charseq START="634" END="639">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101019.0928-E7-M509">
+          <extent>
+              <charseq START="683" END="702">the only ones people</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="702">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101019.0928-E7-M507">
+          <extent>
+              <charseq START="641" END="643">who</charseq>
+          </extent>
+          <head>
+              <charseq START="641" END="643">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20101019.0928-T0" VAL="2010-10-27">
+        <timex2_mention ID="APW_ENG_20101019.0928-T0-M1">
+            <extent>
+              <charseq START="105" END="111">Oct. 27</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101019.0928-T1" VAL="2010-10-19-10">
+        <timex2_mention ID="APW_ENG_20101019.0928-T1-M1">
+            <extent>
+              <charseq START="147" END="156">2010-10-19</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101019.0928-T2" VAL="2010-11-02" MOD="BEFORE">
+        <timex2_mention ID="APW_ENG_20101019.0928-T2-M1">
+            <extent>
+              <charseq START="368" END="403">Oct. 27, just days before the Nov. 2</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101019.0928-T3" VAL="2010-W44">
+        <timex2_mention ID="APW_ENG_20101019.0928-T3-M1">
+            <extent>
+              <charseq START="448" END="456">next week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101019.0928-T4" VAL="2010-10-22">
+        <timex2_mention ID="APW_ENG_20101019.0928-T4-M1">
+            <extent>
+              <charseq START="506" END="542">three days later on Saturday, Oct. 30</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101019.0928-T5" VAL="PAST_REF" ANCHOR_VAL="2010-10-19" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="APW_ENG_20101019.0928-T5-M1">
+            <extent>
+              <charseq START="725" END="732">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20101019.0928-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101019.0928-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101019.0928-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101019.0928-R0-M300">
+          <extent>
+              <charseq START="307" END="315">spokesman</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101019.0928-E3-M302" ROLE="Arg-1">
+            <extent>
+              <charseq START="307" END="315">spokesman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101019.0928-E4-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="295" END="305">White House</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101019.0928-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101019.0928-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101019.0928-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101019.0928-R1-M400">
+          <extent>
+              <charseq START="416" END="422">Stewart</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101019.0928-E1-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="416" END="422">Stewart</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101019.0928-E2-M401" ROLE="Arg-2">
+            <extent>
+              <charseq START="437" END="446">Washington</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101019.0928-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101019.0928-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101019.0928-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101019.0928-R2-M500">
+          <extent>
+              <charseq START="576" END="610">The host of the Comedy Central show</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101019.0928-E1-M500" ROLE="Arg-1">
+            <extent>
+              <charseq START="576" END="610">The host of the Comedy Central show</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101019.0928-E6-M503" ROLE="Arg-2">
+            <extent>
+              <charseq START="592" END="605">Comedy Central</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

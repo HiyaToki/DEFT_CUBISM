@@ -1,0 +1,386 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100414.0141">
+  <document DOCID="AFP_ENG_20100414.0141">
+
+    <entity ID="AFP_ENG_20100414.0141-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E0-M0">
+          <extent>
+              <charseq START="58" END="62">Sudan</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Sudan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E0-M303" ROLE="GPE">
+          <extent>
+              <charseq START="176" END="183">Sudanese</charseq>
+          </extent>
+          <head>
+              <charseq START="176" END="183">Sudanese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0141-E0-M317" ROLE="LOC">
+          <extent>
+              <charseq START="367" END="377">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="371" END="377">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E0-M802" ROLE="LOC">
+          <extent>
+              <charseq START="624" END="665">Sudan
+because of their dubious credentials</charseq>
+          </extent>
+          <head>
+              <charseq START="624" END="628">Sudan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100414.0141-E0-M805">
+          <extent>
+              <charseq START="641" END="645">their</charseq>
+          </extent>
+          <head>
+              <charseq START="641" END="645">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sudan">
+              <charseq START="58" END="62">Sudan</charseq>
+          </name>
+          <name NAME="Sudanese">
+              <charseq START="176" END="183">Sudanese</charseq>
+          </name>
+          <name NAME="Sudan">
+              <charseq START="624" END="628">Sudan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0141-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E1-M1">
+          <extent>
+              <charseq START="69" END="71">ICG</charseq>
+          </extent>
+          <head>
+              <charseq START="69" END="71">ICG</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E1-M311">
+          <extent>
+              <charseq START="264" END="289">International Crisis Group</charseq>
+          </extent>
+          <head>
+              <charseq START="264" END="289">International Crisis Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0141-E1-M310">
+          <extent>
+              <charseq START="258" END="261">tank</charseq>
+          </extent>
+          <head>
+              <charseq START="258" END="261">tank</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E1-M400">
+          <extent>
+              <charseq START="390" END="392">ICG</charseq>
+          </extent>
+          <head>
+              <charseq START="390" END="392">ICG</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0141-E1-M401">
+          <extent>
+              <charseq START="397" END="419">a party to the conflict</charseq>
+          </extent>
+          <head>
+              <charseq START="399" END="403">party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E1-M812">
+          <extent>
+              <charseq START="726" END="728">ICG</charseq>
+          </extent>
+          <head>
+              <charseq START="726" END="728">ICG</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100414.0141-E1-M800">
+          <extent>
+              <charseq START="597" END="600">They</charseq>
+          </extent>
+          <head>
+              <charseq START="597" END="600">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E1-M901">
+          <extent>
+              <charseq START="759" END="765">the ICG</charseq>
+          </extent>
+          <head>
+              <charseq START="763" END="765">ICG</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ICG">
+              <charseq START="69" END="71">ICG</charseq>
+          </name>
+          <name NAME="International Crisis Group">
+              <charseq START="264" END="289">International Crisis Group</charseq>
+          </name>
+          <name NAME="ICG">
+              <charseq START="390" END="392">ICG</charseq>
+          </name>
+          <name NAME="ICG">
+              <charseq START="726" END="728">ICG</charseq>
+          </name>
+          <name NAME="ICG">
+              <charseq START="763" END="765">ICG</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0141-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="108" END="115">Khartoum</charseq>
+          </extent>
+          <head>
+              <charseq START="108" END="115">Khartoum</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Khartoum">
+              <charseq START="108" END="115">Khartoum</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0141-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E3-M200">
+          <extent>
+              <charseq START="134" END="136">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="134" END="136">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E3-M608">
+          <extent>
+              <charseq START="545" END="547">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="545" END="547">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="134" END="136">AFP</charseq>
+          </name>
+          <name NAME="AFP">
+              <charseq START="545" END="547">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0141-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E4-M302">
+          <extent>
+              <charseq START="176" END="208">Sudanese President Omar al-Beshir</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="208">Omar al-Beshir</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0141-E4-M304">
+          <extent>
+              <charseq START="185" END="193">President</charseq>
+          </extent>
+          <head>
+              <charseq START="185" END="193">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0141-E4-M300">
+          <extent>
+              <charseq START="162" END="208">An advisor to Sudanese President Omar al-Beshir</charseq>
+          </extent>
+          <head>
+              <charseq START="165" END="171">advisor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E4-M904">
+          <extent>
+              <charseq START="772" END="777">Beshir</charseq>
+          </extent>
+          <head>
+              <charseq START="772" END="777">Beshir</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0141-E4-M909">
+          <extent>
+              <charseq START="892" END="910">the eventual
+winner</charseq>
+          </extent>
+          <head>
+              <charseq START="905" END="910">winner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Omar al-Beshir">
+              <charseq START="195" END="208">Omar al-Beshir</charseq>
+          </name>
+          <name NAME="Beshir">
+              <charseq START="772" END="777">Beshir</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0141-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E5-M307" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="233" END="250">the
+Brussels-based</charseq>
+          </extent>
+          <head>
+              <charseq START="237" END="244">Brussels</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0141-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E7-M604">
+          <extent>
+              <charseq START="485" END="500">Ghazi Salaheddin</charseq>
+          </extent>
+          <head>
+              <charseq START="485" END="500">Ghazi Salaheddin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E7-M806">
+          <extent>
+              <charseq START="669" END="678">Salaheddin</charseq>
+          </extent>
+          <head>
+              <charseq START="669" END="678">Salaheddin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ghazi Salaheddin">
+              <charseq START="485" END="500">Ghazi Salaheddin</charseq>
+          </name>
+          <name NAME="Salaheddin">
+              <charseq START="669" END="678">Salaheddin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0141-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0141-E8-M607">
+          <extent>
+              <charseq START="524" END="532">reporters</charseq>
+          </extent>
+          <head>
+              <charseq START="524" END="532">reporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0141-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0141-E10-M903">
+          <extent>
+              <charseq START="772" END="803">Beshir&apos;s National Congress Party</charseq>
+          </extent>
+          <head>
+              <charseq START="781" END="803">National Congress Party</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Congress Party">
+              <charseq START="781" END="803">National Congress Party</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100414.0141-T0" VAL="2010-04-14">
+        <timex2_mention ID="AFP_ENG_20100414.0141-T0-M1">
+            <extent>
+              <charseq START="118" END="131">April 14, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100414.0141-T1" VAL="2010-04-14">
+        <timex2_mention ID="AFP_ENG_20100414.0141-T1-M1">
+            <extent>
+              <charseq START="218" END="226">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100414.0141-T2" VAL="PAST_REF" ANCHOR_VAL="2010-04-14" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20100414.0141-T2-M1">
+            <extent>
+              <charseq START="719" END="724">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100414.0141-T3" VAL="2010-03">
+        <timex2_mention ID="AFP_ENG_20100414.0141-T3-M1">
+            <extent>
+              <charseq START="747" END="756">Last month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100414.0141-T4" VAL="2010-W16">
+        <timex2_mention ID="AFP_ENG_20100414.0141-T4-M1">
+            <extent>
+              <charseq START="842" END="850">this week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100414.0141-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100414.0141-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100414.0141-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100414.0141-R0-M301">
+          <extent>
+              <charseq START="185" END="193">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0141-E4-M304" ROLE="Arg-1">
+            <extent>
+              <charseq START="185" END="193">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0141-E0-M303" ROLE="Arg-2">
+            <extent>
+              <charseq START="176" END="183">Sudanese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100414.0141-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100414.0141-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100414.0141-E10" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100414.0141-R1-M900">
+          <extent>
+              <charseq START="772" END="777">Beshir</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0141-E4-M904" ROLE="Arg-1">
+            <extent>
+              <charseq START="772" END="777">Beshir</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0141-E10-M903" ROLE="Arg-2">
+            <extent>
+              <charseq START="772" END="803">Beshir&apos;s National Congress Party</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,676 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100713.0326">
+  <document DOCID="XIN_ENG_20100713.0326">
+
+    <entity ID="XIN_ENG_20100713.0326-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E0-M100">
+          <extent>
+              <charseq START="66" END="70">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="66" END="70">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E0-M400">
+          <extent>
+              <charseq START="195" END="221">U.S. President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="210" END="221">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E0-M402">
+          <extent>
+              <charseq START="200" END="208">President</charseq>
+          </extent>
+          <head>
+              <charseq START="200" END="208">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E0-M606">
+          <extent>
+              <charseq START="556" END="560">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="556" END="560">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E0-M610">
+          <extent>
+              <charseq START="627" END="631">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="627" END="631">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E0-M800">
+          <extent>
+              <charseq START="814" END="818">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="814" END="818">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E0-M900">
+          <extent>
+              <charseq START="1117" END="1121">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1117" END="1121">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E0-M1104">
+          <extent>
+              <charseq START="1574" END="1578">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1574" END="1578">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Obama">
+              <charseq START="66" END="70">Obama</charseq>
+          </name>
+          <name NAME="Barack Obama">
+              <charseq START="210" END="221">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="556" END="560">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="627" END="631">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="814" END="818">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="1117" END="1121">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="1574" END="1578">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E1-M101">
+          <extent>
+              <charseq START="82" END="118">Jocab Lew as White House budget chief</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="90">Jocab Lew</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E1-M500">
+          <extent>
+              <charseq START="386" END="388">Lew</charseq>
+          </extent>
+          <head>
+              <charseq START="386" END="388">Lew</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100713.0326-E1-M503">
+          <extent>
+              <charseq START="418" END="419">he</charseq>
+          </extent>
+          <head>
+              <charseq START="418" END="419">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E1-M701">
+          <extent>
+              <charseq START="700" END="708">Jocab Lew</charseq>
+          </extent>
+          <head>
+              <charseq START="700" END="708">Jocab Lew</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jocab Lew">
+              <charseq START="82" END="90">Jocab Lew</charseq>
+          </name>
+          <name NAME="Lew">
+              <charseq START="386" END="388">Lew</charseq>
+          </name>
+          <name NAME="Jocab Lew">
+              <charseq START="700" END="708">Jocab Lew</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E2-M104">
+          <extent>
+              <charseq START="95" END="105">White House</charseq>
+          </extent>
+          <head>
+              <charseq START="95" END="105">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E2-M414">
+          <extent>
+              <charseq START="341" END="355">the White House</charseq>
+          </extent>
+          <head>
+              <charseq START="345" END="355">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House">
+              <charseq START="95" END="105">White House</charseq>
+          </name>
+          <name NAME="White House">
+              <charseq START="345" END="355">White House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E3-M201" ROLE="LOC">
+          <extent>
+              <charseq START="143" END="152">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="143" END="152">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="143" END="152">WASHINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E4-M300">
+          <extent>
+              <charseq START="164" END="169">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="164" END="169">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="164" END="169">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E5-M401" ROLE="GPE">
+          <extent>
+              <charseq START="195" END="198">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="198">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E5-M814">
+          <extent>
+              <charseq START="1059" END="1068">our nation</charseq>
+          </extent>
+          <head>
+              <charseq START="1063" END="1068">nation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E5-M1002" ROLE="GPE">
+          <extent>
+              <charseq START="1347" END="1350">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1347" END="1350">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="195" END="198">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="1347" END="1350">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E6-M407">
+          <extent>
+              <charseq START="257" END="271">State Jacob Lew</charseq>
+          </extent>
+          <head>
+              <charseq START="263" END="271">Jacob Lew</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E6-M404">
+          <extent>
+              <charseq START="237" END="271">Deputy Secretary of State Jacob Lew</charseq>
+          </extent>
+          <head>
+              <charseq START="244" END="252">Secretary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E6-M410">
+          <extent>
+              <charseq START="276" END="338">new director of the White House Office of Management and Budget</charseq>
+          </extent>
+          <head>
+              <charseq START="280" END="287">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jacob Lew">
+              <charseq START="263" END="271">Jacob Lew</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E7-M408">
+          <extent>
+              <charseq START="257" END="261">State</charseq>
+          </extent>
+          <head>
+              <charseq START="257" END="261">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="State">
+              <charseq START="257" END="261">State</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E8-M412">
+          <extent>
+              <charseq START="292" END="338">the White House Office of Management and Budget</charseq>
+          </extent>
+          <head>
+              <charseq START="296" END="338">White House Office of Management and Budget</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House Office of Management and Budget">
+              <charseq START="296" END="338">White House Office of Management and Budget</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E9-M501">
+          <extent>
+              <charseq START="406" END="415">the Senate</charseq>
+          </extent>
+          <head>
+              <charseq START="410" END="415">Senate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E9-M508">
+          <extent>
+              <charseq START="462" END="479">the administration</charseq>
+          </extent>
+          <head>
+              <charseq START="466" END="479">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E9-M605">
+          <extent>
+              <charseq START="552" END="575">the Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="562" END="575">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E9-M707">
+          <extent>
+              <charseq START="759" END="787">former Clinton
+administration</charseq>
+          </extent>
+          <head>
+              <charseq START="774" END="787">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E9-M812">
+          <extent>
+              <charseq START="997" END="1015">this administration</charseq>
+          </extent>
+          <head>
+              <charseq START="1002" END="1015">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E9-M905">
+          <extent>
+              <charseq START="1166" END="1188">the next administration</charseq>
+          </extent>
+          <head>
+              <charseq START="1175" END="1188">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E9-M1103">
+          <extent>
+              <charseq START="1570" END="1593">the Obama
+administration</charseq>
+          </extent>
+          <head>
+              <charseq START="1580" END="1593">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Senate">
+              <charseq START="410" END="415">Senate</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E10-M505">
+          <extent>
+              <charseq START="434" END="503">Peter Orszag who is leaving
+the administration at the end of the month</charseq>
+          </extent>
+          <head>
+              <charseq START="434" END="445">Peter Orszag</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100713.0326-E10-M507">
+          <extent>
+              <charseq START="447" END="449">who</charseq>
+          </extent>
+          <head>
+              <charseq START="447" END="449">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E10-M601">
+          <extent>
+              <charseq START="506" END="511">Orszag</charseq>
+          </extent>
+          <head>
+              <charseq START="506" END="511">Orszag</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E10-M602">
+          <extent>
+              <charseq START="514" END="575">the first key official who
+will leave the Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="528" END="535">official</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100713.0326-E10-M604">
+          <extent>
+              <charseq START="537" END="539">who</charseq>
+          </extent>
+          <head>
+              <charseq START="537" END="539">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Peter Orszag">
+              <charseq START="434" END="445">Peter Orszag</charseq>
+          </name>
+          <name NAME="Orszag">
+              <charseq START="506" END="511">Orszag</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E11-M708">
+          <extent>
+              <charseq START="766" END="772">Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="766" END="772">Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E11-M911">
+          <extent>
+              <charseq START="1239" END="1255">President Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="1249" END="1255">Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E11-M912">
+          <extent>
+              <charseq START="1239" END="1247">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1239" END="1247">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Clinton">
+              <charseq START="766" END="772">Clinton</charseq>
+          </name>
+          <name NAME="Clinton">
+              <charseq START="1249" END="1255">Clinton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100713.0326-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E12-M805">
+          <extent>
+              <charseq START="879" END="882">Jack</charseq>
+          </extent>
+          <head>
+              <charseq START="879" END="882">Jack</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100713.0326-E12-M807">
+          <extent>
+              <charseq START="908" END="910">his</charseq>
+          </extent>
+          <head>
+              <charseq START="908" END="910">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100713.0326-E12-M917">
+          <extent>
+              <charseq START="1279" END="1282">Jack</charseq>
+          </extent>
+          <head>
+              <charseq START="1279" END="1282">Jack</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100713.0326-E12-M901">
+          <extent>
+              <charseq START="1137" END="1164">the budget director who left</charseq>
+          </extent>
+          <head>
+              <charseq START="1148" END="1155">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100713.0326-E12-M904">
+          <extent>
+              <charseq START="1157" END="1159">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1157" END="1159">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100713.0326-E12-M909">
+          <extent>
+              <charseq START="1225" END="1226">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1225" END="1226">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jack">
+              <charseq START="879" END="882">Jack</charseq>
+          </name>
+          <name NAME="Jack">
+              <charseq START="1279" END="1282">Jack</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100713.0326-T0" VAL="2010-07-13">
+        <timex2_mention ID="XIN_ENG_20100713.0326-T0-M1">
+            <extent>
+              <charseq START="155" END="161">July 13</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100713.0326-T1" VAL="2010-07-13">
+        <timex2_mention ID="XIN_ENG_20100713.0326-T1-M1">
+            <extent>
+              <charseq START="365" END="371">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100713.0326-T2" VAL="2010-07" MOD="END">
+        <timex2_mention ID="XIN_ENG_20100713.0326-T2-M1">
+            <extent>
+              <charseq START="484" END="503">the end of the month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100713.0326-T3" VAL="PXDE">
+        <timex2_mention ID="XIN_ENG_20100713.0326-T3-M1">
+            <extent>
+              <charseq START="682" END="688">decades</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100713.0326-T4" VAL="PAST_REF" ANCHOR_VAL="2010-07-13" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20100713.0326-T4-M1">
+            <extent>
+              <charseq START="759" END="764">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="XIN_ENG_20100713.0326-V5" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="XIN_ENG_20100713.0326-V5-M1">
+            <extent>
+              <charseq START="1192" END="1210">237
+billion dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="XIN_ENG_20100713.0326-V6" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="XIN_ENG_20100713.0326-V6-M1">
+            <extent>
+              <charseq START="1392" END="1412">1.42 trillion dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="XIN_ENG_20100713.0326-T7" VAL="2009">
+        <timex2_mention ID="XIN_ENG_20100713.0326-T7-M1">
+            <extent>
+              <charseq START="1417" END="1432">fiscal
+year 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="XIN_ENG_20100713.0326-V8" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="XIN_ENG_20100713.0326-V8-M1">
+            <extent>
+              <charseq START="1462" END="1481">1.5 trillion dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="XIN_ENG_20100713.0326-T9" VAL="2010">
+        <timex2_mention ID="XIN_ENG_20100713.0326-T9-M1">
+            <extent>
+              <charseq START="1486" END="1489">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100713.0326-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100713.0326-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100713.0326-E5" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100713.0326-R0-M400">
+          <extent>
+              <charseq START="200" END="208">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100713.0326-E0-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="200" END="208">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100713.0326-E5-M401" ROLE="Arg-2">
+            <extent>
+              <charseq START="195" END="198">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100713.0326-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100713.0326-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100713.0326-E8" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100713.0326-R1-M401">
+          <extent>
+              <charseq START="276" END="338">new director of the White House Office of Management and Budget</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100713.0326-E6-M410" ROLE="Arg-1">
+            <extent>
+              <charseq START="276" END="338">new director of the White House Office of Management and Budget</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100713.0326-E8-M412" ROLE="Arg-2">
+            <extent>
+              <charseq START="292" END="338">the White House Office of Management and Budget</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100713.0326-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100713.0326-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100713.0326-E9" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100713.0326-R2-M700">
+          <extent>
+              <charseq START="766" END="772">Clinton</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100713.0326-E11-M708" ROLE="Arg-1">
+            <extent>
+              <charseq START="766" END="772">Clinton</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100713.0326-E9-M707" ROLE="Arg-2">
+            <extent>
+              <charseq START="759" END="787">former Clinton
+administration</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100713.0326-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100713.0326-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100713.0326-E9" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100713.0326-R3-M900">
+          <extent>
+              <charseq START="1137" END="1164">the budget director who left</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100713.0326-E12-M901" ROLE="Arg-1">
+            <extent>
+              <charseq START="1137" END="1164">the budget director who left</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100713.0326-E9-M905" ROLE="Arg-2">
+            <extent>
+              <charseq START="1166" END="1188">the next administration</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

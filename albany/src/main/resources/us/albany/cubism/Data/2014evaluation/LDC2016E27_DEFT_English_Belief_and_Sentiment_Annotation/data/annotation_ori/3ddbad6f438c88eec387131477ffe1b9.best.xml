@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56997dcb0000000000000018">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-762">
+        <trigger offset="1151" length="7">partner</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-772">
+        <trigger offset="2839" length="7">husband</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-444" offset="2555" length="6">tanith</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-782">
+        <trigger offset="3316" length="7">partner</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1851">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-792">
+        <trigger offset="3568" length="7">parents</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1761">
+        <trigger offset="4012" length="7">parents</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-802">
+        <trigger offset="3944" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1347">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-444" offset="2555" length="6">tanith</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1693">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1703">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1728">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1771">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1791">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1801">
+        <trigger offset="459" length="7">friends</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1811">
+        <trigger offset="1908" length="5">house</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1821">
+        <trigger offset="1980" length="5">house</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1831">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-444" offset="2555" length="6">tanith</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1841">
+        <trigger offset="4092" length="6">family</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-818">
+        <trigger offset="2981" length="7">married</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-444" offset="2555" length="6">tanith</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-492" offset="2974" length="2">
+            <text>We</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-444" offset="2555" length="6">tanith</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-839">
+        <trigger offset="3012" length="4">baby</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-444" offset="2555" length="6">tanith</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-498" offset="3010" length="6">
+            <text>a baby</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-444" offset="2555" length="6">tanith</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-860">
+        <trigger offset="3339" length="7">married</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-624" offset="3313" length="10">
+            <text>my partner</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-522" offset="3328" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-934" offset="3330" length="8">
+            <text>recently</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-881">
+        <trigger offset="3576" length="6">giving</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-738" offset="3565" length="10">
+            <text>my parents</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-654" offset="3583" length="2">
+            <text>us</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-902">
+        <trigger offset="4020" length="6">paying</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-744" offset="4009" length="10">
+            <text>my parents</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-696" offset="4031" length="3">
+            <text>our</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1034">
+        <trigger offset="920" length="4">earn</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-150" offset="918" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1057">
+        <trigger offset="1185" length="4">rent</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-402" offset="1182" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1080">
+        <trigger offset="1413" length="7">married</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-186" offset="1393" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-384" offset="1425" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1115">
+        <trigger offset="1852" length="3">get</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-234" offset="1822" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1868">
+        <trigger offset="1836" length="6">earner</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-240" offset="1827" length="15">
+            <text>the main earner</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1162">
+        <trigger offset="1974" length="3">buy</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-426" offset="1968" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1147" offset="1978" length="7">
+            <text>a house</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1208">
+        <trigger offset="2068" length="3">buy</trigger>
+        <beliefs>
+          <belief type="cb" polarity="neg" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-438" offset="2059" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="cb" polarity="neg" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1236" offset="2072" length="7">
+            <text>a house</text>
+            <beliefs>
+              <belief type="cb" polarity="neg" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1185">
+        <trigger offset="2049" length="3">pay</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-426" offset="1968" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1249">
+        <trigger offset="2088" length="7">married</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-438" offset="2059" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1302">
+        <trigger offset="2692" length="7">married</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-444" offset="2555" length="6">tanith</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1296" offset="2667" length="8">
+            <text>everyone</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-444" offset="2555" length="6">tanith</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1395">
+        <trigger offset="3360" length="4">rent</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-648" offset="3352" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1418">
+        <trigger offset="3615" length="7">wedding</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-654" offset="3583" length="2">
+            <text>us</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1441">
+        <trigger offset="3659" length="7">wedding</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-660" offset="3624" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1568">
+        <trigger offset="3986" length="7">wedding</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-690" offset="3914" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1589">
+        <trigger offset="4049" length="7">wedding</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-702" offset="4045" length="3">
+            <text>our</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1462">
+        <trigger offset="3690" length="4">earn</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-666" offset="3682" length="2">
+            <text>We</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1485">
+        <trigger offset="3736" length="3">pay</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-672" offset="3715" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1508">
+        <trigger offset="3768" length="3">buy</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="f-1525" offset="3772" length="7">
+            <text>clothes</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1533" offset="3781" length="4">
+            <text>food</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-678" offset="3740" length="3">
+            <text>our</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1538">
+        <trigger offset="3935" length="2">go</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-690" offset="3914" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-756" offset="3951" length="2">
+            <text>UK</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1738">
+        <trigger offset="2829" length="4">paid</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-444" offset="2555" length="6">tanith</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-462" offset="2800" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-444" offset="2555" length="6">tanith</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1622">
+        <trigger offset="4116" length="6">buying</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-708" offset="4067" length="2">
+            <text>We</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1616" offset="4123" length="7">
+            <text>a house</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1665">
+        <trigger offset="4872" length="6">buying</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-732" offset="4822" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1659" offset="4879" length="7">
+            <text>a house</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1919">
+        <trigger offset="1974" length="3">buy</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-426" offset="1968" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1942">
+        <trigger offset="2068" length="3">buy</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-438" offset="2059" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1963">
+        <trigger offset="3768" length="3">buy</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-678" offset="3740" length="3">
+            <text>our</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1993">
+        <trigger offset="4116" length="6">buying</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-708" offset="4067" length="2">
+            <text>We</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-2016">
+        <trigger offset="4872" length="6">buying</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-732" offset="4822" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-102" offset="547" length="1">
+        <text>I</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-108" offset="575" length="1">
+        <text>I</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-354" offset="1148" length="10">
+        <text>my partner</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-360" offset="1200" length="2">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-366" offset="1234" length="2">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-372" offset="1248" length="2">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-983" offset="459" length="92">
+        <text>friends of the same age who seem to be a little further along in their 'life plan' than I am</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1722" offset="524" length="5">
+        <text>their</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1138" offset="1900" length="13">
+        <text>our own house</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1659" offset="4879" length="7">
+        <text>a house</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-762">
+        <trigger offset="1151" length="7">partner</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-1703">
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-1771">
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-1811">
+        <trigger offset="1908" length="5">house</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-1841">
+        <trigger offset="4092" length="6">family</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-504" offset="3172" length="9">4nnabella</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-1034">
+        <trigger offset="920" length="4">earn</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1080">
+        <trigger offset="1413" length="7">married</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="7">jtr2803</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

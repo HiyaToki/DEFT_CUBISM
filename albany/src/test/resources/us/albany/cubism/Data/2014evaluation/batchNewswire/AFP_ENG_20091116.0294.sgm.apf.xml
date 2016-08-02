@@ -1,0 +1,718 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20091116.0294">
+  <document DOCID="AFP_ENG_20091116.0294">
+
+    <entity ID="AFP_ENG_20091116.0294-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="64">Burundi</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">Burundi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Burundi">
+              <charseq START="58" END="64">Burundi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E1-M3">
+          <extent>
+              <charseq START="88" END="94">militia</charseq>
+          </extent>
+          <head>
+              <charseq START="88" END="94">militia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E1-M319">
+          <extent>
+              <charseq START="346" END="354">a militia</charseq>
+          </extent>
+          <head>
+              <charseq START="348" END="354">militia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E1-M508">
+          <extent>
+              <charseq START="662" END="670">a militia</charseq>
+          </extent>
+          <head>
+              <charseq START="664" END="670">militia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E1-M1119">
+          <extent>
+              <charseq START="1597" END="1605">a militia</charseq>
+          </extent>
+          <head>
+              <charseq START="1599" END="1605">militia</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E2-M102" ROLE="GPE">
+          <extent>
+              <charseq START="127" END="135">BUJUMBURA</charseq>
+          </extent>
+          <head>
+              <charseq START="127" END="135">BUJUMBURA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BUJUMBURA">
+              <charseq START="127" END="135">BUJUMBURA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E3-M200">
+          <extent>
+              <charseq START="152" END="154">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="152" END="154">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E3-M714">
+          <extent>
+              <charseq START="1051" END="1053">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="1051" END="1053">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="152" END="154">AFP</charseq>
+          </name>
+          <name NAME="AFP">
+              <charseq START="1051" END="1053">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E4-M317">
+          <extent>
+              <charseq START="326" END="369">CNDD-FDD of
+forming a militia ahead of polls</charseq>
+          </extent>
+          <head>
+              <charseq START="326" END="333">CNDD-FDD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E4-M300">
+          <extent>
+              <charseq START="180" END="244">Burundi&apos;s main opposition group massed youths at a weekend rally,</charseq>
+          </extent>
+          <head>
+              <charseq START="206" END="210">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E4-M1114">
+          <extent>
+              <charseq START="1549" END="1552">CNDD</charseq>
+          </extent>
+          <head>
+              <charseq START="1549" END="1552">CNDD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E4-M1115">
+          <extent>
+              <charseq START="1554" END="1556">FDD</charseq>
+          </extent>
+          <head>
+              <charseq START="1554" END="1556">FDD</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CNDD-FDD">
+              <charseq START="326" END="333">CNDD-FDD</charseq>
+          </name>
+          <name NAME="CNDD">
+              <charseq START="1549" END="1552">CNDD</charseq>
+          </name>
+          <name NAME="FDD">
+              <charseq START="1554" END="1556">FDD</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E5-M302">
+          <extent>
+              <charseq START="180" END="186">Burundi</charseq>
+          </extent>
+          <head>
+              <charseq START="180" END="186">Burundi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E5-M414">
+          <extent>
+              <charseq START="500" END="543">the Front for Democracy in Burundi
+(FRODEBU)</charseq>
+          </extent>
+          <head>
+              <charseq START="527" END="533">Burundi</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E6-M303">
+          <extent>
+              <charseq START="195" END="204">opposition</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="204">opposition</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E6-M1102">
+          <extent>
+              <charseq START="1425" END="1434">opposition</charseq>
+          </extent>
+          <head>
+              <charseq START="1425" END="1434">opposition</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E7-M304">
+          <extent>
+              <charseq START="219" END="243">youths at a weekend rally</charseq>
+          </extent>
+          <head>
+              <charseq START="219" END="224">youths</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E7-M402">
+          <extent>
+              <charseq START="391" END="484">youths drilled in the streets of the central town of Gitega on Sunday
+as part of a &quot;sports day</charseq>
+          </extent>
+          <head>
+              <charseq START="391" END="396">youths</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E7-M607">
+          <extent>
+              <charseq START="862" END="867">youths</charseq>
+          </extent>
+          <head>
+              <charseq START="862" END="867">youths</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E8-M408" ROLE="GPE">
+          <extent>
+              <charseq START="444" END="449">Gitega</charseq>
+          </extent>
+          <head>
+              <charseq START="444" END="449">Gitega</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E8-M406" ROLE="GPE">
+          <extent>
+              <charseq START="424" END="449">the central town of Gitega</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="439">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E8-M801" ROLE="GPE">
+          <extent>
+              <charseq START="1065" END="1070">Gitega</charseq>
+          </extent>
+          <head>
+              <charseq START="1065" END="1070">Gitega</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gitega">
+              <charseq START="444" END="449">Gitega</charseq>
+          </name>
+          <name NAME="Gitega">
+              <charseq START="1065" END="1070">Gitega</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E9-M416">
+          <extent>
+              <charseq START="504" END="525">Front for Democracy in</charseq>
+          </extent>
+          <head>
+              <charseq START="504" END="525">Front for Democracy in</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Front for Democracy in">
+              <charseq START="504" END="525">Front for Democracy in</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E10-M418">
+          <extent>
+              <charseq START="536" END="542">FRODEBU</charseq>
+          </extent>
+          <head>
+              <charseq START="536" END="542">FRODEBU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E10-M516">
+          <extent>
+              <charseq START="739" END="745">FRODEBU</charseq>
+          </extent>
+          <head>
+              <charseq START="739" END="745">FRODEBU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E10-M900">
+          <extent>
+              <charseq START="1132" END="1138">FRODEBU</charseq>
+          </extent>
+          <head>
+              <charseq START="1132" END="1138">FRODEBU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FRODEBU">
+              <charseq START="536" END="542">FRODEBU</charseq>
+          </name>
+          <name NAME="FRODEBU">
+              <charseq START="739" END="745">FRODEBU</charseq>
+          </name>
+          <name NAME="FRODEBU">
+              <charseq START="1132" END="1138">FRODEBU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E11" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E11-M404">
+          <extent>
+              <charseq START="409" END="449">the streets of the central town of Gitega</charseq>
+          </extent>
+          <head>
+              <charseq START="413" END="419">streets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E13-M518">
+          <extent>
+              <charseq START="764" END="787">Frederic Banvuginyunvira</charseq>
+          </extent>
+          <head>
+              <charseq START="764" END="787">Frederic Banvuginyunvira</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E13-M515">
+          <extent>
+              <charseq START="739" END="761">FRODEBU&apos;s deputy leader</charseq>
+          </extent>
+          <head>
+              <charseq START="756" END="761">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091116.0294-E13-M600">
+          <extent>
+              <charseq START="799" END="800">He</charseq>
+          </extent>
+          <head>
+              <charseq START="799" END="800">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E13-M713">
+          <extent>
+              <charseq START="1030" END="1044">Banvuginyunvira</charseq>
+          </extent>
+          <head>
+              <charseq START="1030" END="1044">Banvuginyunvira</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Frederic Banvuginyunvira">
+              <charseq START="764" END="787">Frederic Banvuginyunvira</charseq>
+          </name>
+          <name NAME="Banvuginyunvira">
+              <charseq START="1030" END="1044">Banvuginyunvira</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E14-M500">
+          <extent>
+              <charseq START="556" END="571">The ruling party</charseq>
+          </extent>
+          <head>
+              <charseq START="567" END="571">party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E14-M604">
+          <extent>
+              <charseq START="836" END="884">the ruling party featured youths armed with
+clubs</charseq>
+          </extent>
+          <head>
+              <charseq START="847" END="851">party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E14-M704">
+          <extent>
+              <charseq START="943" END="958">the ruling party</charseq>
+          </extent>
+          <head>
+              <charseq START="954" END="958">party</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E15" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E15-M608">
+          <extent>
+              <charseq START="880" END="884">clubs</charseq>
+          </extent>
+          <head>
+              <charseq START="880" END="884">clubs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E16" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E16-M712">
+          <extent>
+              <charseq START="1011" END="1026">a dangerous road</charseq>
+          </extent>
+          <head>
+              <charseq START="1023" END="1026">road</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E18-M800">
+          <extent>
+              <charseq START="1065" END="1094">Gitega governor Selemani Mossi</charseq>
+          </extent>
+          <head>
+              <charseq START="1081" END="1094">Selemani Mossi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E18-M802">
+          <extent>
+              <charseq START="1072" END="1079">governor</charseq>
+          </extent>
+          <head>
+              <charseq START="1072" END="1079">governor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091116.0294-E18-M908">
+          <extent>
+              <charseq START="1236" END="1237">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1236" END="1237">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Selemani Mossi">
+              <charseq START="1081" END="1094">Selemani Mossi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E19" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E19-M1001" ROLE="GPE">
+          <extent>
+              <charseq START="1272" END="1278">African</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1278">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E19-M1000">
+          <extent>
+              <charseq START="1254" END="1284">The small central African state</charseq>
+          </extent>
+          <head>
+              <charseq START="1280" END="1284">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="African">
+              <charseq START="1272" END="1278">African</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E20" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E20-M1005">
+          <extent>
+              <charseq START="1296" END="1304">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1300" END="1304">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091116.0294-E21-M1110">
+          <extent>
+              <charseq START="1519" END="1545">President Pierre Nkurunziza</charseq>
+          </extent>
+          <head>
+              <charseq START="1529" END="1545">Pierre Nkurunziza</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E21-M1111">
+          <extent>
+              <charseq START="1519" END="1527">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1519" END="1527">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pierre Nkurunziza">
+              <charseq START="1529" END="1545">Pierre Nkurunziza</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091116.0294-E22" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091116.0294-E22-M1101">
+          <extent>
+              <charseq START="1420" END="1442">four opposition parties</charseq>
+          </extent>
+          <head>
+              <charseq START="1436" END="1442">parties</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091116.0294-E22-M1107">
+          <extent>
+              <charseq START="1505" END="1508">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1505" END="1508">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20091116.0294-T0" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20091116.0294-T0-M1">
+            <extent>
+              <charseq START="146" END="149">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091116.0294-T1">
+        <timex2_mention ID="AFP_ENG_20091116.0294-T1-M1">
+            <extent>
+              <charseq START="229" END="237">a weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091116.0294-T2" VAL="2009-11-15">
+        <timex2_mention ID="AFP_ENG_20091116.0294-T2-M1">
+            <extent>
+              <charseq START="454" END="459">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091116.0294-T3" VAL="P1D">
+        <timex2_mention ID="AFP_ENG_20091116.0294-T3-M1">
+            <extent>
+              <charseq START="475" END="484">sports day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091116.0294-T4" VAL="PXM">
+        <timex2_mention ID="AFP_ENG_20091116.0294-T4-M1">
+            <extent>
+              <charseq START="581" END="636">several months been organising massive youth sports
+days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091116.0294-T5" VAL="P1DE" MOD="MORE_THAN">
+        <timex2_mention ID="AFP_ENG_20091116.0294-T5-M1">
+            <extent>
+              <charseq START="1366" END="1383">more than a decade</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091116.0294-T6" VAL="2009-10">
+        <timex2_mention ID="AFP_ENG_20091116.0294-T6-M1">
+            <extent>
+              <charseq START="1408" END="1417">Last month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20091116.0294-R0" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091116.0294-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091116.0294-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091116.0294-R0-M300">
+          <extent>
+              <charseq START="180" END="186">Burundi</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E5-M302" ROLE="Arg-1">
+            <extent>
+              <charseq START="180" END="186">Burundi</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E4-M300" ROLE="Arg-2">
+            <extent>
+              <charseq START="180" END="244">Burundi&apos;s main opposition group massed youths at a weekend rally,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091116.0294-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091116.0294-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091116.0294-E11" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091116.0294-R1-M400">
+          <extent>
+              <charseq START="391" END="484">youths drilled in the streets of the central town of Gitega on Sunday
+as part of a &quot;sports day</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E7-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="391" END="484">youths drilled in the streets of the central town of Gitega on Sunday
+as part of a &quot;sports day</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E11-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="409" END="449">the streets of the central town of Gitega</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091116.0294-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091116.0294-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091116.0294-E8" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091116.0294-R2-M401">
+          <extent>
+              <charseq START="409" END="449">the streets of the central town of Gitega</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E11-M404" ROLE="Arg-1">
+            <extent>
+              <charseq START="409" END="449">the streets of the central town of Gitega</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E8-M406" ROLE="Arg-2">
+            <extent>
+              <charseq START="424" END="449">the central town of Gitega</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091116.0294-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091116.0294-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091116.0294-E9" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091116.0294-R3-M402">
+          <extent>
+              <charseq START="500" END="543">the Front for Democracy in Burundi
+(FRODEBU)</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E5-M414" ROLE="Arg-1">
+            <extent>
+              <charseq START="500" END="543">the Front for Democracy in Burundi
+(FRODEBU)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E9-M416" ROLE="Arg-2">
+            <extent>
+              <charseq START="504" END="525">Front for Democracy in</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091116.0294-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091116.0294-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091116.0294-E10" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091116.0294-R4-M500">
+          <extent>
+              <charseq START="739" END="761">FRODEBU&apos;s deputy leader</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E13-M515" ROLE="Arg-1">
+            <extent>
+              <charseq START="739" END="761">FRODEBU&apos;s deputy leader</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E10-M516" ROLE="Arg-2">
+            <extent>
+              <charseq START="739" END="745">FRODEBU</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091116.0294-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091116.0294-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091116.0294-E15" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091116.0294-R5-M600">
+          <extent>
+              <charseq START="862" END="867">youths</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E7-M607" ROLE="Arg-1">
+            <extent>
+              <charseq START="862" END="867">youths</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E15-M608" ROLE="Arg-2">
+            <extent>
+              <charseq START="880" END="884">clubs</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091116.0294-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091116.0294-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091116.0294-E8" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091116.0294-R6-M800">
+          <extent>
+              <charseq START="1072" END="1079">governor</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E18-M802" ROLE="Arg-1">
+            <extent>
+              <charseq START="1072" END="1079">governor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091116.0294-E8-M801" ROLE="Arg-2">
+            <extent>
+              <charseq START="1065" END="1070">Gitega</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

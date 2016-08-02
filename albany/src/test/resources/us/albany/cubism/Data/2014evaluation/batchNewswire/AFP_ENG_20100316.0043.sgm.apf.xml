@@ -1,0 +1,952 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100316.0043">
+  <document DOCID="AFP_ENG_20100316.0043">
+
+    <entity ID="AFP_ENG_20100316.0043-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M0" ROLE="LOC">
+          <extent>
+              <charseq START="58" END="92">US House presses China on Falungong</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="79">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E0-M4">
+          <extent>
+              <charseq START="67" END="73">presses</charseq>
+          </extent>
+          <head>
+              <charseq START="67" END="73">presses</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M305">
+          <extent>
+              <charseq START="222" END="226">China</charseq>
+          </extent>
+          <head>
+              <charseq START="222" END="226">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M312" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="283" END="289">Beijing</charseq>
+          </extent>
+          <head>
+              <charseq START="283" END="289">Beijing</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E0-M308">
+          <extent>
+              <charseq START="235" END="237">its</charseq>
+          </extent>
+          <head>
+              <charseq START="235" END="237">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M403">
+          <extent>
+              <charseq START="412" END="416">China</charseq>
+          </extent>
+          <head>
+              <charseq START="412" END="416">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M601">
+          <extent>
+              <charseq START="823" END="827">China</charseq>
+          </extent>
+          <head>
+              <charseq START="823" END="827">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M800">
+          <extent>
+              <charseq START="1054" END="1058">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1054" END="1058">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E0-M804">
+          <extent>
+              <charseq START="1100" END="1102">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1100" END="1102">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E0-M807">
+          <extent>
+              <charseq START="1133" END="1134">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1133" END="1134">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E0-M812">
+          <extent>
+              <charseq START="1152" END="1154">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1152" END="1154">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M1002">
+          <extent>
+              <charseq START="1369" END="1373">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1369" END="1373">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E0-M1000" ROLE="ORG">
+          <extent>
+              <charseq START="1369" END="1548">China&apos;s communist government banned the movement in 1999 and later branded it an
+&quot;evil cult&quot; after thousands of practitioners silently converged in Beijing to
+air their grievances,</charseq>
+          </extent>
+          <head>
+              <charseq START="1387" END="1396">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E0-M1006">
+          <extent>
+              <charseq START="1444" END="1445">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1444" END="1445">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M1101" ROLE="GPE">
+          <extent>
+              <charseq START="1596" END="1602">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="1596" END="1602">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M1122" ROLE="GPE">
+          <extent>
+              <charseq START="1847" END="1853">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="1847" END="1853">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M1207">
+          <extent>
+              <charseq START="1991" END="1995">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1991" END="1995">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E0-M1302" ROLE="GPE">
+          <extent>
+              <charseq START="2162" END="2168">Beijing</charseq>
+          </extent>
+          <head>
+              <charseq START="2162" END="2168">Beijing</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="75" END="79">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="222" END="226">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="412" END="416">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="823" END="827">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1054" END="1058">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1369" END="1373">China</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="1596" END="1602">Chinese</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="1847" END="1853">Chinese</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1991" END="1995">China</charseq>
+          </name>
+          <name NAME="Beijing">
+              <charseq START="2162" END="2168">Beijing</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E1-M2">
+          <extent>
+              <charseq START="58" END="59">US</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="59">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E1-M302">
+          <extent>
+              <charseq START="177" END="178">US</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="178">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="58" END="59">US</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="177" END="178">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E2" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E2-M3">
+          <extent>
+              <charseq START="61" END="65">House</charseq>
+          </extent>
+          <head>
+              <charseq START="61" END="65">House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E2-M401">
+          <extent>
+              <charseq START="392" END="400">the House</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="400">House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E2-M500">
+          <extent>
+              <charseq START="553" END="561">The House</charseq>
+          </extent>
+          <head>
+              <charseq START="557" END="561">House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E2-M605">
+          <extent>
+              <charseq START="867" END="869">its</charseq>
+          </extent>
+          <head>
+              <charseq START="867" END="869">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E2-M1321">
+          <extent>
+              <charseq START="2372" END="2406">the House
+Foreign Affairs Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="2376" END="2406">House
+Foreign Affairs Committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E2-M1300">
+          <extent>
+              <charseq START="2158" END="2314">The Beijing regime of today engages in the barbaric repression of some of its
+own people simply because they seek to practice a peaceful spiritual
+discipline</charseq>
+          </extent>
+          <head>
+              <charseq START="2170" END="2175">regime</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E2-M1311">
+          <extent>
+              <charseq START="2232" END="2234">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2232" END="2234">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="House">
+              <charseq START="61" END="65">House</charseq>
+          </name>
+          <name NAME="House">
+              <charseq START="396" END="400">House</charseq>
+          </name>
+          <name NAME="House">
+              <charseq START="557" END="561">House</charseq>
+          </name>
+          <name NAME="House
+Foreign Affairs Committee">
+              <charseq START="2376" END="2406">House
+Foreign Affairs Committee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="117" END="126">Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="117" END="126">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E3-M705" ROLE="GPE">
+          <extent>
+              <charseq START="1029" END="1038">Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="1029" END="1038">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Washington">
+              <charseq START="117" END="126">Washington</charseq>
+          </name>
+          <name NAME="Washington">
+              <charseq START="1029" END="1038">Washington</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E4-M200">
+          <extent>
+              <charseq START="145" END="147">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="147">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="145" END="147">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E5" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E5-M300">
+          <extent>
+              <charseq START="173" END="214">The US House of Representatives on Tuesday</charseq>
+          </extent>
+          <head>
+              <charseq START="180" END="203">House of Representatives</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="House of Representatives">
+              <charseq START="180" END="203">House of Representatives</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E6-M309">
+          <extent>
+              <charseq START="256" END="268">the Falungong</charseq>
+          </extent>
+          <head>
+              <charseq START="260" END="268">Falungong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E6-M411">
+          <extent>
+              <charseq START="529" END="541">the Falungong</charseq>
+          </extent>
+          <head>
+              <charseq START="533" END="541">Falungong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E6-M506">
+          <extent>
+              <charseq START="586" END="594">Falungong</charseq>
+          </extent>
+          <head>
+              <charseq START="586" END="594">Falungong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E6-M610">
+          <extent>
+              <charseq START="927" END="935">Falungong</charseq>
+          </extent>
+          <head>
+              <charseq START="927" END="935">Falungong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E6-M900">
+          <extent>
+              <charseq START="1183" END="1358">Falungong -- a movement loosely based on Buddhist, Taoist and Confucian
+philosophies that features spiritual exercises -- enjoyed growing popularity
+among Chinese in the 1990s.</charseq>
+          </extent>
+          <head>
+              <charseq START="1183" END="1191">Falungong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E6-M1110">
+          <extent>
+              <charseq START="1736" END="1744">Falungong</charseq>
+          </extent>
+          <head>
+              <charseq START="1736" END="1744">Falungong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E6-M1208">
+          <extent>
+              <charseq START="2012" END="2144">the Falungong &quot;one of the most flagrant examples of systematic
+persecution against a particular group taking place in the world today</charseq>
+          </extent>
+          <head>
+              <charseq START="2016" END="2024">Falungong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E6-M1218">
+          <extent>
+              <charseq START="2095" END="2144">a particular group taking place in the world today</charseq>
+          </extent>
+          <head>
+              <charseq START="2108" END="2112">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Falungong">
+              <charseq START="260" END="268">Falungong</charseq>
+          </name>
+          <name NAME="Falungong">
+              <charseq START="533" END="541">Falungong</charseq>
+          </name>
+          <name NAME="Falungong">
+              <charseq START="586" END="594">Falungong</charseq>
+          </name>
+          <name NAME="Falungong">
+              <charseq START="927" END="935">Falungong</charseq>
+          </name>
+          <name NAME="Falungong">
+              <charseq START="1183" END="1191">Falungong</charseq>
+          </name>
+          <name NAME="Falungong">
+              <charseq START="1736" END="1744">Falungong</charseq>
+          </name>
+          <name NAME="Falungong">
+              <charseq START="2016" END="2024">Falungong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E7-M404">
+          <extent>
+              <charseq START="421" END="541">free thousands of
+practitioners who are said to be imprisoned and to abolish an office tasked with
+fighting the Falungong</charseq>
+          </extent>
+          <head>
+              <charseq START="426" END="434">thousands</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E7-M409">
+          <extent>
+              <charseq START="453" END="455">who</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="455">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E8-M407">
+          <extent>
+              <charseq START="439" END="506">practitioners who are said to be imprisoned and to abolish an office</charseq>
+          </extent>
+          <head>
+              <charseq START="439" END="451">practitioners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E8-M505">
+          <extent>
+              <charseq START="586" END="608">Falungong practitioners</charseq>
+          </extent>
+          <head>
+              <charseq START="596" END="608">practitioners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E8-M608">
+          <extent>
+              <charseq START="919" END="949">torture Falungong practitioners</charseq>
+          </extent>
+          <head>
+              <charseq START="937" END="949">practitioners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E8-M1012">
+          <extent>
+              <charseq START="1481" END="1493">practitioners</charseq>
+          </extent>
+          <head>
+              <charseq START="1481" END="1493">practitioners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E8-M1015">
+          <extent>
+              <charseq START="1532" END="1536">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1532" END="1536">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E9-M410">
+          <extent>
+              <charseq START="498" END="506">an office</charseq>
+          </extent>
+          <head>
+              <charseq START="501" END="506">office</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E11-M507">
+          <extent>
+              <charseq START="614" END="789">their family
+members who have suffered persecution, intimidation, imprisonment, torture and
+even death for the past decade solely because of adherence to their personal
+beliefs</charseq>
+          </extent>
+          <head>
+              <charseq START="627" END="633">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E11-M509">
+          <extent>
+              <charseq START="614" END="618">their</charseq>
+          </extent>
+          <head>
+              <charseq START="614" END="618">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E11-M511">
+          <extent>
+              <charseq START="635" END="637">who</charseq>
+          </extent>
+          <head>
+              <charseq START="635" END="637">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E11-M523">
+          <extent>
+              <charseq START="768" END="772">their</charseq>
+          </extent>
+          <head>
+              <charseq START="768" END="772">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E12-M510">
+          <extent>
+              <charseq START="620" END="625">family</charseq>
+          </extent>
+          <head>
+              <charseq START="620" END="625">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E13-M703">
+          <extent>
+              <charseq START="997" END="1005">lawmakers</charseq>
+          </extent>
+          <head>
+              <charseq START="997" END="1005">lawmakers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E14-M704">
+          <extent>
+              <charseq START="1029" END="1051">Washington
+policymakers</charseq>
+          </extent>
+          <head>
+              <charseq START="1040" END="1051">policymakers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E15-M904">
+          <extent>
+              <charseq START="1224" END="1231">Buddhist</charseq>
+          </extent>
+          <head>
+              <charseq START="1224" END="1231">Buddhist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E15-M911">
+          <extent>
+              <charseq START="1338" END="1344">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="1338" END="1344">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Buddhist">
+              <charseq START="1224" END="1231">Buddhist</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E16-M906">
+          <extent>
+              <charseq START="1234" END="1239">Taoist</charseq>
+          </extent>
+          <head>
+              <charseq START="1234" END="1239">Taoist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taoist">
+              <charseq START="1234" END="1239">Taoist</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E17-M1013" ROLE="LOC">
+          <extent>
+              <charseq START="1517" END="1523">Beijing</charseq>
+          </extent>
+          <head>
+              <charseq START="1517" END="1523">Beijing</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Beijing">
+              <charseq START="1517" END="1523">Beijing</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E18-M1010">
+          <extent>
+              <charseq START="1468" END="1547">thousands of practitioners silently converged in Beijing to
+air their grievances</charseq>
+          </extent>
+          <head>
+              <charseq START="1468" END="1476">thousands</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E18-M1017">
+          <extent>
+              <charseq START="1558" END="1562">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1558" END="1562">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E19-M1100">
+          <extent>
+              <charseq START="1596" END="1614">Chinese authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="1604" END="1614">authorities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E20-M1200">
+          <extent>
+              <charseq START="1923" END="2146">Representative Ileana Ros-Lehtinen, who led the legislation, called China&apos;s
+treatment of the Falungong &quot;one of the most flagrant examples of systematic
+persecution against a particular group taking place in the world today.&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1938" END="1956">Ileana Ros-Lehtinen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100316.0043-E20-M1203">
+          <extent>
+              <charseq START="1959" END="1961">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1959" END="1961">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ileana Ros-Lehtinen">
+              <charseq START="1938" END="1956">Ileana Ros-Lehtinen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E21" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E21-M1317" ROLE="GPE">
+          <extent>
+              <charseq START="2327" END="2333">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="2327" END="2333">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Florida">
+              <charseq START="2327" END="2333">Florida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E22" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100316.0043-E22-M1318">
+          <extent>
+              <charseq START="2350" END="2406">the top Republican on the House
+Foreign Affairs Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="2358" END="2367">Republican</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Republican">
+              <charseq START="2358" END="2367">Republican</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100316.0043-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E23-M1310">
+          <extent>
+              <charseq START="2232" END="2245">its
+own people</charseq>
+          </extent>
+          <head>
+              <charseq START="2240" END="2245">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100316.0043-E23-M1316">
+          <extent>
+              <charseq START="2323" END="2347">the Florida congresswoman</charseq>
+          </extent>
+          <head>
+              <charseq START="2335" END="2347">congresswoman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100316.0043-T0" VAL="2010-03-16">
+        <timex2_mention ID="AFP_ENG_20100316.0043-T0-M1">
+            <extent>
+              <charseq START="129" END="142">March 16, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100316.0043-T1" VAL="2010-03-16">
+        <timex2_mention ID="AFP_ENG_20100316.0043-T1-M1">
+            <extent>
+              <charseq START="208" END="214">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100316.0043-T2" VAL="P1DE">
+        <timex2_mention ID="AFP_ENG_20100316.0043-T2-M1">
+            <extent>
+              <charseq START="721" END="735">the past decade</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100316.0043-T3" VAL="PRESENT_REF" ANCHOR_VAL="2010-03-16" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="AFP_ENG_20100316.0043-T3-M1">
+            <extent>
+              <charseq START="833" END="843">immediately</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100316.0043-T4" VAL="199">
+        <timex2_mention ID="AFP_ENG_20100316.0043-T4-M1">
+            <extent>
+              <charseq START="1349" END="1357">the 1990s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100316.0043-T5" VAL="1999">
+        <timex2_mention ID="AFP_ENG_20100316.0043-T5-M1">
+            <extent>
+              <charseq START="1421" END="1424">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100316.0043-T6" VAL="P1DE">
+        <timex2_mention ID="AFP_ENG_20100316.0043-T6-M1">
+            <extent>
+              <charseq START="1663" END="1677">the past
+decade</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100316.0043-T7" VAL="2010-03-16">
+        <timex2_mention ID="AFP_ENG_20100316.0043-T7-M1">
+            <extent>
+              <charseq START="2140" END="2144">today</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100316.0043-T8" VAL="2010-03-16">
+        <timex2_mention ID="AFP_ENG_20100316.0043-T8-M1">
+            <extent>
+              <charseq START="2180" END="2184">today</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100316.0043-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100316.0043-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100316.0043-E6" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100316.0043-R0-M500">
+          <extent>
+              <charseq START="586" END="608">Falungong practitioners</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E8-M505" ROLE="Arg-1">
+            <extent>
+              <charseq START="586" END="608">Falungong practitioners</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E6-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="586" END="594">Falungong</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="AFP_ENG_20100316.0043-R0-M600">
+          <extent>
+              <charseq START="919" END="949">torture Falungong practitioners</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E8-M608" ROLE="Arg-1">
+            <extent>
+              <charseq START="919" END="949">torture Falungong practitioners</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E6-M610" ROLE="Arg-2">
+            <extent>
+              <charseq START="927" END="935">Falungong</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100316.0043-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100316.0043-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100316.0043-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100316.0043-R1-M1100">
+          <extent>
+              <charseq START="1596" END="1614">Chinese authorities</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E19-M1100" ROLE="Arg-1">
+            <extent>
+              <charseq START="1596" END="1614">Chinese authorities</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E0-M1101" ROLE="Arg-2">
+            <extent>
+              <charseq START="1596" END="1602">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100316.0043-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100316.0043-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100316.0043-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100316.0043-R2-M1300">
+          <extent>
+              <charseq START="2158" END="2314">The Beijing regime of today engages in the barbaric repression of some of its
+own people simply because they seek to practice a peaceful spiritual
+discipline</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E2-M1300" ROLE="Arg-1">
+            <extent>
+              <charseq START="2158" END="2314">The Beijing regime of today engages in the barbaric repression of some of its
+own people simply because they seek to practice a peaceful spiritual
+discipline</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E0-M1302" ROLE="Arg-2">
+            <extent>
+              <charseq START="2162" END="2168">Beijing</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100316.0043-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100316.0043-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100316.0043-E2" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100316.0043-R3-M1301">
+          <extent>
+              <charseq START="2232" END="2245">its
+own people</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E23-M1310" ROLE="Arg-1">
+            <extent>
+              <charseq START="2232" END="2245">its
+own people</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E2-M1311" ROLE="Arg-2">
+            <extent>
+              <charseq START="2232" END="2234">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100316.0043-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100316.0043-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100316.0043-E21" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100316.0043-R4-M1302">
+          <extent>
+              <charseq START="2323" END="2347">the Florida congresswoman</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E23-M1316" ROLE="Arg-1">
+            <extent>
+              <charseq START="2323" END="2347">the Florida congresswoman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100316.0043-E21-M1317" ROLE="Arg-2">
+            <extent>
+              <charseq START="2327" END="2333">Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="0426f2e7e5ffe3a0ac7ef31d2d55420c.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-141" length="8" offset="84">
+        <text>11 个市（区）</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-63" length="3" offset="14">liz</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-345" length="12" offset="121">
+        <text>色情 ktv 一类的场所</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-63" length="3" offset="14">liz</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-117" length="7" offset="197">
+        <text>xx 娱乐场所</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-63" length="3" offset="14">liz</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-369" length="4" offset="209">
+        <text>未成年人</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-63" length="3" offset="14">liz</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

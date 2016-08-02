@@ -1,0 +1,1445 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20091028.0776">
+  <document DOCID="AFP_ENG_20091028.0776">
+
+    <entity ID="AFP_ENG_20091028.0776-E0" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E0-M100">
+          <extent>
+              <charseq START="68" END="114">Rich Yankees battle champion Phillies for title</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="104">Phillies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E0-M104">
+          <extent>
+              <charseq START="88" END="95">champion</charseq>
+          </extent>
+          <head>
+              <charseq START="88" END="95">champion</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E0-M509">
+          <extent>
+              <charseq START="510" END="521">the Phillies</charseq>
+          </extent>
+          <head>
+              <charseq START="514" END="521">Phillies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E0-M701">
+          <extent>
+              <charseq START="903" END="908">a team</charseq>
+          </extent>
+          <head>
+              <charseq START="905" END="908">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E0-M1304">
+          <extent>
+              <charseq START="1755" END="1766">the Phillies</charseq>
+          </extent>
+          <head>
+              <charseq START="1759" END="1766">Phillies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E0-M1307">
+          <extent>
+              <charseq START="1769" END="1773">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="1769" END="1773">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E0-M1401">
+          <extent>
+              <charseq START="1910" END="1917">Phillies</charseq>
+          </extent>
+          <head>
+              <charseq START="1910" END="1917">Phillies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E0-M1412">
+          <extent>
+              <charseq START="2024" END="2035">the Phillies</charseq>
+          </extent>
+          <head>
+              <charseq START="2028" END="2035">Phillies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E0-M2605">
+          <extent>
+              <charseq START="2863" END="2870">Phillies</charseq>
+          </extent>
+          <head>
+              <charseq START="2863" END="2870">Phillies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E0-M2713">
+          <extent>
+              <charseq START="2997" END="3004">our team</charseq>
+          </extent>
+          <head>
+              <charseq START="3001" END="3004">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Phillies">
+              <charseq START="97" END="104">Phillies</charseq>
+          </name>
+          <name NAME="Phillies">
+              <charseq START="514" END="521">Phillies</charseq>
+          </name>
+          <name NAME="Phillies">
+              <charseq START="1759" END="1766">Phillies</charseq>
+          </name>
+          <name NAME="Phillies">
+              <charseq START="1910" END="1917">Phillies</charseq>
+          </name>
+          <name NAME="Phillies">
+              <charseq START="2028" END="2035">Phillies</charseq>
+          </name>
+          <name NAME="Phillies">
+              <charseq START="2863" END="2870">Phillies</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M102">
+          <extent>
+              <charseq START="68" END="79">Rich Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="68" END="79">Rich Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M503">
+          <extent>
+              <charseq START="460" END="470">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="470">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M600">
+          <extent>
+              <charseq START="624" END="635">The Yankees,</charseq>
+          </extent>
+          <head>
+              <charseq START="628" END="634">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M618">
+          <extent>
+              <charseq START="826" END="849">the big-spending Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="843" END="849">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M708">
+          <extent>
+              <charseq START="940" END="946">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="940" END="946">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M906">
+          <extent>
+              <charseq START="1276" END="1282">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="1276" END="1282">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M1016">
+          <extent>
+              <charseq START="1484" END="1549">the Yankees, now back in the World Series after a six-year absence</charseq>
+          </extent>
+          <head>
+              <charseq START="1488" END="1494">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M1303">
+          <extent>
+              <charseq START="1732" END="1738">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="1732" END="1738">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M1406">
+          <extent>
+              <charseq START="1956" END="1966">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="1960" END="1966">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M1701">
+          <extent>
+              <charseq START="2280" END="2290">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="2284" END="2290">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E1-M3202">
+          <extent>
+              <charseq START="3185" END="3195">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="3189" END="3195">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rich Yankees">
+              <charseq START="68" END="79">Rich Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="464" END="470">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="628" END="634">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="843" END="849">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="940" END="946">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="1276" END="1282">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="1488" END="1494">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="1732" END="1738">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="1960" END="1966">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="2284" END="2290">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="3189" END="3195">Yankees</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E2-M201" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="139" END="146">NEW YORK</charseq>
+          </extent>
+          <head>
+              <charseq START="139" END="146">NEW YORK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E2-M812" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1163" END="1170">New
+York</charseq>
+          </extent>
+          <head>
+              <charseq START="1163" END="1170">New
+York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E2-M2805" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="3050" END="3057">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="3050" END="3057">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E2-M3408" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="3614" END="3621">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="3614" END="3621">New York</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E3-M300">
+          <extent>
+              <charseq START="163" END="165">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="163" END="165">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E3-M401">
+          <extent>
+              <charseq START="209" END="213">their</charseq>
+          </extent>
+          <head>
+              <charseq START="209" END="213">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="163" END="165">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E4" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E4-M406">
+          <extent>
+              <charseq START="273" END="292">the New York Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="292">New York Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E4-M410">
+          <extent>
+              <charseq START="299" END="303">their</charseq>
+          </extent>
+          <head>
+              <charseq START="299" END="303">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Yankees">
+              <charseq START="277" END="292">New York Yankees</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E5" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E5-M411">
+          <extent>
+              <charseq START="312" END="389">dethrone reigning champion
+Philadelphia on Wednesday in the 105th World Series</charseq>
+          </extent>
+          <head>
+              <charseq START="339" END="350">Philadelphia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Philadelphia">
+              <charseq START="339" END="350">Philadelphia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E6-M412">
+          <extent>
+              <charseq START="312" END="350">dethrone reigning champion
+Philadelphia</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="337">champion</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E7" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E7-M502">
+          <extent>
+              <charseq START="426" END="446">Major League Baseball</charseq>
+          </extent>
+          <head>
+              <charseq START="426" END="446">Major League Baseball</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E7-M1716">
+          <extent>
+              <charseq START="2399" END="2440">July&apos;s
+Major League Baseball All-Star Game</charseq>
+          </extent>
+          <head>
+              <charseq START="2406" END="2426">Major League Baseball</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Major League Baseball">
+              <charseq START="426" END="446">Major League Baseball</charseq>
+          </name>
+          <name NAME="Major League Baseball">
+              <charseq START="2406" END="2426">Major League Baseball</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E8" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E8-M513">
+          <extent>
+              <charseq START="554" END="568">National
+League</charseq>
+          </extent>
+          <head>
+              <charseq START="554" END="568">National
+League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E8-M1714">
+          <extent>
+              <charseq START="2383" END="2394">the National</charseq>
+          </extent>
+          <head>
+              <charseq START="2387" END="2394">National</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National
+League">
+              <charseq START="554" END="568">National
+League</charseq>
+          </name>
+          <name NAME="National">
+              <charseq START="2387" END="2394">National</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E9-M516">
+          <extent>
+              <charseq START="595" END="604">Cincinnati</charseq>
+          </extent>
+          <head>
+              <charseq START="595" END="604">Cincinnati</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cincinnati">
+              <charseq START="595" END="604">Cincinnati</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E10" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E10-M500">
+          <extent>
+              <charseq START="401" END="407">No team</charseq>
+          </extent>
+          <head>
+              <charseq START="404" END="407">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E10-M506">
+          <extent>
+              <charseq START="476" END="480">their</charseq>
+          </extent>
+          <head>
+              <charseq START="476" END="480">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E10-M607">
+          <extent>
+              <charseq START="663" END="849">the most successful club in American pro
+sports history, have missed the playoffs only once in the past 15 seasons but
+the title drought has raised the stakes for the big-spending Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="683" END="686">club</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E10-M605">
+          <extent>
+              <charseq START="658" END="661">them</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="661">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E11-M511">
+          <extent>
+              <charseq START="544" END="612">the first National
+League champion to repeat since Cincinnati in 1976</charseq>
+          </extent>
+          <head>
+              <charseq START="570" END="577">champion</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E12-M609" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="691" END="698">American</charseq>
+          </extent>
+          <head>
+              <charseq START="691" END="698">American</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E13-M706">
+          <extent>
+              <charseq START="940" END="994">Yankees closing relief pitcher Mariano Rivera of Panama</charseq>
+          </extent>
+          <head>
+              <charseq START="971" END="984">Mariano Rivera</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E13-M711">
+          <extent>
+              <charseq START="963" END="969">pitcher</charseq>
+          </extent>
+          <head>
+              <charseq START="963" END="969">pitcher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E13-M1002">
+          <extent>
+              <charseq START="1328" END="1333">Rivera</charseq>
+          </extent>
+          <head>
+              <charseq START="1328" END="1333">Rivera</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E13-M1007">
+          <extent>
+              <charseq START="1377" END="1455">a 37-year-old ace
+southpaw pitcher who signed this year for 5.5 million dollars</charseq>
+          </extent>
+          <head>
+              <charseq START="1404" END="1410">pitcher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E13-M1011">
+          <extent>
+              <charseq START="1412" END="1414">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1412" END="1414">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E13-M1703">
+          <extent>
+              <charseq START="2293" END="2295">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2293" END="2295">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mariano Rivera">
+              <charseq START="971" END="984">Mariano Rivera</charseq>
+          </name>
+          <name NAME="Rivera">
+              <charseq START="1328" END="1333">Rivera</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E14-M713" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="989" END="994">Panama</charseq>
+          </extent>
+          <head>
+              <charseq START="989" END="994">Panama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E14-M700">
+          <extent>
+              <charseq START="867" END="882">the organization</charseq>
+          </extent>
+          <head>
+              <charseq START="871" END="882">organization</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E16-M801">
+          <extent>
+              <charseq START="1010" END="1021">Steinbrenner</charseq>
+          </extent>
+          <head>
+              <charseq START="1010" END="1021">Steinbrenner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E16-M809">
+          <extent>
+              <charseq START="1144" END="1146">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1144" END="1146">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steinbrenner">
+              <charseq START="1010" END="1021">Steinbrenner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E17-M806">
+          <extent>
+              <charseq START="1097" END="1109">Mark Teixeira</charseq>
+          </extent>
+          <head>
+              <charseq START="1097" END="1109">Mark Teixeira</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Teixeira">
+              <charseq START="1097" END="1109">Mark Teixeira</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E18-M807">
+          <extent>
+              <charseq START="1112" END="1123">A.J. Burnett</charseq>
+          </extent>
+          <head>
+              <charseq START="1112" END="1123">A.J. Burnett</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="A.J. Burnett">
+              <charseq START="1112" END="1123">A.J. Burnett</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E19-M808">
+          <extent>
+              <charseq START="1129" END="1141">C.C. Sabathia</charseq>
+          </extent>
+          <head>
+              <charseq START="1129" END="1141">C.C. Sabathia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E19-M1902">
+          <extent>
+              <charseq START="2500" END="2507">Sabathia</charseq>
+          </extent>
+          <head>
+              <charseq START="2500" END="2507">Sabathia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E19-M2002">
+          <extent>
+              <charseq START="2525" END="2569">the
+champs so we have to go take it from them</charseq>
+          </extent>
+          <head>
+              <charseq START="2529" END="2534">champs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E19-M2000">
+          <extent>
+              <charseq START="2516" END="2519">They</charseq>
+          </extent>
+          <head>
+              <charseq START="2516" END="2519">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E19-M2008">
+          <extent>
+              <charseq START="2566" END="2569">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2566" END="2569">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="C.C. Sabathia">
+              <charseq START="1129" END="1141">C.C. Sabathia</charseq>
+          </name>
+          <name NAME="Sabathia">
+              <charseq START="2500" END="2507">Sabathia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E20-M813">
+          <extent>
+              <charseq START="1180" END="1188">Cliff Lee</charseq>
+          </extent>
+          <head>
+              <charseq START="1180" END="1188">Cliff Lee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cliff Lee">
+              <charseq START="1180" END="1188">Cliff Lee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E21-M800">
+          <extent>
+              <charseq START="1006" END="1028">The Steinbrenner family</charseq>
+          </extent>
+          <head>
+              <charseq START="1023" END="1028">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E22-M905">
+          <extent>
+              <charseq START="1276" END="1303">Yankees catcher Jorge Posada</charseq>
+          </extent>
+          <head>
+              <charseq START="1292" END="1303">Jorge Posada</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E22-M907">
+          <extent>
+              <charseq START="1284" END="1290">catcher</charseq>
+          </extent>
+          <head>
+              <charseq START="1284" END="1290">catcher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E22-M1001">
+          <extent>
+              <charseq START="1320" END="1325">Posada</charseq>
+          </extent>
+          <head>
+              <charseq START="1320" END="1325">Posada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jorge Posada">
+              <charseq START="1292" END="1303">Jorge Posada</charseq>
+          </name>
+          <name NAME="Posada">
+              <charseq START="1320" END="1325">Posada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E23-M1003">
+          <extent>
+              <charseq START="1336" END="1356">superstar Derek Jeter</charseq>
+          </extent>
+          <head>
+              <charseq START="1346" END="1356">Derek Jeter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E23-M1004">
+          <extent>
+              <charseq START="1336" END="1344">superstar</charseq>
+          </extent>
+          <head>
+              <charseq START="1336" END="1344">superstar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Derek Jeter">
+              <charseq START="1346" END="1356">Derek Jeter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E24-M1006">
+          <extent>
+              <charseq START="1362" END="1374">Andy Pettitte</charseq>
+          </extent>
+          <head>
+              <charseq START="1362" END="1374">Andy Pettitte</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E24-M1104">
+          <extent>
+              <charseq START="1624" END="1631">Pettitte</charseq>
+          </extent>
+          <head>
+              <charseq START="1624" END="1631">Pettitte</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andy Pettitte">
+              <charseq START="1362" END="1374">Andy Pettitte</charseq>
+          </name>
+          <name NAME="Pettitte">
+              <charseq START="1624" END="1631">Pettitte</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E25-M1010">
+          <extent>
+              <charseq START="1395" END="1402">southpaw</charseq>
+          </extent>
+          <head>
+              <charseq START="1395" END="1402">southpaw</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E26-M1102">
+          <extent>
+              <charseq START="1593" END="1601">this city</charseq>
+          </extent>
+          <head>
+              <charseq START="1598" END="1601">city</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E27-M1312">
+          <extent>
+              <charseq START="1858" END="1882">powerhouses Jimmy Rollins</charseq>
+          </extent>
+          <head>
+              <charseq START="1870" END="1882">Jimmy Rollins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E27-M1313">
+          <extent>
+              <charseq START="1858" END="1868">powerhouses</charseq>
+          </extent>
+          <head>
+              <charseq START="1858" END="1868">powerhouses</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E27-M1400">
+          <extent>
+              <charseq START="1910" END="1935">Phillies shortstop Rollins</charseq>
+          </extent>
+          <head>
+              <charseq START="1929" END="1935">Rollins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E27-M1402">
+          <extent>
+              <charseq START="1919" END="1927">shortstop</charseq>
+          </extent>
+          <head>
+              <charseq START="1919" END="1927">shortstop</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E27-M1503">
+          <extent>
+              <charseq START="2124" END="2130">Rollins</charseq>
+          </extent>
+          <head>
+              <charseq START="2124" END="2130">Rollins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E27-M1800">
+          <extent>
+              <charseq START="2453" END="2457">Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="2453" END="2457">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E27-M1801">
+          <extent>
+              <charseq START="2462" END="2476">a confident man</charseq>
+          </extent>
+          <head>
+              <charseq START="2474" END="2476">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E27-M1900">
+          <extent>
+              <charseq START="2479" END="2480">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2479" END="2480">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E27-M2402">
+          <extent>
+              <charseq START="2717" END="2723">Rollins</charseq>
+          </extent>
+          <head>
+              <charseq START="2717" END="2723">Rollins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E27-M2403">
+          <extent>
+              <charseq START="2758" END="2760">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2758" END="2760">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E27-M2501">
+          <extent>
+              <charseq START="2825" END="2834">just Jimmy</charseq>
+          </extent>
+          <head>
+              <charseq START="2830" END="2834">Jimmy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jimmy Rollins">
+              <charseq START="1870" END="1882">Jimmy Rollins</charseq>
+          </name>
+          <name NAME="Rollins">
+              <charseq START="1929" END="1935">Rollins</charseq>
+          </name>
+          <name NAME="Rollins">
+              <charseq START="2124" END="2130">Rollins</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="2453" END="2457">Jimmy</charseq>
+          </name>
+          <name NAME="Rollins">
+              <charseq START="2717" END="2723">Rollins</charseq>
+          </name>
+          <name NAME="Jimmy">
+              <charseq START="2830" END="2834">Jimmy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E28-M1315">
+          <extent>
+              <charseq START="1888" END="1898">Ryan Howard</charseq>
+          </extent>
+          <head>
+              <charseq START="1888" END="1898">Ryan Howard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E28-M2400">
+          <extent>
+              <charseq START="2701" END="2706">Howard</charseq>
+          </extent>
+          <head>
+              <charseq START="2701" END="2706">Howard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E28-M2604">
+          <extent>
+              <charseq START="2863" END="2890">Phillies slugger Ryan Howard</charseq>
+          </extent>
+          <head>
+              <charseq START="2880" END="2890">Ryan Howard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E28-M2606">
+          <extent>
+              <charseq START="2872" END="2878">slugger</charseq>
+          </extent>
+          <head>
+              <charseq START="2872" END="2878">slugger</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E28-M2600">
+          <extent>
+              <charseq START="2837" END="2838">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2837" END="2838">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E28-M2700">
+          <extent>
+              <charseq START="2899" END="2900">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2899" END="2900">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E28-M2806">
+          <extent>
+              <charseq START="3096" END="3098">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3096" END="3098">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E28-M3000">
+          <extent>
+              <charseq START="3120" END="3121">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3120" END="3121">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E28-M3100">
+          <extent>
+              <charseq START="3135" END="3136">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3135" END="3136">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ryan Howard">
+              <charseq START="1888" END="1898">Ryan Howard</charseq>
+          </name>
+          <name NAME="Howard">
+              <charseq START="2701" END="2706">Howard</charseq>
+          </name>
+          <name NAME="Ryan Howard">
+              <charseq START="2880" END="2890">Ryan Howard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E29" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E29-M1612">
+          <extent>
+              <charseq START="2237" END="2240">home</charseq>
+          </extent>
+          <head>
+              <charseq START="2237" END="2240">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E30-M1712">
+          <extent>
+              <charseq START="2348" END="2366">the American League</charseq>
+          </extent>
+          <head>
+              <charseq START="2352" END="2366">American League</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American League">
+              <charseq START="2352" END="2366">American League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E31" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E31-M2803">
+          <extent>
+              <charseq START="3034" END="3047">Yankee Stadium</charseq>
+          </extent>
+          <head>
+              <charseq START="3034" END="3047">Yankee Stadium</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E31-M2804">
+          <extent>
+              <charseq START="3050" END="3068">New York supporters</charseq>
+          </extent>
+          <head>
+              <charseq START="3059" END="3068">supporters</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yankee Stadium">
+              <charseq START="3034" END="3047">Yankee Stadium</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E33-M3204">
+          <extent>
+              <charseq START="3205" END="3233">third baseman Alex Rodriguez,</charseq>
+          </extent>
+          <head>
+              <charseq START="3219" END="3232">Alex Rodriguez</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E33-M3206">
+          <extent>
+              <charseq START="3211" END="3217">baseman</charseq>
+          </extent>
+          <head>
+              <charseq START="3211" END="3217">baseman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091028.0776-E33-M3215">
+          <extent>
+              <charseq START="3292" END="3294">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3292" END="3294">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E33-M3404">
+          <extent>
+              <charseq START="3576" END="3584">Rodriguez</charseq>
+          </extent>
+          <head>
+              <charseq START="3576" END="3584">Rodriguez</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E33-M3405">
+          <extent>
+              <charseq START="3595" END="3621">a playoff star
+for New York</charseq>
+          </extent>
+          <head>
+              <charseq START="3605" END="3608">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E33-M3506">
+          <extent>
+              <charseq START="3764" END="3772">Rodriguez</charseq>
+          </extent>
+          <head>
+              <charseq START="3764" END="3772">Rodriguez</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alex Rodriguez">
+              <charseq START="3219" END="3232">Alex Rodriguez</charseq>
+          </name>
+          <name NAME="Rodriguez">
+              <charseq START="3576" END="3584">Rodriguez</charseq>
+          </name>
+          <name NAME="Rodriguez">
+              <charseq START="3764" END="3772">Rodriguez</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E34-M3302">
+          <extent>
+              <charseq START="3383" END="3386">Rod&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="3383" END="3385">Rod</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rod">
+              <charseq START="3383" END="3385">Rod</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E35" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091028.0776-E35-M3308">
+          <extent>
+              <charseq START="3446" END="3462">the Texas
+Rangers</charseq>
+          </extent>
+          <head>
+              <charseq START="3450" END="3462">Texas
+Rangers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Texas
+Rangers">
+              <charseq START="3450" END="3462">Texas
+Rangers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091028.0776-E36" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091028.0776-E36-M3410">
+          <extent>
+              <charseq START="3642" END="3650">five home</charseq>
+          </extent>
+          <head>
+              <charseq START="3647" END="3650">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T0" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T0-M1">
+            <extent>
+              <charseq START="157" END="160">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T1" VAL="2000">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T1-M1">
+            <extent>
+              <charseq START="267" END="270">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T2" VAL="2009-10-28">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T2-M1">
+            <extent>
+              <charseq START="355" END="363">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T3" VAL="2000">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T3-M1">
+            <extent>
+              <charseq START="500" END="503">2000</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T4" VAL="1976">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T4-M1">
+            <extent>
+              <charseq START="609" END="612">1976</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T5" VAL="PAST_REF" ANCHOR_VAL="2009-10-28" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T5-M1">
+            <extent>
+              <charseq START="750" END="753">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T6" VAL="PAST_REF" ANCHOR_VAL="2009-10-28" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T6-M1">
+            <extent>
+              <charseq START="758" END="776">the past 15 seasons</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="AFP_ENG_20091028.0776-V7" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="AFP_ENG_20091028.0776-V7-M1">
+            <extent>
+              <charseq START="1036" END="1054">435 million dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T8">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T8-M1">
+            <extent>
+              <charseq START="1076" END="1085">the season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T9" VAL="P37Y">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T9-M1">
+            <extent>
+              <charseq START="1379" END="1389">37-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T10" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T10-M1">
+            <extent>
+              <charseq START="1423" END="1431">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="AFP_ENG_20091028.0776-V11" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="AFP_ENG_20091028.0776-V11-M1">
+            <extent>
+              <charseq START="1437" END="1455">5.5 million dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T12" VAL="PRESENT_REF" ANCHOR_VAL="2009-10-28" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T12-M1">
+            <extent>
+              <charseq START="1497" END="1499">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T13" VAL="P6Y">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T13-M1">
+            <extent>
+              <charseq START="1534" END="1541">six-year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T14" VAL="2009-10-26">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T14-M1">
+            <extent>
+              <charseq START="2012" END="2017">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T15" VAL="2009-07">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T15-M1">
+            <extent>
+              <charseq START="2399" END="2402">July</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T16" VAL="P16Y">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T16-M1">
+            <extent>
+              <charseq START="3296" END="3302">16-year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T17" VAL="2001">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T17-M1">
+            <extent>
+              <charseq START="3417" END="3420">2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T18" VAL="2003">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T18-M1">
+            <extent>
+              <charseq START="3430" END="3433">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T19" VAL="P1M" MOD="MORE_THAN">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T19-M1">
+            <extent>
+              <charseq START="3487" END="3503">more than a month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T20" VAL="2009-SP">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T20-M1">
+            <extent>
+              <charseq START="3746" END="3751">spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091028.0776-T21" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20091028.0776-T21-M1">
+            <extent>
+              <charseq START="3799" END="3807">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20091028.0776-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091028.0776-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091028.0776-E8" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091028.0776-R0-M500">
+          <extent>
+              <charseq START="544" END="612">the first National
+League champion to repeat since Cincinnati in 1976</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E11-M511" ROLE="Arg-1">
+            <extent>
+              <charseq START="544" END="612">the first National
+League champion to repeat since Cincinnati in 1976</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E8-M513" ROLE="Arg-2">
+            <extent>
+              <charseq START="554" END="568">National
+League</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091028.0776-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091028.0776-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091028.0776-E14" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091028.0776-R1-M700">
+          <extent>
+              <charseq START="940" END="994">Yankees closing relief pitcher Mariano Rivera of Panama</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E13-M706" ROLE="Arg-1">
+            <extent>
+              <charseq START="940" END="994">Yankees closing relief pitcher Mariano Rivera of Panama</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E14-M713" ROLE="Arg-2">
+            <extent>
+              <charseq START="989" END="994">Panama</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091028.0776-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091028.0776-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091028.0776-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091028.0776-R2-M1400">
+          <extent>
+              <charseq START="1919" END="1927">shortstop</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E27-M1402" ROLE="Arg-1">
+            <extent>
+              <charseq START="1919" END="1927">shortstop</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E0-M1401" ROLE="Arg-2">
+            <extent>
+              <charseq START="1910" END="1917">Phillies</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091028.0776-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091028.0776-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091028.0776-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091028.0776-R3-M2600">
+          <extent>
+              <charseq START="2872" END="2878">slugger</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E28-M2606" ROLE="Arg-1">
+            <extent>
+              <charseq START="2872" END="2878">slugger</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E0-M2605" ROLE="Arg-2">
+            <extent>
+              <charseq START="2863" END="2870">Phillies</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20091028.0776-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091028.0776-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091028.0776-E2" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091028.0776-R5-M3400">
+          <extent>
+              <charseq START="3595" END="3621">a playoff star
+for New York</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E33-M3405" ROLE="Arg-1">
+            <extent>
+              <charseq START="3595" END="3621">a playoff star
+for New York</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091028.0776-E2-M3408" ROLE="Arg-2">
+            <extent>
+              <charseq START="3614" END="3621">New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

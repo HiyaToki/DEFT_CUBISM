@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="4743a10c1d5f1ad35c31646049acb9db.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-1026" length="16" offset="448">
+        <text>an honest person</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-117" length="10" offset="86">slingblade</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1053" length="4" offset="595">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-117" length="10" offset="86">slingblade</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-495" length="3" offset="2240">
+        <text>You</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-171" length="8" offset="1387">halides1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1246" length="10" offset="2618">
+        <text>young boys</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-207" length="2" offset="2588">he</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-513" length="4" offset="2697">
+        <text>Knox</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="8" offset="1315">stilicho</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-513" length="4" offset="2697">
+        <text>Knox</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-459" length="8" offset="1315">stilicho</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-573" length="2" offset="2786">
+        <text>He</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="8" offset="1315">stilicho</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-585" length="2" offset="2869">
+        <text>He</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="8" offset="1315">stilicho</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1605" length="12" offset="2798">
+        <text>the trustees</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="8" offset="1315">stilicho</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-225" length="7" offset="3092">
+        <text>himself</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-219" length="2" offset="3079">he</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-693" length="3" offset="4084">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-609" length="10" offset="3261">Number Six</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-699" length="2" offset="4115">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-609" length="10" offset="3261">Number Six</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-303" length="8" offset="4096">
+        <text>Sandusky</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-609" length="10" offset="3261">Number Six</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-759" length="3" offset="4398">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-753" length="2" offset="4363">he</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-759" length="3" offset="4398">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-315" length="8" offset="4376">Sandusky</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-705" length="7" offset="4416">
+        <text>Paterno</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-315" length="8" offset="4376">Sandusky</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-705" length="7" offset="4416">
+        <text>Paterno</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-321" length="2" offset="4407">he</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-351" length="8" offset="5665">
+        <text>Sandusky</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-777" length="6" offset="5204">Resume</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-399" length="2" offset="6027">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-783" length="9" offset="5730">Checkmite</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

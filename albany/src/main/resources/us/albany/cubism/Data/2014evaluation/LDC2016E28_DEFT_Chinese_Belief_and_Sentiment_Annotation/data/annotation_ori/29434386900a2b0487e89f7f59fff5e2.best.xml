@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56a0039f0000000000000002">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-225">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-235">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-326">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-249">
+        <trigger offset="666" length="2">入手</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-111" offset="656" length="1">
+            <text>俺</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-270">
+        <trigger offset="666" length="2">入手</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-111" offset="656" length="1">
+            <text>俺</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-291">
+        <trigger offset="120" length="2">骚扰</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-165" offset="122" length="2">
+            <text>客服</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-57" offset="117" length="1">
+            <text>我</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-323" offset="81" length="3">
+            <text>上个月</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-336">
+        <trigger offset="88" length="2">消费</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-45" offset="84" length="1">
+            <text>我</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-546" offset="95" length="3">
+            <text>400</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-359">
+        <trigger offset="196" length="1">花</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-81" offset="194" length="2">
+            <text>自己</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-380">
+        <trigger offset="208" length="2">扣费</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-63" offset="125" length="1">
+            <text>我</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-403">
+        <trigger offset="253" length="2">扣费</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-87" offset="233" length="1">
+            <text>我</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-424">
+        <trigger offset="292" length="1">买</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-87" offset="233" length="1">
+            <text>我</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-576" offset="294" length="3">
+            <text>爱疯四</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-447">
+        <trigger offset="292" length="1">买</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-87" offset="233" length="1">
+            <text>我</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-514">
+        <trigger offset="522" length="2">扣费</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-99" offset="521" length="1">
+            <text>我</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-171" offset="511" length="4">
+            <text>中国移动</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-171" offset="511" length="4">
+        <text>中国移动</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-177" offset="515" length="1">
+        <text>你</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-183" offset="725" length="4">
+        <text>中国移动</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-189" offset="735" length="1">
+        <text>你</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events>
+      <event ere_id="em-291">
+        <trigger offset="120" length="2">骚扰</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-380">
+        <trigger offset="208" length="2">扣费</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-403">
+        <trigger offset="253" length="2">扣费</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-514">
+        <trigger offset="522" length="2">扣费</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" offset="14" length="12">Wallis845947</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

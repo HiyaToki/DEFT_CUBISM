@@ -1,0 +1,1403 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="bolt-eng-DF-200-192392-4570077">
+  <document DOCID="bolt-eng-DF-200-192392-4570077">
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M0">
+          <extent>
+              <charseq START="53" END="58">London</charseq>
+          </extent>
+          <head>
+              <charseq START="53" END="58">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M1">
+          <extent>
+              <charseq START="63" END="67">where</charseq>
+          </extent>
+          <head>
+              <charseq START="63" END="67">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M105" ROLE="GPE">
+          <extent>
+              <charseq START="199" END="219">london as most people</charseq>
+          </extent>
+          <head>
+              <charseq START="199" END="204">london</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M108">
+          <extent>
+              <charseq START="226" END="230">there</charseq>
+          </extent>
+          <head>
+              <charseq START="226" END="230">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M504" ROLE="LOC">
+          <extent>
+              <charseq START="662" END="667">London</charseq>
+          </extent>
+          <head>
+              <charseq START="662" END="667">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M510">
+          <extent>
+              <charseq START="708" END="712">where</charseq>
+          </extent>
+          <head>
+              <charseq START="708" END="712">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M705" ROLE="GPE">
+          <extent>
+              <charseq START="1069" END="1089">london as most people</charseq>
+          </extent>
+          <head>
+              <charseq START="1069" END="1074">london</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M708">
+          <extent>
+              <charseq START="1096" END="1100">there</charseq>
+          </extent>
+          <head>
+              <charseq START="1096" END="1100">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M911">
+          <extent>
+              <charseq START="1300" END="1305">London</charseq>
+          </extent>
+          <head>
+              <charseq START="1300" END="1305">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M1000">
+          <extent>
+              <charseq START="1382" END="1387">London</charseq>
+          </extent>
+          <head>
+              <charseq START="1382" END="1387">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M1001">
+          <extent>
+              <charseq START="1392" END="1396">where</charseq>
+          </extent>
+          <head>
+              <charseq START="1392" END="1396">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M1100" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1443" END="1452">nah London</charseq>
+          </extent>
+          <head>
+              <charseq START="1447" END="1452">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E0-M1101">
+          <extent>
+              <charseq START="1443" END="1445">nah</charseq>
+          </extent>
+          <head>
+              <charseq START="1443" END="1445">nah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M1300" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1585" END="1590">London</charseq>
+          </extent>
+          <head>
+              <charseq START="1585" END="1590">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M1309" ROLE="LOC">
+          <extent>
+              <charseq START="1661" END="1666">London</charseq>
+          </extent>
+          <head>
+              <charseq START="1661" END="1666">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M1405" ROLE="GPE">
+          <extent>
+              <charseq START="1931" END="1951">london as most people</charseq>
+          </extent>
+          <head>
+              <charseq START="1931" END="1936">london</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M1408">
+          <extent>
+              <charseq START="1958" END="1962">there</charseq>
+          </extent>
+          <head>
+              <charseq START="1958" END="1962">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M1500">
+          <extent>
+              <charseq START="2061" END="2066">London</charseq>
+          </extent>
+          <head>
+              <charseq START="2061" END="2066">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E0-M1610">
+          <extent>
+              <charseq START="2136" END="2144">this city</charseq>
+          </extent>
+          <head>
+              <charseq START="2141" END="2144">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M1910" ROLE="LOC">
+          <extent>
+              <charseq START="2376" END="2381">London</charseq>
+          </extent>
+          <head>
+              <charseq START="2376" END="2381">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M1913">
+          <extent>
+              <charseq START="2397" END="2401">there</charseq>
+          </extent>
+          <head>
+              <charseq START="2397" END="2401">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M2004" ROLE="LOC">
+          <extent>
+              <charseq START="2505" END="2510">London</charseq>
+          </extent>
+          <head>
+              <charseq START="2505" END="2510">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M2202">
+          <extent>
+              <charseq START="2592" END="2597">London</charseq>
+          </extent>
+          <head>
+              <charseq START="2592" END="2597">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M2205">
+          <extent>
+              <charseq START="2613" END="2617">where</charseq>
+          </extent>
+          <head>
+              <charseq START="2613" END="2617">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M2300">
+          <extent>
+              <charseq START="2751" END="2756">London</charseq>
+          </extent>
+          <head>
+              <charseq START="2751" END="2756">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M2301">
+          <extent>
+              <charseq START="2761" END="2765">where</charseq>
+          </extent>
+          <head>
+              <charseq START="2761" END="2765">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M2400" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2812" END="2821">nah London</charseq>
+          </extent>
+          <head>
+              <charseq START="2816" END="2821">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E0-M2401">
+          <extent>
+              <charseq START="2812" END="2814">nah</charseq>
+          </extent>
+          <head>
+              <charseq START="2812" END="2814">nah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M2600" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2954" END="2959">London</charseq>
+          </extent>
+          <head>
+              <charseq START="2954" END="2959">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M2609" ROLE="LOC">
+          <extent>
+              <charseq START="3030" END="3035">London</charseq>
+          </extent>
+          <head>
+              <charseq START="3030" END="3035">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M2706" ROLE="LOC">
+          <extent>
+              <charseq START="3205" END="3210">london</charseq>
+          </extent>
+          <head>
+              <charseq START="3205" END="3210">london</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M2906" ROLE="LOC">
+          <extent>
+              <charseq START="3400" END="3405">london</charseq>
+          </extent>
+          <head>
+              <charseq START="3400" END="3405">london</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M3805" ROLE="GPE">
+          <extent>
+              <charseq START="3941" END="3961">london as most people</charseq>
+          </extent>
+          <head>
+              <charseq START="3941" END="3946">london</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M3808">
+          <extent>
+              <charseq START="3968" END="3972">there</charseq>
+          </extent>
+          <head>
+              <charseq START="3968" END="3972">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M4802" ROLE="LOC">
+          <extent>
+              <charseq START="4951" END="4956">London</charseq>
+          </extent>
+          <head>
+              <charseq START="4951" END="4956">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M5000" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="5058" END="5063">London</charseq>
+          </extent>
+          <head>
+              <charseq START="5058" END="5063">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M5105" ROLE="GPE">
+          <extent>
+              <charseq START="5231" END="5251">london as most people</charseq>
+          </extent>
+          <head>
+              <charseq START="5231" END="5236">london</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M5108">
+          <extent>
+              <charseq START="5258" END="5262">there</charseq>
+          </extent>
+          <head>
+              <charseq START="5258" END="5262">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M6403" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="6329" END="6335">London,</charseq>
+          </extent>
+          <head>
+              <charseq START="6329" END="6334">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M6700" ROLE="LOC">
+          <extent>
+              <charseq START="6514" END="6556">Not just London who gets all the stabbings.</charseq>
+          </extent>
+          <head>
+              <charseq START="6523" END="6528">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M6703">
+          <extent>
+              <charseq START="6530" END="6532">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6530" END="6532">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M6814">
+          <extent>
+              <charseq START="6773" END="6778">London</charseq>
+          </extent>
+          <head>
+              <charseq START="6773" END="6778">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E0-M7000" ROLE="LOC">
+          <extent>
+              <charseq START="6906" END="6948">Not just London who gets all the stabbings.</charseq>
+          </extent>
+          <head>
+              <charseq START="6915" END="6920">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M7003">
+          <extent>
+              <charseq START="6922" END="6924">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6922" END="6924">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E0-M7102">
+          <extent>
+              <charseq START="7016" END="7018">its</charseq>
+          </extent>
+          <head>
+              <charseq START="7016" END="7018">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="London">
+              <charseq START="53" END="58">London</charseq>
+          </name>
+          <name NAME="london">
+              <charseq START="199" END="204">london</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="662" END="667">London</charseq>
+          </name>
+          <name NAME="london">
+              <charseq START="1069" END="1074">london</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="1300" END="1305">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="1382" END="1387">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="1661" END="1666">London</charseq>
+          </name>
+          <name NAME="london">
+              <charseq START="1931" END="1936">london</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="2061" END="2066">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="2376" END="2381">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="2505" END="2510">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="2592" END="2597">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="2751" END="2756">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="3030" END="3035">London</charseq>
+          </name>
+          <name NAME="london">
+              <charseq START="3205" END="3210">london</charseq>
+          </name>
+          <name NAME="london">
+              <charseq START="3400" END="3405">london</charseq>
+          </name>
+          <name NAME="london">
+              <charseq START="3941" END="3946">london</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="4951" END="4956">London</charseq>
+          </name>
+          <name NAME="london">
+              <charseq START="5231" END="5236">london</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="6523" END="6528">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="6773" END="6778">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="6915" END="6920">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E1-M111" ROLE="LOC">
+          <extent>
+              <charseq START="262" END="267">the Uk</charseq>
+          </extent>
+          <head>
+              <charseq START="266" END="267">Uk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E1-M509" ROLE="GPE">
+          <extent>
+              <charseq START="694" END="705">this country</charseq>
+          </extent>
+          <head>
+              <charseq START="699" END="705">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E1-M711" ROLE="LOC">
+          <extent>
+              <charseq START="1132" END="1137">the Uk</charseq>
+          </extent>
+          <head>
+              <charseq START="1136" END="1137">Uk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E1-M1206" ROLE="GPE">
+          <extent>
+              <charseq START="1549" END="1554">the UK</charseq>
+          </extent>
+          <head>
+              <charseq START="1553" END="1554">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E1-M1411" ROLE="LOC">
+          <extent>
+              <charseq START="1994" END="1999">the Uk</charseq>
+          </extent>
+          <head>
+              <charseq START="1998" END="1999">Uk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E1-M1704" ROLE="LOC">
+          <extent>
+              <charseq START="2192" END="2197">the UK</charseq>
+          </extent>
+          <head>
+              <charseq START="2196" END="2197">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E1-M2506" ROLE="GPE">
+          <extent>
+              <charseq START="2918" END="2923">the UK</charseq>
+          </extent>
+          <head>
+              <charseq START="2922" END="2923">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E1-M3811" ROLE="LOC">
+          <extent>
+              <charseq START="4004" END="4009">the Uk</charseq>
+          </extent>
+          <head>
+              <charseq START="4008" END="4009">Uk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E1-M5111" ROLE="LOC">
+          <extent>
+              <charseq START="5294" END="5299">the Uk</charseq>
+          </extent>
+          <head>
+              <charseq START="5298" END="5299">Uk</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Uk">
+              <charseq START="266" END="267">Uk</charseq>
+          </name>
+          <name NAME="Uk">
+              <charseq START="1136" END="1137">Uk</charseq>
+          </name>
+          <name NAME="UK">
+              <charseq START="1553" END="1554">UK</charseq>
+          </name>
+          <name NAME="Uk">
+              <charseq START="1998" END="1999">Uk</charseq>
+          </name>
+          <name NAME="UK">
+              <charseq START="2196" END="2197">UK</charseq>
+          </name>
+          <name NAME="UK">
+              <charseq START="2922" END="2923">UK</charseq>
+          </name>
+          <name NAME="Uk">
+              <charseq START="4008" END="4009">Uk</charseq>
+          </name>
+          <name NAME="Uk">
+              <charseq START="5298" END="5299">Uk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E2-M107">
+          <extent>
+              <charseq START="209" END="219">most people</charseq>
+          </extent>
+          <head>
+              <charseq START="214" END="219">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E5-M409">
+          <extent>
+              <charseq START="569" END="575">Bristol</charseq>
+          </extent>
+          <head>
+              <charseq START="569" END="575">Bristol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E5-M507">
+          <extent>
+              <charseq START="679" END="705">the capital of this country</charseq>
+          </extent>
+          <head>
+              <charseq START="683" END="689">capital</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E5-M1708">
+          <extent>
+              <charseq START="2218" END="2224">Bristol</charseq>
+          </extent>
+          <head>
+              <charseq START="2218" END="2224">Bristol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E5-M3902">
+          <extent>
+              <charseq START="4198" END="4212">its the capital</charseq>
+          </extent>
+          <head>
+              <charseq START="4206" END="4212">capital</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bristol">
+              <charseq START="569" END="575">Bristol</charseq>
+          </name>
+          <name NAME="Bristol">
+              <charseq START="2218" END="2224">Bristol</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E6-M410">
+          <extent>
+              <charseq START="578" END="586">Liverpool</charseq>
+          </extent>
+          <head>
+              <charseq START="578" END="586">Liverpool</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Liverpool">
+              <charseq START="578" END="586">Liverpool</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E7-M411">
+          <extent>
+              <charseq START="589" END="598">Birmingham</charseq>
+          </extent>
+          <head>
+              <charseq START="589" END="598">Birmingham</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E7-M6601" ROLE="LOC">
+          <extent>
+              <charseq START="6495" END="6504">Birmingham</charseq>
+          </extent>
+          <head>
+              <charseq START="6495" END="6504">Birmingham</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E7-M6901" ROLE="LOC">
+          <extent>
+              <charseq START="6887" END="6896">Birmingham</charseq>
+          </extent>
+          <head>
+              <charseq START="6887" END="6896">Birmingham</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Birmingham">
+              <charseq START="589" END="598">Birmingham</charseq>
+          </name>
+          <name NAME="Birmingham">
+              <charseq START="6495" END="6504">Birmingham</charseq>
+          </name>
+          <name NAME="Birmingham">
+              <charseq START="6887" END="6896">Birmingham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E8-M412">
+          <extent>
+              <charseq START="604" END="613">Manchester</charseq>
+          </extent>
+          <head>
+              <charseq START="604" END="613">Manchester</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E8-M2705" ROLE="LOC">
+          <extent>
+              <charseq START="3191" END="3200">Manchester</charseq>
+          </extent>
+          <head>
+              <charseq START="3191" END="3200">Manchester</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E8-M2905" ROLE="LOC">
+          <extent>
+              <charseq START="3386" END="3395">Manchester</charseq>
+          </extent>
+          <head>
+              <charseq START="3386" END="3395">Manchester</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E8-M5404" ROLE="LOC">
+          <extent>
+              <charseq START="5477" END="5486">Manchester</charseq>
+          </extent>
+          <head>
+              <charseq START="5477" END="5486">Manchester</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Manchester">
+              <charseq START="604" END="613">Manchester</charseq>
+          </name>
+          <name NAME="Manchester">
+              <charseq START="3191" END="3200">Manchester</charseq>
+          </name>
+          <name NAME="Manchester">
+              <charseq START="3386" END="3395">Manchester</charseq>
+          </name>
+          <name NAME="Manchester">
+              <charseq START="5477" END="5486">Manchester</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E9-M406" ROLE="LOC">
+          <extent>
+              <charseq START="557" END="613">cities like Bristol, Liverpool, Birmingham and Manchester</charseq>
+          </extent>
+          <head>
+              <charseq START="557" END="562">cities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E9-M1903">
+          <extent>
+              <charseq START="2330" END="2335">cities</charseq>
+          </extent>
+          <head>
+              <charseq START="2330" END="2335">cities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E9-M5407">
+          <extent>
+              <charseq START="5517" END="5522">cities</charseq>
+          </extent>
+          <head>
+              <charseq START="5517" END="5522">cities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E10-M511">
+          <extent>
+              <charseq START="714" END="723">Parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="714" END="723">Parliament</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Parliament">
+              <charseq START="714" END="723">Parliament</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E11-M513">
+          <extent>
+              <charseq START="726" END="741">the Royal Family</charseq>
+          </extent>
+          <head>
+              <charseq START="730" END="741">Royal Family</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Royal Family">
+              <charseq START="730" END="741">Royal Family</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E12-M707">
+          <extent>
+              <charseq START="1079" END="1089">most people</charseq>
+          </extent>
+          <head>
+              <charseq START="1084" END="1089">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E13-M905" ROLE="LOC">
+          <extent>
+              <charseq START="1238" END="1243">Durham</charseq>
+          </extent>
+          <head>
+              <charseq START="1238" END="1243">Durham</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Durham">
+              <charseq START="1238" END="1243">Durham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E14-M906">
+          <extent>
+              <charseq START="1248" END="1261">York Cathedral</charseq>
+          </extent>
+          <head>
+              <charseq START="1248" END="1261">York Cathedral</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="York Cathedral">
+              <charseq START="1248" END="1261">York Cathedral</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E15-M907" ROLE="LOC">
+          <extent>
+              <charseq START="1272" END="1282">Leicester I</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1280">Leicester</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leicester">
+              <charseq START="1272" END="1280">Leicester</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E16" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E16-M1202">
+          <extent>
+              <charseq START="1501" END="1510">no beaches</charseq>
+          </extent>
+          <head>
+              <charseq START="1504" END="1510">beaches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E17-M1204">
+          <extent>
+              <charseq START="1534" END="1554">other parts of the UK</charseq>
+          </extent>
+          <head>
+              <charseq START="1540" END="1544">parts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E18-M1308" ROLE="LOC">
+          <extent>
+              <charseq START="1650" END="1656">Glasgow</charseq>
+          </extent>
+          <head>
+              <charseq START="1650" END="1656">Glasgow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E18-M2608" ROLE="LOC">
+          <extent>
+              <charseq START="3019" END="3025">Glasgow</charseq>
+          </extent>
+          <head>
+              <charseq START="3019" END="3025">Glasgow</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Glasgow">
+              <charseq START="1650" END="1656">Glasgow</charseq>
+          </name>
+          <name NAME="Glasgow">
+              <charseq START="3019" END="3025">Glasgow</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E19-M1306">
+          <extent>
+              <charseq START="1628" END="1680">people commuting from Glasgow to London every morning</charseq>
+          </extent>
+          <head>
+              <charseq START="1628" END="1633">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E20-M1407">
+          <extent>
+              <charseq START="1941" END="1951">most people</charseq>
+          </extent>
+          <head>
+              <charseq START="1946" END="1951">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E21-M1707">
+          <extent>
+              <charseq START="2207" END="2215">Edinburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="2207" END="2215">Edinburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Edinburgh">
+              <charseq START="2207" END="2215">Edinburgh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E22-M1709">
+          <extent>
+              <charseq START="2227" END="2235">Newcastle</charseq>
+          </extent>
+          <head>
+              <charseq START="2227" END="2235">Newcastle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Newcastle">
+              <charseq START="2227" END="2235">Newcastle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E23-M1710">
+          <extent>
+              <charseq START="2238" END="2242">Leeds</charseq>
+          </extent>
+          <head>
+              <charseq START="2238" END="2242">Leeds</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leeds">
+              <charseq START="2238" END="2242">Leeds</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E24-M1711">
+          <extent>
+              <charseq START="2248" END="2254">Cardiff</charseq>
+          </extent>
+          <head>
+              <charseq START="2248" END="2254">Cardiff</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cardiff">
+              <charseq START="2248" END="2254">Cardiff</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E25" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E25-M1702">
+          <extent>
+              <charseq START="2167" END="2254">many excellent cities in the UK such as Edinburgh, Bristol, Newcastle, Leeds and Cardiff</charseq>
+          </extent>
+          <head>
+              <charseq START="2182" END="2187">cities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E26-M1801">
+          <extent>
+              <charseq START="2265" END="2279">probably others</charseq>
+          </extent>
+          <head>
+              <charseq START="2274" END="2279">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E27" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E27-M2502">
+          <extent>
+              <charseq START="2870" END="2879">no beaches</charseq>
+          </extent>
+          <head>
+              <charseq START="2873" END="2879">beaches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E29-M2606">
+          <extent>
+              <charseq START="2997" END="3049">people commuting from Glasgow to London every morning</charseq>
+          </extent>
+          <head>
+              <charseq START="2997" END="3002">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E30-M2702">
+          <extent>
+              <charseq START="3165" END="3184">someone who commuted</charseq>
+          </extent>
+          <head>
+              <charseq START="3165" END="3171">someone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E30-M2704">
+          <extent>
+              <charseq START="3173" END="3175">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3173" END="3175">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E30-M2902">
+          <extent>
+              <charseq START="3360" END="3379">someone who commuted</charseq>
+          </extent>
+          <head>
+              <charseq START="3360" END="3366">someone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E30-M2904">
+          <extent>
+              <charseq START="3368" END="3370">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3368" END="3370">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E31-M2800">
+          <extent>
+              <charseq START="3227" END="3236">Crazy guy.</charseq>
+          </extent>
+          <head>
+              <charseq START="3233" END="3235">guy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E31-M3000">
+          <extent>
+              <charseq START="3422" END="3431">Crazy guy.</charseq>
+          </extent>
+          <head>
+              <charseq START="3428" END="3430">guy</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E32" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E32-M3302" ROLE="LOC">
+          <extent>
+              <charseq START="3497" END="3513">the Isle of Wight</charseq>
+          </extent>
+          <head>
+              <charseq START="3501" END="3504">Isle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E32-M4502" ROLE="LOC">
+          <extent>
+              <charseq START="4622" END="4638">the Isle of Wight</charseq>
+          </extent>
+          <head>
+              <charseq START="4626" END="4629">Isle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Isle">
+              <charseq START="3501" END="3504">Isle</charseq>
+          </name>
+          <name NAME="Isle">
+              <charseq START="4626" END="4629">Isle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E33" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E33-M3305">
+          <extent>
+              <charseq START="3509" END="3513">Wight</charseq>
+          </extent>
+          <head>
+              <charseq START="3509" END="3513">Wight</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E33-M4505">
+          <extent>
+              <charseq START="4634" END="4638">Wight</charseq>
+          </extent>
+          <head>
+              <charseq START="4634" END="4638">Wight</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wight">
+              <charseq START="3509" END="3513">Wight</charseq>
+          </name>
+          <name NAME="Wight">
+              <charseq START="4634" END="4638">Wight</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E34-M3300">
+          <extent>
+              <charseq START="3471" END="3577">Some woman travelled from the Isle of Wight every morning, how she managed it and stayed sane was beyond me</charseq>
+          </extent>
+          <head>
+              <charseq START="3476" END="3480">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E34-M3307">
+          <extent>
+              <charseq START="3534" END="3536">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3534" END="3536">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E34-M4500">
+          <extent>
+              <charseq START="4596" END="4702">Some woman travelled from the Isle of Wight every morning, how she managed it and stayed sane was beyond me</charseq>
+          </extent>
+          <head>
+              <charseq START="4601" END="4605">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192392-4570077-E34-M4507">
+          <extent>
+              <charseq START="4659" END="4661">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4659" END="4661">she</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E35-M3500">
+          <extent>
+              <charseq START="3741" END="3770">http://www.youtube.com/watch?v</charseq>
+          </extent>
+          <head>
+              <charseq START="3741" END="3770">http://www.youtube.com/watch?v</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="http://www.youtube.com/watch?v">
+              <charseq START="3741" END="3770">http://www.youtube.com/watch?v</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E36-M3807">
+          <extent>
+              <charseq START="3951" END="3961">most people</charseq>
+          </extent>
+          <head>
+              <charseq START="3956" END="3961">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E37-M4107" ROLE="LOC">
+          <extent>
+              <charseq START="4410" END="4413">Brum</charseq>
+          </extent>
+          <head>
+              <charseq START="4410" END="4413">Brum</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E37-M6107" ROLE="LOC">
+          <extent>
+              <charseq START="6192" END="6195">Brum</charseq>
+          </extent>
+          <head>
+              <charseq START="6192" END="6195">Brum</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brum">
+              <charseq START="4410" END="4413">Brum</charseq>
+          </name>
+          <name NAME="Brum">
+              <charseq START="6192" END="6195">Brum</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E38-M5107">
+          <extent>
+              <charseq START="5241" END="5251">most people</charseq>
+          </extent>
+          <head>
+              <charseq START="5246" END="5251">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E39-M5302">
+          <extent>
+              <charseq START="5416" END="5423">Scotland</charseq>
+          </extent>
+          <head>
+              <charseq START="5416" END="5423">Scotland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scotland">
+              <charseq START="5416" END="5423">Scotland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E40-M5405">
+          <extent>
+              <charseq START="5489" END="5498">Nottingham</charseq>
+          </extent>
+          <head>
+              <charseq START="5489" END="5498">Nottingham</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nottingham">
+              <charseq START="5489" END="5498">Nottingham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E41" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E41-M6809" ROLE="LOC">
+          <extent>
+              <charseq START="6714" END="6720">Babylon</charseq>
+          </extent>
+          <head>
+              <charseq START="6714" END="6720">Babylon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Babylon">
+              <charseq START="6714" END="6720">Babylon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192392-4570077-E42-M6810">
+          <extent>
+              <charseq START="6723" END="6749">the Lighthouse of Alexndria</charseq>
+          </extent>
+          <head>
+              <charseq START="6727" END="6749">Lighthouse of Alexndria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lighthouse of Alexndria">
+              <charseq START="6727" END="6749">Lighthouse of Alexndria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192392-4570077-E43" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192392-4570077-E43-M6805">
+          <extent>
+              <charseq START="6691" END="6752">The Hanging Gardens of Babylon, the Lighthouse of Alexndria...</charseq>
+          </extent>
+          <head>
+              <charseq START="6703" END="6709">Gardens</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T0" VAL="TMO" SET="YES">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T0-M1">
+            <extent>
+              <charseq START="1668" END="1680">every morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T1" VAL="TMO" SET="YES">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T1-M1">
+            <extent>
+              <charseq START="3037" END="3049">every morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T2" VAL="TMO" SET="YES">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T2-M1">
+            <extent>
+              <charseq START="3212" END="3224">every morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T3" VAL="TMO" SET="YES">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T3-M1">
+            <extent>
+              <charseq START="3407" END="3419">every morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T4" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T4-M1">
+            <extent>
+              <charseq START="3452" END="3454">Now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T5" VAL="TMO" SET="YES">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T5-M1">
+            <extent>
+              <charseq START="3515" END="3527">every morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="bolt-eng-DF-200-192392-4570077-V6" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="bolt-eng-DF-200-192392-4570077-V6-M1">
+            <extent>
+              <charseq START="3741" END="3770">http://www.youtube.com/watch?v</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T7" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T7-M1">
+            <extent>
+              <charseq START="4577" END="4579">Now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T8" VAL="TMO" SET="YES">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T8-M1">
+            <extent>
+              <charseq START="4640" END="4652">every morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T9">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T9-M1">
+            <extent>
+              <charseq START="5799" END="5811">4 days a week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192392-4570077-T10">
+        <timex2_mention ID="bolt-eng-DF-200-192392-4570077-T10-M1">
+            <extent>
+              <charseq START="5822" END="5834">3 day weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="bolt-eng-DF-200-192392-4570077-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192392-4570077-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192392-4570077-E0" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192392-4570077-R0-M100">
+          <extent>
+              <charseq START="209" END="219">most people</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192392-4570077-E2-M107" ROLE="Arg-1">
+            <extent>
+              <charseq START="209" END="219">most people</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192392-4570077-E0-M108" ROLE="Arg-2">
+            <extent>
+              <charseq START="226" END="230">there</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192392-4570077-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192392-4570077-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192392-4570077-E1" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192392-4570077-R3-M1200">
+          <extent>
+              <charseq START="1534" END="1554">other parts of the UK</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192392-4570077-E17-M1204" ROLE="Arg-1">
+            <extent>
+              <charseq START="1534" END="1554">other parts of the UK</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192392-4570077-E1-M1206" ROLE="Arg-2">
+            <extent>
+              <charseq START="1549" END="1554">the UK</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

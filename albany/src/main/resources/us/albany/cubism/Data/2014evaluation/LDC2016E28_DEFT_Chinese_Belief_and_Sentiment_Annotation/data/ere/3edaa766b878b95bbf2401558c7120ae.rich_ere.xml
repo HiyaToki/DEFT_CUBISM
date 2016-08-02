@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="55ccab530000000000000020" doc_id="3edaa766b878b95bbf2401558c7120ae" source_type="multi_post">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specific">
+      <entity_mention id="m-57" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="14" length="8">
+        <mention_text>Bruce Wu</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-18" type="PER" specificity="specific">
+      <entity_mention id="m-63" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="144" length="4">
+        <mention_text>真命天资</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-21" type="PER" specificity="specific">
+      <entity_mention id="m-69" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="270" length="3">
+        <mention_text>李登辉</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="PER" specificity="specific">
+      <entity_mention id="m-75" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="303" length="3">
+        <mention_text>陈水扁</mention_text>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="336" length="3">
+        <mention_text>陈水扁</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="PER" specificity="specific">
+      <entity_mention id="m-87" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="580" length="3">
+        <mention_text>蔓月亮</mention_text>
+      </entity_mention>
+      <entity_mention id="m-93" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="664" length="3">
+        <mention_text>蔓月亮</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specific">
+      <entity_mention id="m-99" noun_type="NOM" source="3edaa766b878b95bbf2401558c7120ae" offset="627" length="2">
+        <mention_text>兄弟</mention_text>
+        <nom_head source="3edaa766b878b95bbf2401558c7120ae" offset="627" length="2">兄弟</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="PER" specificity="specific">
+      <entity_mention id="m-105" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="376" length="3">
+        <mention_text>花满天</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="ORG" specificity="specific">
+      <entity_mention id="m-111" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="300" length="3">
+        <mention_text>民进党</mention_text>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="333" length="3">
+        <mention_text>民进党</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="ORG" specificity="specific">
+      <entity_mention id="m-123" noun_type="NOM" source="3edaa766b878b95bbf2401558c7120ae" offset="270" length="5">
+        <mention_text>李登辉政府</mention_text>
+        <nom_head source="3edaa766b878b95bbf2401558c7120ae" offset="273" length="2">政府</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-42" type="ORG" specificity="specific">
+      <entity_mention id="m-129" noun_type="NOM" source="3edaa766b878b95bbf2401558c7120ae" offset="303" length="5">
+        <mention_text>陈水扁政府</mention_text>
+        <nom_head source="3edaa766b878b95bbf2401558c7120ae" offset="306" length="2">政府</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="ORG" specificity="specific">
+      <entity_mention id="m-135" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="267" length="3">
+        <mention_text>国民党</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="GPE" specificity="specific">
+      <entity_mention id="m-141" noun_type="NOM" source="3edaa766b878b95bbf2401558c7120ae" offset="202" length="2">
+        <mention_text>大陆</mention_text>
+        <nom_head source="3edaa766b878b95bbf2401558c7120ae" offset="202" length="2">大陆</nom_head>
+      </entity_mention>
+      <entity_mention id="m-147" noun_type="PRO" source="3edaa766b878b95bbf2401558c7120ae" offset="236" length="2">
+        <mention_text>我们</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="GPE" specificity="specific">
+      <entity_mention id="m-153" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="185" length="6">
+        <mention_text>taiwan</mention_text>
+      </entity_mention>
+      <entity_mention id="m-159" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="212" length="2">
+        <mention_text>台湾</mention_text>
+      </entity_mention>
+      <entity_mention id="m-165" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="254" length="2">
+        <mention_text>台湾</mention_text>
+      </entity_mention>
+      <entity_mention id="m-171" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="287" length="2">
+        <mention_text>台湾</mention_text>
+      </entity_mention>
+      <entity_mention id="m-177" noun_type="NAM" source="3edaa766b878b95bbf2401558c7120ae" offset="320" length="2">
+        <mention_text>台湾</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="LOC" specificity="specific">
+      <entity_mention id="m-183" noun_type="NOM" source="3edaa766b878b95bbf2401558c7120ae" offset="239" length="2">
+        <mention_text>国内</mention_text>
+        <nom_head source="3edaa766b878b95bbf2401558c7120ae" offset="239" length="2">国内</nom_head>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="NOM" source="3edaa766b878b95bbf2401558c7120ae" offset="344" length="2">
+        <mention_text>国内</mention_text>
+        <nom_head source="3edaa766b878b95bbf2401558c7120ae" offset="344" length="2">国内</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-373" source="3edaa766b878b95bbf2401558c7120ae" offset="313" length="5" type="time" nom_time="2009-XX-XX">一 年多前</filler>
+    <filler id="f-387" source="3edaa766b878b95bbf2401558c7120ae" offset="280" length="5" type="time" nom_time="2008-XX-XX">兩 年多前</filler>
+    <filler id="f-401" source="3edaa766b878b95bbf2401558c7120ae" offset="249" length="3" type="time" nom_time="2001-XX-XX">九年前</filler>
+  </fillers>
+  <relations>
+    <relation id="r-254" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-195" realis="true">
+        <rel_arg1 entity_id="ent-21" entity_mention_id="m-69" role="leader">李登辉</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-135" role="entity">国民党</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-255" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-205" realis="true">
+        <rel_arg1 entity_id="ent-21" entity_mention_id="m-69" role="leader">李登辉</rel_arg1>
+        <rel_arg2 entity_id="ent-39" entity_mention_id="m-123" role="entity">李登辉政府</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-256" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-215" realis="true">
+        <rel_arg1 entity_id="ent-21" entity_mention_id="m-69" role="per">李登辉</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-165" role="entity">台湾</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-257" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-225" realis="true">
+        <rel_arg1 entity_id="ent-39" entity_mention_id="m-123" role="suborg">李登辉政府</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-165" role="parent">台湾</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-258" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-235" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-75" role="leader">陈水扁</rel_arg1>
+        <rel_arg2 entity_id="ent-36" entity_mention_id="m-111" role="entity">民进党</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-414" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-81" role="leader">陈水扁</rel_arg1>
+        <rel_arg2 entity_id="ent-36" entity_mention_id="m-117" role="entity">民进党</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-259" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-245" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-75" role="leader">陈水扁</rel_arg1>
+        <rel_arg2 entity_id="ent-42" entity_mention_id="m-129" role="entity">陈水扁政府</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-260" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-255" realis="true">
+        <rel_arg1 entity_id="ent-42" entity_mention_id="m-129" role="suborg">陈水扁政府</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-171" role="parent">台湾</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-261" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-265" realis="true">
+        <rel_arg1 entity_id="ent-36" entity_mention_id="m-111" role="org">民进党</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-171" role="loc">台湾</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-424" realis="true">
+        <rel_arg1 entity_id="ent-36" entity_mention_id="m-117" role="org">民进党</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-177" role="loc">台湾</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-262" type="orgaffiliation" subtype="leadership">
+      <relation_mention id="relm-275" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-81" role="leader">陈水扁</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-177" role="entity">台湾</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-263" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-404" realis="true">
+        <rel_arg1 entity_id="ent-45" entity_mention_id="m-135" role="org">国民党</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-165" role="loc">台湾</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-299" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="3edaa766b878b95bbf2401558c7120ae" offset="339" length="3">关起来</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-81" role="person" realis="true">陈水扁</em_arg>
+        <em_arg entity_id="ent-51" entity_mention_id="m-177" role="place" realis="true">台湾</em_arg>
+        <em_arg filler_id="f-373" role="time" realis="true">一 年多前</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-295">
+      <event_mention id="em-320" type="business" subtype="endorg" realis="actual">
+        <trigger source="3edaa766b878b95bbf2401558c7120ae" offset="308" length="3">轰下来</trigger>
+        <em_arg entity_id="ent-42" entity_mention_id="m-129" role="org" realis="true">陈水扁政府</em_arg>
+        <em_arg entity_id="ent-51" entity_mention_id="m-171" role="place" realis="true">台湾</em_arg>
+        <em_arg filler_id="f-387" role="time" realis="true">兩 年多前</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-297">
+      <event_mention id="em-341" type="business" subtype="endorg" realis="actual">
+        <trigger source="3edaa766b878b95bbf2401558c7120ae" offset="275" length="3">轰下来</trigger>
+        <em_arg entity_id="ent-39" entity_mention_id="m-123" role="org" realis="true">李登辉政府</em_arg>
+        <em_arg entity_id="ent-51" entity_mention_id="m-165" role="place" realis="true">台湾</em_arg>
+        <em_arg filler_id="f-401" role="time" realis="true">九年前</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

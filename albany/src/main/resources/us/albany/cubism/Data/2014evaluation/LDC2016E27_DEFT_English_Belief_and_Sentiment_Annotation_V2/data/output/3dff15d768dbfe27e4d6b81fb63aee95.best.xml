@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="3dff15d768dbfe27e4d6b81fb63aee95.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-1077" length="7" offset="228">
+        <text>English</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-171" length="10" offset="103">OmSigDAVID</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-249" length="4" offset="467">
+        <text>Your</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" length="10" offset="14">OmSigDAVID</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-843" length="23" offset="858">
+        <text>extraordinary Americans</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-189" length="1" offset="841">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1041" length="6" offset="900">
+        <text>French</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" length="10" offset="14">OmSigDAVID</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-843" length="23" offset="858">
+        <text>extraordinary Americans</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="10" offset="14">OmSigDAVID</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1083" length="7" offset="926">
+        <text>England</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" length="10" offset="14">OmSigDAVID</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1047" length="6" offset="999">
+        <text>France</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-279" length="11" offset="985">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1047" length="6" offset="999">
+        <text>France</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-279" length="11" offset="985">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1101" length="7" offset="1195">
+        <text>Britain</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-291" length="11" offset="1154">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1113" length="13" offset="1406">
+        <text>the old enemy</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-291" length="11" offset="1154">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-789" length="3" offset="1579">
+        <text>You</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-303" length="11" offset="1482">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-765" length="3" offset="1717">
+        <text>You</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-483" length="11" offset="1703">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1167" length="25" offset="1886">
+        <text>the black hearted villain</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="11" offset="1839">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-603" length="2" offset="2007">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="11" offset="1839">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-2284" length="8" offset="1998">
+        <text>monarchs</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="11" offset="1839">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-615" length="2" offset="2114">
+        <text>He</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-321" length="11" offset="2100">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-861" length="7" offset="2389">
+        <text>America</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="10" offset="14">OmSigDAVID</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-543" length="17" offset="2608">
+        <text>George Washington</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-333" length="11" offset="2594">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-549" length="30" offset="2633">
+        <text>the first American millionaire</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-333" length="11" offset="2594">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-879" length="7" offset="2724">
+        <text>America</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-333" length="11" offset="2594">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1614" length="5" offset="2800">
+        <text>their</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-333" length="11" offset="2594">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-885" length="19" offset="2748">
+        <text>a wonderful country</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-333" length="11" offset="2594">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-681" length="5" offset="2913">
+        <text>their</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-333" length="11" offset="2594">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1257" length="5" offset="2987">
+        <text>World</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" length="10" offset="14">OmSigDAVID</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1137" length="7" offset="3059">
+        <text>Britain</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-369" length="11" offset="3045">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1137" length="7" offset="3059">
+        <text>Britain</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-369" length="11" offset="3045">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-729" length="15" offset="3408">
+        <text>American troops</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-369" length="11" offset="3045">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1766" length="12" offset="3928">
+        <text>most of them</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-375" length="11" offset="3616">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1729" length="11" offset="3869">
+        <text>U boat crew</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-375" length="11" offset="3616">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-813" length="5" offset="3913">
+        <text>Nazis</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-375" length="11" offset="3616">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-813" length="5" offset="3913">
+        <text>Nazis</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-375" length="11" offset="3616">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-801" length="15" offset="3974">
+        <text>any U boat crew</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-375" length="11" offset="3616">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-927" length="7" offset="4125">
+        <text>America</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-375" length="11" offset="3616">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1143" length="7" offset="4221">
+        <text>British</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-375" length="11" offset="3616">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-219" length="3" offset="4451">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-405" length="1" offset="4424">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-219" length="3" offset="4451">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-411" length="1" offset="4437">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-939" length="19" offset="4490">
+        <text>a wonderful country</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-375" length="11" offset="3616">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1924" length="6" offset="4530">
+        <text>people</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-375" length="11" offset="3616">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1287" length="14" offset="4923">
+        <text>Chesapeake Bay</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-429" length="11" offset="4900">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-513" length="10" offset="4967">
+        <text>Napoleonic</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-429" length="11" offset="4900">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-735" length="10" offset="5339">
+        <text>Our troops</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-447" length="11" offset="5325">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-969" length="8" offset="5453">
+        <text>American</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-447" length="11" offset="5325">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-981" length="7" offset="5669">
+        <text>America</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="5655">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-807" length="7" offset="5748">
+        <text>US Navy</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="5655">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1251" length="4" offset="5809">
+        <text>Iran</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="5655">izzythepush</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-993" length="7" offset="5849">
+        <text>America</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-741" length="9" offset="5237">georgeob1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1215" length="11" offset="5925">
+        <text>North Korea</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-741" length="9" offset="5237">georgeob1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1215" length="11" offset="5925">
+        <text>North Korea</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-741" length="9" offset="5237">georgeob1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1173" length="14" offset="5889">
+        <text>British Empire</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-741" length="9" offset="5237">georgeob1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-999" length="3" offset="5967">
+        <text>USA</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-741" length="9" offset="5237">georgeob1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-999" length="3" offset="5967">
+        <text>USA</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-741" length="9" offset="5237">georgeob1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-2082" length="24" offset="6122">
+        <text>pious schoolbook editors</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-645" length="7" offset="6005">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1011" length="8" offset="6417">
+        <text>American</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-651" length="7" offset="6286">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-2106" length="18" offset="6524">
+        <text>American merchants</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-651" length="7" offset="6286">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1065" length="6" offset="6577">
+        <text>France</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-651" length="7" offset="6286">Setanta</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-471" length="4" offset="6585">
+        <text>Your</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-651" length="7" offset="6286">Setanta</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

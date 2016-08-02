@@ -1,0 +1,1142 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100724.0060">
+  <document DOCID="NYT_ENG_20100724.0060">
+
+    <entity ID="NYT_ENG_20100724.0060-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E1-M100" ROLE="LOC">
+          <extent>
+              <charseq START="121" END="133">AUSTIN, Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="121" END="126">AUSTIN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AUSTIN">
+              <charseq START="121" END="126">AUSTIN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E2-M102" ROLE="LOC">
+          <extent>
+              <charseq START="129" END="133">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="133">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Texas">
+              <charseq START="129" END="133">Texas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E3-M201">
+          <extent>
+              <charseq START="175" END="189">Shirley Sherrod</charseq>
+          </extent>
+          <head>
+              <charseq START="175" END="189">Shirley Sherrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E3-M202">
+          <extent>
+              <charseq START="195" END="244">an obscure
+U.S. Department of Agriculture official</charseq>
+          </extent>
+          <head>
+              <charseq START="237" END="244">official</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M300">
+          <extent>
+              <charseq START="256" END="258">She</charseq>
+          </extent>
+          <head>
+              <charseq START="256" END="258">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M307">
+          <extent>
+              <charseq START="379" END="381">she</charseq>
+          </extent>
+          <head>
+              <charseq START="379" END="381">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M400">
+          <extent>
+              <charseq START="424" END="426">She</charseq>
+          </extent>
+          <head>
+              <charseq START="424" END="426">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M507">
+          <extent>
+              <charseq START="551" END="553">her</charseq>
+          </extent>
+          <head>
+              <charseq START="551" END="553">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E3-M700">
+          <extent>
+              <charseq START="709" END="715">Sherrod</charseq>
+          </extent>
+          <head>
+              <charseq START="709" END="715">Sherrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E3-M702">
+          <extent>
+              <charseq START="728" END="734">an icon</charseq>
+          </extent>
+          <head>
+              <charseq START="731" END="734">icon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E3-M1101">
+          <extent>
+              <charseq START="1229" END="1235">Sherrod</charseq>
+          </extent>
+          <head>
+              <charseq START="1229" END="1235">Sherrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E3-M1108">
+          <extent>
+              <charseq START="1363" END="1387">a white farmer who sought</charseq>
+          </extent>
+          <head>
+              <charseq START="1371" END="1376">farmer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M1110">
+          <extent>
+              <charseq START="1378" END="1380">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1378" END="1380">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M1112">
+          <extent>
+              <charseq START="1389" END="1391">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1389" END="1391">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E3-M1302">
+          <extent>
+              <charseq START="1635" END="1641">Sherrod</charseq>
+          </extent>
+          <head>
+              <charseq START="1635" END="1641">Sherrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E3-M1504">
+          <extent>
+              <charseq START="1735" END="1741">Sherrod</charseq>
+          </extent>
+          <head>
+              <charseq START="1735" END="1741">Sherrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E3-M1514">
+          <extent>
+              <charseq START="1806" END="1811">farmer</charseq>
+          </extent>
+          <head>
+              <charseq START="1806" END="1811">farmer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M1512">
+          <extent>
+              <charseq START="1790" END="1792">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1790" END="1792">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M1612">
+          <extent>
+              <charseq START="1916" END="1918">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1916" END="1918">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E3-M1701">
+          <extent>
+              <charseq START="1944" END="1950">Sherrod</charseq>
+          </extent>
+          <head>
+              <charseq START="1944" END="1950">Sherrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E3-M1705">
+          <extent>
+              <charseq START="2029" END="2044">the white farmer</charseq>
+          </extent>
+          <head>
+              <charseq START="2039" END="2044">farmer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M1702">
+          <extent>
+              <charseq START="1979" END="1981">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1979" END="1981">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E3-M1814">
+          <extent>
+              <charseq START="2182" END="2188">Sherrod</charseq>
+          </extent>
+          <head>
+              <charseq START="2182" END="2188">Sherrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E3-M2110">
+          <extent>
+              <charseq START="2499" END="2505">Sherrod</charseq>
+          </extent>
+          <head>
+              <charseq START="2499" END="2505">Sherrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M2202">
+          <extent>
+              <charseq START="2547" END="2549">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2547" END="2549">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E3-M3003">
+          <extent>
+              <charseq START="3227" END="3238">a good woman</charseq>
+          </extent>
+          <head>
+              <charseq START="3234" END="3238">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E3-M3200">
+          <extent>
+              <charseq START="3265" END="3267">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3265" END="3267">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Shirley Sherrod">
+              <charseq START="175" END="189">Shirley Sherrod</charseq>
+          </name>
+          <name NAME="Sherrod">
+              <charseq START="709" END="715">Sherrod</charseq>
+          </name>
+          <name NAME="Sherrod">
+              <charseq START="1229" END="1235">Sherrod</charseq>
+          </name>
+          <name NAME="Sherrod">
+              <charseq START="1635" END="1641">Sherrod</charseq>
+          </name>
+          <name NAME="Sherrod">
+              <charseq START="1735" END="1741">Sherrod</charseq>
+          </name>
+          <name NAME="Sherrod">
+              <charseq START="1944" END="1950">Sherrod</charseq>
+          </name>
+          <name NAME="Sherrod">
+              <charseq START="2182" END="2188">Sherrod</charseq>
+          </name>
+          <name NAME="Sherrod">
+              <charseq START="2499" END="2505">Sherrod</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E4-M204">
+          <extent>
+              <charseq START="206" END="235">U.S. Department of Agriculture</charseq>
+          </extent>
+          <head>
+              <charseq START="206" END="235">U.S. Department of Agriculture</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E4-M2104">
+          <extent>
+              <charseq START="2402" END="2427">the Agriculture Department</charseq>
+          </extent>
+          <head>
+              <charseq START="2406" END="2427">Agriculture Department</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E4-M2108">
+          <extent>
+              <charseq START="2472" END="2477">agency</charseq>
+          </extent>
+          <head>
+              <charseq START="2472" END="2477">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S. Department of Agriculture">
+              <charseq START="206" END="235">U.S. Department of Agriculture</charseq>
+          </name>
+          <name NAME="Agriculture Department">
+              <charseq START="2406" END="2427">Agriculture Department</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E5-M501">
+          <extent>
+              <charseq START="485" END="510">An embarrassed Tom Vilsack</charseq>
+          </extent>
+          <head>
+              <charseq START="500" END="510">Tom Vilsack</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E5-M503">
+          <extent>
+              <charseq START="513" END="565">the secretary of agriculture, offered her another job</charseq>
+          </extent>
+          <head>
+              <charseq START="517" END="525">secretary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E5-M510">
+          <extent>
+              <charseq START="572" END="627">the
+president himself called to try to make things right</charseq>
+          </extent>
+          <head>
+              <charseq START="576" END="584">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E5-M1600">
+          <extent>
+              <charseq START="1831" END="1832">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1831" END="1832">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E5-M1603">
+          <extent>
+              <charseq START="1839" END="1841">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1839" END="1841">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E5-M1605">
+          <extent>
+              <charseq START="1873" END="1875">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1873" END="1875">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E5-M1707">
+          <extent>
+              <charseq START="2051" END="2053">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2051" END="2053">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E5-M2401">
+          <extent>
+              <charseq START="2723" END="2729">Vilsack</charseq>
+          </extent>
+          <head>
+              <charseq START="2723" END="2729">Vilsack</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E5-M2801">
+          <extent>
+              <charseq START="3026" END="3032">Vilsack</charseq>
+          </extent>
+          <head>
+              <charseq START="3026" END="3032">Vilsack</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E5-M2904">
+          <extent>
+              <charseq START="3105" END="3178">the fellow who
+wakes up with a horrible hangover and pledges &quot;Never again&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="3109" END="3114">fellow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E5-M2906">
+          <extent>
+              <charseq START="3116" END="3118">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3116" END="3118">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tom Vilsack">
+              <charseq START="500" END="510">Tom Vilsack</charseq>
+          </name>
+          <name NAME="Vilsack">
+              <charseq START="2723" END="2729">Vilsack</charseq>
+          </name>
+          <name NAME="Vilsack">
+              <charseq START="3026" END="3032">Vilsack</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E6-M709">
+          <extent>
+              <charseq START="782" END="792">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="786" END="792">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E6-M711">
+          <extent>
+              <charseq START="828" END="830">its</charseq>
+          </extent>
+          <head>
+              <charseq START="828" END="830">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E6-M1507" ROLE="GPE">
+          <extent>
+              <charseq START="1759" END="1780">the federal government</charseq>
+          </extent>
+          <head>
+              <charseq START="1771" END="1780">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E6-M3305">
+          <extent>
+              <charseq START="3324" END="3334">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="3328" END="3334">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E6-M3307">
+          <extent>
+              <charseq START="3376" END="3378">its</charseq>
+          </extent>
+          <head>
+              <charseq START="3376" END="3378">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E6-M3404" ROLE="LOC">
+          <extent>
+              <charseq START="3474" END="3483">government</charseq>
+          </extent>
+          <head>
+              <charseq START="3474" END="3483">government</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E8-M902">
+          <extent>
+              <charseq START="994" END="1043">parties airing their grievances, real or perceived</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="1000">parties</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E8-M906">
+          <extent>
+              <charseq START="1009" END="1013">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1009" END="1013">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E9" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E9-M1003">
+          <extent>
+              <charseq START="1097" END="1103">African</charseq>
+          </extent>
+          <head>
+              <charseq START="1097" END="1103">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="African">
+              <charseq START="1097" END="1103">African</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E10-M1005">
+          <extent>
+              <charseq START="1105" END="1113">Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="1105" END="1113">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E11-M1106">
+          <extent>
+              <charseq START="1294" END="1355">the National Association for the Advancement of
+Colored People</charseq>
+          </extent>
+          <head>
+              <charseq START="1298" END="1355">National Association for the Advancement of
+Colored People</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E11-M2200">
+          <extent>
+              <charseq START="2522" END="2535">Even the NAACP</charseq>
+          </extent>
+          <head>
+              <charseq START="2531" END="2535">NAACP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E11-M2806">
+          <extent>
+              <charseq START="3052" END="3060">the
+NAACP</charseq>
+          </extent>
+          <head>
+              <charseq START="3056" END="3060">NAACP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Association for the Advancement of
+Colored People">
+              <charseq START="1298" END="1355">National Association for the Advancement of
+Colored People</charseq>
+          </name>
+          <name NAME="NAACP">
+              <charseq START="2531" END="2535">NAACP</charseq>
+          </name>
+          <name NAME="NAACP">
+              <charseq START="3056" END="3060">NAACP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E12-M1103">
+          <extent>
+              <charseq START="1267" END="1274">audience</charseq>
+          </extent>
+          <head>
+              <charseq START="1267" END="1274">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E13-M1203">
+          <extent>
+              <charseq START="1442" END="1461">so many black people</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1461">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E13-M1209">
+          <extent>
+              <charseq START="1530" END="1543">a white
+person</charseq>
+          </extent>
+          <head>
+              <charseq START="1538" END="1543">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E13-M1205">
+          <extent>
+              <charseq START="1473" END="1477">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1473" END="1477">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E13-M1211">
+          <extent>
+              <charseq START="1550" END="1554">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1550" END="1554">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E14" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E14-M1204">
+          <extent>
+              <charseq START="1473" END="1486">their farmland</charseq>
+          </extent>
+          <head>
+              <charseq START="1479" END="1486">farmland</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E15-M1602">
+          <extent>
+              <charseq START="1839" END="1846">his farm</charseq>
+          </extent>
+          <head>
+              <charseq START="1843" END="1846">farm</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E16-M1806">
+          <extent>
+              <charseq START="2114" END="2121">African-</charseq>
+          </extent>
+          <head>
+              <charseq START="2114" END="2121">African-</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="African-">
+              <charseq START="2114" END="2121">African-</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E17-M1809" ROLE="GPE">
+          <extent>
+              <charseq START="2122" END="2129">American</charseq>
+          </extent>
+          <head>
+              <charseq START="2122" END="2129">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="2122" END="2129">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E18-M1804">
+          <extent>
+              <charseq START="2099" END="2121">an audience of African-</charseq>
+          </extent>
+          <head>
+              <charseq START="2102" END="2109">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E19-M1807">
+          <extent>
+              <charseq START="2122" END="2216">American
+youths who might have benefited from the wisdom of Sherrod&apos;s
+remarks but for the furor</charseq>
+          </extent>
+          <head>
+              <charseq START="2131" END="2136">youths</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E19-M1810">
+          <extent>
+              <charseq START="2138" END="2140">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2138" END="2140">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E19-M1901">
+          <extent>
+              <charseq START="2224" END="2227">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2224" END="2227">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E20" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E20-M2001">
+          <extent>
+              <charseq START="2347" END="2354">Fox News</charseq>
+          </extent>
+          <head>
+              <charseq START="2347" END="2354">Fox News</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E20-M2501">
+          <extent>
+              <charseq START="2812" END="2819">Fox News</charseq>
+          </extent>
+          <head>
+              <charseq START="2812" END="2819">Fox News</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E20-M2809">
+          <extent>
+              <charseq START="3075" END="3082">Fox News</charseq>
+          </extent>
+          <head>
+              <charseq START="3075" END="3082">Fox News</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fox News">
+              <charseq START="2347" END="2354">Fox News</charseq>
+          </name>
+          <name NAME="Fox News">
+              <charseq START="2812" END="2819">Fox News</charseq>
+          </name>
+          <name NAME="Fox News">
+              <charseq START="3075" END="3082">Fox News</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E21-M2002">
+          <extent>
+              <charseq START="2357" END="2365">everybody</charseq>
+          </extent>
+          <head>
+              <charseq START="2357" END="2365">everybody</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E21-M2101">
+          <extent>
+              <charseq START="2384" END="2388">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2384" END="2388">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E22-M2107">
+          <extent>
+              <charseq START="2472" END="2487">agency officials</charseq>
+          </extent>
+          <head>
+              <charseq START="2479" END="2487">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E23" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E23-M2402">
+          <extent>
+              <charseq START="2735" END="2752">the
+administration</charseq>
+          </extent>
+          <head>
+              <charseq START="2739" END="2752">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E23-M2405">
+          <extent>
+              <charseq START="2789" END="2793">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2789" END="2793">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E24-M2500">
+          <extent>
+              <charseq START="2812" END="2845">Fox News personality Bill O&apos;Reilly</charseq>
+          </extent>
+          <head>
+              <charseq START="2833" END="2845">Bill O&apos;Reilly</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E24-M2502">
+          <extent>
+              <charseq START="2821" END="2831">personality</charseq>
+          </extent>
+          <head>
+              <charseq START="2821" END="2831">personality</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E24-M2808">
+          <extent>
+              <charseq START="3063" END="3070">O&apos;Reilly</charseq>
+          </extent>
+          <head>
+              <charseq START="3063" END="3070">O&apos;Reilly</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bill O&apos;Reilly">
+              <charseq START="2833" END="2845">Bill O&apos;Reilly</charseq>
+          </name>
+          <name NAME="O&apos;Reilly">
+              <charseq START="3063" END="3070">O&apos;Reilly</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E25-M2600">
+          <extent>
+              <charseq START="2894" END="2983">Andrew Breitbart, who supplied the clip, is
+peddling a line that he was essentially right.</charseq>
+          </extent>
+          <head>
+              <charseq START="2894" END="2909">Andrew Breitbart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E25-M2602">
+          <extent>
+              <charseq START="2912" END="2914">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2912" END="2914">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E25-M2606">
+          <extent>
+              <charseq START="2959" END="2960">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2959" END="2960">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E25-M2701">
+          <extent>
+              <charseq START="2998" END="2999">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2998" END="2999">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrew Breitbart">
+              <charseq START="2894" END="2909">Andrew Breitbart</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E26-M2803">
+          <extent>
+              <charseq START="3035" END="3049">the White House</charseq>
+          </extent>
+          <head>
+              <charseq START="3039" END="3049">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House">
+              <charseq START="3039" END="3049">White House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E27-M3306">
+          <extent>
+              <charseq START="3376" END="3392">its racist demons</charseq>
+          </extent>
+          <head>
+              <charseq START="3387" END="3392">demons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E28" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E28-M3405">
+          <extent>
+              <charseq START="3489" END="3497">the media</charseq>
+          </extent>
+          <head>
+              <charseq START="3493" END="3497">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E29-M3406">
+          <extent>
+              <charseq START="3503" END="3550">such suckers for cries of reverse discrimination</charseq>
+          </extent>
+          <head>
+              <charseq START="3508" END="3514">suckers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E29-M3413">
+          <extent>
+              <charseq START="3557" END="3560">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3557" END="3560">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E30" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E30-M3416">
+          <extent>
+              <charseq START="3583" END="3590">pop guns</charseq>
+          </extent>
+          <head>
+              <charseq START="3587" END="3590">guns</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E31-M3511">
+          <extent>
+              <charseq START="3688" END="3705">its segregationist</charseq>
+          </extent>
+          <head>
+              <charseq START="3692" END="3705">segregationist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100724.0060-E32-M3516">
+          <extent>
+              <charseq START="3749" END="3758">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="3754" END="3758">other</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100724.0060-E33-M3517">
+          <extent>
+              <charseq START="3763" END="3768">people</charseq>
+          </extent>
+          <head>
+              <charseq START="3763" END="3768">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100724.0060-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100724.0060-E34-M3601">
+          <extent>
+              <charseq START="3865" END="3893">the Austin American-Statesman</charseq>
+          </extent>
+          <head>
+              <charseq START="3869" END="3893">Austin American-Statesman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Austin American-Statesman">
+              <charseq START="3869" END="3893">Austin American-Statesman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100724.0060-T0" VAL="2010-W29">
+        <timex2_mention ID="NYT_ENG_20100724.0060-T0-M1">
+            <extent>
+              <charseq START="164" END="172">last week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100724.0060-T1" VAL="PRESENT_REF" ANCHOR_VAL="2010-07-24" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100724.0060-T1-M1">
+            <extent>
+              <charseq START="462" END="464">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100724.0060-T2" VAL="PRESENT_REF" ANCHOR_VAL="2010-07-24" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100724.0060-T2-M1">
+            <extent>
+              <charseq START="2678" END="2680">Now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100724.0060-T3" VAL="PAST_REF" ANCHOR_VAL="2010-07-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100724.0060-T3-M1">
+            <extent>
+              <charseq START="3707" END="3710">past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100724.0060-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100724.0060-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100724.0060-E2" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100724.0060-R0-M100">
+          <extent>
+              <charseq START="121" END="133">AUSTIN, Texas</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E1-M100" ROLE="Arg-1">
+            <extent>
+              <charseq START="121" END="133">AUSTIN, Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E2-M102" ROLE="Arg-2">
+            <extent>
+              <charseq START="129" END="133">Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100724.0060-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100724.0060-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100724.0060-E4" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100724.0060-R1-M200">
+          <extent>
+              <charseq START="195" END="244">an obscure
+U.S. Department of Agriculture official</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E3-M202" ROLE="Arg-1">
+            <extent>
+              <charseq START="195" END="244">an obscure
+U.S. Department of Agriculture official</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E4-M204" ROLE="Arg-2">
+            <extent>
+              <charseq START="206" END="235">U.S. Department of Agriculture</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100724.0060-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100724.0060-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100724.0060-E14" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100724.0060-R2-M1200">
+          <extent>
+              <charseq START="1442" END="1461">so many black people</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E13-M1203" ROLE="Arg-1">
+            <extent>
+              <charseq START="1442" END="1461">so many black people</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E14-M1204" ROLE="Arg-2">
+            <extent>
+              <charseq START="1473" END="1486">their farmland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100724.0060-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100724.0060-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100724.0060-E17" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100724.0060-R3-M1800">
+          <extent>
+              <charseq START="2122" END="2216">American
+youths who might have benefited from the wisdom of Sherrod&apos;s
+remarks but for the furor</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E19-M1807" ROLE="Arg-1">
+            <extent>
+              <charseq START="2122" END="2216">American
+youths who might have benefited from the wisdom of Sherrod&apos;s
+remarks but for the furor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E17-M1809" ROLE="Arg-2">
+            <extent>
+              <charseq START="2122" END="2129">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100724.0060-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100724.0060-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100724.0060-E4" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100724.0060-R4-M2100">
+          <extent>
+              <charseq START="2472" END="2487">agency officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E22-M2107" ROLE="Arg-1">
+            <extent>
+              <charseq START="2472" END="2487">agency officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E4-M2108" ROLE="Arg-2">
+            <extent>
+              <charseq START="2472" END="2477">agency</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100724.0060-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100724.0060-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100724.0060-E20" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100724.0060-R5-M2500">
+          <extent>
+              <charseq START="2821" END="2831">personality</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E24-M2502" ROLE="Arg-1">
+            <extent>
+              <charseq START="2821" END="2831">personality</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E20-M2501" ROLE="Arg-2">
+            <extent>
+              <charseq START="2812" END="2819">Fox News</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="NYT_ENG_20100724.0060-R5-M2800">
+          <extent>
+              <charseq START="3063" END="3070">O&apos;Reilly</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E24-M2808" ROLE="Arg-1">
+            <extent>
+              <charseq START="3063" END="3070">O&apos;Reilly</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100724.0060-E20-M2809" ROLE="Arg-2">
+            <extent>
+              <charseq START="3075" END="3082">Fox News</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

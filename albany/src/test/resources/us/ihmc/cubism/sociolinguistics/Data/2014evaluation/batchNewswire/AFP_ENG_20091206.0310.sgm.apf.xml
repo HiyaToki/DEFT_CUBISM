@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20091206.0310">
+  <document DOCID="AFP_ENG_20091206.0310">
+
+    <entity ID="AFP_ENG_20091206.0310-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E0-M0">
+          <extent>
+              <charseq START="58" END="65">Khamenei</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="65">Khamenei</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E0-M300">
+          <extent>
+              <charseq START="186" END="222">Supreme leader Ayatollah Ali Khamenei</charseq>
+          </extent>
+          <head>
+              <charseq START="201" END="222">Ayatollah Ali Khamenei</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091206.0310-E0-M302">
+          <extent>
+              <charseq START="194" END="199">leader</charseq>
+          </extent>
+          <head>
+              <charseq START="194" END="199">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E0-M412">
+          <extent>
+              <charseq START="484" END="491">Khamenei</charseq>
+          </extent>
+          <head>
+              <charseq START="484" END="491">Khamenei</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E0-M516">
+          <extent>
+              <charseq START="774" END="781">Khamenei</charseq>
+          </extent>
+          <head>
+              <charseq START="774" END="781">Khamenei</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Khamenei">
+              <charseq START="58" END="65">Khamenei</charseq>
+          </name>
+          <name NAME="Ayatollah Ali Khamenei">
+              <charseq START="201" END="222">Ayatollah Ali Khamenei</charseq>
+          </name>
+          <name NAME="Khamenei">
+              <charseq START="484" END="491">Khamenei</charseq>
+          </name>
+          <name NAME="Khamenei">
+              <charseq START="774" END="781">Khamenei</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E1-M1">
+          <extent>
+              <charseq START="72" END="73">US</charseq>
+          </extent>
+          <head>
+              <charseq START="72" END="73">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E1-M307">
+          <extent>
+              <charseq START="239" END="255">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="243" END="255">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091206.0310-E1-M305">
+          <extent>
+              <charseq START="239" END="299">the United States and
+Britain who are Tehran&apos;s main &quot;enemies&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="243" END="255">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091206.0310-E1-M310">
+          <extent>
+              <charseq START="269" END="271">who</charseq>
+          </extent>
+          <head>
+              <charseq START="269" END="271">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="72" END="73">US</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="243" END="255">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E2-M2">
+          <extent>
+              <charseq START="76" END="82">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="76" END="82">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E2-M309">
+          <extent>
+              <charseq START="261" END="267">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="261" END="267">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Britain">
+              <charseq START="76" END="82">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="261" END="267">Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E3-M3">
+          <extent>
+              <charseq START="105" END="108">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="105" END="108">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E3-M313">
+          <extent>
+              <charseq START="323" END="326">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="323" END="326">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091206.0310-E3-M315">
+          <extent>
+              <charseq START="334" END="336">its</charseq>
+          </extent>
+          <head>
+              <charseq START="334" END="336">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E3-M504">
+          <extent>
+              <charseq START="650" END="653">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="650" END="653">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E3-M521">
+          <extent>
+              <charseq START="845" END="848">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="845" END="848">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091206.0310-E3-M523">
+          <extent>
+              <charseq START="855" END="857">its</charseq>
+          </extent>
+          <head>
+              <charseq START="855" END="857">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iran">
+              <charseq START="105" END="108">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="323" END="326">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="650" END="653">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="845" END="848">Iran</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E4-M102" ROLE="GPE">
+          <extent>
+              <charseq START="137" END="142">Tehran</charseq>
+          </extent>
+          <head>
+              <charseq START="137" END="142">Tehran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E4-M312" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="277" END="282">Tehran</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="282">Tehran</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tehran">
+              <charseq START="137" END="142">Tehran</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E5-M200">
+          <extent>
+              <charseq START="158" END="160">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="160">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="158" END="160">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091206.0310-E6-M311">
+          <extent>
+              <charseq START="277" END="299">Tehran&apos;s main &quot;enemies&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="292" END="298">enemies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091206.0310-E6-M405">
+          <extent>
+              <charseq START="431" END="437">enemies</charseq>
+          </extent>
+          <head>
+              <charseq START="431" END="437">enemies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091206.0310-E6-M406">
+          <extent>
+              <charseq START="443" END="453">the British</charseq>
+          </extent>
+          <head>
+              <charseq START="447" END="453">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091206.0310-E6-M410">
+          <extent>
+              <charseq START="477" END="480">them</charseq>
+          </extent>
+          <head>
+              <charseq START="477" END="480">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E7-M421">
+          <extent>
+              <charseq START="558" END="563">Shiite</charseq>
+          </extent>
+          <head>
+              <charseq START="558" END="563">Shiite</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Shiite">
+              <charseq START="558" END="563">Shiite</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091206.0310-E8-M400">
+          <extent>
+              <charseq START="390" END="398">Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="390" END="398">Americans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091206.0310-E8-M500">
+          <extent>
+              <charseq START="585" END="593">Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="593">Americans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091206.0310-E8-M506">
+          <extent>
+              <charseq START="682" END="685">they</charseq>
+          </extent>
+          <head>
+              <charseq START="682" END="685">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091206.0310-E8-M509">
+          <extent>
+              <charseq START="714" END="717">they</charseq>
+          </extent>
+          <head>
+              <charseq START="714" END="717">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091206.0310-E9-M415">
+          <extent>
+              <charseq START="523" END="572">people in a speech to
+mark a major Shiite ceremony</charseq>
+          </extent>
+          <head>
+              <charseq START="523" END="528">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E11-M502">
+          <extent>
+              <charseq START="596" END="603">Zionists</charseq>
+          </extent>
+          <head>
+              <charseq START="596" END="603">Zionists</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zionists">
+              <charseq START="596" END="603">Zionists</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091206.0310-E12" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091206.0310-E12-M508">
+          <extent>
+              <charseq START="703" END="705">God</charseq>
+          </extent>
+          <head>
+              <charseq START="703" END="705">God</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="God">
+              <charseq START="703" END="705">God</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20091206.0310-T0" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20091206.0310-T0-M1">
+            <extent>
+              <charseq START="152" END="155">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091206.0310-T1" VAL="2009-12-06">
+        <timex2_mention ID="AFP_ENG_20091206.0310-T1-M1">
+            <extent>
+              <charseq START="232" END="237">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091206.0310-T2" VAL="P30Y">
+        <timex2_mention ID="AFP_ENG_20091206.0310-T2-M1">
+            <extent>
+              <charseq START="659" END="675">the
+past 30 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091206.0310-T3" VAL="FUTURE_REF" ANCHOR_VAL="2009-12-06" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="AFP_ENG_20091206.0310-T3-M1">
+            <extent>
+              <charseq START="737" END="746">the
+future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+  </document>
+</source_file>

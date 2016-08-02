@@ -1,0 +1,1631 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100531.0337">
+  <document DOCID="AFP_ENG_20100531.0337">
+
+    <entity ID="AFP_ENG_20100531.0337-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="63">Greece</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">Greece</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E0-M101">
+          <extent>
+              <charseq START="116" END="122">athens,</charseq>
+          </extent>
+          <head>
+              <charseq START="116" END="121">athens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M300">
+          <extent>
+              <charseq START="166" END="171">Greece</charseq>
+          </extent>
+          <head>
+              <charseq START="166" END="171">Greece</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M404" ROLE="LOC">
+          <extent>
+              <charseq START="372" END="376">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="372" END="376">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M410" ROLE="LOC">
+          <extent>
+              <charseq START="424" END="429">Greece</charseq>
+          </extent>
+          <head>
+              <charseq START="424" END="429">Greece</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M513">
+          <extent>
+              <charseq START="532" END="536">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="536">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M522" ROLE="LOC">
+          <extent>
+              <charseq START="619" END="624">Athens</charseq>
+          </extent>
+          <head>
+              <charseq START="619" END="624">Athens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M605">
+          <extent>
+              <charseq START="674" END="679">Greece</charseq>
+          </extent>
+          <head>
+              <charseq START="674" END="679">Greece</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M700">
+          <extent>
+              <charseq START="810" END="815">Greece</charseq>
+          </extent>
+          <head>
+              <charseq START="810" END="815">Greece</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M901">
+          <extent>
+              <charseq START="1110" END="1115">Greece</charseq>
+          </extent>
+          <head>
+              <charseq START="1110" END="1115">Greece</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M1006" ROLE="GPE">
+          <extent>
+              <charseq START="1341" END="1345">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="1341" END="1345">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M1201" ROLE="GPE">
+          <extent>
+              <charseq START="1530" END="1534">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="1530" END="1534">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E0-M1206">
+          <extent>
+              <charseq START="1596" END="1598">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1596" END="1598">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M1305" ROLE="GPE">
+          <extent>
+              <charseq START="1734" END="1738">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="1734" END="1738">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M1316" ROLE="GPE">
+          <extent>
+              <charseq START="1833" END="1837">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="1833" END="1837">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M1607" ROLE="GPE">
+          <extent>
+              <charseq START="2083" END="2087">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="2083" END="2087">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E0-M1902" ROLE="GPE">
+          <extent>
+              <charseq START="2637" END="2641">Greek</charseq>
+          </extent>
+          <head>
+              <charseq START="2637" END="2641">Greek</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greece">
+              <charseq START="58" END="63">Greece</charseq>
+          </name>
+          <name NAME="Greece">
+              <charseq START="166" END="171">Greece</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="372" END="376">Greek</charseq>
+          </name>
+          <name NAME="Greece">
+              <charseq START="424" END="429">Greece</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="532" END="536">Greek</charseq>
+          </name>
+          <name NAME="Athens">
+              <charseq START="619" END="624">Athens</charseq>
+          </name>
+          <name NAME="Greece">
+              <charseq START="674" END="679">Greece</charseq>
+          </name>
+          <name NAME="Greece">
+              <charseq START="810" END="815">Greece</charseq>
+          </name>
+          <name NAME="Greece">
+              <charseq START="1110" END="1115">Greece</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="1341" END="1345">Greek</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="1530" END="1534">Greek</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="1734" END="1738">Greek</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="1833" END="1837">Greek</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="2083" END="2087">Greek</charseq>
+          </name>
+          <name NAME="Greek">
+              <charseq START="2637" END="2641">Greek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M4" ROLE="GPE">
+          <extent>
+              <charseq START="74" END="79">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="74" END="79">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M303">
+          <extent>
+              <charseq START="183" END="188">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="183" END="188">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M520" ROLE="GPE">
+          <extent>
+              <charseq START="597" END="603">Israeli</charseq>
+          </extent>
+          <head>
+              <charseq START="597" END="603">Israeli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M607">
+          <extent>
+              <charseq START="718" END="723">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="718" END="723">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M613" ROLE="GPE">
+          <extent>
+              <charseq START="775" END="781">Israeli</charseq>
+          </extent>
+          <head>
+              <charseq START="775" END="781">Israeli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M713" ROLE="GPE">
+          <extent>
+              <charseq START="945" END="951">Israeli</charseq>
+          </extent>
+          <head>
+              <charseq START="945" END="951">Israeli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M805" ROLE="GPE">
+          <extent>
+              <charseq START="1085" END="1091">Israeli</charseq>
+          </extent>
+          <head>
+              <charseq START="1085" END="1091">Israeli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M1011">
+          <extent>
+              <charseq START="1400" END="1405">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="1400" END="1405">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M1400">
+          <extent>
+              <charseq START="1873" END="1878">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="1873" END="1878">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M1614" ROLE="GPE">
+          <extent>
+              <charseq START="2191" END="2197">Israeli</charseq>
+          </extent>
+          <head>
+              <charseq START="2191" END="2197">Israeli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E1-M1906" ROLE="GPE">
+          <extent>
+              <charseq START="2714" END="2720">Israeli</charseq>
+          </extent>
+          <head>
+              <charseq START="2714" END="2720">Israeli</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Israel">
+              <charseq START="74" END="79">Israel</charseq>
+          </name>
+          <name NAME="Israel">
+              <charseq START="183" END="188">Israel</charseq>
+          </name>
+          <name NAME="Israeli">
+              <charseq START="597" END="603">Israeli</charseq>
+          </name>
+          <name NAME="Israel">
+              <charseq START="718" END="723">Israel</charseq>
+          </name>
+          <name NAME="Israeli">
+              <charseq START="775" END="781">Israeli</charseq>
+          </name>
+          <name NAME="Israeli">
+              <charseq START="945" END="951">Israeli</charseq>
+          </name>
+          <name NAME="Israeli">
+              <charseq START="1085" END="1091">Israeli</charseq>
+          </name>
+          <name NAME="Israel">
+              <charseq START="1400" END="1405">Israel</charseq>
+          </name>
+          <name NAME="Israel">
+              <charseq START="1873" END="1878">Israel</charseq>
+          </name>
+          <name NAME="Israeli">
+              <charseq START="2191" END="2197">Israeli</charseq>
+          </name>
+          <name NAME="Israeli">
+              <charseq START="2714" END="2720">Israeli</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E2-M200">
+          <extent>
+              <charseq START="138" END="140">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="138" END="140">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="138" END="140">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E3-M309">
+          <extent>
+              <charseq START="241" END="244">Gaza</charseq>
+          </extent>
+          <head>
+              <charseq START="241" END="244">Gaza</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E3-M1204" ROLE="GPE">
+          <extent>
+              <charseq START="1579" END="1582">Gaza</charseq>
+          </extent>
+          <head>
+              <charseq START="1579" END="1582">Gaza</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E3-M1612">
+          <extent>
+              <charseq START="2158" END="2161">Gaza</charseq>
+          </extent>
+          <head>
+              <charseq START="2158" END="2161">Gaza</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gaza">
+              <charseq START="241" END="244">Gaza</charseq>
+          </name>
+          <name NAME="Gaza">
+              <charseq START="1579" END="1582">Gaza</charseq>
+          </name>
+          <name NAME="Gaza">
+              <charseq START="2158" END="2161">Gaza</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E4" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E4-M305">
+          <extent>
+              <charseq START="215" END="294">an aid flotilla bound for Gaza
+Monday and withdrew from joint military exercises</charseq>
+          </extent>
+          <head>
+              <charseq START="222" END="229">flotilla</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E4-M402">
+          <extent>
+              <charseq START="346" END="365">the six-vessel fleet</charseq>
+          </extent>
+          <head>
+              <charseq START="361" END="365">fleet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E4-M706">
+          <extent>
+              <charseq START="865" END="887">the flotilla taking aid</charseq>
+          </extent>
+          <head>
+              <charseq START="869" END="876">flotilla</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E5" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E5-M400">
+          <extent>
+              <charseq START="324" END="365">At least two ships in the six-vessel fleet</charseq>
+          </extent>
+          <head>
+              <charseq START="337" END="341">ships</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E5-M408">
+          <extent>
+              <charseq START="409" END="412">them</charseq>
+          </extent>
+          <head>
+              <charseq START="409" END="412">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E6-M406">
+          <extent>
+              <charseq START="392" END="412">the
+activists on them</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="404">activists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E6-M1706">
+          <extent>
+              <charseq START="2313" END="2325">the activists</charseq>
+          </extent>
+          <head>
+              <charseq START="2317" END="2325">activists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E6-M1711">
+          <extent>
+              <charseq START="2376" END="2379">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2376" END="2379">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E7-M411">
+          <extent>
+              <charseq START="432" END="440">officials</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="440">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E8-M510">
+          <extent>
+              <charseq START="532" END="635">Greek
+deputy foreign minister Dimitris Droutsas who summoned the Israeli ambassador to
+Athens, Ali Yahya</charseq>
+          </extent>
+          <head>
+              <charseq START="562" END="578">Dimitris Droutsas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E8-M515">
+          <extent>
+              <charseq START="553" END="560">minister</charseq>
+          </extent>
+          <head>
+              <charseq START="553" END="560">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E8-M517">
+          <extent>
+              <charseq START="580" END="582">who</charseq>
+          </extent>
+          <head>
+              <charseq START="580" END="582">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dimitris Droutsas">
+              <charseq START="562" END="578">Dimitris Droutsas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E9-M523">
+          <extent>
+              <charseq START="627" END="635">Ali Yahya</charseq>
+          </extent>
+          <head>
+              <charseq START="627" END="635">Ali Yahya</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E9-M604">
+          <extent>
+              <charseq START="663" END="667">Yahya</charseq>
+          </extent>
+          <head>
+              <charseq START="663" END="667">Yahya</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ali Yahya">
+              <charseq START="627" END="635">Ali Yahya</charseq>
+          </name>
+          <name NAME="Yahya">
+              <charseq START="663" END="667">Yahya</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E10-M518">
+          <extent>
+              <charseq START="593" END="635">the Israeli ambassador to
+Athens, Ali Yahya</charseq>
+          </extent>
+          <head>
+              <charseq START="605" END="614">ambassador</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E10-M600">
+          <extent>
+              <charseq START="647" END="648">He</charseq>
+          </extent>
+          <head>
+              <charseq START="647" END="648">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E10-M602">
+          <extent>
+              <charseq START="655" END="656">he</charseq>
+          </extent>
+          <head>
+              <charseq START="655" END="656">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E12-M612">
+          <extent>
+              <charseq START="771" END="791">the Israeli air force</charseq>
+          </extent>
+          <head>
+              <charseq START="787" END="791">force</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E12-M1009">
+          <extent>
+              <charseq START="1371" END="1383">the air force</charseq>
+          </extent>
+          <head>
+              <charseq START="1379" END="1383">force</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E13" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E13-M709">
+          <extent>
+              <charseq START="892" END="922">the Hamas-controlled Gaza Strip</charseq>
+          </extent>
+          <head>
+              <charseq START="913" END="922">Gaza Strip</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gaza Strip">
+              <charseq START="913" END="922">Gaza Strip</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E14-M710">
+          <extent>
+              <charseq START="896" END="900">Hamas</charseq>
+          </extent>
+          <head>
+              <charseq START="896" END="900">Hamas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hamas">
+              <charseq START="896" END="900">Hamas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E15-M703">
+          <extent>
+              <charseq START="837" END="851">about 30 Greeks</charseq>
+          </extent>
+          <head>
+              <charseq START="846" END="851">Greeks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E15-M705">
+          <extent>
+              <charseq START="853" END="855">who</charseq>
+          </extent>
+          <head>
+              <charseq START="853" END="855">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E16-M712">
+          <extent>
+              <charseq START="945" END="962">Israeli commandoes</charseq>
+          </extent>
+          <head>
+              <charseq START="953" END="962">commandoes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E17-M714">
+          <extent>
+              <charseq START="965" END="984">the
+foreign ministry</charseq>
+          </extent>
+          <head>
+              <charseq START="977" END="984">ministry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E18-M800">
+          <extent>
+              <charseq START="1007" END="1018">19 activists</charseq>
+          </extent>
+          <head>
+              <charseq START="1010" END="1018">activists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E18-M906">
+          <extent>
+              <charseq START="1231" END="1234">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1231" END="1234">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E19-M801">
+          <extent>
+              <charseq START="1036" END="1049">some 36 others</charseq>
+          </extent>
+          <head>
+              <charseq START="1044" END="1049">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E20" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E20-M804">
+          <extent>
+              <charseq START="1085" END="1097">Israeli media</charseq>
+          </extent>
+          <head>
+              <charseq START="1093" END="1097">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E21-M1001">
+          <extent>
+              <charseq START="1300" END="1327">Minister Evangelos Venizelos</charseq>
+          </extent>
+          <head>
+              <charseq START="1309" END="1327">Evangelos Venizelos</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E21-M1002">
+          <extent>
+              <charseq START="1300" END="1307">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="1300" END="1307">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Evangelos Venizelos">
+              <charseq START="1309" END="1327">Evangelos Venizelos</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E22" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E22-M1016" ROLE="LOC">
+          <extent>
+              <charseq START="1448" END="1452">Crete</charseq>
+          </extent>
+          <head>
+              <charseq START="1448" END="1452">Crete</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Crete">
+              <charseq START="1448" END="1452">Crete</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E23-M1004">
+          <extent>
+              <charseq START="1337" END="1361">the Greek chiefs of staff</charseq>
+          </extent>
+          <head>
+              <charseq START="1347" END="1352">chiefs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E24-M1007">
+          <extent>
+              <charseq START="1357" END="1361">staff</charseq>
+          </extent>
+          <head>
+              <charseq START="1357" END="1361">staff</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E25" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E25-M1207">
+          <extent>
+              <charseq START="1607" END="1618">the Sfendoni</charseq>
+          </extent>
+          <head>
+              <charseq START="1611" END="1618">Sfendoni</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E25-M1202">
+          <extent>
+              <charseq START="1566" END="1573">The Boat</charseq>
+          </extent>
+          <head>
+              <charseq START="1570" END="1573">Boat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E25-M1304">
+          <extent>
+              <charseq START="1730" END="1752">the Greek boat Sfendoni</charseq>
+          </extent>
+          <head>
+              <charseq START="1745" END="1752">Sfendoni</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E25-M1306">
+          <extent>
+              <charseq START="1740" END="1743">boat</charseq>
+          </extent>
+          <head>
+              <charseq START="1740" END="1743">boat</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sfendoni">
+              <charseq START="1611" END="1618">Sfendoni</charseq>
+          </name>
+          <name NAME="Sfendoni">
+              <charseq START="1745" END="1752">Sfendoni</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E26" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E26-M1211">
+          <extent>
+              <charseq START="1643" END="1671">the Turkish ship Mavi Marmara</charseq>
+          </extent>
+          <head>
+              <charseq START="1660" END="1671">Mavi Marmara</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E26-M1213">
+          <extent>
+              <charseq START="1655" END="1658">ship</charseq>
+          </extent>
+          <head>
+              <charseq START="1655" END="1658">ship</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E26-M1308">
+          <extent>
+              <charseq START="1758" END="1786">the
+Turkish boat Mavi Marmara</charseq>
+          </extent>
+          <head>
+              <charseq START="1775" END="1786">Mavi Marmara</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E26-M1310">
+          <extent>
+              <charseq START="1770" END="1773">boat</charseq>
+          </extent>
+          <head>
+              <charseq START="1770" END="1773">boat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E26-M1805">
+          <extent>
+              <charseq START="2492" END="2507">the Mavi Marmara</charseq>
+          </extent>
+          <head>
+              <charseq START="2496" END="2507">Mavi Marmara</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mavi Marmara">
+              <charseq START="1660" END="1671">Mavi Marmara</charseq>
+          </name>
+          <name NAME="Mavi Marmara">
+              <charseq START="1775" END="1786">Mavi Marmara</charseq>
+          </name>
+          <name NAME="Mavi Marmara">
+              <charseq START="2496" END="2507">Mavi Marmara</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E27" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E27-M1212" ROLE="GPE">
+          <extent>
+              <charseq START="1647" END="1653">Turkish</charseq>
+          </extent>
+          <head>
+              <charseq START="1647" END="1653">Turkish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E27-M1309" ROLE="GPE">
+          <extent>
+              <charseq START="1762" END="1768">Turkish</charseq>
+          </extent>
+          <head>
+              <charseq START="1762" END="1768">Turkish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Turkish">
+              <charseq START="1647" END="1653">Turkish</charseq>
+          </name>
+          <name NAME="Turkish">
+              <charseq START="1762" END="1768">Turkish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E28-M1203">
+          <extent>
+              <charseq START="1579" END="1588">Gaza group</charseq>
+          </extent>
+          <head>
+              <charseq START="1584" END="1588">group</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E29" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E29-M1205">
+          <extent>
+              <charseq START="1596" END="1605">its vessel</charseq>
+          </extent>
+          <head>
+              <charseq START="1600" END="1605">vessel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E30" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E30-M1302">
+          <extent>
+              <charseq START="1714" END="1720">bullets</charseq>
+          </extent>
+          <head>
+              <charseq START="1714" END="1720">bullets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E31" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E31-M1313">
+          <extent>
+              <charseq START="1794" END="1804">helicopters</charseq>
+          </extent>
+          <head>
+              <charseq START="1794" END="1804">helicopters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E32" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E32-M1314">
+          <extent>
+              <charseq START="1810" END="1825">inflatable boats</charseq>
+          </extent>
+          <head>
+              <charseq START="1821" END="1825">boats</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E33" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E33-M1504">
+          <extent>
+              <charseq START="1941" END="1960">international waters</charseq>
+          </extent>
+          <head>
+              <charseq START="1955" END="1960">waters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E34" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E34-M1507">
+          <extent>
+              <charseq START="1991" END="1999">the coast</charseq>
+          </extent>
+          <head>
+              <charseq START="1995" END="1999">coast</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E35-M1600">
+          <extent>
+              <charseq START="2011" END="2023">Boat For Gaza</charseq>
+          </extent>
+          <head>
+              <charseq START="2011" END="2023">Boat For Gaza</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boat For Gaza">
+              <charseq START="2011" END="2023">Boat For Gaza</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E36-M1608">
+          <extent>
+              <charseq START="2097" END="2203">the Eleftheri Mesogeio, which had tried to keep going toward Gaza, but
+was also seized by the Israeli navy,</charseq>
+          </extent>
+          <head>
+              <charseq START="2101" END="2118">Eleftheri Mesogeio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E36-M1611">
+          <extent>
+              <charseq START="2121" END="2125">which</charseq>
+          </extent>
+          <head>
+              <charseq START="2121" END="2125">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E36-M1816">
+          <extent>
+              <charseq START="2604" END="2625">the
+Eleftheri Mesogeio</charseq>
+          </extent>
+          <head>
+              <charseq START="2608" END="2625">Eleftheri Mesogeio</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eleftheri Mesogeio">
+              <charseq START="2101" END="2118">Eleftheri Mesogeio</charseq>
+          </name>
+          <name NAME="Eleftheri Mesogeio">
+              <charseq START="2608" END="2625">Eleftheri Mesogeio</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E37-M1605">
+          <extent>
+              <charseq START="2062" END="2070">activists</charseq>
+          </extent>
+          <head>
+              <charseq START="2062" END="2070">activists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E38" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E38-M1606">
+          <extent>
+              <charseq START="2075" END="2094">another Greek
+vessel</charseq>
+          </extent>
+          <head>
+              <charseq START="2089" END="2094">vessel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E39" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E39-M1613">
+          <extent>
+              <charseq START="2187" END="2202">the Israeli navy</charseq>
+          </extent>
+          <head>
+              <charseq START="2199" END="2202">navy</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E40-M1708">
+          <extent>
+              <charseq START="2337" END="2349">Takis Politis</charseq>
+          </extent>
+          <head>
+              <charseq START="2337" END="2349">Takis Politis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E40-M1709">
+          <extent>
+              <charseq START="2352" END="2353">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2352" END="2353">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Takis Politis">
+              <charseq START="2337" END="2349">Takis Politis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E42-M1800">
+          <extent>
+              <charseq START="2454" END="2460">The NGO</charseq>
+          </extent>
+          <head>
+              <charseq START="2458" END="2460">NGO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NGO">
+              <charseq START="2458" END="2460">NGO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E43-M1810">
+          <extent>
+              <charseq START="2542" END="2549">Sfentoni</charseq>
+          </extent>
+          <head>
+              <charseq START="2542" END="2549">Sfentoni</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sfentoni">
+              <charseq START="2542" END="2549">Sfentoni</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E44" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100531.0337-E44-M1815" ROLE="GPE">
+          <extent>
+              <charseq START="2578" END="2584">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="2578" END="2584">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Swedish">
+              <charseq START="2578" END="2584">Swedish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E45-M1802">
+          <extent>
+              <charseq START="2473" END="2482">two Greeks</charseq>
+          </extent>
+          <head>
+              <charseq START="2477" END="2482">Greeks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100531.0337-E46-M1807">
+          <extent>
+              <charseq START="2513" END="2521">12 others</charseq>
+          </extent>
+          <head>
+              <charseq START="2516" END="2521">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E47-M1808">
+          <extent>
+              <charseq START="2528" END="2537">a
+Tunisian</charseq>
+          </extent>
+          <head>
+              <charseq START="2530" END="2537">Tunisian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E48-M1812">
+          <extent>
+              <charseq START="2558" END="2566">22 Greeks</charseq>
+          </extent>
+          <head>
+              <charseq START="2561" END="2566">Greeks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E49-M1814">
+          <extent>
+              <charseq START="2572" END="2594">eight Swedish nationals</charseq>
+          </extent>
+          <head>
+              <charseq START="2586" END="2594">nationals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100531.0337-E50" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100531.0337-E50-M1905">
+          <extent>
+              <charseq START="2710" END="2728">the
+Israeli embassy</charseq>
+          </extent>
+          <head>
+              <charseq START="2722" END="2728">embassy</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100531.0337-T0" VAL="2010-05-31">
+        <timex2_mention ID="AFP_ENG_20100531.0337-T0-M1">
+            <extent>
+              <charseq START="124" END="135">May 31, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100531.0337-T1" VAL="2010-05-31">
+        <timex2_mention ID="AFP_ENG_20100531.0337-T1-M1">
+            <extent>
+              <charseq START="246" END="251">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100531.0337-T2" VAL="2010-06-01">
+        <timex2_mention ID="AFP_ENG_20100531.0337-T2-M1">
+            <extent>
+              <charseq START="760" END="766">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100531.0337-T3" VAL="2010">
+        <timex2_mention ID="AFP_ENG_20100531.0337-T3-M1">
+            <extent>
+              <charseq START="1425" END="1428">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100531.0337-T4" VAL="2010-05-25">
+        <timex2_mention ID="AFP_ENG_20100531.0337-T4-M1">
+            <extent>
+              <charseq START="1454" END="1465">last Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100531.0337-T5" VAL="2010-06-03">
+        <timex2_mention ID="AFP_ENG_20100531.0337-T5-M1">
+            <extent>
+              <charseq START="1509" END="1516">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100531.0337-T6" VAL="2010-05-31">
+        <timex2_mention ID="AFP_ENG_20100531.0337-T6-M1">
+            <extent>
+              <charseq START="2695" END="2700">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100531.0337-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R0-M400">
+          <extent>
+              <charseq START="392" END="412">the
+activists on them</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E6-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="392" END="412">the
+activists on them</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E0-M410" ROLE="Arg-2">
+            <extent>
+              <charseq START="424" END="429">Greece</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R1-M500">
+          <extent>
+              <charseq START="553" END="560">minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E8-M515" ROLE="Arg-1">
+            <extent>
+              <charseq START="553" END="560">minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E0-M513" ROLE="Arg-2">
+            <extent>
+              <charseq START="532" END="536">Greek</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R2-M501">
+          <extent>
+              <charseq START="593" END="635">the Israeli ambassador to
+Athens, Ali Yahya</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E10-M518" ROLE="Arg-1">
+            <extent>
+              <charseq START="593" END="635">the Israeli ambassador to
+Athens, Ali Yahya</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E1-M520" ROLE="Arg-2">
+            <extent>
+              <charseq START="597" END="603">Israeli</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R3-M600">
+          <extent>
+              <charseq START="771" END="791">the Israeli air force</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E12-M612" ROLE="Arg-1">
+            <extent>
+              <charseq START="771" END="791">the Israeli air force</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E1-M613" ROLE="Arg-2">
+            <extent>
+              <charseq START="775" END="781">Israeli</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R4-M700">
+          <extent>
+              <charseq START="853" END="855">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E15-M705" ROLE="Arg-1">
+            <extent>
+              <charseq START="853" END="855">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E4-M706" ROLE="Arg-2">
+            <extent>
+              <charseq START="865" END="887">the flotilla taking aid</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R5-M701">
+          <extent>
+              <charseq START="945" END="962">Israeli commandoes</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E16-M712" ROLE="Arg-1">
+            <extent>
+              <charseq START="945" END="962">Israeli commandoes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E1-M713" ROLE="Arg-2">
+            <extent>
+              <charseq START="945" END="951">Israeli</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R6-M800">
+          <extent>
+              <charseq START="1085" END="1097">Israeli media</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E20-M804" ROLE="Arg-1">
+            <extent>
+              <charseq START="1085" END="1097">Israeli media</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E1-M805" ROLE="Arg-2">
+            <extent>
+              <charseq START="1085" END="1091">Israeli</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R7-M1000">
+          <extent>
+              <charseq START="1337" END="1361">the Greek chiefs of staff</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E23-M1004" ROLE="Arg-1">
+            <extent>
+              <charseq START="1337" END="1361">the Greek chiefs of staff</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E0-M1006" ROLE="Arg-2">
+            <extent>
+              <charseq START="1341" END="1345">Greek</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E3" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R8-M1200">
+          <extent>
+              <charseq START="1579" END="1588">Gaza group</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E28-M1203" ROLE="Arg-1">
+            <extent>
+              <charseq START="1579" END="1588">Gaza group</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E3-M1204" ROLE="Arg-2">
+            <extent>
+              <charseq START="1579" END="1582">Gaza</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E29" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R9-M1201">
+          <extent>
+              <charseq START="1596" END="1598">its</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E0-M1206" ROLE="Arg-1">
+            <extent>
+              <charseq START="1596" END="1598">its</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E29-M1205" ROLE="Arg-2">
+            <extent>
+              <charseq START="1596" END="1605">its vessel</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E26" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R10-M1202">
+          <extent>
+              <charseq START="1647" END="1653">Turkish</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E27-M1212" ROLE="Arg-1">
+            <extent>
+              <charseq START="1647" END="1653">Turkish</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E26-M1213" ROLE="Arg-2">
+            <extent>
+              <charseq START="1655" END="1658">ship</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="AFP_ENG_20100531.0337-R10-M1301">
+          <extent>
+              <charseq START="1762" END="1768">Turkish</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E27-M1309" ROLE="Arg-1">
+            <extent>
+              <charseq START="1762" END="1768">Turkish</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E26-M1310" ROLE="Arg-2">
+            <extent>
+              <charseq START="1770" END="1773">boat</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R11" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E25" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R11-M1300">
+          <extent>
+              <charseq START="1734" END="1738">Greek</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E0-M1305" ROLE="Arg-1">
+            <extent>
+              <charseq START="1734" END="1738">Greek</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E25-M1306" ROLE="Arg-2">
+            <extent>
+              <charseq START="1740" END="1743">boat</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E38" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R12-M1600">
+          <extent>
+              <charseq START="2083" END="2087">Greek</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E0-M1607" ROLE="Arg-1">
+            <extent>
+              <charseq START="2083" END="2087">Greek</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E38-M1606" ROLE="Arg-2">
+            <extent>
+              <charseq START="2075" END="2094">another Greek
+vessel</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R13" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R13-M1601">
+          <extent>
+              <charseq START="2187" END="2202">the Israeli navy</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E39-M1613" ROLE="Arg-1">
+            <extent>
+              <charseq START="2187" END="2202">the Israeli navy</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E1-M1614" ROLE="Arg-2">
+            <extent>
+              <charseq START="2191" END="2197">Israeli</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R14" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E26" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R14-M1800">
+          <extent>
+              <charseq START="2473" END="2482">two Greeks</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E45-M1802" ROLE="Arg-1">
+            <extent>
+              <charseq START="2473" END="2482">two Greeks</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E26-M1805" ROLE="Arg-2">
+            <extent>
+              <charseq START="2492" END="2507">the Mavi Marmara</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R15" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E48" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E36" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R15-M1801">
+          <extent>
+              <charseq START="2558" END="2566">22 Greeks</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E48-M1812" ROLE="Arg-1">
+            <extent>
+              <charseq START="2558" END="2566">22 Greeks</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E36-M1816" ROLE="Arg-2">
+            <extent>
+              <charseq START="2604" END="2625">the
+Eleftheri Mesogeio</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E44" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R16-M1802">
+          <extent>
+              <charseq START="2572" END="2594">eight Swedish nationals</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E49-M1814" ROLE="Arg-1">
+            <extent>
+              <charseq START="2572" END="2594">eight Swedish nationals</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E44-M1815" ROLE="Arg-2">
+            <extent>
+              <charseq START="2578" END="2584">Swedish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R17" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E36" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R17-M1803">
+          <extent>
+              <charseq START="2572" END="2594">eight Swedish nationals</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E49-M1814" ROLE="Arg-1">
+            <extent>
+              <charseq START="2572" END="2594">eight Swedish nationals</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E36-M1816" ROLE="Arg-2">
+            <extent>
+              <charseq START="2604" END="2625">the
+Eleftheri Mesogeio</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100531.0337-R18" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100531.0337-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100531.0337-E50" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100531.0337-R18-M1900">
+          <extent>
+              <charseq START="2714" END="2720">Israeli</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E1-M1906" ROLE="Arg-1">
+            <extent>
+              <charseq START="2714" END="2720">Israeli</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100531.0337-E50-M1905" ROLE="Arg-2">
+            <extent>
+              <charseq START="2710" END="2728">the
+Israeli embassy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

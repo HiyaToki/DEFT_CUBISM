@@ -1,0 +1,1614 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20090815.0005">
+  <document DOCID="NYT_ENG_20090815.0005">
+
+    <entity ID="NYT_ENG_20090815.0005-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E0-M100" ROLE="LOC">
+          <extent>
+              <charseq START="137" END="144">NEW YORK</charseq>
+          </extent>
+          <head>
+              <charseq START="137" END="144">NEW YORK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E0-M403" ROLE="GPE">
+          <extent>
+              <charseq START="397" END="404">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="397" END="404">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E0-M615" ROLE="GPE">
+          <extent>
+              <charseq START="843" END="850">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="843" END="850">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NEW YORK">
+              <charseq START="137" END="144">NEW YORK</charseq>
+          </name>
+          <name NAME="New York">
+              <charseq START="397" END="404">New York</charseq>
+          </name>
+          <name NAME="New York">
+              <charseq START="843" END="850">New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E1-M200">
+          <extent>
+              <charseq START="172" END="178">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="172" END="178">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E1-M201">
+          <extent>
+              <charseq START="210" END="235">this online
+social network</charseq>
+          </extent>
+          <head>
+              <charseq START="229" END="235">network</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E1-M506">
+          <extent>
+              <charseq START="489" END="495">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="489" END="495">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E1-M3805">
+          <extent>
+              <charseq START="4621" END="4627">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="4621" END="4627">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E1-M3801">
+          <extent>
+              <charseq START="4566" END="4568">its</charseq>
+          </extent>
+          <head>
+              <charseq START="4566" END="4568">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E1-M4408">
+          <extent>
+              <charseq START="5512" END="5518">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="5512" END="5518">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Twitter">
+              <charseq START="172" END="178">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="489" END="495">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="4621" END="4627">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="5512" END="5518">Twitter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E2" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E2-M207">
+          <extent>
+              <charseq START="291" END="304">the arts world</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="304">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E3" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E3-M302">
+          <extent>
+              <charseq START="329" END="344">an audition room</charseq>
+          </extent>
+          <head>
+              <charseq START="341" END="344">room</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E3-M3101">
+          <extent>
+              <charseq START="3800" END="3815">an audition room</charseq>
+          </extent>
+          <head>
+              <charseq START="3812" END="3815">room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M402">
+          <extent>
+              <charseq START="389" END="411">several New York actors</charseq>
+          </extent>
+          <head>
+              <charseq START="406" END="411">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M700">
+          <extent>
+              <charseq START="979" END="992">actors by name</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="984">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M1101">
+          <extent>
+              <charseq START="1524" END="1529">actors</charseq>
+          </extent>
+          <head>
+              <charseq START="1524" END="1529">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M1507">
+          <extent>
+              <charseq START="1914" END="1919">actors</charseq>
+          </extent>
+          <head>
+              <charseq START="1914" END="1919">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M2204">
+          <extent>
+              <charseq START="2584" END="2589">actors</charseq>
+          </extent>
+          <head>
+              <charseq START="2584" END="2589">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M2403">
+          <extent>
+              <charseq START="2861" END="2936">the actors and to the other people who are working on the
+particular project</charseq>
+          </extent>
+          <head>
+              <charseq START="2865" END="2870">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E4-M2407">
+          <extent>
+              <charseq START="2896" END="2898">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2896" END="2898">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M2900">
+          <extent>
+              <charseq START="3613" END="3618">Actors</charseq>
+          </extent>
+          <head>
+              <charseq START="3613" END="3618">Actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E4-M3000">
+          <extent>
+              <charseq START="3691" END="3694">They</charseq>
+          </extent>
+          <head>
+              <charseq START="3691" END="3694">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M3608">
+          <extent>
+              <charseq START="4359" END="4381">the actors auditioning&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="4363" END="4368">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M3614">
+          <extent>
+              <charseq START="4413" END="4422">the actors</charseq>
+          </extent>
+          <head>
+              <charseq START="4417" END="4422">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E4-M3615">
+          <extent>
+              <charseq START="4425" END="4427">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4425" END="4427">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E4-M3621">
+          <extent>
+              <charseq START="4467" END="4470">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4467" END="4470">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M3818">
+          <extent>
+              <charseq START="4800" END="4859">actors who are
+seeking employment in this competitive market</charseq>
+          </extent>
+          <head>
+              <charseq START="4800" END="4805">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E4-M3820">
+          <extent>
+              <charseq START="4807" END="4809">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4807" END="4809">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E4-M4019">
+          <extent>
+              <charseq START="5135" END="5207">actors who attended the earlier Wednesday audition to attend this
+session</charseq>
+          </extent>
+          <head>
+              <charseq START="5135" END="5140">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E4-M4021">
+          <extent>
+              <charseq START="5142" END="5144">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5142" END="5144">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E5-M404">
+          <extent>
+              <charseq START="417" END="434">a
+casting director</charseq>
+          </extent>
+          <head>
+              <charseq START="427" END="434">director</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M508">
+          <extent>
+              <charseq START="505" END="519">Daryl Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="505" END="519">Daryl Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M514">
+          <extent>
+              <charseq START="556" END="570">Daryl Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="556" END="570">Daryl Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E6-M509">
+          <extent>
+              <charseq START="522" END="673">a casting director whose
+company, Daryl Eisenberg Casting, has handled shows including the
+musical &quot;Altar Boyz&quot; and the television series &quot;Gossip Girl.&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="539">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E6-M511">
+          <extent>
+              <charseq START="541" END="545">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="541" END="545">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M601">
+          <extent>
+              <charseq START="704" END="712">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="704" END="712">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M703">
+          <extent>
+              <charseq START="995" END="1003">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="995" END="1003">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M804">
+          <extent>
+              <charseq START="1259" END="1267">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="1259" END="1267">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M1106">
+          <extent>
+              <charseq START="1568" END="1576">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="1568" END="1576">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M1705">
+          <extent>
+              <charseq START="2105" END="2113">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="2105" END="2113">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M1804">
+          <extent>
+              <charseq START="2269" END="2277">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="2269" END="2277">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M2208">
+          <extent>
+              <charseq START="2631" END="2639">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="2631" END="2639">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M2606">
+          <extent>
+              <charseq START="3101" END="3109">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="3101" END="3109">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M2808">
+          <extent>
+              <charseq START="3581" END="3589">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="3581" END="3589">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M3204">
+          <extent>
+              <charseq START="3958" END="3970">Ms. Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="3962" END="3970">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E6-M3205">
+          <extent>
+              <charseq START="3958" END="3960">Ms.</charseq>
+          </extent>
+          <head>
+              <charseq START="3958" END="3960">Ms.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M3400">
+          <extent>
+              <charseq START="4039" END="4047">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="4039" END="4047">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E6-M3408">
+          <extent>
+              <charseq START="4127" END="4129">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4127" END="4129">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M3500">
+          <extent>
+              <charseq START="4179" END="4187">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="4179" END="4187">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E6-M3501">
+          <extent>
+              <charseq START="4196" END="4198">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4196" END="4198">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E6-M4100">
+          <extent>
+              <charseq START="5210" END="5218">Eisenberg</charseq>
+          </extent>
+          <head>
+              <charseq START="5210" END="5218">Eisenberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E6-M4101">
+          <extent>
+              <charseq START="5221" END="5222">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5221" END="5222">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Daryl Eisenberg">
+              <charseq START="505" END="519">Daryl Eisenberg</charseq>
+          </name>
+          <name NAME="Daryl Eisenberg">
+              <charseq START="556" END="570">Daryl Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="704" END="712">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="995" END="1003">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="1259" END="1267">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="1568" END="1576">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="2105" END="2113">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="2269" END="2277">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="2631" END="2639">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="3101" END="3109">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="3581" END="3589">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="3962" END="3970">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="4039" END="4047">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="4179" END="4187">Eisenberg</charseq>
+          </name>
+          <name NAME="Eisenberg">
+              <charseq START="5210" END="5218">Eisenberg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E7-M522">
+          <extent>
+              <charseq START="661" END="671">Gossip Girl</charseq>
+          </extent>
+          <head>
+              <charseq START="668" END="671">Girl</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E8-M603">
+          <extent>
+              <charseq START="751" END="776">&quot;Gay Bride of Frankenstein</charseq>
+          </extent>
+          <head>
+              <charseq START="756" END="760">Bride</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M618">
+          <extent>
+              <charseq START="878" END="880">she</charseq>
+          </extent>
+          <head>
+              <charseq START="878" END="880">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M623">
+          <extent>
+              <charseq START="946" END="948">her</charseq>
+          </extent>
+          <head>
+              <charseq START="946" END="948">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M807">
+          <extent>
+              <charseq START="1319" END="1321">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1319" END="1321">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M1711">
+          <extent>
+              <charseq START="2178" END="2180">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2178" END="2180">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M1904">
+          <extent>
+              <charseq START="2376" END="2378">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2376" END="2378">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M2609">
+          <extent>
+              <charseq START="3168" END="3170">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3168" END="3170">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M2700">
+          <extent>
+              <charseq START="3313" END="3315">She</charseq>
+          </extent>
+          <head>
+              <charseq START="3313" END="3315">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M2702">
+          <extent>
+              <charseq START="3328" END="3330">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3328" END="3330">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M3600">
+          <extent>
+              <charseq START="4279" END="4281">She</charseq>
+          </extent>
+          <head>
+              <charseq START="4279" END="4281">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M3610">
+          <extent>
+              <charseq START="4387" END="4389">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4387" END="4389">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M3700">
+          <extent>
+              <charseq START="4483" END="4485">She</charseq>
+          </extent>
+          <head>
+              <charseq START="4483" END="4485">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E8-M4006">
+          <extent>
+              <charseq START="4998" END="5023">&quot;Gay
+Bride of Frankenstein</charseq>
+          </extent>
+          <head>
+              <charseq START="5003" END="5007">Bride</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M4200">
+          <extent>
+              <charseq START="5263" END="5265">She</charseq>
+          </extent>
+          <head>
+              <charseq START="5263" END="5265">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M4208">
+          <extent>
+              <charseq START="5333" END="5335">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5333" END="5335">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M4210">
+          <extent>
+              <charseq START="5342" END="5344">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5342" END="5344">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M4213">
+          <extent>
+              <charseq START="5355" END="5357">her</charseq>
+          </extent>
+          <head>
+              <charseq START="5355" END="5357">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E8-M4304">
+          <extent>
+              <charseq START="5407" END="5409">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5407" END="5409">she</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E9-M605">
+          <extent>
+              <charseq START="752" END="754">Gay</charseq>
+          </extent>
+          <head>
+              <charseq START="752" END="754">Gay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E9-M4008">
+          <extent>
+              <charseq START="4999" END="5001">Gay</charseq>
+          </extent>
+          <head>
+              <charseq START="4999" END="5001">Gay</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E10-M620">
+          <extent>
+              <charseq START="906" END="948">the performers who were auditioning for
+her</charseq>
+          </extent>
+          <head>
+              <charseq START="910" END="919">performers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E10-M622">
+          <extent>
+              <charseq START="921" END="923">who</charseq>
+          </extent>
+          <head>
+              <charseq START="921" END="923">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E13-M806">
+          <extent>
+              <charseq START="1291" END="1315">more than
+1,800 followers</charseq>
+          </extent>
+          <head>
+              <charseq START="1307" END="1315">followers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E14-M811">
+          <extent>
+              <charseq START="1358" END="1378">any
+potential critics</charseq>
+          </extent>
+          <head>
+              <charseq START="1372" END="1378">critics</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E15-M1205">
+          <extent>
+              <charseq START="1678" END="1685">CapnHook</charseq>
+          </extent>
+          <head>
+              <charseq START="1678" END="1685">CapnHook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E15-M1210">
+          <extent>
+              <charseq START="1734" END="1736">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1734" END="1736">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E15-M1301">
+          <extent>
+              <charseq START="1788" END="1790">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1788" END="1790">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E15-M1503">
+          <extent>
+              <charseq START="1880" END="1882">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1880" END="1882">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CapnHook">
+              <charseq START="1678" END="1685">CapnHook</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E16-M1206">
+          <extent>
+              <charseq START="1696" END="1712">BroadwayWorld.com</charseq>
+          </extent>
+          <head>
+              <charseq START="1696" END="1712">BroadwayWorld.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E16-M1702">
+          <extent>
+              <charseq START="2046" END="2062">BroadwayWorld.com</charseq>
+          </extent>
+          <head>
+              <charseq START="2046" END="2062">BroadwayWorld.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E16-M1803">
+          <extent>
+              <charseq START="2237" END="2253">BroadwayWorld.com</charseq>
+          </extent>
+          <head>
+              <charseq START="2237" END="2253">BroadwayWorld.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E16-M2106">
+          <extent>
+              <charseq START="2478" END="2517">your head IN YOUR HEADSHOT is a BAD IDEA</charseq>
+          </extent>
+          <head>
+              <charseq START="2483" END="2486">head</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BroadwayWorld.com">
+              <charseq START="1696" END="1712">BroadwayWorld.com</charseq>
+          </name>
+          <name NAME="BroadwayWorld.com">
+              <charseq START="2046" END="2062">BroadwayWorld.com</charseq>
+          </name>
+          <name NAME="BroadwayWorld.com">
+              <charseq START="2237" END="2253">BroadwayWorld.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E17" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E17-M1613">
+          <extent>
+              <charseq START="2009" END="2025">the audition
+room</charseq>
+          </extent>
+          <head>
+              <charseq START="2022" END="2025">room</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E17-M3605">
+          <extent>
+              <charseq START="4331" END="4381">the
+audition room regarding the actors auditioning&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="4344" END="4347">room</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E17-M3708">
+          <extent>
+              <charseq START="4528" END="4544">the
+audition room</charseq>
+          </extent>
+          <head>
+              <charseq START="4541" END="4544">room</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E17-M3813">
+          <extent>
+              <charseq START="4755" END="4771">the audition room</charseq>
+          </extent>
+          <head>
+              <charseq START="4768" END="4771">room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E18-M1703">
+          <extent>
+              <charseq START="2081" END="2092">SporkGoddess</charseq>
+          </extent>
+          <head>
+              <charseq START="2081" END="2092">SporkGoddess</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SporkGoddess">
+              <charseq START="2081" END="2092">SporkGoddess</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E19-M2200">
+          <extent>
+              <charseq START="2530" END="2555">Actors&apos; Equity Association</charseq>
+          </extent>
+          <head>
+              <charseq START="2530" END="2555">Actors&apos; Equity Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E19-M2305">
+          <extent>
+              <charseq START="2708" END="2722">Actors&apos; Equity,</charseq>
+          </extent>
+          <head>
+              <charseq START="2708" END="2721">Actors&apos; Equity</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E19-M2706">
+          <extent>
+              <charseq START="3354" END="3367">Actors&apos; Equity</charseq>
+          </extent>
+          <head>
+              <charseq START="3354" END="3367">Actors&apos; Equity</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E19-M3304">
+          <extent>
+              <charseq START="3992" END="4005">Actors&apos; Equity</charseq>
+          </extent>
+          <head>
+              <charseq START="3992" END="4005">Actors&apos; Equity</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E19-M3403">
+          <extent>
+              <charseq START="4079" END="4092">Actors&apos; Equity</charseq>
+          </extent>
+          <head>
+              <charseq START="4079" END="4092">Actors&apos; Equity</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E19-M3802">
+          <extent>
+              <charseq START="4576" END="4589">Actors&apos; Equity</charseq>
+          </extent>
+          <head>
+              <charseq START="4576" END="4589">Actors&apos; Equity</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E19-M3803">
+          <extent>
+              <charseq START="4596" END="4597">it</charseq>
+          </extent>
+          <head>
+              <charseq START="4596" END="4597">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E19-M4404">
+          <extent>
+              <charseq START="5450" END="5463">Actors&apos; Equity</charseq>
+          </extent>
+          <head>
+              <charseq START="5450" END="5463">Actors&apos; Equity</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Actors&apos; Equity Association">
+              <charseq START="2530" END="2555">Actors&apos; Equity Association</charseq>
+          </name>
+          <name NAME="Actors&apos; Equity">
+              <charseq START="2708" END="2721">Actors&apos; Equity</charseq>
+          </name>
+          <name NAME="Actors&apos; Equity">
+              <charseq START="3354" END="3367">Actors&apos; Equity</charseq>
+          </name>
+          <name NAME="Actors&apos; Equity">
+              <charseq START="3992" END="4005">Actors&apos; Equity</charseq>
+          </name>
+          <name NAME="Actors&apos; Equity">
+              <charseq START="4079" END="4092">Actors&apos; Equity</charseq>
+          </name>
+          <name NAME="Actors&apos; Equity">
+              <charseq START="4576" END="4589">Actors&apos; Equity</charseq>
+          </name>
+          <name NAME="Actors&apos; Equity">
+              <charseq START="5450" END="5463">Actors&apos; Equity</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E20" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E20-M2201">
+          <extent>
+              <charseq START="2558" END="2609">the union that represents actors and
+stage managers,</charseq>
+          </extent>
+          <head>
+              <charseq START="2562" END="2566">union</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E20-M3410">
+          <extent>
+              <charseq START="4135" END="4176">the organization each released a
+statement</charseq>
+          </extent>
+          <head>
+              <charseq START="4139" END="4150">organization</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E21-M2205">
+          <extent>
+              <charseq START="2595" END="2608">stage managers</charseq>
+          </extent>
+          <head>
+              <charseq START="2601" END="2608">managers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E22-M2302">
+          <extent>
+              <charseq START="2677" END="2687">Maria Somma</charseq>
+          </extent>
+          <head>
+              <charseq START="2677" END="2687">Maria Somma</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E22-M2303">
+          <extent>
+              <charseq START="2690" END="2722">a spokeswoman for Actors&apos; Equity,</charseq>
+          </extent>
+          <head>
+              <charseq START="2692" END="2702">spokeswoman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E22-M2311">
+          <extent>
+              <charseq START="2757" END="2802">an actor to get from seeing the
+casting notice</charseq>
+          </extent>
+          <head>
+              <charseq START="2760" END="2764">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maria Somma">
+              <charseq START="2677" END="2687">Maria Somma</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E23-M2405">
+          <extent>
+              <charseq START="2879" END="2936">the other people who are working on the
+particular project</charseq>
+          </extent>
+          <head>
+              <charseq START="2889" END="2894">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E24-M2607">
+          <extent>
+              <charseq START="3133" END="3142">those hurt</charseq>
+          </extent>
+          <head>
+              <charseq START="3133" END="3137">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E25-M2712">
+          <extent>
+              <charseq START="3422" END="3434">this industry</charseq>
+          </extent>
+          <head>
+              <charseq START="3427" END="3434">industry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E26-M2802">
+          <extent>
+              <charseq START="3510" END="3524">Gary Zuckerbrod</charseq>
+          </extent>
+          <head>
+              <charseq START="3510" END="3524">Gary Zuckerbrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E26-M2803">
+          <extent>
+              <charseq START="3527" END="3573">the president of the Casting
+Society of America</charseq>
+          </extent>
+          <head>
+              <charseq START="3531" END="3539">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E26-M2901">
+          <extent>
+              <charseq START="3621" END="3622">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3621" END="3622">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E26-M3008">
+          <extent>
+              <charseq START="3769" END="3770">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3769" END="3770">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E26-M3200">
+          <extent>
+              <charseq START="3889" END="3898">Zuckerbrod</charseq>
+          </extent>
+          <head>
+              <charseq START="3889" END="3898">Zuckerbrod</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E26-M3306">
+          <extent>
+              <charseq START="4021" END="4022">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4021" END="4022">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gary Zuckerbrod">
+              <charseq START="3510" END="3524">Gary Zuckerbrod</charseq>
+          </name>
+          <name NAME="Zuckerbrod">
+              <charseq START="3889" END="3898">Zuckerbrod</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E27" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E27-M2805">
+          <extent>
+              <charseq START="3544" END="3573">the Casting
+Society of America</charseq>
+          </extent>
+          <head>
+              <charseq START="3548" END="3573">Casting
+Society of America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Casting
+Society of America">
+              <charseq START="3548" END="3573">Casting
+Society of America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E28-M3401">
+          <extent>
+              <charseq START="4058" END="4092">representatives from Actors&apos; Equity</charseq>
+          </extent>
+          <head>
+              <charseq START="4058" END="4072">representatives</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E29-M3808">
+          <extent>
+              <charseq START="4664" END="4672">producers</charseq>
+          </extent>
+          <head>
+              <charseq START="4664" END="4672">producers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E30-M3809">
+          <extent>
+              <charseq START="4683" END="4707">a
+wide potential audience</charseq>
+          </extent>
+          <head>
+              <charseq START="4700" END="4707">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E31-M4001">
+          <extent>
+              <charseq START="4944" END="4955">Billy Butler</charseq>
+          </extent>
+          <head>
+              <charseq START="4944" END="4955">Billy Butler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E31-M4002">
+          <extent>
+              <charseq START="4958" END="4969">the producer</charseq>
+          </extent>
+          <head>
+              <charseq START="4962" END="4969">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E31-M4004">
+          <extent>
+              <charseq START="4972" END="4979">composer</charseq>
+          </extent>
+          <head>
+              <charseq START="4972" END="4979">composer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E31-M4005">
+          <extent>
+              <charseq START="4985" END="4993">co-writer</charseq>
+          </extent>
+          <head>
+              <charseq START="4985" END="4993">co-writer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E31-M4011">
+          <extent>
+              <charseq START="5053" END="5054">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5053" END="5054">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E31-M4203">
+          <extent>
+              <charseq START="5287" END="5292">Butler</charseq>
+          </extent>
+          <head>
+              <charseq START="5287" END="5292">Butler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E31-M4401">
+          <extent>
+              <charseq START="5430" END="5435">Butler</charseq>
+          </extent>
+          <head>
+              <charseq START="5430" END="5435">Butler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E31-M4402">
+          <extent>
+              <charseq START="5438" END="5463">a member of Actors&apos; Equity</charseq>
+          </extent>
+          <head>
+              <charseq START="5440" END="5445">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E31-M4506">
+          <extent>
+              <charseq START="5661" END="5662">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5661" END="5662">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E31-M4801">
+          <extent>
+              <charseq START="5879" END="5880">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5879" END="5880">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090815.0005-E31-M4903">
+          <extent>
+              <charseq START="5972" END="5977">Butler</charseq>
+          </extent>
+          <head>
+              <charseq START="5972" END="5977">Butler</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Billy Butler">
+              <charseq START="4944" END="4955">Billy Butler</charseq>
+          </name>
+          <name NAME="Butler">
+              <charseq START="5287" END="5292">Butler</charseq>
+          </name>
+          <name NAME="Butler">
+              <charseq START="5430" END="5435">Butler</charseq>
+          </name>
+          <name NAME="Butler">
+              <charseq START="5972" END="5977">Butler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E32-M4407">
+          <extent>
+              <charseq START="5491" END="5505">social networks</charseq>
+          </extent>
+          <head>
+              <charseq START="5498" END="5505">networks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E33-M4409">
+          <extent>
+              <charseq START="5531" END="5535">users</charseq>
+          </extent>
+          <head>
+              <charseq START="5531" END="5535">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E33-M4412">
+          <extent>
+              <charseq START="5593" END="5596">them</charseq>
+          </extent>
+          <head>
+              <charseq START="5593" END="5596">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E34" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090815.0005-E34-M4604">
+          <extent>
+              <charseq START="5699" END="5718">nobody expected this</charseq>
+          </extent>
+          <head>
+              <charseq START="5699" END="5704">nobody</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090815.0005-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090815.0005-E35-M4712">
+          <extent>
+              <charseq START="5830" END="5833">cast</charseq>
+          </extent>
+          <head>
+              <charseq START="5830" END="5833">cast</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T0" VAL="2009-08-12">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T0-M1">
+            <extent>
+              <charseq START="472" END="480">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T1" VAL="2009-08-12">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T1-M1">
+            <extent>
+              <charseq START="687" END="695">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T2" VAL="2009-09" MOD="END">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T2-M1">
+            <extent>
+              <charseq START="813" END="826">late September</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T3" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-15" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T3-M1">
+            <extent>
+              <charseq START="1283" END="1285">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T4" VAL="PTXH">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T4-M1">
+            <extent>
+              <charseq START="1517" END="1521">hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090815.0005-V5" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20090815.0005-V5-M1">
+            <extent>
+              <charseq START="1696" END="1712">BroadwayWorld.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20090815.0005-V6" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20090815.0005-V6-M1">
+            <extent>
+              <charseq START="2046" END="2062">BroadwayWorld.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T7" VAL="2009-08-13">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T7-M1">
+            <extent>
+              <charseq START="2228" END="2235">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090815.0005-V8" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20090815.0005-V8-M1">
+            <extent>
+              <charseq START="2237" END="2253">BroadwayWorld.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T9" VAL="2009-07-22">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T9-M1">
+            <extent>
+              <charseq START="2367" END="2373">July 22</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T10" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-15" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T10-M1">
+            <extent>
+              <charseq START="2404" END="2412">right
+now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T11" VAL="2009-08-14TMO">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T11-M1">
+            <extent>
+              <charseq START="3086" END="3099">Friday morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T12" VAL="FUTURE_REF" ANCHOR_VAL="2009-08-15" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T12-M1">
+            <extent>
+              <charseq START="3291" END="3300">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T13" VAL="2009-08-14">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T13-M1">
+            <extent>
+              <charseq START="3372" END="3377">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T14" VAL="2009-08-14TAF">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T14-M1">
+            <extent>
+              <charseq START="4097" END="4112">Friday
+afternoon</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T15" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-15" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T15-M1">
+            <extent>
+              <charseq START="4922" END="4924">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T16" VAL="2009-08-10">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T16-M1">
+            <extent>
+              <charseq START="5111" END="5116">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T17" VAL="2009-08-12">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T17-M1">
+            <extent>
+              <charseq START="5159" END="5175">earlier Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090815.0005-T18" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-15" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090815.0005-T18-M1">
+            <extent>
+              <charseq START="5244" END="5250">present</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20090815.0005-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090815.0005-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090815.0005-E0" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090815.0005-R0-M400">
+          <extent>
+              <charseq START="389" END="411">several New York actors</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E4-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="389" END="411">several New York actors</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E0-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="397" END="404">New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090815.0005-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090815.0005-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090815.0005-E19" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090815.0005-R1-M2300">
+          <extent>
+              <charseq START="2690" END="2722">a spokeswoman for Actors&apos; Equity,</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E22-M2303" ROLE="Arg-1">
+            <extent>
+              <charseq START="2690" END="2722">a spokeswoman for Actors&apos; Equity,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E19-M2305" ROLE="Arg-2">
+            <extent>
+              <charseq START="2708" END="2722">Actors&apos; Equity,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090815.0005-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090815.0005-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090815.0005-E27" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090815.0005-R2-M2800">
+          <extent>
+              <charseq START="3527" END="3573">the president of the Casting
+Society of America</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E26-M2803" ROLE="Arg-1">
+            <extent>
+              <charseq START="3527" END="3573">the president of the Casting
+Society of America</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E27-M2805" ROLE="Arg-2">
+            <extent>
+              <charseq START="3544" END="3573">the Casting
+Society of America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090815.0005-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090815.0005-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090815.0005-E19" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090815.0005-R3-M3400">
+          <extent>
+              <charseq START="4058" END="4092">representatives from Actors&apos; Equity</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E28-M3401" ROLE="Arg-1">
+            <extent>
+              <charseq START="4058" END="4092">representatives from Actors&apos; Equity</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E19-M3403" ROLE="Arg-2">
+            <extent>
+              <charseq START="4079" END="4092">Actors&apos; Equity</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090815.0005-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090815.0005-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090815.0005-E17" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090815.0005-R4-M3700">
+          <extent>
+              <charseq START="4483" END="4485">She</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E8-M3700" ROLE="Arg-1">
+            <extent>
+              <charseq START="4483" END="4485">She</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E17-M3708" ROLE="Arg-2">
+            <extent>
+              <charseq START="4528" END="4544">the
+audition room</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090815.0005-R6" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090815.0005-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090815.0005-E19" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090815.0005-R6-M4400">
+          <extent>
+              <charseq START="5438" END="5463">a member of Actors&apos; Equity</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E31-M4402" ROLE="Arg-1">
+            <extent>
+              <charseq START="5438" END="5463">a member of Actors&apos; Equity</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090815.0005-E19-M4404" ROLE="Arg-2">
+            <extent>
+              <charseq START="5450" END="5463">Actors&apos; Equity</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

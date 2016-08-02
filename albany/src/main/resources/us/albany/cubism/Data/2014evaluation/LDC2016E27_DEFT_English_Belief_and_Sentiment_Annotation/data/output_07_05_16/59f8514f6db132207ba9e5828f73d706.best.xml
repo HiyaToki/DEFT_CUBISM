@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="59f8514f6db132207ba9e5828f73d706.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-1397" length="10" offset="1135">
+        <text>a "friend"</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-585" length="9" offset="996">Ed Selley</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-609" length="11" offset="4658">
+        <text>Brown's son</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-897" length="12" offset="4563">The Guardian</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-645" length="6" offset="5223">
+        <text>Fraser</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-897" length="12" offset="4563">The Guardian</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1017" length="7" offset="5251">
+        <text>The Sun</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-897" length="12" offset="4563">The Guardian</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1538" length="3" offset="5562">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-885" length="1" offset="5545">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1616" length="67" offset="5712">
+        <text>the most despicable female this country has seen since Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-831" length="8" offset="4491">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1616" length="67" offset="5712">
+        <text>the most despicable female this country has seen since Myra Hindley</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-825" length="8" offset="5874">24fanboy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-855" length="4" offset="6075">
+        <text>mate</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-807" length="7" offset="5803">dazza74</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-855" length="4" offset="6075">
+        <text>mate</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-813" length="7" offset="6184">dazza74</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

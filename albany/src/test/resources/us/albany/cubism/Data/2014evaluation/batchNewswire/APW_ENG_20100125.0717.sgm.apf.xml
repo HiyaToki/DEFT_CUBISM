@@ -1,0 +1,526 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100125.0717">
+  <document DOCID="APW_ENG_20100125.0717">
+
+    <entity ID="APW_ENG_20100125.0717-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="61">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="61">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E0-M102">
+          <extent>
+              <charseq START="135" END="138">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="135" END="138">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E0-M203" ROLE="GPE">
+          <extent>
+              <charseq START="204" END="210">Iranian</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="210">Iranian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E0-M208">
+          <extent>
+              <charseq START="261" END="264">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="261" END="264">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E0-M211" ROLE="GPE">
+          <extent>
+              <charseq START="293" END="306">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="297" END="306">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E0-M407" ROLE="ORG">
+          <extent>
+              <charseq START="613" END="652">Ahmadinejad&apos;s government as illegitimate</charseq>
+          </extent>
+          <head>
+              <charseq START="627" END="636">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iran">
+              <charseq START="58" END="61">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="135" END="138">Iran</charseq>
+          </name>
+          <name NAME="Iranian">
+              <charseq START="204" END="210">Iranian</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="261" END="264">Iran</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100125.0717-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E1-M3">
+          <extent>
+              <charseq START="92" END="102">Ahmadinejad</charseq>
+          </extent>
+          <head>
+              <charseq START="92" END="102">Ahmadinejad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E1-M0">
+          <extent>
+              <charseq START="58" END="79">Iran opposition leader</charseq>
+          </extent>
+          <head>
+              <charseq START="74" END="79">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E1-M307">
+          <extent>
+              <charseq START="456" END="518">President Mahmoud Ahmadinejad despite the fraud in the election</charseq>
+          </extent>
+          <head>
+              <charseq START="466" END="484">Mahmoud Ahmadinejad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E1-M309">
+          <extent>
+              <charseq START="456" END="464">President</charseq>
+          </extent>
+          <head>
+              <charseq START="456" END="464">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E1-M409">
+          <extent>
+              <charseq START="613" END="623">Ahmadinejad</charseq>
+          </extent>
+          <head>
+              <charseq START="613" END="623">Ahmadinejad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100125.0717-E1-M405">
+          <extent>
+              <charseq START="578" END="580">his</charseq>
+          </extent>
+          <head>
+              <charseq START="578" END="580">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E1-M602">
+          <extent>
+              <charseq START="795" END="805">Ahmadinejad</charseq>
+          </extent>
+          <head>
+              <charseq START="795" END="805">Ahmadinejad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E1-M603">
+          <extent>
+              <charseq START="811" END="820">president,</charseq>
+          </extent>
+          <head>
+              <charseq START="811" END="819">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100125.0717-E1-M600">
+          <extent>
+              <charseq START="762" END="763">He</charseq>
+          </extent>
+          <head>
+              <charseq START="762" END="763">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ahmadinejad">
+              <charseq START="92" END="102">Ahmadinejad</charseq>
+          </name>
+          <name NAME="Mahmoud Ahmadinejad">
+              <charseq START="466" END="484">Mahmoud Ahmadinejad</charseq>
+          </name>
+          <name NAME="Ahmadinejad">
+              <charseq START="613" END="623">Ahmadinejad</charseq>
+          </name>
+          <name NAME="Ahmadinejad">
+              <charseq START="795" END="805">Ahmadinejad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100125.0717-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E2-M2">
+          <extent>
+              <charseq START="63" END="72">opposition</charseq>
+          </extent>
+          <head>
+              <charseq START="63" END="72">opposition</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E2-M204">
+          <extent>
+              <charseq START="212" END="221">opposition</charseq>
+          </extent>
+          <head>
+              <charseq START="212" END="221">opposition</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E2-M700">
+          <extent>
+              <charseq START="879" END="892">The opposition</charseq>
+          </extent>
+          <head>
+              <charseq START="883" END="892">opposition</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100125.0717-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E3-M101">
+          <extent>
+              <charseq START="127" END="132">TEHRAN</charseq>
+          </extent>
+          <head>
+              <charseq START="127" END="132">TEHRAN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TEHRAN">
+              <charseq START="127" END="132">TEHRAN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100125.0717-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E4-M200">
+          <extent>
+              <charseq START="187" END="228">The son of a top Iranian opposition leader</charseq>
+          </extent>
+          <head>
+              <charseq START="191" END="193">son</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E4-M202">
+          <extent>
+              <charseq START="198" END="228">a top Iranian opposition leader</charseq>
+          </extent>
+          <head>
+              <charseq START="223" END="228">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100125.0717-E4-M206">
+          <extent>
+              <charseq START="235" END="237">his</charseq>
+          </extent>
+          <head>
+              <charseq START="235" END="237">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100125.0717-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E5-M205">
+          <extent>
+              <charseq START="235" END="244">his father</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="244">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E5-M207">
+          <extent>
+              <charseq START="261" END="276">Iran&apos;s president</charseq>
+          </extent>
+          <head>
+              <charseq START="268" END="276">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E5-M209">
+          <extent>
+              <charseq START="281" END="306">the head of the government</charseq>
+          </extent>
+          <head>
+              <charseq START="285" END="288">head</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100125.0717-E5-M213">
+          <extent>
+              <charseq START="338" END="340">his</charseq>
+          </extent>
+          <head>
+              <charseq START="338" END="340">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E5-M305">
+          <extent>
+              <charseq START="430" END="439">his father</charseq>
+          </extent>
+          <head>
+              <charseq START="434" END="439">father</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100125.0717-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E6-M300">
+          <extent>
+              <charseq START="384" END="411">Mahdi Karroubi&apos;s son Hossein</charseq>
+          </extent>
+          <head>
+              <charseq START="405" END="411">Hossein</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E6-M302">
+          <extent>
+              <charseq START="401" END="403">son</charseq>
+          </extent>
+          <head>
+              <charseq START="401" END="403">son</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100125.0717-E6-M306">
+          <extent>
+              <charseq START="430" END="432">his</charseq>
+          </extent>
+          <head>
+              <charseq START="430" END="432">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hossein">
+              <charseq START="405" END="411">Hossein</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100125.0717-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E7-M301">
+          <extent>
+              <charseq START="384" END="397">Mahdi Karroubi</charseq>
+          </extent>
+          <head>
+              <charseq START="384" END="397">Mahdi Karroubi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100125.0717-E7-M401">
+          <extent>
+              <charseq START="530" END="537">Karroubi</charseq>
+          </extent>
+          <head>
+              <charseq START="530" END="537">Karroubi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mahdi Karroubi">
+              <charseq START="384" END="397">Mahdi Karroubi</charseq>
+          </name>
+          <name NAME="Karroubi">
+              <charseq START="530" END="537">Karroubi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100125.0717-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E8-M504">
+          <extent>
+              <charseq START="715" END="725">the clerics</charseq>
+          </extent>
+          <head>
+              <charseq START="719" END="725">clerics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100125.0717-E8-M701">
+          <extent>
+              <charseq START="899" END="920">at least 80 protesters</charseq>
+          </extent>
+          <head>
+              <charseq START="911" END="920">protesters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100125.0717-T0" VAL="2010-01-25-01">
+        <timex2_mention ID="APW_ENG_20100125.0717-T0-M1">
+            <extent>
+              <charseq START="140" END="149">2010-01-25</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100125.0717-T1" VAL="PRESENT_REF" ANCHOR_VAL="2010-01-25" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="APW_ENG_20100125.0717-T1-M1">
+            <extent>
+              <charseq START="246" END="248">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100125.0717-T2" VAL="2009-06">
+        <timex2_mention ID="APW_ENG_20100125.0717-T2-M1">
+            <extent>
+              <charseq START="342" END="345">June</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100125.0717-T3" VAL="2010-01-25">
+        <timex2_mention ID="APW_ENG_20100125.0717-T3-M1">
+            <extent>
+              <charseq START="418" END="423">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100125.0717-T4" VAL="PRESENT_REF" ANCHOR_VAL="2010-01-25" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="APW_ENG_20100125.0717-T4-M1">
+            <extent>
+              <charseq START="441" END="443">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100125.0717-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100125.0717-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100125.0717-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100125.0717-R0-M0">
+          <extent>
+              <charseq START="58" END="79">Iran opposition leader</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E1-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="58" END="79">Iran opposition leader</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E0-M1" ROLE="Arg-2">
+            <extent>
+              <charseq START="58" END="61">Iran</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="APW_ENG_20100125.0717-R0-M400">
+          <extent>
+              <charseq START="613" END="623">Ahmadinejad</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E1-M409" ROLE="Arg-1">
+            <extent>
+              <charseq START="613" END="623">Ahmadinejad</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E0-M407" ROLE="Arg-2">
+            <extent>
+              <charseq START="613" END="652">Ahmadinejad&apos;s government as illegitimate</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100125.0717-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100125.0717-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100125.0717-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100125.0717-R1-M1">
+          <extent>
+              <charseq START="63" END="72">opposition</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E2-M2" ROLE="Arg-1">
+            <extent>
+              <charseq START="63" END="72">opposition</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E0-M1" ROLE="Arg-2">
+            <extent>
+              <charseq START="58" END="61">Iran</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100125.0717-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100125.0717-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100125.0717-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100125.0717-R2-M201">
+          <extent>
+              <charseq START="198" END="228">a top Iranian opposition leader</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E4-M202" ROLE="Arg-1">
+            <extent>
+              <charseq START="198" END="228">a top Iranian opposition leader</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E0-M203" ROLE="Arg-2">
+            <extent>
+              <charseq START="204" END="210">Iranian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100125.0717-R3" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100125.0717-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100125.0717-E5" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100125.0717-R3-M202">
+          <extent>
+              <charseq START="235" END="237">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E4-M206" ROLE="Arg-1">
+            <extent>
+              <charseq START="235" END="237">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E5-M205" ROLE="Arg-2">
+            <extent>
+              <charseq START="235" END="244">his father</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100125.0717-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100125.0717-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100125.0717-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100125.0717-R4-M203">
+          <extent>
+              <charseq START="261" END="276">Iran&apos;s president</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E5-M207" ROLE="Arg-1">
+            <extent>
+              <charseq START="261" END="276">Iran&apos;s president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E0-M208" ROLE="Arg-2">
+            <extent>
+              <charseq START="261" END="264">Iran</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100125.0717-R5" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100125.0717-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100125.0717-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100125.0717-R5-M300">
+          <extent>
+              <charseq START="384" END="397">Mahdi Karroubi</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E7-M301" ROLE="Arg-1">
+            <extent>
+              <charseq START="384" END="397">Mahdi Karroubi</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100125.0717-E6-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="401" END="403">son</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

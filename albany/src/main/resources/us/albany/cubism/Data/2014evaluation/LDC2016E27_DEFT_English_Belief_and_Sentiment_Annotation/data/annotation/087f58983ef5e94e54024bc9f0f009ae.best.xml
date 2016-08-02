@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-56acedd90000000000000009">
+  
+  <sentiment_annotations><entities>
+      <entity ere_id="m-213" length="4" offset="595">
+        <text>liar</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-147" length="10" offset="90">Pale Rider</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-219" length="4" offset="179">
+        <text>liar</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-153" length="10" offset="159">Pale Rider</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-435" length="2" offset="4986">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-609" length="8" offset="2092">Oldstyle</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-531" length="73" offset="986">
+        <text>hate-mongering thugs who harassed and bullied precinct workers and voters</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-147" length="10" offset="90">Pale Rider</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1810" length="20" offset="2196">
+        <text>those other palookas</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-573" length="7" offset="2163">MarcATL</source>
+        </sentiment>
+      </entity>
+    </entities></sentiment_annotations>
+</committed_belief_doc>

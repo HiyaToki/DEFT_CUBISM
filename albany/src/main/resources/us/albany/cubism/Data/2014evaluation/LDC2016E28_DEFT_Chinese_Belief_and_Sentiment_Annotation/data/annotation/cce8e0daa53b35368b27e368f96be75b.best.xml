@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56a003a20000000000000005">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-234">
+        <trigger offset="570" length="1">的</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-244">
+        <trigger offset="573" length="2">人员</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-254">
+        <trigger offset="629" length="2">元首</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-264">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-274">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-567">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-577">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-292">
+        <trigger offset="575" length="3">被绑架</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-114" offset="568" length="7">
+            <text>海外的中方人员</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-222" offset="568" length="2">
+            <text>海外</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-313">
+        <trigger offset="579" length="3">被杀害</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-114" offset="568" length="7">
+            <text>海外的中方人员</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-222" offset="568" length="2">
+            <text>海外</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-334">
+        <trigger offset="593" length="1">占</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="f-591" offset="583" length="4">
+            <text>中方财产</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-156" offset="583" length="2">
+            <text>中方</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-397">
+        <trigger offset="588" length="2">掠夺</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-156" offset="583" length="2">
+            <text>中方</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-598" offset="583" length="4">
+            <text>中方财产</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-102" offset="464" length="3">宁乡弟</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-504">
+        <trigger offset="427" length="2">同意</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="170" length="5">xxo14</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-60" offset="424" length="1">
+            <text>我</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-66" offset="170" length="5">xxo14</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-529" offset="187" length="10">
+            <text>2012-02-29</text>
+            <beliefs>
+              <belief type="rob" polarity="pos" sarcasm="no">
+                <source ere_id="m-66" offset="170" length="5">xxo14</source>
+              </belief>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-90" offset="284" length="4">给我冲啊</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-534">
+        <trigger offset="438" length="1">说</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-66" offset="170" length="5">xxo14</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-162" offset="432" length="2">
+            <text>美国</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-66" offset="170" length="5">xxo14</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities/>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

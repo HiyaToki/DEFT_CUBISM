@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20090809.0083">
+  <document DOCID="APW_ENG_20090809.0083">
+
+    <entity ID="APW_ENG_20090809.0083-E0" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E0-M0">
+          <extent>
+              <charseq START="58" END="60">ABC</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="60">ABC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E0-M200">
+          <extent>
+              <charseq START="199" END="201">ABC</charseq>
+          </extent>
+          <head>
+              <charseq START="199" END="201">ABC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E0-M301">
+          <extent>
+              <charseq START="313" END="315">ABC</charseq>
+          </extent>
+          <head>
+              <charseq START="313" END="315">ABC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E0-M408">
+          <extent>
+              <charseq START="598" END="600">ABC</charseq>
+          </extent>
+          <head>
+              <charseq START="598" END="600">ABC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090809.0083-E0-M409">
+          <extent>
+              <charseq START="603" END="633">home of &quot;Dancing with the Stars</charseq>
+          </extent>
+          <head>
+              <charseq START="603" END="606">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ABC">
+              <charseq START="58" END="60">ABC</charseq>
+          </name>
+          <name NAME="ABC">
+              <charseq START="199" END="201">ABC</charseq>
+          </name>
+          <name NAME="ABC">
+              <charseq START="313" END="315">ABC</charseq>
+          </name>
+          <name NAME="ABC">
+              <charseq START="598" END="600">ABC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E1-M1">
+          <extent>
+              <charseq START="68" END="78">Paula Abdul</charseq>
+          </extent>
+          <head>
+              <charseq START="68" END="78">Paula Abdul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E1-M205">
+          <extent>
+              <charseq START="250" END="300">Paula Abdul, who said she&apos;s quitting &quot;American Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="250" END="260">Paula Abdul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E1-M208">
+          <extent>
+              <charseq START="272" END="274">she</charseq>
+          </extent>
+          <head>
+              <charseq START="272" END="274">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E1-M315">
+          <extent>
+              <charseq START="507" END="541">Abdul, whom he called an old friend</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="511">Abdul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E1-M309">
+          <extent>
+              <charseq START="435" END="437">she</charseq>
+          </extent>
+          <head>
+              <charseq START="435" END="437">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E1-M317">
+          <extent>
+              <charseq START="514" END="517">whom</charseq>
+          </extent>
+          <head>
+              <charseq START="514" END="517">whom</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E1-M401">
+          <extent>
+              <charseq START="568" END="572">Abdul</charseq>
+          </extent>
+          <head>
+              <charseq START="568" END="572">Abdul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E1-M405">
+          <extent>
+              <charseq START="591" END="593">her</charseq>
+          </extent>
+          <head>
+              <charseq START="591" END="593">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E1-M500">
+          <extent>
+              <charseq START="646" END="650">Abdul</charseq>
+          </extent>
+          <head>
+              <charseq START="646" END="650">Abdul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E1-M504">
+          <extent>
+              <charseq START="675" END="677">she</charseq>
+          </extent>
+          <head>
+              <charseq START="675" END="677">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E1-M600">
+          <extent>
+              <charseq START="781" END="783">She</charseq>
+          </extent>
+          <head>
+              <charseq START="781" END="783">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E1-M602">
+          <extent>
+              <charseq START="790" END="792">she</charseq>
+          </extent>
+          <head>
+              <charseq START="790" END="792">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paula Abdul">
+              <charseq START="68" END="78">Paula Abdul</charseq>
+          </name>
+          <name NAME="Paula Abdul">
+              <charseq START="250" END="260">Paula Abdul</charseq>
+          </name>
+          <name NAME="Abdul">
+              <charseq START="507" END="511">Abdul</charseq>
+          </name>
+          <name NAME="Abdul">
+              <charseq START="568" END="572">Abdul</charseq>
+          </name>
+          <name NAME="Abdul">
+              <charseq START="646" END="650">Abdul</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090809.0083-E2-M3">
+          <extent>
+              <charseq START="97" END="108">post- &apos; Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="105" END="108">Idol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090809.0083-E2-M210">
+          <extent>
+              <charseq START="288" END="300">American Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="297" END="300">Idol</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E3-M101">
+          <extent>
+              <charseq START="135" END="142">PASADENA</charseq>
+          </extent>
+          <head>
+              <charseq START="135" END="142">PASADENA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PASADENA">
+              <charseq START="135" END="142">PASADENA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E4-M102">
+          <extent>
+              <charseq START="145" END="150">Calif.</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="150">Calif.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Calif.">
+              <charseq START="145" END="150">Calif.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E5-M211" ROLE="GPE">
+          <extent>
+              <charseq START="288" END="295">American</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="295">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="288" END="295">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E6-M203">
+          <extent>
+              <charseq START="228" END="300">those seeking to hire Paula Abdul, who said she&apos;s quitting &quot;American Idol</charseq>
+          </extent>
+          <head>
+              <charseq START="228" END="232">those</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E6-M207">
+          <extent>
+              <charseq START="263" END="265">who</charseq>
+          </extent>
+          <head>
+              <charseq START="263" END="265">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E7-M300">
+          <extent>
+              <charseq START="313" END="351">ABC programming chief Stephen McPherson</charseq>
+          </extent>
+          <head>
+              <charseq START="335" END="351">Stephen McPherson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E7-M307">
+          <extent>
+              <charseq START="410" END="411">he</charseq>
+          </extent>
+          <head>
+              <charseq START="410" END="411">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E7-M313">
+          <extent>
+              <charseq START="492" END="493">he</charseq>
+          </extent>
+          <head>
+              <charseq START="492" END="493">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E7-M318">
+          <extent>
+              <charseq START="519" END="520">he</charseq>
+          </extent>
+          <head>
+              <charseq START="519" END="520">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E7-M400">
+          <extent>
+              <charseq START="553" END="561">McPherson</charseq>
+          </extent>
+          <head>
+              <charseq START="553" END="561">McPherson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20090809.0083-E7-M402">
+          <extent>
+              <charseq START="574" END="575">he</charseq>
+          </extent>
+          <head>
+              <charseq START="574" END="575">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stephen McPherson">
+              <charseq START="335" END="351">Stephen McPherson</charseq>
+          </name>
+          <name NAME="McPherson">
+              <charseq START="553" END="561">McPherson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E8-M304">
+          <extent>
+              <charseq START="358" END="391">the Television Critics Association</charseq>
+          </extent>
+          <head>
+              <charseq START="362" END="391">Television Critics Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Television Critics Association">
+              <charseq START="362" END="391">Television Critics Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E9-M312">
+          <extent>
+              <charseq START="472" END="474">Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="472" END="474">Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E9-M512">
+          <extent>
+              <charseq START="751" END="753">Fox</charseq>
+          </extent>
+          <head>
+              <charseq START="751" END="753">Fox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fox">
+              <charseq START="472" END="474">Fox</charseq>
+          </name>
+          <name NAME="Fox">
+              <charseq START="751" END="753">Fox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090809.0083-E10-M320">
+          <extent>
+              <charseq START="529" END="541">an old friend</charseq>
+          </extent>
+          <head>
+              <charseq START="536" END="541">friend</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090809.0083-E11-M412">
+          <extent>
+              <charseq START="625" END="633">the Stars</charseq>
+          </extent>
+          <head>
+              <charseq START="629" END="633">Stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stars">
+              <charseq START="629" END="633">Stars</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090809.0083-E12-M506">
+          <extent>
+              <charseq START="694" END="708">an &quot;Idol&quot; judge</charseq>
+          </extent>
+          <head>
+              <charseq START="704" END="708">judge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20090809.0083-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090809.0083-E13-M513">
+          <extent>
+              <charseq START="759" END="778">the show&apos;s producers</charseq>
+          </extent>
+          <head>
+              <charseq START="770" END="778">producers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20090809.0083-T0" VAL="2009-08-09-08">
+        <timex2_mention ID="APW_ENG_20090809.0083-T0-M1">
+            <extent>
+              <charseq START="152" END="161">2009-08-09</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20090809.0083-T1" VAL="2009-08-08">
+        <timex2_mention ID="APW_ENG_20090809.0083-T1-M1">
+            <extent>
+              <charseq START="396" END="403">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20090809.0083-T2" VAL="2009-08-04">
+        <timex2_mention ID="APW_ENG_20090809.0083-T2-M1">
+            <extent>
+              <charseq START="662" END="673">last Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20090809.0083-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20090809.0083-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20090809.0083-E5" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20090809.0083-R0-M200">
+          <extent>
+              <charseq START="288" END="300">American Idol</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20090809.0083-E2-M210" ROLE="Arg-1">
+            <extent>
+              <charseq START="288" END="300">American Idol</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20090809.0083-E5-M211" ROLE="Arg-2">
+            <extent>
+              <charseq START="288" END="295">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100113.0181">
+  <document DOCID="XIN_ENG_20100113.0181">
+
+    <entity ID="XIN_ENG_20100113.0181-E0" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E0-M0">
+          <extent>
+              <charseq START="58" END="60">OAS</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="60">OAS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E0-M300">
+          <extent>
+              <charseq START="191" END="231">The Organization of American States (OAS)</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="225">Organization of American States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E0-M303">
+          <extent>
+              <charseq START="228" END="230">OAS</charseq>
+          </extent>
+          <head>
+              <charseq START="228" END="230">OAS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100113.0181-E0-M306">
+          <extent>
+              <charseq START="240" END="242">its</charseq>
+          </extent>
+          <head>
+              <charseq START="240" END="242">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100113.0181-E0-M312">
+          <extent>
+              <charseq START="362" END="363">it</charseq>
+          </extent>
+          <head>
+              <charseq START="362" END="363">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E0-M424">
+          <extent>
+              <charseq START="637" END="639">OAS</charseq>
+          </extent>
+          <head>
+              <charseq START="637" END="639">OAS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E0-M500">
+          <extent>
+              <charseq START="720" END="726">The OAS</charseq>
+          </extent>
+          <head>
+              <charseq START="724" END="726">OAS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E0-M600">
+          <extent>
+              <charseq START="845" END="851">The OAS</charseq>
+          </extent>
+          <head>
+              <charseq START="849" END="851">OAS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E0-M603">
+          <extent>
+              <charseq START="856" END="895">the world&apos;s oldest regional organization</charseq>
+          </extent>
+          <head>
+              <charseq START="884" END="895">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="OAS">
+              <charseq START="58" END="60">OAS</charseq>
+          </name>
+          <name NAME="Organization of American States">
+              <charseq START="195" END="225">Organization of American States</charseq>
+          </name>
+          <name NAME="OAS">
+              <charseq START="228" END="230">OAS</charseq>
+          </name>
+          <name NAME="OAS">
+              <charseq START="637" END="639">OAS</charseq>
+          </name>
+          <name NAME="OAS">
+              <charseq START="724" END="726">OAS</charseq>
+          </name>
+          <name NAME="OAS">
+              <charseq START="849" END="851">OAS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E1-M7">
+          <extent>
+              <charseq START="110" END="114">Haiti</charseq>
+          </extent>
+          <head>
+              <charseq START="110" END="114">Haiti</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E1-M307">
+          <extent>
+              <charseq START="262" END="266">Haiti</charseq>
+          </extent>
+          <head>
+              <charseq START="262" END="266">Haiti</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E1-M311" ROLE="LOC">
+          <extent>
+              <charseq START="343" END="353">the
+country</charseq>
+          </extent>
+          <head>
+              <charseq START="347" END="353">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E1-M416" ROLE="GPE">
+          <extent>
+              <charseq START="547" END="551">Haiti</charseq>
+          </extent>
+          <head>
+              <charseq START="547" END="551">Haiti</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E1-M707">
+          <extent>
+              <charseq START="1013" END="1017">Haiti</charseq>
+          </extent>
+          <head>
+              <charseq START="1013" END="1017">Haiti</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Haiti">
+              <charseq START="110" END="114">Haiti</charseq>
+          </name>
+          <name NAME="Haiti">
+              <charseq START="262" END="266">Haiti</charseq>
+          </name>
+          <name NAME="Haiti">
+              <charseq START="547" END="551">Haiti</charseq>
+          </name>
+          <name NAME="Haiti">
+              <charseq START="1013" END="1017">Haiti</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E2-M1">
+          <extent>
+              <charseq START="68" END="89">member states to offer</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="80">states</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E3-M3">
+          <extent>
+              <charseq START="68" END="73">member</charseq>
+          </extent>
+          <head>
+              <charseq START="68" END="73">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E3-M704">
+          <extent>
+              <charseq START="972" END="977">member</charseq>
+          </extent>
+          <head>
+              <charseq START="972" END="977">member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E4-M101" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="139" END="148">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="139" END="148">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E4-M606">
+          <extent>
+              <charseq START="914" END="930">Washington., D.C.</charseq>
+          </extent>
+          <head>
+              <charseq START="914" END="924">Washington.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Washington.">
+              <charseq START="914" END="924">Washington.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E5-M200">
+          <extent>
+              <charseq START="160" END="165">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="160" END="165">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="160" END="165">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E6-M309" ROLE="GPE">
+          <extent>
+              <charseq START="288" END="295">American</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="295">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E6-M609" ROLE="LOC">
+          <extent>
+              <charseq START="933" END="949">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="937" END="949">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E6-M705" ROLE="GPE">
+          <extent>
+              <charseq START="989" END="1000">the
+Americas</charseq>
+          </extent>
+          <head>
+              <charseq START="993" END="1000">Americas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="288" END="295">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="937" END="949">United States</charseq>
+          </name>
+          <name NAME="Americas">
+              <charseq START="993" END="1000">Americas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E7-M308">
+          <extent>
+              <charseq START="280" END="305">all the American countries</charseq>
+          </extent>
+          <head>
+              <charseq START="297" END="305">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E8-M423">
+          <extent>
+              <charseq START="637" END="677">OAS Secretary General
+Jose Miguel Insulza</charseq>
+          </extent>
+          <head>
+              <charseq START="659" END="677">Jose Miguel Insulza</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E8-M426">
+          <extent>
+              <charseq START="651" END="657">General</charseq>
+          </extent>
+          <head>
+              <charseq START="651" END="657">General</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E8-M507">
+          <extent>
+              <charseq START="827" END="833">Insulza</charseq>
+          </extent>
+          <head>
+              <charseq START="827" END="833">Insulza</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jose Miguel Insulza">
+              <charseq START="659" END="677">Jose Miguel Insulza</charseq>
+          </name>
+          <name NAME="Insulza">
+              <charseq START="827" END="833">Insulza</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E9-M404">
+          <extent>
+              <charseq START="450" END="455">people</charseq>
+          </extent>
+          <head>
+              <charseq START="450" END="455">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E9-M414">
+          <extent>
+              <charseq START="533" END="551">the people of Haiti</charseq>
+          </extent>
+          <head>
+              <charseq START="537" END="542">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E9-M504">
+          <extent>
+              <charseq START="776" END="818">the victims of this
+catastrophic phenomenon</charseq>
+          </extent>
+          <head>
+              <charseq START="780" END="786">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E10-M406">
+          <extent>
+              <charseq START="458" END="516">governments and leaders across the hemisphere,
+as neighbors</charseq>
+          </extent>
+          <head>
+              <charseq START="458" END="468">governments</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E10-M408" ROLE="LOC">
+          <extent>
+              <charseq START="458" END="468">governments</charseq>
+          </extent>
+          <head>
+              <charseq START="458" END="468">governments</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E11-M409">
+          <extent>
+              <charseq START="474" END="480">leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="474" END="480">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E12" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E12-M410">
+          <extent>
+              <charseq START="489" END="502">the hemisphere</charseq>
+          </extent>
+          <head>
+              <charseq START="493" END="502">hemisphere</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E13-M411">
+          <extent>
+              <charseq START="508" END="516">neighbors</charseq>
+          </extent>
+          <head>
+              <charseq START="508" END="516">neighbors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E14-M412">
+          <extent>
+              <charseq START="522" END="551">friends of the people of Haiti</charseq>
+          </extent>
+          <head>
+              <charseq START="522" END="528">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E16" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100113.0181-E16-M608" ROLE="LOC">
+          <extent>
+              <charseq START="927" END="930">D.C.</charseq>
+          </extent>
+          <head>
+              <charseq START="927" END="930">D.C.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="D.C.">
+              <charseq START="927" END="930">D.C.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E17" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E17-M604">
+          <extent>
+              <charseq START="856" END="864">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="860" END="864">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100113.0181-E18" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100113.0181-E18-M702">
+          <extent>
+              <charseq START="969" END="1017">35 member states of the
+Americas, including Haiti</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="984">states</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100113.0181-T0" VAL="2010-01-13">
+        <timex2_mention ID="XIN_ENG_20100113.0181-T0-M1">
+            <extent>
+              <charseq START="151" END="157">Jan. 13</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100113.0181-T1" VAL="2010-01-12">
+        <timex2_mention ID="XIN_ENG_20100113.0181-T1-M1">
+            <extent>
+              <charseq START="406" END="412">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100113.0181-T2" VAL="2010-01-12">
+        <timex2_mention ID="XIN_ENG_20100113.0181-T2-M1">
+            <extent>
+              <charseq START="702" END="708">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100113.0181-T3" VAL="PRESENT_REF" ANCHOR_VAL="2010-01-13" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20100113.0181-T3-M1">
+            <extent>
+              <charseq START="955" END="963">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100113.0181-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100113.0181-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100113.0181-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100113.0181-R0-M300">
+          <extent>
+              <charseq START="280" END="305">all the American countries</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E7-M308" ROLE="Arg-1">
+            <extent>
+              <charseq START="280" END="305">all the American countries</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E6-M309" ROLE="Arg-2">
+            <extent>
+              <charseq START="288" END="295">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100113.0181-R1" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100113.0181-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100113.0181-E9" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100113.0181-R1-M400">
+          <extent>
+              <charseq START="522" END="551">friends of the people of Haiti</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E14-M412" ROLE="Arg-1">
+            <extent>
+              <charseq START="522" END="551">friends of the people of Haiti</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E9-M414" ROLE="Arg-2">
+            <extent>
+              <charseq START="533" END="551">the people of Haiti</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100113.0181-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100113.0181-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100113.0181-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100113.0181-R2-M401">
+          <extent>
+              <charseq START="533" END="551">the people of Haiti</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E9-M414" ROLE="Arg-1">
+            <extent>
+              <charseq START="533" END="551">the people of Haiti</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E1-M416" ROLE="Arg-2">
+            <extent>
+              <charseq START="547" END="551">Haiti</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100113.0181-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100113.0181-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100113.0181-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100113.0181-R3-M402">
+          <extent>
+              <charseq START="651" END="657">General</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E8-M426" ROLE="Arg-1">
+            <extent>
+              <charseq START="651" END="657">General</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E0-M424" ROLE="Arg-2">
+            <extent>
+              <charseq START="637" END="639">OAS</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100113.0181-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100113.0181-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100113.0181-E16" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100113.0181-R4-M600">
+          <extent>
+              <charseq START="914" END="930">Washington., D.C.</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E4-M606" ROLE="Arg-1">
+            <extent>
+              <charseq START="914" END="930">Washington., D.C.</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E16-M608" ROLE="Arg-2">
+            <extent>
+              <charseq START="927" END="930">D.C.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100113.0181-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100113.0181-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100113.0181-E18" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100113.0181-R5-M700">
+          <extent>
+              <charseq START="1013" END="1017">Haiti</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E1-M707" ROLE="Arg-1">
+            <extent>
+              <charseq START="1013" END="1017">Haiti</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100113.0181-E18-M702" ROLE="Arg-2">
+            <extent>
+              <charseq START="969" END="1017">35 member states of the
+Americas, including Haiti</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

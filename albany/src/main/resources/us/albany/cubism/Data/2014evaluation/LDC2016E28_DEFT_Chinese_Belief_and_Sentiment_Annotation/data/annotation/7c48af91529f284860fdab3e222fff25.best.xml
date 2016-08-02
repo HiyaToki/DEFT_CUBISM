@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56a003a40000000000000007">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-309">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-219" offset="14" length="7">□ M ツ H</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-319">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-219" offset="14" length="7">□ M ツ H</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-452">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-141" offset="754" length="6">→噯の詠℃逺</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-519">
+        <trigger offset="409" length="1">入</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-111" offset="308" length="4">树舞灵枫</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-331">
+        <trigger offset="187" length="1">打</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-219" offset="14" length="7">□ M ツ H</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-285" offset="175" length="5">
+            <text>小水清沟村</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-219" offset="14" length="7">□ M ツ H</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-443" offset="188" length="1">
+            <text>人</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-219" offset="14" length="7">□ M ツ H</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-352">
+        <trigger offset="191" length="2">放火</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-219" offset="14" length="7">□ M ツ H</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-285" offset="175" length="5">
+            <text>小水清沟村</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-219" offset="14" length="7">□ M ツ H</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-468">
+        <trigger offset="404" length="1">说</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-111" offset="308" length="4">树舞灵枫</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-111" offset="308" length="4">
+            <text>树舞灵枫</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-111" offset="308" length="4">树舞灵枫</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-493" offset="324" length="10">
+            <text>2012-01-15</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-111" offset="308" length="4">树舞灵枫</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-550">
+        <trigger offset="458" length="1">说</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-111" offset="308" length="4">树舞灵枫</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-111" offset="308" length="4">
+            <text>树舞灵枫</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-111" offset="308" length="4">树舞灵枫</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-575" offset="324" length="10">
+            <text>2012-01-15</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-111" offset="308" length="4">树舞灵枫</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-578">
+        <trigger offset="997" length="1">说</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-93" offset="940" length="5">cfsww</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-93" offset="940" length="5">
+            <text>cfsww</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-93" offset="940" length="5">cfsww</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-603" offset="957" length="10">
+            <text>2012-01-17</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-93" offset="940" length="5">cfsww</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-703">
+        <trigger offset="909" length="2">收入</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-87" offset="844" length="5">cfsww</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-391" offset="896" length="1">
+            <text>官</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-87" offset="844" length="5">cfsww</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-135" offset="644" length="1">
+        <text>他</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-201" offset="590" length="10">1487177390</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-225" offset="1309" length="1">
+        <text>他</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-177" offset="1247" length="3">倒骑驴</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-255" offset="1338" length="2">
+        <text>工党</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-177" offset="1247" length="3">倒骑驴</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-261" offset="1413" length="1">
+        <text>党</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" offset="1367" length="2">微笑</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-391" offset="896" length="1">
+        <text>官</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-87" offset="844" length="5">cfsww</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

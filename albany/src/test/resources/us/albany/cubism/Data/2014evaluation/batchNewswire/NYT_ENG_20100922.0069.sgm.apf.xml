@@ -1,0 +1,2370 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100922.0069">
+  <document DOCID="NYT_ENG_20100922.0069">
+
+    <entity ID="NYT_ENG_20100922.0069-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E0-M100">
+          <extent>
+              <charseq START="140" END="149">PALO ALTO,</charseq>
+          </extent>
+          <head>
+              <charseq START="140" END="148">PALO ALTO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PALO ALTO">
+              <charseq START="140" END="148">PALO ALTO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E1" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E1-M102">
+          <extent>
+              <charseq START="151" END="156">Calif.</charseq>
+          </extent>
+          <head>
+              <charseq START="151" END="156">Calif.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E1-M201">
+          <extent>
+              <charseq START="189" END="191">its</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="191">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Calif.">
+              <charseq START="151" END="156">Calif.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E2-M202">
+          <extent>
+              <charseq START="202" END="207">Google</charseq>
+          </extent>
+          <head>
+              <charseq START="202" END="207">Google</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E2-M301">
+          <extent>
+              <charseq START="273" END="299">the Internet
+search company</charseq>
+          </extent>
+          <head>
+              <charseq START="293" END="299">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E2-M307">
+          <extent>
+              <charseq START="376" END="378">its</charseq>
+          </extent>
+          <head>
+              <charseq START="376" END="378">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E2-M411">
+          <extent>
+              <charseq START="487" END="492">Google</charseq>
+          </extent>
+          <head>
+              <charseq START="487" END="492">Google</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E2-M504">
+          <extent>
+              <charseq START="616" END="644">the social networking company</charseq>
+          </extent>
+          <head>
+              <charseq START="638" END="644">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E2-M509">
+          <extent>
+              <charseq START="675" END="677">its</charseq>
+          </extent>
+          <head>
+              <charseq START="675" END="677">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E2-M604">
+          <extent>
+              <charseq START="811" END="813">its</charseq>
+          </extent>
+          <head>
+              <charseq START="811" END="813">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E2-M1403">
+          <extent>
+              <charseq START="1885" END="1895">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="1889" END="1895">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E2-M1514">
+          <extent>
+              <charseq START="2094" END="2116">perhaps a media company</charseq>
+          </extent>
+          <head>
+              <charseq START="2110" END="2116">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E2-M1911">
+          <extent>
+              <charseq START="2677" END="2682">Google</charseq>
+          </extent>
+          <head>
+              <charseq START="2677" END="2682">Google</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E2-M2016">
+          <extent>
+              <charseq START="2940" END="2961">an advertising
+company</charseq>
+          </extent>
+          <head>
+              <charseq START="2955" END="2961">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E2-M2217">
+          <extent>
+              <charseq START="3414" END="3431">a start-up company</charseq>
+          </extent>
+          <head>
+              <charseq START="3425" END="3431">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E2-M2305">
+          <extent>
+              <charseq START="3528" END="3529">it</charseq>
+          </extent>
+          <head>
+              <charseq START="3528" END="3529">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E2-M2308">
+          <extent>
+              <charseq START="3552" END="3555">them</charseq>
+          </extent>
+          <head>
+              <charseq START="3552" END="3555">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E2-M4609">
+          <extent>
+              <charseq START="6345" END="6444">Google, whose Checkout system is used in
+e-commerce and on the company&apos;s app store for mobile phones</charseq>
+          </extent>
+          <head>
+              <charseq START="6345" END="6350">Google</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E2-M4617">
+          <extent>
+              <charseq START="6404" END="6414">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="6408" END="6414">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E2-M4611">
+          <extent>
+              <charseq START="6353" END="6357">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="6353" END="6357">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E2-M4706">
+          <extent>
+              <charseq START="6628" END="6633">Google</charseq>
+          </extent>
+          <head>
+              <charseq START="6628" END="6633">Google</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E2-M4708">
+          <extent>
+              <charseq START="6649" END="6652">they</charseq>
+          </extent>
+          <head>
+              <charseq START="6649" END="6652">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E2-M4808">
+          <extent>
+              <charseq START="6789" END="6794">Google</charseq>
+          </extent>
+          <head>
+              <charseq START="6789" END="6794">Google</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Google">
+              <charseq START="202" END="207">Google</charseq>
+          </name>
+          <name NAME="Google">
+              <charseq START="487" END="492">Google</charseq>
+          </name>
+          <name NAME="Google">
+              <charseq START="2677" END="2682">Google</charseq>
+          </name>
+          <name NAME="Google">
+              <charseq START="6345" END="6350">Google</charseq>
+          </name>
+          <name NAME="Google">
+              <charseq START="6628" END="6633">Google</charseq>
+          </name>
+          <name NAME="Google">
+              <charseq START="6789" END="6794">Google</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E3-M304">
+          <extent>
+              <charseq START="329" END="360">a significant new
+revenue source</charseq>
+          </extent>
+          <head>
+              <charseq START="355" END="360">source</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E4-M502">
+          <extent>
+              <charseq START="589" END="613">an advertising powerhouse</charseq>
+          </extent>
+          <head>
+              <charseq START="604" END="613">powerhouse</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E5-M514">
+          <extent>
+              <charseq START="747" END="776">a multibillion-dollar business</charseq>
+          </extent>
+          <head>
+              <charseq START="769" END="776">business</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M600">
+          <extent>
+              <charseq START="788" END="795">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="788" END="795">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M609">
+          <extent>
+              <charseq START="897" END="904">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="897" END="904">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M719">
+          <extent>
+              <charseq START="1053" END="1060">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1053" END="1060">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M1003">
+          <extent>
+              <charseq START="1399" END="1406">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1399" END="1406">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M1009">
+          <extent>
+              <charseq START="1492" END="1499">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1492" END="1499">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M1104">
+          <extent>
+              <charseq START="1563" END="1570">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1563" END="1570">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M1202">
+          <extent>
+              <charseq START="1640" END="1647">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1640" END="1647">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M1301">
+          <extent>
+              <charseq START="1729" END="1736">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1729" END="1736">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M1509">
+          <extent>
+              <charseq START="2068" END="2075">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="2068" END="2075">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M1521">
+          <extent>
+              <charseq START="2151" END="2158">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="2151" END="2158">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M1710">
+          <extent>
+              <charseq START="2334" END="2341">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="2334" END="2341">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M1906">
+          <extent>
+              <charseq START="2640" END="2647">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="2640" END="2647">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E6-M1902">
+          <extent>
+              <charseq START="2558" END="2574">industry insiders</charseq>
+          </extent>
+          <head>
+              <charseq START="2567" END="2574">insiders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M2105">
+          <extent>
+              <charseq START="3109" END="3116">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="3109" END="3116">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M2203">
+          <extent>
+              <charseq START="3287" END="3294">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="3287" END="3294">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M2401">
+          <extent>
+              <charseq START="3613" END="3620">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="3613" END="3620">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M2504">
+          <extent>
+              <charseq START="3696" END="3703">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="3696" END="3703">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M2516">
+          <extent>
+              <charseq START="3815" END="3822">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="3815" END="3822">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M2906">
+          <extent>
+              <charseq START="4320" END="4327">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="4320" END="4327">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M3330">
+          <extent>
+              <charseq START="4985" END="4992">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="4985" END="4992">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M3401">
+          <extent>
+              <charseq START="5022" END="5029">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="5022" END="5029">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M3504">
+          <extent>
+              <charseq START="5154" END="5161">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="5154" END="5161">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M3601">
+          <extent>
+              <charseq START="5259" END="5266">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="5259" END="5266">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M4101">
+          <extent>
+              <charseq START="5697" END="5704">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="5697" END="5704">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M4305">
+          <extent>
+              <charseq START="5975" END="5982">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="5975" END="5982">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E6-M4306">
+          <extent>
+              <charseq START="5991" END="6012">a significant customer</charseq>
+          </extent>
+          <head>
+              <charseq START="6005" END="6012">customer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M4400">
+          <extent>
+              <charseq START="6033" END="6040">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="6033" END="6040">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E6-M4401">
+          <extent>
+              <charseq START="6051" END="6065">a great partner</charseq>
+          </extent>
+          <head>
+              <charseq START="6059" END="6065">partner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M4504">
+          <extent>
+              <charseq START="6166" END="6173">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="6166" END="6173">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M4702">
+          <extent>
+              <charseq START="6549" END="6556">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="6549" END="6556">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M4800">
+          <extent>
+              <charseq START="6702" END="6709">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="6702" END="6709">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E6-M4801">
+          <extent>
+              <charseq START="6714" END="6739">a very innovative company,</charseq>
+          </extent>
+          <head>
+              <charseq START="6732" END="6738">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E6-M5005">
+          <extent>
+              <charseq START="7002" END="7009">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="7002" END="7009">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Facebook">
+              <charseq START="788" END="795">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="897" END="904">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="1053" END="1060">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="1399" END="1406">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="1492" END="1499">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="1563" END="1570">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="1640" END="1647">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="1729" END="1736">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="2068" END="2075">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="2151" END="2158">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="2334" END="2341">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="2640" END="2647">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="3109" END="3116">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="3287" END="3294">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="3613" END="3620">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="3696" END="3703">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="3815" END="3822">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="4320" END="4327">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="4985" END="4992">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="5022" END="5029">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="5154" END="5161">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="5259" END="5266">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="5697" END="5704">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="5975" END="5982">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="6033" END="6040">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="6166" END="6173">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="6549" END="6556">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="6702" END="6709">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="7002" END="7009">Facebook</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E7-M714">
+          <extent>
+              <charseq START="1023" END="1027">Zynga</charseq>
+          </extent>
+          <head>
+              <charseq START="1023" END="1027">Zynga</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E7-M715">
+          <extent>
+              <charseq START="1030" END="1073">the No. 1
+developer of Facebook applications</charseq>
+          </extent>
+          <head>
+              <charseq START="1040" END="1048">developer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E7-M800">
+          <extent>
+              <charseq START="1085" END="1089">Zynga</charseq>
+          </extent>
+          <head>
+              <charseq START="1085" END="1089">Zynga</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E7-M4300">
+          <extent>
+              <charseq START="5930" END="5934">Zynga</charseq>
+          </extent>
+          <head>
+              <charseq START="5930" END="5934">Zynga</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E7-M4301">
+          <extent>
+              <charseq START="5940" END="5972">one of PayPal&apos;s largest customers</charseq>
+          </extent>
+          <head>
+              <charseq START="5940" END="5942">one</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zynga">
+              <charseq START="1023" END="1027">Zynga</charseq>
+          </name>
+          <name NAME="Zynga">
+              <charseq START="1085" END="1089">Zynga</charseq>
+          </name>
+          <name NAME="Zynga">
+              <charseq START="5930" END="5934">Zynga</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E8-M807">
+          <extent>
+              <charseq START="1159" END="1309">the Inside Network, which tracks Facebook
+applications, as millions of users pay real money to buy virtual
+goods on games like FarmVille and Mafia Wars</charseq>
+          </extent>
+          <head>
+              <charseq START="1163" END="1176">Inside Network</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E8-M810">
+          <extent>
+              <charseq START="1179" END="1183">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1179" END="1183">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E8-M1106">
+          <extent>
+              <charseq START="1596" END="1613">the Inside Network</charseq>
+          </extent>
+          <head>
+              <charseq START="1600" END="1613">Inside Network</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Inside Network">
+              <charseq START="1163" END="1176">Inside Network</charseq>
+          </name>
+          <name NAME="Inside Network">
+              <charseq START="1600" END="1613">Inside Network</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E9-M821">
+          <extent>
+              <charseq START="1286" END="1294">FarmVille</charseq>
+          </extent>
+          <head>
+              <charseq START="1286" END="1294">FarmVille</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FarmVille">
+              <charseq START="1286" END="1294">FarmVille</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E10-M815">
+          <extent>
+              <charseq START="1230" END="1234">users</charseq>
+          </extent>
+          <head>
+              <charseq START="1230" END="1234">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E10-M2112">
+          <extent>
+              <charseq START="3172" END="3242">users to log in to sites across the Web using their Facebook
+identities</charseq>
+          </extent>
+          <head>
+              <charseq START="3172" END="3176">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E10-M2120">
+          <extent>
+              <charseq START="3218" END="3222">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3218" END="3222">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E10-M2600">
+          <extent>
+              <charseq START="3831" END="3835">Users</charseq>
+          </extent>
+          <head>
+              <charseq START="3831" END="3835">Users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E10-M2603">
+          <extent>
+              <charseq START="3865" END="3868">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3865" END="3868">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E10-M2606">
+          <extent>
+              <charseq START="3901" END="3904">them</charseq>
+          </extent>
+          <head>
+              <charseq START="3901" END="3904">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E10-M2707">
+          <extent>
+              <charseq START="4053" END="4057">users</charseq>
+          </extent>
+          <head>
+              <charseq START="4053" END="4057">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E10-M2710">
+          <extent>
+              <charseq START="4068" END="4072">their</charseq>
+          </extent>
+          <head>
+              <charseq START="4068" END="4072">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E10-M3107">
+          <extent>
+              <charseq START="4665" END="4669">users</charseq>
+          </extent>
+          <head>
+              <charseq START="4665" END="4669">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E10-M4200">
+          <extent>
+              <charseq START="5824" END="5837">Facebook users</charseq>
+          </extent>
+          <head>
+              <charseq START="5833" END="5837">users</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E10-M4205">
+          <extent>
+              <charseq START="5861" END="5865">their</charseq>
+          </extent>
+          <head>
+              <charseq START="5861" END="5865">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E12-M1208">
+          <extent>
+              <charseq START="1685" END="1690">Target</charseq>
+          </extent>
+          <head>
+              <charseq START="1685" END="1690">Target</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Target">
+              <charseq START="1685" END="1690">Target</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E13-M1207">
+          <extent>
+              <charseq START="1685" END="1697">Target
+stores</charseq>
+          </extent>
+          <head>
+              <charseq START="1692" END="1697">stores</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E14-M1401">
+          <extent>
+              <charseq START="1828" END="1842">Mark Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="1828" END="1842">Mark Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E14-M1402">
+          <extent>
+              <charseq START="1845" END="1863">the
+chief executive</charseq>
+          </extent>
+          <head>
+              <charseq START="1855" END="1863">executive</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Zuckerberg">
+              <charseq START="1828" END="1842">Mark Zuckerberg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E15-M1516">
+          <extent>
+              <charseq START="2119" END="2166">people with direct knowledge
+of Facebook&apos;s plans</charseq>
+          </extent>
+          <head>
+              <charseq START="2119" END="2124">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E15-M1600">
+          <extent>
+              <charseq START="2174" END="2177">They</charseq>
+          </extent>
+          <head>
+              <charseq START="2174" END="2177">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E16-M1803">
+          <extent>
+              <charseq START="2423" END="2427">those</charseq>
+          </extent>
+          <head>
+              <charseq START="2423" END="2427">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M1910">
+          <extent>
+              <charseq START="2669" END="2674">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="2669" END="2674">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M2612">
+          <extent>
+              <charseq START="3949" END="3954">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="3949" END="3954">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M2713">
+          <extent>
+              <charseq START="4090" END="4095">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="4090" END="4095">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M3707">
+          <extent>
+              <charseq START="5374" END="5379">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="5374" END="5379">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M3803">
+          <extent>
+              <charseq START="5418" END="5423">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="5418" END="5423">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M3810">
+          <extent>
+              <charseq START="5502" END="5556">PayPal who is now product
+marketing manager for Credits</charseq>
+          </extent>
+          <head>
+              <charseq START="5502" END="5507">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M4005">
+          <extent>
+              <charseq START="5651" END="5656">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="5651" END="5656">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M4105">
+          <extent>
+              <charseq START="5731" END="5736">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="5731" END="5736">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M4109">
+          <extent>
+              <charseq START="5762" END="5767">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="5762" END="5767">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E18-M4106">
+          <extent>
+              <charseq START="5739" END="5752">a
+unit of eBay</charseq>
+          </extent>
+          <head>
+              <charseq START="5741" END="5744">unit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M4304">
+          <extent>
+              <charseq START="5947" END="5952">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="5947" END="5952">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E18-M4406">
+          <extent>
+              <charseq START="6083" END="6088">PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="6083" END="6088">PayPal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PayPal">
+              <charseq START="2669" END="2674">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="3949" END="3954">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="4090" END="4095">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="5374" END="5379">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="5418" END="5423">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="5502" END="5507">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="5651" END="5656">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="5731" END="5736">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="5762" END="5767">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="5947" END="5952">PayPal</charseq>
+          </name>
+          <name NAME="PayPal">
+              <charseq START="6083" END="6088">PayPal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E19-M1913">
+          <extent>
+              <charseq START="2685" END="2690">Amazon</charseq>
+          </extent>
+          <head>
+              <charseq START="2685" END="2690">Amazon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E19-M4620">
+          <extent>
+              <charseq START="6451" END="6523">even Amazon, which is seeking to expand its payment system across
+the Web</charseq>
+          </extent>
+          <head>
+              <charseq START="6456" END="6461">Amazon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E19-M4623">
+          <extent>
+              <charseq START="6464" END="6468">which</charseq>
+          </extent>
+          <head>
+              <charseq START="6464" END="6468">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E19-M4625">
+          <extent>
+              <charseq START="6491" END="6493">its</charseq>
+          </extent>
+          <head>
+              <charseq START="6491" END="6493">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E19-M4707">
+          <extent>
+              <charseq START="6639" END="6644">Amazon</charseq>
+          </extent>
+          <head>
+              <charseq START="6639" END="6644">Amazon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E19-M4809">
+          <extent>
+              <charseq START="6800" END="6805">Amazon</charseq>
+          </extent>
+          <head>
+              <charseq START="6800" END="6805">Amazon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amazon">
+              <charseq START="2685" END="2690">Amazon</charseq>
+          </name>
+          <name NAME="Amazon">
+              <charseq START="6456" END="6461">Amazon</charseq>
+          </name>
+          <name NAME="Amazon">
+              <charseq START="6639" END="6644">Amazon</charseq>
+          </name>
+          <name NAME="Amazon">
+              <charseq START="6800" END="6805">Amazon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E20-M1901">
+          <extent>
+              <charseq START="2540" END="2552">Some analysts</charseq>
+          </extent>
+          <head>
+              <charseq START="2545" END="2552">analysts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E20-M2000">
+          <extent>
+              <charseq START="2771" END="2774">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2771" END="2774">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E20-M2004">
+          <extent>
+              <charseq START="2833" END="2836">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2833" END="2836">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E20-M2006">
+          <extent>
+              <charseq START="2842" END="2845">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2842" END="2845">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E20-M4700">
+          <extent>
+              <charseq START="6535" END="6542">Analysts</charseq>
+          </extent>
+          <head>
+              <charseq START="6535" END="6542">Analysts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E21-M1903">
+          <extent>
+              <charseq START="2558" END="2565">industry</charseq>
+          </extent>
+          <head>
+              <charseq START="2558" END="2565">industry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E21-M3902">
+          <extent>
+              <charseq START="5592" END="5603">the industry</charseq>
+          </extent>
+          <head>
+              <charseq START="5596" END="5603">industry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E22-M1914">
+          <extent>
+              <charseq START="2696" END="2701">others</charseq>
+          </extent>
+          <head>
+              <charseq START="2696" END="2701">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E23-M2012">
+          <extent>
+              <charseq START="2893" END="2904">Alex Rampell</charseq>
+          </extent>
+          <head>
+              <charseq START="2893" END="2904">Alex Rampell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E23-M2013">
+          <extent>
+              <charseq START="2907" END="2937">the chief executive of TrialPay</charseq>
+          </extent>
+          <head>
+              <charseq START="2917" END="2925">executive</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alex Rampell">
+              <charseq START="2893" END="2904">Alex Rampell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E24-M2015">
+          <extent>
+              <charseq START="2930" END="2937">TrialPay</charseq>
+          </extent>
+          <head>
+              <charseq START="2930" END="2937">TrialPay</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TrialPay">
+              <charseq START="2930" END="2937">TrialPay</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E25-M2022">
+          <extent>
+              <charseq START="3000" END="3030">people who buy certain
+products</charseq>
+          </extent>
+          <head>
+              <charseq START="3000" END="3005">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E25-M2024">
+          <extent>
+              <charseq START="3007" END="3009">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3007" END="3009">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E27-M2100">
+          <extent>
+              <charseq START="3042" END="3047">Others</charseq>
+          </extent>
+          <head>
+              <charseq START="3042" END="3047">Others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E28-M2116">
+          <extent>
+              <charseq START="3191" END="3242">sites across the Web using their Facebook
+identities</charseq>
+          </extent>
+          <head>
+              <charseq START="3191" END="3195">sites</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E29-M2212">
+          <extent>
+              <charseq START="3369" END="3378">Ron
+Hirson</charseq>
+          </extent>
+          <head>
+              <charseq START="3369" END="3378">Ron
+Hirson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E29-M2213">
+          <extent>
+              <charseq START="3381" END="3411">a senior vice president at Boku</charseq>
+          </extent>
+          <head>
+              <charseq START="3395" END="3403">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E29-M2502">
+          <extent>
+              <charseq START="3696" END="3760">Facebook&apos;s vice president for
+partnerships and platform marketing</charseq>
+          </extent>
+          <head>
+              <charseq START="3712" END="3720">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ron
+Hirson">
+              <charseq START="3369" END="3378">Ron
+Hirson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E30-M2216">
+          <extent>
+              <charseq START="3408" END="3411">Boku</charseq>
+          </extent>
+          <head>
+              <charseq START="3408" END="3411">Boku</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boku">
+              <charseq START="3408" END="3411">Boku</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E31-M2501">
+          <extent>
+              <charseq START="3686" END="3693">Dan Rose</charseq>
+          </extent>
+          <head>
+              <charseq START="3686" END="3693">Dan Rose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E31-M2614">
+          <extent>
+              <charseq START="3984" END="3985">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3984" END="3985">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E31-M2900">
+          <extent>
+              <charseq START="4233" END="4236">Rose</charseq>
+          </extent>
+          <head>
+              <charseq START="4233" END="4236">Rose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E31-M3005">
+          <extent>
+              <charseq START="4539" END="4542">Rose</charseq>
+          </extent>
+          <head>
+              <charseq START="4539" END="4542">Rose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E31-M3400">
+          <extent>
+              <charseq START="5004" END="5007">Rose</charseq>
+          </extent>
+          <head>
+              <charseq START="5004" END="5007">Rose</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E31-M3501">
+          <extent>
+              <charseq START="5145" END="5146">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5145" END="5146">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dan Rose">
+              <charseq START="3686" END="3693">Dan Rose</charseq>
+          </name>
+          <name NAME="Rose">
+              <charseq START="4233" END="4236">Rose</charseq>
+          </name>
+          <name NAME="Rose">
+              <charseq START="4539" END="4542">Rose</charseq>
+          </name>
+          <name NAME="Rose">
+              <charseq START="5004" END="5007">Rose</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E32" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E32-M2507">
+          <extent>
+              <charseq START="3726" END="3737">partnerships</charseq>
+          </extent>
+          <head>
+              <charseq START="3726" END="3737">partnerships</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E33-M2702">
+          <extent>
+              <charseq START="4021" END="4149">Apple&apos;s App Store, which allows users to
+enter their credit cards or PayPal accounts once and buy
+applications from any developer</charseq>
+          </extent>
+          <head>
+              <charseq START="4029" END="4037">App Store</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E33-M2706">
+          <extent>
+              <charseq START="4040" END="4044">which</charseq>
+          </extent>
+          <head>
+              <charseq START="4040" END="4044">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="App Store">
+              <charseq START="4029" END="4037">App Store</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E34-M2704">
+          <extent>
+              <charseq START="4021" END="4025">Apple</charseq>
+          </extent>
+          <head>
+              <charseq START="4021" END="4025">Apple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E34-M2800">
+          <extent>
+              <charseq START="4152" END="4156">Apple</charseq>
+          </extent>
+          <head>
+              <charseq START="4152" END="4156">Apple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E34-M2808">
+          <extent>
+              <charseq START="4209" END="4211">its</charseq>
+          </extent>
+          <head>
+              <charseq START="4209" END="4211">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E34-M4604">
+          <extent>
+              <charseq START="6300" END="6304">Apple</charseq>
+          </extent>
+          <head>
+              <charseq START="6300" END="6304">Apple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E34-M4605">
+          <extent>
+              <charseq START="6307" END="6333">the leading seller
+of music</charseq>
+          </extent>
+          <head>
+              <charseq START="6319" END="6324">seller</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Apple">
+              <charseq START="4021" END="4025">Apple</charseq>
+          </name>
+          <name NAME="Apple">
+              <charseq START="4152" END="4156">Apple</charseq>
+          </name>
+          <name NAME="Apple">
+              <charseq START="6300" END="6304">Apple</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E35-M2715">
+          <extent>
+              <charseq START="4137" END="4149">any developer</charseq>
+          </extent>
+          <head>
+              <charseq START="4141" END="4149">developer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E36" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E36-M2807">
+          <extent>
+              <charseq START="4209" END="4221">its app store</charseq>
+          </extent>
+          <head>
+              <charseq START="4217" END="4221">store</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E36-M4615">
+          <extent>
+              <charseq START="6404" END="6444">the company&apos;s app store for mobile phones</charseq>
+          </extent>
+          <head>
+              <charseq START="6422" END="6426">store</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E37-M2901">
+          <extent>
+              <charseq START="4254" END="4268">some developers</charseq>
+          </extent>
+          <head>
+              <charseq START="4259" END="4268">developers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E37-M3102">
+          <extent>
+              <charseq START="4615" END="4628">its
+developers</charseq>
+          </extent>
+          <head>
+              <charseq START="4619" END="4628">developers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E37-M3105">
+          <extent>
+              <charseq START="4643" END="4646">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4643" END="4646">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E37-M3200">
+          <extent>
+              <charseq START="4681" END="4695">Some developers</charseq>
+          </extent>
+          <head>
+              <charseq START="4686" END="4695">developers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E37-M3201">
+          <extent>
+              <charseq START="4701" END="4704">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4701" END="4704">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E37-M3511">
+          <extent>
+              <charseq START="5234" END="5243">developers</charseq>
+          </extent>
+          <head>
+              <charseq START="5234" END="5243">developers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E38" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E38-M2905">
+          <extent>
+              <charseq START="4320" END="4340">Facebook&apos;s commission</charseq>
+          </extent>
+          <head>
+              <charseq START="4331" END="4340">commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E38-M3103">
+          <extent>
+              <charseq START="4615" END="4617">its</charseq>
+          </extent>
+          <head>
+              <charseq START="4615" END="4617">its</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E40" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E40-M3311">
+          <extent>
+              <charseq START="4830" END="4831">FB</charseq>
+          </extent>
+          <head>
+              <charseq START="4830" END="4831">FB</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FB">
+              <charseq START="4830" END="4831">FB</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E41-M3319">
+          <extent>
+              <charseq START="4876" END="4884">Mark Hull</charseq>
+          </extent>
+          <head>
+              <charseq START="4876" END="4884">Mark Hull</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E41-M3320">
+          <extent>
+              <charseq START="4887" END="4927">vice president for marketing at CrowdStar</charseq>
+          </extent>
+          <head>
+              <charseq START="4892" END="4900">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E41-M3325">
+          <extent>
+              <charseq START="4930" END="4934">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="4930" END="4934">whose</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Hull">
+              <charseq START="4876" END="4884">Mark Hull</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E42-M3324">
+          <extent>
+              <charseq START="4919" END="4927">CrowdStar</charseq>
+          </extent>
+          <head>
+              <charseq START="4919" END="4927">CrowdStar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CrowdStar">
+              <charseq START="4919" END="4927">CrowdStar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E43-M3329">
+          <extent>
+              <charseq START="4965" END="4980">the most popular</charseq>
+          </extent>
+          <head>
+              <charseq START="4974" END="4980">popular</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E44" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E44-M3703">
+          <extent>
+              <charseq START="5345" END="5356">product team</charseq>
+          </extent>
+          <head>
+              <charseq START="5353" END="5356">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E45-M3706">
+          <extent>
+              <charseq START="5374" END="5388">PayPal
+veterans</charseq>
+          </extent>
+          <head>
+              <charseq START="5381" END="5388">veterans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E46" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E46-M3806">
+          <extent>
+              <charseq START="5450" END="5456">Deb Liu</charseq>
+          </extent>
+          <head>
+              <charseq START="5450" END="5456">Deb Liu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E46-M3807">
+          <extent>
+              <charseq START="5459" END="5556">a
+former director of corporate strategy at PayPal who is now product
+marketing manager for Credits</charseq>
+          </extent>
+          <head>
+              <charseq START="5468" END="5475">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E46-M3813">
+          <extent>
+              <charseq START="5520" END="5556">product
+marketing manager for Credits</charseq>
+          </extent>
+          <head>
+              <charseq START="5538" END="5544">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E46-M3812">
+          <extent>
+              <charseq START="5509" END="5511">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5509" END="5511">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Deb Liu">
+              <charseq START="5450" END="5456">Deb Liu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E47-M4003">
+          <extent>
+              <charseq START="5640" END="5656">a rival to PayPal</charseq>
+          </extent>
+          <head>
+              <charseq START="5642" END="5646">rival</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E48-M4108">
+          <extent>
+              <charseq START="5749" END="5752">eBay</charseq>
+          </extent>
+          <head>
+              <charseq START="5749" END="5752">eBay</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="eBay">
+              <charseq START="5749" END="5752">eBay</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E49-M4303">
+          <extent>
+              <charseq START="5947" END="5972">PayPal&apos;s largest customers</charseq>
+          </extent>
+          <head>
+              <charseq START="5964" END="5972">customers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E50-M4403">
+          <extent>
+              <charseq START="6069" END="6080">Osama Bedier</charseq>
+          </extent>
+          <head>
+              <charseq START="6069" END="6080">Osama Bedier</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E50-M4404">
+          <extent>
+              <charseq START="6083" END="6118">PayPal&apos;s
+vice president for platform</charseq>
+          </extent>
+          <head>
+              <charseq START="6097" END="6105">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Osama Bedier">
+              <charseq START="6069" END="6080">Osama Bedier</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E51-M4511">
+          <extent>
+              <charseq START="6216" END="6284">others competing for a piece of the growing
+commerce in digital goods</charseq>
+          </extent>
+          <head>
+              <charseq START="6216" END="6221">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E53" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E53-M4815">
+          <extent>
+              <charseq START="6867" END="6878">Mark Mahaney</charseq>
+          </extent>
+          <head>
+              <charseq START="6867" END="6878">Mark Mahaney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E53-M4816">
+          <extent>
+              <charseq START="6881" END="6903">an analyst
+at Citigroup</charseq>
+          </extent>
+          <head>
+              <charseq START="6884" END="6890">analyst</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100922.0069-E53-M4903">
+          <extent>
+              <charseq START="6954" END="6955">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6954" END="6955">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Mahaney">
+              <charseq START="6867" END="6878">Mark Mahaney</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E54" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100922.0069-E54-M4818">
+          <extent>
+              <charseq START="6895" END="6903">Citigroup</charseq>
+          </extent>
+          <head>
+              <charseq START="6895" END="6903">Citigroup</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Citigroup">
+              <charseq START="6895" END="6903">Citigroup</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100922.0069-E55" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E55-M4806">
+          <extent>
+              <charseq START="6757" END="6786">two
+large innovative companies</charseq>
+          </extent>
+          <head>
+              <charseq START="6778" END="6786">companies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100922.0069-E55-M4900">
+          <extent>
+              <charseq START="6906" END="6920">Those companies</charseq>
+          </extent>
+          <head>
+              <charseq START="6912" END="6920">companies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T0" VAL="P12Y">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T0-M1">
+            <extent>
+              <charseq START="263" END="270">12 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T1" VAL="P1D">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T1-M1">
+            <extent>
+              <charseq START="722" END="729">some day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100922.0069-V2" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100922.0069-V2-M1">
+            <extent>
+              <charseq START="749" END="767">multibillion-dollar</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T3" VAL="2009" MOD="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T3-M1">
+            <extent>
+              <charseq START="849" END="868">more than a year ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T4" VAL="2010-09">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T4-M1">
+            <extent>
+              <charseq START="907" END="916">This
+month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100922.0069-V5" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100922.0069-V5-M1">
+            <extent>
+              <charseq START="1111" END="1122">$500 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T6" VAL="2010">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T6-M1">
+            <extent>
+              <charseq START="1135" END="1143">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100922.0069-V7" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20100922.0069-V7-M1">
+            <extent>
+              <charseq START="1350" END="1359">30 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T8" VAL="2010" MOD="END">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T8-M1">
+            <extent>
+              <charseq START="1378" END="1396">the end of the year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100922.0069-V9" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100922.0069-V9-M1">
+            <extent>
+              <charseq START="1547" END="1558">$835 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T10" VAL="2010">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T10-M1">
+            <extent>
+              <charseq START="1572" END="1580">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T11" VAL="2010-09">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T11-M1">
+            <extent>
+              <charseq START="1699" END="1708">this month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T12" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T12-M1">
+            <extent>
+              <charseq START="1724" END="1726">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T13" VAL="PAST_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T13-M1">
+            <extent>
+              <charseq START="1871" END="1878">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T14">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T14-M1">
+            <extent>
+              <charseq START="1955" END="1958">time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T15" VAL="FUTURE_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T15-M1">
+            <extent>
+              <charseq START="2403" END="2412">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T16" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T16-M1">
+            <extent>
+              <charseq START="3519" END="3521">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T17" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T17-M1">
+            <extent>
+              <charseq START="3608" END="3610">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T18" VAL="PAST_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T18-M1">
+            <extent>
+              <charseq START="4106" END="4109">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100922.0069-V19" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20100922.0069-V19-M1">
+            <extent>
+              <charseq START="4171" END="4180">30 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T20" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T20-M1">
+            <extent>
+              <charseq START="5140" END="5142">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T21" VAL="PXD" MOD="START">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T21-M1">
+            <extent>
+              <charseq START="5428" END="5441">the early days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T22" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T22-M1">
+            <extent>
+              <charseq START="5516" END="5518">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T23" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T23-M1">
+            <extent>
+              <charseq START="5620" END="5622">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T24" VAL="2010-02">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T24-M1">
+            <extent>
+              <charseq START="5687" END="5694">February</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100922.0069-T25" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100922.0069-T25-M1">
+            <extent>
+              <charseq START="5987" END="5989">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100922.0069-R0" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E13" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R0-M1200">
+          <extent>
+              <charseq START="1685" END="1690">Target</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E12-M1208" ROLE="Arg-1">
+            <extent>
+              <charseq START="1685" END="1690">Target</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E13-M1207" ROLE="Arg-2">
+            <extent>
+              <charseq START="1685" END="1697">Target
+stores</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E24" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R1-M2000">
+          <extent>
+              <charseq START="2907" END="2937">the chief executive of TrialPay</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E23-M2013" ROLE="Arg-1">
+            <extent>
+              <charseq START="2907" END="2937">the chief executive of TrialPay</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E24-M2015" ROLE="Arg-2">
+            <extent>
+              <charseq START="2930" END="2937">TrialPay</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E30" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R2-M2200">
+          <extent>
+              <charseq START="3381" END="3411">a senior vice president at Boku</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E29-M2213" ROLE="Arg-1">
+            <extent>
+              <charseq START="3381" END="3411">a senior vice president at Boku</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E30-M2216" ROLE="Arg-2">
+            <extent>
+              <charseq START="3408" END="3411">Boku</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R3" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E29" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R3-M2500">
+          <extent>
+              <charseq START="3696" END="3703">Facebook</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E6-M2504" ROLE="Arg-1">
+            <extent>
+              <charseq START="3696" END="3703">Facebook</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E29-M2502" ROLE="Arg-2">
+            <extent>
+              <charseq START="3696" END="3760">Facebook&apos;s vice president for
+partnerships and platform marketing</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E34" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R4-M2700">
+          <extent>
+              <charseq START="4021" END="4149">Apple&apos;s App Store, which allows users to
+enter their credit cards or PayPal accounts once and buy
+applications from any developer</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E33-M2702" ROLE="Arg-1">
+            <extent>
+              <charseq START="4021" END="4149">Apple&apos;s App Store, which allows users to
+enter their credit cards or PayPal accounts once and buy
+applications from any developer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E34-M2704" ROLE="Arg-2">
+            <extent>
+              <charseq START="4021" END="4025">Apple</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E34" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E36" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R5-M2800">
+          <extent>
+              <charseq START="4209" END="4211">its</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E34-M2808" ROLE="Arg-1">
+            <extent>
+              <charseq START="4209" END="4211">its</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E36-M2807" ROLE="Arg-2">
+            <extent>
+              <charseq START="4209" END="4221">its app store</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E38" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R6-M3100">
+          <extent>
+              <charseq START="4615" END="4628">its
+developers</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E37-M3102" ROLE="Arg-1">
+            <extent>
+              <charseq START="4615" END="4628">its
+developers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E38-M3103" ROLE="Arg-2">
+            <extent>
+              <charseq START="4615" END="4617">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E41" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E42" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R7-M3300">
+          <extent>
+              <charseq START="4887" END="4927">vice president for marketing at CrowdStar</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E41-M3320" ROLE="Arg-1">
+            <extent>
+              <charseq START="4887" END="4927">vice president for marketing at CrowdStar</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E42-M3324" ROLE="Arg-2">
+            <extent>
+              <charseq START="4919" END="4927">CrowdStar</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R8" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E18" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R8-M3700">
+          <extent>
+              <charseq START="5374" END="5388">PayPal
+veterans</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E45-M3706" ROLE="Arg-1">
+            <extent>
+              <charseq START="5374" END="5388">PayPal
+veterans</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E18-M3707" ROLE="Arg-2">
+            <extent>
+              <charseq START="5374" END="5379">PayPal</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E46" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E18" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R9-M3800">
+          <extent>
+              <charseq START="5459" END="5556">a
+former director of corporate strategy at PayPal who is now product
+marketing manager for Credits</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E46-M3807" ROLE="Arg-1">
+            <extent>
+              <charseq START="5459" END="5556">a
+former director of corporate strategy at PayPal who is now product
+marketing manager for Credits</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E18-M3810" ROLE="Arg-2">
+            <extent>
+              <charseq START="5502" END="5556">PayPal who is now product
+marketing manager for Credits</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E48" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R10-M4100">
+          <extent>
+              <charseq START="5739" END="5752">a
+unit of eBay</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E18-M4106" ROLE="Arg-1">
+            <extent>
+              <charseq START="5739" END="5752">a
+unit of eBay</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E48-M4108" ROLE="Arg-2">
+            <extent>
+              <charseq START="5749" END="5752">eBay</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E50" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E18" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R11-M4400">
+          <extent>
+              <charseq START="6083" END="6118">PayPal&apos;s
+vice president for platform</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E50-M4404" ROLE="Arg-1">
+            <extent>
+              <charseq START="6083" END="6118">PayPal&apos;s
+vice president for platform</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E18-M4406" ROLE="Arg-2">
+            <extent>
+              <charseq START="6083" END="6088">PayPal</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E36" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R12-M4600">
+          <extent>
+              <charseq START="6404" END="6414">the company</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E2-M4617" ROLE="Arg-1">
+            <extent>
+              <charseq START="6404" END="6414">the company</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E36-M4615" ROLE="Arg-2">
+            <extent>
+              <charseq START="6404" END="6444">the company&apos;s app store for mobile phones</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100922.0069-R13" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100922.0069-E53" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100922.0069-E54" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100922.0069-R13-M4800">
+          <extent>
+              <charseq START="6881" END="6903">an analyst
+at Citigroup</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E53-M4816" ROLE="Arg-1">
+            <extent>
+              <charseq START="6881" END="6903">an analyst
+at Citigroup</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100922.0069-E54-M4818" ROLE="Arg-2">
+            <extent>
+              <charseq START="6895" END="6903">Citigroup</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

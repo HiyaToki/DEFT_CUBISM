@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56aceddc0000000000000010">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-750">
+        <trigger offset="110" length="9">President</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-138" offset="14" length="4">glyn</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-760">
+        <trigger offset="344" length="8">American</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-138" offset="14" length="4">glyn</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-770">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-138" offset="14" length="4">glyn</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-780">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-444" offset="495" length="20">Officer of Engineers</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-820">
+        <trigger offset="1854" length="3">was</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-522" offset="1560" length="8">Bluesman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-870">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-940">
+        <trigger offset="3020" length="3">was</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-790">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-456" offset="754" length="3">Ray</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1287">
+        <trigger offset="821" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-456" offset="754" length="3">Ray</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-800">
+        <trigger offset="1193" length="5">staff</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-462" offset="904" length="6">gunnut</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-810">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-462" offset="904" length="6">gunnut</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-830">
+        <trigger offset="2527" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-552" offset="2318" length="3">Jay</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-840">
+        <trigger offset="2783" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-850">
+        <trigger offset="2818" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-860">
+        <trigger offset="2825" length="7">Pacific</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-880">
+        <trigger offset="3050" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-890">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-900">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-910">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-920">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-930">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-956">
+        <trigger offset="145" length="4">died</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-138" offset="14" length="4">glyn</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-162" offset="105" length="35">
+            <text>38th President of the United States</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-138" offset="14" length="4">glyn</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1245">
+        <trigger offset="668" length="4">lost</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-450" offset="605" length="11">Dreadnought</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-210" offset="673" length="10">
+            <text>a good man</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-450" offset="605" length="11">Dreadnought</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1266">
+        <trigger offset="697" length="4">lost</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-450" offset="605" length="11">Dreadnought</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-216" offset="702" length="16">
+            <text>a good president</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-450" offset="605" length="11">Dreadnought</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-977">
+        <trigger offset="398" length="9">pardoning</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-138" offset="14" length="4">glyn</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-198" offset="388" length="3">
+            <text>him</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-138" offset="14" length="4">glyn</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-432" offset="418" length="5">
+            <text>Nixon</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-138" offset="14" length="4">glyn</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-998">
+        <trigger offset="2435" length="6">pardon</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-552" offset="2318" length="3">Jay</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-360" offset="2442" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-552" offset="2318" length="3">Jay</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-438" offset="2453" length="5">
+            <text>Nixon</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-552" offset="2318" length="3">Jay</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1019">
+        <trigger offset="3065" length="6">during</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-402" offset="3017" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1079" offset="3038" length="11">
+            <text>park ranger</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-714" offset="3053" length="11">
+            <text>Yellowstone</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1093" offset="3086" length="4">
+            <text>1936</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1040">
+        <trigger offset="3065" length="6">during</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-402" offset="3017" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1100" offset="3038" length="11">
+            <text>park ranger</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-714" offset="3053" length="11">
+            <text>Yellowstone</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1114" offset="3086" length="4">
+            <text>1936</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-570" offset="2660" length="8">Rifleman</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1192">
+        <trigger offset="182" length="7">elected</trigger>
+        <beliefs>
+          <belief type="cb" polarity="neg" sarcasm="no">
+            <source ere_id="m-138" offset="14" length="4">glyn</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-174" offset="172" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="neg" sarcasm="no">
+                <source ere_id="m-138" offset="14" length="4">glyn</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1217" offset="110" length="9">
+            <text>President</text>
+            <beliefs>
+              <belief type="cb" polarity="neg" sarcasm="no">
+                <source ere_id="m-138" offset="14" length="4">glyn</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1220">
+        <trigger offset="335" length="8">visiting</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-138" offset="14" length="4">glyn</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-426" offset="335" length="29">
+            <text>visiting American politicians</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-138" offset="14" length="4">glyn</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1297">
+        <trigger offset="2080" length="5">leave</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-534" offset="1933" length="8">bonehead</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-330" offset="2076" length="3">
+            <text>him</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-534" offset="1933" length="8">bonehead</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1322" offset="2086" length="9">
+            <text>his plane</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-534" offset="1933" length="8">bonehead</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1340">
+        <trigger offset="1403" length="4">post</trigger>
+        <beliefs>
+          <belief type="rob" polarity="pos" sarcasm="no">
+            <source ere_id="m-462" offset="904" length="6">gunnut</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-294" offset="1387" length="4">
+            <text>Ford</text>
+            <beliefs>
+              <belief type="rob" polarity="pos" sarcasm="no">
+                <source ere_id="m-462" offset="904" length="6">gunnut</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1367" offset="1408" length="9">
+            <text>president</text>
+            <beliefs>
+              <belief type="rob" polarity="pos" sarcasm="no">
+                <source ere_id="m-462" offset="904" length="6">gunnut</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1372">
+        <trigger offset="1522" length="4">post</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-462" offset="904" length="6">gunnut</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-516" offset="1498" length="8">
+            <text>GHW Bush</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-462" offset="904" length="6">gunnut</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1397" offset="1527" length="9">
+            <text>president</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-462" offset="904" length="6">gunnut</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-192" offset="255" length="46">
+        <text>a nice man who could still take hard decisions</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-138" offset="14" length="4">glyn</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-210" offset="673" length="10">
+        <text>a good man</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-450" offset="605" length="11">Dreadnought</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-216" offset="702" length="16">
+        <text>a good president</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-450" offset="605" length="11">Dreadnought</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-222" offset="727" length="3">
+        <text>Sir</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-450" offset="605" length="11">Dreadnought</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-324" offset="2017" length="28">
+        <text>this fine man whom I respect</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-534" offset="1933" length="8">bonehead</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-330" offset="2076" length="3">
+        <text>him</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-534" offset="1933" length="8">bonehead</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-336" offset="2086" length="3">
+        <text>his</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-534" offset="1933" length="8">bonehead</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-342" offset="2202" length="3">
+        <text>him</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-534" offset="1933" length="8">bonehead</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1132" offset="1396" length="21">
+        <text>a good post-president</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-462" offset="904" length="6">gunnut</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1138" offset="1515" length="21">
+        <text>a good post-president</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-462" offset="904" length="6">gunnut</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events>
+      <event ere_id="em-1245">
+        <trigger offset="668" length="4">lost</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-450" offset="605" length="11">Dreadnought</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1266">
+        <trigger offset="697" length="4">lost</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-450" offset="605" length="11">Dreadnought</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-977">
+        <trigger offset="398" length="9">pardoning</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-138" offset="14" length="4">glyn</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

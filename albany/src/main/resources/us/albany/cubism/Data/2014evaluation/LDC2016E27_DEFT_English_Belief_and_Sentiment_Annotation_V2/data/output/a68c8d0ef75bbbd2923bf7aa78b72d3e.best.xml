@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="a68c8d0ef75bbbd2923bf7aa78b72d3e.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-39" length="12" offset="387">
+        <text>FAYETTEVILLE</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-33" length="14" offset="14">sinkingfeeling</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-84" length="9" offset="466">
+        <text>a student</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="14" offset="14">sinkingfeeling</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-99" length="3" offset="512">
+        <text>his</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-33" length="14" offset="14">sinkingfeeling</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-135" length="2" offset="590">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="14" offset="14">sinkingfeeling</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-159" length="2" offset="697">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-33" length="14" offset="14">sinkingfeeling</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-165" length="3" offset="761">
+        <text>his</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-33" length="14" offset="14">sinkingfeeling</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-183" length="3" offset="806">
+        <text>his</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-33" length="14" offset="14">sinkingfeeling</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-189" length="16" offset="817">
+        <text>a shooting range</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-33" length="14" offset="14">sinkingfeeling</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-207" length="2" offset="926">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-198" length="15" offset="857">DollarBillHines</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-213" length="5" offset="996">
+        <text>idiot</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-198" length="15" offset="857">DollarBillHines</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-234" length="9" offset="1136">
+        <text>the range</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-198" length="15" offset="857">DollarBillHines</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-255" length="7" offset="1317">
+        <text>someone</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-246" length="8" offset="1253">rurallib</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-282" length="2" offset="1465">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-267" length="7" offset="1405">bossy22</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

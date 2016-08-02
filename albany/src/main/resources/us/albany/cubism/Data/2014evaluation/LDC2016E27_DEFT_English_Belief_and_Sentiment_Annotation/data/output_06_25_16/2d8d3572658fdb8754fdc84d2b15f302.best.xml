@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="2d8d3572658fdb8754fdc84d2b15f302.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-470" length="3" offset="554">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="7" offset="148">JoeB131</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-545" length="28" offset="1399">
+        <text>guys more qualified than you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-117" length="1" offset="1361">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-545" length="28" offset="1399">
+        <text>guys more qualified than you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-539" length="3" offset="1372">you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-569" length="12" offset="1479">
+        <text>Trade School</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-87" length="7" offset="86">Intense</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-812" length="14" offset="3138">
+        <text>poor Americans</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-219" length="9" offset="1918">sealybobo</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-902" length="4" offset="3753">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-219" length="9" offset="1918">sealybobo</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

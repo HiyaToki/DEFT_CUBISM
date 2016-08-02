@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="0fe5904ced20c20537fe29c1db11cd28.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-336" length="8" offset="758">
+        <text>Lebanese</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-90" length="8" offset="14">Canmoore</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-366" length="6" offset="930">
+        <text>Canada</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-342" length="6" offset="903">Quebec</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-366" length="6" offset="930">
+        <text>Canada</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-752" length="4" offset="944">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-758" length="10" offset="970">
+        <text>terrorists</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-752" length="4" offset="944">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-444" length="9" offset="1072">
+        <text>the world</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-773" length="4" offset="1022">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-779" length="10" offset="1108">
+        <text>terrorists</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-294" length="4" offset="1097">Bloc</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-402" length="6" offset="1137">
+        <text>Canada</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-294" length="4" offset="1097">Bloc</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-827" length="15" offset="1156">
+        <text>the Seperatists</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-294" length="4" offset="1097">Bloc</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-372" length="6" offset="1333">
+        <text>Canada</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-800" length="3" offset="1321">you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1198" length="9" offset="1469">
+        <text>Quebecers</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-144" length="1" offset="1441">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-869" length="20" offset="1582">
+        <text>the mainstream media</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-812" length="4" offset="1559">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-234" length="9" offset="1616">
+        <text>Canadians</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-812" length="4" offset="1559">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-812" length="4" offset="1559">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-138" length="6" offset="1388">gunnut</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1050" length="4" offset="2183">
+        <text>here</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-180" length="4" offset="2168">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-390" length="6" offset="2191">
+        <text>Canada</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-180" length="4" offset="2168">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-438" length="11" offset="2278">
+        <text>Mississauga</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-228" length="2" offset="2256">he</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-456" length="20" offset="2276">
+        <text>a Mississauga mosque</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-228" length="2" offset="2256">he</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-216" length="15" offset="2211">
+        <text>the ring leader</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-186" length="8" offset="1874">Canmoore</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

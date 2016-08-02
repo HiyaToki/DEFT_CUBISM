@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20090706.0127">
+  <document DOCID="AFP_ENG_20090706.0127">
+
+    <entity ID="AFP_ENG_20090706.0127-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090706.0127-E0-M4" ROLE="GPE">
+          <extent>
+              <charseq START="69" END="70">US</charseq>
+          </extent>
+          <head>
+              <charseq START="69" END="70">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090706.0127-E0-M300" ROLE="ORG">
+          <extent>
+              <charseq START="185" END="211">The United States on Monday</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="201">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="69" END="70">US</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="189" END="201">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090706.0127-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090706.0127-E1-M7" ROLE="LOC">
+          <extent>
+              <charseq START="99" END="106">Honduras</charseq>
+          </extent>
+          <head>
+              <charseq START="99" END="106">Honduras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090706.0127-E1-M309" ROLE="LOC">
+          <extent>
+              <charseq START="266" END="273">Honduras</charseq>
+          </extent>
+          <head>
+              <charseq START="266" END="273">Honduras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090706.0127-E1-M311" ROLE="LOC">
+          <extent>
+              <charseq START="285" END="307">the de facto government</charseq>
+          </extent>
+          <head>
+              <charseq START="298" END="307">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Honduras">
+              <charseq START="99" END="106">Honduras</charseq>
+          </name>
+          <name NAME="Honduras">
+              <charseq START="266" END="273">Honduras</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090706.0127-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090706.0127-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="131" END="140">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="140">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="131" END="140">WASHINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090706.0127-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090706.0127-E3-M200">
+          <extent>
+              <charseq START="157" END="159">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="157" END="159">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="157" END="159">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090706.0127-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090706.0127-E4-M307">
+          <extent>
+              <charseq START="249" END="273">demonstrators in
+Honduras</charseq>
+          </extent>
+          <head>
+              <charseq START="249" END="261">demonstrators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090706.0127-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090706.0127-E5-M313">
+          <extent>
+              <charseq START="313" END="335">other political players</charseq>
+          </extent>
+          <head>
+              <charseq START="329" END="335">players</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20090706.0127-T0" VAL="2009-07-06">
+        <timex2_mention ID="AFP_ENG_20090706.0127-T0-M1">
+            <extent>
+              <charseq START="143" END="154">July 6, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090706.0127-T1" VAL="2009-07-06">
+        <timex2_mention ID="AFP_ENG_20090706.0127-T1-M1">
+            <extent>
+              <charseq START="206" END="211">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20090706.0127-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090706.0127-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090706.0127-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090706.0127-R0-M300">
+          <extent>
+              <charseq START="249" END="273">demonstrators in
+Honduras</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090706.0127-E4-M307" ROLE="Arg-1">
+            <extent>
+              <charseq START="249" END="273">demonstrators in
+Honduras</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090706.0127-E1-M309" ROLE="Arg-2">
+            <extent>
+              <charseq START="266" END="273">Honduras</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

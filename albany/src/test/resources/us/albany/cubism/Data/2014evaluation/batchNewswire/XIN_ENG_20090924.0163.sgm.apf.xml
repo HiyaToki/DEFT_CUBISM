@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20090924.0163">
+  <document DOCID="XIN_ENG_20090924.0163">
+
+    <entity ID="XIN_ENG_20090924.0163-E0" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="59">EU</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="59">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="EU">
+              <charseq START="58" END="59">EU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E1" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E1-M4">
+          <extent>
+              <charseq START="85" END="93">Rio Group</charseq>
+          </extent>
+          <head>
+              <charseq START="85" END="93">Rio Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E1-M304">
+          <extent>
+              <charseq START="238" END="250">the Rio Group</charseq>
+          </extent>
+          <head>
+              <charseq START="242" END="250">Rio Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E1-M607">
+          <extent>
+              <charseq START="855" END="867">the Rio Group</charseq>
+          </extent>
+          <head>
+              <charseq START="859" END="867">Rio Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E1-M704">
+          <extent>
+              <charseq START="1007" END="1019">the Rio Group</charseq>
+          </extent>
+          <head>
+              <charseq START="1011" END="1019">Rio Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rio Group">
+              <charseq START="85" END="93">Rio Group</charseq>
+          </name>
+          <name NAME="Rio Group">
+              <charseq START="242" END="250">Rio Group</charseq>
+          </name>
+          <name NAME="Rio Group">
+              <charseq START="859" END="867">Rio Group</charseq>
+          </name>
+          <name NAME="Rio Group">
+              <charseq START="1011" END="1019">Rio Group</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E2-M7" ROLE="LOC">
+          <extent>
+              <charseq START="111" END="118">Honduras</charseq>
+          </extent>
+          <head>
+              <charseq START="111" END="118">Honduras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E2-M310" ROLE="LOC">
+          <extent>
+              <charseq START="301" END="308">Honduras</charseq>
+          </extent>
+          <head>
+              <charseq START="301" END="308">Honduras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E2-M512">
+          <extent>
+              <charseq START="745" END="752">Honduras</charseq>
+          </extent>
+          <head>
+              <charseq START="745" END="752">Honduras</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090924.0163-E2-M618" ROLE="ORG">
+          <extent>
+              <charseq START="950" END="963">his government</charseq>
+          </extent>
+          <head>
+              <charseq START="954" END="963">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Honduras">
+              <charseq START="111" END="118">Honduras</charseq>
+          </name>
+          <name NAME="Honduras">
+              <charseq START="301" END="308">Honduras</charseq>
+          </name>
+          <name NAME="Honduras">
+              <charseq START="745" END="752">Honduras</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="143" END="151">STOCKHOLM</charseq>
+          </extent>
+          <head>
+              <charseq START="143" END="151">STOCKHOLM</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="STOCKHOLM">
+              <charseq START="143" END="151">STOCKHOLM</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E4-M200">
+          <extent>
+              <charseq START="164" END="169">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="164" END="169">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="164" END="169">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E5" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E5-M302" ROLE="GPE">
+          <extent>
+              <charseq START="199" END="212">European Union</charseq>
+          </extent>
+          <head>
+              <charseq START="199" END="212">European Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E5-M415">
+          <extent>
+              <charseq START="503" END="508">the EU</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="508">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E5-M707">
+          <extent>
+              <charseq START="1051" END="1052">EU</charseq>
+          </extent>
+          <head>
+              <charseq START="1051" END="1052">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Union">
+              <charseq START="199" END="212">European Union</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="507" END="508">EU</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="1051" END="1052">EU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E6-M408">
+          <extent>
+              <charseq START="434" END="454">the Embassy of Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="438" END="454">Embassy of Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Embassy of Brazil">
+              <charseq START="438" END="454">Embassy of Brazil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E7-M410" ROLE="LOC">
+          <extent>
+              <charseq START="459" END="469">Tegucigalpa</charseq>
+          </extent>
+          <head>
+              <charseq START="459" END="469">Tegucigalpa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tegucigalpa">
+              <charseq START="459" END="469">Tegucigalpa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E8-M411">
+          <extent>
+              <charseq START="473" END="531">Sweden,
+which currently holds the EU&apos;s rotating presidency,</charseq>
+          </extent>
+          <head>
+              <charseq START="473" END="478">Sweden</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090924.0163-E8-M413">
+          <extent>
+              <charseq START="481" END="485">which</charseq>
+          </extent>
+          <head>
+              <charseq START="481" END="485">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sweden">
+              <charseq START="473" END="478">Sweden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E9-M506" ROLE="GPE">
+          <extent>
+              <charseq START="685" END="690">Vienna</charseq>
+          </extent>
+          <head>
+              <charseq START="685" END="690">Vienna</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vienna">
+              <charseq START="685" END="690">Vienna</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E10" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090924.0163-E10-M502">
+          <extent>
+              <charseq START="585" END="603">diplomatic premises</charseq>
+          </extent>
+          <head>
+              <charseq START="596" END="603">premises</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090924.0163-E11-M611">
+          <extent>
+              <charseq START="906" END="921">President Zelaya</charseq>
+          </extent>
+          <head>
+              <charseq START="916" END="921">Zelaya</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090924.0163-E11-M612">
+          <extent>
+              <charseq START="906" END="914">President</charseq>
+          </extent>
+          <head>
+              <charseq START="906" END="914">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090924.0163-E11-M616">
+          <extent>
+              <charseq START="924" END="926">his</charseq>
+          </extent>
+          <head>
+              <charseq START="924" END="926">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090924.0163-E11-M619">
+          <extent>
+              <charseq START="950" END="952">his</charseq>
+          </extent>
+          <head>
+              <charseq START="950" END="952">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zelaya">
+              <charseq START="916" END="921">Zelaya</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090924.0163-E12-M615">
+          <extent>
+              <charseq START="924" END="933">his family</charseq>
+          </extent>
+          <head>
+              <charseq START="928" END="933">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090924.0163-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090924.0163-E13-M617">
+          <extent>
+              <charseq START="939" END="945">members</charseq>
+          </extent>
+          <head>
+              <charseq START="939" END="945">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20090924.0163-T0" VAL="2009-09-23">
+        <timex2_mention ID="XIN_ENG_20090924.0163-T0-M1">
+            <extent>
+              <charseq START="154" END="161">Sept. 23</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090924.0163-T1" VAL="2009-09-23">
+        <timex2_mention ID="XIN_ENG_20090924.0163-T1-M1">
+            <extent>
+              <charseq START="214" END="222">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090924.0163-T2" VAL="2009-09-22">
+        <timex2_mention ID="XIN_ENG_20090924.0163-T2-M1">
+            <extent>
+              <charseq START="313" END="319">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090924.0163-T3" VAL="PRESENT_REF" ANCHOR_VAL="2009-09-24" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20090924.0163-T3-M1">
+            <extent>
+              <charseq START="487" END="495">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090924.0163-T4" VAL="1961">
+        <timex2_mention ID="XIN_ENG_20090924.0163-T4-M1">
+            <extent>
+              <charseq START="730" END="733">1961</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20090924.0163-R0" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090924.0163-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090924.0163-E12" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090924.0163-R0-M600">
+          <extent>
+              <charseq START="924" END="926">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090924.0163-E11-M616" ROLE="Arg-1">
+            <extent>
+              <charseq START="924" END="926">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090924.0163-E12-M615" ROLE="Arg-2">
+            <extent>
+              <charseq START="924" END="933">his family</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090924.0163-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090924.0163-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090924.0163-E2" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090924.0163-R1-M601">
+          <extent>
+              <charseq START="924" END="933">his family</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090924.0163-E12-M615" ROLE="Arg-1">
+            <extent>
+              <charseq START="924" END="933">his family</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090924.0163-E2-M618" ROLE="Arg-2">
+            <extent>
+              <charseq START="950" END="963">his government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090924.0163-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090924.0163-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090924.0163-E2" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090924.0163-R2-M602">
+          <extent>
+              <charseq START="939" END="945">members</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090924.0163-E13-M617" ROLE="Arg-1">
+            <extent>
+              <charseq START="939" END="945">members</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090924.0163-E2-M618" ROLE="Arg-2">
+            <extent>
+              <charseq START="950" END="963">his government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090924.0163-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090924.0163-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090924.0163-E2" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090924.0163-R3-M603">
+          <extent>
+              <charseq START="950" END="952">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090924.0163-E11-M619" ROLE="Arg-1">
+            <extent>
+              <charseq START="950" END="952">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090924.0163-E2-M618" ROLE="Arg-2">
+            <extent>
+              <charseq START="950" END="963">his government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

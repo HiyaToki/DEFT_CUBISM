@@ -1,0 +1,538 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091012.0222">
+  <document DOCID="XIN_ENG_20091012.0222">
+
+    <entity ID="XIN_ENG_20091012.0222-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="64">Austria</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">Austria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E0-M302" ROLE="GPE">
+          <extent>
+              <charseq START="184" END="191">Austrian</charseq>
+          </extent>
+          <head>
+              <charseq START="184" END="191">Austrian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Austria">
+              <charseq START="58" END="64">Austria</charseq>
+          </name>
+          <name NAME="Austrian">
+              <charseq START="184" END="191">Austrian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E1-M4">
+          <extent>
+              <charseq START="93" END="107">Turkey, Armenia</charseq>
+          </extent>
+          <head>
+              <charseq START="93" END="98">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E1-M309">
+          <extent>
+              <charseq START="250" END="255">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="250" END="255">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E1-M404" ROLE="GPE">
+          <extent>
+              <charseq START="426" END="431">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="426" END="431">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E1-M612">
+          <extent>
+              <charseq START="892" END="897">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="892" END="897">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E1-M802">
+          <extent>
+              <charseq START="1039" END="1044">Turkey</charseq>
+          </extent>
+          <head>
+              <charseq START="1039" END="1044">Turkey</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Turkey">
+              <charseq START="93" END="98">Turkey</charseq>
+          </name>
+          <name NAME="Turkey">
+              <charseq START="250" END="255">Turkey</charseq>
+          </name>
+          <name NAME="Turkey">
+              <charseq START="426" END="431">Turkey</charseq>
+          </name>
+          <name NAME="Turkey">
+              <charseq START="892" END="897">Turkey</charseq>
+          </name>
+          <name NAME="Turkey">
+              <charseq START="1039" END="1044">Turkey</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E2-M6" ROLE="LOC">
+          <extent>
+              <charseq START="101" END="107">Armenia</charseq>
+          </extent>
+          <head>
+              <charseq START="101" END="107">Armenia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E2-M310">
+          <extent>
+              <charseq START="261" END="267">Armenia</charseq>
+          </extent>
+          <head>
+              <charseq START="261" END="267">Armenia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E2-M405" ROLE="GPE">
+          <extent>
+              <charseq START="437" END="443">Armenia</charseq>
+          </extent>
+          <head>
+              <charseq START="437" END="443">Armenia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E2-M613">
+          <extent>
+              <charseq START="903" END="909">Armenia</charseq>
+          </extent>
+          <head>
+              <charseq START="903" END="909">Armenia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E2-M801">
+          <extent>
+              <charseq START="1027" END="1033">Armenia</charseq>
+          </extent>
+          <head>
+              <charseq START="1027" END="1033">Armenia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E2-M804" ROLE="ORG">
+          <extent>
+              <charseq START="1092" END="1098">Armenia</charseq>
+          </extent>
+          <head>
+              <charseq START="1092" END="1098">Armenia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091012.0222-E2-M807">
+          <extent>
+              <charseq START="1109" END="1111">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1109" END="1111">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Armenia">
+              <charseq START="101" END="107">Armenia</charseq>
+          </name>
+          <name NAME="Armenia">
+              <charseq START="261" END="267">Armenia</charseq>
+          </name>
+          <name NAME="Armenia">
+              <charseq START="437" END="443">Armenia</charseq>
+          </name>
+          <name NAME="Armenia">
+              <charseq START="903" END="909">Armenia</charseq>
+          </name>
+          <name NAME="Armenia">
+              <charseq START="1027" END="1033">Armenia</charseq>
+          </name>
+          <name NAME="Armenia">
+              <charseq START="1092" END="1098">Armenia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="132" END="137">VIENNA</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="137">VIENNA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="VIENNA">
+              <charseq START="132" END="137">VIENNA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E4-M200">
+          <extent>
+              <charseq START="149" END="154">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="149" END="154">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="149" END="154">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E5-M314">
+          <extent>
+              <charseq START="314" END="350">Foreign Minister Michael
+Spindelegger</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="350">Michael
+Spindelegger</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091012.0222-E5-M316">
+          <extent>
+              <charseq START="322" END="329">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="322" END="329">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E5-M417">
+          <extent>
+              <charseq START="559" END="570">Spindelegger</charseq>
+          </extent>
+          <head>
+              <charseq START="559" END="570">Spindelegger</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091012.0222-E5-M512">
+          <extent>
+              <charseq START="758" END="759">he</charseq>
+          </extent>
+          <head>
+              <charseq START="758" END="759">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael
+Spindelegger">
+              <charseq START="331" END="350">Michael
+Spindelegger</charseq>
+          </name>
+          <name NAME="Spindelegger">
+              <charseq START="559" END="570">Spindelegger</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E6" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E6-M406">
+          <extent>
+              <charseq START="448" END="464">Zurich
+University</charseq>
+          </extent>
+          <head>
+              <charseq START="448" END="464">Zurich
+University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Zurich
+University">
+              <charseq START="448" END="464">Zurich
+University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091012.0222-E7-M401">
+          <extent>
+              <charseq START="401" END="443">the foreign ministers of Turkey and Armenia</charseq>
+          </extent>
+          <head>
+              <charseq START="413" END="421">ministers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091012.0222-E7-M416">
+          <extent>
+              <charseq START="538" END="542">their</charseq>
+          </extent>
+          <head>
+              <charseq START="538" END="542">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091012.0222-E8-M502">
+          <extent>
+              <charseq START="601" END="610">both sides</charseq>
+          </extent>
+          <head>
+              <charseq START="606" END="610">sides</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E10" TYPE="LOC" SUBTYPE="Boundary" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091012.0222-E10-M606">
+          <extent>
+              <charseq START="830" END="836">borders</charseq>
+          </extent>
+          <head>
+              <charseq START="830" END="836">borders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091012.0222-E11-M701">
+          <extent>
+              <charseq START="958" END="987">the two countries&apos; parliaments</charseq>
+          </extent>
+          <head>
+              <charseq START="977" END="987">parliaments</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091012.0222-E12-M702">
+          <extent>
+              <charseq START="958" END="974">the two countries</charseq>
+          </extent>
+          <head>
+              <charseq START="966" END="974">countries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091012.0222-E12-M703">
+          <extent>
+              <charseq START="996" END="999">they</charseq>
+          </extent>
+          <head>
+              <charseq START="996" END="999">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E13-M808" ROLE="LOC">
+          <extent>
+              <charseq START="1131" END="1153">the former Soviet Union</charseq>
+          </extent>
+          <head>
+              <charseq START="1142" END="1153">Soviet Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Soviet Union">
+              <charseq START="1142" END="1153">Soviet Union</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091012.0222-E14-M910" ROLE="GPE">
+          <extent>
+              <charseq START="1255" END="1261">Ottoman</charseq>
+          </extent>
+          <head>
+              <charseq START="1255" END="1261">Ottoman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ottoman">
+              <charseq START="1255" END="1261">Ottoman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091012.0222-E15-M900">
+          <extent>
+              <charseq START="1164" END="1180">The two
+neighbors</charseq>
+          </extent>
+          <head>
+              <charseq START="1172" END="1180">neighbors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091012.0222-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091012.0222-E16-M908">
+          <extent>
+              <charseq START="1239" END="1247">Armenians</charseq>
+          </extent>
+          <head>
+              <charseq START="1239" END="1247">Armenians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091012.0222-T0" VAL="2009-10-12">
+        <timex2_mention ID="XIN_ENG_20091012.0222-T0-M1">
+            <extent>
+              <charseq START="140" END="146">Oct. 12</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091012.0222-T1" VAL="2009-10-12">
+        <timex2_mention ID="XIN_ENG_20091012.0222-T1-M1">
+            <extent>
+              <charseq START="360" END="365">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091012.0222-T2" VAL="2009-10-10TEV">
+        <timex2_mention ID="XIN_ENG_20091012.0222-T2-M1">
+            <extent>
+              <charseq START="469" END="484">Saturday evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091012.0222-T3" VAL="PAST_REF" ANCHOR_VAL="2009-10-12" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20091012.0222-T3-M1">
+            <extent>
+              <charseq START="1135" END="1140">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091012.0222-T4" VAL="1991">
+        <timex2_mention ID="XIN_ENG_20091012.0222-T4-M1">
+            <extent>
+              <charseq START="1158" END="1161">1991</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20091012.0222-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091012.0222-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091012.0222-E2" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091012.0222-R0-M0">
+          <extent>
+              <charseq START="93" END="107">Turkey, Armenia</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E1-M4" ROLE="Arg-1">
+            <extent>
+              <charseq START="93" END="107">Turkey, Armenia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E2-M6" ROLE="Arg-2">
+            <extent>
+              <charseq START="101" END="107">Armenia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091012.0222-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091012.0222-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091012.0222-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091012.0222-R1-M400">
+          <extent>
+              <charseq START="401" END="443">the foreign ministers of Turkey and Armenia</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E7-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="401" END="443">the foreign ministers of Turkey and Armenia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E1-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="426" END="431">Turkey</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091012.0222-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091012.0222-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091012.0222-E2" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091012.0222-R2-M401">
+          <extent>
+              <charseq START="401" END="443">the foreign ministers of Turkey and Armenia</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E7-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="401" END="443">the foreign ministers of Turkey and Armenia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E2-M405" ROLE="Arg-2">
+            <extent>
+              <charseq START="437" END="443">Armenia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091012.0222-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091012.0222-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091012.0222-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091012.0222-R3-M402">
+          <extent>
+              <charseq START="401" END="443">the foreign ministers of Turkey and Armenia</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E7-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="401" END="443">the foreign ministers of Turkey and Armenia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E6-M406" ROLE="Arg-2">
+            <extent>
+              <charseq START="448" END="464">Zurich
+University</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091012.0222-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091012.0222-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091012.0222-E12" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091012.0222-R4-M700">
+          <extent>
+              <charseq START="958" END="987">the two countries&apos; parliaments</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E11-M701" ROLE="Arg-1">
+            <extent>
+              <charseq START="958" END="987">the two countries&apos; parliaments</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091012.0222-E12-M702" ROLE="Arg-2">
+            <extent>
+              <charseq START="958" END="974">the two countries</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

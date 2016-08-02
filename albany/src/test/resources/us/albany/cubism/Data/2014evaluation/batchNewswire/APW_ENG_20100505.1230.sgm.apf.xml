@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100505.1230">
+  <document DOCID="APW_ENG_20100505.1230">
+
+    <entity ID="APW_ENG_20100505.1230-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E0-M0">
+          <extent>
+              <charseq START="58" END="66">Deschamps</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="66">Deschamps</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E0-M200">
+          <extent>
+              <charseq START="183" END="198">Didier Deschamps</charseq>
+          </extent>
+          <head>
+              <charseq START="183" END="198">Didier Deschamps</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100505.1230-E0-M201">
+          <extent>
+              <charseq START="203" END="218">the prodigal son</charseq>
+          </extent>
+          <head>
+              <charseq START="216" END="218">son</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E0-M300">
+          <extent>
+              <charseq START="273" END="281">Deschamps</charseq>
+          </extent>
+          <head>
+              <charseq START="273" END="281">Deschamps</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100505.1230-E0-M301">
+          <extent>
+              <charseq START="287" END="356">a key player on the last Marseille team to win the French league title</charseq>
+          </extent>
+          <head>
+              <charseq START="293" END="298">player</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E0-M402">
+          <extent>
+              <charseq START="411" END="419">Deschamps</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="419">Deschamps</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E0-M600">
+          <extent>
+              <charseq START="725" END="733">Deschamps</charseq>
+          </extent>
+          <head>
+              <charseq START="725" END="733">Deschamps</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Deschamps">
+              <charseq START="58" END="66">Deschamps</charseq>
+          </name>
+          <name NAME="Didier Deschamps">
+              <charseq START="183" END="198">Didier Deschamps</charseq>
+          </name>
+          <name NAME="Deschamps">
+              <charseq START="273" END="281">Deschamps</charseq>
+          </name>
+          <name NAME="Deschamps">
+              <charseq START="411" END="419">Deschamps</charseq>
+          </name>
+          <name NAME="Deschamps">
+              <charseq START="725" END="733">Deschamps</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E1-M3">
+          <extent>
+              <charseq START="97" END="105">Marseille</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="105">Marseille</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E1-M202">
+          <extent>
+              <charseq START="220" END="228">Marseille</charseq>
+          </extent>
+          <head>
+              <charseq START="220" END="228">Marseille</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E1-M305" ROLE="GPE">
+          <extent>
+              <charseq START="312" END="320">Marseille</charseq>
+          </extent>
+          <head>
+              <charseq START="312" END="320">Marseille</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E1-M408" ROLE="LOC">
+          <extent>
+              <charseq START="467" END="481">guide Marseille</charseq>
+          </extent>
+          <head>
+              <charseq START="473" END="481">Marseille</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100505.1230-E1-M409">
+          <extent>
+              <charseq START="467" END="471">guide</charseq>
+          </extent>
+          <head>
+              <charseq START="467" END="471">guide</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100505.1230-E1-M412">
+          <extent>
+              <charseq START="486" END="488">its</charseq>
+          </extent>
+          <head>
+              <charseq START="486" END="488">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E1-M603">
+          <extent>
+              <charseq START="790" END="798">Marseille</charseq>
+          </extent>
+          <head>
+              <charseq START="790" END="798">Marseille</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marseille">
+              <charseq START="97" END="105">Marseille</charseq>
+          </name>
+          <name NAME="Marseille">
+              <charseq START="220" END="228">Marseille</charseq>
+          </name>
+          <name NAME="Marseille">
+              <charseq START="312" END="320">Marseille</charseq>
+          </name>
+          <name NAME="Marseille">
+              <charseq START="473" END="481">Marseille</charseq>
+          </name>
+          <name NAME="Marseille">
+              <charseq START="790" END="798">Marseille</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E2" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100505.1230-E2-M1">
+          <extent>
+              <charseq START="75" END="80">league</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="80">league</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E3-M101" ROLE="GPE">
+          <extent>
+              <charseq START="130" END="134">PARIS</charseq>
+          </extent>
+          <head>
+              <charseq START="130" END="134">PARIS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PARIS">
+              <charseq START="130" END="134">PARIS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100505.1230-E4-M203">
+          <extent>
+              <charseq START="250" END="261">welcome home</charseq>
+          </extent>
+          <head>
+              <charseq START="258" END="261">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E5-M307" ROLE="GPE">
+          <extent>
+              <charseq START="338" END="343">French</charseq>
+          </extent>
+          <head>
+              <charseq START="338" END="343">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="338" END="343">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E6" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100505.1230-E6-M303">
+          <extent>
+              <charseq START="303" END="356">the last Marseille team to win the French league title</charseq>
+          </extent>
+          <head>
+              <charseq START="322" END="325">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E7-M417">
+          <extent>
+              <charseq START="519" END="531">Saint-Etienne</charseq>
+          </extent>
+          <head>
+              <charseq START="519" END="531">Saint-Etienne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100505.1230-E7-M404">
+          <extent>
+              <charseq START="437" END="461">coach in his first season</charseq>
+          </extent>
+          <head>
+              <charseq START="437" END="441">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100505.1230-E7-M407">
+          <extent>
+              <charseq START="446" END="448">his</charseq>
+          </extent>
+          <head>
+              <charseq START="446" END="448">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Saint-Etienne">
+              <charseq START="519" END="531">Saint-Etienne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E8" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E8-M502">
+          <extent>
+              <charseq START="556" END="568">Mediterranean</charseq>
+          </extent>
+          <head>
+              <charseq START="556" END="568">Mediterranean</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mediterranean">
+              <charseq START="556" END="568">Mediterranean</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E9-M511">
+          <extent>
+              <charseq START="686" END="705">the Champions League</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="705">Champions League</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Champions League">
+              <charseq START="690" END="705">Champions League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100505.1230-E10-M500">
+          <extent>
+              <charseq START="552" END="713">The Mediterranean city, whose supporters are known for their passion for football, had been waiting for some silverware since winning the Champions League in 1993</charseq>
+          </extent>
+          <head>
+              <charseq START="570" END="573">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100505.1230-E10-M503">
+          <extent>
+              <charseq START="576" END="580">whose</charseq>
+          </extent>
+          <head>
+              <charseq START="576" END="580">whose</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100505.1230-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100505.1230-E11-M607">
+          <extent>
+              <charseq START="835" END="842">Bordeaux</charseq>
+          </extent>
+          <head>
+              <charseq START="835" END="842">Bordeaux</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bordeaux">
+              <charseq START="835" END="842">Bordeaux</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100505.1230-T0" VAL="2010-05-05-05">
+        <timex2_mention ID="APW_ENG_20100505.1230-T0-M1">
+            <extent>
+              <charseq START="136" END="145">2010-05-05</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100505.1230-T1" VAL="PAST_REF" ANCHOR_VAL="2010-05-05" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="APW_ENG_20100505.1230-T1-M1">
+            <extent>
+              <charseq START="307" END="310">last</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100505.1230-T2" VAL="1992">
+        <timex2_mention ID="APW_ENG_20100505.1230-T2-M1">
+            <extent>
+              <charseq START="362" END="365">1992</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100505.1230-T3">
+        <timex2_mention ID="APW_ENG_20100505.1230-T3-M1">
+            <extent>
+              <charseq START="446" END="461">his first season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100505.1230-T4" VAL="1993">
+        <timex2_mention ID="APW_ENG_20100505.1230-T4-M1">
+            <extent>
+              <charseq START="710" END="713">1993</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100505.1230-T5" VAL="2010-03">
+        <timex2_mention ID="APW_ENG_20100505.1230-T5-M1">
+            <extent>
+              <charseq START="847" END="851">March</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100505.1230-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100505.1230-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100505.1230-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100505.1230-R0-M300">
+          <extent>
+              <charseq START="303" END="356">the last Marseille team to win the French league title</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100505.1230-E6-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="303" END="356">the last Marseille team to win the French league title</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100505.1230-E1-M305" ROLE="Arg-2">
+            <extent>
+              <charseq START="312" END="320">Marseille</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100505.1230-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100505.1230-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100505.1230-E8" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100505.1230-R1-M500">
+          <extent>
+              <charseq START="552" END="713">The Mediterranean city, whose supporters are known for their passion for football, had been waiting for some silverware since winning the Champions League in 1993</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100505.1230-E10-M500" ROLE="Arg-1">
+            <extent>
+              <charseq START="552" END="713">The Mediterranean city, whose supporters are known for their passion for football, had been waiting for some silverware since winning the Champions League in 1993</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100505.1230-E8-M502" ROLE="Arg-2">
+            <extent>
+              <charseq START="556" END="568">Mediterranean</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-5654c6660000000000000010">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-183">
+        <trigger offset="465" length="6">out of</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-129" offset="274" length="11">magic moose</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-193">
+        <trigger offset="752" length="6">out of</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-75" offset="624" length="8">Pavilion</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-272">
+        <trigger offset="828" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-75" offset="624" length="8">Pavilion</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-242">
+        <trigger offset="327" length="7">Hearing</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-129" offset="274" length="11">magic moose</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="f-267" offset="345" length="10">
+            <text>1 tomorrow</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-282">
+        <trigger offset="465" length="6">out of</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-129" offset="274" length="11">magic moose</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-57" offset="429" length="35">
+            <text>the remaining "sleeping" protesters</text>
+            <beliefs>
+              <belief type="na"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-159" offset="472" length="8">
+            <text>building</text>
+            <beliefs>
+              <belief type="na"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-312">
+        <trigger offset="752" length="6">out of</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-75" offset="624" length="8">Pavilion</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-63" offset="726" length="25">
+            <text>the "sleeping protesters"</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-75" offset="624" length="8">Pavilion</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-171" offset="759" length="11">
+            <text>the Capitol</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-75" offset="624" length="8">Pavilion</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities/>
+    <relations>
+      <relation ere_id="relm-272">
+        <trigger offset="828" length="2">in</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-75" offset="624" length="8">Pavilion</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

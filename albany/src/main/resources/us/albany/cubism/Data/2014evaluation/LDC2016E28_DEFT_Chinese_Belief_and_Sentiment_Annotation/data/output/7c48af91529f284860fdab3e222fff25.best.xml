@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="7c48af91529f284860fdab3e222fff25.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-462" length="6" offset="807">
+        <text>咱们国家好官</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" length="6" offset="754">→噯の詠℃逺</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-462" length="6" offset="807">
+        <text>咱们国家好官</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="6" offset="754">→噯の詠℃逺</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-171" length="2" offset="1298">
+        <text>百姓</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-177" length="3" offset="1247">倒骑驴</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-297" length="2" offset="1596">
+        <text>中国</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-147" length="4" offset="1536">农民二代</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

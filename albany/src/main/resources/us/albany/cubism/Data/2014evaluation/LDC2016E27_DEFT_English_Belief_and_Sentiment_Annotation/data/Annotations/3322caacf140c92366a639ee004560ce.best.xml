@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-5654e46b0000000000000015">
+  
+  <sentiment_annotations><entities>
+      <entity ere_id="m-114" length="3" offset="289">
+        <text>she</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-84" length="4" offset="14">Hans</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-156" length="6" offset="1728">
+        <text>Bhutto</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-246" length="20" offset="1695">Pakistani extremists</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-639" length="25" offset="1963">
+        <text>a potential prime minster</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-240" length="4" offset="1989">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-210" length="3" offset="1759">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-252" length="4" offset="1749">they</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-222" length="5" offset="2051">
+        <text>Mushy</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-648" length="6" offset="2065">people</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-228" length="3" offset="2083">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-648" length="6" offset="2065">people</source>
+        </sentiment>
+      </entity>
+    <entity ere_id="m-533" length="74" offset="325"><text>a strong supporter of women's rights in Islam and of progressive democracy</text><sentiment polarity="pos" sarcasm="no"><source ere_id="m-84" length="4" offset="14">Hans</source></sentiment></entity><entity ere_id="m-156" length="6" offset="1728"><text>Bhutto</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-246" length="20" offset="1695">Pakistani extremists</source></sentiment></entity><entity ere_id="m-204" length="2" offset="1666"><text>He</text><sentiment polarity="pos" sarcasm="no"><source ere_id="m-258" length="9" offset="1518">twinstead</source></sentiment></entity><entity ere_id="m-216" length="5" offset="1791"><text>Mushy</text><sentiment polarity="pos" sarcasm="no"><source ere_id="m-258" length="9" offset="1518">twinstead</source></sentiment></entity><entity ere_id="m-228" length="3" offset="2083"><text>him</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-648" length="6" offset="2065">people</source></sentiment></entity><entity ere_id="m-639" length="25" offset="1963"><text>a potential prime minster</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-258" length="9" offset="1518">twinstead</source></sentiment></entity><entity ere_id="m-639" length="25" offset="1963"><text>a potential prime minster</text><sentiment polarity="pos" sarcasm="no"><source ere_id="m-258" length="9" offset="1518">twinstead</source></sentiment></entity></entities></sentiment_annotations>
+</committed_belief_doc>

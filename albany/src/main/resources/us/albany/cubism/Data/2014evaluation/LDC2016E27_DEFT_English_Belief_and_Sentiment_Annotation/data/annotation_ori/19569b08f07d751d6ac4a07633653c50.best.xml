@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56997d920000000000000011">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-438">
+        <trigger offset="80" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">nottheone</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-448">
+        <trigger offset="153" length="10">girlfriend</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">nottheone</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-488">
+        <trigger offset="3813" length="10">girlfriend</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1303">
+        <trigger offset="3651" length="10">girlfriend</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-458">
+        <trigger offset="124" length="7">fathers</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">nottheone</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1293">
+        <trigger offset="3642" length="6">father</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1313">
+        <trigger offset="3803" length="6">father</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-468">
+        <trigger offset="3590" length="6">family</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-478">
+        <trigger offset="3746" length="6">mother</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1323">
+        <trigger offset="68" length="11">11 year old</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">nottheone</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1363">
+        <trigger offset="4169" length="11">11 year-old</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-366" offset="3847" length="6">Unknot</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1333">
+        <trigger offset="3911" length="2">my</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-366" offset="3847" length="6">Unknot</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1343">
+        <trigger offset="3914" length="11">10-year old</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-366" offset="3847" length="6">Unknot</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1353">
+        <trigger offset="3991" length="5">turns</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-366" offset="3847" length="6">Unknot</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-500">
+        <trigger offset="100" length="10">shotgunned</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">nottheone</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-168" offset="65" length="20">
+            <text>An 11 year old in PA</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="9">nottheone</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-276" offset="120" length="43">
+            <text>his fathers 26 year old pregnant girlfriend</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="9">nottheone</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-426" offset="83" length="2">
+            <text>PA</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="9">nottheone</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1272">
+        <trigger offset="3536" length="6">murder</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-246" offset="3523" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-521">
+        <trigger offset="114" length="5">death</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">nottheone</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-276" offset="120" length="43">
+            <text>his fathers 26 year old pregnant girlfriend</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="9">nottheone</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-168" offset="65" length="20">
+            <text>An 11 year old in PA</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="9">nottheone</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-426" offset="83" length="2">
+            <text>PA</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="9">nottheone</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-542">
+        <trigger offset="3536" length="6">murder</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-246" offset="3523" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-563">
+        <trigger offset="3628" length="9">eliminate</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-282" offset="3638" length="23">
+            <text>his father's girlfriend</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-252" offset="3602" length="7">
+            <text>the boy</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-913">
+        <trigger offset="2277" length="4">kill</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-880" offset="2269" length="4">
+            <text>them</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-886" offset="2282" length="10">
+            <text>themselves</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-943">
+        <trigger offset="2330" length="4">kill</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-898" offset="2322" length="4">
+            <text>them</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-904" offset="2335" length="6">
+            <text>others</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1131">
+        <trigger offset="2124" length="4">made</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1152" offset="2110" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1165" offset="2129" length="4">
+            <text>guns</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1170">
+        <trigger offset="2204" length="6">making</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-865" offset="2188" length="2">
+            <text>we</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1195" offset="2211" length="7">
+            <text>alcohol</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1202" offset="2223" length="10">
+            <text>cigarettes</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-318" offset="2024" length="10">Gokul43201</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1249">
+        <trigger offset="3273" length="5">fatal</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1024" offset="3282" length="8">
+            <text>a person</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-240" offset="3470" length="9">
+        <text>the child</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1060" offset="946" length="13">
+        <text>our societies</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="9">nottheone</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events>
+      <event ere_id="em-1272">
+        <trigger offset="3536" length="6">murder</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-542">
+        <trigger offset="3536" length="6">murder</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-336" offset="3032" length="8">Astronuc</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

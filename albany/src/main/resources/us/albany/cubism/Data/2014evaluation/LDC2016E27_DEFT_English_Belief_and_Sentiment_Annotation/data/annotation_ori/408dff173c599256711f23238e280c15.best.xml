@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-568eda8c0000000000000002">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-414">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-424">
+        <trigger offset="269" length="4">down</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-434">
+        <trigger offset="269" length="4">down</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-758">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-899">
+        <trigger offset="862" length="8">officers</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-454">
+        <trigger offset="234" length="5">taken</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-342" offset="211" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-156" offset="261" length="7">
+            <text>Camilla</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-84" offset="247" length="7">
+            <text>Charles</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-502" offset="274" length="10">
+            <text>that route</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-768">
+        <trigger offset="305" length="5">taken</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-204" offset="287" length="4">
+            <text>They</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-789">
+        <trigger offset="834" length="4">beat</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-384" offset="814" length="8">
+            <text>the Army</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-613" offset="855" length="15">
+            <text>police officers</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-819">
+        <trigger offset="834" length="4">beat</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-384" offset="814" length="8">
+            <text>the Army</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-613" offset="855" length="15">
+            <text>police officers</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-849">
+        <trigger offset="885" length="7">rioting</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-619" offset="876" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-946">
+        <trigger offset="1035" length="7">strikes</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-372" offset="1015" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-872">
+        <trigger offset="905" length="8">laid off</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-619" offset="876" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-893" offset="855" length="6">
+            <text>police</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-920" offset="862" length="8">
+            <text>officers</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-976">
+        <trigger offset="1075" length="4">cost</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-967" offset="1080" length="12">
+            <text>the taxpayer</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-999">
+        <trigger offset="1084" length="8">taxpayer</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-967" offset="1080" length="12">
+            <text>the taxpayer</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1022">
+        <trigger offset="1168" length="7">get out</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-120" offset="1154" length="2">
+            <text>my</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-396" offset="1179" length="14">
+            <text>this **** hole</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1050" offset="1205" length="49">
+            <text>where people respect students for trying to learn</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1077">
+        <trigger offset="1267" length="6">paying</trigger>
+        <beliefs>
+          <belief type="cb" polarity="neg" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-126" offset="1256" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="neg" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1130">
+        <trigger offset="1365" length="6">paying</trigger>
+        <beliefs>
+          <belief type="cb" polarity="neg" sarcasm="no">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-132" offset="1354" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="neg" sarcasm="no">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1100">
+        <trigger offset="1197" length="3">pay</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-120" offset="1154" length="2">
+            <text>my</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1050" offset="1205" length="49">
+            <text>where people respect students for trying to learn</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1160">
+        <trigger offset="1411" length="3">pay</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-96" offset="85" length="6">jb9191</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1151" offset="1390" length="14">
+            <text>other students</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-96" offset="85" length="6">jb9191</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1183">
+        <trigger offset="1503" length="6">kidnap</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-90" offset="14" length="8">hollyone</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-174" offset="1489" length="3">
+            <text>she</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-90" offset="14" length="8">hollyone</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-649" offset="1510" length="11">
+            <text>a protester</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-90" offset="14" length="8">hollyone</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1213">
+        <trigger offset="1503" length="6">kidnap</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-90" offset="14" length="8">hollyone</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-174" offset="1489" length="3">
+            <text>she</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-90" offset="14" length="8">hollyone</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-649" offset="1510" length="11">
+            <text>a protester</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-90" offset="14" length="8">hollyone</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1250">
+        <trigger offset="1963" length="12">pointing out</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-252" offset="1937" length="7">
+            <text>someone</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1275" offset="1957" length="5">
+            <text>today</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1280">
+        <trigger offset="2035" length="10">kicked off</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-210" offset="2103" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1305" offset="2123" length="6">
+            <text>petrol</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-348" offset="1981" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1317">
+        <trigger offset="2206" length="5">shoot</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-240" offset="2190" length="5">
+            <text>their</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-216" offset="2212" length="4">
+            <text>them</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1347">
+        <trigger offset="2335" length="10">protestors</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-685" offset="2331" length="14">
+            <text>the protestors</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1370">
+        <trigger offset="2365" length="10">protestors</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-694" offset="2365" length="10">
+            <text>protestors</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1391">
+        <trigger offset="2690" length="10">protesting</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-721" offset="2767" length="4">
+            <text>they</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1412">
+        <trigger offset="2979" length="8">attacked</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-300" offset="2932" length="7">NeoNerd</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="f-1429" offset="2969" length="9">
+            <text>their car</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-300" offset="2932" length="7">NeoNerd</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1435">
+        <trigger offset="3016" length="9">attacking</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-294" offset="2865" length="4">ed46</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="f-1452" offset="3026" length="5">
+            <text>a car</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-294" offset="2865" length="4">ed46</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1462">
+        <trigger offset="2535" length="4">give</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-700" offset="2489" length="42">
+            <text>all those who oppose the tuition fee rises</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1487" offset="2540" length="5">
+            <text>blood</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-336" offset="160" length="14">
+        <text>Royal Security</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-342" offset="211" length="4">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-496" offset="179" length="27">
+        <text>the ones massively at fault</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-378" offset="777" length="4">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-604" offset="741" length="19">
+        <text>the legalised thugs</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-390" offset="1100" length="13">
+        <text>Whole country</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-396" offset="1179" length="14">
+        <text>this **** hole</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-676" offset="2300" length="45">
+        <text>the idiots who don't represent the protestors</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-258" offset="1877" length="8">Huskaris</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1050" offset="1205" length="49">
+        <text>where people respect students for trying to learn</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-424">
+        <trigger offset="269" length="4">down</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-434">
+        <trigger offset="269" length="4">down</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-758">
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-454">
+        <trigger offset="234" length="5">taken</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-789">
+        <trigger offset="834" length="4">beat</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-819">
+        <trigger offset="834" length="4">beat</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-946">
+        <trigger offset="1035" length="7">strikes</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1022">
+        <trigger offset="1168" length="7">get out</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1160">
+        <trigger offset="1411" length="3">pay</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" offset="85" length="6">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1412">
+        <trigger offset="2979" length="8">attacked</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-300" offset="2932" length="7">NeoNerd</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1435">
+        <trigger offset="3016" length="9">attacking</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-294" offset="2865" length="4">ed46</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

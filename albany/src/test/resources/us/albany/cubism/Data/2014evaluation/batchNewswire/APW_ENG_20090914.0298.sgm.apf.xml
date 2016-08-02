@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20090914.0298">
+  <document DOCID="APW_ENG_20090914.0298">
+
+    <entity ID="APW_ENG_20090914.0298-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E0-M4" ROLE="GPE">
+          <extent>
+              <charseq START="83" END="89">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="83" END="89">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E0-M206" ROLE="GPE">
+          <extent>
+              <charseq START="231" END="237">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="231" END="237">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E0-M503" ROLE="GPE">
+          <extent>
+              <charseq START="646" END="652">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="646" END="652">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E0-M603">
+          <extent>
+              <charseq START="725" END="729">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="725" END="729">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E0-M608">
+          <extent>
+              <charseq START="799" END="803">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="799" END="803">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italian">
+              <charseq START="83" END="89">Italian</charseq>
+          </name>
+          <name NAME="Italian">
+              <charseq START="231" END="237">Italian</charseq>
+          </name>
+          <name NAME="Italian">
+              <charseq START="646" END="652">Italian</charseq>
+          </name>
+          <name NAME="Italy">
+              <charseq START="725" END="729">Italy</charseq>
+          </name>
+          <name NAME="Italy">
+              <charseq START="799" END="803">Italy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090914.0298-E1-M3">
+          <extent>
+              <charseq START="83" END="99">Italian president</charseq>
+          </extent>
+          <head>
+              <charseq START="91" END="99">president</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E2-M101">
+          <extent>
+              <charseq START="124" END="128">SEOUL</charseq>
+          </extent>
+          <head>
+              <charseq START="124" END="128">SEOUL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E2-M213">
+          <extent>
+              <charseq START="344" END="348">Seoul</charseq>
+          </extent>
+          <head>
+              <charseq START="344" END="348">Seoul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E2-M305" ROLE="LOC">
+          <extent>
+              <charseq START="423" END="427">Seoul</charseq>
+          </extent>
+          <head>
+              <charseq START="423" END="427">Seoul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E2-M609">
+          <extent>
+              <charseq START="828" END="832">Seoul</charseq>
+          </extent>
+          <head>
+              <charseq START="828" END="832">Seoul</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SEOUL">
+              <charseq START="124" END="128">SEOUL</charseq>
+          </name>
+          <name NAME="Seoul">
+              <charseq START="344" END="348">Seoul</charseq>
+          </name>
+          <name NAME="Seoul">
+              <charseq START="423" END="427">Seoul</charseq>
+          </name>
+          <name NAME="Seoul">
+              <charseq START="828" END="832">Seoul</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E3-M102">
+          <extent>
+              <charseq START="131" END="141">South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="141">South Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E3-M202" ROLE="GPE">
+          <extent>
+              <charseq START="190" END="201">South Korean</charseq>
+          </extent>
+          <head>
+              <charseq START="190" END="201">South Korean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E3-M412">
+          <extent>
+              <charseq START="589" END="599">South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="589" END="599">South Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E3-M504" ROLE="GPE">
+          <extent>
+              <charseq START="667" END="683">visit South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="673" END="683">South Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090914.0298-E3-M505">
+          <extent>
+              <charseq START="667" END="671">visit</charseq>
+          </extent>
+          <head>
+              <charseq START="667" END="671">visit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E3-M605">
+          <extent>
+              <charseq START="740" END="750">South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="740" END="750">South Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Korea">
+              <charseq START="131" END="141">South Korea</charseq>
+          </name>
+          <name NAME="South Korean">
+              <charseq START="190" END="201">South Korean</charseq>
+          </name>
+          <name NAME="South Korea">
+              <charseq START="589" END="599">South Korea</charseq>
+          </name>
+          <name NAME="South Korea">
+              <charseq START="673" END="683">South Korea</charseq>
+          </name>
+          <name NAME="South Korea">
+              <charseq START="740" END="750">South Korea</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E4-M201">
+          <extent>
+              <charseq START="190" END="225">South Korean President Lee Myung-bak</charseq>
+          </extent>
+          <head>
+              <charseq START="213" END="225">Lee Myung-bak</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090914.0298-E4-M203">
+          <extent>
+              <charseq START="203" END="211">President</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="211">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E4-M401">
+          <extent>
+              <charseq START="478" END="480">Lee</charseq>
+          </extent>
+          <head>
+              <charseq START="478" END="480">Lee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E4-M601">
+          <extent>
+              <charseq START="686" END="688">Lee</charseq>
+          </extent>
+          <head>
+              <charseq START="686" END="688">Lee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lee Myung-bak">
+              <charseq START="213" END="225">Lee Myung-bak</charseq>
+          </name>
+          <name NAME="Lee">
+              <charseq START="478" END="480">Lee</charseq>
+          </name>
+          <name NAME="Lee">
+              <charseq START="686" END="688">Lee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E5-M205">
+          <extent>
+              <charseq START="231" END="266">Italian President Giorgio Napolitano</charseq>
+          </extent>
+          <head>
+              <charseq START="249" END="266">Giorgio Napolitano</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090914.0298-E5-M207">
+          <extent>
+              <charseq START="239" END="247">President</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="247">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E5-M500">
+          <extent>
+              <charseq START="622" END="631">Napolitano</charseq>
+          </extent>
+          <head>
+              <charseq START="622" END="631">Napolitano</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090914.0298-E5-M501">
+          <extent>
+              <charseq START="636" END="683">the first Italian president to visit South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="654" END="662">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E5-M602">
+          <extent>
+              <charseq START="704" END="713">Napolitano</charseq>
+          </extent>
+          <head>
+              <charseq START="704" END="713">Napolitano</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Giorgio Napolitano">
+              <charseq START="249" END="266">Giorgio Napolitano</charseq>
+          </name>
+          <name NAME="Napolitano">
+              <charseq START="622" END="631">Napolitano</charseq>
+          </name>
+          <name NAME="Napolitano">
+              <charseq START="704" END="713">Napolitano</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E6" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E6-M214">
+          <extent>
+              <charseq START="354" END="371">the European Union</charseq>
+          </extent>
+          <head>
+              <charseq START="358" END="371">European Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E6-M413">
+          <extent>
+              <charseq START="605" END="610">the EU</charseq>
+          </extent>
+          <head>
+              <charseq START="609" END="610">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Union">
+              <charseq START="358" END="371">European Union</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="609" END="610">EU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E7-M308" ROLE="LOC">
+          <extent>
+              <charseq START="465" END="475">North Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="465" END="475">North Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E7-M606">
+          <extent>
+              <charseq START="778" END="889">North Korea and that Italy will work closely with Seoul to enforce a U.N. sanctions resolution against Pyongyang</charseq>
+          </extent>
+          <head>
+              <charseq START="778" END="788">North Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="North Korea">
+              <charseq START="465" END="475">North Korea</charseq>
+          </name>
+          <name NAME="North Korea">
+              <charseq START="778" END="788">North Korea</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090914.0298-E8-M300">
+          <extent>
+              <charseq START="383" END="476">The two leaders held a summit Monday in Seoul to discuss economic cooperation and North Korea.</charseq>
+          </extent>
+          <head>
+              <charseq START="391" END="397">leaders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090914.0298-E8-M402">
+          <extent>
+              <charseq START="496" END="506">the leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="500" END="506">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090914.0298-E9-M400">
+          <extent>
+              <charseq START="478" END="489">Lee&apos;s office</charseq>
+          </extent>
+          <head>
+              <charseq START="484" END="489">office</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20090914.0298-E9-M600">
+          <extent>
+              <charseq START="686" END="697">Lee&apos;s office</charseq>
+          </extent>
+          <head>
+              <charseq START="692" END="697">office</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E10-M612">
+          <extent>
+              <charseq START="847" END="850">U.N.</charseq>
+          </extent>
+          <head>
+              <charseq START="847" END="850">U.N.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.N.">
+              <charseq START="847" END="850">U.N.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20090914.0298-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20090914.0298-E11-M614" ROLE="GPE">
+          <extent>
+              <charseq START="881" END="889">Pyongyang</charseq>
+          </extent>
+          <head>
+              <charseq START="881" END="889">Pyongyang</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pyongyang">
+              <charseq START="881" END="889">Pyongyang</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="APW_ENG_20090914.0298-T0" VAL="2009-09-14-09">
+        <timex2_mention ID="APW_ENG_20090914.0298-T0-M1">
+            <extent>
+              <charseq START="143" END="152">2009-09-14</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20090914.0298-T1" VAL="2009-09-14">
+        <timex2_mention ID="APW_ENG_20090914.0298-T1-M1">
+            <extent>
+              <charseq START="413" END="418">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20090914.0298-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20090914.0298-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20090914.0298-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20090914.0298-R0-M0">
+          <extent>
+              <charseq START="83" END="99">Italian president</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20090914.0298-E1-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="83" END="99">Italian president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20090914.0298-E0-M4" ROLE="Arg-2">
+            <extent>
+              <charseq START="83" END="89">Italian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20090914.0298-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20090914.0298-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20090914.0298-E3" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20090914.0298-R1-M200">
+          <extent>
+              <charseq START="203" END="211">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20090914.0298-E4-M203" ROLE="Arg-1">
+            <extent>
+              <charseq START="203" END="211">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20090914.0298-E3-M202" ROLE="Arg-2">
+            <extent>
+              <charseq START="190" END="201">South Korean</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,563 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100209.0799">
+  <document DOCID="APW_ENG_20100209.0799">
+
+    <entity ID="APW_ENG_20100209.0799-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E0-M0" ROLE="LOC">
+          <extent>
+              <charseq START="58" END="102">Sinatra, Martin to receive stars in Las Vegas</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">Sinatra</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sinatra">
+              <charseq START="58" END="64">Sinatra</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E1-M2">
+          <extent>
+              <charseq START="67" END="72">Martin</charseq>
+          </extent>
+          <head>
+              <charseq START="67" END="72">Martin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E1-M502">
+          <extent>
+              <charseq START="605" END="610">Martin</charseq>
+          </extent>
+          <head>
+              <charseq START="605" END="610">Martin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E1-M701">
+          <extent>
+              <charseq START="873" END="907">Dean Martin&apos;s daughter Deana Martin</charseq>
+          </extent>
+          <head>
+              <charseq START="896" END="907">Deana Martin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E1-M703">
+          <extent>
+              <charseq START="887" END="894">daughter</charseq>
+          </extent>
+          <head>
+              <charseq START="887" END="894">daughter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E1-M705">
+          <extent>
+              <charseq START="921" END="952">his star on behalf of her father</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="928">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E1-M710">
+          <extent>
+              <charseq START="943" END="952">her father</charseq>
+          </extent>
+          <head>
+              <charseq START="947" END="952">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100209.0799-E1-M707">
+          <extent>
+              <charseq START="921" END="923">his</charseq>
+          </extent>
+          <head>
+              <charseq START="921" END="923">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100209.0799-E1-M711">
+          <extent>
+              <charseq START="943" END="945">her</charseq>
+          </extent>
+          <head>
+              <charseq START="943" END="945">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Martin">
+              <charseq START="67" END="72">Martin</charseq>
+          </name>
+          <name NAME="Martin">
+              <charseq START="605" END="610">Martin</charseq>
+          </name>
+          <name NAME="Deana Martin">
+              <charseq START="896" END="907">Deana Martin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E2-M5" ROLE="LOC">
+          <extent>
+              <charseq START="94" END="102">Las Vegas</charseq>
+          </extent>
+          <head>
+              <charseq START="94" END="102">Las Vegas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="127" END="135">LAS VEGAS</charseq>
+          </extent>
+          <head>
+              <charseq START="127" END="135">LAS VEGAS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E2-M200">
+          <extent>
+              <charseq START="184" END="192">Las Vegas</charseq>
+          </extent>
+          <head>
+              <charseq START="184" END="192">Las Vegas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E2-M213">
+          <extent>
+              <charseq START="290" END="297">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="294" END="297">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100209.0799-E2-M208">
+          <extent>
+              <charseq START="269" END="272">them</charseq>
+          </extent>
+          <head>
+              <charseq START="269" END="272">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E2-M310" ROLE="LOC">
+          <extent>
+              <charseq START="455" END="490">the Flamingo Las Vegas casino-resort</charseq>
+          </extent>
+          <head>
+              <charseq START="468" END="476">Las Vegas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E2-M508" ROLE="GPE">
+          <extent>
+              <charseq START="625" END="633">Las Vegas</charseq>
+          </extent>
+          <head>
+              <charseq START="625" END="633">Las Vegas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E2-M612" ROLE="GPE">
+          <extent>
+              <charseq START="818" END="826">Las Vegas</charseq>
+          </extent>
+          <head>
+              <charseq START="818" END="826">Las Vegas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Las Vegas">
+              <charseq START="94" END="102">Las Vegas</charseq>
+          </name>
+          <name NAME="LAS VEGAS">
+              <charseq START="127" END="135">LAS VEGAS</charseq>
+          </name>
+          <name NAME="Las Vegas">
+              <charseq START="184" END="192">Las Vegas</charseq>
+          </name>
+          <name NAME="Las Vegas">
+              <charseq START="468" END="476">Las Vegas</charseq>
+          </name>
+          <name NAME="Las Vegas">
+              <charseq START="625" END="633">Las Vegas</charseq>
+          </name>
+          <name NAME="Las Vegas">
+              <charseq START="818" END="826">Las Vegas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E3-M3">
+          <extent>
+              <charseq START="85" END="102">stars in Las Vegas</charseq>
+          </extent>
+          <head>
+              <charseq START="85" END="89">stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E3-M304">
+          <extent>
+              <charseq START="384" END="410">stars for the late crooners</charseq>
+          </extent>
+          <head>
+              <charseq START="384" END="388">stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E3-M306">
+          <extent>
+              <charseq START="394" END="410">the late crooners</charseq>
+          </extent>
+          <head>
+              <charseq START="403" END="410">crooners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E3-M400">
+          <extent>
+              <charseq START="493" END="501">The stars</charseq>
+          </extent>
+          <head>
+              <charseq START="497" END="501">stars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E4-M203">
+          <extent>
+              <charseq START="214" END="241">iconic singers Frank Sinatra</charseq>
+          </extent>
+          <head>
+              <charseq START="229" END="241">Frank Sinatra</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E4-M205">
+          <extent>
+              <charseq START="221" END="227">singers</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="227">singers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E4-M501">
+          <extent>
+              <charseq START="593" END="599">Sinatra</charseq>
+          </extent>
+          <head>
+              <charseq START="593" END="599">Sinatra</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Frank Sinatra">
+              <charseq START="229" END="241">Frank Sinatra</charseq>
+          </name>
+          <name NAME="Sinatra">
+              <charseq START="593" END="599">Sinatra</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E5-M207">
+          <extent>
+              <charseq START="247" END="257">Dean Martin</charseq>
+          </extent>
+          <head>
+              <charseq START="247" END="257">Dean Martin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E5-M702">
+          <extent>
+              <charseq START="873" END="883">Dean Martin</charseq>
+          </extent>
+          <head>
+              <charseq START="873" END="883">Dean Martin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dean Martin">
+              <charseq START="247" END="257">Dean Martin</charseq>
+          </name>
+          <name NAME="Dean Martin">
+              <charseq START="873" END="883">Dean Martin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E6-M212">
+          <extent>
+              <charseq START="290" END="313">the city&apos;s Walk of Stars</charseq>
+          </extent>
+          <head>
+              <charseq START="301" END="313">Walk of Stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E6-M301">
+          <extent>
+              <charseq START="325" END="347">Las Vegas Walk of Stars</charseq>
+          </extent>
+          <head>
+              <charseq START="325" END="347">Las Vegas Walk of Stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Walk of Stars">
+              <charseq START="301" END="313">Walk of Stars</charseq>
+          </name>
+          <name NAME="Las Vegas Walk of Stars">
+              <charseq START="325" END="347">Las Vegas Walk of Stars</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E7-M300">
+          <extent>
+              <charseq START="325" END="377">Las Vegas Walk of Stars spokesman Pablo Castro Zavala</charseq>
+          </extent>
+          <head>
+              <charseq START="359" END="377">Pablo Castro Zavala</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E7-M302">
+          <extent>
+              <charseq START="349" END="357">spokesman</charseq>
+          </extent>
+          <head>
+              <charseq START="349" END="357">spokesman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pablo Castro Zavala">
+              <charseq START="359" END="377">Pablo Castro Zavala</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E8-M311">
+          <extent>
+              <charseq START="459" END="466">Flamingo</charseq>
+          </extent>
+          <head>
+              <charseq START="459" END="466">Flamingo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E8-M402">
+          <extent>
+              <charseq START="547" END="558">the Flamingo</charseq>
+          </extent>
+          <head>
+              <charseq START="551" END="558">Flamingo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E8-M401">
+          <extent>
+              <charseq START="526" END="537">the sidewalk</charseq>
+          </extent>
+          <head>
+              <charseq START="530" END="537">sidewalk</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Flamingo">
+              <charseq START="459" END="466">Flamingo</charseq>
+          </name>
+          <name NAME="Flamingo">
+              <charseq START="551" END="558">Flamingo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100209.0799-E9-M404">
+          <extent>
+              <charseq START="563" END="581">the Las Vegas Strip</charseq>
+          </extent>
+          <head>
+              <charseq START="567" END="581">Las Vegas Strip</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Las Vegas Strip">
+              <charseq START="567" END="581">Las Vegas Strip</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E10-M600">
+          <extent>
+              <charseq START="724" END="746">The Rat Pack performers</charseq>
+          </extent>
+          <head>
+              <charseq START="737" END="746">performers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E11-M610">
+          <extent>
+              <charseq START="813" END="847">five Las Vegas casinos in one night</charseq>
+          </extent>
+          <head>
+              <charseq START="828" END="834">casinos</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100209.0799-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100209.0799-E12-M700">
+          <extent>
+              <charseq START="859" END="867">Officials</charseq>
+          </extent>
+          <head>
+              <charseq START="859" END="867">Officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100209.0799-T0" VAL="2010-02-09-02">
+        <timex2_mention ID="APW_ENG_20100209.0799-T0-M1">
+            <extent>
+              <charseq START="137" END="146">2010-02-09</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100209.0799-T1" VAL="1960">
+        <timex2_mention ID="APW_ENG_20100209.0799-T1-M1">
+            <extent>
+              <charseq START="764" END="767">1960</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100209.0799-T2" VAL="2010-02-09TNI">
+        <timex2_mention ID="APW_ENG_20100209.0799-T2-M1">
+            <extent>
+              <charseq START="839" END="847">one night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100209.0799-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100209.0799-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100209.0799-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100209.0799-R0-M0">
+          <extent>
+              <charseq START="85" END="102">stars in Las Vegas</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E3-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="85" END="102">stars in Las Vegas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E2-M5" ROLE="Arg-2">
+            <extent>
+              <charseq START="94" END="102">Las Vegas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100209.0799-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100209.0799-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100209.0799-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100209.0799-R1-M200">
+          <extent>
+              <charseq START="290" END="313">the city&apos;s Walk of Stars</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E6-M212" ROLE="Arg-1">
+            <extent>
+              <charseq START="290" END="313">the city&apos;s Walk of Stars</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E2-M213" ROLE="Arg-2">
+            <extent>
+              <charseq START="290" END="297">the city</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100209.0799-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100209.0799-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100209.0799-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100209.0799-R2-M300">
+          <extent>
+              <charseq START="349" END="357">spokesman</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E7-M302" ROLE="Arg-1">
+            <extent>
+              <charseq START="349" END="357">spokesman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E6-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="325" END="347">Las Vegas Walk of Stars</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100209.0799-R3" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100209.0799-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100209.0799-E8" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100209.0799-R3-M400">
+          <extent>
+              <charseq START="493" END="501">The stars</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E3-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="493" END="501">The stars</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E8-M401" ROLE="Arg-2">
+            <extent>
+              <charseq START="526" END="537">the sidewalk</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100209.0799-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100209.0799-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100209.0799-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100209.0799-R4-M600">
+          <extent>
+              <charseq START="813" END="847">five Las Vegas casinos in one night</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E11-M610" ROLE="Arg-1">
+            <extent>
+              <charseq START="813" END="847">five Las Vegas casinos in one night</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E2-M612" ROLE="Arg-2">
+            <extent>
+              <charseq START="818" END="826">Las Vegas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100209.0799-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100209.0799-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100209.0799-E5" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100209.0799-R5-M700">
+          <extent>
+              <charseq START="887" END="894">daughter</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E1-M703" ROLE="Arg-1">
+            <extent>
+              <charseq START="887" END="894">daughter</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100209.0799-E5-M702" ROLE="Arg-2">
+            <extent>
+              <charseq START="873" END="883">Dean Martin</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,13 @@
+debug	true
+useStopwords	true
+useLemmas	true
+useMetric	false
+stopwordFile	llmStopwords.txt
+computeSimpleScore	true
+entailmentThreshold	0.5
+metricName	WNSim
+metricHost	dummy.nowhere.edu
+metricPort	-1
+metricThreshold	0.0001
+rteTestDocument	/Users/ting/NetBeansProjects/deft2015/ihmc/src/main/resources/us/albany/cubism/Data/2014evaluation/AFP_ENG_20090602.0170.sgm.apf.xml
+

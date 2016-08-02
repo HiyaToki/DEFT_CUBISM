@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="cce8e0daa53b35368b27e368f96be75b.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-204" length="2" offset="60">
+        <text>世界</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-72" length="4" offset="14">给我冲啊</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-204" length="2" offset="60">
+        <text>世界</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-84" length="4" offset="237">给我冲啊</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-60" length="1" offset="424">
+        <text>我</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-66" length="5" offset="170">xxo14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-96" length="1" offset="623">
+        <text>我</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-102" length="3" offset="464">宁乡弟</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-216" length="2" offset="742">
+        <text>世界</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-126" length="4" offset="679">冷雨寒星</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

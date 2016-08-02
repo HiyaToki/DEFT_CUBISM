@@ -1,0 +1,3657 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="bolt-eng-DF-200-192388-6330096">
+  <document DOCID="bolt-eng-DF-200-192388-6330096">
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M2" ROLE="LOC">
+          <extent>
+              <charseq START="67" END="73">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="67" END="73">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M205" ROLE="LOC">
+          <extent>
+              <charseq START="198" END="204">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="198" END="204">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M2705" ROLE="GPE">
+          <extent>
+              <charseq START="2517" END="2523">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="2517" END="2523">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M3619" ROLE="GPE">
+          <extent>
+              <charseq START="3682" END="3688">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="3682" END="3688">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M4002" ROLE="LOC">
+          <extent>
+              <charseq START="3899" END="3914">Southern Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="3899" END="3914">Southern Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M4322" ROLE="GPE">
+          <extent>
+              <charseq START="4405" END="4411">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="4405" END="4411">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M4703" ROLE="LOC">
+          <extent>
+              <charseq START="4792" END="4807">Southern Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="4792" END="4807">Southern Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M7203" ROLE="GPE">
+          <extent>
+              <charseq START="7306" END="7312">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="7306" END="7312">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M10502">
+          <extent>
+              <charseq START="9767" END="9773">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="9767" END="9773">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M10703" ROLE="GPE">
+          <extent>
+              <charseq START="9848" END="9854">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="9848" END="9854">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M11312" ROLE="LOC">
+          <extent>
+              <charseq START="10240" END="10246">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="10240" END="10246">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M11403">
+          <extent>
+              <charseq START="10266" END="10272">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="10266" END="10272">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M12804">
+          <extent>
+              <charseq START="11583" END="11589">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="11583" END="11589">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M13702">
+          <extent>
+              <charseq START="12690" END="12696">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="12690" END="12696">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M13904" ROLE="LOC">
+          <extent>
+              <charseq START="12759" END="12765">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="12759" END="12765">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M14507">
+          <extent>
+              <charseq START="13460" END="13465">German</charseq>
+          </extent>
+          <head>
+              <charseq START="13460" END="13465">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M14519" ROLE="GPE">
+          <extent>
+              <charseq START="13605" END="13610">german</charseq>
+          </extent>
+          <head>
+              <charseq START="13605" END="13610">german</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M14610">
+          <extent>
+              <charseq START="13864" END="13875">form Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="13869" END="13875">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E0-M14611">
+          <extent>
+              <charseq START="13864" END="13867">form</charseq>
+          </extent>
+          <head>
+              <charseq START="13864" END="13867">form</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M14804" ROLE="GPE">
+          <extent>
+              <charseq START="14583" END="14588">german</charseq>
+          </extent>
+          <head>
+              <charseq START="14583" END="14588">german</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E0-M15304" ROLE="GPE">
+          <extent>
+              <charseq START="15328" END="15333">german</charseq>
+          </extent>
+          <head>
+              <charseq START="15328" END="15333">german</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Germany">
+              <charseq START="67" END="73">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="198" END="204">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="2517" END="2523">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="3682" END="3688">Germany</charseq>
+          </name>
+          <name NAME="Southern Germany">
+              <charseq START="3899" END="3914">Southern Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="4405" END="4411">Germany</charseq>
+          </name>
+          <name NAME="Southern Germany">
+              <charseq START="4792" END="4807">Southern Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="7306" END="7312">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="9767" END="9773">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="9848" END="9854">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="10240" END="10246">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="10266" END="10272">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="11583" END="11589">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="12690" END="12696">Germany</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="12759" END="12765">Germany</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="13460" END="13465">German</charseq>
+          </name>
+          <name NAME="german">
+              <charseq START="13605" END="13610">german</charseq>
+          </name>
+          <name NAME="Germany">
+              <charseq START="13869" END="13875">Germany</charseq>
+          </name>
+          <name NAME="german">
+              <charseq START="14583" END="14588">german</charseq>
+          </name>
+          <name NAME="german">
+              <charseq START="15328" END="15333">german</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E1-M100">
+          <extent>
+              <charseq START="155" END="166">Hi everyone!</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="165">everyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E2-M202">
+          <extent>
+              <charseq START="180" END="186">Antonia</charseq>
+          </extent>
+          <head>
+              <charseq START="180" END="186">Antonia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Antonia">
+              <charseq START="180" END="186">Antonia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E3-M211" ROLE="GPE">
+          <extent>
+              <charseq START="237" END="243">British</charseq>
+          </extent>
+          <head>
+              <charseq START="237" END="243">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E3-M409" ROLE="LOC">
+          <extent>
+              <charseq START="458" END="463">the UK</charseq>
+          </extent>
+          <head>
+              <charseq START="462" END="463">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E3-M7002" ROLE="LOC">
+          <extent>
+              <charseq START="7194" END="7200">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="7194" END="7200">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E3-M10002" ROLE="LOC">
+          <extent>
+              <charseq START="9362" END="9368">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="9362" END="9368">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E3-M12515">
+          <extent>
+              <charseq START="11086" END="11092">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="11086" END="11092">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E3-M14415">
+          <extent>
+              <charseq START="13298" END="13304">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="13298" END="13304">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E3-M14506">
+          <extent>
+              <charseq START="13448" END="13454">British</charseq>
+          </extent>
+          <head>
+              <charseq START="13448" END="13454">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E3-M14523" ROLE="LOC">
+          <extent>
+              <charseq START="13663" END="13664">UK</charseq>
+          </extent>
+          <head>
+              <charseq START="13663" END="13664">UK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E3-M14602" ROLE="GPE">
+          <extent>
+              <charseq START="13792" END="13798">british</charseq>
+          </extent>
+          <head>
+              <charseq START="13792" END="13798">british</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="237" END="243">British</charseq>
+          </name>
+          <name NAME="UK">
+              <charseq START="462" END="463">UK</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="7194" END="7200">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="9362" END="9368">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="11086" END="11092">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="13298" END="13304">Britain</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="13448" END="13454">British</charseq>
+          </name>
+          <name NAME="UK">
+              <charseq START="13663" END="13664">UK</charseq>
+          </name>
+          <name NAME="british">
+              <charseq START="13792" END="13798">british</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E4" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E4-M210">
+          <extent>
+              <charseq START="235" END="254">a British university</charseq>
+          </extent>
+          <head>
+              <charseq START="245" END="254">university</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E4-M5817">
+          <extent>
+              <charseq START="5778" END="5787">university</charseq>
+          </extent>
+          <head>
+              <charseq START="5778" END="5787">university</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M201">
+          <extent>
+              <charseq START="169" END="170">My</charseq>
+          </extent>
+          <head>
+              <charseq START="169" END="170">My</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M203">
+          <extent>
+              <charseq START="189" END="189">I</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="189">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M206">
+          <extent>
+              <charseq START="210" END="210">I</charseq>
+          </extent>
+          <head>
+              <charseq START="210" END="210">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M300">
+          <extent>
+              <charseq START="259" END="259">I</charseq>
+          </extent>
+          <head>
+              <charseq START="259" END="259">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M400">
+          <extent>
+              <charseq START="407" END="407">I</charseq>
+          </extent>
+          <head>
+              <charseq START="407" END="407">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M404">
+          <extent>
+              <charseq START="414" END="414">I</charseq>
+          </extent>
+          <head>
+              <charseq START="414" END="414">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M903">
+          <extent>
+              <charseq START="960" END="960">I</charseq>
+          </extent>
+          <head>
+              <charseq START="960" END="960">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M1002">
+          <extent>
+              <charseq START="1012" END="1012">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1012" END="1012">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M1100">
+          <extent>
+              <charseq START="1046" END="1046">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1046" END="1046">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M1102">
+          <extent>
+              <charseq START="1054" END="1054">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1054" END="1054">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M1403">
+          <extent>
+              <charseq START="1456" END="1456">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1456">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M1502">
+          <extent>
+              <charseq START="1508" END="1508">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1508" END="1508">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M1600">
+          <extent>
+              <charseq START="1542" END="1542">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1542" END="1542">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M1602">
+          <extent>
+              <charseq START="1550" END="1550">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1550" END="1550">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M1903">
+          <extent>
+              <charseq START="1702" END="1702">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1702" END="1702">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M2100">
+          <extent>
+              <charseq START="1858" END="1858">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1858" END="1858">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M2102">
+          <extent>
+              <charseq START="1865" END="1866">we</charseq>
+          </extent>
+          <head>
+              <charseq START="1865" END="1866">we</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M2606">
+          <extent>
+              <charseq START="2358" END="2358">I</charseq>
+          </extent>
+          <head>
+              <charseq START="2358" END="2358">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E5-M2702">
+          <extent>
+              <charseq START="2503" END="2528">the girl from Germany lol!</charseq>
+          </extent>
+          <head>
+              <charseq START="2507" END="2510">girl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M2700">
+          <extent>
+              <charseq START="2495" END="2495">I</charseq>
+          </extent>
+          <head>
+              <charseq START="2495" END="2495">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M3103">
+          <extent>
+              <charseq START="2990" END="2990">I</charseq>
+          </extent>
+          <head>
+              <charseq START="2990" END="2990">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M3202">
+          <extent>
+              <charseq START="3102" END="3103">me</charseq>
+          </extent>
+          <head>
+              <charseq START="3102" END="3103">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M3400">
+          <extent>
+              <charseq START="3146" END="3146">I</charseq>
+          </extent>
+          <head>
+              <charseq START="3146" END="3146">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M3507">
+          <extent>
+              <charseq START="3411" END="3411">I</charseq>
+          </extent>
+          <head>
+              <charseq START="3411" END="3411">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M3600">
+          <extent>
+              <charseq START="3491" END="3491">I</charseq>
+          </extent>
+          <head>
+              <charseq START="3491" END="3491">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M3603">
+          <extent>
+              <charseq START="3534" END="3535">us</charseq>
+          </extent>
+          <head>
+              <charseq START="3534" END="3535">us</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M3700">
+          <extent>
+              <charseq START="3700" END="3700">I</charseq>
+          </extent>
+          <head>
+              <charseq START="3700" END="3700">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M4000">
+          <extent>
+              <charseq START="3890" END="3890">I</charseq>
+          </extent>
+          <head>
+              <charseq START="3890" END="3890">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M4206">
+          <extent>
+              <charseq START="4020" END="4021">me</charseq>
+          </extent>
+          <head>
+              <charseq START="4020" END="4021">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M4303">
+          <extent>
+              <charseq START="4214" END="4214">I</charseq>
+          </extent>
+          <head>
+              <charseq START="4214" END="4214">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M4306">
+          <extent>
+              <charseq START="4257" END="4258">us</charseq>
+          </extent>
+          <head>
+              <charseq START="4257" END="4258">us</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M4400">
+          <extent>
+              <charseq START="4423" END="4423">I</charseq>
+          </extent>
+          <head>
+              <charseq START="4423" END="4423">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M4701">
+          <extent>
+              <charseq START="4783" END="4783">I</charseq>
+          </extent>
+          <head>
+              <charseq START="4783" END="4783">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M4906">
+          <extent>
+              <charseq START="4913" END="4914">me</charseq>
+          </extent>
+          <head>
+              <charseq START="4913" END="4914">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M5006">
+          <extent>
+              <charseq START="5044" END="5044">I</charseq>
+          </extent>
+          <head>
+              <charseq START="5044" END="5044">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M5106">
+          <extent>
+              <charseq START="5120" END="5120">I</charseq>
+          </extent>
+          <head>
+              <charseq START="5120" END="5120">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M5304">
+          <extent>
+              <charseq START="5421" END="5422">me</charseq>
+          </extent>
+          <head>
+              <charseq START="5421" END="5422">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M5500">
+          <extent>
+              <charseq START="5465" END="5465">I</charseq>
+          </extent>
+          <head>
+              <charseq START="5465" END="5465">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M6303">
+          <extent>
+              <charseq START="6271" END="6272">My</charseq>
+          </extent>
+          <head>
+              <charseq START="6271" END="6272">My</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M7202">
+          <extent>
+              <charseq START="7299" END="7299">I</charseq>
+          </extent>
+          <head>
+              <charseq START="7299" END="7299">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M7304">
+          <extent>
+              <charseq START="7356" END="7356">I</charseq>
+          </extent>
+          <head>
+              <charseq START="7356" END="7356">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M7313">
+          <extent>
+              <charseq START="7399" END="7400">my</charseq>
+          </extent>
+          <head>
+              <charseq START="7399" END="7400">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M7800">
+          <extent>
+              <charseq START="7789" END="7789">I</charseq>
+          </extent>
+          <head>
+              <charseq START="7789" END="7789">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M8005">
+          <extent>
+              <charseq START="7941" END="7941">I</charseq>
+          </extent>
+          <head>
+              <charseq START="7941" END="7941">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M8100">
+          <extent>
+              <charseq START="7966" END="7966">I</charseq>
+          </extent>
+          <head>
+              <charseq START="7966" END="7966">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M8307">
+          <extent>
+              <charseq START="8168" END="8168">I</charseq>
+          </extent>
+          <head>
+              <charseq START="8168" END="8168">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M8406">
+          <extent>
+              <charseq START="8244" END="8244">I</charseq>
+          </extent>
+          <head>
+              <charseq START="8244" END="8244">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M8500">
+          <extent>
+              <charseq START="8295" END="8296">me</charseq>
+          </extent>
+          <head>
+              <charseq START="8295" END="8296">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M8505">
+          <extent>
+              <charseq START="8353" END="8354">we</charseq>
+          </extent>
+          <head>
+              <charseq START="8353" END="8354">we</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M8800">
+          <extent>
+              <charseq START="8519" END="8519">I</charseq>
+          </extent>
+          <head>
+              <charseq START="8519" END="8519">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M8806">
+          <extent>
+              <charseq START="8568" END="8568">I</charseq>
+          </extent>
+          <head>
+              <charseq START="8568" END="8568">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M9000">
+          <extent>
+              <charseq START="8652" END="8652">I</charseq>
+          </extent>
+          <head>
+              <charseq START="8652" END="8652">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M9100">
+          <extent>
+              <charseq START="8700" END="8700">I</charseq>
+          </extent>
+          <head>
+              <charseq START="8700" END="8700">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M9102">
+          <extent>
+              <charseq START="8707" END="8707">I</charseq>
+          </extent>
+          <head>
+              <charseq START="8707" END="8707">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M9200">
+          <extent>
+              <charseq START="8779" END="8779">I</charseq>
+          </extent>
+          <head>
+              <charseq START="8779" END="8779">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M9505">
+          <extent>
+              <charseq START="9008" END="9008">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9008" END="9008">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M9507">
+          <extent>
+              <charseq START="9016" END="9016">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9016" END="9016">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M9600">
+          <extent>
+              <charseq START="9077" END="9077">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9077" END="9077">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M9700">
+          <extent>
+              <charseq START="9149" END="9149">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9149" END="9149">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M10200">
+          <extent>
+              <charseq START="9443" END="9443">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9443" END="9443">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M10300">
+          <extent>
+              <charseq START="9503" END="9503">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9503" END="9503">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M10307">
+          <extent>
+              <charseq START="9559" END="9559">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9559" END="9559">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M10311">
+          <extent>
+              <charseq START="9609" END="9609">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9609" END="9609">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M10400">
+          <extent>
+              <charseq START="9649" END="9649">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9649" END="9649">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M10702">
+          <extent>
+              <charseq START="9841" END="9841">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9841" END="9841">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M10804">
+          <extent>
+              <charseq START="9898" END="9898">I</charseq>
+          </extent>
+          <head>
+              <charseq START="9898" END="9898">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M10813">
+          <extent>
+              <charseq START="9941" END="9942">my</charseq>
+          </extent>
+          <head>
+              <charseq START="9941" END="9942">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M11200">
+          <extent>
+              <charseq START="10091" END="10091">I</charseq>
+          </extent>
+          <head>
+              <charseq START="10091" END="10091">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M11203">
+          <extent>
+              <charseq START="10115" END="10115">I</charseq>
+          </extent>
+          <head>
+              <charseq START="10115" END="10115">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M11501">
+          <extent>
+              <charseq START="10473" END="10473">I</charseq>
+          </extent>
+          <head>
+              <charseq START="10473" END="10473">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M11705">
+          <extent>
+              <charseq START="10625" END="10625">I</charseq>
+          </extent>
+          <head>
+              <charseq START="10625" END="10625">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M11800">
+          <extent>
+              <charseq START="10650" END="10650">I</charseq>
+          </extent>
+          <head>
+              <charseq START="10650" END="10650">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M12001">
+          <extent>
+              <charseq START="10689" END="10690">My</charseq>
+          </extent>
+          <head>
+              <charseq START="10689" END="10690">My</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M12204">
+          <extent>
+              <charseq START="10883" END="10884">My</charseq>
+          </extent>
+          <head>
+              <charseq START="10883" END="10884">My</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M12500">
+          <extent>
+              <charseq START="10976" END="10976">I</charseq>
+          </extent>
+          <head>
+              <charseq START="10976" END="10976">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M12600">
+          <extent>
+              <charseq START="11231" END="11231">I</charseq>
+          </extent>
+          <head>
+              <charseq START="11231" END="11231">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M12700">
+          <extent>
+              <charseq START="11326" END="11326">I</charseq>
+          </extent>
+          <head>
+              <charseq START="11326" END="11326">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M12802">
+          <extent>
+              <charseq START="11570" END="11570">I</charseq>
+          </extent>
+          <head>
+              <charseq START="11570" END="11570">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M12806">
+          <extent>
+              <charseq START="11600" END="11600">I</charseq>
+          </extent>
+          <head>
+              <charseq START="11600" END="11600">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13000">
+          <extent>
+              <charseq START="11983" END="11983">I</charseq>
+          </extent>
+          <head>
+              <charseq START="11983" END="11983">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13100">
+          <extent>
+              <charseq START="12047" END="12047">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12047" END="12047">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13102">
+          <extent>
+              <charseq START="12063" END="12063">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12063" END="12063">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13400">
+          <extent>
+              <charseq START="12366" END="12366">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12366" END="12366">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13500">
+          <extent>
+              <charseq START="12426" END="12426">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12426" END="12426">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13507">
+          <extent>
+              <charseq START="12482" END="12482">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12482" END="12482">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13511">
+          <extent>
+              <charseq START="12532" END="12532">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12532" END="12532">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13600">
+          <extent>
+              <charseq START="12572" END="12572">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12572" END="12572">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13902">
+          <extent>
+              <charseq START="12741" END="12741">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12741" END="12741">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M13905">
+          <extent>
+              <charseq START="12777" END="12777">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12777" END="12777">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14000">
+          <extent>
+              <charseq START="12814" END="12814">I</charseq>
+          </extent>
+          <head>
+              <charseq START="12814" END="12814">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14104">
+          <extent>
+              <charseq START="13028" END="13029">My</charseq>
+          </extent>
+          <head>
+              <charseq START="13028" END="13029">My</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14400">
+          <extent>
+              <charseq START="13188" END="13188">I</charseq>
+          </extent>
+          <head>
+              <charseq START="13188" END="13188">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14504">
+          <extent>
+              <charseq START="13438" END="13438">i</charseq>
+          </extent>
+          <head>
+              <charseq START="13438" END="13438">i</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14515">
+          <extent>
+              <charseq START="13592" END="13593">my</charseq>
+          </extent>
+          <head>
+              <charseq START="13592" END="13593">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14520">
+          <extent>
+              <charseq START="13622" END="13622">i</charseq>
+          </extent>
+          <head>
+              <charseq START="13622" END="13622">i</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14530">
+          <extent>
+              <charseq START="13733" END="13734">us</charseq>
+          </extent>
+          <head>
+              <charseq START="13733" END="13734">us</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14534">
+          <extent>
+              <charseq START="13746" END="13746">I</charseq>
+          </extent>
+          <head>
+              <charseq START="13746" END="13746">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14540">
+          <extent>
+              <charseq START="13773" END="13774">my</charseq>
+          </extent>
+          <head>
+              <charseq START="13773" END="13774">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14604">
+          <extent>
+              <charseq START="13832" END="13833">me</charseq>
+          </extent>
+          <head>
+              <charseq START="13832" END="13833">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14620">
+          <extent>
+              <charseq START="13949" END="13950">me</charseq>
+          </extent>
+          <head>
+              <charseq START="13949" END="13950">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14623">
+          <extent>
+              <charseq START="14016" END="14016">i</charseq>
+          </extent>
+          <head>
+              <charseq START="14016" END="14016">i</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E5-M14625">
+          <extent>
+              <charseq START="14049" END="14049">i</charseq>
+          </extent>
+          <head>
+              <charseq START="14049" END="14049">i</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E6" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E6-M305">
+          <extent>
+              <charseq START="292" END="315">Oxford (Computer Science</charseq>
+          </extent>
+          <head>
+              <charseq START="292" END="315">Oxford (Computer Science</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E6-M312">
+          <extent>
+              <charseq START="357" END="372">Computer Science</charseq>
+          </extent>
+          <head>
+              <charseq START="357" END="372">Computer Science</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E6-M313">
+          <extent>
+              <charseq START="379" END="402">Bangor (Computer Science</charseq>
+          </extent>
+          <head>
+              <charseq START="379" END="402">Bangor (Computer Science</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E6-M303">
+          <extent>
+              <charseq START="272" END="316">the universities of Oxford (Computer Science)</charseq>
+          </extent>
+          <head>
+              <charseq START="276" END="287">universities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E6-M5202">
+          <extent>
+              <charseq START="5222" END="5227">Oxford</charseq>
+          </extent>
+          <head>
+              <charseq START="5222" END="5227">Oxford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E6-M8601">
+          <extent>
+              <charseq START="8463" END="8478">chinechen
+Oxford</charseq>
+          </extent>
+          <head>
+              <charseq START="8473" END="8478">Oxford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E6-M8602">
+          <extent>
+              <charseq START="8463" END="8471">chinechen</charseq>
+          </extent>
+          <head>
+              <charseq START="8463" END="8471">chinechen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E6-M9105">
+          <extent>
+              <charseq START="8740" END="8745">Oxford</charseq>
+          </extent>
+          <head>
+              <charseq START="8740" END="8745">Oxford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E6-M10405">
+          <extent>
+              <charseq START="9672" END="9677">Oxford</charseq>
+          </extent>
+          <head>
+              <charseq START="9672" END="9677">Oxford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E6-M11202">
+          <extent>
+              <charseq START="10107" END="10112">Oxford</charseq>
+          </extent>
+          <head>
+              <charseq START="10107" END="10112">Oxford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E6-M13605">
+          <extent>
+              <charseq START="12595" END="12600">Oxford</charseq>
+          </extent>
+          <head>
+              <charseq START="12595" END="12600">Oxford</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oxford (Computer Science">
+              <charseq START="292" END="315">Oxford (Computer Science</charseq>
+          </name>
+          <name NAME="Computer Science">
+              <charseq START="357" END="372">Computer Science</charseq>
+          </name>
+          <name NAME="Bangor (Computer Science">
+              <charseq START="379" END="402">Bangor (Computer Science</charseq>
+          </name>
+          <name NAME="Oxford">
+              <charseq START="5222" END="5227">Oxford</charseq>
+          </name>
+          <name NAME="Oxford">
+              <charseq START="8473" END="8478">Oxford</charseq>
+          </name>
+          <name NAME="Oxford">
+              <charseq START="8740" END="8745">Oxford</charseq>
+          </name>
+          <name NAME="Oxford">
+              <charseq START="9672" END="9677">Oxford</charseq>
+          </name>
+          <name NAME="Oxford">
+              <charseq START="10107" END="10112">Oxford</charseq>
+          </name>
+          <name NAME="Oxford">
+              <charseq START="12595" END="12600">Oxford</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E7-M306">
+          <extent>
+              <charseq START="319" END="341">Edinburgh (Informatics)</charseq>
+          </extent>
+          <head>
+              <charseq START="319" END="327">Edinburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E7-M5203">
+          <extent>
+              <charseq START="5233" END="5241">Edinburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="5233" END="5241">Edinburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E7-M8604">
+          <extent>
+              <charseq START="8484" END="8492">Edinburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="8484" END="8492">Edinburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E7-M9107">
+          <extent>
+              <charseq START="8754" END="8762">Edinburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="8754" END="8762">Edinburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E7-M11208">
+          <extent>
+              <charseq START="10136" END="10144">Edinburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="10136" END="10144">Edinburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Edinburgh">
+              <charseq START="319" END="327">Edinburgh</charseq>
+          </name>
+          <name NAME="Edinburgh">
+              <charseq START="5233" END="5241">Edinburgh</charseq>
+          </name>
+          <name NAME="Edinburgh">
+              <charseq START="8484" END="8492">Edinburgh</charseq>
+          </name>
+          <name NAME="Edinburgh">
+              <charseq START="8754" END="8762">Edinburgh</charseq>
+          </name>
+          <name NAME="Edinburgh">
+              <charseq START="10136" END="10144">Edinburgh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E8-M310">
+          <extent>
+              <charseq START="344" END="373">Southampton (Computer Science)</charseq>
+          </extent>
+          <head>
+              <charseq START="344" END="354">Southampton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Southampton">
+              <charseq START="344" END="354">Southampton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E9-M406">
+          <extent>
+              <charseq START="424" END="446">some interesting people</charseq>
+          </extent>
+          <head>
+              <charseq START="441" END="446">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E10-M500">
+          <extent>
+              <charseq START="525" END="526">ya</charseq>
+          </extent>
+          <head>
+              <charseq START="525" END="526">ya</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M802">
+          <extent>
+              <charseq START="883" END="885">you</charseq>
+          </extent>
+          <head>
+              <charseq START="883" END="885">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M1303">
+          <extent>
+              <charseq START="1379" END="1381">you</charseq>
+          </extent>
+          <head>
+              <charseq START="1379" END="1381">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M1800">
+          <extent>
+              <charseq START="1670" END="1672">you</charseq>
+          </extent>
+          <head>
+              <charseq START="1670" END="1672">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M1900">
+          <extent>
+              <charseq START="1678" END="1680">you</charseq>
+          </extent>
+          <head>
+              <charseq START="1678" END="1680">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M1908">
+          <extent>
+              <charseq START="1731" END="1733">you</charseq>
+          </extent>
+          <head>
+              <charseq START="1731" END="1733">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M2104">
+          <extent>
+              <charseq START="1873" END="1875">you</charseq>
+          </extent>
+          <head>
+              <charseq START="1873" END="1875">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M2300">
+          <extent>
+              <charseq START="2100" END="2102">you</charseq>
+          </extent>
+          <head>
+              <charseq START="2100" END="2102">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3002">
+          <extent>
+              <charseq START="2958" END="2960">you</charseq>
+          </extent>
+          <head>
+              <charseq START="2958" END="2960">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3100">
+          <extent>
+              <charseq START="2966" END="2968">you</charseq>
+          </extent>
+          <head>
+              <charseq START="2966" END="2968">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3108">
+          <extent>
+              <charseq START="3019" END="3021">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3019" END="3021">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3200">
+          <extent>
+              <charseq START="3084" END="3086">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3084" END="3086">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3602">
+          <extent>
+              <charseq START="3523" END="3525">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3523" END="3525">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3607">
+          <extent>
+              <charseq START="3578" END="3580">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3578" END="3580">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3614">
+          <extent>
+              <charseq START="3639" END="3642">your</charseq>
+          </extent>
+          <head>
+              <charseq START="3639" END="3642">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3615">
+          <extent>
+              <charseq START="3663" END="3665">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3663" END="3665">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3702">
+          <extent>
+              <charseq START="3710" END="3712">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3710" END="3712">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3704">
+          <extent>
+              <charseq START="3722" END="3724">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3722" END="3724">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M3900">
+          <extent>
+              <charseq START="3869" END="3871">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3869" END="3871">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4100">
+          <extent>
+              <charseq START="3945" END="3947">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3945" END="3947">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4200">
+          <extent>
+              <charseq START="3972" END="3974">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3972" END="3974">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4305">
+          <extent>
+              <charseq START="4246" END="4248">you</charseq>
+          </extent>
+          <head>
+              <charseq START="4246" END="4248">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4310">
+          <extent>
+              <charseq START="4301" END="4303">you</charseq>
+          </extent>
+          <head>
+              <charseq START="4301" END="4303">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4317">
+          <extent>
+              <charseq START="4362" END="4365">your</charseq>
+          </extent>
+          <head>
+              <charseq START="4362" END="4365">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4318">
+          <extent>
+              <charseq START="4386" END="4388">you</charseq>
+          </extent>
+          <head>
+              <charseq START="4386" END="4388">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4402">
+          <extent>
+              <charseq START="4433" END="4435">you</charseq>
+          </extent>
+          <head>
+              <charseq START="4433" END="4435">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4404">
+          <extent>
+              <charseq START="4445" END="4447">you</charseq>
+          </extent>
+          <head>
+              <charseq START="4445" END="4447">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4800">
+          <extent>
+              <charseq START="4838" END="4840">you</charseq>
+          </extent>
+          <head>
+              <charseq START="4838" END="4840">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M4900">
+          <extent>
+              <charseq START="4865" END="4867">you</charseq>
+          </extent>
+          <head>
+              <charseq START="4865" END="4867">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M5103">
+          <extent>
+              <charseq START="5070" END="5072">you</charseq>
+          </extent>
+          <head>
+              <charseq START="5070" END="5072">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M5302">
+          <extent>
+              <charseq START="5403" END="5405">you</charseq>
+          </extent>
+          <head>
+              <charseq START="5403" END="5405">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M5806">
+          <extent>
+              <charseq START="5691" END="5693">you</charseq>
+          </extent>
+          <head>
+              <charseq START="5691" END="5693">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M5900">
+          <extent>
+              <charseq START="5820" END="5822">you</charseq>
+          </extent>
+          <head>
+              <charseq START="5820" END="5822">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M5903">
+          <extent>
+              <charseq START="5851" END="5853">you</charseq>
+          </extent>
+          <head>
+              <charseq START="5851" END="5853">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M5911">
+          <extent>
+              <charseq START="5915" END="5917">you</charseq>
+          </extent>
+          <head>
+              <charseq START="5915" END="5917">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E11-M6000">
+          <extent>
+              <charseq START="5976" END="5988">it&apos;s official</charseq>
+          </extent>
+          <head>
+              <charseq START="5981" END="5988">official</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M6003">
+          <extent>
+              <charseq START="5990" END="5992">you</charseq>
+          </extent>
+          <head>
+              <charseq START="5990" END="5992">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M6105">
+          <extent>
+              <charseq START="6143" END="6146">your</charseq>
+          </extent>
+          <head>
+              <charseq START="6143" END="6146">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M6206">
+          <extent>
+              <charseq START="6206" END="6208">you</charseq>
+          </extent>
+          <head>
+              <charseq START="6206" END="6208">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M7003">
+          <extent>
+              <charseq START="7207" END="7209">you</charseq>
+          </extent>
+          <head>
+              <charseq START="7207" END="7209">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M7300">
+          <extent>
+              <charseq START="7326" END="7328">you</charseq>
+          </extent>
+          <head>
+              <charseq START="7326" END="7328">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M7802">
+          <extent>
+              <charseq START="7824" END="7826">you</charseq>
+          </extent>
+          <head>
+              <charseq START="7824" END="7826">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M7805">
+          <extent>
+              <charseq START="7842" END="7845">your</charseq>
+          </extent>
+          <head>
+              <charseq START="7842" END="7845">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M7810">
+          <extent>
+              <charseq START="7890" END="7893">your</charseq>
+          </extent>
+          <head>
+              <charseq START="7890" END="7893">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M8403">
+          <extent>
+              <charseq START="8194" END="8196">you</charseq>
+          </extent>
+          <head>
+              <charseq START="8194" END="8196">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M8502">
+          <extent>
+              <charseq START="8303" END="8305">you</charseq>
+          </extent>
+          <head>
+              <charseq START="8303" END="8305">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M8903">
+          <extent>
+              <charseq START="8609" END="8612">your</charseq>
+          </extent>
+          <head>
+              <charseq START="8609" END="8612">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M10003">
+          <extent>
+              <charseq START="9375" END="9377">you</charseq>
+          </extent>
+          <head>
+              <charseq START="9375" END="9377">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M10500">
+          <extent>
+              <charseq START="9750" END="9752">you</charseq>
+          </extent>
+          <head>
+              <charseq START="9750" END="9752">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M10800">
+          <extent>
+              <charseq START="9868" END="9870">you</charseq>
+          </extent>
+          <head>
+              <charseq START="9868" END="9870">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M11404">
+          <extent>
+              <charseq START="10279" END="10294">you like so much</charseq>
+          </extent>
+          <head>
+              <charseq START="10279" END="10281">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M11503">
+          <extent>
+              <charseq START="10508" END="10510">you</charseq>
+          </extent>
+          <head>
+              <charseq START="10508" END="10510">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M11506">
+          <extent>
+              <charseq START="10526" END="10529">your</charseq>
+          </extent>
+          <head>
+              <charseq START="10526" END="10529">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M11511">
+          <extent>
+              <charseq START="10574" END="10577">your</charseq>
+          </extent>
+          <head>
+              <charseq START="10574" END="10577">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M12507">
+          <extent>
+              <charseq START="11025" END="11028">your</charseq>
+          </extent>
+          <head>
+              <charseq START="11025" END="11028">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M12511">
+          <extent>
+              <charseq START="11049" END="11052">your</charseq>
+          </extent>
+          <head>
+              <charseq START="11049" END="11052">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M12808">
+          <extent>
+              <charseq START="11613" END="11615">you</charseq>
+          </extent>
+          <head>
+              <charseq START="11613" END="11615">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M12918">
+          <extent>
+              <charseq START="11916" END="11918">you</charseq>
+          </extent>
+          <head>
+              <charseq START="11916" END="11918">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M13700">
+          <extent>
+              <charseq START="12673" END="12675">you</charseq>
+          </extent>
+          <head>
+              <charseq START="12673" END="12675">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M14407">
+          <extent>
+              <charseq START="13237" END="13240">your</charseq>
+          </extent>
+          <head>
+              <charseq START="13237" END="13240">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M14411">
+          <extent>
+              <charseq START="13261" END="13264">your</charseq>
+          </extent>
+          <head>
+              <charseq START="13261" END="13264">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M14805">
+          <extent>
+              <charseq START="14606" END="14608">you</charseq>
+          </extent>
+          <head>
+              <charseq START="14606" END="14608">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M14811">
+          <extent>
+              <charseq START="14630" END="14633">your</charseq>
+          </extent>
+          <head>
+              <charseq START="14630" END="14633">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M15103">
+          <extent>
+              <charseq START="15009" END="15011">you</charseq>
+          </extent>
+          <head>
+              <charseq START="15009" END="15011">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M15305">
+          <extent>
+              <charseq START="15351" END="15353">you</charseq>
+          </extent>
+          <head>
+              <charseq START="15351" END="15353">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M15311">
+          <extent>
+              <charseq START="15375" END="15378">your</charseq>
+          </extent>
+          <head>
+              <charseq START="15375" END="15378">your</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E11-M15417">
+          <extent>
+              <charseq START="15651" END="15653">you</charseq>
+          </extent>
+          <head>
+              <charseq START="15651" END="15653">you</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E12-M1004">
+          <extent>
+              <charseq START="1028" END="1035">the Wiki</charseq>
+          </extent>
+          <head>
+              <charseq START="1032" END="1035">Wiki</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E12-M1504">
+          <extent>
+              <charseq START="1524" END="1531">the Wiki</charseq>
+          </extent>
+          <head>
+              <charseq START="1528" END="1531">Wiki</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wiki">
+              <charseq START="1032" END="1035">Wiki</charseq>
+          </name>
+          <name NAME="Wiki">
+              <charseq START="1528" END="1531">Wiki</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E13-M2000">
+          <extent>
+              <charseq START="1847" END="1856">Guten Tag.</charseq>
+          </extent>
+          <head>
+              <charseq START="1847" END="1855">Guten Tag</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guten Tag">
+              <charseq START="1847" END="1855">Guten Tag</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E14-M2109">
+          <extent>
+              <charseq START="1899" END="1909">all friends</charseq>
+          </extent>
+          <head>
+              <charseq START="1903" END="1909">friends</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E14-M2107">
+          <extent>
+              <charseq START="1893" END="1894">we</charseq>
+          </extent>
+          <head>
+              <charseq START="1893" END="1894">we</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E15-M2500" ROLE="LOC">
+          <extent>
+              <charseq START="2204" END="2210">England</charseq>
+          </extent>
+          <head>
+              <charseq START="2204" END="2210">England</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="England">
+              <charseq START="2204" END="2210">England</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E16-M3001">
+          <extent>
+              <charseq START="2937" END="2946">SmilerNuts</charseq>
+          </extent>
+          <head>
+              <charseq START="2937" END="2946">SmilerNuts</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SmilerNuts">
+              <charseq START="2937" END="2946">SmilerNuts</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E17-M3502">
+          <extent>
+              <charseq START="3336" END="3341">Azrael</charseq>
+          </extent>
+          <head>
+              <charseq START="3336" END="3341">Azrael</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E17-M6600">
+          <extent>
+              <charseq START="6727" END="6737">Lord Azrael</charseq>
+          </extent>
+          <head>
+              <charseq START="6732" END="6737">Azrael</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E17-M6601">
+          <extent>
+              <charseq START="6727" END="6730">Lord</charseq>
+          </extent>
+          <head>
+              <charseq START="6727" END="6730">Lord</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E17-M7600">
+          <extent>
+              <charseq START="7636" END="7649">Lord Azrael
+No</charseq>
+          </extent>
+          <head>
+              <charseq START="7641" END="7646">Azrael</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E17-M7602">
+          <extent>
+              <charseq START="7636" END="7639">Lord</charseq>
+          </extent>
+          <head>
+              <charseq START="7636" END="7639">Lord</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E17-M12200">
+          <extent>
+              <charseq START="10871" END="10881">Lord Azrael</charseq>
+          </extent>
+          <head>
+              <charseq START="10876" END="10881">Azrael</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E17-M12201">
+          <extent>
+              <charseq START="10871" END="10874">Lord</charseq>
+          </extent>
+          <head>
+              <charseq START="10871" END="10874">Lord</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E17-M14100">
+          <extent>
+              <charseq START="13016" END="13026">Lord Azrael</charseq>
+          </extent>
+          <head>
+              <charseq START="13021" END="13026">Azrael</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E17-M14101">
+          <extent>
+              <charseq START="13016" END="13019">Lord</charseq>
+          </extent>
+          <head>
+              <charseq START="13016" END="13019">Lord</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Azrael">
+              <charseq START="3336" END="3341">Azrael</charseq>
+          </name>
+          <name NAME="Azrael">
+              <charseq START="6732" END="6737">Azrael</charseq>
+          </name>
+          <name NAME="Azrael">
+              <charseq START="7641" END="7646">Azrael</charseq>
+          </name>
+          <name NAME="Azrael">
+              <charseq START="10876" END="10881">Azrael</charseq>
+          </name>
+          <name NAME="Azrael">
+              <charseq START="13021" END="13026">Azrael</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M4003" ROLE="LOC">
+          <extent>
+              <charseq START="3934" END="3939">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="3934" END="3939">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M4704">
+          <extent>
+              <charseq START="4827" END="4832">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="4827" END="4832">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M7317" ROLE="LOC">
+          <extent>
+              <charseq START="7422" END="7427">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="7422" END="7427">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M7500">
+          <extent>
+              <charseq START="7469" END="7474">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="7469" END="7474">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E18-M7501">
+          <extent>
+              <charseq START="7479" END="7497">such a awesome city</charseq>
+          </extent>
+          <head>
+              <charseq START="7494" END="7497">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M8504" ROLE="LOC">
+          <extent>
+              <charseq START="8319" END="8324">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="8319" END="8324">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M9202" ROLE="LOC">
+          <extent>
+              <charseq START="8806" END="8811">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="8806" END="8811">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M10817" ROLE="LOC">
+          <extent>
+              <charseq START="9964" END="9969">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="9964" END="9969">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M11000">
+          <extent>
+              <charseq START="10011" END="10016">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="10011" END="10016">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E18-M11001">
+          <extent>
+              <charseq START="10021" END="10039">such a awesome city</charseq>
+          </extent>
+          <head>
+              <charseq START="10036" END="10039">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M11100">
+          <extent>
+              <charseq START="10065" END="10070">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="10065" END="10070">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M11209" ROLE="LOC">
+          <extent>
+              <charseq START="10152" END="10157">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="10152" END="10157">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M11302" ROLE="LOC">
+          <extent>
+              <charseq START="10176" END="10195">Munich (TUM and LMU)</charseq>
+          </extent>
+          <head>
+              <charseq START="10176" END="10181">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E18-M14007" ROLE="GPE">
+          <extent>
+              <charseq START="12863" END="12868">Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="12863" END="12868">Munich</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Munich">
+              <charseq START="3934" END="3939">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="4827" END="4832">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="7422" END="7427">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="7469" END="7474">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="8319" END="8324">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="8806" END="8811">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="9964" END="9969">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="10011" END="10016">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="10065" END="10070">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="10152" END="10157">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="10176" END="10181">Munich</charseq>
+          </name>
+          <name NAME="Munich">
+              <charseq START="12863" END="12868">Munich</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E19-M4102">
+          <extent>
+              <charseq START="3961" END="3966">German</charseq>
+          </extent>
+          <head>
+              <charseq START="3961" END="3966">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E19-M4802">
+          <extent>
+              <charseq START="4854" END="4859">German</charseq>
+          </extent>
+          <head>
+              <charseq START="4854" END="4859">German</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E20-M4700">
+          <extent>
+              <charseq START="4773" END="4781">Snowy Owl</charseq>
+          </extent>
+          <head>
+              <charseq START="4773" END="4781">Snowy Owl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E20-M11500">
+          <extent>
+              <charseq START="10463" END="10471">Snowy Owl</charseq>
+          </extent>
+          <head>
+              <charseq START="10463" END="10471">Snowy Owl</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Snowy Owl">
+              <charseq START="4773" END="4781">Snowy Owl</charseq>
+          </name>
+          <name NAME="Snowy Owl">
+              <charseq START="10463" END="10471">Snowy Owl</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E21-M5005">
+          <extent>
+              <charseq START="5033" END="5042">the places</charseq>
+          </extent>
+          <head>
+              <charseq START="5037" END="5042">places</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E21-M8306">
+          <extent>
+              <charseq START="8157" END="8166">the places</charseq>
+          </extent>
+          <head>
+              <charseq START="8161" END="8166">places</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E23-M5703">
+          <extent>
+              <charseq START="5632" END="5639">everyone</charseq>
+          </extent>
+          <head>
+              <charseq START="5632" END="5639">everyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E24" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E24-M5808">
+          <extent>
+              <charseq START="5699" END="5719">a group of people all</charseq>
+          </extent>
+          <head>
+              <charseq START="5701" END="5705">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E24-M5818">
+          <extent>
+              <charseq START="5800" END="5812">football team</charseq>
+          </extent>
+          <head>
+              <charseq START="5809" END="5812">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E25-M5811">
+          <extent>
+              <charseq START="5710" END="5715">people</charseq>
+          </extent>
+          <head>
+              <charseq START="5710" END="5715">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E27-M6214">
+          <extent>
+              <charseq START="6255" END="6261">friends</charseq>
+          </extent>
+          <head>
+              <charseq START="6255" END="6261">friends</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E27-M6210">
+          <extent>
+              <charseq START="6227" END="6230">they</charseq>
+          </extent>
+          <head>
+              <charseq START="6227" END="6230">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E27-M6309">
+          <extent>
+              <charseq START="6323" END="6326">they</charseq>
+          </extent>
+          <head>
+              <charseq START="6323" END="6326">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E28-M6311">
+          <extent>
+              <charseq START="6332" END="6339">a member</charseq>
+          </extent>
+          <head>
+              <charseq START="6334" END="6339">member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E29" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E29-M7312">
+          <extent>
+              <charseq START="7399" END="7427">my Post-Grad at TUM in Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="7402" END="7410">Post-Grad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E29-M10812">
+          <extent>
+              <charseq START="9941" END="9969">my Post-Grad at TUM in Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="9944" END="9952">Post-Grad</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Post-Grad">
+              <charseq START="7402" END="7410">Post-Grad</charseq>
+          </name>
+          <name NAME="Post-Grad">
+              <charseq START="9944" END="9952">Post-Grad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E30-M7315">
+          <extent>
+              <charseq START="7415" END="7427">TUM in Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="7415" END="7417">TUM</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E30-M10815">
+          <extent>
+              <charseq START="9957" END="9969">TUM in Munich</charseq>
+          </extent>
+          <head>
+              <charseq START="9957" END="9959">TUM</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E30-M11305">
+          <extent>
+              <charseq START="10184" END="10186">TUM</charseq>
+          </extent>
+          <head>
+              <charseq START="10184" END="10186">TUM</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TUM">
+              <charseq START="7415" END="7417">TUM</charseq>
+          </name>
+          <name NAME="TUM">
+              <charseq START="9957" END="9959">TUM</charseq>
+          </name>
+          <name NAME="TUM">
+              <charseq START="10184" END="10186">TUM</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E31" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E31-M7808">
+          <extent>
+              <charseq START="7865" END="7874">the street</charseq>
+          </extent>
+          <head>
+              <charseq START="7869" END="7874">street</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E31-M11509">
+          <extent>
+              <charseq START="10549" END="10558">the street</charseq>
+          </extent>
+          <head>
+              <charseq START="10553" END="10558">street</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E31-M14603">
+          <extent>
+              <charseq START="13807" END="13816">the street</charseq>
+          </extent>
+          <head>
+              <charseq START="13811" END="13816">street</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E33" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E33-M8802">
+          <extent>
+              <charseq START="8547" END="8562">myself Mandarin,</charseq>
+          </extent>
+          <head>
+              <charseq START="8554" END="8561">Mandarin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E33-M8905">
+          <extent>
+              <charseq START="8631" END="8638">Mandarin</charseq>
+          </extent>
+          <head>
+              <charseq START="8631" END="8638">Mandarin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mandarin">
+              <charseq START="8554" END="8561">Mandarin</charseq>
+          </name>
+          <name NAME="Mandarin">
+              <charseq START="8631" END="8638">Mandarin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E34" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E34-M8906" ROLE="LOC">
+          <extent>
+              <charseq START="8641" END="8649">Cantonese</charseq>
+          </extent>
+          <head>
+              <charseq START="8641" END="8649">Cantonese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cantonese">
+              <charseq START="8641" END="8649">Cantonese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E35" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E35-M9005" ROLE="LOC">
+          <extent>
+              <charseq START="8684" END="8692">Chongqing</charseq>
+          </extent>
+          <head>
+              <charseq START="8684" END="8692">Chongqing</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chongqing">
+              <charseq START="8684" END="8692">Chongqing</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E36-M9800">
+          <extent>
+              <charseq START="9254" END="9259">OnlyMe</charseq>
+          </extent>
+          <head>
+              <charseq START="9254" END="9259">OnlyMe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="OnlyMe">
+              <charseq START="9254" END="9259">OnlyMe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E37-M10202" ROLE="LOC">
+          <extent>
+              <charseq START="9458" END="9468">Bournemouth</charseq>
+          </extent>
+          <head>
+              <charseq START="9458" END="9468">Bournemouth</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E37-M13402" ROLE="LOC">
+          <extent>
+              <charseq START="12381" END="12391">Bournemouth</charseq>
+          </extent>
+          <head>
+              <charseq START="12381" END="12391">Bournemouth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bournemouth">
+              <charseq START="9458" END="9468">Bournemouth</charseq>
+          </name>
+          <name NAME="Bournemouth">
+              <charseq START="12381" END="12391">Bournemouth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E38-M10302">
+          <extent>
+              <charseq START="9515" END="9527">a host family</charseq>
+          </extent>
+          <head>
+              <charseq START="9522" END="9527">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E39" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E39-M10304">
+          <extent>
+              <charseq START="9541" END="9645">language schools (I went to a different one the second time because I didn&apos;t like the first one very much</charseq>
+          </extent>
+          <head>
+              <charseq START="9550" END="9556">schools</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E39-M13504">
+          <extent>
+              <charseq START="12464" END="12568">language schools (I went to a different one the second time because I didn&apos;t like the first one very much</charseq>
+          </extent>
+          <head>
+              <charseq START="12473" END="12479">schools</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E40-M10403" ROLE="LOC">
+          <extent>
+              <charseq START="9664" END="9669">London</charseq>
+          </extent>
+          <head>
+              <charseq START="9664" END="9669">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E40-M13603" ROLE="LOC">
+          <extent>
+              <charseq START="12587" END="12592">London</charseq>
+          </extent>
+          <head>
+              <charseq START="12587" END="12592">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="London">
+              <charseq START="9664" END="9669">London</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="12587" END="12592">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E41" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E41-M10406">
+          <extent>
+              <charseq START="9680" END="9683">Bath</charseq>
+          </extent>
+          <head>
+              <charseq START="9680" END="9683">Bath</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E41-M13606">
+          <extent>
+              <charseq START="12603" END="12606">Bath</charseq>
+          </extent>
+          <head>
+              <charseq START="12603" END="12606">Bath</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bath">
+              <charseq START="9680" END="9683">Bath</charseq>
+          </name>
+          <name NAME="Bath">
+              <charseq START="12603" END="12606">Bath</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E42" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E42-M10407">
+          <extent>
+              <charseq START="9689" END="9697">Salisbury</charseq>
+          </extent>
+          <head>
+              <charseq START="9689" END="9697">Salisbury</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E42-M13607">
+          <extent>
+              <charseq START="12612" END="12620">Salisbury</charseq>
+          </extent>
+          <head>
+              <charseq START="12612" END="12620">Salisbury</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Salisbury">
+              <charseq START="9689" END="9697">Salisbury</charseq>
+          </name>
+          <name NAME="Salisbury">
+              <charseq START="12612" END="12620">Salisbury</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E43-M11306">
+          <extent>
+              <charseq START="10192" END="10194">LMU</charseq>
+          </extent>
+          <head>
+              <charseq START="10192" END="10194">LMU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LMU">
+              <charseq START="10192" END="10194">LMU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E44" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E44-M11309">
+          <extent>
+              <charseq START="10217" END="10235">the three best unis</charseq>
+          </extent>
+          <head>
+              <charseq START="10221" END="10225">three</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E44-M12702">
+          <extent>
+              <charseq START="11340" END="11350">the Germans</charseq>
+          </extent>
+          <head>
+              <charseq START="11344" END="11350">Germans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E44-M14608">
+          <extent>
+              <charseq START="13840" END="13843">they</charseq>
+          </extent>
+          <head>
+              <charseq START="13840" END="13843">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E44-M14613">
+          <extent>
+              <charseq START="13893" END="13896">they</charseq>
+          </extent>
+          <head>
+              <charseq START="13893" END="13896">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E45" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E45-M12706">
+          <extent>
+              <charseq START="11384" END="11388">those</charseq>
+          </extent>
+          <head>
+              <charseq START="11384" END="11388">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E47" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E47-M12900">
+          <extent>
+              <charseq START="11694" END="11714">The forests of Bayern</charseq>
+          </extent>
+          <head>
+              <charseq START="11698" END="11704">forests</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E48" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E48-M12903">
+          <extent>
+              <charseq START="11731" END="11740">the cities</charseq>
+          </extent>
+          <head>
+              <charseq START="11735" END="11740">cities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E48-M12916">
+          <extent>
+              <charseq START="11881" END="11884">they</charseq>
+          </extent>
+          <head>
+              <charseq START="11881" END="11884">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E49-M12915">
+          <extent>
+              <charseq START="11849" END="11875">seemingly unfriendly people</charseq>
+          </extent>
+          <head>
+              <charseq START="11870" END="11875">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E49-M12920">
+          <extent>
+              <charseq START="11932" END="11935">them</charseq>
+          </extent>
+          <head>
+              <charseq START="11932" END="11935">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E50" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E50-M12923">
+          <extent>
+              <charseq START="11938" END="11957">the really nice cars</charseq>
+          </extent>
+          <head>
+              <charseq START="11954" END="11957">cars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E51-M13104">
+          <extent>
+              <charseq START="12079" END="12098">bore people too much</charseq>
+          </extent>
+          <head>
+              <charseq START="12084" END="12089">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E52" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E52-M13203">
+          <extent>
+              <charseq START="12174" END="12184">New Zealand</charseq>
+          </extent>
+          <head>
+              <charseq START="12174" END="12184">New Zealand</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Zealand">
+              <charseq START="12174" END="12184">New Zealand</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E53" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E53-M13502">
+          <extent>
+              <charseq START="12438" END="12450">a host family</charseq>
+          </extent>
+          <head>
+              <charseq START="12445" END="12450">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E54" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E54-M14005" ROLE="GPE">
+          <extent>
+              <charseq START="12843" END="12848">Berlin</charseq>
+          </extent>
+          <head>
+              <charseq START="12843" END="12848">Berlin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Berlin">
+              <charseq START="12843" END="12848">Berlin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E55" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E55-M14006" ROLE="GPE">
+          <extent>
+              <charseq START="12851" END="12857">Hamburg</charseq>
+          </extent>
+          <head>
+              <charseq START="12851" END="12857">Hamburg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hamburg">
+              <charseq START="12851" END="12857">Hamburg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E56-M14536">
+          <extent>
+              <charseq START="13755" END="13762">Bradford</charseq>
+          </extent>
+          <head>
+              <charseq START="13755" END="13762">Bradford</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E56-M14521">
+          <extent>
+              <charseq START="13629" END="13631">him</charseq>
+          </extent>
+          <head>
+              <charseq START="13629" END="13631">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E56-M14524">
+          <extent>
+              <charseq START="13666" END="13667">he</charseq>
+          </extent>
+          <head>
+              <charseq START="13666" END="13667">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E56-M14618">
+          <extent>
+              <charseq START="13941" END="13942">he</charseq>
+          </extent>
+          <head>
+              <charseq START="13941" END="13942">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-200-192388-6330096-E56-M14631">
+          <extent>
+              <charseq START="14218" END="14220">him</charseq>
+          </extent>
+          <head>
+              <charseq START="14218" END="14220">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bradford">
+              <charseq START="13755" END="13762">Bradford</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E57" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E57-M14539">
+          <extent>
+              <charseq START="13773" END="13781">my sister</charseq>
+          </extent>
+          <head>
+              <charseq START="13776" END="13781">sister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E58" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E58-M14624">
+          <extent>
+              <charseq START="14032" END="14033">:P</charseq>
+          </extent>
+          <head>
+              <charseq START="14032" END="14033">:P</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME=":P">
+              <charseq START="14032" END="14033">:P</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E59" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E59-M14635">
+          <extent>
+              <charseq START="14270" END="14299">alles gutes und bis nexte mall</charseq>
+          </extent>
+          <head>
+              <charseq START="14296" END="14299">mall</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E60" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E60-M14702">
+          <extent>
+              <charseq START="14460" END="14486">eine deutsche mitstreiterin</charseq>
+          </extent>
+          <head>
+              <charseq START="14460" END="14486">eine deutsche mitstreiterin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="eine deutsche mitstreiterin">
+              <charseq START="14460" END="14486">eine deutsche mitstreiterin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E61" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E61-M14704">
+          <extent>
+              <charseq START="14497" END="14504">du schon</charseq>
+          </extent>
+          <head>
+              <charseq START="14497" END="14504">du schon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="du schon">
+              <charseq START="14497" END="14504">du schon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E62" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E62-M14705">
+          <extent>
+              <charseq START="14510" END="14560">von deinen universitäten gehört?
+grüße vom bodensee</charseq>
+          </extent>
+          <head>
+              <charseq START="14543" END="14560">grüße vom bodensee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="grüße vom bodensee">
+              <charseq START="14543" END="14560">grüße vom bodensee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E63" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E63-M14706">
+          <extent>
+              <charseq START="14510" END="14540">von deinen universitäten gehört</charseq>
+          </extent>
+          <head>
+              <charseq START="14510" END="14540">von deinen universitäten gehört</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="von deinen universitäten gehört">
+              <charseq START="14510" END="14540">von deinen universitäten gehört</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E64" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E64-M14813">
+          <extent>
+              <charseq START="14668" END="14681">Lake Constance</charseq>
+          </extent>
+          <head>
+              <charseq START="14668" END="14681">Lake Constance</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-200-192388-6330096-E64-M15313">
+          <extent>
+              <charseq START="15413" END="15426">Lake Constance</charseq>
+          </extent>
+          <head>
+              <charseq START="15413" END="15426">Lake Constance</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lake Constance">
+              <charseq START="14668" END="14681">Lake Constance</charseq>
+          </name>
+          <name NAME="Lake Constance">
+              <charseq START="15413" END="15426">Lake Constance</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E65" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E65-M14803">
+          <extent>
+              <charseq START="14581" END="14598">a german companion</charseq>
+          </extent>
+          <head>
+              <charseq START="14590" END="14598">companion</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E65-M15303">
+          <extent>
+              <charseq START="15326" END="15343">a german companion</charseq>
+          </extent>
+          <head>
+              <charseq START="15335" END="15343">companion</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-200-192388-6330096-E66" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E66-M14809">
+          <extent>
+              <charseq START="14630" END="14661">your universities yet?
+greetings</charseq>
+          </extent>
+          <head>
+              <charseq START="14635" END="14646">universities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-200-192388-6330096-E66-M15309">
+          <extent>
+              <charseq START="15375" END="15406">your universities yet?
+greetings</charseq>
+          </extent>
+          <head>
+              <charseq START="15380" END="15391">universities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T0" VAL="TEV">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T0-M1">
+            <extent>
+              <charseq START="1227" END="1233">evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T1" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T1-M1">
+            <extent>
+              <charseq START="1911" END="1913">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T2" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T2-M1">
+            <extent>
+              <charseq START="8521" END="8528">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T3" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T3-M1">
+            <extent>
+              <charseq START="9032" END="9034">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T4" VAL="P5W">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T4-M1">
+            <extent>
+              <charseq START="9481" END="9500">five weeks each time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T5" VAL="PT2H">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T5-M1">
+            <extent>
+              <charseq START="9726" END="9742">a couple of hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T6" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T6-M1">
+            <extent>
+              <charseq START="11911" END="11914">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T7" VAL="P5W">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T7-M1">
+            <extent>
+              <charseq START="12404" END="12423">five weeks each time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T8" VAL="PT2H">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T8-M1">
+            <extent>
+              <charseq START="12649" END="12665">a couple of hours</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T9" VAL="P1D">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T9-M1">
+            <extent>
+              <charseq START="12804" END="12810">one day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T10" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T10-M1">
+            <extent>
+              <charseq START="13434" END="13436">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T11" VAL="PAST_REF" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T11-M1">
+            <extent>
+              <charseq START="13595" END="13596">ex</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T12" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T12-M1">
+            <extent>
+              <charseq START="14979" END="14981">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-200-192388-6330096-T13" VAL="PRESENT_REF" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="bolt-eng-DF-200-192388-6330096-T13-M1">
+            <extent>
+              <charseq START="15826" END="15828">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E0" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R0-M200">
+          <extent>
+              <charseq START="189" END="189">I</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E5-M203" ROLE="Arg-1">
+            <extent>
+              <charseq START="189" END="189">I</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E0-M205" ROLE="Arg-2">
+            <extent>
+              <charseq START="198" END="204">Germany</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R0-M4000">
+          <extent>
+              <charseq START="3890" END="3890">I</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E5-M4000" ROLE="Arg-1">
+            <extent>
+              <charseq START="3890" END="3890">I</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E0-M4002" ROLE="Arg-2">
+            <extent>
+              <charseq START="3899" END="3914">Southern Germany</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R0-M4700">
+          <extent>
+              <charseq START="4783" END="4783">I</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E5-M4701" ROLE="Arg-1">
+            <extent>
+              <charseq START="4783" END="4783">I</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E0-M4703" ROLE="Arg-2">
+            <extent>
+              <charseq START="4792" END="4807">Southern Germany</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E3" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R1-M201">
+          <extent>
+              <charseq START="235" END="254">a British university</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E4-M210" ROLE="Arg-1">
+            <extent>
+              <charseq START="235" END="254">a British university</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E3-M211" ROLE="Arg-2">
+            <extent>
+              <charseq START="237" END="243">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E3" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R2-M400">
+          <extent>
+              <charseq START="424" END="446">some interesting people</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E9-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="424" END="446">some interesting people</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E3-M409" ROLE="Arg-2">
+            <extent>
+              <charseq START="458" END="463">the UK</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R3" TYPE="ORG-AFF" SUBTYPE="Ownership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E29" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R3-M7300">
+          <extent>
+              <charseq START="7399" END="7400">my</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E5-M7313" ROLE="Arg-1">
+            <extent>
+              <charseq START="7399" END="7400">my</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E29-M7312" ROLE="Arg-2">
+            <extent>
+              <charseq START="7399" END="7427">my Post-Grad at TUM in Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R3-M10800">
+          <extent>
+              <charseq START="9941" END="9942">my</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E5-M10813" ROLE="Arg-1">
+            <extent>
+              <charseq START="9941" END="9942">my</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E29-M10812" ROLE="Arg-2">
+            <extent>
+              <charseq START="9941" END="9969">my Post-Grad at TUM in Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E30" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R4-M7301">
+          <extent>
+              <charseq START="7399" END="7427">my Post-Grad at TUM in Munich</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E29-M7312" ROLE="Arg-1">
+            <extent>
+              <charseq START="7399" END="7427">my Post-Grad at TUM in Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E30-M7315" ROLE="Arg-2">
+            <extent>
+              <charseq START="7415" END="7427">TUM in Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R4-M10801">
+          <extent>
+              <charseq START="9941" END="9969">my Post-Grad at TUM in Munich</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E29-M10812" ROLE="Arg-1">
+            <extent>
+              <charseq START="9941" END="9969">my Post-Grad at TUM in Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E30-M10815" ROLE="Arg-2">
+            <extent>
+              <charseq START="9957" END="9969">TUM in Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E30" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E18" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R5-M7302">
+          <extent>
+              <charseq START="7415" END="7427">TUM in Munich</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E30-M7315" ROLE="Arg-1">
+            <extent>
+              <charseq START="7415" END="7427">TUM in Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E18-M7317" ROLE="Arg-2">
+            <extent>
+              <charseq START="7422" END="7427">Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R5-M10802">
+          <extent>
+              <charseq START="9957" END="9969">TUM in Munich</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E30-M10815" ROLE="Arg-1">
+            <extent>
+              <charseq START="9957" END="9969">TUM in Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E18-M10817" ROLE="Arg-2">
+            <extent>
+              <charseq START="9964" END="9969">Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E18" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R6-M8500">
+          <extent>
+              <charseq START="8303" END="8305">you</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E11-M8502" ROLE="Arg-1">
+            <extent>
+              <charseq START="8303" END="8305">you</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E18-M8504" ROLE="Arg-2">
+            <extent>
+              <charseq START="8319" END="8324">Munich</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E33" ROLE="Arg-2"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-T2" ROLE="Time-Holds"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R7-M8800">
+          <extent>
+              <charseq START="8519" END="8519">I</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E5-M8800" ROLE="Arg-1">
+            <extent>
+              <charseq START="8519" END="8519">I</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E33-M8802" ROLE="Arg-2">
+            <extent>
+              <charseq START="8547" END="8562">myself Mandarin,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-T2-M1" ROLE="Time-Holds">
+            <extent>
+              <charseq START="8521" END="8528">recently</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E37" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R8-M10200">
+          <extent>
+              <charseq START="9443" END="9443">I</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E5-M10200" ROLE="Arg-1">
+            <extent>
+              <charseq START="9443" END="9443">I</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E37-M10202" ROLE="Arg-2">
+            <extent>
+              <charseq START="9458" END="9468">Bournemouth</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R8-M13400">
+          <extent>
+              <charseq START="12366" END="12366">I</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E5-M13400" ROLE="Arg-1">
+            <extent>
+              <charseq START="12366" END="12366">I</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E37-M13402" ROLE="Arg-2">
+            <extent>
+              <charseq START="12381" END="12391">Bournemouth</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R9" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E44" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E0" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R9-M11300">
+          <extent>
+              <charseq START="10217" END="10235">the three best unis</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E44-M11309" ROLE="Arg-1">
+            <extent>
+              <charseq START="10217" END="10235">the three best unis</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E0-M11312" ROLE="Arg-2">
+            <extent>
+              <charseq START="10240" END="10246">Germany</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R10" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E57" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R10-M14500">
+          <extent>
+              <charseq START="13773" END="13774">my</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E5-M14540" ROLE="Arg-1">
+            <extent>
+              <charseq START="13773" END="13774">my</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E57-M14539" ROLE="Arg-2">
+            <extent>
+              <charseq START="13773" END="13781">my sister</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E65" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E0" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R11-M14800">
+          <extent>
+              <charseq START="14581" END="14598">a german companion</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E65-M14803" ROLE="Arg-1">
+            <extent>
+              <charseq START="14581" END="14598">a german companion</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E0-M14804" ROLE="Arg-2">
+            <extent>
+              <charseq START="14583" END="14588">german</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R11-M15300">
+          <extent>
+              <charseq START="15326" END="15343">a german companion</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E65-M15303" ROLE="Arg-1">
+            <extent>
+              <charseq START="15326" END="15343">a german companion</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E0-M15304" ROLE="Arg-2">
+            <extent>
+              <charseq START="15328" END="15333">german</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="bolt-eng-DF-200-192388-6330096-R12" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="bolt-eng-DF-200-192388-6330096-E66" ROLE="Arg-2"/>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R12-M14801">
+          <extent>
+              <charseq START="14630" END="14633">your</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E11-M14811" ROLE="Arg-1">
+            <extent>
+              <charseq START="14630" END="14633">your</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E66-M14809" ROLE="Arg-2">
+            <extent>
+              <charseq START="14630" END="14661">your universities yet?
+greetings</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="bolt-eng-DF-200-192388-6330096-R12-M15301">
+          <extent>
+              <charseq START="15375" END="15378">your</charseq>
+          </extent>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E11-M15311" ROLE="Arg-1">
+            <extent>
+              <charseq START="15375" END="15378">your</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="bolt-eng-DF-200-192388-6330096-E66-M15309" ROLE="Arg-2">
+            <extent>
+              <charseq START="15375" END="15406">your universities yet?
+greetings</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100519.0263">
+  <document DOCID="XIN_ENG_20100519.0263">
+
+    <entity ID="XIN_ENG_20100519.0263-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="65">Albanian</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="65">Albanian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E0-M301" ROLE="GPE">
+          <extent>
+              <charseq START="167" END="174">Albanian</charseq>
+          </extent>
+          <head>
+              <charseq START="167" END="174">Albanian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Albanian">
+              <charseq START="58" END="65">Albanian</charseq>
+          </name>
+          <name NAME="Albanian">
+              <charseq START="167" END="174">Albanian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E1" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E1-M101">
+          <extent>
+              <charseq START="120" END="125">TIRANA</charseq>
+          </extent>
+          <head>
+              <charseq START="120" END="125">TIRANA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E1-M505">
+          <extent>
+              <charseq START="601" END="606">Tirana</charseq>
+          </extent>
+          <head>
+              <charseq START="601" END="606">Tirana</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E1-M501">
+          <extent>
+              <charseq START="543" END="554">both parties</charseq>
+          </extent>
+          <head>
+              <charseq START="548" END="554">parties</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TIRANA">
+              <charseq START="120" END="125">TIRANA</charseq>
+          </name>
+          <name NAME="Tirana">
+              <charseq START="601" END="606">Tirana</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E2-M200">
+          <extent>
+              <charseq START="136" END="141">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="141">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="136" END="141">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E3-M300">
+          <extent>
+              <charseq START="167" END="201">Albanian opposition Socialist Party</charseq>
+          </extent>
+          <head>
+              <charseq START="187" END="201">Socialist Party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E3-M302">
+          <extent>
+              <charseq START="176" END="185">opposition</charseq>
+          </extent>
+          <head>
+              <charseq START="176" END="185">opposition</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E3-M404">
+          <extent>
+              <charseq START="354" END="372">the Socialist Party</charseq>
+          </extent>
+          <head>
+              <charseq START="358" END="372">Socialist Party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E3-M700">
+          <extent>
+              <charseq START="833" END="851">The Socialist Party</charseq>
+          </extent>
+          <head>
+              <charseq START="837" END="851">Socialist Party</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Socialist Party">
+              <charseq START="187" END="201">Socialist Party</charseq>
+          </name>
+          <name NAME="Socialist Party">
+              <charseq START="358" END="372">Socialist Party</charseq>
+          </name>
+          <name NAME="Socialist Party">
+              <charseq START="837" END="851">Socialist Party</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E4-M401">
+          <extent>
+              <charseq START="330" END="337">Edi Rama</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="337">Edi Rama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E4-M402">
+          <extent>
+              <charseq START="340" END="372">the leader of the Socialist Party</charseq>
+          </extent>
+          <head>
+              <charseq START="344" END="349">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100519.0263-E4-M407">
+          <extent>
+              <charseq START="380" END="381">he</charseq>
+          </extent>
+          <head>
+              <charseq START="380" END="381">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E4-M503">
+          <extent>
+              <charseq START="577" END="580">Rama</charseq>
+          </extent>
+          <head>
+              <charseq START="577" END="580">Rama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Edi Rama">
+              <charseq START="330" END="337">Edi Rama</charseq>
+          </name>
+          <name NAME="Rama">
+              <charseq START="577" END="580">Rama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E5-M409">
+          <extent>
+              <charseq START="387" END="413">Prime Minister Sali
+Berisha</charseq>
+          </extent>
+          <head>
+              <charseq START="402" END="413">Sali
+Berisha</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E5-M411">
+          <extent>
+              <charseq START="393" END="400">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="393" END="400">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E5-M617">
+          <extent>
+              <charseq START="804" END="821">the prime minister</charseq>
+          </extent>
+          <head>
+              <charseq START="814" END="821">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E5-M800">
+          <extent>
+              <charseq START="981" END="987">Berisha</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="987">Berisha</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sali
+Berisha">
+              <charseq START="402" END="413">Sali
+Berisha</charseq>
+          </name>
+          <name NAME="Berisha">
+              <charseq START="981" END="987">Berisha</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E6-M415" ROLE="LOC">
+          <extent>
+              <charseq START="430" END="439">Strasbourg</charseq>
+          </extent>
+          <head>
+              <charseq START="430" END="439">Strasbourg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Strasbourg">
+              <charseq START="430" END="439">Strasbourg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E7-M500">
+          <extent>
+              <charseq START="502" END="528">The international community</charseq>
+          </extent>
+          <head>
+              <charseq START="520" END="528">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E8-M504">
+          <extent>
+              <charseq START="587" END="596">supporters</charseq>
+          </extent>
+          <head>
+              <charseq START="587" END="596">supporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E9-M602">
+          <extent>
+              <charseq START="651" END="671">parliamentary members</charseq>
+          </extent>
+          <head>
+              <charseq START="665" END="671">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100519.0263-E9-M606">
+          <extent>
+              <charseq START="684" END="688">their</charseq>
+          </extent>
+          <head>
+              <charseq START="684" END="688">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E10-M605">
+          <extent>
+              <charseq START="684" END="699">their supporters</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="699">supporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E11-M612">
+          <extent>
+              <charseq START="767" END="821">tents outside the office
+building of the prime minister</charseq>
+          </extent>
+          <head>
+              <charseq START="767" END="771">tents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E11-M614">
+          <extent>
+              <charseq START="781" END="821">the office
+building of the prime minister</charseq>
+          </extent>
+          <head>
+              <charseq START="792" END="799">building</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100519.0263-E12-M616">
+          <extent>
+              <charseq START="785" END="790">office</charseq>
+          </extent>
+          <head>
+              <charseq START="785" END="790">office</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100519.0263-E13" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100519.0263-E13-M704">
+          <extent>
+              <charseq START="876" END="891">Democratic Party</charseq>
+          </extent>
+          <head>
+              <charseq START="876" END="891">Democratic Party</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Democratic Party">
+              <charseq START="876" END="891">Democratic Party</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100519.0263-T0" VAL="2010-05-19">
+        <timex2_mention ID="XIN_ENG_20100519.0263-T0-M1">
+            <extent>
+              <charseq START="128" END="133">May 19</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100519.0263-T1" VAL="2010-05-19TEV">
+        <timex2_mention ID="XIN_ENG_20100519.0263-T1-M1">
+            <extent>
+              <charseq START="213" END="229">Wednesday evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100519.0263-T2" VAL="P19D">
+        <timex2_mention ID="XIN_ENG_20100519.0263-T2-M1">
+            <extent>
+              <charseq START="251" END="256">19-day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100519.0263-T3" VAL="2009">
+        <timex2_mention ID="XIN_ENG_20100519.0263-T3-M1">
+            <extent>
+              <charseq START="299" END="307">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100519.0263-T4" VAL="2010-05-20">
+        <timex2_mention ID="XIN_ENG_20100519.0263-T4-M1">
+            <extent>
+              <charseq START="444" END="451">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100519.0263-T5" VAL="2010-05-19">
+        <timex2_mention ID="XIN_ENG_20100519.0263-T5-M1">
+            <extent>
+              <charseq START="611" END="619">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100519.0263-T6" VAL="2010-05" MOD="START">
+        <timex2_mention ID="XIN_ENG_20100519.0263-T6-M1">
+            <extent>
+              <charseq START="736" END="762">the beginning of this month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100519.0263-T7" VAL="2009">
+        <timex2_mention ID="XIN_ENG_20100519.0263-T7-M1">
+            <extent>
+              <charseq START="912" END="920">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100519.0263-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100519.0263-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100519.0263-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100519.0263-R0-M300">
+          <extent>
+              <charseq START="176" END="185">opposition</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100519.0263-E3-M302" ROLE="Arg-1">
+            <extent>
+              <charseq START="176" END="185">opposition</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100519.0263-E0-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="167" END="174">Albanian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100519.0263-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100519.0263-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100519.0263-E3" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100519.0263-R1-M400">
+          <extent>
+              <charseq START="340" END="372">the leader of the Socialist Party</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100519.0263-E4-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="340" END="372">the leader of the Socialist Party</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100519.0263-E3-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="354" END="372">the Socialist Party</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100519.0263-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100519.0263-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100519.0263-E11" ROLE="Arg-2"/>
+      <relation_argument REFID="XIN_ENG_20100519.0263-T6" ROLE="Time-Within"/>
+        <relation_mention ID="XIN_ENG_20100519.0263-R2-M600">
+          <extent>
+              <charseq START="651" END="671">parliamentary members</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100519.0263-E9-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="651" END="671">parliamentary members</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100519.0263-E11-M612" ROLE="Arg-2">
+            <extent>
+              <charseq START="767" END="821">tents outside the office
+building of the prime minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100519.0263-T6-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="736" END="762">the beginning of this month</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

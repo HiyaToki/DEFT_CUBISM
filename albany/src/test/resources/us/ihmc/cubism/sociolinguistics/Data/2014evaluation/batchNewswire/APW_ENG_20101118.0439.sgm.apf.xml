@@ -1,0 +1,617 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20101118.0439">
+  <document DOCID="APW_ENG_20101118.0439">
+
+    <entity ID="APW_ENG_20101118.0439-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="63">Polish</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">Polish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E0-M203" ROLE="GPE">
+          <extent>
+              <charseq START="140" END="145">Poland</charseq>
+          </extent>
+          <head>
+              <charseq START="140" END="145">Poland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E0-M301">
+          <extent>
+              <charseq START="194" END="199">Poland</charseq>
+          </extent>
+          <head>
+              <charseq START="194" END="199">Poland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E0-M800">
+          <extent>
+              <charseq START="922" END="927">Poland</charseq>
+          </extent>
+          <head>
+              <charseq START="922" END="927">Poland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101118.0439-E0-M801">
+          <extent>
+              <charseq START="932" END="966">one of several ex-communist nations</charseq>
+          </extent>
+          <head>
+              <charseq START="932" END="934">one</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Polish">
+              <charseq START="58" END="63">Polish</charseq>
+          </name>
+          <name NAME="Poland">
+              <charseq START="140" END="145">Poland</charseq>
+          </name>
+          <name NAME="Poland">
+              <charseq START="194" END="199">Poland</charseq>
+          </name>
+          <name NAME="Poland">
+              <charseq START="922" END="927">Poland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101118.0439-E1-M0">
+          <extent>
+              <charseq START="58" END="71">Polish leader:</charseq>
+          </extent>
+          <head>
+              <charseq START="65" END="70">leader</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E2" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E2-M101">
+          <extent>
+              <charseq START="73" END="76">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="76">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E2-M302">
+          <extent>
+              <charseq START="218" END="221">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="218" END="221">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101118.0439-E2-M504">
+          <extent>
+              <charseq START="565" END="576">The alliance</charseq>
+          </extent>
+          <head>
+              <charseq START="569" END="576">alliance</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E2-M705">
+          <extent>
+              <charseq START="835" END="838">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="835" END="838">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E2-M710">
+          <extent>
+              <charseq START="880" END="883">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="880" END="883">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E2-M804">
+          <extent>
+              <charseq START="980" END="983">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="980" END="983">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NATO">
+              <charseq START="73" END="76">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="218" END="221">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="835" END="838">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="880" END="883">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="980" END="983">NATO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E3-M102" ROLE="LOC">
+          <extent>
+              <charseq START="78" END="83">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="78" END="83">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E3-M311" ROLE="GPE">
+          <extent>
+              <charseq START="313" END="318">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="313" END="318">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E3-M413" ROLE="GPE">
+          <extent>
+              <charseq START="476" END="481">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="476" END="481">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E3-M505" ROLE="GPE">
+          <extent>
+              <charseq START="595" END="600">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="595" END="600">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E3-M701" ROLE="GPE">
+          <extent>
+              <charseq START="788" END="794">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="788" END="794">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E3-M706" ROLE="LOC">
+          <extent>
+              <charseq START="840" END="845">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="840" END="845">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russia">
+              <charseq START="78" END="83">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="313" END="318">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="476" END="481">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="595" END="600">Russia</charseq>
+          </name>
+          <name NAME="Russian">
+              <charseq START="788" END="794">Russian</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="840" END="845">Russia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E5-M201" ROLE="LOC">
+          <extent>
+              <charseq START="132" END="137">WARSAW</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="137">WARSAW</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WARSAW">
+              <charseq START="132" END="137">WARSAW</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E6" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E6-M306" ROLE="GPE">
+          <extent>
+              <charseq START="254" END="261">European</charseq>
+          </extent>
+          <head>
+              <charseq START="254" END="261">European</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E6-M512" ROLE="LOC">
+          <extent>
+              <charseq START="689" END="702">eastern Europe</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="702">Europe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European">
+              <charseq START="254" END="261">European</charseq>
+          </name>
+          <name NAME="Europe">
+              <charseq START="697" END="702">Europe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101118.0439-E7-M300">
+          <extent>
+              <charseq START="194" END="211">Poland&apos;s president</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="211">president</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101118.0439-E8-M305">
+          <extent>
+              <charseq START="246" END="271">eastern European countries</charseq>
+          </extent>
+          <head>
+              <charseq START="263" END="271">countries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101118.0439-E8-M417" ROLE="GPE">
+          <extent>
+              <charseq START="528" END="537">both sides</charseq>
+          </extent>
+          <head>
+              <charseq START="533" END="537">sides</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E9-M400">
+          <extent>
+              <charseq START="330" END="359">President Bronislaw Komorowski</charseq>
+          </extent>
+          <head>
+              <charseq START="340" END="359">Bronislaw Komorowski</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101118.0439-E9-M401">
+          <extent>
+              <charseq START="330" END="338">President</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="338">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101118.0439-E9-M409">
+          <extent>
+              <charseq START="423" END="424">he</charseq>
+          </extent>
+          <head>
+              <charseq START="423" END="424">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101118.0439-E9-M500">
+          <extent>
+              <charseq START="554" END="555">he</charseq>
+          </extent>
+          <head>
+              <charseq START="554" END="555">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E9-M600">
+          <extent>
+              <charseq START="715" END="724">Komorowski</charseq>
+          </extent>
+          <head>
+              <charseq START="715" END="724">Komorowski</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bronislaw Komorowski">
+              <charseq START="340" END="359">Bronislaw Komorowski</charseq>
+          </name>
+          <name NAME="Komorowski">
+              <charseq START="715" END="724">Komorowski</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E10-M404">
+          <extent>
+              <charseq START="385" END="410">Thursday&apos;s Gazeta Wyborcza</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="410">Gazeta Wyborcza</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gazeta Wyborcza">
+              <charseq START="396" END="410">Gazeta Wyborcza</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101118.0439-E11-M511" ROLE="GPE">
+          <extent>
+              <charseq START="670" END="684">other countries</charseq>
+          </extent>
+          <head>
+              <charseq START="676" END="684">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E12-M700">
+          <extent>
+              <charseq START="788" END="820">Russian President Dmitry Medvedev</charseq>
+          </extent>
+          <head>
+              <charseq START="806" END="820">Dmitry Medvedev</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101118.0439-E12-M702">
+          <extent>
+              <charseq START="796" END="804">President</charseq>
+          </extent>
+          <head>
+              <charseq START="796" END="804">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dmitry Medvedev">
+              <charseq START="806" END="820">Dmitry Medvedev</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E13-M711">
+          <extent>
+              <charseq START="895" END="910">Lisbon, Portugal</charseq>
+          </extent>
+          <head>
+              <charseq START="895" END="900">Lisbon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lisbon">
+              <charseq START="895" END="900">Lisbon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101118.0439-E14-M713" ROLE="LOC">
+          <extent>
+              <charseq START="903" END="910">Portugal</charseq>
+          </extent>
+          <head>
+              <charseq START="903" END="910">Portugal</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Portugal">
+              <charseq START="903" END="910">Portugal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101118.0439-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101118.0439-E15-M803">
+          <extent>
+              <charseq START="939" END="966">several ex-communist nations</charseq>
+          </extent>
+          <head>
+              <charseq START="960" END="966">nations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20101118.0439-T0" VAL="2010-11-18-11">
+        <timex2_mention ID="APW_ENG_20101118.0439-T0-M1">
+            <extent>
+              <charseq START="147" END="156">2010-11-18</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101118.0439-T1" VAL="2010-11-18">
+        <timex2_mention ID="APW_ENG_20101118.0439-T1-M1">
+            <extent>
+              <charseq START="385" END="392">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101118.0439-T2">
+        <timex2_mention ID="APW_ENG_20101118.0439-T2-M1">
+            <extent>
+              <charseq START="412" END="416">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101118.0439-T3" VAL="2010-W47-WE">
+        <timex2_mention ID="APW_ENG_20101118.0439-T3-M1">
+            <extent>
+              <charseq START="865" END="876">this weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101118.0439-T4" VAL="PXY" ANCHOR_VAL="2010" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="APW_ENG_20101118.0439-T4-M1">
+            <extent>
+              <charseq START="990" END="1001">recent years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20101118.0439-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101118.0439-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101118.0439-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101118.0439-R0-M0">
+          <extent>
+              <charseq START="58" END="71">Polish leader:</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E1-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="58" END="71">Polish leader:</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E0-M2" ROLE="Arg-2">
+            <extent>
+              <charseq START="58" END="63">Polish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101118.0439-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101118.0439-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101118.0439-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101118.0439-R1-M300">
+          <extent>
+              <charseq START="194" END="211">Poland&apos;s president</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E7-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="194" END="211">Poland&apos;s president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E0-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="194" END="199">Poland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101118.0439-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101118.0439-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101118.0439-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101118.0439-R2-M301">
+          <extent>
+              <charseq START="246" END="271">eastern European countries</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E8-M305" ROLE="Arg-1">
+            <extent>
+              <charseq START="246" END="271">eastern European countries</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E6-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="254" END="261">European</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101118.0439-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101118.0439-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101118.0439-E10" ROLE="Arg-2"/>
+      <relation_argument REFID="APW_ENG_20101118.0439-T1" ROLE="Time-Within"/>
+        <relation_mention ID="APW_ENG_20101118.0439-R3-M400">
+          <extent>
+              <charseq START="330" END="359">President Bronislaw Komorowski</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E9-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="330" END="359">President Bronislaw Komorowski</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E10-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="385" END="410">Thursday&apos;s Gazeta Wyborcza</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-T1-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="385" END="392">Thursday</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101118.0439-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101118.0439-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101118.0439-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101118.0439-R4-M500">
+          <extent>
+              <charseq START="670" END="684">other countries</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E11-M511" ROLE="Arg-1">
+            <extent>
+              <charseq START="670" END="684">other countries</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E6-M512" ROLE="Arg-2">
+            <extent>
+              <charseq START="689" END="702">eastern Europe</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101118.0439-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101118.0439-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101118.0439-E3" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101118.0439-R5-M700">
+          <extent>
+              <charseq START="796" END="804">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E12-M702" ROLE="Arg-1">
+            <extent>
+              <charseq START="796" END="804">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E3-M701" ROLE="Arg-2">
+            <extent>
+              <charseq START="788" END="794">Russian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101118.0439-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101118.0439-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101118.0439-E14" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101118.0439-R6-M701">
+          <extent>
+              <charseq START="895" END="910">Lisbon, Portugal</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E13-M711" ROLE="Arg-1">
+            <extent>
+              <charseq START="895" END="910">Lisbon, Portugal</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101118.0439-E14-M713" ROLE="Arg-2">
+            <extent>
+              <charseq START="903" END="910">Portugal</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

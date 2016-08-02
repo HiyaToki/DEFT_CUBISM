@@ -1,0 +1,1794 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100830.0328">
+  <document DOCID="AFP_ENG_20100830.0328">
+
+    <entity ID="AFP_ENG_20100830.0328-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E0-M2">
+          <extent>
+              <charseq START="58" END="62">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E0-M300">
+          <extent>
+              <charseq START="208" END="307">US President Barack Obama, marking the fifth anniversary of Hurricane Katrina in
+New Orleans Sunday,</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="232">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E0-M303">
+          <extent>
+              <charseq START="211" END="219">President</charseq>
+          </extent>
+          <head>
+              <charseq START="211" END="219">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E0-M400">
+          <extent>
+              <charseq START="408" END="409">He</charseq>
+          </extent>
+          <head>
+              <charseq START="408" END="409">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E0-M513">
+          <extent>
+              <charseq START="761" END="762">he</charseq>
+          </extent>
+          <head>
+              <charseq START="761" END="762">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E0-M600">
+          <extent>
+              <charseq START="823" END="827">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="823" END="827">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E0-M700">
+          <extent>
+              <charseq START="1050" END="1051">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1050" END="1051">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E0-M808">
+          <extent>
+              <charseq START="1369" END="1370">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1369" END="1370">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E0-M1812">
+          <extent>
+              <charseq START="3051" END="3055">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="3051" END="3055">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E0-M2003">
+          <extent>
+              <charseq START="3204" END="3208">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="3204" END="3208">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Obama">
+              <charseq START="58" END="62">Obama</charseq>
+          </name>
+          <name NAME="Barack Obama">
+              <charseq START="221" END="232">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="823" END="827">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="3051" END="3055">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="3204" END="3208">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M4" ROLE="GPE">
+          <extent>
+              <charseq START="70" END="80">New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="70" END="80">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M101" ROLE="LOC">
+          <extent>
+              <charseq START="142" END="152">NEW ORLEANS</charseq>
+          </extent>
+          <head>
+              <charseq START="142" END="152">NEW ORLEANS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M309" ROLE="LOC">
+          <extent>
+              <charseq START="289" END="299">New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="289" END="299">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E1-M312">
+          <extent>
+              <charseq START="317" END="324">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="321" END="324">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M414">
+          <extent>
+              <charseq START="585" END="595">New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="595">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E1-M402">
+          <extent>
+              <charseq START="429" END="513">the famed jazz city, where at least 1,500 people died in
+the storm and its aftermath,</charseq>
+          </extent>
+          <head>
+              <charseq START="444" END="447">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E1-M405">
+          <extent>
+              <charseq START="450" END="454">where</charseq>
+          </extent>
+          <head>
+              <charseq START="450" END="454">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M502">
+          <extent>
+              <charseq START="666" END="676">New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="666" END="676">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E1-M518">
+          <extent>
+              <charseq START="784" END="791">the
+city</charseq>
+          </extent>
+          <head>
+              <charseq START="788" END="791">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M908">
+          <extent>
+              <charseq START="1467" END="1477">New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="1467" END="1477">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E1-M1305" ROLE="LOC">
+          <extent>
+              <charseq START="2059" END="2066">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="2063" END="2066">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M1800">
+          <extent>
+              <charseq START="2919" END="2929">New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="2919" END="2929">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E1-M2802">
+          <extent>
+              <charseq START="4279" END="4286">the city</charseq>
+          </extent>
+          <head>
+              <charseq START="4283" END="4286">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M3214" ROLE="GPE">
+          <extent>
+              <charseq START="4865" END="4884">downtown New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="4874" END="4884">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E1-M3215">
+          <extent>
+              <charseq START="4865" END="4872">downtown</charseq>
+          </extent>
+          <head>
+              <charseq START="4865" END="4872">downtown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M3702" ROLE="GPE">
+          <extent>
+              <charseq START="5247" END="5257">New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="5247" END="5257">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E1-M3803" ROLE="GPE">
+          <extent>
+              <charseq START="5347" END="5357">New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="5347" END="5357">New Orleans</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Orleans">
+              <charseq START="70" END="80">New Orleans</charseq>
+          </name>
+          <name NAME="NEW ORLEANS">
+              <charseq START="142" END="152">NEW ORLEANS</charseq>
+          </name>
+          <name NAME="New Orleans">
+              <charseq START="289" END="299">New Orleans</charseq>
+          </name>
+          <name NAME="New Orleans">
+              <charseq START="585" END="595">New Orleans</charseq>
+          </name>
+          <name NAME="New Orleans">
+              <charseq START="666" END="676">New Orleans</charseq>
+          </name>
+          <name NAME="New Orleans">
+              <charseq START="1467" END="1477">New Orleans</charseq>
+          </name>
+          <name NAME="New Orleans">
+              <charseq START="2919" END="2929">New Orleans</charseq>
+          </name>
+          <name NAME="New Orleans">
+              <charseq START="4874" END="4884">New Orleans</charseq>
+          </name>
+          <name NAME="New Orleans">
+              <charseq START="5247" END="5257">New Orleans</charseq>
+          </name>
+          <name NAME="New Orleans">
+              <charseq START="5347" END="5357">New Orleans</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E2-M6">
+          <extent>
+              <charseq START="111" END="117">Katrina</charseq>
+          </extent>
+          <head>
+              <charseq START="111" END="117">Katrina</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E2-M2118">
+          <extent>
+              <charseq START="3606" END="3612">Katrina</charseq>
+          </extent>
+          <head>
+              <charseq START="3606" END="3612">Katrina</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E2-M2207">
+          <extent>
+              <charseq START="3732" END="3738">Katrina</charseq>
+          </extent>
+          <head>
+              <charseq START="3732" END="3738">Katrina</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Katrina">
+              <charseq START="111" END="117">Katrina</charseq>
+          </name>
+          <name NAME="Katrina">
+              <charseq START="3606" END="3612">Katrina</charseq>
+          </name>
+          <name NAME="Katrina">
+              <charseq START="3732" END="3738">Katrina</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E3-M104" ROLE="GPE">
+          <extent>
+              <charseq START="155" END="163">Louisiana</charseq>
+          </extent>
+          <head>
+              <charseq START="155" END="163">Louisiana</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Louisiana">
+              <charseq START="155" END="163">Louisiana</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E4-M200">
+          <extent>
+              <charseq START="180" END="182">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="180" END="182">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="180" END="182">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E5-M302">
+          <extent>
+              <charseq START="208" END="209">US</charseq>
+          </extent>
+          <head>
+              <charseq START="208" END="209">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E5-M509" ROLE="LOC">
+          <extent>
+              <charseq START="720" END="726">America</charseq>
+          </extent>
+          <head>
+              <charseq START="720" END="726">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E5-M3313" ROLE="GPE">
+          <extent>
+              <charseq START="5024" END="5030">America</charseq>
+          </extent>
+          <head>
+              <charseq START="5024" END="5030">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E5-M3600">
+          <extent>
+              <charseq START="5191" END="5197">America</charseq>
+          </extent>
+          <head>
+              <charseq START="5191" END="5197">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="208" END="209">US</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="720" END="726">America</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="5024" END="5030">America</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="5191" END="5197">America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E6-M406">
+          <extent>
+              <charseq START="456" END="476">at least 1,500 people</charseq>
+          </extent>
+          <head>
+              <charseq START="471" END="476">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E7" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E7-M517">
+          <extent>
+              <charseq START="784" END="811">the
+city&apos;s Xavier University</charseq>
+          </extent>
+          <head>
+              <charseq START="795" END="811">Xavier University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xavier University">
+              <charseq START="795" END="811">Xavier University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E9-M610">
+          <extent>
+              <charseq START="917" END="921">homes</charseq>
+          </extent>
+          <head>
+              <charseq START="917" END="921">homes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E10-M611">
+          <extent>
+              <charseq START="927" END="935">residents</charseq>
+          </extent>
+          <head>
+              <charseq START="927" END="935">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E10-M1001">
+          <extent>
+              <charseq START="1600" END="1620">1.4 million residents</charseq>
+          </extent>
+          <head>
+              <charseq START="1612" END="1620">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E10-M1106">
+          <extent>
+              <charseq START="1808" END="1816">residents</charseq>
+          </extent>
+          <head>
+              <charseq START="1808" END="1816">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E10-M1111">
+          <extent>
+              <charseq START="1868" END="1872">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1868" END="1872">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E10-M3802">
+          <extent>
+              <charseq START="5347" END="5367">New Orleans residents</charseq>
+          </extent>
+          <head>
+              <charseq START="5359" END="5367">residents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E11-M619" ROLE="LOC">
+          <extent>
+              <charseq START="1024" END="1033">government</charseq>
+          </extent>
+          <head>
+              <charseq START="1024" END="1033">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E11-M1610" ROLE="LOC">
+          <extent>
+              <charseq START="2698" END="2708">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="2702" END="2708">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E11-M3401" ROLE="ORG">
+          <extent>
+              <charseq START="5083" END="5096">our government</charseq>
+          </extent>
+          <head>
+              <charseq START="5087" END="5096">government</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E12" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E12-M709">
+          <extent>
+              <charseq START="1177" END="1190">Gulf of Mexico</charseq>
+          </extent>
+          <head>
+              <charseq START="1177" END="1190">Gulf of Mexico</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E12-M703">
+          <extent>
+              <charseq START="1066" END="1075">the region</charseq>
+          </extent>
+          <head>
+              <charseq START="1070" END="1075">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E12-M1510">
+          <extent>
+              <charseq START="2445" END="2519">an entire region deprived of
+electricity, communications and drinking water</charseq>
+          </extent>
+          <head>
+              <charseq START="2455" END="2460">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E12-M2009">
+          <extent>
+              <charseq START="3262" END="3271">the region</charseq>
+          </extent>
+          <head>
+              <charseq START="3266" END="3271">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gulf of Mexico">
+              <charseq START="1177" END="1190">Gulf of Mexico</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E13-M711">
+          <extent>
+              <charseq START="1228" END="1245">the administration</charseq>
+          </extent>
+          <head>
+              <charseq START="1232" END="1245">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E13-M800">
+          <extent>
+              <charseq START="1270" END="1286">My administration</charseq>
+          </extent>
+          <head>
+              <charseq START="1273" END="1286">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E13-M904">
+          <extent>
+              <charseq START="1419" END="1421">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1419" END="1421">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E13-M907">
+          <extent>
+              <charseq START="1444" END="1446">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1444" END="1446">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E13-M2100">
+          <extent>
+              <charseq START="3398" END="3415">The administration</charseq>
+          </extent>
+          <head>
+              <charseq START="3402" END="3415">administration</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E13-M2101">
+          <extent>
+              <charseq START="3422" END="3423">it</charseq>
+          </extent>
+          <head>
+              <charseq START="3422" END="3423">it</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E14-M810">
+          <extent>
+              <charseq START="1377" END="1392">a cheering crowd</charseq>
+          </extent>
+          <head>
+              <charseq START="1388" END="1392">crowd</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E16-M1002">
+          <extent>
+              <charseq START="1626" END="1633">visitors</charseq>
+          </extent>
+          <head>
+              <charseq START="1626" END="1633">visitors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E17-M1006">
+          <extent>
+              <charseq START="1693" END="1696">many</charseq>
+          </extent>
+          <head>
+              <charseq START="1693" END="1696">many</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E18-M1108">
+          <extent>
+              <charseq START="1837" END="1843">attics,</charseq>
+          </extent>
+          <head>
+              <charseq START="1837" END="1842">attics</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E19-M1110">
+          <extent>
+              <charseq START="1868" END="1878">their roofs</charseq>
+          </extent>
+          <head>
+              <charseq START="1874" END="1878">roofs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E20-M1202">
+          <extent>
+              <charseq START="1924" END="1942">desperate Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="1934" END="1942">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E21-M1204">
+          <extent>
+              <charseq START="1945" END="2011">waving signs reading &quot;Help Us,&quot; horrified people
+at home and abroad</charseq>
+          </extent>
+          <head>
+              <charseq START="1987" END="1992">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E22" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E22-M1211">
+          <extent>
+              <charseq START="1997" END="2000">home</charseq>
+          </extent>
+          <head>
+              <charseq START="1997" END="2000">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E22-M2608">
+          <extent>
+              <charseq START="4120" END="4128">the house</charseq>
+          </extent>
+          <head>
+              <charseq START="4124" END="4128">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E22-M2704">
+          <extent>
+              <charseq START="4188" END="4221">a house built by actor Brad Pitt&apos;s</charseq>
+          </extent>
+          <head>
+              <charseq START="4190" END="4194">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E22-M2803">
+          <extent>
+              <charseq START="4294" END="4334">the homes of those who have yet to return</charseq>
+          </extent>
+          <head>
+              <charseq START="4298" END="4302">homes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E23" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E23-M1301">
+          <extent>
+              <charseq START="2017" END="2036">the Lower Ninth Ward</charseq>
+          </extent>
+          <head>
+              <charseq START="2021" END="2036">Lower Ninth Ward</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E23-M2401">
+          <extent>
+              <charseq START="3858" END="3877">the lower Ninth Ward</charseq>
+          </extent>
+          <head>
+              <charseq START="3868" END="3877">Ninth Ward</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lower Ninth Ward">
+              <charseq START="2021" END="2036">Lower Ninth Ward</charseq>
+          </name>
+          <name NAME="Ninth Ward">
+              <charseq START="3868" END="3877">Ninth Ward</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E24-M1303" ROLE="LOC">
+          <extent>
+              <charseq START="2039" END="2066">the poorest part of the city</charseq>
+          </extent>
+          <head>
+              <charseq START="2051" END="2054">part</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E25-M1402">
+          <extent>
+              <charseq START="2177" END="2189">the Superdome</charseq>
+          </extent>
+          <head>
+              <charseq START="2181" END="2189">Superdome</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E25-M1404">
+          <extent>
+              <charseq START="2192" END="2315">the stadium where 10,000 people displaced by the
+hurricane had already sought refuge, but it too became cut off by the water</charseq>
+          </extent>
+          <head>
+              <charseq START="2196" END="2202">stadium</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E25-M1406">
+          <extent>
+              <charseq START="2204" END="2208">where</charseq>
+          </extent>
+          <head>
+              <charseq START="2204" END="2208">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E25-M1703">
+          <extent>
+              <charseq START="2752" END="2764">the Superdome</charseq>
+          </extent>
+          <head>
+              <charseq START="2756" END="2764">Superdome</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Superdome">
+              <charseq START="2181" END="2189">Superdome</charseq>
+          </name>
+          <name NAME="Superdome">
+              <charseq START="2756" END="2764">Superdome</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E26-M1400">
+          <extent>
+              <charseq START="2164" END="2167">Many</charseq>
+          </extent>
+          <head>
+              <charseq START="2164" END="2167">Many</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E27-M1407">
+          <extent>
+              <charseq START="2210" END="2249">10,000 people displaced by the
+hurricane</charseq>
+          </extent>
+          <head>
+              <charseq START="2217" END="2222">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E28" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E28-M1507" ROLE="LOC">
+          <extent>
+              <charseq START="2399" END="2421">neighboring Mississippi</charseq>
+          </extent>
+          <head>
+              <charseq START="2411" END="2421">Mississippi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mississippi">
+              <charseq START="2411" END="2421">Mississippi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E29" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E29-M1509" ROLE="LOC">
+          <extent>
+              <charseq START="2427" END="2433">Alabama</charseq>
+          </extent>
+          <head>
+              <charseq START="2427" END="2433">Alabama</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alabama">
+              <charseq START="2427" END="2433">Alabama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E30" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E30-M1600">
+          <extent>
+              <charseq START="2540" END="2557">the National Guard</charseq>
+          </extent>
+          <head>
+              <charseq START="2544" END="2557">National Guard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Guard">
+              <charseq START="2544" END="2557">National Guard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E31-M1609">
+          <extent>
+              <charseq START="2681" END="2689">survivors</charseq>
+          </extent>
+          <head>
+              <charseq START="2681" END="2689">survivors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E31-M1710">
+          <extent>
+              <charseq START="2846" END="2853">rescuers</charseq>
+          </extent>
+          <head>
+              <charseq START="2846" END="2853">rescuers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E32-M1905">
+          <extent>
+              <charseq START="3116" END="3124">community</charseq>
+          </extent>
+          <head>
+              <charseq START="3116" END="3124">community</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E32-M1909">
+          <extent>
+              <charseq START="3173" END="3182">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="3178" END="3182">other</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E33" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E33-M2004">
+          <extent>
+              <charseq START="3221" END="3235">the White House</charseq>
+          </extent>
+          <head>
+              <charseq START="3225" END="3235">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E33-M2008">
+          <extent>
+              <charseq START="3244" END="3246">its</charseq>
+          </extent>
+          <head>
+              <charseq START="3244" END="3246">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House">
+              <charseq START="3225" END="3235">White House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E34-M2012">
+          <extent>
+              <charseq START="3325" END="3360">families still in temporary
+shelters</charseq>
+          </extent>
+          <head>
+              <charseq START="3325" END="3332">families</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E34-M2907">
+          <extent>
+              <charseq START="4453" END="4460">families</charseq>
+          </extent>
+          <head>
+              <charseq START="4453" END="4460">families</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E35-M2014">
+          <extent>
+              <charseq START="3343" END="3360">temporary
+shelters</charseq>
+          </extent>
+          <head>
+              <charseq START="3353" END="3360">shelters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E36" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E36-M2015">
+          <extent>
+              <charseq START="3367" END="3386">more permanent homes</charseq>
+          </extent>
+          <head>
+              <charseq START="3382" END="3386">homes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E37" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E37-M2301">
+          <extent>
+              <charseq START="3776" END="3810">whole neighborhoods in The Big Easy</charseq>
+          </extent>
+          <head>
+              <charseq START="3782" END="3794">neighborhoods</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E38" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E38-M2406">
+          <extent>
+              <charseq START="3890" END="3900">wild plants</charseq>
+          </extent>
+          <head>
+              <charseq START="3895" END="3900">plants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E39-M2413">
+          <extent>
+              <charseq START="3959" END="3968">the houses</charseq>
+          </extent>
+          <head>
+              <charseq START="3963" END="3968">houses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E40-M2501">
+          <extent>
+              <charseq START="4018" END="4029">Robert Green</charseq>
+          </extent>
+          <head>
+              <charseq START="4018" END="4029">Robert Green</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E40-M2503">
+          <extent>
+              <charseq START="4047" END="4049">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4047" END="4049">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E40-M2600">
+          <extent>
+              <charseq START="4057" END="4058">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4057" END="4058">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E40-M2604">
+          <extent>
+              <charseq START="4065" END="4067">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4065" END="4067">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E40-M2606">
+          <extent>
+              <charseq START="4080" END="4082">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4080" END="4082">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E40-M2610">
+          <extent>
+              <charseq START="4153" END="4155">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4153" END="4155">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E40-M2700">
+          <extent>
+              <charseq START="4172" END="4173">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4172" END="4173">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E40-M2810">
+          <extent>
+              <charseq START="4365" END="4406">the character of his historic neighborhood</charseq>
+          </extent>
+          <head>
+              <charseq START="4369" END="4377">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E40-M2800">
+          <extent>
+              <charseq START="4258" END="4259">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4258" END="4259">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E40-M2813">
+          <extent>
+              <charseq START="4382" END="4384">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4382" END="4384">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E40-M2911">
+          <extent>
+              <charseq START="4502" END="4506">Green</charseq>
+          </extent>
+          <head>
+              <charseq START="4502" END="4506">Green</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert Green">
+              <charseq START="4018" END="4029">Robert Green</charseq>
+          </name>
+          <name NAME="Green">
+              <charseq START="4502" END="4506">Green</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E41-M2603">
+          <extent>
+              <charseq START="4065" END="4074">his mother</charseq>
+          </extent>
+          <head>
+              <charseq START="4069" END="4074">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E41-M2605">
+          <extent>
+              <charseq START="4080" END="4096">his granddaughter</charseq>
+          </extent>
+          <head>
+              <charseq START="4084" END="4096">granddaughter</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E42-M2706">
+          <extent>
+              <charseq START="4205" END="4219">actor Brad Pitt</charseq>
+          </extent>
+          <head>
+              <charseq START="4211" END="4219">Brad Pitt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E42-M2707">
+          <extent>
+              <charseq START="4205" END="4209">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="4205" END="4209">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brad Pitt">
+              <charseq START="4211" END="4219">Brad Pitt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E43-M2805">
+          <extent>
+              <charseq START="4307" END="4334">those who have yet to return</charseq>
+          </extent>
+          <head>
+              <charseq START="4307" END="4311">those</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100830.0328-E43-M2807">
+          <extent>
+              <charseq START="4313" END="4315">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4313" END="4315">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E44" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E44-M2812">
+          <extent>
+              <charseq START="4382" END="4406">his historic neighborhood</charseq>
+          </extent>
+          <head>
+              <charseq START="4395" END="4406">neighborhood</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E45-M3003">
+          <extent>
+              <charseq START="4552" END="4557">people</charseq>
+          </extent>
+          <head>
+              <charseq START="4552" END="4557">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E46-M3104">
+          <extent>
+              <charseq START="4620" END="4627">Hispanic</charseq>
+          </extent>
+          <head>
+              <charseq START="4620" END="4627">Hispanic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hispanic">
+              <charseq START="4620" END="4627">Hispanic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E47" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E47-M3107" ROLE="GPE">
+          <extent>
+              <charseq START="4641" END="4650">Vietnamese</charseq>
+          </extent>
+          <head>
+              <charseq START="4641" END="4650">Vietnamese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vietnamese">
+              <charseq START="4641" END="4650">Vietnamese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E48-M3103">
+          <extent>
+              <charseq START="4618" END="4636">a Hispanic neighbor</charseq>
+          </extent>
+          <head>
+              <charseq START="4629" END="4636">neighbor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E48-M3105">
+          <extent>
+              <charseq START="4639" END="4660">a Vietnamese
+neighbor,</charseq>
+          </extent>
+          <head>
+              <charseq START="4652" END="4659">neighbor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E49" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E49-M3208">
+          <extent>
+              <charseq START="4802" END="4846">the Mahalia Jackson Theater in Armstrong Park</charseq>
+          </extent>
+          <head>
+              <charseq START="4806" END="4828">Mahalia Jackson Theater</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mahalia Jackson Theater">
+              <charseq START="4806" END="4828">Mahalia Jackson Theater</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E50" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E50-M3211">
+          <extent>
+              <charseq START="4833" END="4846">Armstrong Park</charseq>
+          </extent>
+          <head>
+              <charseq START="4833" END="4846">Armstrong Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Armstrong Park">
+              <charseq START="4833" END="4846">Armstrong Park</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E51" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E51-M3314">
+          <extent>
+              <charseq START="5039" END="5058">Mayor Mitch
+Landrieu</charseq>
+          </extent>
+          <head>
+              <charseq START="5045" END="5058">Mitch
+Landrieu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E51-M3315">
+          <extent>
+              <charseq START="5039" END="5043">Mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="5039" END="5043">Mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E51-M3602">
+          <extent>
+              <charseq START="5212" END="5219">Landrieu</charseq>
+          </extent>
+          <head>
+              <charseq START="5212" END="5219">Landrieu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100830.0328-E51-M3800">
+          <extent>
+              <charseq START="5311" END="5318">Landrieu</charseq>
+          </extent>
+          <head>
+              <charseq START="5311" END="5318">Landrieu</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mitch
+Landrieu">
+              <charseq START="5045" END="5058">Mitch
+Landrieu</charseq>
+          </name>
+          <name NAME="Landrieu">
+              <charseq START="5212" END="5219">Landrieu</charseq>
+          </name>
+          <name NAME="Landrieu">
+              <charseq START="5311" END="5318">Landrieu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E52" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E52-M3311">
+          <extent>
+              <charseq START="5009" END="5030">the streets of America</charseq>
+          </extent>
+          <head>
+              <charseq START="5013" END="5019">streets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E53" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E53-M3700">
+          <extent>
+              <charseq START="5233" END="5257">The people of New Orleans</charseq>
+          </extent>
+          <head>
+              <charseq START="5237" END="5242">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E54" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E54-M3809">
+          <extent>
+              <charseq START="5411" END="5424">good neighbors</charseq>
+          </extent>
+          <head>
+              <charseq START="5416" END="5424">neighbors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100830.0328-E55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100830.0328-E55-M3811">
+          <extent>
+              <charseq START="5450" END="5480">people of different
+backgrounds</charseq>
+          </extent>
+          <head>
+              <charseq START="5450" END="5455">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T0" VAL="P5Y">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T0-M1">
+            <extent>
+              <charseq START="95" END="110">five years post-</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T1" VAL="2010">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T1-M1">
+            <extent>
+              <charseq START="174" END="177">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T2" VAL="2010-08-29">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T2-M1">
+            <extent>
+              <charseq START="301" END="306">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T3" VAL="PAST_REF" ANCHOR_VAL="2010-08-30" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T3-M1">
+            <extent>
+              <charseq START="611" END="614">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T4" VAL="PAST_REF" ANCHOR_VAL="2010-08-30" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T4-M1">
+            <extent>
+              <charseq START="1164" END="1171">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T5" VAL="2005-08-29">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T5-M1">
+            <extent>
+              <charseq START="1505" END="1519">August 29, 2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="AFP_ENG_20100830.0328-V6" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="AFP_ENG_20100830.0328-V6-M1">
+            <extent>
+              <charseq START="2090" END="2099">99 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T7" VAL="P6D">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T7-M1">
+            <extent>
+              <charseq START="2720" END="2733">Six days after</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T8" VAL="P2M">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T8-M1">
+            <extent>
+              <charseq START="2799" END="2808">two months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T9" VAL="P6M" MOD="MORE_THAN">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T9-M1">
+            <extent>
+              <charseq START="2881" END="2906">more than six months later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T10" VAL="2010-08-29">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T10-M1">
+            <extent>
+              <charseq START="3062" END="3067">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T11" VAL="P5Y">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T11-M1">
+            <extent>
+              <charseq START="3761" END="3770">five years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T12" VAL="2005">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T12-M1">
+            <extent>
+              <charseq START="4002" END="4015">Five years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T13" VAL="PRESENT_REF" ANCHOR_VAL="2010-08-30" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T13-M1">
+            <extent>
+              <charseq START="4175" END="4177">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T14" VAL="P20Y">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T14-M1">
+            <extent>
+              <charseq START="4539" END="4546">20 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T15" VAL="2010-08-30">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T15-M1">
+            <extent>
+              <charseq START="4698" END="4704">The day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T16" VAL="2015">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T16-M1">
+            <extent>
+              <charseq START="4928" END="4961">the fifth year of the 21st century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100830.0328-T17" VAL="PXD">
+        <timex2_mention ID="AFP_ENG_20100830.0328-T17-M1">
+            <extent>
+              <charseq START="4968" END="4985">four
+horrific days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100830.0328-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R1-M501">
+          <extent>
+              <charseq START="784" END="811">the
+city&apos;s Xavier University</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E7-M517" ROLE="Arg-1">
+            <extent>
+              <charseq START="784" END="811">the
+city&apos;s Xavier University</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E1-M518" ROLE="Arg-2">
+            <extent>
+              <charseq START="784" END="791">the
+city</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E12" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R2-M700">
+          <extent>
+              <charseq START="1050" END="1051">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E0-M700" ROLE="Arg-1">
+            <extent>
+              <charseq START="1050" END="1051">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E12-M703" ROLE="Arg-2">
+            <extent>
+              <charseq START="1066" END="1075">the region</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R3" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E18" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R3-M1100">
+          <extent>
+              <charseq START="1808" END="1816">residents</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E10-M1106" ROLE="Arg-1">
+            <extent>
+              <charseq START="1808" END="1816">residents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E18-M1108" ROLE="Arg-2">
+            <extent>
+              <charseq START="1837" END="1843">attics,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E19" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R4-M1101">
+          <extent>
+              <charseq START="1868" END="1872">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E10-M1111" ROLE="Arg-1">
+            <extent>
+              <charseq START="1868" END="1872">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E19-M1110" ROLE="Arg-2">
+            <extent>
+              <charseq START="1868" END="1878">their roofs</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R5-M1300">
+          <extent>
+              <charseq START="2039" END="2066">the poorest part of the city</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E24-M1303" ROLE="Arg-1">
+            <extent>
+              <charseq START="2039" END="2066">the poorest part of the city</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E1-M1305" ROLE="Arg-2">
+            <extent>
+              <charseq START="2059" END="2066">the city</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E34" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E35" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R6-M2000">
+          <extent>
+              <charseq START="3325" END="3360">families still in temporary
+shelters</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E34-M2012" ROLE="Arg-1">
+            <extent>
+              <charseq START="3325" END="3360">families still in temporary
+shelters</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E35-M2014" ROLE="Arg-2">
+            <extent>
+              <charseq START="3343" END="3360">temporary
+shelters</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R7" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E41" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R7-M2600">
+          <extent>
+              <charseq START="4065" END="4067">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E40-M2604" ROLE="Arg-1">
+            <extent>
+              <charseq START="4065" END="4067">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E41-M2603" ROLE="Arg-2">
+            <extent>
+              <charseq START="4065" END="4074">his mother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="AFP_ENG_20100830.0328-R7-M2601">
+          <extent>
+              <charseq START="4080" END="4082">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E40-M2606" ROLE="Arg-1">
+            <extent>
+              <charseq START="4080" END="4082">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E41-M2605" ROLE="Arg-2">
+            <extent>
+              <charseq START="4080" END="4096">his granddaughter</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R8" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E43" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E22" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R8-M2800">
+          <extent>
+              <charseq START="4307" END="4334">those who have yet to return</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E43-M2805" ROLE="Arg-1">
+            <extent>
+              <charseq START="4307" END="4334">those who have yet to return</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E22-M2803" ROLE="Arg-2">
+            <extent>
+              <charseq START="4294" END="4334">the homes of those who have yet to return</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E44" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R9-M2801">
+          <extent>
+              <charseq START="4382" END="4384">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E40-M2813" ROLE="Arg-1">
+            <extent>
+              <charseq START="4382" END="4384">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E44-M2812" ROLE="Arg-2">
+            <extent>
+              <charseq START="4382" END="4406">his historic neighborhood</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R11" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E48" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E47" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R11-M3101">
+          <extent>
+              <charseq START="4639" END="4660">a Vietnamese
+neighbor,</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E48-M3105" ROLE="Arg-1">
+            <extent>
+              <charseq START="4639" END="4660">a Vietnamese
+neighbor,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E47-M3107" ROLE="Arg-2">
+            <extent>
+              <charseq START="4641" END="4650">Vietnamese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R12" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E52" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E5" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R12-M3300">
+          <extent>
+              <charseq START="5009" END="5030">the streets of America</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E52-M3311" ROLE="Arg-1">
+            <extent>
+              <charseq START="5009" END="5030">the streets of America</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E5-M3313" ROLE="Arg-2">
+            <extent>
+              <charseq START="5024" END="5030">America</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R14" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E53" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R14-M3700">
+          <extent>
+              <charseq START="5233" END="5257">The people of New Orleans</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E53-M3700" ROLE="Arg-1">
+            <extent>
+              <charseq START="5233" END="5257">The people of New Orleans</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E1-M3702" ROLE="Arg-2">
+            <extent>
+              <charseq START="5247" END="5257">New Orleans</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100830.0328-R15" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100830.0328-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100830.0328-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100830.0328-R15-M3800">
+          <extent>
+              <charseq START="5347" END="5367">New Orleans residents</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E10-M3802" ROLE="Arg-1">
+            <extent>
+              <charseq START="5347" END="5367">New Orleans residents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100830.0328-E1-M3803" ROLE="Arg-2">
+            <extent>
+              <charseq START="5347" END="5357">New Orleans</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

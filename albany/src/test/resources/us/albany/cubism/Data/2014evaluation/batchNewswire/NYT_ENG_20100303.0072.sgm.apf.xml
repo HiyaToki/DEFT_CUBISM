@@ -1,0 +1,1385 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100303.0072">
+  <document DOCID="NYT_ENG_20100303.0072">
+
+    <entity ID="NYT_ENG_20100303.0072-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E0-M2">
+          <extent>
+              <charseq START="58" END="66">CARDINALS</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="66">CARDINALS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E0-M4">
+          <extent>
+              <charseq START="72" END="76">THEIR</charseq>
+          </extent>
+          <head>
+              <charseq START="72" END="76">THEIR</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E0-M302">
+          <extent>
+              <charseq START="287" END="309">the St. Louis
+Cardinals</charseq>
+          </extent>
+          <head>
+              <charseq START="291" END="309">St. Louis
+Cardinals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E0-M403">
+          <extent>
+              <charseq START="334" END="342">Cardinals</charseq>
+          </extent>
+          <head>
+              <charseq START="334" END="342">Cardinals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E0-M900" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="770" END="778">St. Louis</charseq>
+          </extent>
+          <head>
+              <charseq START="770" END="778">St. Louis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E0-M901">
+          <extent>
+              <charseq START="783" END="822">his fourth team in just more than a year</charseq>
+          </extent>
+          <head>
+              <charseq START="794" END="797">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E0-M2403">
+          <extent>
+              <charseq START="2590" END="2602">the
+Cardinals</charseq>
+          </extent>
+          <head>
+              <charseq START="2594" END="2602">Cardinals</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CARDINALS">
+              <charseq START="58" END="66">CARDINALS</charseq>
+          </name>
+          <name NAME="St. Louis
+Cardinals">
+              <charseq START="291" END="309">St. Louis
+Cardinals</charseq>
+          </name>
+          <name NAME="Cardinals">
+              <charseq START="334" END="342">Cardinals</charseq>
+          </name>
+          <name NAME="Cardinals">
+              <charseq START="2594" END="2602">Cardinals</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E1-M100" ROLE="LOC">
+          <extent>
+              <charseq START="144" END="156">JUPITER, Fla.</charseq>
+          </extent>
+          <head>
+              <charseq START="144" END="150">JUPITER</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="JUPITER">
+              <charseq START="144" END="150">JUPITER</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E2-M102" ROLE="LOC">
+          <extent>
+              <charseq START="153" END="155">Fla</charseq>
+          </extent>
+          <head>
+              <charseq START="153" END="155">Fla</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fla">
+              <charseq START="153" END="155">Fla</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E3-M200">
+          <extent>
+              <charseq START="181" END="201">Manager Tony La Russa</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="201">Tony La Russa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E3-M201">
+          <extent>
+              <charseq START="181" END="187">Manager</charseq>
+          </extent>
+          <head>
+              <charseq START="181" END="187">Manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E3-M1217">
+          <extent>
+              <charseq START="1259" END="1266">La Russa</charseq>
+          </extent>
+          <head>
+              <charseq START="1259" END="1266">La Russa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M1208">
+          <extent>
+              <charseq START="1203" END="1204">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1203" END="1204">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M1215">
+          <extent>
+              <charseq START="1253" END="1255">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1253" END="1255">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E3-M1311">
+          <extent>
+              <charseq START="1359" END="1378">this guy this series</charseq>
+          </extent>
+          <head>
+              <charseq START="1364" END="1366">guy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M1301">
+          <extent>
+              <charseq START="1294" END="1295">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1294" END="1295">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M1403">
+          <extent>
+              <charseq START="1399" END="1400">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1399" END="1400">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M1501">
+          <extent>
+              <charseq START="1444" END="1446">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1444" END="1446">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M1517">
+          <extent>
+              <charseq START="1596" END="1598">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1596" END="1598">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M1601">
+          <extent>
+              <charseq START="1694" END="1696">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1694" END="1696">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M1605">
+          <extent>
+              <charseq START="1732" END="1734">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1732" END="1734">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M1612">
+          <extent>
+              <charseq START="1789" END="1791">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1789" END="1791">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E3-M2521">
+          <extent>
+              <charseq START="2795" END="2802">La Russa</charseq>
+          </extent>
+          <head>
+              <charseq START="2795" END="2802">La Russa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M2507">
+          <extent>
+              <charseq START="2704" END="2706">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2704" END="2706">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M2510">
+          <extent>
+              <charseq START="2723" END="2724">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2723" END="2724">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M2514">
+          <extent>
+              <charseq START="2737" END="2739">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2737" END="2739">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M2516">
+          <extent>
+              <charseq START="2751" END="2752">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2751" END="2752">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E3-M2518">
+          <extent>
+              <charseq START="2768" END="2769">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2768" END="2769">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tony La Russa">
+              <charseq START="189" END="201">Tony La Russa</charseq>
+          </name>
+          <name NAME="La Russa">
+              <charseq START="1259" END="1266">La Russa</charseq>
+          </name>
+          <name NAME="La Russa">
+              <charseq START="2795" END="2802">La Russa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M203">
+          <extent>
+              <charseq START="211" END="220">Brad Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="211" END="220">Brad Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M404">
+          <extent>
+              <charseq START="350" END="354">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="350" END="354">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M601">
+          <extent>
+              <charseq START="448" END="452">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="448" END="452">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E4-M602">
+          <extent>
+              <charseq START="455" END="472">an Oklahoma native</charseq>
+          </extent>
+          <head>
+              <charseq START="467" END="472">native</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E4-M604">
+          <extent>
+              <charseq START="487" END="522">the backfields of Roger
+Dean Stadium</charseq>
+          </extent>
+          <head>
+              <charseq START="491" END="500">backfields</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M700">
+          <extent>
+              <charseq START="600" END="601">He</charseq>
+          </extent>
+          <head>
+              <charseq START="600" END="601">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M704">
+          <extent>
+              <charseq START="615" END="617">his</charseq>
+          </extent>
+          <head>
+              <charseq START="615" END="617">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M801">
+          <extent>
+              <charseq START="668" END="672">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="668" END="672">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M804">
+          <extent>
+              <charseq START="720" END="722">him</charseq>
+          </extent>
+          <head>
+              <charseq START="720" END="722">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M903">
+          <extent>
+              <charseq START="783" END="785">his</charseq>
+          </extent>
+          <head>
+              <charseq START="783" END="785">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M1017">
+          <extent>
+              <charseq START="959" END="961">him</charseq>
+          </extent>
+          <head>
+              <charseq START="959" END="961">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M1100">
+          <extent>
+              <charseq START="994" END="998">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="998">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M1500">
+          <extent>
+              <charseq START="1429" END="1433">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="1429" END="1433">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M1700">
+          <extent>
+              <charseq START="1838" END="1842">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="1838" END="1842">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M1800">
+          <extent>
+              <charseq START="1901" END="1981">Penny, who has relied on his fastball but has developed an
+assortment of pitches,</charseq>
+          </extent>
+          <head>
+              <charseq START="1901" END="1905">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M1802">
+          <extent>
+              <charseq START="1908" END="1910">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1908" END="1910">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M1804">
+          <extent>
+              <charseq START="1926" END="1928">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1926" END="1928">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M1812">
+          <extent>
+              <charseq START="2020" END="2022">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2020" END="2022">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M2002">
+          <extent>
+              <charseq START="2110" END="2114">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="2110" END="2114">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M2003">
+          <extent>
+              <charseq START="2121" END="2122">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2121" END="2122">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M2007">
+          <extent>
+              <charseq START="2161" END="2163">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2161" END="2163">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M2012">
+          <extent>
+              <charseq START="2223" END="2225">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2223" END="2225">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M2200">
+          <extent>
+              <charseq START="2277" END="2295">this the same Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="2291" END="2295">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M2304">
+          <extent>
+              <charseq START="2505" END="2509">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="2505" END="2509">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M2406">
+          <extent>
+              <charseq START="2614" END="2618">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="2614" END="2618">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E4-M2400">
+          <extent>
+              <charseq START="2532" END="2538">The two</charseq>
+          </extent>
+          <head>
+              <charseq START="2536" END="2538">two</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M2603">
+          <extent>
+              <charseq START="2851" END="2855">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="2851" END="2855">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E4-M2700">
+          <extent>
+              <charseq START="2934" END="2938">Penny</charseq>
+          </extent>
+          <head>
+              <charseq START="2934" END="2938">Penny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M2800">
+          <extent>
+              <charseq START="3039" END="3040">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3039" END="3040">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M2803">
+          <extent>
+              <charseq START="3071" END="3073">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3071" END="3073">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E4-M2905">
+          <extent>
+              <charseq START="3153" END="3154">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3153" END="3154">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brad Penny">
+              <charseq START="211" END="220">Brad Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="350" END="354">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="448" END="452">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="668" END="672">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="994" END="998">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="1429" END="1433">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="1838" END="1842">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="1901" END="1905">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="2110" END="2114">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="2291" END="2295">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="2505" END="2509">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="2614" END="2618">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="2851" END="2855">Penny</charseq>
+          </name>
+          <name NAME="Penny">
+              <charseq START="2934" END="2938">Penny</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E5-M402">
+          <extent>
+              <charseq START="332" END="346">a Cardinals fan</charseq>
+          </extent>
+          <head>
+              <charseq START="344" END="346">fan</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E7-M508" ROLE="LOC">
+          <extent>
+              <charseq START="415" END="423">St. Louis</charseq>
+          </extent>
+          <head>
+              <charseq START="415" END="423">St. Louis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="St. Louis">
+              <charseq START="415" END="423">St. Louis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E8-M502">
+          <extent>
+              <charseq START="377" END="384">my
+agent</charseq>
+          </extent>
+          <head>
+              <charseq START="380" END="384">agent</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E9-M603" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="458" END="465">Oklahoma</charseq>
+          </extent>
+          <head>
+              <charseq START="458" END="465">Oklahoma</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E10" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E10-M606">
+          <extent>
+              <charseq START="505" END="522">Roger
+Dean Stadium</charseq>
+          </extent>
+          <head>
+              <charseq START="505" END="522">Roger
+Dean Stadium</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E10-M2707">
+          <extent>
+              <charseq START="2993" END="3010">Roger
+Dean Stadium</charseq>
+          </extent>
+          <head>
+              <charseq START="2993" END="3010">Roger
+Dean Stadium</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roger
+Dean Stadium">
+              <charseq START="505" END="522">Roger
+Dean Stadium</charseq>
+          </name>
+          <name NAME="Roger
+Dean Stadium">
+              <charseq START="2993" END="3010">Roger
+Dean Stadium</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E11" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E11-M611">
+          <extent>
+              <charseq START="579" END="589">the Marlins</charseq>
+          </extent>
+          <head>
+              <charseq START="583" END="589">Marlins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E11-M1303">
+          <extent>
+              <charseq START="1306" END="1316">the Marlins</charseq>
+          </extent>
+          <head>
+              <charseq START="1310" END="1316">Marlins</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E11-M1405">
+          <extent>
+              <charseq START="1409" END="1416">our team</charseq>
+          </extent>
+          <head>
+              <charseq START="1413" END="1416">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marlins">
+              <charseq START="583" END="589">Marlins</charseq>
+          </name>
+          <name NAME="Marlins">
+              <charseq START="1310" END="1316">Marlins</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E12" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E12-M702">
+          <extent>
+              <charseq START="615" END="656">his favorite boyhood team for
+$7.5 million</charseq>
+          </extent>
+          <head>
+              <charseq START="636" END="639">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E13-M1012">
+          <extent>
+              <charseq START="915" END="930">the L.A. Dodgers</charseq>
+          </extent>
+          <head>
+              <charseq START="919" END="930">L.A. Dodgers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E13-M1813">
+          <extent>
+              <charseq START="2042" END="2052">the Dodgers</charseq>
+          </extent>
+          <head>
+              <charseq START="2046" END="2052">Dodgers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="L.A. Dodgers">
+              <charseq START="919" END="930">L.A. Dodgers</charseq>
+          </name>
+          <name NAME="Dodgers">
+              <charseq START="2046" END="2052">Dodgers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E14-M1005">
+          <extent>
+              <charseq START="884" END="982">Star in both
+2006 and &apos;07 with the L.A. Dodgers, a shoulder injury limited him
+to 17 starts in 2008</charseq>
+          </extent>
+          <head>
+              <charseq START="884" END="887">Star</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E15-M1103" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1040" END="1045">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="1040" END="1045">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E15-M1808" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1990" END="1995">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="1990" END="1995">Boston</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E16" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E16-M1107" ROLE="LOC">
+          <extent>
+              <charseq START="1118" END="1130">San
+Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="1118" END="1130">San
+Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E16-M1703" ROLE="LOC">
+          <extent>
+              <charseq START="1877" END="1889">San
+Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="1877" END="1889">San
+Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="San
+Francisco">
+              <charseq START="1118" END="1130">San
+Francisco</charseq>
+          </name>
+          <name NAME="San
+Francisco">
+              <charseq START="1877" END="1889">San
+Francisco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E17-M1503" ROLE="LOC">
+          <extent>
+              <charseq START="1461" END="1466">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="1461" END="1466">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boston">
+              <charseq START="1461" END="1466">Boston</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E18-M1515">
+          <extent>
+              <charseq START="1579" END="1589">Fenway Park</charseq>
+          </extent>
+          <head>
+              <charseq START="1579" END="1589">Fenway Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E18-M1521">
+          <extent>
+              <charseq START="1628" END="1640">smaller parks</charseq>
+          </extent>
+          <head>
+              <charseq START="1636" END="1640">parks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E18-M1603">
+          <extent>
+              <charseq START="1710" END="1715">Fenway</charseq>
+          </extent>
+          <head>
+              <charseq START="1710" END="1715">Fenway</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fenway Park">
+              <charseq START="1579" END="1589">Fenway Park</charseq>
+          </name>
+          <name NAME="Fenway">
+              <charseq START="1710" END="1715">Fenway</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E19" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E19-M1609">
+          <extent>
+              <charseq START="1762" END="1772">the Red Sox</charseq>
+          </extent>
+          <head>
+              <charseq START="1766" END="1772">Red Sox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Red Sox">
+              <charseq START="1766" END="1772">Red Sox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E20" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E20-M1615">
+          <extent>
+              <charseq START="1826" END="1835">the Giants</charseq>
+          </extent>
+          <head>
+              <charseq START="1830" END="1835">Giants</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Giants">
+              <charseq START="1830" END="1835">Giants</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E21" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E21-M1614">
+          <extent>
+              <charseq START="1805" END="1812">two road</charseq>
+          </extent>
+          <head>
+              <charseq START="1809" END="1812">road</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E22-M1902">
+          <extent>
+              <charseq START="2085" END="2089">Yahoo</charseq>
+          </extent>
+          <head>
+              <charseq START="2085" END="2089">Yahoo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yahoo">
+              <charseq START="2085" END="2089">Yahoo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E23-M2011">
+          <extent>
+              <charseq START="2198" END="2207">Larry Bowa</charseq>
+          </extent>
+          <head>
+              <charseq START="2198" END="2207">Larry Bowa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E23-M2100">
+          <extent>
+              <charseq START="2242" END="2245">Bowa</charseq>
+          </extent>
+          <head>
+              <charseq START="2242" END="2245">Bowa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E23-M2300">
+          <extent>
+              <charseq START="2460" END="2463">Bowa</charseq>
+          </extent>
+          <head>
+              <charseq START="2460" END="2463">Bowa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Larry Bowa">
+              <charseq START="2198" END="2207">Larry Bowa</charseq>
+          </name>
+          <name NAME="Bowa">
+              <charseq START="2242" END="2245">Bowa</charseq>
+          </name>
+          <name NAME="Bowa">
+              <charseq START="2460" END="2463">Bowa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E24-M2008">
+          <extent>
+              <charseq START="2181" END="2207">third base
+coach Larry Bowa</charseq>
+          </extent>
+          <head>
+              <charseq START="2192" END="2196">coach</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E25-M2010">
+          <extent>
+              <charseq START="2187" END="2190">base</charseq>
+          </extent>
+          <head>
+              <charseq START="2187" END="2190">base</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E26-M2209">
+          <extent>
+              <charseq START="2436" END="2449">the young kids</charseq>
+          </extent>
+          <head>
+              <charseq START="2446" END="2449">kids</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E27" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E27-M2301">
+          <extent>
+              <charseq START="2470" END="2490">The Los Angeles Times</charseq>
+          </extent>
+          <head>
+              <charseq START="2474" END="2490">Los Angeles Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Los Angeles Times">
+              <charseq START="2474" END="2490">Los Angeles Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E28-M2407">
+          <extent>
+              <charseq START="2627" END="2663">their organization with a clean
+slate</charseq>
+          </extent>
+          <head>
+              <charseq START="2633" END="2644">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E28-M2409">
+          <extent>
+              <charseq START="2627" END="2631">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2627" END="2631">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E29-M2600">
+          <extent>
+              <charseq START="2819" END="2844">Pitching coach Dave Duncan</charseq>
+          </extent>
+          <head>
+              <charseq START="2834" END="2844">Dave Duncan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E29-M2601">
+          <extent>
+              <charseq START="2828" END="2832">coach</charseq>
+          </extent>
+          <head>
+              <charseq START="2828" END="2832">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E29-M2606">
+          <extent>
+              <charseq START="2882" END="2883">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2882" END="2883">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100303.0072-E29-M2704">
+          <extent>
+              <charseq START="2950" END="2952">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2950" END="2952">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dave Duncan">
+              <charseq START="2834" END="2844">Dave Duncan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E30" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E30-M2708">
+          <extent>
+              <charseq START="3020" END="3036">the New York Mets</charseq>
+          </extent>
+          <head>
+              <charseq START="3024" END="3036">New York Mets</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York Mets">
+              <charseq START="3024" END="3036">New York Mets</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100303.0072-E31-M2705">
+          <extent>
+              <charseq START="2969" END="2978">a Cardinal</charseq>
+          </extent>
+          <head>
+              <charseq START="2971" END="2978">Cardinal</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E33-M3300">
+          <extent>
+              <charseq START="3372" END="3383">Tom D&apos;Angelo</charseq>
+          </extent>
+          <head>
+              <charseq START="3372" END="3383">Tom D&apos;Angelo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tom D&apos;Angelo">
+              <charseq START="3372" END="3383">Tom D&apos;Angelo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100303.0072-E34" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100303.0072-E34-M3301">
+          <extent>
+              <charseq START="3396" END="3414">The Palm Beach Post</charseq>
+          </extent>
+          <head>
+              <charseq START="3400" END="3414">Palm Beach Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Palm Beach Post">
+              <charseq START="3400" END="3414">Palm Beach Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T0" VAL="PXY">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T0-M1">
+            <extent>
+              <charseq START="226" END="230">years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T1" VAL="2010-SP">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T1-M1">
+            <extent>
+              <charseq START="524" END="534">this spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T2" VAL="2004">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T2-M1">
+            <extent>
+              <charseq START="594" END="597">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100303.0072-V3" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100303.0072-V3-M1">
+            <extent>
+              <charseq START="645" END="656">$7.5 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T4" VAL="P1Y">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T4-M1">
+            <extent>
+              <charseq START="693" END="700">one-year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T5" VAL="P1Y" MOD="MORE_THAN">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T5-M1">
+            <extent>
+              <charseq START="802" END="822">just more than a year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T6" VAL="2006">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T6-M1">
+            <extent>
+              <charseq START="897" END="900">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T7" VAL="2008">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T7-M1">
+            <extent>
+              <charseq START="979" END="982">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T8" VAL="P1Y">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T8-M1">
+            <extent>
+              <charseq START="1009" END="1016">one-year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100303.0072-V9" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100303.0072-V9-M1">
+            <extent>
+              <charseq START="1019" END="1028">$5 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T10" VAL="2009-01">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T10-M1">
+            <extent>
+              <charseq START="1050" END="1061">January
+2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T11" VAL="2009-08">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T11-M1">
+            <extent>
+              <charseq START="1080" END="1085">August</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T12" VAL="2010-02">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T12-M1">
+            <extent>
+              <charseq START="1100" END="1113">the last month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T13" VAL="PAST_REF" ANCHOR_VAL="2010-03-03" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T13-M1">
+            <extent>
+              <charseq START="1468" END="1478">last season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T14" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T14-M1">
+            <extent>
+              <charseq START="2099" END="2107">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T15">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T15-M1">
+            <extent>
+              <charseq START="2566" END="2584">later in the season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T16" VAL="2010-SP">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T16-M1">
+            <extent>
+              <charseq START="2898" END="2921">this point in the spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T17" VAL="2010-03-05">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T17-M1">
+            <extent>
+              <charseq START="2983" END="2988">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T18" VAL="P1Y">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T18-M1">
+            <extent>
+              <charseq START="3110" END="3115">a year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100303.0072-T19" VAL="2008">
+        <timex2_mention ID="NYT_ENG_20100303.0072-T19-M1">
+            <extent>
+              <charseq START="3164" END="3167">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100303.0072-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100303.0072-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100303.0072-E2" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100303.0072-R0-M100">
+          <extent>
+              <charseq START="144" END="156">JUPITER, Fla.</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E1-M100" ROLE="Arg-1">
+            <extent>
+              <charseq START="144" END="156">JUPITER, Fla.</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E2-M102" ROLE="Arg-2">
+            <extent>
+              <charseq START="153" END="155">Fla</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100303.0072-R2" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100303.0072-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100303.0072-E12" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100303.0072-R2-M700">
+          <extent>
+              <charseq START="615" END="617">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E4-M704" ROLE="Arg-1">
+            <extent>
+              <charseq START="615" END="617">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E12-M702" ROLE="Arg-2">
+            <extent>
+              <charseq START="615" END="656">his favorite boyhood team for
+$7.5 million</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100303.0072-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100303.0072-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100303.0072-E11" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100303.0072-R3-M1400">
+          <extent>
+              <charseq START="1399" END="1400">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E3-M1403" ROLE="Arg-1">
+            <extent>
+              <charseq START="1399" END="1400">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E11-M1405" ROLE="Arg-2">
+            <extent>
+              <charseq START="1409" END="1416">our team</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100303.0072-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100303.0072-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100303.0072-E10" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100303.0072-R5-M2700">
+          <extent>
+              <charseq START="2934" END="2938">Penny</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E4-M2700" ROLE="Arg-1">
+            <extent>
+              <charseq START="2934" END="2938">Penny</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E10-M2707" ROLE="Arg-2">
+            <extent>
+              <charseq START="2993" END="3010">Roger
+Dean Stadium</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100303.0072-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100303.0072-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100303.0072-E34" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100303.0072-R6-M3300">
+          <extent>
+              <charseq START="3372" END="3383">Tom D&apos;Angelo</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E33-M3300" ROLE="Arg-1">
+            <extent>
+              <charseq START="3372" END="3383">Tom D&apos;Angelo</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100303.0072-E34-M3301" ROLE="Arg-2">
+            <extent>
+              <charseq START="3396" END="3414">The Palm Beach Post</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

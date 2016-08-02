@@ -1,0 +1,1476 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100624.0240">
+  <document DOCID="XIN_ENG_20100624.0240">
+
+    <entity ID="XIN_ENG_20100624.0240-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E0-M100">
+          <extent>
+              <charseq START="67" END="74">Colombia</charseq>
+          </extent>
+          <head>
+              <charseq START="67" END="74">Colombia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E0-M402" ROLE="GPE">
+          <extent>
+              <charseq START="188" END="196">Colombian</charseq>
+          </extent>
+          <head>
+              <charseq START="188" END="196">Colombian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E0-M411" ROLE="LOC">
+          <extent>
+              <charseq START="308" END="318">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="312" END="318">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E0-M607">
+          <extent>
+              <charseq START="769" END="779">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="773" END="779">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E0-M803" ROLE="ORG">
+          <extent>
+              <charseq START="1194" END="1207">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="1198" END="1207">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E0-M1201" ROLE="GPE">
+          <extent>
+              <charseq START="1718" END="1726">Colombian</charseq>
+          </extent>
+          <head>
+              <charseq START="1718" END="1726">Colombian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E0-M1504" ROLE="GPE">
+          <extent>
+              <charseq START="2229" END="2237">Colombian</charseq>
+          </extent>
+          <head>
+              <charseq START="2229" END="2237">Colombian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E0-M1709">
+          <extent>
+              <charseq START="2486" END="2493">Colombia</charseq>
+          </extent>
+          <head>
+              <charseq START="2486" END="2493">Colombia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E0-M1714">
+          <extent>
+              <charseq START="2556" END="2564">Colombian</charseq>
+          </extent>
+          <head>
+              <charseq START="2556" END="2564">Colombian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E0-M1802" ROLE="GPE">
+          <extent>
+              <charseq START="2666" END="2674">Colombian</charseq>
+          </extent>
+          <head>
+              <charseq START="2666" END="2674">Colombian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Colombia">
+              <charseq START="67" END="74">Colombia</charseq>
+          </name>
+          <name NAME="Colombian">
+              <charseq START="188" END="196">Colombian</charseq>
+          </name>
+          <name NAME="Colombian">
+              <charseq START="1718" END="1726">Colombian</charseq>
+          </name>
+          <name NAME="Colombian">
+              <charseq START="2229" END="2237">Colombian</charseq>
+          </name>
+          <name NAME="Colombia">
+              <charseq START="2486" END="2493">Colombia</charseq>
+          </name>
+          <name NAME="Colombian">
+              <charseq START="2556" END="2564">Colombian</charseq>
+          </name>
+          <name NAME="Colombian">
+              <charseq START="2666" END="2674">Colombian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E1-M104">
+          <extent>
+              <charseq START="93" END="96">FARC</charseq>
+          </extent>
+          <head>
+              <charseq START="93" END="96">FARC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E1-M503">
+          <extent>
+              <charseq START="408" END="411">FARC</charseq>
+          </extent>
+          <head>
+              <charseq START="408" END="411">FARC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E1-M717">
+          <extent>
+              <charseq START="1157" END="1164">the FARC</charseq>
+          </extent>
+          <head>
+              <charseq START="1161" END="1164">FARC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E1-M904">
+          <extent>
+              <charseq START="1381" END="1384">FARC</charseq>
+          </extent>
+          <head>
+              <charseq START="1381" END="1384">FARC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E1-M1217">
+          <extent>
+              <charseq START="1853" END="1860">the FARC</charseq>
+          </extent>
+          <head>
+              <charseq START="1857" END="1860">FARC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E1-M1718">
+          <extent>
+              <charseq START="2622" END="2629">the FARC</charseq>
+          </extent>
+          <head>
+              <charseq START="2626" END="2629">FARC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FARC">
+              <charseq START="93" END="96">FARC</charseq>
+          </name>
+          <name NAME="FARC">
+              <charseq START="408" END="411">FARC</charseq>
+          </name>
+          <name NAME="FARC">
+              <charseq START="1161" END="1164">FARC</charseq>
+          </name>
+          <name NAME="FARC">
+              <charseq START="1381" END="1384">FARC</charseq>
+          </name>
+          <name NAME="FARC">
+              <charseq START="1857" END="1860">FARC</charseq>
+          </name>
+          <name NAME="FARC">
+              <charseq START="2626" END="2629">FARC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E2-M201" ROLE="LOC">
+          <extent>
+              <charseq START="132" END="137">BOGOTA</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="137">BOGOTA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E2-M1608">
+          <extent>
+              <charseq START="2332" END="2337">Bogota</charseq>
+          </extent>
+          <head>
+              <charseq START="2332" END="2337">Bogota</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BOGOTA">
+              <charseq START="132" END="137">BOGOTA</charseq>
+          </name>
+          <name NAME="Bogota">
+              <charseq START="2332" END="2337">Bogota</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E3-M300">
+          <extent>
+              <charseq START="149" END="154">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="149" END="154">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="149" END="154">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E4-M400">
+          <extent>
+              <charseq START="180" END="318">A major Colombian rebel group blamed the election of former defense minister as
+new president for instigating more conflicts in the country</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="208">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E4-M519">
+          <extent>
+              <charseq START="632" END="646">the rebel group</charseq>
+          </extent>
+          <head>
+              <charseq START="642" END="646">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E4-M618">
+          <extent>
+              <charseq START="902" END="916">the rebel group</charseq>
+          </extent>
+          <head>
+              <charseq START="912" END="916">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E4-M800">
+          <extent>
+              <charseq START="1176" END="1322">The group slammed the government&apos;s &quot;Democratic Security&quot; program for  enabling
+it to &quot;choose as president the defense minister who has boosted more</charseq>
+          </extent>
+          <head>
+              <charseq START="1180" END="1184">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100624.0240-E4-M805">
+          <extent>
+              <charseq START="1255" END="1256">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1255" END="1256">it</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E5-M403">
+          <extent>
+              <charseq START="198" END="202">rebel</charseq>
+          </extent>
+          <head>
+              <charseq START="198" END="202">rebel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E5-M406">
+          <extent>
+              <charseq START="233" END="255">former defense minister</charseq>
+          </extent>
+          <head>
+              <charseq START="248" END="255">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E5-M408">
+          <extent>
+              <charseq START="260" END="272">new president</charseq>
+          </extent>
+          <head>
+              <charseq START="264" END="272">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E5-M520">
+          <extent>
+              <charseq START="636" END="640">rebel</charseq>
+          </extent>
+          <head>
+              <charseq START="636" END="640">rebel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E5-M619">
+          <extent>
+              <charseq START="906" END="910">rebel</charseq>
+          </extent>
+          <head>
+              <charseq START="906" END="910">rebel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E5-M807">
+          <extent>
+              <charseq START="1272" END="1322">president the defense minister who has boosted more</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1280">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E5-M809">
+          <extent>
+              <charseq START="1282" END="1322">the defense minister who has boosted more</charseq>
+          </extent>
+          <head>
+              <charseq START="1294" END="1301">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100624.0240-E5-M812">
+          <extent>
+              <charseq START="1303" END="1305">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1303" END="1305">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E5-M905">
+          <extent>
+              <charseq START="1416" END="1442">the former defense minister</charseq>
+          </extent>
+          <head>
+              <charseq START="1435" END="1442">minister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E6-M412">
+          <extent>
+              <charseq START="321" END="331">local media</charseq>
+          </extent>
+          <head>
+              <charseq START="327" END="331">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E7-M500">
+          <extent>
+              <charseq START="364" END="412">The Revolutionary Armed Forces of Colombia (FARC)</charseq>
+          </extent>
+          <head>
+              <charseq START="368" END="405">Revolutionary Armed Forces of Colombia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Revolutionary Armed Forces of Colombia">
+              <charseq START="368" END="405">Revolutionary Armed Forces of Colombia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E8-M506">
+          <extent>
+              <charseq START="447" END="476">the Nueva Colombia News Agency</charseq>
+          </extent>
+          <head>
+              <charseq START="451" END="476">Nueva Colombia News Agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nueva Colombia News Agency">
+              <charseq START="451" END="476">Nueva Colombia News Agency</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E9-M516">
+          <extent>
+              <charseq START="588" END="605">Juan Manuel
+Santos</charseq>
+          </extent>
+          <head>
+              <charseq START="588" END="605">Juan Manuel
+Santos</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E9-M517">
+          <extent>
+              <charseq START="608" END="646">a tough fighter against the rebel group</charseq>
+          </extent>
+          <head>
+              <charseq START="616" END="622">fighter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E9-M1000">
+          <extent>
+              <charseq START="1528" END="1540">Manuel Santos</charseq>
+          </extent>
+          <head>
+              <charseq START="1528" END="1540">Manuel Santos</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E9-M1100">
+          <extent>
+              <charseq START="1652" END="1664">Manuel Santos</charseq>
+          </extent>
+          <head>
+              <charseq START="1652" END="1664">Manuel Santos</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Juan Manuel
+Santos">
+              <charseq START="588" END="605">Juan Manuel
+Santos</charseq>
+          </name>
+          <name NAME="Manuel Santos">
+              <charseq START="1528" END="1540">Manuel Santos</charseq>
+          </name>
+          <name NAME="Manuel Santos">
+              <charseq START="1652" END="1664">Manuel Santos</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E10-M606">
+          <extent>
+              <charseq START="757" END="766">the people</charseq>
+          </extent>
+          <head>
+              <charseq START="761" END="766">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E10-M613">
+          <extent>
+              <charseq START="848" END="857">the people</charseq>
+          </extent>
+          <head>
+              <charseq START="852" END="857">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E10-M614">
+          <extent>
+              <charseq START="863" END="898">the main character on the front
+line</charseq>
+          </extent>
+          <head>
+              <charseq START="872" END="880">character</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E10-M707">
+          <extent>
+              <charseq START="996" END="1005">the people</charseq>
+          </extent>
+          <head>
+              <charseq START="1000" END="1005">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100624.0240-E10-M712">
+          <extent>
+              <charseq START="1106" END="1109">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1106" END="1109">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E12-M804">
+          <extent>
+              <charseq START="1212" END="1230">Democratic Security</charseq>
+          </extent>
+          <head>
+              <charseq START="1212" END="1230">Democratic Security</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Democratic Security">
+              <charseq START="1212" END="1230">Democratic Security</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E13-M907">
+          <extent>
+              <charseq START="1457" END="1516">winner of Sunday&apos;s run-off of the 2010 presidential election</charseq>
+          </extent>
+          <head>
+              <charseq START="1457" END="1462">winner</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E14-M1001">
+          <extent>
+              <charseq START="1574" END="1595">President Alvaro Uribe</charseq>
+          </extent>
+          <head>
+              <charseq START="1584" END="1595">Alvaro Uribe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E14-M1002">
+          <extent>
+              <charseq START="1574" END="1582">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1574" END="1582">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E14-M1200">
+          <extent>
+              <charseq START="1705" END="1736">The outgoing Colombian president</charseq>
+          </extent>
+          <head>
+              <charseq START="1728" END="1736">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100624.0240-E14-M1203">
+          <extent>
+              <charseq START="1752" END="1753">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1752" END="1753">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100624.0240-E14-M1210">
+          <extent>
+              <charseq START="1810" END="1812">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1810" END="1812">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100624.0240-E14-M1319">
+          <extent>
+              <charseq START="2039" END="2041">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2039" END="2041">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100624.0240-E14-M1323">
+          <extent>
+              <charseq START="2068" END="2070">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2068" END="2070">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E14-M1409">
+          <extent>
+              <charseq START="2158" END="2162">Uribe</charseq>
+          </extent>
+          <head>
+              <charseq START="2158" END="2162">Uribe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E14-M1906">
+          <extent>
+              <charseq START="2849" END="2932">President Uribe will attend
+the G8 Summit scheduled for June 25 and 26 at Huntsville</charseq>
+          </extent>
+          <head>
+              <charseq START="2859" END="2863">Uribe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E14-M1909">
+          <extent>
+              <charseq START="2849" END="2857">President</charseq>
+          </extent>
+          <head>
+              <charseq START="2849" END="2857">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alvaro Uribe">
+              <charseq START="1584" END="1595">Alvaro Uribe</charseq>
+          </name>
+          <name NAME="Uribe">
+              <charseq START="2158" END="2162">Uribe</charseq>
+          </name>
+          <name NAME="Uribe">
+              <charseq START="2859" END="2863">Uribe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E15-M1004">
+          <extent>
+              <charseq START="1615" END="1649">opposition candidate Antanas Mockus</charseq>
+          </extent>
+          <head>
+              <charseq START="1636" END="1649">Antanas Mockus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E15-M1006">
+          <extent>
+              <charseq START="1626" END="1634">candidate</charseq>
+          </extent>
+          <head>
+              <charseq START="1626" END="1634">candidate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Antanas Mockus">
+              <charseq START="1636" END="1649">Antanas Mockus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E16-M1205">
+          <extent>
+              <charseq START="1761" END="1800">request French President
+Nicolas Sarkozy</charseq>
+          </extent>
+          <head>
+              <charseq START="1786" END="1800">Nicolas Sarkozy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E16-M1208">
+          <extent>
+              <charseq START="1776" END="1784">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1776" END="1784">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E16-M1305">
+          <extent>
+              <charseq START="1941" END="1957">President Sarkozy</charseq>
+          </extent>
+          <head>
+              <charseq START="1951" END="1957">Sarkozy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E16-M1306">
+          <extent>
+              <charseq START="1941" END="1949">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1941" END="1949">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E16-M1402">
+          <extent>
+              <charseq START="2088" END="2094">Sarkozy</charseq>
+          </extent>
+          <head>
+              <charseq START="2088" END="2094">Sarkozy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nicolas Sarkozy">
+              <charseq START="1786" END="1800">Nicolas Sarkozy</charseq>
+          </name>
+          <name NAME="Sarkozy">
+              <charseq START="1951" END="1957">Sarkozy</charseq>
+          </name>
+          <name NAME="Sarkozy">
+              <charseq START="2088" END="2094">Sarkozy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E17-M1207" ROLE="GPE">
+          <extent>
+              <charseq START="1769" END="1774">French</charseq>
+          </extent>
+          <head>
+              <charseq START="1769" END="1774">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E17-M1224" ROLE="LOC">
+          <extent>
+              <charseq START="1911" END="1916">France</charseq>
+          </extent>
+          <head>
+              <charseq START="1911" END="1916">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E17-M1715">
+          <extent>
+              <charseq START="2570" END="2575">French</charseq>
+          </extent>
+          <head>
+              <charseq START="2570" END="2575">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E17-M1703">
+          <extent>
+              <charseq START="2456" END="2544">a mediator for the release of Colombia&apos;s former
+presidential candidate Ingrid Betancourt,</charseq>
+          </extent>
+          <head>
+              <charseq START="2458" END="2465">mediator</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="1769" END="1774">French</charseq>
+          </name>
+          <name NAME="France">
+              <charseq START="1911" END="1916">France</charseq>
+          </name>
+          <name NAME="French">
+              <charseq START="2570" END="2575">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E18-M1213">
+          <extent>
+              <charseq START="1814" END="1838">re-capture Rodrigo Granda</charseq>
+          </extent>
+          <head>
+              <charseq START="1825" END="1838">Rodrigo Granda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E18-M1215">
+          <extent>
+              <charseq START="1841" END="1860">a member of the FARC</charseq>
+          </extent>
+          <head>
+              <charseq START="1843" END="1848">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100624.0240-E18-M1219">
+          <extent>
+              <charseq START="1863" END="1865">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1863" END="1865">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E18-M1308">
+          <extent>
+              <charseq START="1972" END="1985">release Granda</charseq>
+          </extent>
+          <head>
+              <charseq START="1980" END="1985">Granda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E18-M1309">
+          <extent>
+              <charseq START="1972" END="1978">release</charseq>
+          </extent>
+          <head>
+              <charseq START="1972" END="1978">release</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E18-M1500">
+          <extent>
+              <charseq START="2180" END="2185">Granda</charseq>
+          </extent>
+          <head>
+              <charseq START="2180" END="2185">Granda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E18-M1700">
+          <extent>
+              <charseq START="2425" END="2430">Granda</charseq>
+          </extent>
+          <head>
+              <charseq START="2425" END="2430">Granda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100624.0240-E18-M1716">
+          <extent>
+              <charseq START="2592" END="2594">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2592" END="2594">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E18-M1800">
+          <extent>
+              <charseq START="2641" END="2646">Granda</charseq>
+          </extent>
+          <head>
+              <charseq START="2641" END="2646">Granda</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rodrigo Granda">
+              <charseq START="1825" END="1838">Rodrigo Granda</charseq>
+          </name>
+          <name NAME="Granda">
+              <charseq START="1980" END="1985">Granda</charseq>
+          </name>
+          <name NAME="Granda">
+              <charseq START="2180" END="2185">Granda</charseq>
+          </name>
+          <name NAME="Granda">
+              <charseq START="2425" END="2430">Granda</charseq>
+          </name>
+          <name NAME="Granda">
+              <charseq START="2641" END="2646">Granda</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E19-M1502" ROLE="LOC">
+          <extent>
+              <charseq START="2216" END="2224">Venezuela</charseq>
+          </extent>
+          <head>
+              <charseq START="2216" END="2224">Venezuela</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Venezuela">
+              <charseq START="2216" END="2224">Venezuela</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E20-M1503">
+          <extent>
+              <charseq START="2229" END="2244">Colombian agents</charseq>
+          </extent>
+          <head>
+              <charseq START="2239" END="2244">agents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E21-M1607">
+          <extent>
+              <charseq START="2320" END="2326">Caracas</charseq>
+          </extent>
+          <head>
+              <charseq START="2320" END="2326">Caracas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Caracas">
+              <charseq START="2320" END="2326">Caracas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E22-M1612">
+          <extent>
+              <charseq START="2389" END="2413">Cuban Leader Fidel Castro</charseq>
+          </extent>
+          <head>
+              <charseq START="2402" END="2413">Fidel Castro</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E22-M1614">
+          <extent>
+              <charseq START="2395" END="2400">Leader</charseq>
+          </extent>
+          <head>
+              <charseq START="2395" END="2400">Leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fidel Castro">
+              <charseq START="2402" END="2413">Fidel Castro</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E23-M1613" ROLE="GPE">
+          <extent>
+              <charseq START="2389" END="2393">Cuban</charseq>
+          </extent>
+          <head>
+              <charseq START="2389" END="2393">Cuban</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cuban">
+              <charseq START="2389" END="2393">Cuban</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E24-M1707">
+          <extent>
+              <charseq START="2486" END="2544">Colombia&apos;s former
+presidential candidate Ingrid Betancourt,</charseq>
+          </extent>
+          <head>
+              <charseq START="2527" END="2543">Ingrid Betancourt</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E24-M1710">
+          <extent>
+              <charseq START="2517" END="2525">candidate</charseq>
+          </extent>
+          <head>
+              <charseq START="2517" END="2525">candidate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E24-M1717">
+          <extent>
+              <charseq START="2611" END="2617">hostage</charseq>
+          </extent>
+          <head>
+              <charseq START="2611" END="2617">hostage</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ingrid Betancourt">
+              <charseq START="2527" END="2543">Ingrid Betancourt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E25-M1803" ROLE="LOC">
+          <extent>
+              <charseq START="2704" END="2711">Paraguay</charseq>
+          </extent>
+          <head>
+              <charseq START="2704" END="2711">Paraguay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E25-M1806" ROLE="GPE">
+          <extent>
+              <charseq START="2749" END="2756">Paraguay</charseq>
+          </extent>
+          <head>
+              <charseq START="2749" END="2756">Paraguay</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paraguay">
+              <charseq START="2704" END="2711">Paraguay</charseq>
+          </name>
+          <name NAME="Paraguay">
+              <charseq START="2749" END="2756">Paraguay</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E26-M1805">
+          <extent>
+              <charseq START="2749" END="2777">Paraguay President Raul Cubas</charseq>
+          </extent>
+          <head>
+              <charseq START="2768" END="2777">Raul Cubas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E26-M1807">
+          <extent>
+              <charseq START="2758" END="2766">President</charseq>
+          </extent>
+          <head>
+              <charseq START="2758" END="2766">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Raul Cubas">
+              <charseq START="2768" END="2777">Raul Cubas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E27-M1801">
+          <extent>
+              <charseq START="2662" END="2682">the Colombian justice</charseq>
+          </extent>
+          <head>
+              <charseq START="2676" END="2682">justice</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E28-M1804">
+          <extent>
+              <charseq START="2742" END="2787">former Paraguay President Raul Cubas&apos; daughter</charseq>
+          </extent>
+          <head>
+              <charseq START="2780" END="2787">daughter</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E29-M1901">
+          <extent>
+              <charseq START="2810" END="2847">Canadian Prime Minister Stephen Harper</charseq>
+          </extent>
+          <head>
+              <charseq START="2834" END="2847">Stephen Harper</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100624.0240-E29-M1904">
+          <extent>
+              <charseq START="2825" END="2832">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="2825" END="2832">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stephen Harper">
+              <charseq START="2834" END="2847">Stephen Harper</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E30" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E30-M1902" ROLE="GPE">
+          <extent>
+              <charseq START="2810" END="2817">Canadian</charseq>
+          </extent>
+          <head>
+              <charseq START="2810" END="2817">Canadian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E30-M1920" ROLE="LOC">
+          <extent>
+              <charseq START="2935" END="2940">Canada</charseq>
+          </extent>
+          <head>
+              <charseq START="2935" END="2940">Canada</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Canadian">
+              <charseq START="2810" END="2817">Canadian</charseq>
+          </name>
+          <name NAME="Canada">
+              <charseq START="2935" END="2940">Canada</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100624.0240-E31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100624.0240-E31-M1919" ROLE="LOC">
+          <extent>
+              <charseq START="2923" END="2932">Huntsville</charseq>
+          </extent>
+          <head>
+              <charseq START="2923" END="2932">Huntsville</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Huntsville">
+              <charseq START="2923" END="2932">Huntsville</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T0" VAL="2010-06-24">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T0-M1">
+            <extent>
+              <charseq START="140" END="146">June 24</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T1" VAL="PAST_REF" ANCHOR_VAL="2010-06-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T1-M1">
+            <extent>
+              <charseq START="233" END="238">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T2" VAL="2010-06-24">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T2-M1">
+            <extent>
+              <charseq START="345" END="352">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T3" VAL="2010-06-24">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T3-M1">
+            <extent>
+              <charseq START="481" END="488">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T4" VAL="P4Y">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T4-M1">
+            <extent>
+              <charseq START="948" END="978">another four years of oligarchy</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T5" VAL="P46Y">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T5-M1">
+            <extent>
+              <charseq START="1141" END="1148">46 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T6" VAL="PAST_REF" ANCHOR_VAL="2010-06-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T6-M1">
+            <extent>
+              <charseq START="1420" END="1425">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T7" VAL="2010-06-20">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T7-M1">
+            <extent>
+              <charseq START="1467" END="1472">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T8" VAL="2010">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T8-M1">
+            <extent>
+              <charseq START="1491" END="1494">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T9" VAL="2010-08-07">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T9-M1">
+            <extent>
+              <charseq START="1686" END="1693">August 7</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T10" VAL="2010-06-24">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T10-M1">
+            <extent>
+              <charseq START="1743" END="1750">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T11" VAL="2007">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T11-M1">
+            <extent>
+              <charseq START="1883" END="1886">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T12" VAL="2010-06-25">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T12-M1">
+            <extent>
+              <charseq START="1988" END="1995">tomorrow</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T13" VAL="2010-06-18">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T13-M1">
+            <extent>
+              <charseq START="1998" END="2003">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T14" VAL="2004" MOD="END">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T14-M1">
+            <extent>
+              <charseq START="2203" END="2211">late 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T15" VAL="PAST_REF" ANCHOR_VAL="2010-06-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T15-M1">
+            <extent>
+              <charseq START="2497" END="2502">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T16" VAL="PAST_REF" ANCHOR_VAL="2010-06-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T16-M1">
+            <extent>
+              <charseq START="2742" END="2747">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100624.0240-T17" VAL="2010-06-25">
+        <timex2_mention ID="XIN_ENG_20100624.0240-T17-M1">
+            <extent>
+              <charseq START="2905" END="2911">June 25</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100624.0240-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R0-M400">
+          <extent>
+              <charseq START="180" END="318">A major Colombian rebel group blamed the election of former defense minister as
+new president for instigating more conflicts in the country</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E4-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="180" END="318">A major Colombian rebel group blamed the election of former defense minister as
+new president for instigating more conflicts in the country</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E0-M402" ROLE="Arg-2">
+            <extent>
+              <charseq START="188" END="196">Colombian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E4" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R1-M401">
+          <extent>
+              <charseq START="198" END="202">rebel</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E5-M403" ROLE="Arg-1">
+            <extent>
+              <charseq START="198" END="202">rebel</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E4-M400" ROLE="Arg-2">
+            <extent>
+              <charseq START="180" END="318">A major Colombian rebel group blamed the election of former defense minister as
+new president for instigating more conflicts in the country</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20100624.0240-R1-M500">
+          <extent>
+              <charseq START="636" END="640">rebel</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E5-M520" ROLE="Arg-1">
+            <extent>
+              <charseq START="636" END="640">rebel</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E4-M519" ROLE="Arg-2">
+            <extent>
+              <charseq START="632" END="646">the rebel group</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20100624.0240-R1-M600">
+          <extent>
+              <charseq START="906" END="910">rebel</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E5-M619" ROLE="Arg-1">
+            <extent>
+              <charseq START="906" END="910">rebel</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E4-M618" ROLE="Arg-2">
+            <extent>
+              <charseq START="902" END="916">the rebel group</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R2-M1200">
+          <extent>
+              <charseq START="1705" END="1736">The outgoing Colombian president</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E14-M1200" ROLE="Arg-1">
+            <extent>
+              <charseq START="1705" END="1736">The outgoing Colombian president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E0-M1201" ROLE="Arg-2">
+            <extent>
+              <charseq START="1718" END="1726">Colombian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E17" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R3-M1201">
+          <extent>
+              <charseq START="1776" END="1784">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E16-M1208" ROLE="Arg-1">
+            <extent>
+              <charseq START="1776" END="1784">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E17-M1207" ROLE="Arg-2">
+            <extent>
+              <charseq START="1769" END="1774">French</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R4-M1202">
+          <extent>
+              <charseq START="1841" END="1860">a member of the FARC</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E18-M1215" ROLE="Arg-1">
+            <extent>
+              <charseq START="1841" END="1860">a member of the FARC</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E1-M1217" ROLE="Arg-2">
+            <extent>
+              <charseq START="1853" END="1860">the FARC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R5-M1500">
+          <extent>
+              <charseq START="2229" END="2244">Colombian agents</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E20-M1503" ROLE="Arg-1">
+            <extent>
+              <charseq START="2229" END="2244">Colombian agents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E0-M1504" ROLE="Arg-2">
+            <extent>
+              <charseq START="2229" END="2237">Colombian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E23" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R6-M1600">
+          <extent>
+              <charseq START="2395" END="2400">Leader</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E22-M1614" ROLE="Arg-1">
+            <extent>
+              <charseq START="2395" END="2400">Leader</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E23-M1613" ROLE="Arg-2">
+            <extent>
+              <charseq START="2389" END="2393">Cuban</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R7-M1800">
+          <extent>
+              <charseq START="2662" END="2682">the Colombian justice</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E27-M1801" ROLE="Arg-1">
+            <extent>
+              <charseq START="2662" END="2682">the Colombian justice</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E0-M1802" ROLE="Arg-2">
+            <extent>
+              <charseq START="2666" END="2674">Colombian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R8" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E28" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R8-M1801">
+          <extent>
+              <charseq START="2749" END="2777">Paraguay President Raul Cubas</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E26-M1805" ROLE="Arg-1">
+            <extent>
+              <charseq START="2749" END="2777">Paraguay President Raul Cubas</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E28-M1804" ROLE="Arg-2">
+            <extent>
+              <charseq START="2742" END="2787">former Paraguay President Raul Cubas&apos; daughter</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E25" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R9-M1802">
+          <extent>
+              <charseq START="2758" END="2766">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E26-M1807" ROLE="Arg-1">
+            <extent>
+              <charseq START="2758" END="2766">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E25-M1806" ROLE="Arg-2">
+            <extent>
+              <charseq START="2749" END="2756">Paraguay</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100624.0240-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100624.0240-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100624.0240-E30" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100624.0240-R10-M1900">
+          <extent>
+              <charseq START="2825" END="2832">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E29-M1904" ROLE="Arg-1">
+            <extent>
+              <charseq START="2825" END="2832">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100624.0240-E30-M1902" ROLE="Arg-2">
+            <extent>
+              <charseq START="2810" END="2817">Canadian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

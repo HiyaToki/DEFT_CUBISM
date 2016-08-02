@@ -1,0 +1,682 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100710.0240">
+  <document DOCID="AFP_ENG_20100710.0240">
+
+    <entity ID="AFP_ENG_20100710.0240-E0" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E0-M0" ROLE="LOC">
+          <extent>
+              <charseq START="58" END="107">EU investigating Electrabel over dominant position</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="59">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E0-M409" ROLE="GPE">
+          <extent>
+              <charseq START="495" END="496">EU</charseq>
+          </extent>
+          <head>
+              <charseq START="495" END="496">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E0-M604">
+          <extent>
+              <charseq START="760" END="765">the EU</charseq>
+          </extent>
+          <head>
+              <charseq START="764" END="765">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="EU">
+              <charseq START="58" END="59">EU</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="495" END="496">EU</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="764" END="765">EU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E1-M101" ROLE="LOC">
+          <extent>
+              <charseq START="132" END="139">BRUSSELS</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="139">BRUSSELS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BRUSSELS">
+              <charseq START="132" END="139">BRUSSELS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E2-M200">
+          <extent>
+              <charseq START="157" END="159">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="157" END="159">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="157" END="159">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E3-M300">
+          <extent>
+              <charseq START="185" END="207">The European Commission</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="207">European Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100710.0240-E3-M304">
+          <extent>
+              <charseq START="257" END="259">its</charseq>
+          </extent>
+          <head>
+              <charseq START="257" END="259">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Commission">
+              <charseq START="189" END="207">European Commission</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E4-M302">
+          <extent>
+              <charseq START="239" END="248">Electrabel</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="248">Electrabel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E4-M501">
+          <extent>
+              <charseq START="614" END="623">Electrabel</charseq>
+          </extent>
+          <head>
+              <charseq START="614" END="623">Electrabel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100710.0240-E4-M502">
+          <extent>
+              <charseq START="626" END="665">a unit of French utility group GDF Suez,</charseq>
+          </extent>
+          <head>
+              <charseq START="628" END="631">unit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E4-M510">
+          <extent>
+              <charseq START="670" END="712">the leading electricity
+provider in Belgium</charseq>
+          </extent>
+          <head>
+              <charseq START="694" END="701">provider</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E4-M720">
+          <extent>
+              <charseq START="1165" END="1174">Electrabel</charseq>
+          </extent>
+          <head>
+              <charseq START="1165" END="1174">Electrabel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Electrabel">
+              <charseq START="239" END="248">Electrabel</charseq>
+          </name>
+          <name NAME="Electrabel">
+              <charseq START="614" END="623">Electrabel</charseq>
+          </name>
+          <name NAME="Electrabel">
+              <charseq START="1165" END="1174">Electrabel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E5-M311" ROLE="GPE">
+          <extent>
+              <charseq START="330" END="336">Belgian</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="336">Belgian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E5-M310" ROLE="GPE">
+          <extent>
+              <charseq START="326" END="347">the Belgian
+government</charseq>
+          </extent>
+          <head>
+              <charseq START="338" END="347">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E5-M417" ROLE="GPE">
+          <extent>
+              <charseq START="566" END="572">Belgian</charseq>
+          </extent>
+          <head>
+              <charseq START="566" END="572">Belgian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E5-M709" ROLE="GPE">
+          <extent>
+              <charseq START="1036" END="1042">Belgian</charseq>
+          </extent>
+          <head>
+              <charseq START="1036" END="1042">Belgian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E5-M722" ROLE="GPE">
+          <extent>
+              <charseq START="1203" END="1209">Belgian</charseq>
+          </extent>
+          <head>
+              <charseq START="1203" END="1209">Belgian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E5-M708" ROLE="LOC">
+          <extent>
+              <charseq START="1032" END="1053">the Belgian government</charseq>
+          </extent>
+          <head>
+              <charseq START="1044" END="1053">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Belgian">
+              <charseq START="330" END="336">Belgian</charseq>
+          </name>
+          <name NAME="Belgian">
+              <charseq START="566" END="572">Belgian</charseq>
+          </name>
+          <name NAME="Belgian">
+              <charseq START="1036" END="1042">Belgian</charseq>
+          </name>
+          <name NAME="Belgian">
+              <charseq START="1203" END="1209">Belgian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E6-M312">
+          <extent>
+              <charseq START="350" END="360">a spokesman</charseq>
+          </extent>
+          <head>
+              <charseq START="352" END="360">spokesman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E7-M405">
+          <extent>
+              <charseq START="464" END="476">Amelia Torres</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="476">Amelia Torres</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E7-M406">
+          <extent>
+              <charseq START="479" END="537">spokeswoman for EU Competition Commissioner Joaquin Almunia</charseq>
+          </extent>
+          <head>
+              <charseq START="479" END="489">spokeswoman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E7-M600">
+          <extent>
+              <charseq START="724" END="729">Torres</charseq>
+          </extent>
+          <head>
+              <charseq START="724" END="729">Torres</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amelia Torres">
+              <charseq START="464" END="476">Amelia Torres</charseq>
+          </name>
+          <name NAME="Torres">
+              <charseq START="724" END="729">Torres</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E8-M408">
+          <extent>
+              <charseq START="495" END="537">EU Competition Commissioner Joaquin Almunia</charseq>
+          </extent>
+          <head>
+              <charseq START="523" END="537">Joaquin Almunia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E8-M411">
+          <extent>
+              <charseq START="510" END="521">Commissioner</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="521">Commissioner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joaquin Almunia">
+              <charseq START="523" END="537">Joaquin Almunia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E9-M416">
+          <extent>
+              <charseq START="562" END="591">the Belgian newspapers De Tijd</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="591">De Tijd</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E9-M418">
+          <extent>
+              <charseq START="574" END="583">newspapers</charseq>
+          </extent>
+          <head>
+              <charseq START="574" END="583">newspapers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="De Tijd">
+              <charseq START="585" END="591">De Tijd</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E10-M420">
+          <extent>
+              <charseq START="597" END="602">L&apos;Echo</charseq>
+          </extent>
+          <head>
+              <charseq START="597" END="602">L&apos;Echo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E10-M700">
+          <extent>
+              <charseq START="958" END="963">L&apos;Echo</charseq>
+          </extent>
+          <head>
+              <charseq START="958" END="963">L&apos;Echo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="L&apos;Echo">
+              <charseq START="597" END="602">L&apos;Echo</charseq>
+          </name>
+          <name NAME="L&apos;Echo">
+              <charseq START="958" END="963">L&apos;Echo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E11-M504">
+          <extent>
+              <charseq START="636" END="665">French utility group GDF Suez,</charseq>
+          </extent>
+          <head>
+              <charseq START="657" END="664">GDF Suez</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E11-M508">
+          <extent>
+              <charseq START="651" END="655">group</charseq>
+          </extent>
+          <head>
+              <charseq START="651" END="655">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E11-M602">
+          <extent>
+              <charseq START="760" END="850">the EU&apos;s executive branch -- which enforces
+competition policy across the 27-nation bloc --</charseq>
+          </extent>
+          <head>
+              <charseq START="779" END="784">branch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100710.0240-E11-M607">
+          <extent>
+              <charseq START="789" END="793">which</charseq>
+          </extent>
+          <head>
+              <charseq START="789" END="793">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E11-M710">
+          <extent>
+              <charseq START="1059" END="1066">GDF Suez</charseq>
+          </extent>
+          <head>
+              <charseq START="1059" END="1066">GDF Suez</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GDF Suez">
+              <charseq START="657" END="664">GDF Suez</charseq>
+          </name>
+          <name NAME="GDF Suez">
+              <charseq START="1059" END="1066">GDF Suez</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E12-M506">
+          <extent>
+              <charseq START="636" END="641">French</charseq>
+          </extent>
+          <head>
+              <charseq START="636" END="641">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="636" END="641">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E13-M513" ROLE="LOC">
+          <extent>
+              <charseq START="706" END="712">Belgium</charseq>
+          </extent>
+          <head>
+              <charseq START="706" END="712">Belgium</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E13-M714">
+          <extent>
+              <charseq START="1098" END="1104">Belgium</charseq>
+          </extent>
+          <head>
+              <charseq START="1098" END="1104">Belgium</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Belgium">
+              <charseq START="706" END="712">Belgium</charseq>
+          </name>
+          <name NAME="Belgium">
+              <charseq START="1098" END="1104">Belgium</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E14-M622">
+          <extent>
+              <charseq START="912" END="923">Electrawinds</charseq>
+          </extent>
+          <head>
+              <charseq START="912" END="923">Electrawinds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E14-M606">
+          <extent>
+              <charseq START="769" END="777">executive</charseq>
+          </extent>
+          <head>
+              <charseq START="769" END="777">executive</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Electrawinds">
+              <charseq START="912" END="923">Electrawinds</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100710.0240-E15-M623">
+          <extent>
+              <charseq START="929" END="933">Eneco</charseq>
+          </extent>
+          <head>
+              <charseq START="929" END="933">Eneco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eneco">
+              <charseq START="929" END="933">Eneco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E16-M618">
+          <extent>
+              <charseq START="889" END="933">green energy providers Electrawinds and Eneco</charseq>
+          </extent>
+          <head>
+              <charseq START="902" END="910">providers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E17-M701">
+          <extent>
+              <charseq START="966" END="984">the two enterprises</charseq>
+          </extent>
+          <head>
+              <charseq START="974" END="984">enterprises</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100710.0240-E18" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100710.0240-E18-M713">
+          <extent>
+              <charseq START="1098" END="1140">Belgium&apos;s three oldest nuclear power plants</charseq>
+          </extent>
+          <head>
+              <charseq START="1135" END="1140">plants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100710.0240-T0" VAL="2010-07-10">
+        <timex2_mention ID="AFP_ENG_20100710.0240-T0-M1">
+            <extent>
+              <charseq START="142" END="154">July 10, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100710.0240-T1" VAL="2010-07-10">
+        <timex2_mention ID="AFP_ENG_20100710.0240-T1-M1">
+            <extent>
+              <charseq START="370" END="377">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100710.0240-T2" VAL="PXM">
+        <timex2_mention ID="AFP_ENG_20100710.0240-T2-M1">
+            <extent>
+              <charseq START="442" END="455">several months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100710.0240-T3">
+        <timex2_mention ID="AFP_ENG_20100710.0240-T3-M1">
+            <extent>
+              <charseq START="834" END="842">27-nation</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100710.0240-T4" VAL="2009-10">
+        <timex2_mention ID="AFP_ENG_20100710.0240-T4-M1">
+            <extent>
+              <charseq START="1001" END="1012">October 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100710.0240-T5" VAL="P10Y">
+        <timex2_mention ID="AFP_ENG_20100710.0240-T5-M1">
+            <extent>
+              <charseq START="1145" END="1174">10 years reinforced Electrabel</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100710.0240-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100710.0240-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100710.0240-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100710.0240-R0-M400">
+          <extent>
+              <charseq START="510" END="521">Commissioner</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E8-M411" ROLE="Arg-1">
+            <extent>
+              <charseq START="510" END="521">Commissioner</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E0-M409" ROLE="Arg-2">
+            <extent>
+              <charseq START="495" END="496">EU</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100710.0240-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100710.0240-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100710.0240-E5" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100710.0240-R1-M401">
+          <extent>
+              <charseq START="574" END="583">newspapers</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E9-M418" ROLE="Arg-1">
+            <extent>
+              <charseq START="574" END="583">newspapers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E5-M417" ROLE="Arg-2">
+            <extent>
+              <charseq START="566" END="572">Belgian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100710.0240-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100710.0240-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100710.0240-E11" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100710.0240-R2-M500">
+          <extent>
+              <charseq START="626" END="665">a unit of French utility group GDF Suez,</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E4-M502" ROLE="Arg-1">
+            <extent>
+              <charseq START="626" END="665">a unit of French utility group GDF Suez,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E11-M504" ROLE="Arg-2">
+            <extent>
+              <charseq START="636" END="665">French utility group GDF Suez,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100710.0240-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100710.0240-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100710.0240-E13" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100710.0240-R3-M501">
+          <extent>
+              <charseq START="670" END="712">the leading electricity
+provider in Belgium</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E4-M510" ROLE="Arg-1">
+            <extent>
+              <charseq START="670" END="712">the leading electricity
+provider in Belgium</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E13-M513" ROLE="Arg-2">
+            <extent>
+              <charseq START="706" END="712">Belgium</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100710.0240-R4" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100710.0240-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100710.0240-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100710.0240-R4-M600">
+          <extent>
+              <charseq START="760" END="850">the EU&apos;s executive branch -- which enforces
+competition policy across the 27-nation bloc --</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E11-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="760" END="850">the EU&apos;s executive branch -- which enforces
+competition policy across the 27-nation bloc --</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E0-M604" ROLE="Arg-2">
+            <extent>
+              <charseq START="760" END="765">the EU</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100710.0240-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100710.0240-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100710.0240-E18" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100710.0240-R5-M700">
+          <extent>
+              <charseq START="1098" END="1104">Belgium</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E13-M714" ROLE="Arg-1">
+            <extent>
+              <charseq START="1098" END="1104">Belgium</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100710.0240-E18-M713" ROLE="Arg-2">
+            <extent>
+              <charseq START="1098" END="1140">Belgium&apos;s three oldest nuclear power plants</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

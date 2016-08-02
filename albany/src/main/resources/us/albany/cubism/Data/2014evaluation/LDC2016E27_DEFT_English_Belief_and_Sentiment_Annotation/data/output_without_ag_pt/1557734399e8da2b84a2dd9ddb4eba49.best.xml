@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="1557734399e8da2b84a2dd9ddb4eba49.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-758" length="3" offset="218">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-87" length="4" offset="14">MLei</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-339" length="31" offset="2671">
+        <text>a name brand physical therapist</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-273" length="5" offset="2085">roger</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-381" length="20" offset="2807">
+        <text>the local shoe store</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-273" length="5" offset="2085">roger</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091110.0026">
+  <document DOCID="XIN_ENG_20091110.0026">
+
+    <entity ID="XIN_ENG_20091110.0026-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E0-M1" ROLE="LOC">
+          <extent>
+              <charseq START="58" END="62">China</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E0-M302">
+          <extent>
+              <charseq START="193" END="197">China</charseq>
+          </extent>
+          <head>
+              <charseq START="193" END="197">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E0-M403" ROLE="GPE">
+          <extent>
+              <charseq START="383" END="389">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="383" END="389">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E0-M417" ROLE="GPE">
+          <extent>
+              <charseq START="561" END="565">China</charseq>
+          </extent>
+          <head>
+              <charseq START="561" END="565">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E0-M503">
+          <extent>
+              <charseq START="624" END="628">China</charseq>
+          </extent>
+          <head>
+              <charseq START="624" END="628">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E0-M604">
+          <extent>
+              <charseq START="754" END="758">China</charseq>
+          </extent>
+          <head>
+              <charseq START="754" END="758">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091110.0026-E0-M610">
+          <extent>
+              <charseq START="805" END="809">their</charseq>
+          </extent>
+          <head>
+              <charseq START="805" END="809">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E0-M700">
+          <extent>
+              <charseq START="956" END="960">China</charseq>
+          </extent>
+          <head>
+              <charseq START="956" END="960">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E0-M803" ROLE="GPE">
+          <extent>
+              <charseq START="1154" END="1160">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="1154" END="1160">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="58" END="62">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="193" END="197">China</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="383" END="389">Chinese</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="561" END="565">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="624" END="628">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="754" END="758">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="956" END="960">China</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="1154" END="1160">Chinese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="65" END="69">Qatar</charseq>
+          </extent>
+          <head>
+              <charseq START="65" END="69">Qatar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E1-M303">
+          <extent>
+              <charseq START="203" END="207">Qatar</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="207">Qatar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E1-M409" ROLE="GPE">
+          <extent>
+              <charseq START="423" END="428">Qatari</charseq>
+          </extent>
+          <head>
+              <charseq START="423" END="428">Qatari</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E1-M413">
+          <extent>
+              <charseq START="492" END="496">Qatar</charseq>
+          </extent>
+          <head>
+              <charseq START="492" END="496">Qatar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E1-M502">
+          <extent>
+              <charseq START="585" END="589">Qatar</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="589">Qatar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E1-M605">
+          <extent>
+              <charseq START="764" END="768">Qatar</charseq>
+          </extent>
+          <head>
+              <charseq START="764" END="768">Qatar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E1-M702">
+          <extent>
+              <charseq START="990" END="994">Qatar</charseq>
+          </extent>
+          <head>
+              <charseq START="990" END="994">Qatar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E1-M814" ROLE="GPE">
+          <extent>
+              <charseq START="1308" END="1313">Qatari</charseq>
+          </extent>
+          <head>
+              <charseq START="1308" END="1313">Qatari</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0026-E1-M809">
+          <extent>
+              <charseq START="1219" END="1223">State</charseq>
+          </extent>
+          <head>
+              <charseq START="1219" END="1223">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Qatar">
+              <charseq START="65" END="69">Qatar</charseq>
+          </name>
+          <name NAME="Qatar">
+              <charseq START="203" END="207">Qatar</charseq>
+          </name>
+          <name NAME="Qatari">
+              <charseq START="423" END="428">Qatari</charseq>
+          </name>
+          <name NAME="Qatar">
+              <charseq START="492" END="496">Qatar</charseq>
+          </name>
+          <name NAME="Qatar">
+              <charseq START="585" END="589">Qatar</charseq>
+          </name>
+          <name NAME="Qatar">
+              <charseq START="764" END="768">Qatar</charseq>
+          </name>
+          <name NAME="Qatar">
+              <charseq START="990" END="994">Qatar</charseq>
+          </name>
+          <name NAME="Qatari">
+              <charseq START="1308" END="1313">Qatari</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="147" END="150">DOHA</charseq>
+          </extent>
+          <head>
+              <charseq START="147" END="150">DOHA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0026-E2-M813" ROLE="LOC">
+          <extent>
+              <charseq START="1304" END="1321">the Qatari capital</charseq>
+          </extent>
+          <head>
+              <charseq START="1315" END="1321">capital</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DOHA">
+              <charseq START="147" END="150">DOHA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E3-M200">
+          <extent>
+              <charseq START="162" END="167">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="162" END="167">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="162" END="167">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0026-E4-M311">
+          <extent>
+              <charseq START="333" END="349">the two
+countries</charseq>
+          </extent>
+          <head>
+              <charseq START="341" END="349">countries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0026-E4-M707">
+          <extent>
+              <charseq START="1083" END="1099">the two countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1091" END="1099">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E5-M402">
+          <extent>
+              <charseq START="383" END="420">Chinese Vice Foreign Minister Song Tao</charseq>
+          </extent>
+          <head>
+              <charseq START="413" END="420">Song Tao</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0026-E5-M406">
+          <extent>
+              <charseq START="404" END="411">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="404" END="411">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E5-M602">
+          <extent>
+              <charseq START="744" END="747">Song</charseq>
+          </extent>
+          <head>
+              <charseq START="744" END="747">Song</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E5-M709">
+          <extent>
+              <charseq START="1121" END="1124">Song</charseq>
+          </extent>
+          <head>
+              <charseq START="1121" END="1124">Song</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E5-M800">
+          <extent>
+              <charseq START="1136" END="1139">Song</charseq>
+          </extent>
+          <head>
+              <charseq START="1136" END="1139">Song</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Song Tao">
+              <charseq START="413" END="420">Song Tao</charseq>
+          </name>
+          <name NAME="Song">
+              <charseq START="744" END="747">Song</charseq>
+          </name>
+          <name NAME="Song">
+              <charseq START="1121" END="1124">Song</charseq>
+          </name>
+          <name NAME="Song">
+              <charseq START="1136" END="1139">Song</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E6-M412">
+          <extent>
+              <charseq START="450" END="485">Tamim Bin Hamad bin Khalifa Al-Thani</charseq>
+          </extent>
+          <head>
+              <charseq START="450" END="485">Tamim Bin Hamad bin Khalifa Al-Thani</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0026-E6-M408">
+          <extent>
+              <charseq START="423" END="448">Qatari Crown
+Prince Sheikh</charseq>
+          </extent>
+          <head>
+              <charseq START="443" END="448">Sheikh</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091110.0026-E6-M500">
+          <extent>
+              <charseq START="577" END="578">He</charseq>
+          </extent>
+          <head>
+              <charseq START="577" END="578">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091110.0026-E6-M601">
+          <extent>
+              <charseq START="734" END="736">his</charseq>
+          </extent>
+          <head>
+              <charseq START="734" END="736">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tamim Bin Hamad bin Khalifa Al-Thani">
+              <charseq START="450" END="485">Tamim Bin Hamad bin Khalifa Al-Thani</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0026-E7-M411">
+          <extent>
+              <charseq START="436" END="441">Prince</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="441">Prince</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091110.0026-E8-M810">
+          <extent>
+              <charseq START="1236" END="1321">the United Nations Convention Against Corruption, currently
+held in the Qatari capital</charseq>
+          </extent>
+          <head>
+              <charseq START="1240" END="1283">United Nations Convention Against Corruption</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United Nations Convention Against Corruption">
+              <charseq START="1240" END="1283">United Nations Convention Against Corruption</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0026-E9-M801">
+          <extent>
+              <charseq START="1152" END="1231">a Chinese delegation to the third session of the Conference of
+the State Parties</charseq>
+          </extent>
+          <head>
+              <charseq START="1162" END="1171">delegation</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091110.0026-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091110.0026-E10-M808">
+          <extent>
+              <charseq START="1215" END="1231">the State Parties</charseq>
+          </extent>
+          <head>
+              <charseq START="1225" END="1231">Parties</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091110.0026-T0" VAL="2009-11-10">
+        <timex2_mention ID="XIN_ENG_20091110.0026-T0-M1">
+            <extent>
+              <charseq START="153" END="159">Nov. 10</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091110.0026-T1" VAL="2009-11-10">
+        <timex2_mention ID="XIN_ENG_20091110.0026-T1-M1">
+            <extent>
+              <charseq START="212" END="218">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091110.0026-T2" VAL="PRESENT_REF" ANCHOR_VAL="2009-11-10" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20091110.0026-T2-M1">
+            <extent>
+              <charseq START="1286" END="1294">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20091110.0026-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091110.0026-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091110.0026-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091110.0026-R0-M400">
+          <extent>
+              <charseq START="404" END="411">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0026-E5-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="404" END="411">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0026-E0-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="383" END="389">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091110.0026-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091110.0026-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091110.0026-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091110.0026-R1-M800">
+          <extent>
+              <charseq START="1152" END="1231">a Chinese delegation to the third session of the Conference of
+the State Parties</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0026-E9-M801" ROLE="Arg-1">
+            <extent>
+              <charseq START="1152" END="1231">a Chinese delegation to the third session of the Conference of
+the State Parties</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0026-E0-M803" ROLE="Arg-2">
+            <extent>
+              <charseq START="1154" END="1160">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091110.0026-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091110.0026-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091110.0026-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091110.0026-R2-M801">
+          <extent>
+              <charseq START="1215" END="1231">the State Parties</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0026-E10-M808" ROLE="Arg-1">
+            <extent>
+              <charseq START="1215" END="1231">the State Parties</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0026-E1-M809" ROLE="Arg-2">
+            <extent>
+              <charseq START="1219" END="1223">State</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091110.0026-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091110.0026-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091110.0026-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091110.0026-R3-M802">
+          <extent>
+              <charseq START="1304" END="1321">the Qatari capital</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0026-E2-M813" ROLE="Arg-1">
+            <extent>
+              <charseq START="1304" END="1321">the Qatari capital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091110.0026-E1-M814" ROLE="Arg-2">
+            <extent>
+              <charseq START="1308" END="1313">Qatari</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

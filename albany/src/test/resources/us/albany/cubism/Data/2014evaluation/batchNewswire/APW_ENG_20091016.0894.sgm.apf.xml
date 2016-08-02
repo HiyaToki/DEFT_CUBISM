@@ -1,0 +1,769 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20091016.0894">
+  <document DOCID="APW_ENG_20091016.0894">
+
+    <entity ID="APW_ENG_20091016.0894-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E0-M2" ROLE="LOC">
+          <extent>
+              <charseq START="78" END="79">US</charseq>
+          </extent>
+          <head>
+              <charseq START="78" END="79">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E0-M207" ROLE="LOC">
+          <extent>
+              <charseq START="271" END="287">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="275" END="287">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E0-M209" ROLE="LOC">
+          <extent>
+              <charseq START="300" END="311">his homeland</charseq>
+          </extent>
+          <head>
+              <charseq START="304" END="311">homeland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E0-M501" ROLE="LOC">
+          <extent>
+              <charseq START="578" END="594">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="582" END="594">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E0-M704" ROLE="LOC">
+          <extent>
+              <charseq START="799" END="815">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="803" END="815">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="78" END="79">US</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="275" END="287">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="582" END="594">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="803" END="815">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E1" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E1-M4" ROLE="GPE">
+          <extent>
+              <charseq START="95" END="101">African</charseq>
+          </extent>
+          <head>
+              <charseq START="95" END="101">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E1-M202" ROLE="GPE">
+          <extent>
+              <charseq START="206" END="212">African</charseq>
+          </extent>
+          <head>
+              <charseq START="206" END="212">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="African">
+              <charseq START="95" END="101">African</charseq>
+          </name>
+          <name NAME="African">
+              <charseq START="206" END="212">African</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E2-M0">
+          <extent>
+              <charseq START="58" END="64">A nurse</charseq>
+          </extent>
+          <head>
+              <charseq START="60" END="64">nurse</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E2-M1">
+          <extent>
+              <charseq START="70" END="73">aide</charseq>
+          </extent>
+          <head>
+              <charseq START="70" END="73">aide</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E2-M204">
+          <extent>
+              <charseq START="253" END="287">a nurse&apos;s aide in the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="263" END="266">aide</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E2-M206">
+          <extent>
+              <charseq START="253" END="259">a nurse</charseq>
+          </extent>
+          <head>
+              <charseq START="255" END="259">nurse</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E3-M3">
+          <extent>
+              <charseq START="95" END="106">African king</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="106">king</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E4-M101">
+          <extent>
+              <charseq START="143" END="154">Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="143" END="154">Pennsylvania</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E4-M805">
+          <extent>
+              <charseq START="850" END="861">Pennsylvania</charseq>
+          </extent>
+          <head>
+              <charseq START="850" END="861">Pennsylvania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pennsylvania">
+              <charseq START="143" END="154">Pennsylvania</charseq>
+          </name>
+          <name NAME="Pennsylvania">
+              <charseq START="850" END="861">Pennsylvania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E5-M216" ROLE="LOC">
+          <extent>
+              <charseq START="349" END="362">western Uganda</charseq>
+          </extent>
+          <head>
+              <charseq START="357" END="362">Uganda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E5-M413" ROLE="GPE">
+          <extent>
+              <charseq START="532" END="538">Ugandan</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="538">Ugandan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E5-M412" ROLE="ORG">
+          <extent>
+              <charseq START="528" END="549">the Ugandan government</charseq>
+          </extent>
+          <head>
+              <charseq START="540" END="549">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E5-M406" ROLE="LOC">
+          <extent>
+              <charseq START="459" END="549">a mountain kingdom of about 300,000 people that is now recognized by the Ugandan government</charseq>
+          </extent>
+          <head>
+              <charseq START="470" END="476">kingdom</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E5-M618" ROLE="LOC">
+          <extent>
+              <charseq START="749" END="754">Uganda</charseq>
+          </extent>
+          <head>
+              <charseq START="749" END="754">Uganda</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Uganda">
+              <charseq START="357" END="362">Uganda</charseq>
+          </name>
+          <name NAME="Ugandan">
+              <charseq START="532" END="538">Ugandan</charseq>
+          </name>
+          <name NAME="Uganda">
+              <charseq START="749" END="754">Uganda</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E6-M200">
+          <extent>
+              <charseq START="203" END="287">An African man who helped the elderly and sick as a nurse&apos;s aide in the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="214" END="216">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E6-M211">
+          <extent>
+              <charseq START="319" END="362">crowned king of his people in western Uganda</charseq>
+          </extent>
+          <head>
+              <charseq START="327" END="330">king</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E6-M203">
+          <extent>
+              <charseq START="218" END="220">who</charseq>
+          </extent>
+          <head>
+              <charseq START="218" END="220">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E6-M210">
+          <extent>
+              <charseq START="300" END="302">his</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="302">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E6-M215">
+          <extent>
+              <charseq START="335" END="337">his</charseq>
+          </extent>
+          <head>
+              <charseq START="335" END="337">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E7-M213">
+          <extent>
+              <charseq START="335" END="362">his people in western Uganda</charseq>
+          </extent>
+          <head>
+              <charseq START="339" END="344">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E8-M301">
+          <extent>
+              <charseq START="374" END="395">Charles Wesley Mumbere</charseq>
+          </extent>
+          <head>
+              <charseq START="374" END="395">Charles Wesley Mumbere</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E8-M400">
+          <extent>
+              <charseq START="429" END="430">He</charseq>
+          </extent>
+          <head>
+              <charseq START="429" END="430">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E8-M500">
+          <extent>
+              <charseq START="561" END="567">Mumbere</charseq>
+          </extent>
+          <head>
+              <charseq START="561" END="567">Mumbere</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E8-M600">
+          <extent>
+              <charseq START="610" END="611">He</charseq>
+          </extent>
+          <head>
+              <charseq START="610" END="611">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E8-M603">
+          <extent>
+              <charseq START="618" END="620">his</charseq>
+          </extent>
+          <head>
+              <charseq START="618" END="620">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E8-M607">
+          <extent>
+              <charseq START="658" END="659">he</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="659">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E8-M614">
+          <extent>
+              <charseq START="719" END="720">he</charseq>
+          </extent>
+          <head>
+              <charseq START="719" END="720">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E8-M703">
+          <extent>
+              <charseq START="782" END="784">his</charseq>
+          </extent>
+          <head>
+              <charseq START="782" END="784">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E8-M800">
+          <extent>
+              <charseq START="826" END="827">He</charseq>
+          </extent>
+          <head>
+              <charseq START="826" END="827">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charles Wesley Mumbere">
+              <charseq START="374" END="395">Charles Wesley Mumbere</charseq>
+          </name>
+          <name NAME="Mumbere">
+              <charseq START="561" END="567">Mumbere</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E9-M405">
+          <extent>
+              <charseq START="447" END="456">Rwenzururu</charseq>
+          </extent>
+          <head>
+              <charseq START="447" END="456">Rwenzururu</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rwenzururu">
+              <charseq START="447" END="456">Rwenzururu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E10" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E10-M408">
+          <extent>
+              <charseq START="461" END="468">mountain</charseq>
+          </extent>
+          <head>
+              <charseq START="461" END="468">mountain</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E11-M409">
+          <extent>
+              <charseq START="481" END="549">about 300,000 people that is now recognized by the Ugandan government</charseq>
+          </extent>
+          <head>
+              <charseq START="495" END="500">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E12-M610">
+          <extent>
+              <charseq START="685" END="754">The Patriot-News of Harrisburg as he was preparing to return to Uganda</charseq>
+          </extent>
+          <head>
+              <charseq START="685" END="700">The Patriot-News</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Patriot-News">
+              <charseq START="685" END="700">The Patriot-News</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E13-M612">
+          <extent>
+              <charseq START="705" END="754">Harrisburg as he was preparing to return to Uganda</charseq>
+          </extent>
+          <head>
+              <charseq START="705" END="714">Harrisburg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091016.0894-E13-M803" ROLE="LOC">
+          <extent>
+              <charseq START="838" END="847">Harrisburg</charseq>
+          </extent>
+          <head>
+              <charseq START="838" END="847">Harrisburg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E13-M804">
+          <extent>
+              <charseq START="850" END="871">Pennsylvania&apos;s capital</charseq>
+          </extent>
+          <head>
+              <charseq START="865" END="871">capital</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091016.0894-E13-M811">
+          <extent>
+              <charseq START="933" END="937">there</charseq>
+          </extent>
+          <head>
+              <charseq START="933" END="937">there</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harrisburg">
+              <charseq START="705" END="714">Harrisburg</charseq>
+          </name>
+          <name NAME="Harrisburg">
+              <charseq START="838" END="847">Harrisburg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091016.0894-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091016.0894-E14-M807">
+          <extent>
+              <charseq START="897" END="937">at least two health care facilities there</charseq>
+          </extent>
+          <head>
+              <charseq START="922" END="931">facilities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20091016.0894-T0" VAL="2009-10-16-10">
+        <timex2_mention ID="APW_ENG_20091016.0894-T0-M1">
+            <extent>
+              <charseq START="156" END="165">2009-10-16</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091016.0894-T1" VAL="2009-10-19">
+        <timex2_mention ID="APW_ENG_20091016.0894-T1-M1">
+            <extent>
+              <charseq START="421" END="426">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091016.0894-T2" VAL="PRESENT_REF" ANCHOR_VAL="2009-10-16" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="APW_ENG_20091016.0894-T2-M1">
+            <extent>
+              <charseq START="510" END="512">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091016.0894-T3" VAL="P25Y">
+        <timex2_mention ID="APW_ENG_20091016.0894-T3-M1">
+            <extent>
+              <charseq START="600" END="607">25 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091016.0894-T4" VAL="2009-07">
+        <timex2_mention ID="APW_ENG_20091016.0894-T4-M1">
+            <extent>
+              <charseq START="647" END="650">July</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091016.0894-T5" VAL="PRESENT_REF" ANCHOR_VAL="2009-10-16" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="APW_ENG_20091016.0894-T5-M1">
+            <extent>
+              <charseq START="775" END="777">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091016.0894-T6" VAL="195">
+        <timex2_mention ID="APW_ENG_20091016.0894-T6-M1">
+            <extent>
+              <charseq START="782" END="788">his 50s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091016.0894-T7" VAL="1984">
+        <timex2_mention ID="APW_ENG_20091016.0894-T7-M1">
+            <extent>
+              <charseq START="820" END="823">1984</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091016.0894-T8" VAL="1999">
+        <timex2_mention ID="APW_ENG_20091016.0894-T8-M1">
+            <extent>
+              <charseq START="877" END="880">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20091016.0894-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R0-M200">
+          <extent>
+              <charseq START="203" END="287">An African man who helped the elderly and sick as a nurse&apos;s aide in the United States</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E6-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="203" END="287">An African man who helped the elderly and sick as a nurse&apos;s aide in the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E1-M202" ROLE="Arg-2">
+            <extent>
+              <charseq START="206" END="212">African</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R1-M201">
+          <extent>
+              <charseq START="203" END="287">An African man who helped the elderly and sick as a nurse&apos;s aide in the United States</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E6-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="203" END="287">An African man who helped the elderly and sick as a nurse&apos;s aide in the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E0-M209" ROLE="Arg-2">
+            <extent>
+              <charseq START="300" END="311">his homeland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R2-M203">
+          <extent>
+              <charseq START="253" END="287">a nurse&apos;s aide in the United States</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E2-M204" ROLE="Arg-1">
+            <extent>
+              <charseq START="253" END="287">a nurse&apos;s aide in the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E0-M207" ROLE="Arg-2">
+            <extent>
+              <charseq START="271" END="287">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R3-M204">
+          <extent>
+              <charseq START="300" END="302">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E6-M210" ROLE="Arg-1">
+            <extent>
+              <charseq START="300" END="302">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E0-M209" ROLE="Arg-2">
+            <extent>
+              <charseq START="300" END="311">his homeland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E7" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R4-M205">
+          <extent>
+              <charseq START="335" END="337">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E6-M215" ROLE="Arg-1">
+            <extent>
+              <charseq START="335" END="337">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E7-M213" ROLE="Arg-2">
+            <extent>
+              <charseq START="335" END="362">his people in western Uganda</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E5" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R5-M206">
+          <extent>
+              <charseq START="335" END="362">his people in western Uganda</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E7-M213" ROLE="Arg-1">
+            <extent>
+              <charseq START="335" END="362">his people in western Uganda</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E5-M216" ROLE="Arg-2">
+            <extent>
+              <charseq START="349" END="362">western Uganda</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R6-M500">
+          <extent>
+              <charseq START="561" END="567">Mumbere</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E8-M500" ROLE="Arg-1">
+            <extent>
+              <charseq START="561" END="567">Mumbere</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E0-M501" ROLE="Arg-2">
+            <extent>
+              <charseq START="578" END="594">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E13" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R7-M600">
+          <extent>
+              <charseq START="685" END="754">The Patriot-News of Harrisburg as he was preparing to return to Uganda</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E12-M610" ROLE="Arg-1">
+            <extent>
+              <charseq START="685" END="754">The Patriot-News of Harrisburg as he was preparing to return to Uganda</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E13-M612" ROLE="Arg-2">
+            <extent>
+              <charseq START="705" END="754">Harrisburg as he was preparing to return to Uganda</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E13" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R8-M800">
+          <extent>
+              <charseq START="826" END="827">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E8-M800" ROLE="Arg-1">
+            <extent>
+              <charseq START="826" END="827">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E13-M803" ROLE="Arg-2">
+            <extent>
+              <charseq START="838" END="847">Harrisburg</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R9-M801">
+          <extent>
+              <charseq START="838" END="847">Harrisburg</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E13-M803" ROLE="Arg-1">
+            <extent>
+              <charseq START="838" END="847">Harrisburg</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E4-M805" ROLE="Arg-2">
+            <extent>
+              <charseq START="850" END="861">Pennsylvania</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="APW_ENG_20091016.0894-R9-M802">
+          <extent>
+              <charseq START="850" END="871">Pennsylvania&apos;s capital</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E13-M804" ROLE="Arg-1">
+            <extent>
+              <charseq START="850" END="871">Pennsylvania&apos;s capital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E4-M805" ROLE="Arg-2">
+            <extent>
+              <charseq START="850" END="861">Pennsylvania</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091016.0894-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091016.0894-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091016.0894-E13" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091016.0894-R10-M803">
+          <extent>
+              <charseq START="897" END="937">at least two health care facilities there</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E14-M807" ROLE="Arg-1">
+            <extent>
+              <charseq START="897" END="937">at least two health care facilities there</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091016.0894-E13-M811" ROLE="Arg-2">
+            <extent>
+              <charseq START="933" END="937">there</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

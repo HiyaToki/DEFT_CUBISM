@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="3b34a76a3589417f5db02883b47280a6.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-240" length="11" offset="1438">
+        <text>you brother</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-588" length="3" offset="1381">FIK</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-926" length="11" offset="1595">
+        <text>people here</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-588" length="3" offset="1381">FIK</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1681" length="13" offset="1843">
+        <text>advice places</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-636" length="1" offset="1806">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-276" length="3" offset="2164">
+        <text>his</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-588" length="3" offset="1381">FIK</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-480" length="3" offset="2196">
+        <text>her</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-588" length="3" offset="1381">FIK</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-582" length="13" offset="2287">
+        <text>her boyfriend</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-588" length="3" offset="1381">FIK</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-504" length="3" offset="2394">
+        <text>she</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-588" length="3" offset="1381">FIK</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-384" length="9" offset="2754">
+        <text>the child</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-588" length="3" offset="1381">FIK</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

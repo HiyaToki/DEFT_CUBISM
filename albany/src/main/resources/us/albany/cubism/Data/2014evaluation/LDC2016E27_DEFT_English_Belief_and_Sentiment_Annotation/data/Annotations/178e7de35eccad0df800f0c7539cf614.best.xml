@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-568eda880000000000000001">
+  
+  <sentiment_annotations><entities>
+      <entity ere_id="m-453" length="9" offset="3009">
+        <text>Palastine</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-189" length="12" offset="2798">Perseveranze</source>
+        </sentiment>
+      </entity>
+    <entity ere_id="m-447" length="14" offset="225"><text>both countries</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-63" length="5" offset="14">TCD23</source></sentiment></entity><entity ere_id="m-766" length="4" offset="1074"><text>them</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-99" length="4" offset="976">Aj12</source></sentiment></entity><entity ere_id="m-363" length="4" offset="1114"><text>they</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-99" length="4" offset="976">Aj12</source></sentiment></entity><entity ere_id="m-766" length="4" offset="1074"><text>them</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-111" length="4" offset="1233">Aj12</source></sentiment></entity><entity ere_id="m-363" length="4" offset="1114"><text>they</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-111" length="4" offset="1233">Aj12</source></sentiment></entity><entity ere_id="m-1442" length="3" offset="2693"><text>you</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-165" length="8" offset="2145">Ferdowsi</source></sentiment></entity><entity ere_id="m-303" length="4" offset="3063"><text>Iran</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-189" length="12" offset="2798">Perseveranze</source></sentiment></entity><entity ere_id="m-1442" length="3" offset="2693"><text>you</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-171" length="8" offset="3168">Ferdowsi</source></sentiment></entity><entity ere_id="m-429" length="6" offset="3339"><text>Israel</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-147" length="4" offset="3102">Aj12</source></sentiment></entity><entity ere_id="m-435" length="6" offset="3533"><text>Israel</text><sentiment polarity="neg" sarcasm="no"><source ere_id="m-147" length="4" offset="3102">Aj12</source></sentiment></entity></entities></sentiment_annotations>
+</committed_belief_doc>

@@ -1,0 +1,1006 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="CNA_ENG_20090626.0030">
+  <document DOCID="CNA_ENG_20090626.0030">
+
+    <entity ID="CNA_ENG_20090626.0030-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E0-M0" ROLE="LOC">
+          <extent>
+              <charseq START="58" END="89">Taiwanese orchid enthralls Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="85" END="89">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E0-M3">
+          <extent>
+              <charseq START="75" END="83">enthralls</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="83">enthralls</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E0-M509" ROLE="LOC">
+          <extent>
+              <charseq START="291" END="295">Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="291" END="295">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E0-M912" ROLE="LOC">
+          <extent>
+              <charseq START="1174" END="1178">Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="1174" END="1178">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E0-M1002">
+          <extent>
+              <charseq START="1243" END="1247">Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="1243" END="1247">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E0-M1206" ROLE="GPE">
+          <extent>
+              <charseq START="1460" END="1464">Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="1460" END="1464">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paris">
+              <charseq START="85" END="89">Paris</charseq>
+          </name>
+          <name NAME="Paris">
+              <charseq START="291" END="295">Paris</charseq>
+          </name>
+          <name NAME="Paris">
+              <charseq START="1174" END="1178">Paris</charseq>
+          </name>
+          <name NAME="Paris">
+              <charseq START="1243" END="1247">Paris</charseq>
+          </name>
+          <name NAME="Paris">
+              <charseq START="1460" END="1464">Paris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="66">Taiwanese</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="66">Taiwanese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M502">
+          <extent>
+              <charseq START="195" END="200">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="200">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M609" ROLE="GPE">
+          <extent>
+              <charseq START="507" END="515">Taiwanese</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="515">Taiwanese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M612" ROLE="LOC">
+          <extent>
+              <charseq START="571" END="576">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="571" END="576">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M709">
+          <extent>
+              <charseq START="732" END="737">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="732" END="737">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M719">
+          <extent>
+              <charseq START="847" END="852">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="847" END="852">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M812">
+          <extent>
+              <charseq START="994" END="999">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="999">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M902" ROLE="GPE">
+          <extent>
+              <charseq START="1049" END="1054">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="1049" END="1054">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M913" ROLE="LOC">
+          <extent>
+              <charseq START="1189" END="1194">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="1189" END="1194">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E1-M1001">
+          <extent>
+              <charseq START="1216" END="1221">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="1216" END="1221">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taiwanese">
+              <charseq START="58" END="66">Taiwanese</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="195" END="200">Taiwan</charseq>
+          </name>
+          <name NAME="Taiwanese">
+              <charseq START="507" END="515">Taiwanese</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="571" END="576">Taiwan</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="732" END="737">Taiwan</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="847" END="852">Taiwan</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="994" END="999">Taiwan</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="1049" END="1054">Taiwan</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="1189" END="1194">Taiwan</charseq>
+          </name>
+          <name NAME="Taiwan">
+              <charseq START="1216" END="1221">Taiwan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="114" END="119">Taipei</charseq>
+          </extent>
+          <head>
+              <charseq START="114" END="119">Taipei</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taipei">
+              <charseq START="114" END="119">Taipei</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E3-M200">
+          <extent>
+              <charseq START="131" END="133">CNA</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="133">CNA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CNA">
+              <charseq START="131" END="133">CNA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E4-M400">
+          <extent>
+              <charseq START="159" END="167">Flor Wang</charseq>
+          </extent>
+          <head>
+              <charseq START="159" END="167">Flor Wang</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Flor Wang">
+              <charseq START="159" END="167">Flor Wang</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E5-M503" ROLE="LOC">
+          <extent>
+              <charseq START="228" END="235">Normandy</charseq>
+          </extent>
+          <head>
+              <charseq START="228" END="235">Normandy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E5-M619" ROLE="LOC">
+          <extent>
+              <charseq START="626" END="633">Normandy</charseq>
+          </extent>
+          <head>
+              <charseq START="626" END="633">Normandy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Normandy">
+              <charseq START="228" END="235">Normandy</charseq>
+          </name>
+          <name NAME="Normandy">
+              <charseq START="626" END="633">Normandy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E6-M508">
+          <extent>
+              <charseq START="277" END="286">Mme Chirac</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="286">Mme Chirac</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E6-M800">
+          <extent>
+              <charseq START="895" END="905">Mrs. Chirac</charseq>
+          </extent>
+          <head>
+              <charseq START="900" END="905">Chirac</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E6-M801">
+          <extent>
+              <charseq START="895" END="898">Mrs.</charseq>
+          </extent>
+          <head>
+              <charseq START="895" END="898">Mrs.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mme Chirac">
+              <charseq START="277" END="286">Mme Chirac</charseq>
+          </name>
+          <name NAME="Chirac">
+              <charseq START="900" END="905">Chirac</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E7-M514" ROLE="GPE">
+          <extent>
+              <charseq START="356" END="361">French</charseq>
+          </extent>
+          <head>
+              <charseq START="356" END="361">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E7-M610" ROLE="LOC">
+          <extent>
+              <charseq START="532" END="537">France</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="537">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E7-M712">
+          <extent>
+              <charseq START="759" END="764">France</charseq>
+          </extent>
+          <head>
+              <charseq START="759" END="764">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E7-M1308" ROLE="GPE">
+          <extent>
+              <charseq START="1577" END="1582">French</charseq>
+          </extent>
+          <head>
+              <charseq START="1577" END="1582">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="356" END="361">French</charseq>
+          </name>
+          <name NAME="France">
+              <charseq START="532" END="537">France</charseq>
+          </name>
+          <name NAME="France">
+              <charseq START="759" END="764">France</charseq>
+          </name>
+          <name NAME="French">
+              <charseq START="1577" END="1582">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E8-M515">
+          <extent>
+              <charseq START="374" END="390">Bernadette Chirac</charseq>
+          </extent>
+          <head>
+              <charseq START="374" END="390">Bernadette Chirac</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E8-M607">
+          <extent>
+              <charseq START="505" END="603">a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity</charseq>
+          </extent>
+          <head>
+              <charseq START="517" END="527">businessman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bernadette Chirac">
+              <charseq START="374" END="390">Bernadette Chirac</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E9-M500">
+          <extent>
+              <charseq START="193" END="235">A Taiwan-invested company based in Normandy</charseq>
+          </extent>
+          <head>
+              <charseq START="211" END="217">company</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E10-M511">
+          <extent>
+              <charseq START="313" END="336">more than 80 dignitaries</charseq>
+          </extent>
+          <head>
+              <charseq START="326" END="336">dignitaries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E10-M702">
+          <extent>
+              <charseq START="653" END="775">the dignitaries attending the reception to introduce the new orchid,
+including Taiwan&apos;s representative to France Michel Lu,</charseq>
+          </extent>
+          <head>
+              <charseq START="657" END="667">dignitaries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E11-M513">
+          <extent>
+              <charseq START="349" END="372">former French first lady</charseq>
+          </extent>
+          <head>
+              <charseq START="369" END="372">lady</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20090626.0030-E11-M517">
+          <extent>
+              <charseq START="396" END="398">her</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="398">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20090626.0030-E11-M805">
+          <extent>
+              <charseq START="914" END="916">her</charseq>
+          </extent>
+          <head>
+              <charseq START="914" END="916">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20090626.0030-E11-M810">
+          <extent>
+              <charseq START="979" END="981">her</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="981">her</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E12-M516">
+          <extent>
+              <charseq START="396" END="406">her husband</charseq>
+          </extent>
+          <head>
+              <charseq START="400" END="406">husband</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E13-M604">
+          <extent>
+              <charseq START="463" END="480">Flossan Orchid Co.</charseq>
+          </extent>
+          <head>
+              <charseq START="463" END="480">Flossan Orchid Co.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E13-M605">
+          <extent>
+              <charseq START="483" END="633">a company launched by a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity at its greenhouse in Normandy</charseq>
+          </extent>
+          <head>
+              <charseq START="485" END="491">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20090626.0030-E13-M618">
+          <extent>
+              <charseq START="608" END="610">its</charseq>
+          </extent>
+          <head>
+              <charseq START="608" END="610">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E13-M714">
+          <extent>
+              <charseq START="791" END="801">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="795" END="801">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E13-M1101">
+          <extent>
+              <charseq START="1288" END="1294">Flossan</charseq>
+          </extent>
+          <head>
+              <charseq START="1288" END="1294">Flossan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20090626.0030-E13-M1202">
+          <extent>
+              <charseq START="1407" END="1409">Its</charseq>
+          </extent>
+          <head>
+              <charseq START="1407" END="1409">Its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E13-M1311">
+          <extent>
+              <charseq START="1611" END="1617">company</charseq>
+          </extent>
+          <head>
+              <charseq START="1611" END="1617">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20090626.0030-E13-M1305">
+          <extent>
+              <charseq START="1532" END="1534">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1532" END="1534">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Flossan Orchid Co.">
+              <charseq START="463" END="480">Flossan Orchid Co.</charseq>
+          </name>
+          <name NAME="Flossan">
+              <charseq START="1288" END="1294">Flossan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E14" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E14-M600">
+          <extent>
+              <charseq START="433" END="441">The plant</charseq>
+          </extent>
+          <head>
+              <charseq START="437" END="441">plant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E15-M616">
+          <extent>
+              <charseq START="608" END="633">its greenhouse in Normandy</charseq>
+          </extent>
+          <head>
+              <charseq START="612" END="621">greenhouse</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E16-M710">
+          <extent>
+              <charseq START="759" END="775">France Michel Lu,</charseq>
+          </extent>
+          <head>
+              <charseq START="766" END="774">Michel Lu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20090626.0030-E16-M914">
+          <extent>
+              <charseq START="1197" END="1198">Lu</charseq>
+          </extent>
+          <head>
+              <charseq START="1197" END="1198">Lu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20090626.0030-E16-M1003">
+          <extent>
+              <charseq START="1266" END="1267">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1266" END="1267">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michel Lu">
+              <charseq START="766" END="774">Michel Lu</charseq>
+          </name>
+          <name NAME="Lu">
+              <charseq START="1197" END="1198">Lu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E17-M707">
+          <extent>
+              <charseq START="732" END="775">Taiwan&apos;s representative to France Michel Lu,</charseq>
+          </extent>
+          <head>
+              <charseq START="741" END="754">representative</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E19-M1200">
+          <extent>
+              <charseq START="1407" END="1470">Its products target upscale
+consumers in the greater Paris area.</charseq>
+          </extent>
+          <head>
+              <charseq START="1435" END="1443">consumers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E20-M1205">
+          <extent>
+              <charseq START="1448" END="1469">the greater Paris area</charseq>
+          </extent>
+          <head>
+              <charseq START="1466" END="1469">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E21" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E21-M1301">
+          <extent>
+              <charseq START="1503" END="1516">brand building</charseq>
+          </extent>
+          <head>
+              <charseq START="1509" END="1516">building</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20090626.0030-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20090626.0030-E22-M1310">
+          <extent>
+              <charseq START="1611" END="1628">company executives</charseq>
+          </extent>
+          <head>
+              <charseq START="1619" END="1628">executives</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="CNA_ENG_20090626.0030-T0" VAL="2009-06-25">
+        <timex2_mention ID="CNA_ENG_20090626.0030-T0-M1">
+            <extent>
+              <charseq START="122" END="128">June 25</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20090626.0030-T1" VAL="2009-06-26T16:50:51">
+        <timex2_mention ID="CNA_ENG_20090626.0030-T1-M1">
+            <extent>
+              <charseq START="146" END="153">16:50:51</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20090626.0030-T2" VAL="2009-06-24">
+        <timex2_mention ID="CNA_ENG_20090626.0030-T2-M1">
+            <extent>
+              <charseq START="297" END="305">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20090626.0030-T3" VAL="PAST_REF" ANCHOR_VAL="2009-06-26" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="CNA_ENG_20090626.0030-T3-M1">
+            <extent>
+              <charseq START="349" END="354">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="CNA_ENG_20090626.0030-V4" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="CNA_ENG_20090626.0030-V4-M1">
+            <extent>
+              <charseq START="1106" END="1118">US$20 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="CNA_ENG_20090626.0030-T5" SET="YES">
+        <timex2_mention ID="CNA_ENG_20090626.0030-T5-M1">
+            <extent>
+              <charseq START="1121" END="1130">every
+year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20090626.0030-T6" SET="YES">
+        <timex2_mention ID="CNA_ENG_20090626.0030-T6-M1">
+            <extent>
+              <charseq START="1395" END="1404">each month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20090626.0030-T7" VAL="2009">
+        <timex2_mention ID="CNA_ENG_20090626.0030-T7-M1">
+            <extent>
+              <charseq START="1549" END="1552">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="CNA_ENG_20090626.0030-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E5" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R0-M500">
+          <extent>
+              <charseq START="193" END="235">A Taiwan-invested company based in Normandy</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E9-M500" ROLE="Arg-1">
+            <extent>
+              <charseq START="193" END="235">A Taiwan-invested company based in Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E5-M503" ROLE="Arg-2">
+            <extent>
+              <charseq START="228" END="235">Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E9" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R1-M501">
+          <extent>
+              <charseq START="349" END="372">former French first lady</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E11-M513" ROLE="Arg-1">
+            <extent>
+              <charseq START="349" END="372">former French first lady</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E9-M500" ROLE="Arg-2">
+            <extent>
+              <charseq START="193" END="235">A Taiwan-invested company based in Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E9" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R2-M502">
+          <extent>
+              <charseq START="374" END="390">Bernadette Chirac</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E8-M515" ROLE="Arg-1">
+            <extent>
+              <charseq START="374" END="390">Bernadette Chirac</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E9-M500" ROLE="Arg-2">
+            <extent>
+              <charseq START="193" END="235">A Taiwan-invested company based in Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E9" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R3-M503">
+          <extent>
+              <charseq START="396" END="406">her husband</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E12-M516" ROLE="Arg-1">
+            <extent>
+              <charseq START="396" END="406">her husband</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E9-M500" ROLE="Arg-2">
+            <extent>
+              <charseq START="193" END="235">A Taiwan-invested company based in Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R4" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E12" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R4-M504">
+          <extent>
+              <charseq START="396" END="398">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E11-M517" ROLE="Arg-1">
+            <extent>
+              <charseq START="396" END="398">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E12-M516" ROLE="Arg-2">
+            <extent>
+              <charseq START="396" END="406">her husband</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R5" TYPE="ORG-AFF" SUBTYPE="Founder" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E13" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R5-M600">
+          <extent>
+              <charseq START="505" END="603">a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E8-M607" ROLE="Arg-1">
+            <extent>
+              <charseq START="505" END="603">a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E13-M605" ROLE="Arg-2">
+            <extent>
+              <charseq START="483" END="633">a company launched by a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity at its greenhouse in Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E1" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R6-M601">
+          <extent>
+              <charseq START="505" END="603">a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E8-M607" ROLE="Arg-1">
+            <extent>
+              <charseq START="505" END="603">a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E1-M609" ROLE="Arg-2">
+            <extent>
+              <charseq START="507" END="515">Taiwanese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E7" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R7-M602">
+          <extent>
+              <charseq START="505" END="603">a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E8-M607" ROLE="Arg-1">
+            <extent>
+              <charseq START="505" END="603">a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E7-M610" ROLE="Arg-2">
+            <extent>
+              <charseq START="532" END="537">France</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E15" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R8-M603">
+          <extent>
+              <charseq START="505" END="603">a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E8-M607" ROLE="Arg-1">
+            <extent>
+              <charseq START="505" END="603">a
+Taiwanese businessman in France that imports young orchids from Taiwan and grows
+them to maturity</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E15-M616" ROLE="Arg-2">
+            <extent>
+              <charseq START="608" END="633">its greenhouse in Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R9" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E15" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R9-M604">
+          <extent>
+              <charseq START="608" END="610">its</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E13-M618" ROLE="Arg-1">
+            <extent>
+              <charseq START="608" END="610">its</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E15-M616" ROLE="Arg-2">
+            <extent>
+              <charseq START="608" END="633">its greenhouse in Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E5" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R10-M605">
+          <extent>
+              <charseq START="608" END="633">its greenhouse in Normandy</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E15-M616" ROLE="Arg-1">
+            <extent>
+              <charseq START="608" END="633">its greenhouse in Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E5-M619" ROLE="Arg-2">
+            <extent>
+              <charseq START="626" END="633">Normandy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E1" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R11-M700">
+          <extent>
+              <charseq START="732" END="775">Taiwan&apos;s representative to France Michel Lu,</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E17-M707" ROLE="Arg-1">
+            <extent>
+              <charseq START="732" END="775">Taiwan&apos;s representative to France Michel Lu,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E1-M709" ROLE="Arg-2">
+            <extent>
+              <charseq START="732" END="737">Taiwan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R12" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E20" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R12-M1200">
+          <extent>
+              <charseq START="1407" END="1470">Its products target upscale
+consumers in the greater Paris area.</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E19-M1200" ROLE="Arg-1">
+            <extent>
+              <charseq START="1407" END="1470">Its products target upscale
+consumers in the greater Paris area.</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E20-M1205" ROLE="Arg-2">
+            <extent>
+              <charseq START="1448" END="1469">the greater Paris area</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20090626.0030-R13" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20090626.0030-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20090626.0030-E0" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20090626.0030-R13-M1201">
+          <extent>
+              <charseq START="1448" END="1469">the greater Paris area</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E20-M1205" ROLE="Arg-1">
+            <extent>
+              <charseq START="1448" END="1469">the greater Paris area</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20090626.0030-E0-M1206" ROLE="Arg-2">
+            <extent>
+              <charseq START="1460" END="1464">Paris</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

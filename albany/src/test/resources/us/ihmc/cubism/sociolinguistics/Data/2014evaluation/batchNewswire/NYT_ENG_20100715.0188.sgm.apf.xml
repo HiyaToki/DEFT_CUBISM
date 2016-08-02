@@ -1,0 +1,829 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100715.0188">
+  <document DOCID="NYT_ENG_20100715.0188">
+
+    <entity ID="NYT_ENG_20100715.0188-E0" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E0-M1">
+          <extent>
+              <charseq START="58" END="64">YANKEES</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">YANKEES</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E0-M100">
+          <extent>
+              <charseq START="145" END="155">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="149" END="155">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E0-M203">
+          <extent>
+              <charseq START="314" END="320">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="314" END="320">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E0-M302">
+          <extent>
+              <charseq START="437" END="447">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="441" END="447">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E0-M400">
+          <extent>
+              <charseq START="571" END="578">The team</charseq>
+          </extent>
+          <head>
+              <charseq START="575" END="578">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100715.0188-E0-M403">
+          <extent>
+              <charseq START="600" END="604">their</charseq>
+          </extent>
+          <head>
+              <charseq START="600" END="604">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E0-M600">
+          <extent>
+              <charseq START="740" END="750">The Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="744" END="750">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E0-M610">
+          <extent>
+              <charseq START="825" END="831">Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="825" END="831">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E0-M622">
+          <extent>
+              <charseq START="916" END="983">numerous former
+Yankees who played for Steinbrenner over the decades</charseq>
+          </extent>
+          <head>
+              <charseq START="932" END="938">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100715.0188-E0-M612">
+          <extent>
+              <charseq START="839" END="843">their</charseq>
+          </extent>
+          <head>
+              <charseq START="839" END="843">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100715.0188-E0-M625">
+          <extent>
+              <charseq START="940" END="942">who</charseq>
+          </extent>
+          <head>
+              <charseq START="940" END="942">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E0-M800">
+          <extent>
+              <charseq START="1105" END="1115">the Yankees</charseq>
+          </extent>
+          <head>
+              <charseq START="1109" END="1115">Yankees</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="YANKEES">
+              <charseq START="58" END="64">YANKEES</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="149" END="155">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="314" END="320">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="441" END="447">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="744" END="750">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="825" END="831">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="932" END="938">Yankees</charseq>
+          </name>
+          <name NAME="Yankees">
+              <charseq START="1109" END="1115">Yankees</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E1-M5">
+          <extent>
+              <charseq START="83" END="94">STEINBRENNER</charseq>
+          </extent>
+          <head>
+              <charseq START="83" END="94">STEINBRENNER</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E1-M104">
+          <extent>
+              <charseq START="180" END="198">George
+Steinbrenner</charseq>
+          </extent>
+          <head>
+              <charseq START="180" END="198">George
+Steinbrenner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E1-M209">
+          <extent>
+              <charseq START="384" END="395">Steinbrenner</charseq>
+          </extent>
+          <head>
+              <charseq START="384" END="395">Steinbrenner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E1-M310">
+          <extent>
+              <charseq START="515" END="526">Steinbrenner</charseq>
+          </extent>
+          <head>
+              <charseq START="515" END="526">Steinbrenner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E1-M626">
+          <extent>
+              <charseq START="955" END="966">Steinbrenner</charseq>
+          </extent>
+          <head>
+              <charseq START="955" END="966">Steinbrenner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E1-M707">
+          <extent>
+              <charseq START="1064" END="1075">Steinbrenner</charseq>
+          </extent>
+          <head>
+              <charseq START="1064" END="1075">Steinbrenner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E1-M708">
+          <extent>
+              <charseq START="1078" END="1095">the longtime owner</charseq>
+          </extent>
+          <head>
+              <charseq START="1091" END="1095">owner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E1-M700">
+          <extent>
+              <charseq START="995" END="1018">The crowds at both games</charseq>
+          </extent>
+          <head>
+              <charseq START="999" END="1004">crowds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E1-M817">
+          <extent>
+              <charseq START="1260" END="1271">Steinbrenner</charseq>
+          </extent>
+          <head>
+              <charseq START="1260" END="1271">Steinbrenner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100715.0188-E1-M805">
+          <extent>
+              <charseq START="1166" END="1168">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1166" END="1168">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100715.0188-E1-M819">
+          <extent>
+              <charseq START="1278" END="1280">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1278" END="1280">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E1-M1001">
+          <extent>
+              <charseq START="1387" END="1398">Steinbrenner</charseq>
+          </extent>
+          <head>
+              <charseq START="1387" END="1398">Steinbrenner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E1-M1000">
+          <extent>
+              <charseq START="1365" END="1373">a private</charseq>
+          </extent>
+          <head>
+              <charseq START="1367" END="1373">private</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="STEINBRENNER">
+              <charseq START="83" END="94">STEINBRENNER</charseq>
+          </name>
+          <name NAME="George
+Steinbrenner">
+              <charseq START="180" END="198">George
+Steinbrenner</charseq>
+          </name>
+          <name NAME="Steinbrenner">
+              <charseq START="384" END="395">Steinbrenner</charseq>
+          </name>
+          <name NAME="Steinbrenner">
+              <charseq START="515" END="526">Steinbrenner</charseq>
+          </name>
+          <name NAME="Steinbrenner">
+              <charseq START="955" END="966">Steinbrenner</charseq>
+          </name>
+          <name NAME="Steinbrenner">
+              <charseq START="1064" END="1075">Steinbrenner</charseq>
+          </name>
+          <name NAME="Steinbrenner">
+              <charseq START="1260" END="1271">Steinbrenner</charseq>
+          </name>
+          <name NAME="Steinbrenner">
+              <charseq START="1387" END="1398">Steinbrenner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E2-M6">
+          <extent>
+              <charseq START="100" END="107">SHEPPARD</charseq>
+          </extent>
+          <head>
+              <charseq START="100" END="107">SHEPPARD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E2-M201">
+          <extent>
+              <charseq START="301" END="400">the longtime Yankees
+announcer Bob Sheppard, who died Sunday, just two days before
+Steinbrenner died</charseq>
+          </extent>
+          <head>
+              <charseq START="332" END="343">Bob Sheppard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E2-M204">
+          <extent>
+              <charseq START="322" END="330">announcer</charseq>
+          </extent>
+          <head>
+              <charseq START="322" END="330">announcer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100715.0188-E2-M206">
+          <extent>
+              <charseq START="346" END="348">who</charseq>
+          </extent>
+          <head>
+              <charseq START="346" END="348">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E2-M605">
+          <extent>
+              <charseq START="777" END="784">Sheppard</charseq>
+          </extent>
+          <head>
+              <charseq START="777" END="784">Sheppard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E2-M1101">
+          <extent>
+              <charseq START="1445" END="1452">Sheppard</charseq>
+          </extent>
+          <head>
+              <charseq START="1445" END="1452">Sheppard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SHEPPARD">
+              <charseq START="100" END="107">SHEPPARD</charseq>
+          </name>
+          <name NAME="Bob Sheppard">
+              <charseq START="332" END="343">Bob Sheppard</charseq>
+          </name>
+          <name NAME="Sheppard">
+              <charseq START="777" END="784">Sheppard</charseq>
+          </name>
+          <name NAME="Sheppard">
+              <charseq START="1445" END="1452">Sheppard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E3-M108">
+          <extent>
+              <charseq START="235" END="252">the Tampa Bay Rays</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="252">Tampa Bay Rays</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tampa Bay Rays">
+              <charseq START="239" END="252">Tampa Bay Rays</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E4-M110">
+          <extent>
+              <charseq START="257" END="270">Yankee Stadium</charseq>
+          </extent>
+          <head>
+              <charseq START="257" END="270">Yankee Stadium</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E4-M808">
+          <extent>
+              <charseq START="1191" END="1201">the stadium</charseq>
+          </extent>
+          <head>
+              <charseq START="1195" END="1201">stadium</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yankee Stadium">
+              <charseq START="257" END="270">Yankee Stadium</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E5-M315">
+          <extent>
+              <charseq START="561" END="568">both men</charseq>
+          </extent>
+          <head>
+              <charseq START="566" END="568">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E6-M401">
+          <extent>
+              <charseq START="586" END="589">fans</charseq>
+          </extent>
+          <head>
+              <charseq START="586" END="589">fans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E7-M501">
+          <extent>
+              <charseq START="637" END="640">Army</charseq>
+          </extent>
+          <head>
+              <charseq START="637" END="640">Army</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Army">
+              <charseq START="637" END="640">Army</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E8-M505" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="707" END="716">West Point</charseq>
+          </extent>
+          <head>
+              <charseq START="707" END="716">West Point</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E9-M500">
+          <extent>
+              <charseq START="634" END="649">An Army sergeant</charseq>
+          </extent>
+          <head>
+              <charseq START="642" END="649">sergeant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E10-M504">
+          <extent>
+              <charseq START="705" END="728">a West Point color guard</charseq>
+          </extent>
+          <head>
+              <charseq START="724" END="728">guard</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E11-M617" ROLE="LOC">
+          <extent>
+              <charseq START="871" END="879">the Bronx</charseq>
+          </extent>
+          <head>
+              <charseq START="875" END="879">Bronx</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bronx">
+              <charseq START="875" END="879">Bronx</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E12-M809">
+          <extent>
+              <charseq START="1210" END="1285">Steinbrenner Field in Tampa, Fla., the city
+where Steinbrenner made his home</charseq>
+          </extent>
+          <head>
+              <charseq START="1210" END="1227">Steinbrenner Field</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E12-M818">
+          <extent>
+              <charseq START="1278" END="1285">his home</charseq>
+          </extent>
+          <head>
+              <charseq START="1282" END="1285">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steinbrenner Field">
+              <charseq START="1210" END="1227">Steinbrenner Field</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E13-M812" ROLE="LOC">
+          <extent>
+              <charseq START="1232" END="1236">Tampa</charseq>
+          </extent>
+          <head>
+              <charseq START="1232" END="1236">Tampa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100715.0188-E13-M814" ROLE="LOC">
+          <extent>
+              <charseq START="1245" END="1285">the city
+where Steinbrenner made his home</charseq>
+          </extent>
+          <head>
+              <charseq START="1249" END="1252">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100715.0188-E13-M816">
+          <extent>
+              <charseq START="1254" END="1258">where</charseq>
+          </extent>
+          <head>
+              <charseq START="1254" END="1258">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tampa">
+              <charseq START="1232" END="1236">Tampa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E14" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E14-M813" ROLE="LOC">
+          <extent>
+              <charseq START="1239" END="1242">Fla.</charseq>
+          </extent>
+          <head>
+              <charseq START="1239" END="1242">Fla.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E14-M1003" ROLE="LOC">
+          <extent>
+              <charseq START="1436" END="1442">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="1436" END="1442">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fla.">
+              <charseq START="1239" END="1242">Fla.</charseq>
+          </name>
+          <name NAME="Florida">
+              <charseq START="1436" END="1442">Florida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100715.0188-E15" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100715.0188-E15-M1103">
+          <extent>
+              <charseq START="1485" END="1495">Long Island</charseq>
+          </extent>
+          <head>
+              <charseq START="1485" END="1495">Long Island</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Long Island">
+              <charseq START="1485" END="1495">Long Island</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T0" VAL="2010-07-16TNI">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T0-M1">
+            <extent>
+              <charseq START="207" END="218">Friday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T1">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T1-M1">
+            <extent>
+              <charseq START="305" END="312">longtime</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T2" VAL="2010-07-11">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T2-M1">
+            <extent>
+              <charseq START="355" END="360">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T3" VAL="P2D">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T3-M1">
+            <extent>
+              <charseq START="363" END="400">just two days before
+Steinbrenner died</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T4" VAL="2010-07-15">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T4-M1">
+            <extent>
+              <charseq START="427" END="434">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T5" VAL="2010-07-15T06:45">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T5-M1">
+            <extent>
+              <charseq START="615" END="622">6:45 p.m</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T6" VAL="2010-07-17">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T6-M1">
+            <extent>
+              <charseq START="806" END="813">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T7">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T7-M1">
+            <extent>
+              <charseq START="845" END="850">annual</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T8" VAL="PAST_REF" ANCHOR_VAL="2010-07-15" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T8-M1">
+            <extent>
+              <charseq START="925" END="930">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T9" VAL="PXDE">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T9-M1">
+            <extent>
+              <charseq START="973" END="983">the decades</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T10" VAL="2010-07-17">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T10-M1">
+            <extent>
+              <charseq START="1424" END="1431">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100715.0188-T11" VAL="2010-07-15">
+        <timex2_mention ID="NYT_ENG_20100715.0188-T11-M1">
+            <extent>
+              <charseq START="1473" END="1480">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100715.0188-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100715.0188-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100715.0188-E0" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100715.0188-R0-M200">
+          <extent>
+              <charseq START="322" END="330">announcer</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E2-M204" ROLE="Arg-1">
+            <extent>
+              <charseq START="322" END="330">announcer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E0-M203" ROLE="Arg-2">
+            <extent>
+              <charseq START="314" END="320">Yankees</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100715.0188-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100715.0188-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100715.0188-E7" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100715.0188-R1-M500">
+          <extent>
+              <charseq START="634" END="649">An Army sergeant</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E9-M500" ROLE="Arg-1">
+            <extent>
+              <charseq START="634" END="649">An Army sergeant</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E7-M501" ROLE="Arg-2">
+            <extent>
+              <charseq START="637" END="640">Army</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100715.0188-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100715.0188-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100715.0188-E8" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100715.0188-R2-M501">
+          <extent>
+              <charseq START="705" END="728">a West Point color guard</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E10-M504" ROLE="Arg-1">
+            <extent>
+              <charseq START="705" END="728">a West Point color guard</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E8-M505" ROLE="Arg-2">
+            <extent>
+              <charseq START="707" END="716">West Point</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100715.0188-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100715.0188-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100715.0188-E13" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100715.0188-R3-M800">
+          <extent>
+              <charseq START="1210" END="1285">Steinbrenner Field in Tampa, Fla., the city
+where Steinbrenner made his home</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E12-M809" ROLE="Arg-1">
+            <extent>
+              <charseq START="1210" END="1285">Steinbrenner Field in Tampa, Fla., the city
+where Steinbrenner made his home</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E13-M812" ROLE="Arg-2">
+            <extent>
+              <charseq START="1232" END="1236">Tampa</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="NYT_ENG_20100715.0188-R3-M802">
+          <extent>
+              <charseq START="1210" END="1285">Steinbrenner Field in Tampa, Fla., the city
+where Steinbrenner made his home</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E12-M809" ROLE="Arg-1">
+            <extent>
+              <charseq START="1210" END="1285">Steinbrenner Field in Tampa, Fla., the city
+where Steinbrenner made his home</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E13-M814" ROLE="Arg-2">
+            <extent>
+              <charseq START="1245" END="1285">the city
+where Steinbrenner made his home</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100715.0188-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100715.0188-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100715.0188-E14" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100715.0188-R4-M801">
+          <extent>
+              <charseq START="1210" END="1285">Steinbrenner Field in Tampa, Fla., the city
+where Steinbrenner made his home</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E12-M809" ROLE="Arg-1">
+            <extent>
+              <charseq START="1210" END="1285">Steinbrenner Field in Tampa, Fla., the city
+where Steinbrenner made his home</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E14-M813" ROLE="Arg-2">
+            <extent>
+              <charseq START="1239" END="1242">Fla.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100715.0188-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100715.0188-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100715.0188-E12" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100715.0188-R5-M803">
+          <extent>
+              <charseq START="1278" END="1280">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E1-M819" ROLE="Arg-1">
+            <extent>
+              <charseq START="1278" END="1280">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E12-M818" ROLE="Arg-2">
+            <extent>
+              <charseq START="1278" END="1285">his home</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100715.0188-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100715.0188-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100715.0188-E14" ROLE="Arg-2"/>
+      <relation_argument REFID="NYT_ENG_20100715.0188-T10" ROLE="Time-Within"/>
+        <relation_mention ID="NYT_ENG_20100715.0188-R6-M1000">
+          <extent>
+              <charseq START="1387" END="1398">Steinbrenner</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E1-M1001" ROLE="Arg-1">
+            <extent>
+              <charseq START="1387" END="1398">Steinbrenner</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-E14-M1003" ROLE="Arg-2">
+            <extent>
+              <charseq START="1436" END="1442">Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100715.0188-T10-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1424" END="1431">Saturday</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

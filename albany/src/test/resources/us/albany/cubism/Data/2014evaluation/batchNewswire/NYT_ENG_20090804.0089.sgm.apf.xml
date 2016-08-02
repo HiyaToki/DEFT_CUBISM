@@ -1,0 +1,1322 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20090804.0089">
+  <document DOCID="NYT_ENG_20090804.0089">
+
+    <entity ID="NYT_ENG_20090804.0089-E0" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="62">MASS.</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">MASS.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M109" ROLE="GPE">
+          <extent>
+              <charseq START="131" END="135">MASS.</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="135">MASS.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M216" ROLE="GPE">
+          <extent>
+              <charseq START="316" END="328">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="316" END="328">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M1104" ROLE="GPE">
+          <extent>
+              <charseq START="1524" END="1536">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="1524" END="1536">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M1212" ROLE="LOC">
+          <extent>
+              <charseq START="1736" END="1748">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="1736" END="1748">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M1316" ROLE="LOC">
+          <extent>
+              <charseq START="1937" END="1949">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="1937" END="1949">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M1502" ROLE="LOC">
+          <extent>
+              <charseq START="2053" END="2065">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="2053" END="2065">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M1617">
+          <extent>
+              <charseq START="2335" END="2347">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="2335" END="2347">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M2103">
+          <extent>
+              <charseq START="2892" END="2904">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="2892" END="2904">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M2115">
+          <extent>
+              <charseq START="3020" END="3032">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="3020" END="3032">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M2200">
+          <extent>
+              <charseq START="3143" END="3156">Massachusetts,</charseq>
+          </extent>
+          <head>
+              <charseq START="3143" END="3155">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M2405">
+          <extent>
+              <charseq START="3575" END="3587">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="3575" END="3587">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E0-M2502" ROLE="GPE">
+          <extent>
+              <charseq START="3672" END="3684">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="3672" END="3684">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MASS.">
+              <charseq START="58" END="62">MASS.</charseq>
+          </name>
+          <name NAME="MASS.">
+              <charseq START="131" END="135">MASS.</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="316" END="328">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="1524" END="1536">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="1736" END="1748">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="1937" END="1949">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="2053" END="2065">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="2335" END="2347">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="2892" END="2904">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="3020" END="3032">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="3143" END="3155">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="3575" END="3587">Massachusetts</charseq>
+          </name>
+          <name NAME="Massachusetts">
+              <charseq START="3672" END="3684">Massachusetts</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E1-M107">
+          <extent>
+              <charseq START="118" END="122">GLOBE</charseq>
+          </extent>
+          <head>
+              <charseq START="118" END="122">GLOBE</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GLOBE">
+              <charseq START="118" END="122">GLOBE</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E2-M204">
+          <extent>
+              <charseq START="215" END="225">politicians</charseq>
+          </extent>
+          <head>
+              <charseq START="215" END="225">politicians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090804.0089-E2-M205">
+          <extent>
+              <charseq START="227" END="229">who</charseq>
+          </extent>
+          <head>
+              <charseq START="227" END="229">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E3-M208">
+          <extent>
+              <charseq START="263" END="272">the nation</charseq>
+          </extent>
+          <head>
+              <charseq START="267" END="272">nation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E3-M222">
+          <extent>
+              <charseq START="378" END="386">the
+state</charseq>
+          </extent>
+          <head>
+              <charseq START="382" END="386">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E3-M304">
+          <extent>
+              <charseq START="451" END="460">this
+state</charseq>
+          </extent>
+          <head>
+              <charseq START="456" END="460">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E3-M509">
+          <extent>
+              <charseq START="681" END="685">state</charseq>
+          </extent>
+          <head>
+              <charseq START="681" END="685">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090804.0089-E3-M502">
+          <extent>
+              <charseq START="638" END="640">Its</charseq>
+          </extent>
+          <head>
+              <charseq START="638" END="640">Its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E3-M600">
+          <extent>
+              <charseq START="801" END="809">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="805" END="809">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E3-M804" ROLE="LOC">
+          <extent>
+              <charseq START="1072" END="1080">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="1076" END="1080">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E3-M1200">
+          <extent>
+              <charseq START="1567" END="1576">the
+nation</charseq>
+          </extent>
+          <head>
+              <charseq START="1571" END="1576">nation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E3-M1604">
+          <extent>
+              <charseq START="2187" END="2196">this state</charseq>
+          </extent>
+          <head>
+              <charseq START="2192" END="2196">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E3-M2007">
+          <extent>
+              <charseq START="2742" END="2750">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="2746" END="2750">state</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E4-M209">
+          <extent>
+              <charseq START="279" END="398">a new straw man to kick around - the
+Massachusetts reform plan that covers more than 97 percent of the
+state&apos;s
+residents</charseq>
+          </extent>
+          <head>
+              <charseq START="291" END="293">man</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E5-M221">
+          <extent>
+              <charseq START="378" END="398">the
+state&apos;s
+residents</charseq>
+          </extent>
+          <head>
+              <charseq START="390" END="398">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E5-M1615">
+          <extent>
+              <charseq START="2312" END="2325">the
+architects</charseq>
+          </extent>
+          <head>
+              <charseq START="2316" END="2325">architects</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E7-M302">
+          <extent>
+              <charseq START="418" END="430">these critics</charseq>
+          </extent>
+          <head>
+              <charseq START="424" END="430">critics</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E8-M305">
+          <extent>
+              <charseq START="481" END="489">taxpayers</charseq>
+          </extent>
+          <head>
+              <charseq START="481" END="489">taxpayers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E9-M402">
+          <extent>
+              <charseq START="576" END="613">the Massachusetts Taxpayers Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="580" END="613">Massachusetts Taxpayers Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Massachusetts Taxpayers Foundation">
+              <charseq START="580" END="613">Massachusetts Taxpayers Foundation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E10-M507">
+          <extent>
+              <charseq START="677" END="722">the state
+taxpayer at
+about $88 million a year</charseq>
+          </extent>
+          <head>
+              <charseq START="687" END="694">taxpayer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E11-M603">
+          <extent>
+              <charseq START="866" END="906">safety-net hospital Boston Medical Center</charseq>
+          </extent>
+          <head>
+              <charseq START="886" END="906">Boston Medical Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E11-M604">
+          <extent>
+              <charseq START="877" END="884">hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="877" END="884">hospital</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boston Medical Center">
+              <charseq START="886" END="906">Boston Medical Center</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E12-M602">
+          <extent>
+              <charseq START="844" END="859">legal immigrants</charseq>
+          </extent>
+          <head>
+              <charseq START="850" END="859">immigrants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E13-M903">
+          <extent>
+              <charseq START="1136" END="1163">all the previously uninsured</charseq>
+          </extent>
+          <head>
+              <charseq START="1155" END="1163">uninsured</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090804.0089-E13-M908">
+          <extent>
+              <charseq START="1193" END="1197">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1193" END="1197">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E13-M1201">
+          <extent>
+              <charseq START="1591" END="1603">the uninsured</charseq>
+          </extent>
+          <head>
+              <charseq START="1595" END="1603">uninsured</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E13-M2003">
+          <extent>
+              <charseq START="2691" END="2703">the
+uninsured</charseq>
+          </extent>
+          <head>
+              <charseq START="2695" END="2703">uninsured</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E13-M2013">
+          <extent>
+              <charseq START="2793" END="2801">uninsured</charseq>
+          </extent>
+          <head>
+              <charseq START="2793" END="2801">uninsured</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E14-M907">
+          <extent>
+              <charseq START="1193" END="1207">their
+employers</charseq>
+          </extent>
+          <head>
+              <charseq START="1199" END="1207">employers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E14-M1002">
+          <extent>
+              <charseq START="1312" END="1365">those fiscal conservatives,
+including both
+Republicans</charseq>
+          </extent>
+          <head>
+              <charseq START="1325" END="1337">conservatives</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E14-M2109">
+          <extent>
+              <charseq START="2970" END="2978">employers</charseq>
+          </extent>
+          <head>
+              <charseq START="2970" END="2978">employers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E15-M1004">
+          <extent>
+              <charseq START="1350" END="1365">both
+Republicans</charseq>
+          </extent>
+          <head>
+              <charseq START="1355" END="1365">Republicans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E15-M1402">
+          <extent>
+              <charseq START="1966" END="1975">Republican</charseq>
+          </extent>
+          <head>
+              <charseq START="1966" END="1975">Republican</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Republicans">
+              <charseq START="1355" END="1365">Republicans</charseq>
+          </name>
+          <name NAME="Republican">
+              <charseq START="1966" END="1975">Republican</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E16" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E16-M1007">
+          <extent>
+              <charseq START="1382" END="1483">Democrats, who claim to support the
+goal of
+universal coverage while despairing over its budget impact</charseq>
+          </extent>
+          <head>
+              <charseq START="1382" END="1390">Democrats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090804.0089-E16-M1009">
+          <extent>
+              <charseq START="1393" END="1395">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1393" END="1395">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090804.0089-E16-M1015">
+          <extent>
+              <charseq START="1467" END="1469">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1467" END="1469">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E16-M2217">
+          <extent>
+              <charseq START="3265" END="3274">Democratic</charseq>
+          </extent>
+          <head>
+              <charseq START="3265" END="3274">Democratic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Democrats">
+              <charseq START="1382" END="1390">Democrats</charseq>
+          </name>
+          <name NAME="Democratic">
+              <charseq START="3265" END="3274">Democratic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E18-M1203">
+          <extent>
+              <charseq START="1619" END="1645">Fox News host Bill
+O&apos;Reilly</charseq>
+          </extent>
+          <head>
+              <charseq START="1633" END="1645">Bill
+O&apos;Reilly</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E18-M1205">
+          <extent>
+              <charseq START="1628" END="1631">host</charseq>
+          </extent>
+          <head>
+              <charseq START="1628" END="1631">host</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bill
+O&apos;Reilly">
+              <charseq START="1633" END="1645">Bill
+O&apos;Reilly</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E19" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E19-M1204">
+          <extent>
+              <charseq START="1619" END="1626">Fox News</charseq>
+          </extent>
+          <head>
+              <charseq START="1619" END="1626">Fox News</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fox News">
+              <charseq START="1619" END="1626">Fox News</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E20-M1300">
+          <extent>
+              <charseq START="1774" END="1820">New York
+Times
+columnist Ross Douthat on Monday</charseq>
+          </extent>
+          <head>
+              <charseq START="1799" END="1810">Ross Douthat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E20-M1303">
+          <extent>
+              <charseq START="1789" END="1797">columnist</charseq>
+          </extent>
+          <head>
+              <charseq START="1789" END="1797">columnist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ross Douthat">
+              <charseq START="1799" END="1810">Ross Douthat</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E21" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E21-M1302">
+          <extent>
+              <charseq START="1774" END="1787">New York
+Times</charseq>
+          </extent>
+          <head>
+              <charseq START="1774" END="1787">New York
+Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York
+Times">
+              <charseq START="1774" END="1787">New York
+Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E22-M1306">
+          <extent>
+              <charseq START="1830" END="1844">President Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1840" END="1844">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E22-M1307">
+          <extent>
+              <charseq START="1830" END="1838">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1830" END="1838">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E22-M2308">
+          <extent>
+              <charseq START="3470" END="3484">President Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="3480" END="3484">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E22-M2309">
+          <extent>
+              <charseq START="3470" END="3478">President</charseq>
+          </extent>
+          <head>
+              <charseq START="3470" END="3478">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Obama">
+              <charseq START="1840" END="1844">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="3480" END="3484">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E23" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E23-M1404" ROLE="LOC">
+          <extent>
+              <charseq START="1989" END="1997">Minnesota</charseq>
+          </extent>
+          <head>
+              <charseq START="1989" END="1997">Minnesota</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Minnesota">
+              <charseq START="1989" END="1997">Minnesota</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E24-M1405">
+          <extent>
+              <charseq START="2000" END="2011">Tim Pawlenty</charseq>
+          </extent>
+          <head>
+              <charseq START="2000" END="2011">Tim Pawlenty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E24-M1400">
+          <extent>
+              <charseq START="1962" END="2012">The Republican governor of Minnesota, Tim Pawlenty,</charseq>
+          </extent>
+          <head>
+              <charseq START="1977" END="1984">governor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090804.0089-E24-M1407">
+          <extent>
+              <charseq START="2030" END="2032">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2030" END="2032">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090804.0089-E24-M1503">
+          <extent>
+              <charseq START="2068" END="2069">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2068" END="2069">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E24-M1602">
+          <extent>
+              <charseq START="2155" END="2162">Pawlenty</charseq>
+          </extent>
+          <head>
+              <charseq START="2155" END="2162">Pawlenty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E24-M1703">
+          <extent>
+              <charseq START="2409" END="2416">Pawlenty</charseq>
+          </extent>
+          <head>
+              <charseq START="2409" END="2416">Pawlenty</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tim Pawlenty">
+              <charseq START="2000" END="2011">Tim Pawlenty</charseq>
+          </name>
+          <name NAME="Pawlenty">
+              <charseq START="2155" END="2162">Pawlenty</charseq>
+          </name>
+          <name NAME="Pawlenty">
+              <charseq START="2409" END="2416">Pawlenty</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E25" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E25-M1506">
+          <extent>
+              <charseq START="2080" END="2098">the Washington Post</charseq>
+          </extent>
+          <head>
+              <charseq START="2084" END="2098">Washington Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Washington Post">
+              <charseq START="2084" END="2098">Washington Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E26-M1612">
+          <extent>
+              <charseq START="2292" END="2302">Mitt Romney</charseq>
+          </extent>
+          <head>
+              <charseq START="2292" END="2302">Mitt Romney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E26-M1611">
+          <extent>
+              <charseq START="2276" END="2290">former governor</charseq>
+          </extent>
+          <head>
+              <charseq START="2283" END="2290">governor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E26-M1700">
+          <extent>
+              <charseq START="2367" END="2372">Romney</charseq>
+          </extent>
+          <head>
+              <charseq START="2367" END="2372">Romney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E26-M2212">
+          <extent>
+              <charseq START="3237" END="3242">Romney</charseq>
+          </extent>
+          <head>
+              <charseq START="3237" END="3242">Romney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mitt Romney">
+              <charseq START="2292" END="2302">Mitt Romney</charseq>
+          </name>
+          <name NAME="Romney">
+              <charseq START="2367" END="2372">Romney</charseq>
+          </name>
+          <name NAME="Romney">
+              <charseq START="3237" END="3242">Romney</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E28" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E28-M1706">
+          <extent>
+              <charseq START="2426" END="2428">GOP</charseq>
+          </extent>
+          <head>
+              <charseq START="2426" END="2428">GOP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GOP">
+              <charseq START="2426" END="2428">GOP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E29-M2018" ROLE="GPE">
+          <extent>
+              <charseq START="2833" END="2834">US</charseq>
+          </extent>
+          <head>
+              <charseq START="2833" END="2834">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="2833" END="2834">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090804.0089-E30-M2117">
+          <extent>
+              <charseq START="3087" END="3101">nearly everyone</charseq>
+          </extent>
+          <head>
+              <charseq START="3094" END="3101">everyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E31" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E31-M2218">
+          <extent>
+              <charseq START="3290" END="3304">the Legislature</charseq>
+          </extent>
+          <head>
+              <charseq START="3294" END="3304">Legislature</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Legislature">
+              <charseq START="3294" END="3304">Legislature</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E32-M2213">
+          <extent>
+              <charseq START="3248" END="3304">the reform law&apos;s Democratic
+supporters in
+the Legislature</charseq>
+          </extent>
+          <head>
+              <charseq START="3276" END="3285">supporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E33" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E33-M2311">
+          <extent>
+              <charseq START="3490" END="3497">Congress</charseq>
+          </extent>
+          <head>
+              <charseq START="3490" END="3497">Congress</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E33-M2400">
+          <extent>
+              <charseq START="3504" END="3511">Congress</charseq>
+          </extent>
+          <head>
+              <charseq START="3504" END="3511">Congress</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Congress">
+              <charseq START="3490" END="3497">Congress</charseq>
+          </name>
+          <name NAME="Congress">
+              <charseq START="3504" END="3511">Congress</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E34-M2503">
+          <extent>
+              <charseq START="3696" END="3706">politicians</charseq>
+          </extent>
+          <head>
+              <charseq START="3696" END="3706">politicians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E35-M2600">
+          <extent>
+              <charseq START="3756" END="3845">Robert Blendon of
+the
+Harvard School of Public Health and the Kennedy School of
+Government</charseq>
+          </extent>
+          <head>
+              <charseq START="3756" END="3769">Robert Blendon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert Blendon">
+              <charseq START="3756" END="3769">Robert Blendon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E36" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E36-M2603">
+          <extent>
+              <charseq START="3774" END="3808">the
+Harvard School of Public Health</charseq>
+          </extent>
+          <head>
+              <charseq START="3778" END="3808">Harvard School of Public Health</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harvard School of Public Health">
+              <charseq START="3778" END="3808">Harvard School of Public Health</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E37" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090804.0089-E37-M2605">
+          <extent>
+              <charseq START="3814" END="3845">the Kennedy School of
+Government</charseq>
+          </extent>
+          <head>
+              <charseq START="3818" END="3845">Kennedy School of
+Government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kennedy School of
+Government">
+              <charseq START="3818" END="3845">Kennedy School of
+Government</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090804.0089-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E38-M2701">
+          <extent>
+              <charseq START="3911" END="3932">a figure
+officeholders</charseq>
+          </extent>
+          <head>
+              <charseq START="3920" END="3932">officeholders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090804.0089-E38-M2702">
+          <extent>
+              <charseq START="3913" END="3918">figure</charseq>
+          </extent>
+          <head>
+              <charseq START="3913" END="3918">figure</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <value ID="NYT_ENG_20090804.0089-V0" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20090804.0089-V0-M1">
+            <extent>
+              <charseq START="364" END="373">97 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T1" VAL="2009-SP">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T1-M1">
+            <extent>
+              <charseq START="649" END="659">this spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090804.0089-V2" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090804.0089-V2-M1">
+            <extent>
+              <charseq START="699" END="715">about $88 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T3" VAL="P1Y">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T3-M1">
+            <extent>
+              <charseq START="717" END="722">a year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090804.0089-V4" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20090804.0089-V4-M1">
+            <extent>
+              <charseq START="750" END="758">1 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20090804.0089-V5" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090804.0089-V5-M1">
+            <extent>
+              <charseq START="783" END="793">$27 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T6" VAL="PAST_REF" ANCHOR_VAL="2009-08-04" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T6-M1">
+            <extent>
+              <charseq START="811" END="818">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T7" VAL="PAST_REF" ANCHOR_VAL="2009-08-04" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T7-M1">
+            <extent>
+              <charseq START="1144" END="1153">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T8" VAL="PAST_REF" ANCHOR_VAL="2009-08-04" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T8-M1">
+            <extent>
+              <charseq START="1652" END="1659">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T9" VAL="2009-08-03">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T9-M1">
+            <extent>
+              <charseq START="1815" END="1820">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T10" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-04" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T10-M1">
+            <extent>
+              <charseq START="1905" END="1913">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T11" VAL="2009-08-03">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T11-M1">
+            <extent>
+              <charseq START="2100" END="2105">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T12" VAL="PAST_REF" ANCHOR_VAL="2009-08-04" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T12-M1">
+            <extent>
+              <charseq START="2276" END="2281">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T13" VAL="2012">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T13-M1">
+            <extent>
+              <charseq START="2457" END="2460">2012</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090804.0089-V14" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20090804.0089-V14-M1">
+            <extent>
+              <charseq START="2804" END="2812">7 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20090804.0089-V15" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20090804.0089-V15-M1">
+            <extent>
+              <charseq START="2844" END="2853">17 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T16" VAL="2006">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T16-M1">
+            <extent>
+              <charseq START="3215" END="3218">2006</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090804.0089-V17" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090804.0089-V17-M1">
+            <extent>
+              <charseq START="3412" END="3423">$787 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20090804.0089-T18" VAL="2008-06">
+        <timex2_mention ID="NYT_ENG_20090804.0089-T18-M1">
+            <extent>
+              <charseq START="3877" END="3885">June 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090804.0089-V19" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20090804.0089-V19-M1">
+            <extent>
+              <charseq START="3891" END="3900">69 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="NYT_ENG_20090804.0089-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090804.0089-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090804.0089-E3" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090804.0089-R0-M500">
+          <extent>
+              <charseq START="677" END="722">the state
+taxpayer at
+about $88 million a year</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E10-M507" ROLE="Arg-1">
+            <extent>
+              <charseq START="677" END="722">the state
+taxpayer at
+about $88 million a year</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E3-M509" ROLE="Arg-2">
+            <extent>
+              <charseq START="681" END="685">state</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090804.0089-R1" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090804.0089-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090804.0089-E14" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090804.0089-R1-M900">
+          <extent>
+              <charseq START="1193" END="1197">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E13-M908" ROLE="Arg-1">
+            <extent>
+              <charseq START="1193" END="1197">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E14-M907" ROLE="Arg-2">
+            <extent>
+              <charseq START="1193" END="1207">their
+employers</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090804.0089-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090804.0089-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090804.0089-E19" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090804.0089-R2-M1200">
+          <extent>
+              <charseq START="1628" END="1631">host</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E18-M1205" ROLE="Arg-1">
+            <extent>
+              <charseq START="1628" END="1631">host</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E19-M1204" ROLE="Arg-2">
+            <extent>
+              <charseq START="1619" END="1626">Fox News</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090804.0089-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090804.0089-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090804.0089-E15" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090804.0089-R3-M1400">
+          <extent>
+              <charseq START="1962" END="2012">The Republican governor of Minnesota, Tim Pawlenty,</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E24-M1400" ROLE="Arg-1">
+            <extent>
+              <charseq START="1962" END="2012">The Republican governor of Minnesota, Tim Pawlenty,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E15-M1402" ROLE="Arg-2">
+            <extent>
+              <charseq START="1966" END="1975">Republican</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090804.0089-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090804.0089-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090804.0089-E23" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090804.0089-R4-M1401">
+          <extent>
+              <charseq START="1962" END="2012">The Republican governor of Minnesota, Tim Pawlenty,</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E24-M1400" ROLE="Arg-1">
+            <extent>
+              <charseq START="1962" END="2012">The Republican governor of Minnesota, Tim Pawlenty,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E23-M1404" ROLE="Arg-2">
+            <extent>
+              <charseq START="1989" END="1997">Minnesota</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090804.0089-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090804.0089-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090804.0089-E36" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090804.0089-R5-M2600">
+          <extent>
+              <charseq START="3756" END="3845">Robert Blendon of
+the
+Harvard School of Public Health and the Kennedy School of
+Government</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E35-M2600" ROLE="Arg-1">
+            <extent>
+              <charseq START="3756" END="3845">Robert Blendon of
+the
+Harvard School of Public Health and the Kennedy School of
+Government</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E36-M2603" ROLE="Arg-2">
+            <extent>
+              <charseq START="3774" END="3808">the
+Harvard School of Public Health</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090804.0089-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090804.0089-E35" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090804.0089-E37" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090804.0089-R6-M2601">
+          <extent>
+              <charseq START="3756" END="3845">Robert Blendon of
+the
+Harvard School of Public Health and the Kennedy School of
+Government</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E35-M2600" ROLE="Arg-1">
+            <extent>
+              <charseq START="3756" END="3845">Robert Blendon of
+the
+Harvard School of Public Health and the Kennedy School of
+Government</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090804.0089-E37-M2605" ROLE="Arg-2">
+            <extent>
+              <charseq START="3814" END="3845">the Kennedy School of
+Government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100203.0692">
+  <document DOCID="APW_ENG_20100203.0692">
+
+    <entity ID="APW_ENG_20100203.0692-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="62">Swiss</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Swiss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E0-M201" ROLE="GPE">
+          <extent>
+              <charseq START="189" END="193">Swiss</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="193">Swiss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E0-M206" ROLE="LOC">
+          <extent>
+              <charseq START="285" END="308">northwestern Switzerland</charseq>
+          </extent>
+          <head>
+              <charseq START="298" END="308">Switzerland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E0-M200" ROLE="ORG">
+          <extent>
+              <charseq START="185" END="204">The Swiss government</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="204">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E0-M207">
+          <extent>
+              <charseq START="285" END="296">northwestern</charseq>
+          </extent>
+          <head>
+              <charseq START="285" END="296">northwestern</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E0-M503">
+          <extent>
+              <charseq START="632" END="642">Switzerland</charseq>
+          </extent>
+          <head>
+              <charseq START="632" END="642">Switzerland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E0-M603">
+          <extent>
+              <charseq START="728" END="738">Switzerland</charseq>
+          </extent>
+          <head>
+              <charseq START="728" END="738">Switzerland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E0-M708" ROLE="LOC">
+          <extent>
+              <charseq START="923" END="933">Switzerland</charseq>
+          </extent>
+          <head>
+              <charseq START="923" END="933">Switzerland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Swiss">
+              <charseq START="58" END="62">Swiss</charseq>
+          </name>
+          <name NAME="Swiss">
+              <charseq START="189" END="193">Swiss</charseq>
+          </name>
+          <name NAME="Switzerland">
+              <charseq START="298" END="308">Switzerland</charseq>
+          </name>
+          <name NAME="Switzerland">
+              <charseq START="632" END="642">Switzerland</charseq>
+          </name>
+          <name NAME="Switzerland">
+              <charseq START="728" END="738">Switzerland</charseq>
+          </name>
+          <name NAME="Switzerland">
+              <charseq START="923" END="933">Switzerland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E1-M5">
+          <extent>
+              <charseq START="92" END="98">2 Gitmo</charseq>
+          </extent>
+          <head>
+              <charseq START="94" END="98">Gitmo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gitmo">
+              <charseq START="94" END="98">Gitmo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E2-M1">
+          <extent>
+              <charseq START="58" END="66">Swiss gov</charseq>
+          </extent>
+          <head>
+              <charseq START="64" END="66">gov</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E3-M101" ROLE="GPE">
+          <extent>
+              <charseq START="131" END="136">GENEVA</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="136">GENEVA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GENEVA">
+              <charseq START="131" END="136">GENEVA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E4-M205">
+          <extent>
+              <charseq START="239" END="245">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="245">Chinese</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E5-M300" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="320" END="326">Beijing</charseq>
+          </extent>
+          <head>
+              <charseq START="320" END="326">Beijing</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100203.0692-E5-M302">
+          <extent>
+              <charseq START="354" END="355">it</charseq>
+          </extent>
+          <head>
+              <charseq START="354" END="355">it</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E6-M306">
+          <extent>
+              <charseq START="387" END="393">Uighurs</charseq>
+          </extent>
+          <head>
+              <charseq START="387" END="393">Uighurs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E6-M304">
+          <extent>
+              <charseq START="363" END="393">the two ethnic minority Uighurs</charseq>
+          </extent>
+          <head>
+              <charseq START="378" END="385">minority</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Uighurs">
+              <charseq START="387" END="393">Uighurs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E7-M307" ROLE="LOC">
+          <extent>
+              <charseq START="408" END="412">China</charseq>
+          </extent>
+          <head>
+              <charseq START="408" END="412">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E7-M506" ROLE="LOC">
+          <extent>
+              <charseq START="677" END="681">China</charseq>
+          </extent>
+          <head>
+              <charseq START="677" END="681">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="408" END="412">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="677" END="681">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E8-M310">
+          <extent>
+              <charseq START="433" END="442">terrorists</charseq>
+          </extent>
+          <head>
+              <charseq START="433" END="442">terrorists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100203.0692-E8-M308">
+          <extent>
+              <charseq START="424" END="427">they</charseq>
+          </extent>
+          <head>
+              <charseq START="424" END="427">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E9-M408" ROLE="GPE">
+          <extent>
+              <charseq START="528" END="531">Jura</charseq>
+          </extent>
+          <head>
+              <charseq START="528" END="531">Jura</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jura">
+              <charseq START="528" END="531">Jura</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E10-M404">
+          <extent>
+              <charseq START="493" END="531">local authorities in the canton of Jura</charseq>
+          </extent>
+          <head>
+              <charseq START="499" END="509">authorities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100203.0692-E10-M410">
+          <extent>
+              <charseq START="543" END="547">their</charseq>
+          </extent>
+          <head>
+              <charseq START="543" END="547">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E11-M411">
+          <extent>
+              <charseq START="563" END="574">the brothers</charseq>
+          </extent>
+          <head>
+              <charseq START="567" END="574">brothers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E12" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E12-M501">
+          <extent>
+              <charseq START="586" END="592">Justice</charseq>
+          </extent>
+          <head>
+              <charseq START="586" END="592">Justice</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Justice">
+              <charseq START="586" END="592">Justice</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E13-M502">
+          <extent>
+              <charseq START="603" END="625">Eveline Widmer-Schlumpf</charseq>
+          </extent>
+          <head>
+              <charseq START="603" END="625">Eveline Widmer-Schlumpf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100203.0692-E13-M600">
+          <extent>
+              <charseq START="719" END="721">She</charseq>
+          </extent>
+          <head>
+              <charseq START="719" END="721">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eveline Widmer-Schlumpf">
+              <charseq START="603" END="625">Eveline Widmer-Schlumpf</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E14-M500">
+          <extent>
+              <charseq START="586" END="601">Justice Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="594" END="601">Minister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E16-M606">
+          <extent>
+              <charseq START="801" END="811">the two men</charseq>
+          </extent>
+          <head>
+              <charseq START="809" END="811">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100203.0692-E17-M706" ROLE="GPE">
+          <extent>
+              <charseq START="882" END="885">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="882" END="885">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="882" END="885">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E18-M701">
+          <extent>
+              <charseq START="835" END="842">an Uzbek</charseq>
+          </extent>
+          <head>
+              <charseq START="838" END="842">Uzbek</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E18-M703">
+          <extent>
+              <charseq START="851" END="902">the first former inmate of the U.S. detention center</charseq>
+          </extent>
+          <head>
+              <charseq START="868" END="873">inmate</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100203.0692-E19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100203.0692-E19-M705">
+          <extent>
+              <charseq START="878" END="902">the U.S. detention center</charseq>
+          </extent>
+          <head>
+              <charseq START="897" END="902">center</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100203.0692-T0" VAL="2010-02-03-02">
+        <timex2_mention ID="APW_ENG_20100203.0692-T0-M1">
+            <extent>
+              <charseq START="138" END="147">2010-02-03</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100203.0692-T1" VAL="PAST_REF" ANCHOR_VAL="2010-02-03" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="APW_ENG_20100203.0692-T1-M1">
+            <extent>
+              <charseq START="340" END="347">the past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100203.0692-T2" VAL="2010-02-03">
+        <timex2_mention ID="APW_ENG_20100203.0692-T2-M1">
+            <extent>
+              <charseq START="454" END="462">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100203.0692-T3" VAL="P1D">
+        <timex2_mention ID="APW_ENG_20100203.0692-T3-M1">
+            <extent>
+              <charseq START="481" END="497">a day after local</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100203.0692-T4" VAL="2010-01">
+        <timex2_mention ID="APW_ENG_20100203.0692-T4-M1">
+            <extent>
+              <charseq START="823" END="832">Last month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100203.0692-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100203.0692-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100203.0692-E12" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100203.0692-R0-M500">
+          <extent>
+              <charseq START="586" END="601">Justice Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100203.0692-E14-M500" ROLE="Arg-1">
+            <extent>
+              <charseq START="586" END="601">Justice Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100203.0692-E12-M501" ROLE="Arg-2">
+            <extent>
+              <charseq START="586" END="592">Justice</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100203.0692-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100203.0692-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100203.0692-E19" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100203.0692-R1-M700">
+          <extent>
+              <charseq START="882" END="885">U.S.</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100203.0692-E17-M706" ROLE="Arg-1">
+            <extent>
+              <charseq START="882" END="885">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100203.0692-E19-M705" ROLE="Arg-2">
+            <extent>
+              <charseq START="878" END="902">the U.S. detention center</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

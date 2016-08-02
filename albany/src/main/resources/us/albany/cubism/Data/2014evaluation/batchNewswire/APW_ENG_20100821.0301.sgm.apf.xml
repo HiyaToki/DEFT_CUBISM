@@ -1,0 +1,513 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100821.0301">
+  <document DOCID="APW_ENG_20100821.0301">
+
+    <entity ID="APW_ENG_20100821.0301-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E0-M0">
+          <extent>
+              <charseq START="58" END="106">Woody Allen interview praises Carla Bruni-Sarkozy</charseq>
+          </extent>
+          <head>
+              <charseq START="88" END="106">Carla Bruni-Sarkozy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0301-E0-M3">
+          <extent>
+              <charseq START="80" END="86">praises</charseq>
+          </extent>
+          <head>
+              <charseq START="80" END="86">praises</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E0-M205">
+          <extent>
+              <charseq START="242" END="260">Carla Bruni-Sarkozy</charseq>
+          </extent>
+          <head>
+              <charseq START="242" END="260">Carla Bruni-Sarkozy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0301-E0-M203">
+          <extent>
+              <charseq START="221" END="239">France&apos;s first lady</charseq>
+          </extent>
+          <head>
+              <charseq START="236" END="239">lady</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E0-M309">
+          <extent>
+              <charseq START="438" END="450">Bruni-Sarkozy</charseq>
+          </extent>
+          <head>
+              <charseq START="438" END="450">Bruni-Sarkozy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0301-E0-M403">
+          <extent>
+              <charseq START="518" END="520">her</charseq>
+          </extent>
+          <head>
+              <charseq START="518" END="520">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E0-M601">
+          <extent>
+              <charseq START="707" END="719">Bruni-Sarkozy</charseq>
+          </extent>
+          <head>
+              <charseq START="707" END="719">Bruni-Sarkozy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0301-E0-M605">
+          <extent>
+              <charseq START="764" END="766">she</charseq>
+          </extent>
+          <head>
+              <charseq START="764" END="766">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0301-E0-M610">
+          <extent>
+              <charseq START="803" END="805">her</charseq>
+          </extent>
+          <head>
+              <charseq START="803" END="805">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carla Bruni-Sarkozy">
+              <charseq START="88" END="106">Carla Bruni-Sarkozy</charseq>
+          </name>
+          <name NAME="Carla Bruni-Sarkozy">
+              <charseq START="242" END="260">Carla Bruni-Sarkozy</charseq>
+          </name>
+          <name NAME="Bruni-Sarkozy">
+              <charseq START="438" END="450">Bruni-Sarkozy</charseq>
+          </name>
+          <name NAME="Bruni-Sarkozy">
+              <charseq START="707" END="719">Bruni-Sarkozy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E1-M1">
+          <extent>
+              <charseq START="58" END="68">Woody Allen</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="68">Woody Allen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E1-M200">
+          <extent>
+              <charseq START="183" END="193">Woody Allen</charseq>
+          </extent>
+          <head>
+              <charseq START="183" END="193">Woody Allen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0301-E1-M210">
+          <extent>
+              <charseq START="299" END="301">his</charseq>
+          </extent>
+          <head>
+              <charseq START="299" END="301">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E1-M300">
+          <extent>
+              <charseq START="339" END="343">Allen</charseq>
+          </extent>
+          <head>
+              <charseq START="339" END="343">Allen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E1-M406">
+          <extent>
+              <charseq START="536" END="540">Allen</charseq>
+          </extent>
+          <head>
+              <charseq START="536" END="540">Allen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E1-M501">
+          <extent>
+              <charseq START="630" END="634">Allen</charseq>
+          </extent>
+          <head>
+              <charseq START="630" END="634">Allen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E1-M600">
+          <extent>
+              <charseq START="696" END="700">Allen</charseq>
+          </extent>
+          <head>
+              <charseq START="696" END="700">Allen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0301-E1-M607">
+          <extent>
+              <charseq START="780" END="781">he</charseq>
+          </extent>
+          <head>
+              <charseq START="780" END="781">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0301-E1-M700">
+          <extent>
+              <charseq START="846" END="847">He</charseq>
+          </extent>
+          <head>
+              <charseq START="846" END="847">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0301-E1-M709">
+          <extent>
+              <charseq START="923" END="924">he</charseq>
+          </extent>
+          <head>
+              <charseq START="923" END="924">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0301-E1-M712">
+          <extent>
+              <charseq START="945" END="947">his</charseq>
+          </extent>
+          <head>
+              <charseq START="945" END="947">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Woody Allen">
+              <charseq START="58" END="68">Woody Allen</charseq>
+          </name>
+          <name NAME="Woody Allen">
+              <charseq START="183" END="193">Woody Allen</charseq>
+          </name>
+          <name NAME="Allen">
+              <charseq START="339" END="343">Allen</charseq>
+          </name>
+          <name NAME="Allen">
+              <charseq START="536" END="540">Allen</charseq>
+          </name>
+          <name NAME="Allen">
+              <charseq START="630" END="634">Allen</charseq>
+          </name>
+          <name NAME="Allen">
+              <charseq START="696" END="700">Allen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="131" END="134">ROME</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="134">ROME</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ROME">
+              <charseq START="131" END="134">ROME</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E3-M204">
+          <extent>
+              <charseq START="221" END="226">France</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="226">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E3-M703" ROLE="GPE">
+          <extent>
+              <charseq START="854" END="859">French</charseq>
+          </extent>
+          <head>
+              <charseq START="854" END="859">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="France">
+              <charseq START="221" END="226">France</charseq>
+          </name>
+          <name NAME="French">
+              <charseq START="854" END="859">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E4-M212" ROLE="LOC">
+          <extent>
+              <charseq START="322" END="326">Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="322" END="326">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E4-M506" ROLE="LOC">
+          <extent>
+              <charseq START="680" END="684">Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="680" END="684">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paris">
+              <charseq START="322" END="326">Paris</charseq>
+          </name>
+          <name NAME="Paris">
+              <charseq START="680" END="684">Paris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E5-M301">
+          <extent>
+              <charseq START="350" END="382">Italian daily Corriere della Sera</charseq>
+          </extent>
+          <head>
+              <charseq START="364" END="382">Corriere della Sera</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E5-M500">
+          <extent>
+              <charseq START="616" END="623">Corriere</charseq>
+          </extent>
+          <head>
+              <charseq START="616" END="623">Corriere</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Corriere della Sera">
+              <charseq START="364" END="382">Corriere della Sera</charseq>
+          </name>
+          <name NAME="Corriere">
+              <charseq START="616" END="623">Corriere</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E6-M302">
+          <extent>
+              <charseq START="350" END="356">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="350" END="356">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italian">
+              <charseq START="350" END="356">Italian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E7-M410">
+          <extent>
+              <charseq START="573" END="583">Owen Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="573" END="583">Owen Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Owen Wilson">
+              <charseq START="573" END="583">Owen Wilson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E8-M411">
+          <extent>
+              <charseq START="589" END="604">Marion Cotillard</charseq>
+          </extent>
+          <head>
+              <charseq START="589" END="604">Marion Cotillard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Marion Cotillard">
+              <charseq START="589" END="604">Marion Cotillard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0301-E9-M407">
+          <extent>
+              <charseq START="567" END="604">stars Owen Wilson and Marion Cotillard</charseq>
+          </extent>
+          <head>
+              <charseq START="567" END="571">stars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E10-M603">
+          <extent>
+              <charseq START="738" END="753">the Rodin Museum</charseq>
+          </extent>
+          <head>
+              <charseq START="742" END="753">Rodin Museum</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rodin Museum">
+              <charseq START="742" END="753">Rodin Museum</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E11" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0301-E11-M611">
+          <extent>
+              <charseq START="831" END="843">the newspaper</charseq>
+          </extent>
+          <head>
+              <charseq START="835" END="843">newspaper</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0301-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0301-E12-M702">
+          <extent>
+              <charseq START="854" END="885">French President Nicolas Sarkozy</charseq>
+          </extent>
+          <head>
+              <charseq START="871" END="885">Nicolas Sarkozy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0301-E12-M704">
+          <extent>
+              <charseq START="861" END="869">President</charseq>
+          </extent>
+          <head>
+              <charseq START="861" END="869">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nicolas Sarkozy">
+              <charseq START="871" END="885">Nicolas Sarkozy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100821.0301-T0" VAL="2010-08-21-08">
+        <timex2_mention ID="APW_ENG_20100821.0301-T0-M1">
+            <extent>
+              <charseq START="136" END="145">2010-08-21</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0301-T1">
+        <timex2_mention ID="APW_ENG_20100821.0301-T1-M1">
+            <extent>
+              <charseq START="358" END="362">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0301-T2" VAL="2010-08-21">
+        <timex2_mention ID="APW_ENG_20100821.0301-T2-M1">
+            <extent>
+              <charseq START="411" END="418">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0301-T3" VAL="2010-07">
+        <timex2_mention ID="APW_ENG_20100821.0301-T3-M1">
+            <extent>
+              <charseq START="509" END="512">July</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0301-T4" VAL="2010-08-21TEV">
+        <timex2_mention ID="APW_ENG_20100821.0301-T4-M1">
+            <extent>
+              <charseq START="903" END="913">one evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100821.0301-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0301-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0301-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0301-R0-M200">
+          <extent>
+              <charseq START="242" END="260">Carla Bruni-Sarkozy</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0301-E0-M205" ROLE="Arg-1">
+            <extent>
+              <charseq START="242" END="260">Carla Bruni-Sarkozy</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0301-E4-M212" ROLE="Arg-2">
+            <extent>
+              <charseq START="322" END="326">Paris</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0301-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0301-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0301-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0301-R1-M300">
+          <extent>
+              <charseq START="350" END="382">Italian daily Corriere della Sera</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0301-E5-M301" ROLE="Arg-1">
+            <extent>
+              <charseq START="350" END="382">Italian daily Corriere della Sera</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0301-E6-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="350" END="356">Italian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0301-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0301-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0301-E3" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0301-R2-M700">
+          <extent>
+              <charseq START="861" END="869">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0301-E12-M704" ROLE="Arg-1">
+            <extent>
+              <charseq START="861" END="869">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0301-E3-M703" ROLE="Arg-2">
+            <extent>
+              <charseq START="854" END="859">French</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

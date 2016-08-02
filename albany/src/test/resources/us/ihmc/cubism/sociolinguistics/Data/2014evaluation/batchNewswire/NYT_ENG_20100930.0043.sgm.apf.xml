@@ -1,0 +1,1419 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100930.0043">
+  <document DOCID="NYT_ENG_20100930.0043">
+
+    <entity ID="NYT_ENG_20100930.0043-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E0-M1">
+          <extent>
+              <charseq START="58" END="66">KARL ROVE</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="66">KARL ROVE</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E0-M203">
+          <extent>
+              <charseq START="169" END="216">midterm-election-fundraising
+rainmaker Karl Rove</charseq>
+          </extent>
+          <head>
+              <charseq START="208" END="216">Karl Rove</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E0-M204">
+          <extent>
+              <charseq START="198" END="206">rainmaker</charseq>
+          </extent>
+          <head>
+              <charseq START="198" END="206">rainmaker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E0-M306">
+          <extent>
+              <charseq START="459" END="462">Rove</charseq>
+          </extent>
+          <head>
+              <charseq START="459" END="462">Rove</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E0-M500">
+          <extent>
+              <charseq START="535" END="538">Rove</charseq>
+          </extent>
+          <head>
+              <charseq START="535" END="538">Rove</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M604">
+          <extent>
+              <charseq START="752" END="753">he</charseq>
+          </extent>
+          <head>
+              <charseq START="752" END="753">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M800">
+          <extent>
+              <charseq START="936" END="937">He</charseq>
+          </extent>
+          <head>
+              <charseq START="936" END="937">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E0-M900">
+          <extent>
+              <charseq START="1110" END="1113">Rove</charseq>
+          </extent>
+          <head>
+              <charseq START="1110" END="1113">Rove</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M907">
+          <extent>
+              <charseq START="1159" END="1161">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1159" END="1161">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E0-M1101">
+          <extent>
+              <charseq START="1520" END="1523">Rove</charseq>
+          </extent>
+          <head>
+              <charseq START="1520" END="1523">Rove</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E0-M1200">
+          <extent>
+              <charseq START="1607" END="1610">Rove</charseq>
+          </extent>
+          <head>
+              <charseq START="1607" END="1610">Rove</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M1204">
+          <extent>
+              <charseq START="1636" END="1638">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1636" END="1638">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M1300">
+          <extent>
+              <charseq START="1686" END="1687">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1686" END="1687">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M1303">
+          <extent>
+              <charseq START="1694" END="1696">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1694" END="1696">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M1306">
+          <extent>
+              <charseq START="1716" END="1718">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1716" END="1718">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E0-M1700">
+          <extent>
+              <charseq START="2285" END="2288">Rove</charseq>
+          </extent>
+          <head>
+              <charseq START="2285" END="2288">Rove</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M1714">
+          <extent>
+              <charseq START="2424" END="2425">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2424" END="2425">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M1800">
+          <extent>
+              <charseq START="2442" END="2443">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2442" END="2443">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M1900">
+          <extent>
+              <charseq START="2586" END="2587">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2586" END="2587">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E0-M2000">
+          <extent>
+              <charseq START="2715" END="2718">Rove</charseq>
+          </extent>
+          <head>
+              <charseq START="2715" END="2718">Rove</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M2002">
+          <extent>
+              <charseq START="2742" END="2744">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2742" END="2744">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E0-M2107">
+          <extent>
+              <charseq START="2833" END="2834">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2833" END="2834">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="KARL ROVE">
+              <charseq START="58" END="66">KARL ROVE</charseq>
+          </name>
+          <name NAME="Karl Rove">
+              <charseq START="208" END="216">Karl Rove</charseq>
+          </name>
+          <name NAME="Rove">
+              <charseq START="459" END="462">Rove</charseq>
+          </name>
+          <name NAME="Rove">
+              <charseq START="535" END="538">Rove</charseq>
+          </name>
+          <name NAME="Rove">
+              <charseq START="1110" END="1113">Rove</charseq>
+          </name>
+          <name NAME="Rove">
+              <charseq START="1520" END="1523">Rove</charseq>
+          </name>
+          <name NAME="Rove">
+              <charseq START="1607" END="1610">Rove</charseq>
+          </name>
+          <name NAME="Rove">
+              <charseq START="2285" END="2288">Rove</charseq>
+          </name>
+          <name NAME="Rove">
+              <charseq START="2715" END="2718">Rove</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E1" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="74" END="81">COLORADO</charseq>
+          </extent>
+          <head>
+              <charseq START="74" END="81">COLORADO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E1-M508">
+          <extent>
+              <charseq START="627" END="634">Colorado</charseq>
+          </extent>
+          <head>
+              <charseq START="627" END="634">Colorado</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E1-M805">
+          <extent>
+              <charseq START="953" END="960">Colorado</charseq>
+          </extent>
+          <head>
+              <charseq START="953" END="960">Colorado</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E1-M1001">
+          <extent>
+              <charseq START="1385" END="1392">Colorado</charseq>
+          </extent>
+          <head>
+              <charseq START="1385" END="1392">Colorado</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E1-M1109" ROLE="LOC">
+          <extent>
+              <charseq START="1587" END="1594">Colorado</charseq>
+          </extent>
+          <head>
+              <charseq START="1587" END="1594">Colorado</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="COLORADO">
+              <charseq START="74" END="81">COLORADO</charseq>
+          </name>
+          <name NAME="Colorado">
+              <charseq START="627" END="634">Colorado</charseq>
+          </name>
+          <name NAME="Colorado">
+              <charseq START="953" END="960">Colorado</charseq>
+          </name>
+          <name NAME="Colorado">
+              <charseq START="1385" END="1392">Colorado</charseq>
+          </name>
+          <name NAME="Colorado">
+              <charseq START="1587" END="1594">Colorado</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E2-M100" ROLE="LOC">
+          <extent>
+              <charseq START="120" END="125">DENVER</charseq>
+          </extent>
+          <head>
+              <charseq START="120" END="125">DENVER</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E2-M505" ROLE="LOC">
+          <extent>
+              <charseq START="608" END="619">south Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="614" END="619">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E2-M1201" ROLE="LOC">
+          <extent>
+              <charseq START="1619" END="1624">Denver</charseq>
+          </extent>
+          <head>
+              <charseq START="1619" END="1624">Denver</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DENVER">
+              <charseq START="120" END="125">DENVER</charseq>
+          </name>
+          <name NAME="Denver">
+              <charseq START="614" END="619">Denver</charseq>
+          </name>
+          <name NAME="Denver">
+              <charseq START="1619" END="1624">Denver</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E3-M202">
+          <extent>
+              <charseq START="150" END="152">GOP</charseq>
+          </extent>
+          <head>
+              <charseq START="150" END="152">GOP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E3-M1905">
+          <extent>
+              <charseq START="2621" END="2623">GOP</charseq>
+          </extent>
+          <head>
+              <charseq START="2621" END="2623">GOP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GOP">
+              <charseq START="150" END="152">GOP</charseq>
+          </name>
+          <name NAME="GOP">
+              <charseq START="2621" END="2623">GOP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E4-M209">
+          <extent>
+              <charseq START="255" END="273">natural
+Republicans</charseq>
+          </extent>
+          <head>
+              <charseq START="263" END="273">Republicans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E4-M201">
+          <extent>
+              <charseq START="150" END="163">GOP strategist</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="163">strategist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E4-M203">
+          <extent>
+              <charseq START="169" END="216">midterm-election-fundraising
+rainmaker Karl Rove</charseq>
+          </extent>
+          <head>
+              <charseq START="208" END="216">Karl Rove</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E4-M211">
+          <extent>
+              <charseq START="283" END="286">they</charseq>
+          </extent>
+          <head>
+              <charseq START="283" END="286">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E4-M300">
+          <extent>
+              <charseq START="430" END="433">They</charseq>
+          </extent>
+          <head>
+              <charseq START="430" END="433">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E4-M400">
+          <extent>
+              <charseq START="471" END="474">They</charseq>
+          </extent>
+          <head>
+              <charseq START="471" END="474">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E4-M613">
+          <extent>
+              <charseq START="821" END="830">Republican</charseq>
+          </extent>
+          <head>
+              <charseq START="821" END="830">Republican</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E4-M803">
+          <extent>
+              <charseq START="953" END="1098">Colorado Republicans vying for a few House
+seats, including Ryan Frazier, Scott Tipton and Cory Gardner -- all
+running against incumbent Democrats</charseq>
+          </extent>
+          <head>
+              <charseq START="962" END="972">Republicans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E4-M912">
+          <extent>
+              <charseq START="1255" END="1265">Republicans</charseq>
+          </extent>
+          <head>
+              <charseq START="1255" END="1265">Republicans</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Republicans">
+              <charseq START="263" END="273">Republicans</charseq>
+          </name>
+          <name NAME="Republican">
+              <charseq START="821" END="830">Republican</charseq>
+          </name>
+          <name NAME="Republicans">
+              <charseq START="962" END="972">Republicans</charseq>
+          </name>
+          <name NAME="Republicans">
+              <charseq START="1255" END="1265">Republicans</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E5-M201">
+          <extent>
+              <charseq START="150" END="163">GOP strategist</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="163">strategist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E6-M208">
+          <extent>
+              <charseq START="238" END="249">young voters</charseq>
+          </extent>
+          <head>
+              <charseq START="244" END="249">voters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E7-M305">
+          <extent>
+              <charseq START="450" END="455">people</charseq>
+          </extent>
+          <head>
+              <charseq START="450" END="455">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E10-M504">
+          <extent>
+              <charseq START="579" END="597">Heritage Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="579" END="597">Heritage Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Heritage Foundation">
+              <charseq START="579" END="597">Heritage Foundation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E11-M501">
+          <extent>
+              <charseq START="550" END="620">the audience, gathered for a Heritage Foundation
+event in south Denver,</charseq>
+          </extent>
+          <head>
+              <charseq START="554" END="561">audience</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E11-M700">
+          <extent>
+              <charseq START="906" END="917">The audience</charseq>
+          </extent>
+          <head>
+              <charseq START="910" END="917">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E12-M513" ROLE="LOC">
+          <extent>
+              <charseq START="692" END="702">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="696" END="702">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E12-M915" ROLE="LOC">
+          <extent>
+              <charseq START="1283" END="1293">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="1287" END="1293">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E12-M1811" ROLE="LOC">
+          <extent>
+              <charseq START="2569" END="2579">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="2573" END="2579">country</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E13-M609">
+          <extent>
+              <charseq START="793" END="814">conservatives Dan Maes</charseq>
+          </extent>
+          <head>
+              <charseq START="807" END="814">Dan Maes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E13-M610">
+          <extent>
+              <charseq START="793" END="805">conservatives</charseq>
+          </extent>
+          <head>
+              <charseq START="793" END="805">conservatives</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dan Maes">
+              <charseq START="807" END="814">Dan Maes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E14-M614">
+          <extent>
+              <charseq START="845" END="894">American Constitution Party candidate Tom Tancredo</charseq>
+          </extent>
+          <head>
+              <charseq START="883" END="894">Tom Tancredo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E14-M616">
+          <extent>
+              <charseq START="873" END="881">candidate</charseq>
+          </extent>
+          <head>
+              <charseq START="873" END="881">candidate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E14-M612">
+          <extent>
+              <charseq START="817" END="838">the Republican nominee</charseq>
+          </extent>
+          <head>
+              <charseq START="832" END="838">nominee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tom Tancredo">
+              <charseq START="883" END="894">Tom Tancredo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E15-M615">
+          <extent>
+              <charseq START="845" END="871">American Constitution Party</charseq>
+          </extent>
+          <head>
+              <charseq START="845" END="871">American Constitution Party</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Constitution Party">
+              <charseq START="845" END="871">American Constitution Party</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E17-M810">
+          <extent>
+              <charseq START="990" END="994">House</charseq>
+          </extent>
+          <head>
+              <charseq START="990" END="994">House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="House">
+              <charseq START="990" END="994">House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E18-M812">
+          <extent>
+              <charseq START="1013" END="1024">Ryan Frazier</charseq>
+          </extent>
+          <head>
+              <charseq START="1013" END="1024">Ryan Frazier</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ryan Frazier">
+              <charseq START="1013" END="1024">Ryan Frazier</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E19-M813">
+          <extent>
+              <charseq START="1027" END="1038">Scott Tipton</charseq>
+          </extent>
+          <head>
+              <charseq START="1027" END="1038">Scott Tipton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scott Tipton">
+              <charseq START="1027" END="1038">Scott Tipton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E20-M814">
+          <extent>
+              <charseq START="1044" END="1055">Cory Gardner</charseq>
+          </extent>
+          <head>
+              <charseq START="1044" END="1055">Cory Gardner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cory Gardner">
+              <charseq START="1044" END="1055">Cory Gardner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E21" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E21-M817">
+          <extent>
+              <charseq START="1080" END="1098">incumbent Democrats</charseq>
+          </extent>
+          <head>
+              <charseq START="1090" END="1098">Democrats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E21-M1007">
+          <extent>
+              <charseq START="1465" END="1474">Democratic</charseq>
+          </extent>
+          <head>
+              <charseq START="1465" END="1474">Democratic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E21-M1311">
+          <extent>
+              <charseq START="1816" END="1832">Democrats in 2003</charseq>
+          </extent>
+          <head>
+              <charseq START="1816" END="1824">Democrats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E21-M1314">
+          <extent>
+              <charseq START="1839" END="1842">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1839" END="1842">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E21-M1402">
+          <extent>
+              <charseq START="1955" END="1973">prominent Democrats</charseq>
+          </extent>
+          <head>
+              <charseq START="1965" END="1973">Democrats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E21-M1500">
+          <extent>
+              <charseq START="2150" END="2153">They</charseq>
+          </extent>
+          <head>
+              <charseq START="2150" END="2153">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E21-M1605">
+          <extent>
+              <charseq START="2258" END="2272">those
+Democrats</charseq>
+          </extent>
+          <head>
+              <charseq START="2264" END="2272">Democrats</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Democrats">
+              <charseq START="1090" END="1098">Democrats</charseq>
+          </name>
+          <name NAME="Democratic">
+              <charseq START="1465" END="1474">Democratic</charseq>
+          </name>
+          <name NAME="Democrats">
+              <charseq START="1816" END="1824">Democrats</charseq>
+          </name>
+          <name NAME="Democrats">
+              <charseq START="1965" END="1973">Democrats</charseq>
+          </name>
+          <name NAME="Democrats">
+              <charseq START="2264" END="2272">Democrats</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E22" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E22-M909">
+          <extent>
+              <charseq START="1191" END="1209">American Crossroads</charseq>
+          </extent>
+          <head>
+              <charseq START="1191" END="1209">American Crossroads</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E22-M906">
+          <extent>
+              <charseq START="1159" END="1188">his political
+action committee</charseq>
+          </extent>
+          <head>
+              <charseq START="1180" END="1188">committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E22-M910">
+          <extent>
+              <charseq START="1212" END="1216">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1212" END="1216">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E22-M1002">
+          <extent>
+              <charseq START="1400" END="1408">committee</charseq>
+          </extent>
+          <head>
+              <charseq START="1400" END="1408">committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Crossroads">
+              <charseq START="1191" END="1209">American Crossroads</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E23-M916">
+          <extent>
+              <charseq START="1309" END="1342">the Center for Responsive Politics</charseq>
+          </extent>
+          <head>
+              <charseq START="1313" END="1342">Center for Responsive Politics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Center for Responsive Politics">
+              <charseq START="1313" END="1342">Center for Responsive Politics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E24-M1006">
+          <extent>
+              <charseq START="1455" END="1494">incumbent Democratic Sen.
+Michael Bennet</charseq>
+          </extent>
+          <head>
+              <charseq START="1481" END="1494">Michael Bennet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E24-M1008">
+          <extent>
+              <charseq START="1476" END="1479">Sen.</charseq>
+          </extent>
+          <head>
+              <charseq START="1476" END="1479">Sen.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E24-M1103">
+          <extent>
+              <charseq START="1532" END="1537">Bennet</charseq>
+          </extent>
+          <head>
+              <charseq START="1532" END="1537">Bennet</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael Bennet">
+              <charseq START="1481" END="1494">Michael Bennet</charseq>
+          </name>
+          <name NAME="Bennet">
+              <charseq START="1532" END="1537">Bennet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E25-M1102">
+          <extent>
+              <charseq START="1532" END="1557">Bennet&apos;s opponent Ken Buck</charseq>
+          </extent>
+          <head>
+              <charseq START="1550" END="1557">Ken Buck</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E25-M1104">
+          <extent>
+              <charseq START="1541" END="1548">opponent</charseq>
+          </extent>
+          <head>
+              <charseq START="1541" END="1548">opponent</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ken Buck">
+              <charseq START="1550" END="1557">Ken Buck</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E26" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E26-M1108" ROLE="GPE">
+          <extent>
+              <charseq START="1569" END="1572">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1569" END="1572">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E26-M1702">
+          <extent>
+              <charseq START="2295" END="2301">America</charseq>
+          </extent>
+          <head>
+              <charseq START="2295" END="2301">America</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="1569" END="1572">U.S.</charseq>
+          </name>
+          <name NAME="America">
+              <charseq START="2295" END="2301">America</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E27-M1106">
+          <extent>
+              <charseq START="1560" END="1594">the next
+U.S. senator from Colorado</charseq>
+          </extent>
+          <head>
+              <charseq START="1574" END="1580">senator</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E28-M1308">
+          <extent>
+              <charseq START="1743" END="1773">former
+President George W. Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="1760" END="1773">George W. Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E28-M1316">
+          <extent>
+              <charseq START="1870" END="1873">Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="1870" END="1873">Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E28-M1309">
+          <extent>
+              <charseq START="1750" END="1758">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1750" END="1758">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E28-M1307">
+          <extent>
+              <charseq START="1743" END="1790">former
+President George W. Bush&apos;s senior adviser</charseq>
+          </extent>
+          <head>
+              <charseq START="1784" END="1790">adviser</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E28-M1317">
+          <extent>
+              <charseq START="1883" END="1884">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1883" END="1884">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E28-M1400">
+          <extent>
+              <charseq START="1947" END="1948">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1947" END="1948">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E28-M1503">
+          <extent>
+              <charseq START="2181" END="2182">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2181" END="2182">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E28-M1602">
+          <extent>
+              <charseq START="2216" END="2219">Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="2216" END="2219">Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George W. Bush">
+              <charseq START="1760" END="1773">George W. Bush</charseq>
+          </name>
+          <name NAME="Bush">
+              <charseq START="1870" END="1873">Bush</charseq>
+          </name>
+          <name NAME="Bush">
+              <charseq START="2216" END="2219">Bush</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E29-M1323" ROLE="LOC">
+          <extent>
+              <charseq START="1932" END="1935">Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="1932" END="1935">Iraq</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iraq">
+              <charseq START="1932" END="1935">Iraq</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E30" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E30-M1319">
+          <extent>
+              <charseq START="1901" END="1907">weapons</charseq>
+          </extent>
+          <head>
+              <charseq START="1901" END="1907">weapons</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E30-M1410">
+          <extent>
+              <charseq START="2064" END="2090">weapons
+of mass destruction</charseq>
+          </extent>
+          <head>
+              <charseq START="2064" END="2070">weapons</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E30-M1414">
+          <extent>
+              <charseq START="2102" END="2105">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2102" END="2105">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E31-M1405">
+          <extent>
+              <charseq START="1986" END="2024">former presidential
+hopefuls John Kerry</charseq>
+          </extent>
+          <head>
+              <charseq START="2015" END="2024">John Kerry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E31-M1406">
+          <extent>
+              <charseq START="2006" END="2013">hopefuls</charseq>
+          </extent>
+          <head>
+              <charseq START="2006" END="2013">hopefuls</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Kerry">
+              <charseq START="2015" END="2024">John Kerry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E32-M1408">
+          <extent>
+              <charseq START="2030" END="2041">John Edwards</charseq>
+          </extent>
+          <head>
+              <charseq START="2030" END="2041">John Edwards</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Edwards">
+              <charseq START="2030" END="2041">John Edwards</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E33-M1705">
+          <extent>
+              <charseq START="2348" END="2365">Greece on steroids</charseq>
+          </extent>
+          <head>
+              <charseq START="2348" END="2353">Greece</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E33-M2306">
+          <extent>
+              <charseq START="2950" END="2961">this country</charseq>
+          </extent>
+          <head>
+              <charseq START="2955" END="2961">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greece">
+              <charseq START="2348" END="2353">Greece</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E34" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100930.0043-E34-M1710">
+          <extent>
+              <charseq START="2388" END="2405">the European Union</charseq>
+          </extent>
+          <head>
+              <charseq START="2392" END="2405">European Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Union">
+              <charseq START="2392" END="2405">European Union</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E35-M1809">
+          <extent>
+              <charseq START="2521" END="2579">bankrupt both large and small businesses across
+the country</charseq>
+          </extent>
+          <head>
+              <charseq START="2551" END="2560">businesses</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E36" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E36-M1902">
+          <extent>
+              <charseq START="2604" END="2635">the room full of GOP base voters</charseq>
+          </extent>
+          <head>
+              <charseq START="2608" END="2611">room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E37-M1904">
+          <extent>
+              <charseq START="2621" END="2635">GOP base voters</charseq>
+          </extent>
+          <head>
+              <charseq START="2630" END="2635">voters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E38" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E38-M1906">
+          <extent>
+              <charseq START="2625" END="2628">base</charseq>
+          </extent>
+          <head>
+              <charseq START="2625" END="2628">base</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100930.0043-E39-M2001">
+          <extent>
+              <charseq START="2725" END="2732">veterans</charseq>
+          </extent>
+          <head>
+              <charseq START="2725" END="2732">veterans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E40-M2101">
+          <extent>
+              <charseq START="2782" END="2839">those of us who live in comfortable surroundings?&quot;
+he said</charseq>
+          </extent>
+          <head>
+              <charseq START="2782" END="2786">those</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E40-M2105">
+          <extent>
+              <charseq START="2794" END="2796">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2794" END="2796">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100930.0043-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100930.0043-E41-M2209">
+          <extent>
+              <charseq START="2894" END="2898">those</charseq>
+          </extent>
+          <head>
+              <charseq START="2894" END="2898">those</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100930.0043-T0" VAL="2010-09-29">
+        <timex2_mention ID="NYT_ENG_20100930.0043-T0-M1">
+            <extent>
+              <charseq START="223" END="231">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100930.0043-V1" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100930.0043-V1-M1">
+            <extent>
+              <charseq START="1229" END="1245">almost $8
+million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100930.0043-T2" VAL="P2W">
+        <timex2_mention ID="NYT_ENG_20100930.0043-T2-M1">
+            <extent>
+              <charseq START="1357" END="1380">the past two weeks alone</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100930.0043-V3" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100930.0043-V3-M1">
+            <extent>
+              <charseq START="1420" END="1438">almost $1.2 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100930.0043-T4" VAL="2010-09-29">
+        <timex2_mention ID="NYT_ENG_20100930.0043-T4-M1">
+            <extent>
+              <charseq START="1509" END="1517">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100930.0043-T5" VAL="P7Y">
+        <timex2_mention ID="NYT_ENG_20100930.0043-T5-M1">
+            <extent>
+              <charseq START="1716" END="1730">his seven years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100930.0043-T6" VAL="PAST_REF" ANCHOR_VAL="2010-09-30" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100930.0043-T6-M1">
+            <extent>
+              <charseq START="1743" END="1748">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100930.0043-T7" VAL="2003">
+        <timex2_mention ID="NYT_ENG_20100930.0043-T7-M1">
+            <extent>
+              <charseq START="1829" END="1832">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100930.0043-T8" VAL="PAST_REF" ANCHOR_VAL="2010-09-30" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100930.0043-T8-M1">
+            <extent>
+              <charseq START="1986" END="1991">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100930.0043-T9" VAL="2010-11">
+        <timex2_mention ID="NYT_ENG_20100930.0043-T9-M1">
+            <extent>
+              <charseq START="2696" END="2703">November</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100930.0043-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100930.0043-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100930.0043-E3" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100930.0043-R0-M200">
+          <extent>
+              <charseq START="150" END="163">GOP strategist</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E5-M201" ROLE="Arg-1">
+            <extent>
+              <charseq START="150" END="163">GOP strategist</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E3-M202" ROLE="Arg-2">
+            <extent>
+              <charseq START="150" END="152">GOP</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100930.0043-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100930.0043-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100930.0043-E15" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100930.0043-R1-M600">
+          <extent>
+              <charseq START="873" END="881">candidate</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E14-M616" ROLE="Arg-1">
+            <extent>
+              <charseq START="873" END="881">candidate</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E15-M615" ROLE="Arg-2">
+            <extent>
+              <charseq START="845" END="871">American Constitution Party</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100930.0043-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100930.0043-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100930.0043-E1" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100930.0043-R2-M800">
+          <extent>
+              <charseq START="953" END="1098">Colorado Republicans vying for a few House
+seats, including Ryan Frazier, Scott Tipton and Cory Gardner -- all
+running against incumbent Democrats</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E4-M803" ROLE="Arg-1">
+            <extent>
+              <charseq START="953" END="1098">Colorado Republicans vying for a few House
+seats, including Ryan Frazier, Scott Tipton and Cory Gardner -- all
+running against incumbent Democrats</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E1-M805" ROLE="Arg-2">
+            <extent>
+              <charseq START="953" END="960">Colorado</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100930.0043-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100930.0043-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100930.0043-E26" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100930.0043-R3-M1100">
+          <extent>
+              <charseq START="1560" END="1594">the next
+U.S. senator from Colorado</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E27-M1106" ROLE="Arg-1">
+            <extent>
+              <charseq START="1560" END="1594">the next
+U.S. senator from Colorado</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E26-M1108" ROLE="Arg-2">
+            <extent>
+              <charseq START="1569" END="1572">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100930.0043-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100930.0043-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100930.0043-E1" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100930.0043-R4-M1101">
+          <extent>
+              <charseq START="1560" END="1594">the next
+U.S. senator from Colorado</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E27-M1106" ROLE="Arg-1">
+            <extent>
+              <charseq START="1560" END="1594">the next
+U.S. senator from Colorado</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E1-M1109" ROLE="Arg-2">
+            <extent>
+              <charseq START="1587" END="1594">Colorado</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100930.0043-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100930.0043-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100930.0043-E2" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100930.0043-R5-M1200">
+          <extent>
+              <charseq START="1607" END="1610">Rove</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E0-M1200" ROLE="Arg-1">
+            <extent>
+              <charseq START="1607" END="1610">Rove</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E2-M1201" ROLE="Arg-2">
+            <extent>
+              <charseq START="1619" END="1624">Denver</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100930.0043-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100930.0043-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100930.0043-E36" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100930.0043-R6-M1900">
+          <extent>
+              <charseq START="2586" END="2587">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E0-M1900" ROLE="Arg-1">
+            <extent>
+              <charseq START="2586" END="2587">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100930.0043-E36-M1902" ROLE="Arg-2">
+            <extent>
+              <charseq START="2604" END="2635">the room full of GOP base voters</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,1081 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20101213.0002">
+  <document DOCID="NYT_ENG_20101213.0002">
+
+    <entity ID="NYT_ENG_20101213.0002-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E0-M2">
+          <extent>
+              <charseq START="58" END="66">BLOOMBERG</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="66">BLOOMBERG</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E0-M104">
+          <extent>
+              <charseq START="193" END="242">New York City Mayor Michael R. Bloomberg on Sunday</charseq>
+          </extent>
+          <head>
+              <charseq START="213" END="232">Michael R. Bloomberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E0-M107">
+          <extent>
+              <charseq START="207" END="211">Mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="207" END="211">Mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M103">
+          <extent>
+              <charseq START="163" END="165">his</charseq>
+          </extent>
+          <head>
+              <charseq START="163" END="165">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E0-M200">
+          <extent>
+              <charseq START="358" END="366">Bloomberg</charseq>
+          </extent>
+          <head>
+              <charseq START="358" END="366">Bloomberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M201">
+          <extent>
+              <charseq START="378" END="379">he</charseq>
+          </extent>
+          <head>
+              <charseq START="378" END="379">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M205">
+          <extent>
+              <charseq START="438" END="439">he</charseq>
+          </extent>
+          <head>
+              <charseq START="438" END="439">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M208">
+          <extent>
+              <charseq START="458" END="460">his</charseq>
+          </extent>
+          <head>
+              <charseq START="458" END="460">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M211">
+          <extent>
+              <charseq START="475" END="477">his</charseq>
+          </extent>
+          <head>
+              <charseq START="475" END="477">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M212">
+          <extent>
+              <charseq START="497" END="498">he</charseq>
+          </extent>
+          <head>
+              <charseq START="497" END="498">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E0-M302">
+          <extent>
+              <charseq START="538" END="552">the show&apos;s host</charseq>
+          </extent>
+          <head>
+              <charseq START="549" END="552">host</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E0-M404">
+          <extent>
+              <charseq START="604" END="612">Bloomberg</charseq>
+          </extent>
+          <head>
+              <charseq START="604" END="612">Bloomberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E0-M500">
+          <extent>
+              <charseq START="633" END="641">The mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="637" END="641">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M501">
+          <extent>
+              <charseq START="648" END="649">he</charseq>
+          </extent>
+          <head>
+              <charseq START="648" END="649">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M504">
+          <extent>
+              <charseq START="662" END="664">his</charseq>
+          </extent>
+          <head>
+              <charseq START="662" END="664">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M510">
+          <extent>
+              <charseq START="725" END="727">his</charseq>
+          </extent>
+          <head>
+              <charseq START="725" END="727">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E0-M605">
+          <extent>
+              <charseq START="910" END="933">maybe the
+greatest mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="929" END="933">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M606">
+          <extent>
+              <charseq START="942" END="943">he</charseq>
+          </extent>
+          <head>
+              <charseq START="942" END="943">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E0-M703">
+          <extent>
+              <charseq START="982" END="990">Bloomberg</charseq>
+          </extent>
+          <head>
+              <charseq START="982" END="990">Bloomberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E0-M709">
+          <extent>
+              <charseq START="1053" END="1167">the mayor, speaking in Brooklyn,
+disparaged Congress and President Barack Obama for their management
+of the economy</charseq>
+          </extent>
+          <head>
+              <charseq START="1057" END="1061">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E0-M805">
+          <extent>
+              <charseq START="1220" END="1228">Bloomberg</charseq>
+          </extent>
+          <head>
+              <charseq START="1220" END="1228">Bloomberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M803">
+          <extent>
+              <charseq START="1176" END="1178">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1176" END="1178">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E0-M1122">
+          <extent>
+              <charseq START="1722" END="1730">Bloomberg</charseq>
+          </extent>
+          <head>
+              <charseq START="1722" END="1730">Bloomberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E0-M1103">
+          <extent>
+              <charseq START="1545" END="1553">the mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="1549" END="1553">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M1105">
+          <extent>
+              <charseq START="1577" END="1578">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1577" END="1578">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M1114">
+          <extent>
+              <charseq START="1650" END="1652">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1650" END="1652">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M1200">
+          <extent>
+              <charseq START="1792" END="1793">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1792" END="1793">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M1202">
+          <extent>
+              <charseq START="1803" END="1804">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1803" END="1804">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M1209">
+          <extent>
+              <charseq START="1843" END="1844">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1843" END="1844">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E0-M1302">
+          <extent>
+              <charseq START="1882" END="1920">the mayor elaborated on those comments,</charseq>
+          </extent>
+          <head>
+              <charseq START="1886" END="1890">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E0-M1312">
+          <extent>
+              <charseq START="2004" END="2006">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2004" END="2006">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E0-M1500">
+          <extent>
+              <charseq START="2287" END="2295">Bloomberg</charseq>
+          </extent>
+          <head>
+              <charseq START="2287" END="2295">Bloomberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E0-M1600">
+          <extent>
+              <charseq START="2338" END="2346">The mayor</charseq>
+          </extent>
+          <head>
+              <charseq START="2342" END="2346">mayor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BLOOMBERG">
+              <charseq START="58" END="66">BLOOMBERG</charseq>
+          </name>
+          <name NAME="Michael R. Bloomberg">
+              <charseq START="213" END="232">Michael R. Bloomberg</charseq>
+          </name>
+          <name NAME="Bloomberg">
+              <charseq START="358" END="366">Bloomberg</charseq>
+          </name>
+          <name NAME="Bloomberg">
+              <charseq START="604" END="612">Bloomberg</charseq>
+          </name>
+          <name NAME="Bloomberg">
+              <charseq START="982" END="990">Bloomberg</charseq>
+          </name>
+          <name NAME="Bloomberg">
+              <charseq START="1220" END="1228">Bloomberg</charseq>
+          </name>
+          <name NAME="Bloomberg">
+              <charseq START="1722" END="1730">Bloomberg</charseq>
+          </name>
+          <name NAME="Bloomberg">
+              <charseq START="2287" END="2295">Bloomberg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E1" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E1-M6">
+          <extent>
+              <charseq START="86" END="96">WHITE HOUSE</charseq>
+          </extent>
+          <head>
+              <charseq START="86" END="96">WHITE HOUSE</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E1-M110">
+          <extent>
+              <charseq START="280" END="294">the White House</charseq>
+          </extent>
+          <head>
+              <charseq START="284" END="294">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E1-M706">
+          <extent>
+              <charseq START="1010" END="1020">White House</charseq>
+          </extent>
+          <head>
+              <charseq START="1010" END="1020">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WHITE HOUSE">
+              <charseq START="86" END="96">WHITE HOUSE</charseq>
+          </name>
+          <name NAME="White House">
+              <charseq START="284" END="294">White House</charseq>
+          </name>
+          <name NAME="White House">
+              <charseq START="1010" END="1020">White House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E2-M106">
+          <extent>
+              <charseq START="193" END="205">New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="193" END="205">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York City">
+              <charseq START="193" END="205">New York City</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E3-M116">
+          <extent>
+              <charseq START="344" END="346">NBC</charseq>
+          </extent>
+          <head>
+              <charseq START="344" END="346">NBC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NBC">
+              <charseq START="344" END="346">NBC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E4-M209">
+          <extent>
+              <charseq START="475" END="508">his
+advisers believed he could win</charseq>
+          </extent>
+          <head>
+              <charseq START="479" END="486">advisers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E5-M304">
+          <extent>
+              <charseq START="555" END="568">David Gregory,</charseq>
+          </extent>
+          <head>
+              <charseq START="555" END="567">David Gregory</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Gregory">
+              <charseq START="555" END="567">David Gregory</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E6-M503">
+          <extent>
+              <charseq START="662" END="675">his supporters</charseq>
+          </extent>
+          <head>
+              <charseq START="666" END="675">supporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E7" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E7-M513">
+          <extent>
+              <charseq START="796" END="804">the press</charseq>
+          </extent>
+          <head>
+              <charseq START="800" END="804">press</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E9-M711" ROLE="LOC">
+          <extent>
+              <charseq START="1076" END="1083">Brooklyn</charseq>
+          </extent>
+          <head>
+              <charseq START="1076" END="1083">Brooklyn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E9-M1115" ROLE="LOC">
+          <extent>
+              <charseq START="1664" END="1710">Brooklyn and from a recent issue of GQ
+magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="1664" END="1671">Brooklyn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brooklyn">
+              <charseq START="1076" END="1083">Brooklyn</charseq>
+          </name>
+          <name NAME="Brooklyn">
+              <charseq START="1664" END="1671">Brooklyn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E10-M713">
+          <extent>
+              <charseq START="1097" END="1104">Congress</charseq>
+          </extent>
+          <head>
+              <charseq START="1097" END="1104">Congress</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E10-M719">
+          <extent>
+              <charseq START="1137" END="1141">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1137" END="1141">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Congress">
+              <charseq START="1097" END="1104">Congress</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E11-M714">
+          <extent>
+              <charseq START="1110" END="1131">President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1120" END="1131">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E11-M715">
+          <extent>
+              <charseq START="1110" END="1118">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1110" END="1118">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E11-M902">
+          <extent>
+              <charseq START="1314" END="1322">president</charseq>
+          </extent>
+          <head>
+              <charseq START="1314" END="1322">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E11-M903">
+          <extent>
+              <charseq START="1326" END="1327">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1326" END="1327">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E11-M1104">
+          <extent>
+              <charseq START="1563" END="1567">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1563" END="1567">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E11-M1123">
+          <extent>
+              <charseq START="1747" END="1751">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1747" END="1751">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E11-M1306">
+          <extent>
+              <charseq START="1934" END="1946">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="1938" END="1946">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E11-M1420">
+          <extent>
+              <charseq START="2243" END="2247">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="2243" END="2247">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E11-M1417">
+          <extent>
+              <charseq START="2222" END="2275">the next director of
+Obama&apos;s National Economic Council</charseq>
+          </extent>
+          <head>
+              <charseq START="2231" END="2238">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E11-M1601">
+          <extent>
+              <charseq START="2358" END="2362">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="2358" END="2362">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E11-M1706">
+          <extent>
+              <charseq START="2611" END="2612">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2611" END="2612">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="1120" END="1131">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="1563" END="1567">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="1747" END="1751">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="2243" END="2247">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="2358" END="2362">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E12-M1012">
+          <extent>
+              <charseq START="1486" END="1496">the experts</charseq>
+          </extent>
+          <head>
+              <charseq START="1490" END="1496">experts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E13-M1120">
+          <extent>
+              <charseq START="1700" END="1701">GQ</charseq>
+          </extent>
+          <head>
+              <charseq START="1700" END="1701">GQ</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GQ">
+              <charseq START="1700" END="1701">GQ</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E14-M1124">
+          <extent>
+              <charseq START="1760" END="1779">some
+better advisers</charseq>
+          </extent>
+          <head>
+              <charseq START="1772" END="1779">advisers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E15-M1307">
+          <extent>
+              <charseq START="1955" END="2038">advisers with business experience who could
+tell him &quot;what the real world is about.&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1955" END="1962">advisers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E15-M1311">
+          <extent>
+              <charseq START="1989" END="1991">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1989" END="1991">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E15-M1402">
+          <extent>
+              <charseq START="2056" END="2079">those potential advisers</charseq>
+          </extent>
+          <head>
+              <charseq START="2072" END="2079">advisers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E16" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E16-M1315">
+          <extent>
+              <charseq START="2014" END="2027">the real world</charseq>
+          </extent>
+          <head>
+              <charseq START="2023" END="2027">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E17-M1404">
+          <extent>
+              <charseq START="2085" END="2099">Roger C. Altman</charseq>
+          </extent>
+          <head>
+              <charseq START="2085" END="2099">Roger C. Altman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E17-M1400">
+          <extent>
+              <charseq START="2049" END="2079">One of those potential advisers</charseq>
+          </extent>
+          <head>
+              <charseq START="2049" END="2051">One</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E17-M1406">
+          <extent>
+              <charseq START="2102" END="2142">a prominent
+Wall Street investment banker</charseq>
+          </extent>
+          <head>
+              <charseq START="2137" END="2142">banker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E17-M1410">
+          <extent>
+              <charseq START="2148" END="2202">Treasury deputy secretary in the
+Clinton administration</charseq>
+          </extent>
+          <head>
+              <charseq START="2164" END="2172">secretary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101213.0002-E17-M1416">
+          <extent>
+              <charseq START="2205" END="2207">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2205" END="2207">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E17-M1501">
+          <extent>
+              <charseq START="2302" END="2307">Altman</charseq>
+          </extent>
+          <head>
+              <charseq START="2302" END="2307">Altman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roger C. Altman">
+              <charseq START="2085" END="2099">Roger C. Altman</charseq>
+          </name>
+          <name NAME="Altman">
+              <charseq START="2302" END="2307">Altman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E18-M1412">
+          <extent>
+              <charseq START="2148" END="2155">Treasury</charseq>
+          </extent>
+          <head>
+              <charseq START="2148" END="2155">Treasury</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Treasury">
+              <charseq START="2148" END="2155">Treasury</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E19-M1415">
+          <extent>
+              <charseq START="2181" END="2187">Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="2181" END="2187">Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Clinton">
+              <charseq START="2181" END="2187">Clinton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E20-M1419">
+          <extent>
+              <charseq START="2243" END="2275">Obama&apos;s National Economic Council</charseq>
+          </extent>
+          <head>
+              <charseq START="2251" END="2275">National Economic Council</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Economic Council">
+              <charseq START="2251" END="2275">National Economic Council</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E21" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E21-M1414">
+          <extent>
+              <charseq START="2177" END="2202">the
+Clinton administration</charseq>
+          </extent>
+          <head>
+              <charseq START="2189" END="2202">administration</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E22" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E22-M1607">
+          <extent>
+              <charseq START="2408" END="2417">Republican</charseq>
+          </extent>
+          <head>
+              <charseq START="2408" END="2417">Republican</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Republican">
+              <charseq START="2408" END="2417">Republican</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E23-M1610">
+          <extent>
+              <charseq START="2437" END="2440">Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="2437" END="2440">Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bush">
+              <charseq START="2437" END="2440">Bush</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101213.0002-E24-M1606">
+          <extent>
+              <charseq START="2408" END="2425">Republican leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="2419" END="2425">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101213.0002-E25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101213.0002-E25-M1701">
+          <extent>
+              <charseq START="2526" END="2544">Pennsylvania Avenue</charseq>
+          </extent>
+          <head>
+              <charseq START="2526" END="2544">Pennsylvania Avenue</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pennsylvania Avenue">
+              <charseq START="2526" END="2544">Pennsylvania Avenue</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T0" VAL="2012">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T0-M1">
+            <extent>
+              <charseq START="101" END="104">2012</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T1" VAL="2010-12-12">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T1-M1">
+            <extent>
+              <charseq START="237" END="242">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T2" VAL="2012">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T2-M1">
+            <extent>
+              <charseq START="299" END="302">2012</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T3" VAL="2010-W50">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T3-M1">
+            <extent>
+              <charseq START="1038" END="1046">last week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T4" VAL="2010-12-15">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T4-M1">
+            <extent>
+              <charseq START="1187" END="1195">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T5" VAL="2012">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T5-M1">
+            <extent>
+              <charseq START="1246" END="1249">2012</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T6" VAL="PAST_REF" ANCHOR_VAL="2010-12-13" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T6-M1">
+            <extent>
+              <charseq START="1269" END="1276">the past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T7" VAL="2010-12-12">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T7-M1">
+            <extent>
+              <charseq START="1337" END="1342">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T8" VAL="PXD">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T8-M1">
+            <extent>
+              <charseq START="1432" END="1435">days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T9" VAL="PAST_REF" ANCHOR_VAL="2010-12-13" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T9-M1">
+            <extent>
+              <charseq START="1684" END="1689">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T10" VAL="2010-12-12">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T10-M1">
+            <extent>
+              <charseq START="1874" END="1879">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101213.0002-T11" VAL="P2Y">
+        <timex2_mention ID="NYT_ENG_20101213.0002-T11-M1">
+            <extent>
+              <charseq START="2459" END="2467">two years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20101213.0002-R0" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101213.0002-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101213.0002-E4" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101213.0002-R0-M200">
+          <extent>
+              <charseq START="475" END="477">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E0-M211" ROLE="Arg-1">
+            <extent>
+              <charseq START="475" END="477">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E4-M209" ROLE="Arg-2">
+            <extent>
+              <charseq START="475" END="508">his
+advisers believed he could win</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101213.0002-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101213.0002-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101213.0002-E18" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101213.0002-R1-M1400">
+          <extent>
+              <charseq START="2148" END="2202">Treasury deputy secretary in the
+Clinton administration</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E17-M1410" ROLE="Arg-1">
+            <extent>
+              <charseq START="2148" END="2202">Treasury deputy secretary in the
+Clinton administration</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E18-M1412" ROLE="Arg-2">
+            <extent>
+              <charseq START="2148" END="2155">Treasury</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101213.0002-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101213.0002-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101213.0002-E21" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101213.0002-R2-M1401">
+          <extent>
+              <charseq START="2148" END="2202">Treasury deputy secretary in the
+Clinton administration</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E17-M1410" ROLE="Arg-1">
+            <extent>
+              <charseq START="2148" END="2202">Treasury deputy secretary in the
+Clinton administration</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E21-M1414" ROLE="Arg-2">
+            <extent>
+              <charseq START="2177" END="2202">the
+Clinton administration</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101213.0002-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101213.0002-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101213.0002-E21" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101213.0002-R3-M1402">
+          <extent>
+              <charseq START="2181" END="2187">Clinton</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E19-M1415" ROLE="Arg-1">
+            <extent>
+              <charseq START="2181" END="2187">Clinton</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E21-M1414" ROLE="Arg-2">
+            <extent>
+              <charseq START="2177" END="2202">the
+Clinton administration</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101213.0002-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101213.0002-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101213.0002-E20" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101213.0002-R4-M1403">
+          <extent>
+              <charseq START="2222" END="2275">the next director of
+Obama&apos;s National Economic Council</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E11-M1417" ROLE="Arg-1">
+            <extent>
+              <charseq START="2222" END="2275">the next director of
+Obama&apos;s National Economic Council</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E20-M1419" ROLE="Arg-2">
+            <extent>
+              <charseq START="2243" END="2275">Obama&apos;s National Economic Council</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="NYT_ENG_20101213.0002-R4-M1404">
+          <extent>
+              <charseq START="2243" END="2247">Obama</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E11-M1420" ROLE="Arg-1">
+            <extent>
+              <charseq START="2243" END="2247">Obama</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E20-M1419" ROLE="Arg-2">
+            <extent>
+              <charseq START="2243" END="2275">Obama&apos;s National Economic Council</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101213.0002-R5" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101213.0002-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101213.0002-E22" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101213.0002-R5-M1600">
+          <extent>
+              <charseq START="2408" END="2425">Republican leaders</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E24-M1606" ROLE="Arg-1">
+            <extent>
+              <charseq START="2408" END="2425">Republican leaders</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101213.0002-E22-M1607" ROLE="Arg-2">
+            <extent>
+              <charseq START="2408" END="2417">Republican</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

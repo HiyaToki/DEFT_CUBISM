@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20090930.0115">
+  <document DOCID="NYT_ENG_20090930.0115">
+
+    <entity ID="NYT_ENG_20090930.0115-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E0-M102">
+          <extent>
+              <charseq START="119" END="126">Tom Long</charseq>
+          </extent>
+          <head>
+              <charseq START="119" END="126">Tom Long</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tom Long">
+              <charseq START="119" END="126">Tom Long</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E1-M200">
+          <extent>
+              <charseq START="135" END="158">Detroit News Film Critic</charseq>
+          </extent>
+          <head>
+              <charseq START="135" END="158">Detroit News Film Critic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Detroit News Film Critic">
+              <charseq START="135" END="158">Detroit News Film Critic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E2-M300" ROLE="LOC">
+          <extent>
+              <charseq START="167" END="176">TORONTO --</charseq>
+          </extent>
+          <head>
+              <charseq START="167" END="173">TORONTO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TORONTO">
+              <charseq START="167" END="173">TORONTO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E3-M401">
+          <extent>
+              <charseq START="185" END="198">Drew Barrymore</charseq>
+          </extent>
+          <head>
+              <charseq START="185" END="198">Drew Barrymore</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E3-M511">
+          <extent>
+              <charseq START="322" END="330">Barrymore</charseq>
+          </extent>
+          <head>
+              <charseq START="322" END="330">Barrymore</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E3-M804">
+          <extent>
+              <charseq START="721" END="729">Barrymore</charseq>
+          </extent>
+          <head>
+              <charseq START="721" END="729">Barrymore</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E3-M1203">
+          <extent>
+              <charseq START="1067" END="1075">Barrymore</charseq>
+          </extent>
+          <head>
+              <charseq START="1067" END="1075">Barrymore</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Drew Barrymore">
+              <charseq START="185" END="198">Drew Barrymore</charseq>
+          </name>
+          <name NAME="Barrymore">
+              <charseq START="322" END="330">Barrymore</charseq>
+          </name>
+          <name NAME="Barrymore">
+              <charseq START="721" END="729">Barrymore</charseq>
+          </name>
+          <name NAME="Barrymore">
+              <charseq START="1067" END="1075">Barrymore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E4-M402">
+          <extent>
+              <charseq START="204" END="213">Ellen Page</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="213">Ellen Page</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E4-M616">
+          <extent>
+              <charseq START="544" END="547">Page</charseq>
+          </extent>
+          <head>
+              <charseq START="544" END="547">Page</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E4-M1705">
+          <extent>
+              <charseq START="1366" END="1368">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1366" END="1368">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E4-M2003">
+          <extent>
+              <charseq START="1557" END="1560">Page</charseq>
+          </extent>
+          <head>
+              <charseq START="1557" END="1560">Page</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ellen Page">
+              <charseq START="204" END="213">Ellen Page</charseq>
+          </name>
+          <name NAME="Page">
+              <charseq START="544" END="547">Page</charseq>
+          </name>
+          <name NAME="Page">
+              <charseq START="1557" END="1560">Page</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E5-M403">
+          <extent>
+              <charseq START="222" END="229">Michigan</charseq>
+          </extent>
+          <head>
+              <charseq START="222" END="229">Michigan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E5-M704" ROLE="GPE">
+          <extent>
+              <charseq START="678" END="686">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="682" END="686">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E5-M1402">
+          <extent>
+              <charseq START="1215" END="1223">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="1219" END="1223">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E5-M1805" ROLE="LOC">
+          <extent>
+              <charseq START="1404" END="1420">northern
+Michigan</charseq>
+          </extent>
+          <head>
+              <charseq START="1413" END="1420">Michigan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E5-M2207">
+          <extent>
+              <charseq START="1755" END="1763">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="1759" END="1763">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michigan">
+              <charseq START="222" END="229">Michigan</charseq>
+          </name>
+          <name NAME="Michigan">
+              <charseq START="1413" END="1420">Michigan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E6-M604" ROLE="LOC">
+          <extent>
+              <charseq START="436" END="441">Saline</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="441">Saline</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Saline">
+              <charseq START="436" END="441">Saline</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E7-M610" ROLE="GPE">
+          <extent>
+              <charseq START="491" END="497">Detroit</charseq>
+          </extent>
+          <head>
+              <charseq START="491" END="497">Detroit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E7-M1003" ROLE="LOC">
+          <extent>
+              <charseq START="951" END="957">Detroit</charseq>
+          </extent>
+          <head>
+              <charseq START="951" END="957">Detroit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E7-M1602">
+          <extent>
+              <charseq START="1325" END="1331">Detroit</charseq>
+          </extent>
+          <head>
+              <charseq START="1325" END="1331">Detroit</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E7-M1904" ROLE="LOC">
+          <extent>
+              <charseq START="1445" END="1451">Detroit</charseq>
+          </extent>
+          <head>
+              <charseq START="1445" END="1451">Detroit</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Detroit">
+              <charseq START="491" END="497">Detroit</charseq>
+          </name>
+          <name NAME="Detroit">
+              <charseq START="951" END="957">Detroit</charseq>
+          </name>
+          <name NAME="Detroit">
+              <charseq START="1325" END="1331">Detroit</charseq>
+          </name>
+          <name NAME="Detroit">
+              <charseq START="1445" END="1451">Detroit</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E8-M600">
+          <extent>
+              <charseq START="394" END="427">The film&apos;s production headquarters</charseq>
+          </extent>
+          <head>
+              <charseq START="416" END="427">headquarters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E9-M608">
+          <extent>
+              <charseq START="464" END="467">crew</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="467">crew</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E10" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E10-M609">
+          <extent>
+              <charseq START="487" END="502">the Detroit area</charseq>
+          </extent>
+          <head>
+              <charseq START="499" END="502">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E11-M617">
+          <extent>
+              <charseq START="555" END="636">a small-town beauty pageant
+contestant who finds freedom smacking into other women</charseq>
+          </extent>
+          <head>
+              <charseq START="583" END="592">contestant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E11-M621">
+          <extent>
+              <charseq START="594" END="596">who</charseq>
+          </extent>
+          <head>
+              <charseq START="594" END="596">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E12-M624">
+          <extent>
+              <charseq START="626" END="636">other women</charseq>
+          </extent>
+          <head>
+              <charseq START="632" END="636">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M700">
+          <extent>
+              <charseq START="663" END="663">I</charseq>
+          </extent>
+          <head>
+              <charseq START="663" END="663">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M800">
+          <extent>
+              <charseq START="689" END="689">I</charseq>
+          </extent>
+          <head>
+              <charseq START="689" END="689">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M902">
+          <extent>
+              <charseq START="831" END="831">I</charseq>
+          </extent>
+          <head>
+              <charseq START="831" END="831">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M909">
+          <extent>
+              <charseq START="913" END="913">I</charseq>
+          </extent>
+          <head>
+              <charseq START="913" END="913">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1000">
+          <extent>
+              <charseq START="927" END="927">I</charseq>
+          </extent>
+          <head>
+              <charseq START="927" END="927">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1102">
+          <extent>
+              <charseq START="987" END="988">me</charseq>
+          </extent>
+          <head>
+              <charseq START="987" END="988">me</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1104">
+          <extent>
+              <charseq START="998" END="998">I</charseq>
+          </extent>
+          <head>
+              <charseq START="998" END="998">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1200">
+          <extent>
+              <charseq START="1040" END="1040">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1040" END="1040">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1300">
+          <extent>
+              <charseq START="1084" END="1084">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1084" END="1084">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1306">
+          <extent>
+              <charseq START="1114" END="1115">we</charseq>
+          </extent>
+          <head>
+              <charseq START="1114" END="1115">we</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1503">
+          <extent>
+              <charseq START="1255" END="1256">my</charseq>
+          </extent>
+          <head>
+              <charseq START="1255" END="1256">my</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1504">
+          <extent>
+              <charseq START="1265" END="1265">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1265" END="1265">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1508">
+          <extent>
+              <charseq START="1292" END="1292">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1292" END="1292">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1600">
+          <extent>
+              <charseq START="1317" END="1317">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1317" END="1317">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1701">
+          <extent>
+              <charseq START="1336" END="1336">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1336" END="1336">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M1803">
+          <extent>
+              <charseq START="1391" END="1391">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1391" END="1391">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M2000">
+          <extent>
+              <charseq START="1528" END="1528">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1528" END="1528">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M2100">
+          <extent>
+              <charseq START="1569" END="1569">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1569" END="1569">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E13-M2104">
+          <extent>
+              <charseq START="1601" END="1601">I</charseq>
+          </extent>
+          <head>
+              <charseq START="1601" END="1601">I</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E13-M2305">
+          <extent>
+              <charseq START="1811" END="1811">W</charseq>
+          </extent>
+          <head>
+              <charseq START="1811" END="1811">W</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="W">
+              <charseq START="1811" END="1811">W</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E14-M905" ROLE="LOC">
+          <extent>
+              <charseq START="859" END="867">Ann Arbor</charseq>
+          </extent>
+          <head>
+              <charseq START="859" END="867">Ann Arbor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E14-M1702">
+          <extent>
+              <charseq START="1343" END="1362">Ann Arbor,
+Ypsilanti</charseq>
+          </extent>
+          <head>
+              <charseq START="1343" END="1351">Ann Arbor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ann Arbor">
+              <charseq START="859" END="867">Ann Arbor</charseq>
+          </name>
+          <name NAME="Ann Arbor">
+              <charseq START="1343" END="1351">Ann Arbor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E15-M908">
+          <extent>
+              <charseq START="890" END="906">Pabst Blue Ribbon</charseq>
+          </extent>
+          <head>
+              <charseq START="890" END="906">Pabst Blue Ribbon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pabst Blue Ribbon">
+              <charseq START="890" END="906">Pabst Blue Ribbon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E16-M1106">
+          <extent>
+              <charseq START="1013" END="1021">locations</charseq>
+          </extent>
+          <head>
+              <charseq START="1013" END="1021">locations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E17-M1704" ROLE="LOC">
+          <extent>
+              <charseq START="1354" END="1362">Ypsilanti</charseq>
+          </extent>
+          <head>
+              <charseq START="1354" END="1362">Ypsilanti</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ypsilanti">
+              <charseq START="1354" END="1362">Ypsilanti</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E19-M2200">
+          <extent>
+              <charseq START="1651" END="1665">Neither actress</charseq>
+          </extent>
+          <head>
+              <charseq START="1659" END="1665">actress</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E19-M2205">
+          <extent>
+              <charseq START="1722" END="1725">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1722" END="1725">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E19-M2300">
+          <extent>
+              <charseq START="1775" END="1778">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1775" END="1778">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090930.0115-E19-M2304">
+          <extent>
+              <charseq START="1792" END="1796">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1792" END="1796">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E20" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E20-M2203">
+          <extent>
+              <charseq START="1699" END="1719">a local tourist
+board</charseq>
+          </extent>
+          <head>
+              <charseq START="1715" END="1719">board</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090930.0115-E21-M2204">
+          <extent>
+              <charseq START="1707" END="1713">tourist</charseq>
+          </extent>
+          <head>
+              <charseq START="1707" END="1713">tourist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090930.0115-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090930.0115-E22-M2500">
+          <extent>
+              <charseq START="1860" END="1875">tlongdetnews.com</charseq>
+          </extent>
+          <head>
+              <charseq START="1860" END="1875">tlongdetnews.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="tlongdetnews.com">
+              <charseq START="1860" END="1875">tlongdetnews.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20090930.0115-T0" VAL="2008">
+        <timex2_mention ID="NYT_ENG_20090930.0115-T0-M1">
+            <extent>
+              <charseq START="308" END="311">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090930.0115-T1" VAL="XXXX-XX-6TNI" SET="YES">
+        <timex2_mention ID="NYT_ENG_20090930.0115-T1-M1">
+            <extent>
+              <charseq START="814" END="828">Saturday nights</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090930.0115-T2" VAL="P1D">
+        <timex2_mention ID="NYT_ENG_20090930.0115-T2-M1">
+            <extent>
+              <charseq START="1380" END="1388">Labor Day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090930.0115-T3" VAL="PT20M">
+        <timex2_mention ID="NYT_ENG_20090930.0115-T3-M1">
+            <extent>
+              <charseq START="1464" END="1476">15-20 minutes</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090930.0115-V4" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20090930.0115-V4-M1">
+            <extent>
+              <charseq START="1860" END="1875">tlongdetnews.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20090930.0115-V5" TYPE="Contact-Info" SUBTYPE="Phone-Number">
+        <value_mention ID="NYT_ENG_20090930.0115-V5-M1">
+            <extent>
+              <charseq START="1892" END="1899">222-8879</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="NYT_ENG_20090930.0115-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090930.0115-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090930.0115-E6" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090930.0115-R0-M600">
+          <extent>
+              <charseq START="394" END="427">The film&apos;s production headquarters</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E8-M600" ROLE="Arg-1">
+            <extent>
+              <charseq START="394" END="427">The film&apos;s production headquarters</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E6-M604" ROLE="Arg-2">
+            <extent>
+              <charseq START="436" END="441">Saline</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090930.0115-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090930.0115-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090930.0115-E7" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090930.0115-R1-M601">
+          <extent>
+              <charseq START="487" END="502">the Detroit area</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E10-M609" ROLE="Arg-1">
+            <extent>
+              <charseq START="487" END="502">the Detroit area</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E7-M610" ROLE="Arg-2">
+            <extent>
+              <charseq START="491" END="497">Detroit</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090930.0115-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090930.0115-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090930.0115-E14" ROLE="Arg-2"/>
+      <relation_argument REFID="NYT_ENG_20090930.0115-T1" ROLE="Time-Within"/>
+        <relation_mention ID="NYT_ENG_20090930.0115-R2-M900">
+          <extent>
+              <charseq START="831" END="831">I</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E13-M902" ROLE="Arg-1">
+            <extent>
+              <charseq START="831" END="831">I</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E14-M905" ROLE="Arg-2">
+            <extent>
+              <charseq START="859" END="867">Ann Arbor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-T1-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="814" END="828">Saturday nights</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090930.0115-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090930.0115-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090930.0115-E17" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090930.0115-R3-M1700">
+          <extent>
+              <charseq START="1343" END="1362">Ann Arbor,
+Ypsilanti</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E14-M1702" ROLE="Arg-1">
+            <extent>
+              <charseq START="1343" END="1362">Ann Arbor,
+Ypsilanti</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E17-M1704" ROLE="Arg-2">
+            <extent>
+              <charseq START="1354" END="1362">Ypsilanti</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090930.0115-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090930.0115-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090930.0115-E5" ROLE="Arg-2"/>
+      <relation_argument REFID="NYT_ENG_20090930.0115-T2" ROLE="Time-Within"/>
+        <relation_mention ID="NYT_ENG_20090930.0115-R4-M1800">
+          <extent>
+              <charseq START="1391" END="1391">I</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E13-M1803" ROLE="Arg-1">
+            <extent>
+              <charseq START="1391" END="1391">I</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-E5-M1805" ROLE="Arg-2">
+            <extent>
+              <charseq START="1404" END="1420">northern
+Michigan</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090930.0115-T2-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="1380" END="1388">Labor Day</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

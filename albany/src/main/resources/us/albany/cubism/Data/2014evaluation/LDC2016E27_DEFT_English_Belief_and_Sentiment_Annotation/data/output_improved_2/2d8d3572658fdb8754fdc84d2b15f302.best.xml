@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="2d8d3572658fdb8754fdc84d2b15f302.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-1378" length="17" offset="187">
+        <text>the Welfare Queen</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" length="7" offset="148">JoeB131</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-470" length="3" offset="554">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="7" offset="148">JoeB131</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-545" length="28" offset="1399">
+        <text>guys more qualified than you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-93" length="9" offset="116">The Rabbi</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-620" length="8" offset="2012">
+        <text>the poor</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-614" length="2" offset="2004">we</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-650" length="8" offset="2097">
+        <text>the rich</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-225" length="9" offset="1984">sealybobo</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-665" length="5" offset="2124">
+        <text>their</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-225" length="9" offset="1984">sealybobo</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-303" length="24" offset="2601">
+        <text>every McDonalds employee</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-285" length="11" offset="1950">LoneLaugher</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-315" length="5" offset="3025">
+        <text>Obama</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-767" length="12" offset="2990">most of them</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-794" length="45" offset="3107">
+        <text>a lot of middle class and even poor Americans</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-219" length="9" offset="1918">sealybobo</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-812" length="14" offset="3138">
+        <text>poor Americans</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-219" length="9" offset="1918">sealybobo</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-902" length="4" offset="3753">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-219" length="9" offset="1918">sealybobo</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-261" length="5" offset="3797">
+        <text>Youve</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-297" length="9" offset="1845">Full-Auto</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

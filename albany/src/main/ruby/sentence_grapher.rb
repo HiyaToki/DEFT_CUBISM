@@ -1,0 +1,3 @@
+DATA = ARGV[0]
+OUTPUT = ARGV[1]
+

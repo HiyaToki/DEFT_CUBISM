@@ -1,0 +1,1411 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100727.0165">
+  <document DOCID="NYT_ENG_20100727.0165">
+
+    <entity ID="NYT_ENG_20100727.0165-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E0-M1">
+          <extent>
+              <charseq START="58" END="79">DIPLOMAT HARSH ON BUSH</charseq>
+          </extent>
+          <head>
+              <charseq START="76" END="79">BUSH</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E0-M4">
+          <extent>
+              <charseq START="73" END="74">ON</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="74">ON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E0-M216">
+          <extent>
+              <charseq START="334" END="357">President George W. Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="344" END="357">George W. Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E0-M217">
+          <extent>
+              <charseq START="334" END="342">President</charseq>
+          </extent>
+          <head>
+              <charseq START="334" END="342">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M204">
+          <extent>
+              <charseq START="213" END="215">his</charseq>
+          </extent>
+          <head>
+              <charseq START="213" END="215">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M211">
+          <extent>
+              <charseq START="292" END="293">he</charseq>
+          </extent>
+          <head>
+              <charseq START="292" END="293">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M220">
+          <extent>
+              <charseq START="363" END="365">his</charseq>
+          </extent>
+          <head>
+              <charseq START="363" END="365">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M227">
+          <extent>
+              <charseq START="422" END="423">he</charseq>
+          </extent>
+          <head>
+              <charseq START="422" END="423">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E0-M904">
+          <extent>
+              <charseq START="1687" END="1690">Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="1687" END="1690">Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E0-M902">
+          <extent>
+              <charseq START="1664" END="1681">the U.S. president</charseq>
+          </extent>
+          <head>
+              <charseq START="1673" END="1681">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M900">
+          <extent>
+              <charseq START="1638" END="1639">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1638" END="1639">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M908">
+          <extent>
+              <charseq START="1708" END="1710">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1708" END="1710">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M1000">
+          <extent>
+              <charseq START="1834" END="1835">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1834" END="1835">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M1004">
+          <extent>
+              <charseq START="1865" END="1866">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1865" END="1866">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M1014">
+          <extent>
+              <charseq START="1971" END="1972">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1971" END="1972">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E0-M1108">
+          <extent>
+              <charseq START="2059" END="2066">Mr.
+Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="2063" END="2066">Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E0-M1109">
+          <extent>
+              <charseq START="2059" END="2061">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="2059" END="2061">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M1111">
+          <extent>
+              <charseq START="2070" END="2071">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2070" END="2071">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E0-M1204">
+          <extent>
+              <charseq START="2150" END="2153">Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="2150" END="2153">Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E0-M1510">
+          <extent>
+              <charseq START="2655" END="2753">an
+utterly ruthless, brutal man who sat with a revolver in his pocket
+and could use it to shoot you</charseq>
+          </extent>
+          <head>
+              <charseq START="2683" END="2685">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E0-M1517">
+          <extent>
+              <charseq START="2714" END="2716">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2714" END="2716">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BUSH">
+              <charseq START="76" END="79">BUSH</charseq>
+          </name>
+          <name NAME="George W. Bush">
+              <charseq START="344" END="357">George W. Bush</charseq>
+          </name>
+          <name NAME="Bush">
+              <charseq START="1687" END="1690">Bush</charseq>
+          </name>
+          <name NAME="Bush">
+              <charseq START="2063" END="2066">Bush</charseq>
+          </name>
+          <name NAME="Bush">
+              <charseq START="2150" END="2153">Bush</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E1-M8">
+          <extent>
+              <charseq START="82" END="86">BLAIR</charseq>
+          </extent>
+          <head>
+              <charseq START="82" END="86">BLAIR</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E1-M911">
+          <extent>
+              <charseq START="1754" END="1763">Tony
+Blair</charseq>
+          </extent>
+          <head>
+              <charseq START="1754" END="1763">Tony
+Blair</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E1-M917">
+          <extent>
+              <charseq START="1822" END="1830">Mr.
+Blair</charseq>
+          </extent>
+          <head>
+              <charseq START="1826" END="1830">Blair</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E1-M912">
+          <extent>
+              <charseq START="1766" END="1830">the British prime minister who joined the invasion, as &quot;Mr.
+Blair</charseq>
+          </extent>
+          <head>
+              <charseq START="1784" END="1791">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E1-M918">
+          <extent>
+              <charseq START="1822" END="1824">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="1822" END="1824">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E1-M915">
+          <extent>
+              <charseq START="1793" END="1795">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1793" END="1795">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E1-M1105">
+          <extent>
+              <charseq START="2045" END="2053">Mr. Blair</charseq>
+          </extent>
+          <head>
+              <charseq START="2049" END="2053">Blair</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E1-M1106">
+          <extent>
+              <charseq START="2045" END="2047">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="2045" END="2047">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E1-M1205">
+          <extent>
+              <charseq START="2171" END="2194">Mr. Blair to some
+extent</charseq>
+          </extent>
+          <head>
+              <charseq START="2175" END="2179">Blair</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E1-M1207">
+          <extent>
+              <charseq START="2171" END="2173">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="2171" END="2173">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BLAIR">
+              <charseq START="82" END="86">BLAIR</charseq>
+          </name>
+          <name NAME="Tony
+Blair">
+              <charseq START="1754" END="1763">Tony
+Blair</charseq>
+          </name>
+          <name NAME="Blair">
+              <charseq START="1826" END="1830">Blair</charseq>
+          </name>
+          <name NAME="Blair">
+              <charseq START="2049" END="2053">Blair</charseq>
+          </name>
+          <name NAME="Blair">
+              <charseq START="2175" END="2179">Blair</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E2-M11" ROLE="GPE">
+          <extent>
+              <charseq START="105" END="108">IRAQ</charseq>
+          </extent>
+          <head>
+              <charseq START="105" END="108">IRAQ</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E2-M210" ROLE="LOC">
+          <extent>
+              <charseq START="286" END="289">Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="286" END="289">Iraq</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E2-M224" ROLE="LOC">
+          <extent>
+              <charseq START="402" END="412">invade Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="409" END="412">Iraq</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E2-M225">
+          <extent>
+              <charseq START="402" END="407">invade</charseq>
+          </extent>
+          <head>
+              <charseq START="402" END="407">invade</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E2-M309">
+          <extent>
+              <charseq START="565" END="568">Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="565" END="568">Iraq</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E2-M600">
+          <extent>
+              <charseq START="1021" END="1024">Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="1021" END="1024">Iraq</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E2-M609">
+          <extent>
+              <charseq START="1132" END="1134">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1132" END="1134">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E2-M1012">
+          <extent>
+              <charseq START="1942" END="1945">Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="1942" END="1945">Iraq</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E2-M1406">
+          <extent>
+              <charseq START="2401" END="2404">Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="2401" END="2404">Iraq</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IRAQ">
+              <charseq START="105" END="108">IRAQ</charseq>
+          </name>
+          <name NAME="Iraq">
+              <charseq START="286" END="289">Iraq</charseq>
+          </name>
+          <name NAME="Iraq">
+              <charseq START="409" END="412">Iraq</charseq>
+          </name>
+          <name NAME="Iraq">
+              <charseq START="565" END="568">Iraq</charseq>
+          </name>
+          <name NAME="Iraq">
+              <charseq START="1021" END="1024">Iraq</charseq>
+          </name>
+          <name NAME="Iraq">
+              <charseq START="1942" END="1945">Iraq</charseq>
+          </name>
+          <name NAME="Iraq">
+              <charseq START="2401" END="2404">Iraq</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E3-M100" ROLE="LOC">
+          <extent>
+              <charseq START="141" END="146">LONDON</charseq>
+          </extent>
+          <head>
+              <charseq START="141" END="146">LONDON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LONDON">
+              <charseq START="141" END="146">LONDON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E4-M201">
+          <extent>
+              <charseq START="184" END="192">Hans Blix</charseq>
+          </extent>
+          <head>
+              <charseq START="184" END="192">Hans Blix</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E4-M301">
+          <extent>
+              <charseq START="503" END="506">Blix</charseq>
+          </extent>
+          <head>
+              <charseq START="503" END="506">Blix</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E4-M303">
+          <extent>
+              <charseq START="509" END="536">the Swedish diplomat who led</charseq>
+          </extent>
+          <head>
+              <charseq START="521" END="528">diplomat</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M306">
+          <extent>
+              <charseq START="530" END="532">who</charseq>
+          </extent>
+          <head>
+              <charseq START="530" END="532">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M400">
+          <extent>
+              <charseq START="718" END="719">He</charseq>
+          </extent>
+          <head>
+              <charseq START="718" END="719">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E4-M500">
+          <extent>
+              <charseq START="839" END="842">Blix</charseq>
+          </extent>
+          <head>
+              <charseq START="839" END="842">Blix</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M602">
+          <extent>
+              <charseq START="1064" END="1065">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1064" END="1065">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E4-M701">
+          <extent>
+              <charseq START="1175" END="1178">Blix</charseq>
+          </extent>
+          <head>
+              <charseq START="1175" END="1178">Blix</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M707">
+          <extent>
+              <charseq START="1267" END="1268">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1267" END="1268">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M709">
+          <extent>
+              <charseq START="1281" END="1282">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1281" END="1282">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E4-M1401">
+          <extent>
+              <charseq START="2377" END="2380">Blix</charseq>
+          </extent>
+          <head>
+              <charseq START="2377" END="2380">Blix</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M1402">
+          <extent>
+              <charseq START="2387" END="2388">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2387" END="2388">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M1418">
+          <extent>
+              <charseq START="2531" END="2532">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2531" END="2532">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E4-M1531">
+          <extent>
+              <charseq START="2833" END="2836">Blix</charseq>
+          </extent>
+          <head>
+              <charseq START="2833" END="2836">Blix</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M1502">
+          <extent>
+              <charseq START="2600" END="2602">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2600" END="2602">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M1522">
+          <extent>
+              <charseq START="2761" END="2763">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2761" END="2763">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E4-M1523">
+          <extent>
+              <charseq START="2773" END="2774">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2773" END="2774">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hans Blix">
+              <charseq START="184" END="192">Hans Blix</charseq>
+          </name>
+          <name NAME="Blix">
+              <charseq START="503" END="506">Blix</charseq>
+          </name>
+          <name NAME="Blix">
+              <charseq START="839" END="842">Blix</charseq>
+          </name>
+          <name NAME="Blix">
+              <charseq START="1175" END="1178">Blix</charseq>
+          </name>
+          <name NAME="Blix">
+              <charseq START="2377" END="2380">Blix</charseq>
+          </name>
+          <name NAME="Blix">
+              <charseq START="2833" END="2836">Blix</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E5-M206">
+          <extent>
+              <charseq START="235" END="251">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="251">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E5-M320" ROLE="GPE">
+          <extent>
+              <charseq START="681" END="688">American</charseq>
+          </extent>
+          <head>
+              <charseq START="681" END="688">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E5-M406">
+          <extent>
+              <charseq START="745" END="761">the United
+States</charseq>
+          </extent>
+          <head>
+              <charseq START="749" END="761">United
+States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E5-M412" ROLE="GPE">
+          <extent>
+              <charseq START="813" END="820">American</charseq>
+          </extent>
+          <head>
+              <charseq START="813" END="820">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E5-M818" ROLE="GPE">
+          <extent>
+              <charseq START="1614" END="1621">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1614" END="1621">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E5-M903" ROLE="GPE">
+          <extent>
+              <charseq START="1668" END="1671">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1668" END="1671">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E5-M1302">
+          <extent>
+              <charseq START="2227" END="2234">American</charseq>
+          </extent>
+          <head>
+              <charseq START="2227" END="2234">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="239" END="251">United States</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="681" END="688">American</charseq>
+          </name>
+          <name NAME="United
+States">
+              <charseq START="749" END="761">United
+States</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="813" END="820">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="1614" END="1621">American</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="1668" END="1671">U.S.</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="2227" END="2234">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E6-M208">
+          <extent>
+              <charseq START="257" END="263">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="257" END="263">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E6-M232">
+          <extent>
+              <charseq START="453" END="459">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="459">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E6-M403">
+          <extent>
+              <charseq START="736" END="742">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="736" END="742">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E6-M404">
+          <extent>
+              <charseq START="745" END="788">the United
+States&apos; main ally in the invasion</charseq>
+          </extent>
+          <head>
+              <charseq START="769" END="772">ally</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E6-M801" ROLE="GPE">
+          <extent>
+              <charseq START="1361" END="1367">British</charseq>
+          </extent>
+          <head>
+              <charseq START="1361" END="1367">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E6-M803" ROLE="GPE">
+          <extent>
+              <charseq START="1394" END="1400">British</charseq>
+          </extent>
+          <head>
+              <charseq START="1394" END="1400">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E6-M914" ROLE="GPE">
+          <extent>
+              <charseq START="1770" END="1776">British</charseq>
+          </extent>
+          <head>
+              <charseq START="1770" END="1776">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Britain">
+              <charseq START="257" END="263">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="453" END="459">Britain</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="736" END="742">Britain</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="1361" END="1367">British</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="1394" END="1400">British</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="1770" END="1776">British</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E7-M219">
+          <extent>
+              <charseq START="363" END="375">his top aides</charseq>
+          </extent>
+          <head>
+              <charseq START="371" END="375">aides</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E7-M223">
+          <extent>
+              <charseq START="384" END="388">their</charseq>
+          </extent>
+          <head>
+              <charseq START="384" END="388">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E7-M409">
+          <extent>
+              <charseq START="795" END="826">a prisoner on the American
+train</charseq>
+          </extent>
+          <head>
+              <charseq START="797" END="804">prisoner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E7-M1002">
+          <extent>
+              <charseq START="1848" END="1878">both leaders, as he has before,</charseq>
+          </extent>
+          <head>
+              <charseq START="1853" END="1859">leaders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E7-M1007">
+          <extent>
+              <charseq START="1892" END="1896">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1892" END="1896">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E8-M305" ROLE="GPE">
+          <extent>
+              <charseq START="513" END="519">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="513" END="519">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E8-M712">
+          <extent>
+              <charseq START="1291" END="1296">Sweden</charseq>
+          </extent>
+          <head>
+              <charseq START="1291" END="1296">Sweden</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Swedish">
+              <charseq START="513" END="519">Swedish</charseq>
+          </name>
+          <name NAME="Sweden">
+              <charseq START="1291" END="1296">Sweden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E9-M308">
+          <extent>
+              <charseq START="542" END="545">U.N.</charseq>
+          </extent>
+          <head>
+              <charseq START="542" END="545">U.N.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E9-M1409">
+          <extent>
+              <charseq START="2437" END="2440">U.N.</charseq>
+          </extent>
+          <head>
+              <charseq START="2437" END="2440">U.N.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.N.">
+              <charseq START="542" END="545">U.N.</charseq>
+          </name>
+          <name NAME="U.N.">
+              <charseq START="2437" END="2440">U.N.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E10-M313">
+          <extent>
+              <charseq START="584" END="597">Saddam Hussein</charseq>
+          </extent>
+          <head>
+              <charseq START="584" END="597">Saddam Hussein</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E10-M513">
+          <extent>
+              <charseq START="998" END="1003">Saddam</charseq>
+          </extent>
+          <head>
+              <charseq START="998" END="1003">Saddam</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E10-M601">
+          <extent>
+              <charseq START="1056" END="1061">Saddam</charseq>
+          </extent>
+          <head>
+              <charseq START="1056" END="1061">Saddam</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E10-M1400">
+          <extent>
+              <charseq START="2369" END="2374">Saddam</charseq>
+          </extent>
+          <head>
+              <charseq START="2369" END="2374">Saddam</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E10-M1415">
+          <extent>
+              <charseq START="2508" END="2513">Saddam</charseq>
+          </extent>
+          <head>
+              <charseq START="2508" END="2513">Saddam</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Saddam Hussein">
+              <charseq START="584" END="597">Saddam Hussein</charseq>
+          </name>
+          <name NAME="Saddam">
+              <charseq START="998" END="1003">Saddam</charseq>
+          </name>
+          <name NAME="Saddam">
+              <charseq START="1056" END="1061">Saddam</charseq>
+          </name>
+          <name NAME="Saddam">
+              <charseq START="2369" END="2374">Saddam</charseq>
+          </name>
+          <name NAME="Saddam">
+              <charseq START="2508" END="2513">Saddam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E11" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E11-M411">
+          <extent>
+              <charseq START="809" END="826">the American
+train</charseq>
+          </extent>
+          <head>
+              <charseq START="822" END="826">train</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E12-M505">
+          <extent>
+              <charseq START="894" END="899">Iraqis</charseq>
+          </extent>
+          <head>
+              <charseq START="894" END="899">Iraqis</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E13-M706">
+          <extent>
+              <charseq START="1227" END="1235">Cambridge</charseq>
+          </extent>
+          <head>
+              <charseq START="1227" END="1235">Cambridge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cambridge">
+              <charseq START="1227" END="1235">Cambridge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E14-M705">
+          <extent>
+              <charseq START="1223" END="1265">the
+Cambridge-educated international lawyer</charseq>
+          </extent>
+          <head>
+              <charseq START="1260" END="1265">lawyer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E15-M711">
+          <extent>
+              <charseq START="1291" END="1315">Sweden&apos;s foreign minister</charseq>
+          </extent>
+          <head>
+              <charseq START="1308" END="1315">minister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E16-M802">
+          <extent>
+              <charseq START="1380" END="1408">the first non-British witness</charseq>
+          </extent>
+          <head>
+              <charseq START="1402" END="1408">witness</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E16-M806">
+          <extent>
+              <charseq START="1440" END="1442">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1440" END="1442">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E17-M1016">
+          <extent>
+              <charseq START="1987" END="1990">poor</charseq>
+          </extent>
+          <head>
+              <charseq START="1987" END="1990">poor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E19" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E19-M1301">
+          <extent>
+              <charseq START="2227" END="2263">American-led weapons inspection teams</charseq>
+          </extent>
+          <head>
+              <charseq START="2259" END="2263">teams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E19-M1311">
+          <extent>
+              <charseq START="2347" END="2350">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2347" END="2350">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E19-M1407">
+          <extent>
+              <charseq START="2437" END="2470">U.N. inspection teams in the years</charseq>
+          </extent>
+          <head>
+              <charseq START="2453" END="2457">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E20" TYPE="WEA" SUBTYPE="Underspecified" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E20-M1308">
+          <extent>
+              <charseq START="2288" END="2301">banned weapons</charseq>
+          </extent>
+          <head>
+              <charseq START="2295" END="2301">weapons</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E21" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E21-M1423">
+          <extent>
+              <charseq START="2574" END="2581">the West</charseq>
+          </extent>
+          <head>
+              <charseq START="2578" END="2581">West</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E21-M1528">
+          <extent>
+              <charseq START="2789" END="2796">the West</charseq>
+          </extent>
+          <head>
+              <charseq START="2793" END="2796">West</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E22-M1505">
+          <extent>
+              <charseq START="2609" END="2622">Nebuchadnezzar</charseq>
+          </extent>
+          <head>
+              <charseq START="2609" END="2622">Nebuchadnezzar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E22-M1506">
+          <extent>
+              <charseq START="2625" END="2753">the emperor of Mesopotamia -- an
+utterly ruthless, brutal man who sat with a revolver in his pocket
+and could use it to shoot you</charseq>
+          </extent>
+          <head>
+              <charseq START="2629" END="2635">emperor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100727.0165-E22-M1513">
+          <extent>
+              <charseq START="2687" END="2689">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2687" END="2689">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nebuchadnezzar">
+              <charseq START="2609" END="2622">Nebuchadnezzar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100727.0165-E23-M1509" ROLE="GPE">
+          <extent>
+              <charseq START="2640" END="2650">Mesopotamia</charseq>
+          </extent>
+          <head>
+              <charseq START="2640" END="2650">Mesopotamia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mesopotamia">
+              <charseq START="2640" END="2650">Mesopotamia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100727.0165-E24" TYPE="WEA" SUBTYPE="Shooting" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100727.0165-E24-M1514">
+          <extent>
+              <charseq START="2700" END="2723">a revolver in his pocket</charseq>
+          </extent>
+          <head>
+              <charseq START="2702" END="2709">revolver</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100727.0165-T0" VAL="PXY">
+        <timex2_mention ID="NYT_ENG_20100727.0165-T0-M1">
+            <extent>
+              <charseq START="174" END="182">the years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100727.0165-T1" VAL="2010-07-27">
+        <timex2_mention ID="NYT_ENG_20100727.0165-T1-M1">
+            <extent>
+              <charseq START="438" END="444">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100727.0165-T2" VAL="PT3H">
+        <timex2_mention ID="NYT_ENG_20100727.0165-T2-M1">
+            <extent>
+              <charseq START="854" END="877">three hours of testimony</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100727.0165-T3" VAL="2003-03">
+        <timex2_mention ID="NYT_ENG_20100727.0165-T3-M1">
+            <extent>
+              <charseq START="969" END="978">March 2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100727.0165-T4" VAL="197" MOD="END">
+        <timex2_mention ID="NYT_ENG_20100727.0165-T4-M1">
+            <extent>
+              <charseq START="1320" END="1333">the late 1970s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100727.0165-T5" VAL="PXY">
+        <timex2_mention ID="NYT_ENG_20100727.0165-T5-M1">
+            <extent>
+              <charseq START="2462" END="2490">the years before the invasion</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100727.0165-T6" VAL="P8M">
+        <timex2_mention ID="NYT_ENG_20100727.0165-T6-M1">
+            <extent>
+              <charseq START="2859" END="2882">eight months of hearings</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100727.0165-T7" VAL="2010" MOD="END">
+        <timex2_mention ID="NYT_ENG_20100727.0165-T7-M1">
+            <extent>
+              <charseq START="2969" END="2983">the end of
+2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100727.0165-R0" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E7" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R0-M200">
+          <extent>
+              <charseq START="363" END="365">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E0-M220" ROLE="Arg-1">
+            <extent>
+              <charseq START="363" END="365">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E7-M219" ROLE="Arg-2">
+            <extent>
+              <charseq START="363" END="375">his top aides</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E8" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R1-M300">
+          <extent>
+              <charseq START="509" END="536">the Swedish diplomat who led</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E4-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="509" END="536">the Swedish diplomat who led</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E8-M305" ROLE="Arg-2">
+            <extent>
+              <charseq START="513" END="519">Swedish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E11" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R2-M400">
+          <extent>
+              <charseq START="795" END="826">a prisoner on the American
+train</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E7-M409" ROLE="Arg-1">
+            <extent>
+              <charseq START="795" END="826">a prisoner on the American
+train</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E11-M411" ROLE="Arg-2">
+            <extent>
+              <charseq START="809" END="826">the American
+train</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R3" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E13" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R3-M700">
+          <extent>
+              <charseq START="1223" END="1265">the
+Cambridge-educated international lawyer</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E14-M705" ROLE="Arg-1">
+            <extent>
+              <charseq START="1223" END="1265">the
+Cambridge-educated international lawyer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E13-M706" ROLE="Arg-2">
+            <extent>
+              <charseq START="1227" END="1235">Cambridge</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E8" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R4-M701">
+          <extent>
+              <charseq START="1291" END="1315">Sweden&apos;s foreign minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E15-M711" ROLE="Arg-1">
+            <extent>
+              <charseq START="1291" END="1315">Sweden&apos;s foreign minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E8-M712" ROLE="Arg-2">
+            <extent>
+              <charseq START="1291" END="1296">Sweden</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E6" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R5-M800">
+          <extent>
+              <charseq START="1380" END="1408">the first non-British witness</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E16-M802" ROLE="Arg-1">
+            <extent>
+              <charseq START="1380" END="1408">the first non-British witness</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E6-M803" ROLE="Arg-2">
+            <extent>
+              <charseq START="1394" END="1400">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E5" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R6-M900">
+          <extent>
+              <charseq START="1664" END="1681">the U.S. president</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E0-M902" ROLE="Arg-1">
+            <extent>
+              <charseq START="1664" END="1681">the U.S. president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E5-M903" ROLE="Arg-2">
+            <extent>
+              <charseq START="1668" END="1671">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E6" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R7-M901">
+          <extent>
+              <charseq START="1766" END="1830">the British prime minister who joined the invasion, as &quot;Mr.
+Blair</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E1-M912" ROLE="Arg-1">
+            <extent>
+              <charseq START="1766" END="1830">the British prime minister who joined the invasion, as &quot;Mr.
+Blair</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E6-M914" ROLE="Arg-2">
+            <extent>
+              <charseq START="1770" END="1776">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E9" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R8-M1400">
+          <extent>
+              <charseq START="2437" END="2470">U.N. inspection teams in the years</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E19-M1407" ROLE="Arg-1">
+            <extent>
+              <charseq START="2437" END="2470">U.N. inspection teams in the years</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E9-M1409" ROLE="Arg-2">
+            <extent>
+              <charseq START="2437" END="2440">U.N.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E23" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R9-M1500">
+          <extent>
+              <charseq START="2625" END="2753">the emperor of Mesopotamia -- an
+utterly ruthless, brutal man who sat with a revolver in his pocket
+and could use it to shoot you</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E22-M1506" ROLE="Arg-1">
+            <extent>
+              <charseq START="2625" END="2753">the emperor of Mesopotamia -- an
+utterly ruthless, brutal man who sat with a revolver in his pocket
+and could use it to shoot you</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E23-M1509" ROLE="Arg-2">
+            <extent>
+              <charseq START="2640" END="2650">Mesopotamia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100727.0165-R10" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100727.0165-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100727.0165-E24" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100727.0165-R10-M1501">
+          <extent>
+              <charseq START="2655" END="2753">an
+utterly ruthless, brutal man who sat with a revolver in his pocket
+and could use it to shoot you</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E0-M1510" ROLE="Arg-1">
+            <extent>
+              <charseq START="2655" END="2753">an
+utterly ruthless, brutal man who sat with a revolver in his pocket
+and could use it to shoot you</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100727.0165-E24-M1514" ROLE="Arg-2">
+            <extent>
+              <charseq START="2700" END="2723">a revolver in his pocket</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

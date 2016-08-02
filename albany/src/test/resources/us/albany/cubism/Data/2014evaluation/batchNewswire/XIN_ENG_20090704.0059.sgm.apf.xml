@@ -1,0 +1,989 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20090704.0059">
+  <document DOCID="XIN_ENG_20090704.0059">
+
+    <entity ID="XIN_ENG_20090704.0059-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E0-M102" ROLE="GPE">
+          <extent>
+              <charseq START="76" END="80">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="76" END="80">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E0-M400">
+          <extent>
+              <charseq START="203" END="207">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="207">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E0-M413">
+          <extent>
+              <charseq START="327" END="336">government</charseq>
+          </extent>
+          <head>
+              <charseq START="327" END="336">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E0-M502" ROLE="GPE">
+          <extent>
+              <charseq START="376" END="383">Japanese</charseq>
+          </extent>
+          <head>
+              <charseq START="376" END="383">Japanese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E0-M521" ROLE="GPE">
+          <extent>
+              <charseq START="612" END="619">Japanese</charseq>
+          </extent>
+          <head>
+              <charseq START="612" END="619">Japanese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E0-M500" ROLE="ORG">
+          <extent>
+              <charseq START="372" END="591">The Japanese government lodged a protest against the Democratic People&apos;s
+Republic of Korea (DPRK) through diplomatic channels in Beijing over its
+launching of multiple ballistic missiles into the Sea of Japan on Saturday</charseq>
+          </extent>
+          <head>
+              <charseq START="385" END="394">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090704.0059-E0-M513">
+          <extent>
+              <charseq START="514" END="516">its</charseq>
+          </extent>
+          <head>
+              <charseq START="514" END="516">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E0-M601" ROLE="GPE">
+          <extent>
+              <charseq START="651" END="658">Japanese</charseq>
+          </extent>
+          <head>
+              <charseq START="651" END="658">Japanese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E0-M616">
+          <extent>
+              <charseq START="813" END="818">Japan,</charseq>
+          </extent>
+          <head>
+              <charseq START="813" END="817">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E0-M808">
+          <extent>
+              <charseq START="1197" END="1206">government</charseq>
+          </extent>
+          <head>
+              <charseq START="1197" END="1206">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E0-M900">
+          <extent>
+              <charseq START="1219" END="1223">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="1219" END="1223">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E0-M1005" ROLE="GPE">
+          <extent>
+              <charseq START="1296" END="1300">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="1296" END="1300">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E0-M1003">
+          <extent>
+              <charseq START="1274" END="1283">government</charseq>
+          </extent>
+          <head>
+              <charseq START="1274" END="1283">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Japan">
+              <charseq START="76" END="80">Japan</charseq>
+          </name>
+          <name NAME="Japan">
+              <charseq START="203" END="207">Japan</charseq>
+          </name>
+          <name NAME="Japanese">
+              <charseq START="376" END="383">Japanese</charseq>
+          </name>
+          <name NAME="Japanese">
+              <charseq START="612" END="619">Japanese</charseq>
+          </name>
+          <name NAME="Japanese">
+              <charseq START="651" END="658">Japanese</charseq>
+          </name>
+          <name NAME="Japan">
+              <charseq START="813" END="817">Japan</charseq>
+          </name>
+          <name NAME="Japan">
+              <charseq START="1219" END="1223">Japan</charseq>
+          </name>
+          <name NAME="Japan">
+              <charseq START="1296" END="1300">Japan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E1-M104" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="91" END="99">Pyongyang</charseq>
+          </extent>
+          <head>
+              <charseq START="91" END="99">Pyongyang</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E1-M402" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="219" END="227">Pyongyang</charseq>
+          </extent>
+          <head>
+              <charseq START="219" END="227">Pyongyang</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E1-M803" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1133" END="1141">Pyongyang</charseq>
+          </extent>
+          <head>
+              <charseq START="1133" END="1141">Pyongyang</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E1-M1103" ROLE="GPE">
+          <extent>
+              <charseq START="1396" END="1404">Pyongyang</charseq>
+          </extent>
+          <head>
+              <charseq START="1396" END="1404">Pyongyang</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pyongyang">
+              <charseq START="1396" END="1404">Pyongyang</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E2" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E2-M103">
+          <extent>
+              <charseq START="91" END="116">Pyongyang&apos;s missile launch</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="109">missile</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E2-M401">
+          <extent>
+              <charseq START="219" END="251">Pyongyang&apos;s latest missile launch</charseq>
+          </extent>
+          <head>
+              <charseq START="238" END="244">missile</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090704.0059-E2-M403">
+          <extent>
+              <charseq START="262" END="263">it</charseq>
+          </extent>
+          <head>
+              <charseq START="262" END="263">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090704.0059-E2-M410">
+          <extent>
+              <charseq START="323" END="324">it</charseq>
+          </extent>
+          <head>
+              <charseq START="323" END="324">it</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E3-M201" ROLE="LOC">
+          <extent>
+              <charseq START="157" END="161">TOKYO</charseq>
+          </extent>
+          <head>
+              <charseq START="157" END="161">TOKYO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TOKYO">
+              <charseq START="157" END="161">TOKYO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E4-M300">
+          <extent>
+              <charseq START="172" END="177">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="172" END="177">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="172" END="177">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E5-M412">
+          <extent>
+              <charseq START="327" END="346">government officials</charseq>
+          </extent>
+          <head>
+              <charseq START="338" END="346">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E6-M505" ROLE="GPE">
+          <extent>
+              <charseq START="421" END="468">the Democratic People&apos;s
+Republic of Korea (DPRK)</charseq>
+          </extent>
+          <head>
+              <charseq START="425" END="461">Democratic People&apos;s
+Republic of Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Democratic People&apos;s
+Republic of Korea">
+              <charseq START="425" END="461">Democratic People&apos;s
+Republic of Korea</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E7-M508">
+          <extent>
+              <charseq START="464" END="467">DPRK</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="467">DPRK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E7-M713">
+          <extent>
+              <charseq START="1035" END="1038">DPRK</charseq>
+          </extent>
+          <head>
+              <charseq START="1035" END="1038">DPRK</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DPRK">
+              <charseq START="464" END="467">DPRK</charseq>
+          </name>
+          <name NAME="DPRK">
+              <charseq START="1035" END="1038">DPRK</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E8-M510" ROLE="LOC">
+          <extent>
+              <charseq START="501" END="507">Beijing</charseq>
+          </extent>
+          <head>
+              <charseq START="501" END="507">Beijing</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Beijing">
+              <charseq START="501" END="507">Beijing</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E9" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E9-M516">
+          <extent>
+              <charseq START="564" END="579">the Sea of Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="568" END="579">Sea of Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E9-M1107">
+          <extent>
+              <charseq START="1467" END="1482">the Sea of Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="1471" END="1482">Sea of Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sea of Japan">
+              <charseq START="568" END="579">Sea of Japan</charseq>
+          </name>
+          <name NAME="Sea of Japan">
+              <charseq START="1471" END="1482">Sea of Japan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E10-M519">
+          <extent>
+              <charseq START="594" END="603">Kyodo News</charseq>
+          </extent>
+          <head>
+              <charseq START="594" END="603">Kyodo News</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E10-M700">
+          <extent>
+              <charseq START="890" END="894">Kyodo</charseq>
+          </extent>
+          <head>
+              <charseq START="890" END="894">Kyodo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E10-M1000">
+          <extent>
+              <charseq START="1262" END="1266">Kyodo</charseq>
+          </extent>
+          <head>
+              <charseq START="1262" END="1266">Kyodo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kyodo News">
+              <charseq START="594" END="603">Kyodo News</charseq>
+          </name>
+          <name NAME="Kyodo">
+              <charseq START="890" END="894">Kyodo</charseq>
+          </name>
+          <name NAME="Kyodo">
+              <charseq START="1262" END="1266">Kyodo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E11" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E11-M514">
+          <extent>
+              <charseq START="531" END="579">multiple ballistic missiles into the Sea of Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="550" END="557">missiles</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E12-M520">
+          <extent>
+              <charseq START="612" END="629">Japanese officials</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="629">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E13-M600">
+          <extent>
+              <charseq START="651" END="697">Japanese Chief Cabinet Secretary Takeo Kawamura</charseq>
+          </extent>
+          <head>
+              <charseq START="684" END="697">Takeo Kawamura</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E13-M604">
+          <extent>
+              <charseq START="674" END="682">Secretary</charseq>
+          </extent>
+          <head>
+              <charseq START="674" END="682">Secretary</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Takeo Kawamura">
+              <charseq START="684" END="697">Takeo Kawamura</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E14-M620">
+          <extent>
+              <charseq START="853" END="877">the U.N. Security Council</charseq>
+          </extent>
+          <head>
+              <charseq START="857" END="877">U.N. Security Council</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.N. Security Council">
+              <charseq START="857" END="877">U.N. Security Council</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E15-M615" ROLE="GPE">
+          <extent>
+              <charseq START="780" END="800">neighboring countries</charseq>
+          </extent>
+          <head>
+              <charseq START="792" END="800">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E16-M701">
+          <extent>
+              <charseq START="901" END="923">Prime Minister Taro Aso</charseq>
+          </extent>
+          <head>
+              <charseq START="916" END="923">Taro Aso</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E16-M703">
+          <extent>
+              <charseq START="907" END="914">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="907" END="914">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taro Aso">
+              <charseq START="916" END="923">Taro Aso</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E17-M707">
+          <extent>
+              <charseq START="963" END="992">Group
+of Eight Summit in Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="978" END="983">Summit</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Summit">
+              <charseq START="978" END="983">Summit</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E18-M709">
+          <extent>
+              <charseq START="963" END="976">Group
+of Eight</charseq>
+          </extent>
+          <head>
+              <charseq START="963" END="976">Group
+of Eight</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Group
+of Eight">
+              <charseq START="963" END="976">Group
+of Eight</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E19-M711" ROLE="LOC">
+          <extent>
+              <charseq START="988" END="992">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="988" END="992">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italy">
+              <charseq START="988" END="992">Italy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E20-M705">
+          <extent>
+              <charseq START="945" END="958">fellow leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="952" END="958">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E21" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E21-M800">
+          <extent>
+              <charseq START="1091" END="1122">South Korea&apos;s Yonhap News Agency</charseq>
+          </extent>
+          <head>
+              <charseq START="1105" END="1122">Yonhap News Agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yonhap News Agency">
+              <charseq START="1105" END="1122">Yonhap News Agency</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E22-M801">
+          <extent>
+              <charseq START="1091" END="1101">South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="1091" END="1101">South Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E22-M807" ROLE="GPE">
+          <extent>
+              <charseq START="1184" END="1195">South Korean</charseq>
+          </extent>
+          <head>
+              <charseq START="1184" END="1195">South Korean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E22-M1006" ROLE="GPE">
+          <extent>
+              <charseq START="1306" END="1316">South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="1306" END="1316">South Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Korea">
+              <charseq START="1091" END="1101">South Korea</charseq>
+          </name>
+          <name NAME="South Korean">
+              <charseq START="1184" END="1195">South Korean</charseq>
+          </name>
+          <name NAME="South Korea">
+              <charseq START="1306" END="1316">South Korea</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E23" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E23-M804">
+          <extent>
+              <charseq START="1152" END="1164">four missiles</charseq>
+          </extent>
+          <head>
+              <charseq START="1157" END="1164">missiles</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E24-M806">
+          <extent>
+              <charseq START="1184" END="1216">South Korean government officials</charseq>
+          </extent>
+          <head>
+              <charseq START="1208" END="1216">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E25" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090704.0059-E25-M1009">
+          <extent>
+              <charseq START="1348" END="1353">Rodong</charseq>
+          </extent>
+          <head>
+              <charseq START="1348" END="1353">Rodong</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rodong">
+              <charseq START="1348" END="1353">Rodong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E26-M1001">
+          <extent>
+              <charseq START="1274" END="1316">government sources of Japan and South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="1285" END="1291">sources</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E27" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E27-M1007">
+          <extent>
+              <charseq START="1328" END="1339">the missiles</charseq>
+          </extent>
+          <head>
+              <charseq START="1332" END="1339">missiles</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E27-M1008">
+          <extent>
+              <charseq START="1348" END="1362">Rodong missiles</charseq>
+          </extent>
+          <head>
+              <charseq START="1355" END="1362">missiles</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E28" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E28-M1101">
+          <extent>
+              <charseq START="1396" END="1482">Pyongyang test-fired four short-range missiles off its
+east coast into the Sea of Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="1434" END="1441">missiles</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090704.0059-E29" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090704.0059-E29-M1104">
+          <extent>
+              <charseq START="1447" END="1482">its
+east coast into the Sea of Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1460">coast</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20090704.0059-T0" VAL="2009-07-04">
+        <timex2_mention ID="XIN_ENG_20090704.0059-T0-M1">
+            <extent>
+              <charseq START="164" END="169">July 4</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090704.0059-T1" VAL="2009-07-04">
+        <timex2_mention ID="XIN_ENG_20090704.0059-T1-M1">
+            <extent>
+              <charseq START="353" END="360">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090704.0059-T2" VAL="2009-07-04">
+        <timex2_mention ID="XIN_ENG_20090704.0059-T2-M1">
+            <extent>
+              <charseq START="584" END="591">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090704.0059-T3" VAL="2009-07-04">
+        <timex2_mention ID="XIN_ENG_20090704.0059-T3-M1">
+            <extent>
+              <charseq START="1166" END="1173">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090704.0059-T4" VAL="2009-07-02">
+        <timex2_mention ID="XIN_ENG_20090704.0059-T4-M1">
+            <extent>
+              <charseq START="1487" END="1494">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20090704.0059-R0" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E2" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R0-M100">
+          <extent>
+              <charseq START="91" END="99">Pyongyang</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E1-M104" ROLE="Arg-1">
+            <extent>
+              <charseq START="91" END="99">Pyongyang</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E2-M103" ROLE="Arg-2">
+            <extent>
+              <charseq START="91" END="116">Pyongyang&apos;s missile launch</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20090704.0059-R0-M400">
+          <extent>
+              <charseq START="219" END="227">Pyongyang</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E1-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="219" END="227">Pyongyang</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E2-M401" ROLE="Arg-2">
+            <extent>
+              <charseq START="219" END="251">Pyongyang&apos;s latest missile launch</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R1-M401">
+          <extent>
+              <charseq START="327" END="346">government officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E5-M412" ROLE="Arg-1">
+            <extent>
+              <charseq START="327" END="346">government officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E0-M413" ROLE="Arg-2">
+            <extent>
+              <charseq START="327" END="336">government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R2-M500">
+          <extent>
+              <charseq START="612" END="629">Japanese officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E12-M520" ROLE="Arg-1">
+            <extent>
+              <charseq START="612" END="629">Japanese officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E0-M521" ROLE="Arg-2">
+            <extent>
+              <charseq START="612" END="619">Japanese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R3-M600">
+          <extent>
+              <charseq START="674" END="682">Secretary</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E13-M604" ROLE="Arg-1">
+            <extent>
+              <charseq START="674" END="682">Secretary</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E0-M601" ROLE="Arg-2">
+            <extent>
+              <charseq START="651" END="658">Japanese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E17" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R4-M700">
+          <extent>
+              <charseq START="945" END="958">fellow leaders</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E20-M705" ROLE="Arg-1">
+            <extent>
+              <charseq START="945" END="958">fellow leaders</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E17-M707" ROLE="Arg-2">
+            <extent>
+              <charseq START="963" END="992">Group
+of Eight Summit in Italy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E19" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R5-M701">
+          <extent>
+              <charseq START="963" END="992">Group
+of Eight Summit in Italy</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E17-M707" ROLE="Arg-1">
+            <extent>
+              <charseq START="963" END="992">Group
+of Eight Summit in Italy</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E19-M711" ROLE="Arg-2">
+            <extent>
+              <charseq START="988" END="992">Italy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R6" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E22" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R6-M800">
+          <extent>
+              <charseq START="1091" END="1122">South Korea&apos;s Yonhap News Agency</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E21-M800" ROLE="Arg-1">
+            <extent>
+              <charseq START="1091" END="1122">South Korea&apos;s Yonhap News Agency</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E22-M801" ROLE="Arg-2">
+            <extent>
+              <charseq START="1091" END="1101">South Korea</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R7" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E23" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R7-M801">
+          <extent>
+              <charseq START="1133" END="1141">Pyongyang</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E1-M803" ROLE="Arg-1">
+            <extent>
+              <charseq START="1133" END="1141">Pyongyang</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E23-M804" ROLE="Arg-2">
+            <extent>
+              <charseq START="1152" END="1164">four missiles</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E22" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R8-M802">
+          <extent>
+              <charseq START="1184" END="1216">South Korean government officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E24-M806" ROLE="Arg-1">
+            <extent>
+              <charseq START="1184" END="1216">South Korean government officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E22-M807" ROLE="Arg-2">
+            <extent>
+              <charseq START="1184" END="1195">South Korean</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R9-M1000">
+          <extent>
+              <charseq START="1274" END="1316">government sources of Japan and South Korea</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E26-M1001" ROLE="Arg-1">
+            <extent>
+              <charseq START="1274" END="1316">government sources of Japan and South Korea</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E0-M1003" ROLE="Arg-2">
+            <extent>
+              <charseq START="1274" END="1283">government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20090704.0059-R9-M1001">
+          <extent>
+              <charseq START="1274" END="1316">government sources of Japan and South Korea</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E26-M1001" ROLE="Arg-1">
+            <extent>
+              <charseq START="1274" END="1316">government sources of Japan and South Korea</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E0-M1005" ROLE="Arg-2">
+            <extent>
+              <charseq START="1296" END="1300">Japan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090704.0059-R10" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090704.0059-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090704.0059-E9" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090704.0059-R10-M1101">
+          <extent>
+              <charseq START="1447" END="1482">its
+east coast into the Sea of Japan</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E29-M1104" ROLE="Arg-1">
+            <extent>
+              <charseq START="1447" END="1482">its
+east coast into the Sea of Japan</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090704.0059-E9-M1107" ROLE="Arg-2">
+            <extent>
+              <charseq START="1467" END="1482">the Sea of Japan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

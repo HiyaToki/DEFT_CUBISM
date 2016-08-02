@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="18a89cdd00dadc593a88c924111575f1.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-384" length="8" offset="614">
+        <text>the Feds</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-162" length="11" offset="1272">
+        <text>Eric Holder</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-312" length="16" offset="1363">
+        <text>the body politic</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-782" length="3" offset="1709">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

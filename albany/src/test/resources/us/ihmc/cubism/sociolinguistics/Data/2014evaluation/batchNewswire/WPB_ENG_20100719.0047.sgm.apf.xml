@@ -1,0 +1,2073 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="WPB_ENG_20100719.0047">
+  <document DOCID="WPB_ENG_20100719.0047">
+
+    <entity ID="WPB_ENG_20100719.0047-E0" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E0-M5">
+          <extent>
+              <charseq START="93" END="109">Dodge Foreclosure</charseq>
+          </extent>
+          <head>
+              <charseq START="99" END="109">Foreclosure</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Foreclosure">
+              <charseq START="99" END="109">Foreclosure</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E1-M6">
+          <extent>
+              <charseq START="93" END="97">Dodge</charseq>
+          </extent>
+          <head>
+              <charseq START="93" END="97">Dodge</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dodge">
+              <charseq START="93" END="97">Dodge</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E2" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E2-M0">
+          <extent>
+              <charseq START="57" END="76">Homeowners Use Room-</charseq>
+          </extent>
+          <head>
+              <charseq START="72" END="75">Room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="134" END="158">SAN FRANCISCO
+By Ari Levy</charseq>
+          </extent>
+          <head>
+              <charseq START="134" END="146">SAN FRANCISCO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E3-M401" ROLE="LOC">
+          <extent>
+              <charseq START="531" END="543">San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="531" END="543">San Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E3-M2101" ROLE="LOC">
+          <extent>
+              <charseq START="2589" END="2601">San Francisco</charseq>
+          </extent>
+          <head>
+              <charseq START="2589" END="2601">San Francisco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SAN FRANCISCO">
+              <charseq START="134" END="146">SAN FRANCISCO</charseq>
+          </name>
+          <name NAME="San Francisco">
+              <charseq START="531" END="543">San Francisco</charseq>
+          </name>
+          <name NAME="San Francisco">
+              <charseq START="2589" END="2601">San Francisco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E4-M103">
+          <extent>
+              <charseq START="151" END="158">Ari Levy</charseq>
+          </extent>
+          <head>
+              <charseq START="151" END="158">Ari Levy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ari Levy">
+              <charseq START="151" END="158">Ari Levy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E5-M105">
+          <extent>
+              <charseq START="164" END="171">Dan Levy</charseq>
+          </extent>
+          <head>
+              <charseq START="164" END="171">Dan Levy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dan Levy">
+              <charseq START="164" END="171">Dan Levy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E6-M106" ROLE="GPE">
+          <extent>
+              <charseq START="173" END="182">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="173" END="182">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E6-M1512" ROLE="LOC">
+          <extent>
+              <charseq START="1989" END="1998">Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="1989" END="1998">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E6-M3102" ROLE="LOC">
+          <extent>
+              <charseq START="4005" END="4021">Washington, D.C.,</charseq>
+          </extent>
+          <head>
+              <charseq START="4005" END="4014">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="173" END="182">WASHINGTON</charseq>
+          </name>
+          <name NAME="Washington">
+              <charseq START="1989" END="1998">Washington</charseq>
+          </name>
+          <name NAME="Washington">
+              <charseq START="4005" END="4014">Washington</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E7-M200">
+          <extent>
+              <charseq START="239" END="253">Nichelle Morant</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="253">Nichelle Morant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E7-M205">
+          <extent>
+              <charseq START="282" END="284">her</charseq>
+          </extent>
+          <head>
+              <charseq START="282" END="284">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E7-M302">
+          <extent>
+              <charseq START="468" END="473">Morant</charseq>
+          </extent>
+          <head>
+              <charseq START="468" END="473">Morant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E7-M404">
+          <extent>
+              <charseq START="596" END="598">she</charseq>
+          </extent>
+          <head>
+              <charseq START="596" END="598">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E7-M410">
+          <extent>
+              <charseq START="651" END="653">her</charseq>
+          </extent>
+          <head>
+              <charseq START="651" END="653">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E7-M505">
+          <extent>
+              <charseq START="717" END="722">Morant</charseq>
+          </extent>
+          <head>
+              <charseq START="717" END="722">Morant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E7-M506">
+          <extent>
+              <charseq START="725" END="737">a pastry chef</charseq>
+          </extent>
+          <head>
+              <charseq START="734" END="737">chef</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E7-M508">
+          <extent>
+              <charseq START="740" END="748">who lives</charseq>
+          </extent>
+          <head>
+              <charseq START="740" END="742">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E7-M511">
+          <extent>
+              <charseq START="755" END="757">her</charseq>
+          </extent>
+          <head>
+              <charseq START="755" END="757">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E7-M1901">
+          <extent>
+              <charseq START="2350" END="2355">Morant</charseq>
+          </extent>
+          <head>
+              <charseq START="2350" END="2355">Morant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E7-M2005">
+          <extent>
+              <charseq START="2483" END="2488">Morant</charseq>
+          </extent>
+          <head>
+              <charseq START="2483" END="2488">Morant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E7-M2003">
+          <extent>
+              <charseq START="2446" END="2448">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2446" END="2448">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E7-M2009">
+          <extent>
+              <charseq START="2519" END="2521">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2519" END="2521">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E7-M2108">
+          <extent>
+              <charseq START="2680" END="2685">Morant</charseq>
+          </extent>
+          <head>
+              <charseq START="2680" END="2685">Morant</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nichelle Morant">
+              <charseq START="239" END="253">Nichelle Morant</charseq>
+          </name>
+          <name NAME="Morant">
+              <charseq START="468" END="473">Morant</charseq>
+          </name>
+          <name NAME="Morant">
+              <charseq START="717" END="722">Morant</charseq>
+          </name>
+          <name NAME="Morant">
+              <charseq START="2350" END="2355">Morant</charseq>
+          </name>
+          <name NAME="Morant">
+              <charseq START="2483" END="2488">Morant</charseq>
+          </name>
+          <name NAME="Morant">
+              <charseq START="2680" END="2685">Morant</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E8-M206" ROLE="LOC">
+          <extent>
+              <charseq START="306" END="313">Brooklyn</charseq>
+          </extent>
+          <head>
+              <charseq START="306" END="313">Brooklyn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E8-M2702" ROLE="LOC">
+          <extent>
+              <charseq START="3628" END="3631">town</charseq>
+          </extent>
+          <head>
+              <charseq START="3628" END="3631">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brooklyn">
+              <charseq START="306" END="313">Brooklyn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E9-M203">
+          <extent>
+              <charseq START="282" END="313">her three-unit house in Brooklyn</charseq>
+          </extent>
+          <head>
+              <charseq START="297" END="301">house</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E10-M208">
+          <extent>
+              <charseq START="339" END="381">tenants renting the second and third floors</charseq>
+          </extent>
+          <head>
+              <charseq START="339" END="345">tenants</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E10-M212">
+          <extent>
+              <charseq START="388" END="392">their</charseq>
+          </extent>
+          <head>
+              <charseq START="388" END="392">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E11-M510">
+          <extent>
+              <charseq START="755" END="764">her family</charseq>
+          </extent>
+          <head>
+              <charseq START="759" END="764">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E12-M512">
+          <extent>
+              <charseq START="769" END="796">the ground floor of the home</charseq>
+          </extent>
+          <head>
+              <charseq START="780" END="784">floor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E12-M515">
+          <extent>
+              <charseq START="789" END="796">the home</charseq>
+          </extent>
+          <head>
+              <charseq START="793" END="796">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E12-M602">
+          <extent>
+              <charseq START="822" END="830">our house</charseq>
+          </extent>
+          <head>
+              <charseq START="826" END="830">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E12-M904">
+          <extent>
+              <charseq START="1142" END="1148">a house</charseq>
+          </extent>
+          <head>
+              <charseq START="1144" END="1148">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E12-M2002">
+          <extent>
+              <charseq START="2446" END="2454">her house</charseq>
+          </extent>
+          <head>
+              <charseq START="2450" END="2454">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E12-M2706">
+          <extent>
+              <charseq START="3659" END="3669">their house</charseq>
+          </extent>
+          <head>
+              <charseq START="3665" END="3669">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E12-M3404">
+          <extent>
+              <charseq START="4293" END="4299">a house</charseq>
+          </extent>
+          <head>
+              <charseq START="4295" END="4299">house</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E14-M700">
+          <extent>
+              <charseq START="847" END="852">Airbnb</charseq>
+          </extent>
+          <head>
+              <charseq START="847" END="852">Airbnb</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E14-M808">
+          <extent>
+              <charseq START="1079" END="1084">Airbnb</charseq>
+          </extent>
+          <head>
+              <charseq START="1079" END="1084">Airbnb</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E14-M2208">
+          <extent>
+              <charseq START="2809" END="2814">Airbnb</charseq>
+          </extent>
+          <head>
+              <charseq START="2809" END="2814">Airbnb</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E14-M2603">
+          <extent>
+              <charseq START="3526" END="3531">Airbnb</charseq>
+          </extent>
+          <head>
+              <charseq START="3526" END="3531">Airbnb</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E14-M2814">
+          <extent>
+              <charseq START="3814" END="3819">Airbnb</charseq>
+          </extent>
+          <head>
+              <charseq START="3814" END="3819">Airbnb</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E14-M2902">
+          <extent>
+              <charseq START="3835" END="3840">Airbnb</charseq>
+          </extent>
+          <head>
+              <charseq START="3835" END="3840">Airbnb</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Airbnb">
+              <charseq START="847" END="852">Airbnb</charseq>
+          </name>
+          <name NAME="Airbnb">
+              <charseq START="1079" END="1084">Airbnb</charseq>
+          </name>
+          <name NAME="Airbnb">
+              <charseq START="2809" END="2814">Airbnb</charseq>
+          </name>
+          <name NAME="Airbnb">
+              <charseq START="3526" END="3531">Airbnb</charseq>
+          </name>
+          <name NAME="Airbnb">
+              <charseq START="3814" END="3819">Airbnb</charseq>
+          </name>
+          <name NAME="Airbnb">
+              <charseq START="3835" END="3840">Airbnb</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E15-M702">
+          <extent>
+              <charseq START="868" END="877">Craigslist</charseq>
+          </extent>
+          <head>
+              <charseq START="868" END="877">Craigslist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E15-M3504">
+          <extent>
+              <charseq START="4378" END="4387">Craigslist</charseq>
+          </extent>
+          <head>
+              <charseq START="4378" END="4387">Craigslist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Craigslist">
+              <charseq START="868" END="877">Craigslist</charseq>
+          </name>
+          <name NAME="Craigslist">
+              <charseq START="4378" END="4387">Craigslist</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E16-M704">
+          <extent>
+              <charseq START="907" END="918">HomeAway.com</charseq>
+          </extent>
+          <head>
+              <charseq START="907" END="918">HomeAway.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="HomeAway.com">
+              <charseq START="907" END="918">HomeAway.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E17-M801">
+          <extent>
+              <charseq START="983" END="1014">Local entrepreneurs
+Brian Chesky</charseq>
+          </extent>
+          <head>
+              <charseq START="1003" END="1014">Brian Chesky</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E17-M802">
+          <extent>
+              <charseq START="989" END="1001">entrepreneurs</charseq>
+          </extent>
+          <head>
+              <charseq START="989" END="1001">entrepreneurs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E17-M2206">
+          <extent>
+              <charseq START="2809" END="2927">Airbnb&apos;s
+Chesky, who&apos;s received more than 300 e- mails from customers that were on the
+brink of losing their residences</charseq>
+          </extent>
+          <head>
+              <charseq START="2818" END="2823">Chesky</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E17-M2210">
+          <extent>
+              <charseq START="2826" END="2828">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2826" END="2828">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E17-M2601">
+          <extent>
+              <charseq START="3495" END="3500">Chesky</charseq>
+          </extent>
+          <head>
+              <charseq START="3495" END="3500">Chesky</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E17-M2605">
+          <extent>
+              <charseq START="3550" END="3553">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3550" END="3553">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E17-M2703">
+          <extent>
+              <charseq START="3634" END="3637">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3634" END="3637">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E17-M2707">
+          <extent>
+              <charseq START="3659" END="3663">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3659" END="3663">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E17-M2801">
+          <extent>
+              <charseq START="3697" END="3700">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3697" END="3700">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brian Chesky">
+              <charseq START="1003" END="1014">Brian Chesky</charseq>
+          </name>
+          <name NAME="Chesky">
+              <charseq START="2818" END="2823">Chesky</charseq>
+          </name>
+          <name NAME="Chesky">
+              <charseq START="3495" END="3500">Chesky</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E18-M804">
+          <extent>
+              <charseq START="1020" END="1029">Joe Gebbia</charseq>
+          </extent>
+          <head>
+              <charseq START="1020" END="1029">Joe Gebbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E18-M2602">
+          <extent>
+              <charseq START="3506" END="3511">Gebbia</charseq>
+          </extent>
+          <head>
+              <charseq START="3506" END="3511">Gebbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E18-M2809">
+          <extent>
+              <charseq START="3751" END="3756">Gebbia</charseq>
+          </extent>
+          <head>
+              <charseq START="3751" END="3756">Gebbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joe Gebbia">
+              <charseq START="1020" END="1029">Joe Gebbia</charseq>
+          </name>
+          <name NAME="Gebbia">
+              <charseq START="3506" END="3511">Gebbia</charseq>
+          </name>
+          <name NAME="Gebbia">
+              <charseq START="3751" END="3756">Gebbia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E19" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E19-M906">
+          <extent>
+              <charseq START="1151" END="1162">a spare
+room</charseq>
+          </extent>
+          <head>
+              <charseq START="1159" END="1162">room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E20-M1012">
+          <extent>
+              <charseq START="1308" END="1332">homeowners seeking relief</charseq>
+          </extent>
+          <head>
+              <charseq START="1308" END="1317">homeowners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E20-M1007">
+          <extent>
+              <charseq START="1254" END="1258">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1254" END="1258">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E20-M1200">
+          <extent>
+              <charseq START="1380" END="1402">rooms forces homeowners</charseq>
+          </extent>
+          <head>
+              <charseq START="1393" END="1402">homeowners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E21-M1203">
+          <extent>
+              <charseq START="1407" END="1417">share space</charseq>
+          </extent>
+          <head>
+              <charseq START="1413" END="1417">space</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E22-M1205">
+          <extent>
+              <charseq START="1424" END="1432">strangers</charseq>
+          </extent>
+          <head>
+              <charseq START="1424" END="1432">strangers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E23-M1208">
+          <extent>
+              <charseq START="1460" END="1479">the lodging industry</charseq>
+          </extent>
+          <head>
+              <charseq START="1472" END="1479">industry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E23-M1515">
+          <extent>
+              <charseq START="2021" END="2032">the industry</charseq>
+          </extent>
+          <head>
+              <charseq START="2025" END="2032">industry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E24-M1302" ROLE="GPE">
+          <extent>
+              <charseq START="1524" END="1531">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="1524" END="1531">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E24-M1310">
+          <extent>
+              <charseq START="1604" END="1616">New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="1604" END="1616">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E24-M1405" ROLE="LOC">
+          <extent>
+              <charseq START="1791" END="1803">New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="1791" END="1803">New York City</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E24-M2106" ROLE="GPE">
+          <extent>
+              <charseq START="2656" END="2663">New
+York</charseq>
+          </extent>
+          <head>
+              <charseq START="2656" END="2663">New
+York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York">
+              <charseq START="1524" END="1531">New York</charseq>
+          </name>
+          <name NAME="New York City">
+              <charseq START="1604" END="1616">New York City</charseq>
+          </name>
+          <name NAME="New York City">
+              <charseq START="1791" END="1803">New York City</charseq>
+          </name>
+          <name NAME="New
+York">
+              <charseq START="2656" END="2663">New
+York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E25-M1307">
+          <extent>
+              <charseq START="1579" END="1616">the Hotel Association of
+New York City</charseq>
+          </extent>
+          <head>
+              <charseq START="1583" END="1599">Hotel Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hotel Association">
+              <charseq START="1583" END="1599">Hotel Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E26-M1311">
+          <extent>
+              <charseq START="1622" END="1655">the Hotel and Motel Trades Council</charseq>
+          </extent>
+          <head>
+              <charseq START="1626" END="1655">Hotel and Motel Trades Council</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hotel and Motel Trades Council">
+              <charseq START="1626" END="1655">Hotel and Motel Trades Council</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E27-M1300">
+          <extent>
+              <charseq START="1524" END="1717">New York lawmakers passed a bill this month, backed by the Hotel Association of
+New York City and the Hotel and Motel Trades Council, banning rentals of less
+than 30 days in apartment buildings.</charseq>
+          </extent>
+          <head>
+              <charseq START="1533" END="1541">lawmakers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E28" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E28-M1317">
+          <extent>
+              <charseq START="1698" END="1716">apartment buildings</charseq>
+          </extent>
+          <head>
+              <charseq START="1708" END="1716">buildings</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E29-M1406">
+          <extent>
+              <charseq START="1809" END="1833">not individual homeowners</charseq>
+          </extent>
+          <head>
+              <charseq START="1824" END="1833">homeowners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E30-M1505">
+          <extent>
+              <charseq START="1899" END="1911">Joe McInerney</charseq>
+          </extent>
+          <head>
+              <charseq START="1899" END="1911">Joe McInerney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E30-M1506">
+          <extent>
+              <charseq START="1914" END="1998">chief executive officer of the American Hotel &amp;amp;
+Lodging Association in Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="1930" END="1936">officer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E30-M1508">
+          <extent>
+              <charseq START="1920" END="1928">executive</charseq>
+          </extent>
+          <head>
+              <charseq START="1920" END="1928">executive</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E30-M1700">
+          <extent>
+              <charseq START="2258" END="2266">McInerney</charseq>
+          </extent>
+          <head>
+              <charseq START="2258" END="2266">McInerney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Joe McInerney">
+              <charseq START="1899" END="1911">Joe McInerney</charseq>
+          </name>
+          <name NAME="McInerney">
+              <charseq START="2258" END="2266">McInerney</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E31" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E31-M1509">
+          <extent>
+              <charseq START="1941" END="1998">the American Hotel &amp;amp;
+Lodging Association in Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="1945" END="1984">American Hotel &amp;amp;
+Lodging Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Hotel &amp;amp;
+Lodging Association">
+              <charseq START="1945" END="1984">American Hotel &amp;amp;
+Lodging Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E33" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E33-M1806">
+          <extent>
+              <charseq START="2326" END="2329">area</charseq>
+          </extent>
+          <head>
+              <charseq START="2326" END="2329">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E33-M1807">
+          <extent>
+              <charseq START="2334" END="2337">area</charseq>
+          </extent>
+          <head>
+              <charseq START="2334" END="2337">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E34-M2010">
+          <extent>
+              <charseq START="2531" END="2541">Wells Fargo</charseq>
+          </extent>
+          <head>
+              <charseq START="2531" END="2541">Wells Fargo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E34-M2100">
+          <extent>
+              <charseq START="2589" END="2619">San Francisco-based Wells Fargo</charseq>
+          </extent>
+          <head>
+              <charseq START="2609" END="2619">Wells Fargo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wells Fargo">
+              <charseq START="2531" END="2541">Wells Fargo</charseq>
+          </name>
+          <name NAME="Wells Fargo">
+              <charseq START="2609" END="2619">Wells Fargo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E35" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E35-M2004">
+          <extent>
+              <charseq START="2473" END="2480">tourists</charseq>
+          </extent>
+          <head>
+              <charseq START="2473" END="2480">tourists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E36-M2008">
+          <extent>
+              <charseq START="2519" END="2528">her lender</charseq>
+          </extent>
+          <head>
+              <charseq START="2523" END="2528">lender</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E37" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E37-M2000">
+          <extent>
+              <charseq START="2438" END="2454">part of her house</charseq>
+          </extent>
+          <head>
+              <charseq START="2438" END="2441">part</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E38-M2109">
+          <extent>
+              <charseq START="2705" END="2725">spokesman Jason Menke</charseq>
+          </extent>
+          <head>
+              <charseq START="2715" END="2725">Jason Menke</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E38-M2110">
+          <extent>
+              <charseq START="2705" END="2713">spokesman</charseq>
+          </extent>
+          <head>
+              <charseq START="2705" END="2713">spokesman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jason Menke">
+              <charseq START="2715" END="2725">Jason Menke</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E39" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E39-M2205">
+          <extent>
+              <charseq START="2796" END="2800">homes</charseq>
+          </extent>
+          <head>
+              <charseq START="2796" END="2800">homes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E40-M2212">
+          <extent>
+              <charseq START="2869" END="2877">customers</charseq>
+          </extent>
+          <head>
+              <charseq START="2869" END="2877">customers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E40-M2216">
+          <extent>
+              <charseq START="2912" END="2916">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2912" END="2916">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E41" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E41-M2215">
+          <extent>
+              <charseq START="2912" END="2927">their residences</charseq>
+          </extent>
+          <head>
+              <charseq START="2918" END="2927">residences</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E42-M2301">
+          <extent>
+              <charseq START="2942" END="3021">so many people who just couldn&apos;t
+pay their mortgage and couldn&apos;t sell their home</charseq>
+          </extent>
+          <head>
+              <charseq START="2950" END="2955">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E42-M2303">
+          <extent>
+              <charseq START="2957" END="2959">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2957" END="2959">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E42-M2305">
+          <extent>
+              <charseq START="2979" END="2983">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2979" END="2983">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E42-M2307">
+          <extent>
+              <charseq START="3012" END="3016">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3012" END="3016">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E43" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E43-M2306">
+          <extent>
+              <charseq START="3012" END="3021">their home</charseq>
+          </extent>
+          <head>
+              <charseq START="3018" END="3021">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E44" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E44-M2414">
+          <extent>
+              <charseq START="3220" END="3264">the Office of the Comptroller of the Currency</charseq>
+          </extent>
+          <head>
+              <charseq START="3224" END="3264">Office of the Comptroller of the Currency</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Office of the Comptroller of the Currency">
+              <charseq START="3224" END="3264">Office of the Comptroller of the Currency</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E45" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E45-M2416">
+          <extent>
+              <charseq START="3270" END="3301">the Office of Thrift Supervision</charseq>
+          </extent>
+          <head>
+              <charseq START="3274" END="3301">Office of Thrift Supervision</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Office of Thrift Supervision">
+              <charseq START="3274" END="3301">Office of Thrift Supervision</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E46-M2509">
+          <extent>
+              <charseq START="3465" END="3478">RealtyTrac Inc</charseq>
+          </extent>
+          <head>
+              <charseq START="3465" END="3478">RealtyTrac Inc</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="RealtyTrac Inc">
+              <charseq START="3465" END="3478">RealtyTrac Inc</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E47-M2507">
+          <extent>
+              <charseq START="3433" END="3439">lenders</charseq>
+          </extent>
+          <head>
+              <charseq START="3433" END="3439">lenders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E48" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E48-M2607">
+          <extent>
+              <charseq START="3560" END="3568">roommates</charseq>
+          </extent>
+          <head>
+              <charseq START="3560" END="3568">roommates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E49-M2708">
+          <extent>
+              <charseq START="3674" END="3682">attendees</charseq>
+          </extent>
+          <head>
+              <charseq START="3674" END="3682">attendees</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E50-M2810">
+          <extent>
+              <charseq START="3769" END="3787">Nathan Blecharczyk,</charseq>
+          </extent>
+          <head>
+              <charseq START="3769" END="3786">Nathan Blecharczyk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E50-M2806">
+          <extent>
+              <charseq START="3744" END="3766">one of Gebbia&apos;s friends</charseq>
+          </extent>
+          <head>
+              <charseq START="3744" END="3746">one</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nathan Blecharczyk">
+              <charseq START="3769" END="3786">Nathan Blecharczyk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E51-M2808">
+          <extent>
+              <charseq START="3751" END="3766">Gebbia&apos;s friends</charseq>
+          </extent>
+          <head>
+              <charseq START="3760" END="3766">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E52-M2903">
+          <extent>
+              <charseq START="3853" END="3865">Lara Hawketts</charseq>
+          </extent>
+          <head>
+              <charseq START="3853" END="3865">Lara Hawketts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E52-M3000">
+          <extent>
+              <charseq START="3892" END="3899">Hawketts</charseq>
+          </extent>
+          <head>
+              <charseq START="3892" END="3899">Hawketts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3100">
+          <extent>
+              <charseq START="3984" END="3986">She</charseq>
+          </extent>
+          <head>
+              <charseq START="3984" END="3986">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3110">
+          <extent>
+              <charseq START="4052" END="4054">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4052" END="4054">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3304">
+          <extent>
+              <charseq START="4210" END="4212">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4210" END="4212">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3400">
+          <extent>
+              <charseq START="4260" END="4262">She</charseq>
+          </extent>
+          <head>
+              <charseq START="4260" END="4262">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E52-M3500">
+          <extent>
+              <charseq START="4342" END="4349">Hawketts</charseq>
+          </extent>
+          <head>
+              <charseq START="4342" END="4349">Hawketts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3600">
+          <extent>
+              <charseq START="4390" END="4392">She</charseq>
+          </extent>
+          <head>
+              <charseq START="4390" END="4392">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3703">
+          <extent>
+              <charseq START="4494" END="4496">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4494" END="4496">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3711">
+          <extent>
+              <charseq START="4553" END="4555">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4553" END="4555">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E52-M3807">
+          <extent>
+              <charseq START="4634" END="4642">Hawketts,</charseq>
+          </extent>
+          <head>
+              <charseq START="4634" END="4641">Hawketts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3809">
+          <extent>
+              <charseq START="4644" END="4646">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4644" END="4646">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3815">
+          <extent>
+              <charseq START="4680" END="4682">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4680" END="4682">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E52-M3817">
+          <extent>
+              <charseq START="4694" END="4696">she</charseq>
+          </extent>
+          <head>
+              <charseq START="4694" END="4696">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lara Hawketts">
+              <charseq START="3853" END="3865">Lara Hawketts</charseq>
+          </name>
+          <name NAME="Hawketts">
+              <charseq START="3892" END="3899">Hawketts</charseq>
+          </name>
+          <name NAME="Hawketts">
+              <charseq START="4342" END="4349">Hawketts</charseq>
+          </name>
+          <name NAME="Hawketts">
+              <charseq START="4634" END="4641">Hawketts</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E53" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E53-M2900">
+          <extent>
+              <charseq START="3835" END="3865">Airbnb users like Lara Hawketts</charseq>
+          </extent>
+          <head>
+              <charseq START="3842" END="3846">users</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E54" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E54-M3104" ROLE="LOC">
+          <extent>
+              <charseq START="4017" END="4020">D.C.</charseq>
+          </extent>
+          <head>
+              <charseq START="4017" END="4020">D.C.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="D.C.">
+              <charseq START="4017" END="4020">D.C.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E55" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E55-M3106" ROLE="LOC">
+          <extent>
+              <charseq START="4028" END="4034">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="4028" END="4034">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Britain">
+              <charseq START="4028" END="4034">Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E56-M3109">
+          <extent>
+              <charseq START="4052" END="4063">her employer</charseq>
+          </extent>
+          <head>
+              <charseq START="4056" END="4063">employer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E57" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E57-M3111">
+          <extent>
+              <charseq START="4066" END="4096">a
+technology consulting company</charseq>
+          </extent>
+          <head>
+              <charseq START="4090" END="4096">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100719.0047-E57-M3201">
+          <extent>
+              <charseq START="4117" END="4127">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="4121" END="4127">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E57-M3204">
+          <extent>
+              <charseq START="4151" END="4153">its</charseq>
+          </extent>
+          <head>
+              <charseq START="4151" END="4153">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100719.0047-E57-M3300">
+          <extent>
+              <charseq START="4202" END="4203">it</charseq>
+          </extent>
+          <head>
+              <charseq START="4202" END="4203">it</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100719.0047-E58" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100719.0047-E58-M3205" ROLE="GPE">
+          <extent>
+              <charseq START="4155" END="4158">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="4155" END="4158">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="4155" END="4158">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T0" VAL="2010">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T0-M1">
+            <extent>
+              <charseq START="315" END="331">earlier this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100719.0047-V1" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="WPB_ENG_20100719.0047-V1-M1">
+            <extent>
+              <charseq START="563" END="572">Airbnb.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="WPB_ENG_20100719.0047-V2" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100719.0047-V2-M1">
+            <extent>
+              <charseq START="619" END="624">$4,500</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T3" VAL="P1M">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T3-M1">
+            <extent>
+              <charseq START="626" END="632">a month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100719.0047-V4" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="WPB_ENG_20100719.0047-V4-M1">
+            <extent>
+              <charseq START="907" END="918">HomeAway.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T5" VAL="P26Y">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T5-M1">
+            <extent>
+              <charseq START="1221" END="1227">26-year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T6" VAL="P5Y">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T6-M1">
+            <extent>
+              <charseq START="1260" END="1282">fifth year of
+increases</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T7" VAL="2010-07">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T7-M1">
+            <extent>
+              <charseq START="1557" END="1566">this month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T8" VAL="P30D" MOD="LESS_THAN">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T8-M1">
+            <extent>
+              <charseq START="1677" END="1693">less
+than 30 days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T9" VAL="P3M" MOD="MORE_THAN">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T9-M1">
+            <extent>
+              <charseq START="2558" END="2586">more than three months
+behind</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T10" VAL="2010-Q1">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T10-M1">
+            <extent>
+              <charseq START="3078" END="3094">the first quarter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T11" VAL="P1Y">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T11-M1">
+            <extent>
+              <charseq START="3199" END="3204">a year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T12" VAL="2010-Q2">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T12-M1">
+            <extent>
+              <charseq START="3346" END="3363">the
+second quarter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T13" VAL="2010">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T13-M1">
+            <extent>
+              <charseq START="3441" END="3449">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T14" VAL="2007-10">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T14-M1">
+            <extent>
+              <charseq START="3536" END="3547">October 2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T15" VAL="2009">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T15-M1">
+            <extent>
+              <charseq START="3973" END="3981">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T16" VAL="2008" MOD="END">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T16-M1">
+            <extent>
+              <charseq START="4039" END="4047">late 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T17" VAL="P2M">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T17-M1">
+            <extent>
+              <charseq START="4099" END="4114">Two months later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T18" VAL="P6M">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T18-M1">
+            <extent>
+              <charseq START="4214" END="4236">six months
+of severance</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100719.0047-V19" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100719.0047-V19-M1">
+            <extent>
+              <charseq START="4308" END="4313">$2,700</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T20">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T20-M1">
+            <extent>
+              <charseq START="4315" END="4321">monthly</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T21" VAL="PRESENT_REF" ANCHOR_VAL="2010-07-19" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T21-M1">
+            <extent>
+              <charseq START="4394" END="4404">immediately</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T22" VAL="PXD">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T22-M1">
+            <extent>
+              <charseq START="4434" END="4437">days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100719.0047-V23" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100719.0047-V23-M1">
+            <extent>
+              <charseq START="4474" END="4483">about $115</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T24" VAL="2010-07-19TNI">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T24-M1">
+            <extent>
+              <charseq START="4485" END="4491">a night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100719.0047-V25" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100719.0047-V25-M1">
+            <extent>
+              <charseq START="4507" END="4523">more than $13,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T26" VAL="2010">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T26-M1">
+            <extent>
+              <charseq START="4525" END="4533">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T27" VAL="PRESENT_REF" ANCHOR_VAL="2010-07-19" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T27-M1">
+            <extent>
+              <charseq START="4614" END="4616">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T28" VAL="2011">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T28-M1">
+            <extent>
+              <charseq START="4622" END="4625">2011</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T29" VAL="PAST_REF" ANCHOR_VAL="2010-07-19" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T29-M1">
+            <extent>
+              <charseq START="4705" END="4714">previously</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100719.0047-T30">
+        <timex2_mention ID="WPB_ENG_20100719.0047-T30-M1">
+            <extent>
+              <charseq START="4762" END="4769">the time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="WPB_ENG_20100719.0047-R0" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E0" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R0-M0">
+          <extent>
+              <charseq START="93" END="97">Dodge</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E1-M6" ROLE="Arg-1">
+            <extent>
+              <charseq START="93" END="97">Dodge</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E0-M5" ROLE="Arg-2">
+            <extent>
+              <charseq START="93" END="109">Dodge Foreclosure</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E9" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R1-M200">
+          <extent>
+              <charseq START="282" END="284">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E7-M205" ROLE="Arg-1">
+            <extent>
+              <charseq START="282" END="284">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E9-M203" ROLE="Arg-2">
+            <extent>
+              <charseq START="282" END="313">her three-unit house in Brooklyn</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E8" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R2-M201">
+          <extent>
+              <charseq START="282" END="313">her three-unit house in Brooklyn</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E9-M203" ROLE="Arg-1">
+            <extent>
+              <charseq START="282" END="313">her three-unit house in Brooklyn</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E8-M206" ROLE="Arg-2">
+            <extent>
+              <charseq START="306" END="313">Brooklyn</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R3" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E11" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R3-M500">
+          <extent>
+              <charseq START="755" END="757">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E7-M511" ROLE="Arg-1">
+            <extent>
+              <charseq START="755" END="757">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E11-M510" ROLE="Arg-2">
+            <extent>
+              <charseq START="755" END="764">her family</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E24" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R5-M1300">
+          <extent>
+              <charseq START="1524" END="1717">New York lawmakers passed a bill this month, backed by the Hotel Association of
+New York City and the Hotel and Motel Trades Council, banning rentals of less
+than 30 days in apartment buildings.</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E27-M1300" ROLE="Arg-1">
+            <extent>
+              <charseq START="1524" END="1717">New York lawmakers passed a bill this month, backed by the Hotel Association of
+New York City and the Hotel and Motel Trades Council, banning rentals of less
+than 30 days in apartment buildings.</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E24-M1302" ROLE="Arg-2">
+            <extent>
+              <charseq START="1524" END="1531">New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E24" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R6-M1301">
+          <extent>
+              <charseq START="1579" END="1616">the Hotel Association of
+New York City</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E25-M1307" ROLE="Arg-1">
+            <extent>
+              <charseq START="1579" END="1616">the Hotel Association of
+New York City</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E24-M1310" ROLE="Arg-2">
+            <extent>
+              <charseq START="1604" END="1616">New York City</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E30" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E31" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R7-M1500">
+          <extent>
+              <charseq START="1914" END="1998">chief executive officer of the American Hotel &amp;amp;
+Lodging Association in Washington</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E30-M1506" ROLE="Arg-1">
+            <extent>
+              <charseq START="1914" END="1998">chief executive officer of the American Hotel &amp;amp;
+Lodging Association in Washington</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E31-M1509" ROLE="Arg-2">
+            <extent>
+              <charseq START="1941" END="1998">the American Hotel &amp;amp;
+Lodging Association in Washington</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R8" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E6" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R8-M1501">
+          <extent>
+              <charseq START="1941" END="1998">the American Hotel &amp;amp;
+Lodging Association in Washington</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E31-M1509" ROLE="Arg-1">
+            <extent>
+              <charseq START="1941" END="1998">the American Hotel &amp;amp;
+Lodging Association in Washington</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E6-M1512" ROLE="Arg-2">
+            <extent>
+              <charseq START="1989" END="1998">Washington</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R9" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E12" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R9-M2000">
+          <extent>
+              <charseq START="2438" END="2454">part of her house</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E37-M2000" ROLE="Arg-1">
+            <extent>
+              <charseq START="2438" END="2454">part of her house</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E12-M2002" ROLE="Arg-2">
+            <extent>
+              <charseq START="2446" END="2454">her house</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E14" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R10-M2200">
+          <extent>
+              <charseq START="2809" END="2927">Airbnb&apos;s
+Chesky, who&apos;s received more than 300 e- mails from customers that were on the
+brink of losing their residences</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E17-M2206" ROLE="Arg-1">
+            <extent>
+              <charseq START="2809" END="2927">Airbnb&apos;s
+Chesky, who&apos;s received more than 300 e- mails from customers that were on the
+brink of losing their residences</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E14-M2208" ROLE="Arg-2">
+            <extent>
+              <charseq START="2809" END="2814">Airbnb</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R11" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E41" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R11-M2201">
+          <extent>
+              <charseq START="2912" END="2916">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E40-M2216" ROLE="Arg-1">
+            <extent>
+              <charseq START="2912" END="2916">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E41-M2215" ROLE="Arg-2">
+            <extent>
+              <charseq START="2912" END="2927">their residences</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R12" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E43" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R12-M2300">
+          <extent>
+              <charseq START="3012" END="3016">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E42-M2307" ROLE="Arg-1">
+            <extent>
+              <charseq START="3012" END="3016">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E43-M2306" ROLE="Arg-2">
+            <extent>
+              <charseq START="3012" END="3021">their home</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R13" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E12" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R13-M2700">
+          <extent>
+              <charseq START="3659" END="3663">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E17-M2707" ROLE="Arg-1">
+            <extent>
+              <charseq START="3659" END="3663">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E12-M2706" ROLE="Arg-2">
+            <extent>
+              <charseq START="3659" END="3669">their house</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R14" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E51" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R14-M2800">
+          <extent>
+              <charseq START="3751" END="3756">Gebbia</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E18-M2809" ROLE="Arg-1">
+            <extent>
+              <charseq START="3751" END="3756">Gebbia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E51-M2808" ROLE="Arg-2">
+            <extent>
+              <charseq START="3751" END="3766">Gebbia&apos;s friends</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R15" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E53" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E14" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R15-M2900">
+          <extent>
+              <charseq START="3835" END="3865">Airbnb users like Lara Hawketts</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E53-M2900" ROLE="Arg-1">
+            <extent>
+              <charseq START="3835" END="3865">Airbnb users like Lara Hawketts</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E14-M2902" ROLE="Arg-2">
+            <extent>
+              <charseq START="3835" END="3840">Airbnb</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R16" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E52" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E6" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R16-M3100">
+          <extent>
+              <charseq START="3984" END="3986">She</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E52-M3100" ROLE="Arg-1">
+            <extent>
+              <charseq START="3984" END="3986">She</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E6-M3102" ROLE="Arg-2">
+            <extent>
+              <charseq START="4005" END="4021">Washington, D.C.,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100719.0047-R17" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100719.0047-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100719.0047-E54" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100719.0047-R17-M3101">
+          <extent>
+              <charseq START="4005" END="4021">Washington, D.C.,</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E6-M3102" ROLE="Arg-1">
+            <extent>
+              <charseq START="4005" END="4021">Washington, D.C.,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100719.0047-E54-M3104" ROLE="Arg-2">
+            <extent>
+              <charseq START="4017" END="4020">D.C.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

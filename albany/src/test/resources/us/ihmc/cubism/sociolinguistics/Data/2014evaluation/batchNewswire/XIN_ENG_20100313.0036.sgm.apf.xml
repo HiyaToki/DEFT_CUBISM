@@ -1,0 +1,692 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100313.0036">
+  <document DOCID="XIN_ENG_20100313.0036">
+
+    <entity ID="XIN_ENG_20100313.0036-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E0-M0">
+          <extent>
+              <charseq START="58" END="65">Malaysia</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="65">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E0-M300" ROLE="ORG">
+          <extent>
+              <charseq START="209" END="216">Malaysia</charseq>
+          </extent>
+          <head>
+              <charseq START="209" END="216">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E0-M401" ROLE="GPE">
+          <extent>
+              <charseq START="371" END="379">Malaysian</charseq>
+          </extent>
+          <head>
+              <charseq START="371" END="379">Malaysian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E0-M408">
+          <extent>
+              <charseq START="459" END="466">Malaysia</charseq>
+          </extent>
+          <head>
+              <charseq START="459" END="466">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E0-M501">
+          <extent>
+              <charseq START="600" END="607">Malaysia</charseq>
+          </extent>
+          <head>
+              <charseq START="600" END="607">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Malaysia">
+              <charseq START="58" END="65">Malaysia</charseq>
+          </name>
+          <name NAME="Malaysia">
+              <charseq START="209" END="216">Malaysia</charseq>
+          </name>
+          <name NAME="Malaysian">
+              <charseq START="371" END="379">Malaysian</charseq>
+          </name>
+          <name NAME="Malaysia">
+              <charseq START="459" END="466">Malaysia</charseq>
+          </name>
+          <name NAME="Malaysia">
+              <charseq START="600" END="607">Malaysia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E1-M1">
+          <extent>
+              <charseq START="73" END="78">Sweden</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="78">Sweden</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E1-M302" ROLE="GPE">
+          <extent>
+              <charseq START="232" END="238">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="232" END="238">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E1-M306" ROLE="GPE">
+          <extent>
+              <charseq START="282" END="288">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="282" END="288">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E1-M301" ROLE="ORG">
+          <extent>
+              <charseq START="228" END="249">the Swedish government</charseq>
+          </extent>
+          <head>
+              <charseq START="240" END="249">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E1-M704" ROLE="GPE">
+          <extent>
+              <charseq START="897" END="903">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="897" END="903">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E1-M811" ROLE="GPE">
+          <extent>
+              <charseq START="1121" END="1127">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="1121" END="1127">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E1-M818" ROLE="GPE">
+          <extent>
+              <charseq START="1205" END="1211">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="1205" END="1211">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E1-M1002" ROLE="GPE">
+          <extent>
+              <charseq START="1291" END="1297">Swedish</charseq>
+          </extent>
+          <head>
+              <charseq START="1291" END="1297">Swedish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sweden">
+              <charseq START="73" END="78">Sweden</charseq>
+          </name>
+          <name NAME="Swedish">
+              <charseq START="232" END="238">Swedish</charseq>
+          </name>
+          <name NAME="Swedish">
+              <charseq START="282" END="288">Swedish</charseq>
+          </name>
+          <name NAME="Swedish">
+              <charseq START="897" END="903">Swedish</charseq>
+          </name>
+          <name NAME="Swedish">
+              <charseq START="1121" END="1127">Swedish</charseq>
+          </name>
+          <name NAME="Swedish">
+              <charseq START="1205" END="1211">Swedish</charseq>
+          </name>
+          <name NAME="Swedish">
+              <charseq START="1291" END="1297">Swedish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E2-M5">
+          <extent>
+              <charseq START="123" END="129">Prophet</charseq>
+          </extent>
+          <head>
+              <charseq START="123" END="129">Prophet</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="154" END="165">KUALA LUMPUR</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="165">KUALA LUMPUR</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="KUALA LUMPUR">
+              <charseq START="154" END="165">KUALA LUMPUR</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E4-M200">
+          <extent>
+              <charseq START="178" END="183">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="178" END="183">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="178" END="183">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E5-M309">
+          <extent>
+              <charseq START="334" END="349">Prophet Muhammad</charseq>
+          </extent>
+          <head>
+              <charseq START="342" END="349">Muhammad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E5-M310">
+          <extent>
+              <charseq START="334" END="340">Prophet</charseq>
+          </extent>
+          <head>
+              <charseq START="334" END="340">Prophet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E5-M804">
+          <extent>
+              <charseq START="1063" END="1078">Prophet Muhammad</charseq>
+          </extent>
+          <head>
+              <charseq START="1063" END="1078">Prophet Muhammad</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muhammad">
+              <charseq START="342" END="349">Muhammad</charseq>
+          </name>
+          <name NAME="Prophet Muhammad">
+              <charseq START="1063" END="1078">Prophet Muhammad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E6-M305">
+          <extent>
+              <charseq START="276" END="299">three Swedish
+newspapers</charseq>
+          </extent>
+          <head>
+              <charseq START="290" END="299">newspapers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E7-M400">
+          <extent>
+              <charseq START="371" END="408">Malaysian foreign minister Anifah Aman</charseq>
+          </extent>
+          <head>
+              <charseq START="398" END="408">Anifah Aman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E7-M402">
+          <extent>
+              <charseq START="389" END="396">minister</charseq>
+          </extent>
+          <head>
+              <charseq START="389" END="396">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E7-M500">
+          <extent>
+              <charseq START="588" END="593">Anifah</charseq>
+          </extent>
+          <head>
+              <charseq START="588" END="593">Anifah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100313.0036-E7-M600">
+          <extent>
+              <charseq START="746" END="747">He</charseq>
+          </extent>
+          <head>
+              <charseq START="746" END="747">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100313.0036-E7-M701">
+          <extent>
+              <charseq START="884" END="885">he</charseq>
+          </extent>
+          <head>
+              <charseq START="884" END="885">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anifah Aman">
+              <charseq START="398" END="408">Anifah Aman</charseq>
+          </name>
+          <name NAME="Anifah">
+              <charseq START="588" END="593">Anifah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E8-M414">
+          <extent>
+              <charseq START="550" END="557">The Star</charseq>
+          </extent>
+          <head>
+              <charseq START="550" END="557">The Star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E8-M800">
+          <extent>
+              <charseq START="1027" END="1034">The Star</charseq>
+          </extent>
+          <head>
+              <charseq START="1027" END="1034">The Star</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Star">
+              <charseq START="550" END="557">The Star</charseq>
+          </name>
+          <name NAME="The Star">
+              <charseq START="1027" END="1034">The Star</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E9" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E9-M413">
+          <extent>
+              <charseq START="533" END="547">local newspaper</charseq>
+          </extent>
+          <head>
+              <charseq START="539" END="547">newspaper</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E10-M507">
+          <extent>
+              <charseq START="686" END="691">Muslim</charseq>
+          </extent>
+          <head>
+              <charseq START="686" END="691">Muslim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E10-M1015">
+          <extent>
+              <charseq START="1412" END="1417">Muslim</charseq>
+          </extent>
+          <head>
+              <charseq START="1412" END="1417">Muslim</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muslim">
+              <charseq START="686" END="691">Muslim</charseq>
+          </name>
+          <name NAME="Muslim">
+              <charseq START="1412" END="1417">Muslim</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E11" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E11-M506">
+          <extent>
+              <charseq START="682" END="697">the Muslim world</charseq>
+          </extent>
+          <head>
+              <charseq START="693" END="697">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E12-M703">
+          <extent>
+              <charseq START="893" END="915">the Swedish authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="905" END="915">authorities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E13-M810">
+          <extent>
+              <charseq START="1121" END="1145">Swedish artist Lars Vilks</charseq>
+          </extent>
+          <head>
+              <charseq START="1136" END="1145">Lars Vilks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E13-M812">
+          <extent>
+              <charseq START="1129" END="1134">artist</charseq>
+          </extent>
+          <head>
+              <charseq START="1129" END="1134">artist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100313.0036-E13-M1018">
+          <extent>
+              <charseq START="1455" END="1459">Vilks</charseq>
+          </extent>
+          <head>
+              <charseq START="1455" END="1459">Vilks</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lars Vilks">
+              <charseq START="1136" END="1145">Lars Vilks</charseq>
+          </name>
+          <name NAME="Vilks">
+              <charseq START="1455" END="1459">Vilks</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E14-M817">
+          <extent>
+              <charseq START="1203" END="1236">a Swedish cultural heritage center</charseq>
+          </extent>
+          <head>
+              <charseq START="1231" END="1236">center</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E15" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E15-M1000">
+          <extent>
+              <charseq START="1289" END="1460">A Swedish newspaper printed the drawing in 2007, with an editorial defending
+freedom of expression, leading to protests by Muslim countries and death threats
+against Vilks,</charseq>
+          </extent>
+          <head>
+              <charseq START="1299" END="1307">newspaper</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E15-M1019">
+          <extent>
+              <charseq START="1467" END="1475">the daily</charseq>
+          </extent>
+          <head>
+              <charseq START="1471" END="1475">daily</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100313.0036-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100313.0036-E16-M1014" ROLE="LOC">
+          <extent>
+              <charseq START="1412" END="1427">Muslim countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1419" END="1427">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100313.0036-T0" VAL="2010-03-14">
+        <timex2_mention ID="XIN_ENG_20100313.0036-T0-M1">
+            <extent>
+              <charseq START="168" END="175">March 14</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100313.0036-T1" VAL="2010-W10">
+        <timex2_mention ID="XIN_ENG_20100313.0036-T1-M1">
+            <extent>
+              <charseq START="351" END="359">last week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100313.0036-T2" VAL="2010-03-13">
+        <timex2_mention ID="XIN_ENG_20100313.0036-T2-M1">
+            <extent>
+              <charseq START="445" END="452">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100313.0036-T3" VAL="2010-03-10">
+        <timex2_mention ID="XIN_ENG_20100313.0036-T3-M1">
+            <extent>
+              <charseq START="523" END="530">March 10</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100313.0036-T4" VAL="2010-03-07">
+        <timex2_mention ID="XIN_ENG_20100313.0036-T4-M1">
+            <extent>
+              <charseq START="571" END="576">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100313.0036-T5" VAL="FUTURE_REF" ANCHOR_VAL="2010-03-13" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="XIN_ENG_20100313.0036-T5-M1">
+            <extent>
+              <charseq START="993" END="1002">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100313.0036-T6" VAL="2007">
+        <timex2_mention ID="XIN_ENG_20100313.0036-T6-M1">
+            <extent>
+              <charseq START="1332" END="1335">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100313.0036-T7">
+        <timex2_mention ID="XIN_ENG_20100313.0036-T7-M1">
+            <extent>
+              <charseq START="1471" END="1475">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100313.0036-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100313.0036-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100313.0036-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100313.0036-R0-M300">
+          <extent>
+              <charseq START="276" END="299">three Swedish
+newspapers</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E6-M305" ROLE="Arg-1">
+            <extent>
+              <charseq START="276" END="299">three Swedish
+newspapers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E1-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="282" END="288">Swedish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100313.0036-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100313.0036-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100313.0036-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100313.0036-R1-M400">
+          <extent>
+              <charseq START="389" END="396">minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E7-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="389" END="396">minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E0-M401" ROLE="Arg-2">
+            <extent>
+              <charseq START="371" END="379">Malaysian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100313.0036-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100313.0036-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100313.0036-E11" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100313.0036-R2-M500">
+          <extent>
+              <charseq START="686" END="691">Muslim</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E10-M507" ROLE="Arg-1">
+            <extent>
+              <charseq START="686" END="691">Muslim</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E11-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="682" END="697">the Muslim world</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100313.0036-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100313.0036-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100313.0036-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100313.0036-R3-M700">
+          <extent>
+              <charseq START="893" END="915">the Swedish authorities</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E12-M703" ROLE="Arg-1">
+            <extent>
+              <charseq START="893" END="915">the Swedish authorities</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E1-M704" ROLE="Arg-2">
+            <extent>
+              <charseq START="897" END="903">Swedish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100313.0036-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100313.0036-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100313.0036-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100313.0036-R4-M800">
+          <extent>
+              <charseq START="1129" END="1134">artist</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E13-M812" ROLE="Arg-1">
+            <extent>
+              <charseq START="1129" END="1134">artist</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E1-M811" ROLE="Arg-2">
+            <extent>
+              <charseq START="1121" END="1127">Swedish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100313.0036-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100313.0036-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100313.0036-E14" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100313.0036-R5-M801">
+          <extent>
+              <charseq START="1205" END="1211">Swedish</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E1-M818" ROLE="Arg-1">
+            <extent>
+              <charseq START="1205" END="1211">Swedish</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E14-M817" ROLE="Arg-2">
+            <extent>
+              <charseq START="1203" END="1236">a Swedish cultural heritage center</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100313.0036-R6" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100313.0036-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100313.0036-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100313.0036-R6-M1000">
+          <extent>
+              <charseq START="1289" END="1460">A Swedish newspaper printed the drawing in 2007, with an editorial defending
+freedom of expression, leading to protests by Muslim countries and death threats
+against Vilks,</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E15-M1000" ROLE="Arg-1">
+            <extent>
+              <charseq START="1289" END="1460">A Swedish newspaper printed the drawing in 2007, with an editorial defending
+freedom of expression, leading to protests by Muslim countries and death threats
+against Vilks,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E1-M1002" ROLE="Arg-2">
+            <extent>
+              <charseq START="1291" END="1297">Swedish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100313.0036-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100313.0036-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100313.0036-E16" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100313.0036-R7-M1001">
+          <extent>
+              <charseq START="1412" END="1417">Muslim</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E10-M1015" ROLE="Arg-1">
+            <extent>
+              <charseq START="1412" END="1417">Muslim</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100313.0036-E16-M1014" ROLE="Arg-2">
+            <extent>
+              <charseq START="1412" END="1427">Muslim countries</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

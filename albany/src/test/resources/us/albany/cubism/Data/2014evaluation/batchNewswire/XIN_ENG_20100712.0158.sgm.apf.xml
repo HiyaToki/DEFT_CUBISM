@@ -1,0 +1,416 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100712.0158">
+  <document DOCID="XIN_ENG_20100712.0158">
+
+    <entity ID="XIN_ENG_20100712.0158-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E0-M100">
+          <extent>
+              <charseq START="66" END="72">Somalia</charseq>
+          </extent>
+          <head>
+              <charseq START="66" END="72">Somalia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E0-M400">
+          <extent>
+              <charseq START="203" END="219">Somalia on Monday</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="209">Somalia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E0-M601" ROLE="GPE">
+          <extent>
+              <charseq START="432" END="439">Somalian</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="439">Somalian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E0-M711" ROLE="GPE">
+          <extent>
+              <charseq START="731" END="736">Somali</charseq>
+          </extent>
+          <head>
+              <charseq START="731" END="736">Somali</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E0-M808" ROLE="GPE">
+          <extent>
+              <charseq START="840" END="846">somalia</charseq>
+          </extent>
+          <head>
+              <charseq START="840" END="846">somalia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Somalia">
+              <charseq START="66" END="72">Somalia</charseq>
+          </name>
+          <name NAME="Somalia">
+              <charseq START="203" END="209">Somalia</charseq>
+          </name>
+          <name NAME="Somalian">
+              <charseq START="432" END="439">Somalian</charseq>
+          </name>
+          <name NAME="Somali">
+              <charseq START="731" END="736">Somali</charseq>
+          </name>
+          <name NAME="somalia">
+              <charseq START="840" END="846">somalia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100712.0158-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E1-M105" ROLE="GPE">
+          <extent>
+              <charseq START="98" END="104">Ugandan</charseq>
+          </extent>
+          <head>
+              <charseq START="98" END="104">Ugandan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E1-M409">
+          <extent>
+              <charseq START="259" END="265">Ugandan</charseq>
+          </extent>
+          <head>
+              <charseq START="259" END="265">Ugandan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E1-M809" ROLE="GPE">
+          <extent>
+              <charseq START="852" END="857">Uganda</charseq>
+          </extent>
+          <head>
+              <charseq START="852" END="857">Uganda</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ugandan">
+              <charseq START="98" END="104">Ugandan</charseq>
+          </name>
+          <name NAME="Ugandan">
+              <charseq START="259" END="265">Ugandan</charseq>
+          </name>
+          <name NAME="Uganda">
+              <charseq START="852" END="857">Uganda</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100712.0158-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100712.0158-E2-M104" ROLE="LOC">
+          <extent>
+              <charseq START="98" END="112">Ugandan capital</charseq>
+          </extent>
+          <head>
+              <charseq START="106" END="112">capital</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100712.0158-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E3-M201" ROLE="LOC">
+          <extent>
+              <charseq START="151" END="159">MOGADISHU</charseq>
+          </extent>
+          <head>
+              <charseq START="151" END="159">MOGADISHU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MOGADISHU">
+              <charseq START="151" END="159">MOGADISHU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100712.0158-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E4-M300">
+          <extent>
+              <charseq START="172" END="177">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="172" END="177">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="172" END="177">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100712.0158-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E5-M407" ROLE="LOC">
+          <extent>
+              <charseq START="259" END="282">Ugandan capital Kampala,</charseq>
+          </extent>
+          <head>
+              <charseq START="275" END="281">Kampala</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100712.0158-E5-M410">
+          <extent>
+              <charseq START="267" END="273">capital</charseq>
+          </extent>
+          <head>
+              <charseq START="267" END="273">capital</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E5-M502">
+          <extent>
+              <charseq START="346" END="352">Kampala</charseq>
+          </extent>
+          <head>
+              <charseq START="346" END="352">Kampala</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kampala">
+              <charseq START="275" END="281">Kampala</charseq>
+          </name>
+          <name NAME="Kampala">
+              <charseq START="346" END="352">Kampala</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100712.0158-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100712.0158-E6-M504">
+          <extent>
+              <charseq START="378" END="395">at least 64 people</charseq>
+          </extent>
+          <head>
+              <charseq START="390" END="395">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100712.0158-E6-M606">
+          <extent>
+              <charseq START="519" END="529">the victims</charseq>
+          </extent>
+          <head>
+              <charseq START="523" END="529">victims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100712.0158-E6-M615">
+          <extent>
+              <charseq START="604" END="619">the perpetrators</charseq>
+          </extent>
+          <head>
+              <charseq START="608" END="619">perpetrators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100712.0158-E6-M805">
+          <extent>
+              <charseq START="825" END="857">the peoples of
+somalia and Uganda</charseq>
+          </extent>
+          <head>
+              <charseq START="829" END="835">peoples</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100712.0158-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100712.0158-E7-M505">
+          <extent>
+              <charseq START="410" END="420">many others</charseq>
+          </extent>
+          <head>
+              <charseq START="415" END="420">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100712.0158-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100712.0158-E8-M600">
+          <extent>
+              <charseq START="432" END="469">Somalian President Sharif Sheikh Ahmed</charseq>
+          </extent>
+          <head>
+              <charseq START="451" END="469">Sharif Sheikh Ahmed</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100712.0158-E8-M602">
+          <extent>
+              <charseq START="441" END="449">President</charseq>
+          </extent>
+          <head>
+              <charseq START="441" END="449">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sharif Sheikh Ahmed">
+              <charseq START="451" END="469">Sharif Sheikh Ahmed</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100712.0158-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100712.0158-E9-M703">
+          <extent>
+              <charseq START="672" END="687">those who do not</charseq>
+          </extent>
+          <head>
+              <charseq START="672" END="676">those</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100712.0158-E9-M710">
+          <extent>
+              <charseq START="727" END="746">the Somali president</charseq>
+          </extent>
+          <head>
+              <charseq START="738" END="746">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100712.0158-E9-M705">
+          <extent>
+              <charseq START="678" END="680">who</charseq>
+          </extent>
+          <head>
+              <charseq START="678" END="680">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100712.0158-E9-M810">
+          <extent>
+              <charseq START="860" END="872">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="864" END="872">president</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100712.0158-T0" VAL="2010-07-12">
+        <timex2_mention ID="XIN_ENG_20100712.0158-T0-M1">
+            <extent>
+              <charseq START="163" END="169">July 12</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100712.0158-T1" VAL="2010-07-12">
+        <timex2_mention ID="XIN_ENG_20100712.0158-T1-M1">
+            <extent>
+              <charseq START="214" END="219">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100712.0158-T2" VAL="2010-07-11" MOD="END">
+        <timex2_mention ID="XIN_ENG_20100712.0158-T2-M1">
+            <extent>
+              <charseq START="354" END="367">late on Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100712.0158-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100712.0158-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100712.0158-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100712.0158-R0-M100">
+          <extent>
+              <charseq START="98" END="112">Ugandan capital</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E2-M104" ROLE="Arg-1">
+            <extent>
+              <charseq START="98" END="112">Ugandan capital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E1-M105" ROLE="Arg-2">
+            <extent>
+              <charseq START="98" END="104">Ugandan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100712.0158-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100712.0158-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100712.0158-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100712.0158-R1-M600">
+          <extent>
+              <charseq START="441" END="449">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E8-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="441" END="449">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E0-M601" ROLE="Arg-2">
+            <extent>
+              <charseq START="432" END="439">Somalian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100712.0158-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100712.0158-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100712.0158-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100712.0158-R2-M700">
+          <extent>
+              <charseq START="727" END="746">the Somali president</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E9-M710" ROLE="Arg-1">
+            <extent>
+              <charseq START="727" END="746">the Somali president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E0-M711" ROLE="Arg-2">
+            <extent>
+              <charseq START="731" END="736">Somali</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100712.0158-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100712.0158-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100712.0158-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100712.0158-R3-M800">
+          <extent>
+              <charseq START="825" END="857">the peoples of
+somalia and Uganda</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E6-M805" ROLE="Arg-1">
+            <extent>
+              <charseq START="825" END="857">the peoples of
+somalia and Uganda</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E0-M808" ROLE="Arg-2">
+            <extent>
+              <charseq START="840" END="846">somalia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100712.0158-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100712.0158-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100712.0158-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100712.0158-R4-M801">
+          <extent>
+              <charseq START="825" END="857">the peoples of
+somalia and Uganda</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E6-M805" ROLE="Arg-1">
+            <extent>
+              <charseq START="825" END="857">the peoples of
+somalia and Uganda</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100712.0158-E1-M809" ROLE="Arg-2">
+            <extent>
+              <charseq START="852" END="857">Uganda</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="2bdb9d86091c6f412ffa767bdc749be9.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-264" length="2" offset="281">
+        <text>He</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="9" offset="14">Spendless</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-270" length="2" offset="329">
+        <text>He</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="9" offset="14">Spendless</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1130" length="8" offset="1322">
+        <text>children</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="9" offset="14">Spendless</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-774" length="10" offset="1504">
+        <text>the school</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="9" offset="14">Spendless</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-420" length="2" offset="2821">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-210" length="9" offset="2764">Spendless</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1181" length="11" offset="3678">
+        <text>many people</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-654" length="9" offset="3336">Artytarty</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1500" length="22" offset="3805">
+        <text>a great player/ singer</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-654" length="9" offset="3336">Artytarty</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

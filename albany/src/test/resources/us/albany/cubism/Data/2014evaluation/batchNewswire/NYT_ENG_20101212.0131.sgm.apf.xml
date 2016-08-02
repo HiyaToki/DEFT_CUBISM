@@ -1,0 +1,1568 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20101212.0131">
+  <document DOCID="NYT_ENG_20101212.0131">
+
+    <entity ID="NYT_ENG_20101212.0131-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E0-M201">
+          <extent>
+              <charseq START="148" END="185">Florida athletic director Jeremy
+Foley</charseq>
+          </extent>
+          <head>
+              <charseq START="174" END="185">Jeremy
+Foley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E0-M203">
+          <extent>
+              <charseq START="165" END="172">director</charseq>
+          </extent>
+          <head>
+              <charseq START="165" END="172">director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E0-M221">
+          <extent>
+              <charseq START="373" END="374">he</charseq>
+          </extent>
+          <head>
+              <charseq START="373" END="374">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E0-M1502">
+          <extent>
+              <charseq START="1318" END="1329">Jeremy Foley</charseq>
+          </extent>
+          <head>
+              <charseq START="1318" END="1329">Jeremy Foley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E0-M1602">
+          <extent>
+              <charseq START="1373" END="1380">this man</charseq>
+          </extent>
+          <head>
+              <charseq START="1378" END="1380">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E0-M1702">
+          <extent>
+              <charseq START="1405" END="1407">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1405" END="1407">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E0-M3002">
+          <extent>
+              <charseq START="2720" END="2749">applaud Jeremy on his decision</charseq>
+          </extent>
+          <head>
+              <charseq START="2728" END="2733">Jeremy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E0-M3004">
+          <extent>
+              <charseq START="2720" END="2726">applaud</charseq>
+          </extent>
+          <head>
+              <charseq START="2720" END="2726">applaud</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E0-M3007">
+          <extent>
+              <charseq START="2738" END="2740">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2738" END="2740">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E0-M3200">
+          <extent>
+              <charseq START="2856" END="2857">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2856" END="2857">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jeremy
+Foley">
+              <charseq START="174" END="185">Jeremy
+Foley</charseq>
+          </name>
+          <name NAME="Jeremy Foley">
+              <charseq START="1318" END="1329">Jeremy Foley</charseq>
+          </name>
+          <name NAME="Jeremy">
+              <charseq START="2728" END="2733">Jeremy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E1-M202" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="148" END="154">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="148" END="154">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E1-M2705" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2352" END="2358">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="2352" END="2358">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E1-M2906" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2646" END="2652">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="2646" END="2652">Florida</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E2-M206">
+          <extent>
+              <charseq START="197" END="237">Texas defensive coordinator Will Muschamp</charseq>
+          </extent>
+          <head>
+              <charseq START="225" END="237">Will Muschamp</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E2-M208">
+          <extent>
+              <charseq START="213" END="223">coordinator</charseq>
+          </extent>
+          <head>
+              <charseq START="213" END="223">coordinator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E2-M220">
+          <extent>
+              <charseq START="369" END="371">who</charseq>
+          </extent>
+          <head>
+              <charseq START="369" END="371">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E2-M302">
+          <extent>
+              <charseq START="408" END="415">Muschamp</charseq>
+          </extent>
+          <head>
+              <charseq START="408" END="415">Muschamp</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E2-M805">
+          <extent>
+              <charseq START="814" END="817">Will</charseq>
+          </extent>
+          <head>
+              <charseq START="814" END="817">Will</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E2-M900">
+          <extent>
+              <charseq START="877" END="878">He</charseq>
+          </extent>
+          <head>
+              <charseq START="877" END="878">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E2-M914">
+          <extent>
+              <charseq START="972" END="973">he</charseq>
+          </extent>
+          <head>
+              <charseq START="972" END="973">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E2-M1002">
+          <extent>
+              <charseq START="984" END="985">He</charseq>
+          </extent>
+          <head>
+              <charseq START="984" END="985">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E2-M2201">
+          <extent>
+              <charseq START="1729" END="1741">Will Muschamp</charseq>
+          </extent>
+          <head>
+              <charseq START="1729" END="1741">Will Muschamp</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E2-M2300">
+          <extent>
+              <charseq START="1787" END="1788">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1787" END="1788">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E2-M2411">
+          <extent>
+              <charseq START="1933" END="1984">chest-bumping defensive coordinator tired of
+waiting</charseq>
+          </extent>
+          <head>
+              <charseq START="1957" END="1967">coordinator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E2-M2414">
+          <extent>
+              <charseq START="1990" END="1992">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1990" END="1992">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E2-M2712">
+          <extent>
+              <charseq START="2403" END="2410">Muschamp</charseq>
+          </extent>
+          <head>
+              <charseq START="2403" END="2410">Muschamp</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E2-M2800">
+          <extent>
+              <charseq START="2479" END="2486">Muschamp</charseq>
+          </extent>
+          <head>
+              <charseq START="2479" END="2486">Muschamp</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E2-M2802">
+          <extent>
+              <charseq START="2523" END="2524">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2523" END="2524">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E2-M2807">
+          <extent>
+              <charseq START="2576" END="2577">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2576" END="2577">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Will Muschamp">
+              <charseq START="225" END="237">Will Muschamp</charseq>
+          </name>
+          <name NAME="Muschamp">
+              <charseq START="408" END="415">Muschamp</charseq>
+          </name>
+          <name NAME="Will">
+              <charseq START="814" END="817">Will</charseq>
+          </name>
+          <name NAME="Will Muschamp">
+              <charseq START="1729" END="1741">Will Muschamp</charseq>
+          </name>
+          <name NAME="Muschamp">
+              <charseq START="2403" END="2410">Muschamp</charseq>
+          </name>
+          <name NAME="Muschamp">
+              <charseq START="2479" END="2486">Muschamp</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E3-M207">
+          <extent>
+              <charseq START="197" END="201">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="197" END="201">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E3-M811">
+          <extent>
+              <charseq START="870" END="874">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="870" END="874">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E3-M2104">
+          <extent>
+              <charseq START="1681" END="1685">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="1681" END="1685">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E3-M2407">
+          <extent>
+              <charseq START="1885" END="1889">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="1885" END="1889">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E3-M2500">
+          <extent>
+              <charseq START="2052" END="2056">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="2052" END="2056">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E3-M2704">
+          <extent>
+              <charseq START="2341" END="2345">Texas</charseq>
+          </extent>
+          <head>
+              <charseq START="2341" END="2345">Texas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Texas">
+              <charseq START="197" END="201">Texas</charseq>
+          </name>
+          <name NAME="Texas">
+              <charseq START="870" END="874">Texas</charseq>
+          </name>
+          <name NAME="Texas">
+              <charseq START="1681" END="1685">Texas</charseq>
+          </name>
+          <name NAME="Texas">
+              <charseq START="1885" END="1889">Texas</charseq>
+          </name>
+          <name NAME="Texas">
+              <charseq START="2052" END="2056">Texas</charseq>
+          </name>
+          <name NAME="Texas">
+              <charseq START="2341" END="2345">Texas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E4-M214">
+          <extent>
+              <charseq START="299" END="309">Urban
+Meyer</charseq>
+          </extent>
+          <head>
+              <charseq START="299" END="309">Urban
+Meyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E4-M403">
+          <extent>
+              <charseq START="549" END="562">the new coach:</charseq>
+          </extent>
+          <head>
+              <charseq START="557" END="561">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E4-M1405">
+          <extent>
+              <charseq START="1257" END="1281">an offensive-minded coach</charseq>
+          </extent>
+          <head>
+              <charseq START="1277" END="1281">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E4-M2006">
+          <extent>
+              <charseq START="1612" END="1648">an assistant coach, maybe even better</charseq>
+          </extent>
+          <head>
+              <charseq START="1625" END="1629">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E4-M2002">
+          <extent>
+              <charseq START="1586" END="1587">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1586" END="1587">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E4-M2004">
+          <extent>
+              <charseq START="1602" END="1603">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1602" END="1603">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E4-M2805">
+          <extent>
+              <charseq START="2553" END="2564">Urban Meyer,</charseq>
+          </extent>
+          <head>
+              <charseq START="2553" END="2563">Urban Meyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E4-M4504">
+          <extent>
+              <charseq START="3779" END="3798">a
+new football coach</charseq>
+          </extent>
+          <head>
+              <charseq START="3794" END="3798">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Urban
+Meyer">
+              <charseq START="299" END="309">Urban
+Meyer</charseq>
+          </name>
+          <name NAME="Urban Meyer">
+              <charseq START="2553" END="2563">Urban Meyer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E5" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E5-M216">
+          <extent>
+              <charseq START="317" END="322">Gators</charseq>
+          </extent>
+          <head>
+              <charseq START="317" END="322">Gators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E5-M507">
+          <extent>
+              <charseq START="621" END="630">Gator Club</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="630">Gator Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E5-M3302">
+          <extent>
+              <charseq START="2932" END="3027">former Gators All-America defensive lineman and
+NFL Hall of Famer, in a Sporting News interview:</charseq>
+          </extent>
+          <head>
+              <charseq START="2939" END="2944">Gators</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gators">
+              <charseq START="317" END="322">Gators</charseq>
+          </name>
+          <name NAME="Gator Club">
+              <charseq START="621" END="630">Gator Club</charseq>
+          </name>
+          <name NAME="Gators">
+              <charseq START="2939" END="2944">Gators</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E6-M212">
+          <extent>
+              <charseq START="259" END="265">no head</charseq>
+          </extent>
+          <head>
+              <charseq START="262" END="265">head</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E6-M217">
+          <extent>
+              <charseq START="336" END="355">head to the Internet</charseq>
+          </extent>
+          <head>
+              <charseq START="336" END="339">head</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E7-M215">
+          <extent>
+              <charseq START="312" END="327">some Gators fans</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="327">fans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E8-M306">
+          <extent>
+              <charseq START="491" END="496">others</charseq>
+          </extent>
+          <head>
+              <charseq START="491" END="496">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E9-M501">
+          <extent>
+              <charseq START="573" END="584">Argie Radics</charseq>
+          </extent>
+          <head>
+              <charseq START="573" END="584">Argie Radics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E9-M503">
+          <extent>
+              <charseq START="587" END="599">Gator booster</charseq>
+          </extent>
+          <head>
+              <charseq START="593" END="599">booster</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E9-M505">
+          <extent>
+              <charseq START="605" END="637">Pinellas County Gator Club
+member</charseq>
+          </extent>
+          <head>
+              <charseq START="632" END="637">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Argie Radics">
+              <charseq START="573" END="584">Argie Radics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E10-M504">
+          <extent>
+              <charseq START="587" END="591">Gator</charseq>
+          </extent>
+          <head>
+              <charseq START="587" END="591">Gator</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gator">
+              <charseq START="587" END="591">Gator</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E11-M506" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="605" END="619">Pinellas County</charseq>
+          </extent>
+          <head>
+              <charseq START="605" END="619">Pinellas County</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E13" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E13-M809">
+          <extent>
+              <charseq START="851" END="853">LSU</charseq>
+          </extent>
+          <head>
+              <charseq START="851" END="853">LSU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LSU">
+              <charseq START="851" END="853">LSU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E14" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E14-M810">
+          <extent>
+              <charseq START="856" END="861">Auburn</charseq>
+          </extent>
+          <head>
+              <charseq START="856" END="861">Auburn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Auburn">
+              <charseq START="856" END="861">Auburn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E15-M904">
+          <extent>
+              <charseq START="908" END="917">Mack Brown</charseq>
+          </extent>
+          <head>
+              <charseq START="908" END="917">Mack Brown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E15-M2406">
+          <extent>
+              <charseq START="1854" END="1863">Mack Brown</charseq>
+          </extent>
+          <head>
+              <charseq START="1854" END="1863">Mack Brown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E15-M2613">
+          <extent>
+              <charseq START="2247" END="2251">Brown</charseq>
+          </extent>
+          <head>
+              <charseq START="2247" END="2251">Brown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E15-M2617">
+          <extent>
+              <charseq START="2274" END="2276">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2274" END="2276">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mack Brown">
+              <charseq START="908" END="917">Mack Brown</charseq>
+          </name>
+          <name NAME="Mack Brown">
+              <charseq START="1854" END="1863">Mack Brown</charseq>
+          </name>
+          <name NAME="Brown">
+              <charseq START="2247" END="2251">Brown</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E16-M1102">
+          <extent>
+              <charseq START="1060" END="1078">Gigi Pelosi-Farrell</charseq>
+          </extent>
+          <head>
+              <charseq START="1060" END="1078">Gigi Pelosi-Farrell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E16-M1103">
+          <extent>
+              <charseq START="1081" END="1109">president of Tampa Gator Club</charseq>
+          </extent>
+          <head>
+              <charseq START="1081" END="1089">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gigi Pelosi-Farrell">
+              <charseq START="1060" END="1078">Gigi Pelosi-Farrell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E17-M1105">
+          <extent>
+              <charseq START="1094" END="1109">Tampa Gator Club</charseq>
+          </extent>
+          <head>
+              <charseq START="1094" END="1109">Tampa Gator Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tampa Gator Club">
+              <charseq START="1094" END="1109">Tampa Gator Club</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E18" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E18-M1300">
+          <extent>
+              <charseq START="1142" END="1145">Time</charseq>
+          </extent>
+          <head>
+              <charseq START="1142" END="1145">Time</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Time">
+              <charseq START="1142" END="1145">Time</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E19-M1809">
+          <extent>
+              <charseq START="1496" END="1514">established coaches</charseq>
+          </extent>
+          <head>
+              <charseq START="1508" END="1514">coaches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E20-M2102">
+          <extent>
+              <charseq START="1661" END="1670">Kirk Bohls</charseq>
+          </extent>
+          <head>
+              <charseq START="1661" END="1670">Kirk Bohls</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E20-M2106">
+          <extent>
+              <charseq START="1697" END="1705">Statesman</charseq>
+          </extent>
+          <head>
+              <charseq START="1697" END="1705">Statesman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kirk Bohls">
+              <charseq START="1661" END="1670">Kirk Bohls</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E21" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E21-M2103" ROLE="LOC">
+          <extent>
+              <charseq START="1673" END="1678">Austin</charseq>
+          </extent>
+          <head>
+              <charseq START="1673" END="1678">Austin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E21-M2610" ROLE="LOC">
+          <extent>
+              <charseq START="2233" END="2291">Austin,
+where Brown faces upheaval among his coaching staff</charseq>
+          </extent>
+          <head>
+              <charseq START="2233" END="2238">Austin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E21-M2612">
+          <extent>
+              <charseq START="2241" END="2245">where</charseq>
+          </extent>
+          <head>
+              <charseq START="2241" END="2245">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Austin">
+              <charseq START="1673" END="1678">Austin</charseq>
+          </name>
+          <name NAME="Austin">
+              <charseq START="2233" END="2238">Austin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E22-M2105" ROLE="LOC">
+          <extent>
+              <charseq START="1688" END="1695">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1688" END="1695">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E22-M2717" ROLE="LOC">
+          <extent>
+              <charseq START="2466" END="2476">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="2470" END="2476">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="1688" END="1695">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E23-M2100">
+          <extent>
+              <charseq START="1661" END="1706">Kirk Bohls, Austin (Texas) American-Statesman:</charseq>
+          </extent>
+          <head>
+              <charseq START="1688" END="1695">American</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E24" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E24-M2417" ROLE="LOC">
+          <extent>
+              <charseq START="2024" END="2030">Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="2024" END="2030">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E24-M3902" ROLE="LOC">
+          <extent>
+              <charseq START="3265" END="3278">former Florida</charseq>
+          </extent>
+          <head>
+              <charseq START="3272" END="3278">Florida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Florida">
+              <charseq START="2024" END="2030">Florida</charseq>
+          </name>
+          <name NAME="Florida">
+              <charseq START="3272" END="3278">Florida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E25" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E25-M2602">
+          <extent>
+              <charseq START="2121" END="2208">Florida State, where Bobby Bowden tried to cling to his
+job too long and was forced out,</charseq>
+          </extent>
+          <head>
+              <charseq START="2121" END="2133">Florida State</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E25-M2604">
+          <extent>
+              <charseq START="2136" END="2140">where</charseq>
+          </extent>
+          <head>
+              <charseq START="2136" END="2140">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Florida State">
+              <charseq START="2121" END="2133">Florida State</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E26-M2605">
+          <extent>
+              <charseq START="2142" END="2153">Bobby Bowden</charseq>
+          </extent>
+          <head>
+              <charseq START="2142" END="2153">Bobby Bowden</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E26-M2607">
+          <extent>
+              <charseq START="2173" END="2175">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2173" END="2175">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bobby Bowden">
+              <charseq START="2142" END="2153">Bobby Bowden</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E27-M2616">
+          <extent>
+              <charseq START="2274" END="2291">his coaching staff</charseq>
+          </extent>
+          <head>
+              <charseq START="2287" END="2291">staff</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E28-M2804">
+          <extent>
+              <charseq START="2541" END="2548">a legend</charseq>
+          </extent>
+          <head>
+              <charseq START="2543" END="2548">legend</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E29-M2901">
+          <extent>
+              <charseq START="2619" END="2633">S. Daniel Ponce</charseq>
+          </extent>
+          <head>
+              <charseq START="2619" END="2633">S. Daniel Ponce</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E29-M2902">
+          <extent>
+              <charseq START="2636" END="2706">member of Florida&apos;s University Athletic
+Association board of directors:</charseq>
+          </extent>
+          <head>
+              <charseq START="2636" END="2641">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="S. Daniel Ponce">
+              <charseq START="2619" END="2633">S. Daniel Ponce</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E30" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E30-M2907">
+          <extent>
+              <charseq START="2656" END="2686">University Athletic
+Association</charseq>
+          </extent>
+          <head>
+              <charseq START="2656" END="2686">University Athletic
+Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="University Athletic
+Association">
+              <charseq START="2656" END="2686">University Athletic
+Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E31" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E31-M2904">
+          <extent>
+              <charseq START="2646" END="2706">Florida&apos;s University Athletic
+Association board of directors:</charseq>
+          </extent>
+          <head>
+              <charseq START="2688" END="2692">board</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E32-M2908">
+          <extent>
+              <charseq START="2697" END="2706">directors:</charseq>
+          </extent>
+          <head>
+              <charseq START="2697" END="2705">directors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E33-M3301">
+          <extent>
+              <charseq START="2915" END="2929">Jack Youngblood</charseq>
+          </extent>
+          <head>
+              <charseq START="2915" END="2929">Jack Youngblood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E33-M3308">
+          <extent>
+              <charseq START="2950" END="2974">America defensive lineman</charseq>
+          </extent>
+          <head>
+              <charseq START="2968" END="2974">lineman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E33-M3400">
+          <extent>
+              <charseq START="3039" END="3040">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3039" END="3040">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E33-M3403">
+          <extent>
+              <charseq START="3048" END="3050">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3048" END="3050">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E33-M3500">
+          <extent>
+              <charseq START="3081" END="3082">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3081" END="3082">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E33-M3503">
+          <extent>
+              <charseq START="3095" END="3096">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3095" END="3096">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E33-M3800">
+          <extent>
+              <charseq START="3167" END="3168">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3167" END="3168">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jack Youngblood">
+              <charseq START="2915" END="2929">Jack Youngblood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E34" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E34-M3310">
+          <extent>
+              <charseq START="2980" END="2996">NFL Hall of Famer</charseq>
+          </extent>
+          <head>
+              <charseq START="2980" END="2996">NFL Hall of Famer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NFL Hall of Famer">
+              <charseq START="2980" END="2996">NFL Hall of Famer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E35-M3700">
+          <extent>
+              <charseq START="3148" END="3155">That bar</charseq>
+          </extent>
+          <head>
+              <charseq START="3153" END="3155">bar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E35-M3805">
+          <extent>
+              <charseq START="3202" END="3204">bar</charseq>
+          </extent>
+          <head>
+              <charseq START="3202" END="3204">bar</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E36-M3901">
+          <extent>
+              <charseq START="3251" END="3262">David Nelson</charseq>
+          </extent>
+          <head>
+              <charseq START="3251" END="3262">David Nelson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Nelson">
+              <charseq START="3251" END="3262">David Nelson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E37-M3905">
+          <extent>
+              <charseq START="3292" END="3304">Buffalo Bills</charseq>
+          </extent>
+          <head>
+              <charseq START="3292" END="3304">Buffalo Bills</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Buffalo Bills">
+              <charseq START="3292" END="3304">Buffalo Bills</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E38-M3904">
+          <extent>
+              <charseq START="3284" END="3307">current Buffalo Bills WR</charseq>
+          </extent>
+          <head>
+              <charseq START="3306" END="3307">WR</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E39" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E39-M4000">
+          <extent>
+              <charseq START="3321" END="3347">Anyone with the word &apos;Champ</charseq>
+          </extent>
+          <head>
+              <charseq START="3321" END="3326">Anyone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101212.0131-E39-M4006">
+          <extent>
+              <charseq START="3353" END="3357">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3353" END="3357">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E40-M4004">
+          <extent>
+              <charseq START="3343" END="3347">Champ</charseq>
+          </extent>
+          <head>
+              <charseq START="3343" END="3347">Champ</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E41" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E41-M4007">
+          <extent>
+              <charseq START="3374" END="3381">a
+winner</charseq>
+          </extent>
+          <head>
+              <charseq START="3376" END="3381">winner</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E42-M4101">
+          <extent>
+              <charseq START="3401" END="3413">Bill Connelly</charseq>
+          </extent>
+          <head>
+              <charseq START="3401" END="3413">Bill Connelly</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bill Connelly">
+              <charseq START="3401" END="3413">Bill Connelly</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E43" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101212.0131-E43-M4102">
+          <extent>
+              <charseq START="3416" END="3428">ESPN Football</charseq>
+          </extent>
+          <head>
+              <charseq START="3416" END="3428">ESPN Football</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ESPN Football">
+              <charseq START="3416" END="3428">ESPN Football</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101212.0131-E44" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101212.0131-E44-M4503">
+          <extent>
+              <charseq START="3744" END="3752">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="3748" END="3752">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T0" VAL="P39Y">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T0-M1">
+            <extent>
+              <charseq START="242" END="252">39-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T1" VAL="P1D">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T1-M1">
+            <extent>
+              <charseq START="393" END="405">one day later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T2" VAL="PRESENT_REF" ANCHOR_VAL="2010-12-12" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T2-M1">
+            <extent>
+              <charseq START="539" END="541">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T3" VAL="PRESENT_REF" ANCHOR_VAL="2010-12-12" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T3-M1">
+            <extent>
+              <charseq START="1039" END="1047">right now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T4" VAL="P1Y">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T4-M1">
+            <extent>
+              <charseq START="1526" END="1533">our year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T5" VAL="PRESENT_REF" ANCHOR_VAL="2010-12-12" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T5-M1">
+            <extent>
+              <charseq START="1792" END="1794">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T6" VAL="2010-12-11">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T6-M1">
+            <extent>
+              <charseq START="1901" END="1908">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T7" VAL="PAST_REF" ANCHOR_VAL="2010-12-12" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T7-M1">
+            <extent>
+              <charseq START="2932" END="2937">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T8" VAL="PAST_REF" ANCHOR_VAL="2010-12-12" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T8-M1">
+            <extent>
+              <charseq START="3265" END="3270">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T9" VAL="PRESENT_REF" ANCHOR_VAL="2010-12-12" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T9-M1">
+            <extent>
+              <charseq START="3284" END="3290">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101212.0131-T10">
+        <timex2_mention ID="NYT_ENG_20101212.0131-T10-M1">
+            <extent>
+              <charseq START="3661" END="3664">date</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20101212.0131-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E1" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R0-M200">
+          <extent>
+              <charseq START="165" END="172">director</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E0-M203" ROLE="Arg-1">
+            <extent>
+              <charseq START="165" END="172">director</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E1-M202" ROLE="Arg-2">
+            <extent>
+              <charseq START="148" END="154">Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E3" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R1-M201">
+          <extent>
+              <charseq START="213" END="223">coordinator</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E2-M208" ROLE="Arg-1">
+            <extent>
+              <charseq START="213" END="223">coordinator</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E3-M207" ROLE="Arg-2">
+            <extent>
+              <charseq START="197" END="201">Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E11" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R2-M500">
+          <extent>
+              <charseq START="605" END="637">Pinellas County Gator Club
+member</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E9-M505" ROLE="Arg-1">
+            <extent>
+              <charseq START="605" END="637">Pinellas County Gator Club
+member</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E11-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="605" END="619">Pinellas County</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E5" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R3-M501">
+          <extent>
+              <charseq START="605" END="637">Pinellas County Gator Club
+member</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E9-M505" ROLE="Arg-1">
+            <extent>
+              <charseq START="605" END="637">Pinellas County Gator Club
+member</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E5-M507" ROLE="Arg-2">
+            <extent>
+              <charseq START="621" END="630">Gator Club</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E17" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R4-M1100">
+          <extent>
+              <charseq START="1081" END="1109">president of Tampa Gator Club</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E16-M1103" ROLE="Arg-1">
+            <extent>
+              <charseq START="1081" END="1109">president of Tampa Gator Club</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E17-M1105" ROLE="Arg-2">
+            <extent>
+              <charseq START="1094" END="1109">Tampa Gator Club</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R5" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E3" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R5-M2400">
+          <extent>
+              <charseq START="1854" END="1863">Mack Brown</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E15-M2406" ROLE="Arg-1">
+            <extent>
+              <charseq START="1854" END="1863">Mack Brown</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E3-M2407" ROLE="Arg-2">
+            <extent>
+              <charseq START="1885" END="1889">Texas</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E25" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R6-M2600">
+          <extent>
+              <charseq START="2142" END="2153">Bobby Bowden</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E26-M2605" ROLE="Arg-1">
+            <extent>
+              <charseq START="2142" END="2153">Bobby Bowden</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E25-M2604" ROLE="Arg-2">
+            <extent>
+              <charseq START="2136" END="2140">where</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R7" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E27" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R7-M2601">
+          <extent>
+              <charseq START="2274" END="2276">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E15-M2617" ROLE="Arg-1">
+            <extent>
+              <charseq START="2274" END="2276">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E27-M2616" ROLE="Arg-2">
+            <extent>
+              <charseq START="2274" END="2291">his coaching staff</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R8" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E31" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R8-M2900">
+          <extent>
+              <charseq START="2636" END="2706">member of Florida&apos;s University Athletic
+Association board of directors:</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E29-M2902" ROLE="Arg-1">
+            <extent>
+              <charseq START="2636" END="2706">member of Florida&apos;s University Athletic
+Association board of directors:</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E31-M2904" ROLE="Arg-2">
+            <extent>
+              <charseq START="2646" END="2706">Florida&apos;s University Athletic
+Association board of directors:</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R9" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E1" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R9-M2901">
+          <extent>
+              <charseq START="2636" END="2706">member of Florida&apos;s University Athletic
+Association board of directors:</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E29-M2902" ROLE="Arg-1">
+            <extent>
+              <charseq START="2636" END="2706">member of Florida&apos;s University Athletic
+Association board of directors:</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E1-M2906" ROLE="Arg-2">
+            <extent>
+              <charseq START="2646" END="2652">Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R10" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E31" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R10-M2902">
+          <extent>
+              <charseq START="2646" END="2652">Florida</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E1-M2906" ROLE="Arg-1">
+            <extent>
+              <charseq START="2646" END="2652">Florida</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E31-M2904" ROLE="Arg-2">
+            <extent>
+              <charseq START="2646" END="2706">Florida&apos;s University Athletic
+Association board of directors:</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R11" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E30" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R11-M2903">
+          <extent>
+              <charseq START="2646" END="2706">Florida&apos;s University Athletic
+Association board of directors:</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E31-M2904" ROLE="Arg-1">
+            <extent>
+              <charseq START="2646" END="2706">Florida&apos;s University Athletic
+Association board of directors:</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E30-M2907" ROLE="Arg-2">
+            <extent>
+              <charseq START="2656" END="2686">University Athletic
+Association</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101212.0131-R12" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101212.0131-E38" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101212.0131-E37" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101212.0131-R12-M3900">
+          <extent>
+              <charseq START="3284" END="3307">current Buffalo Bills WR</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E38-M3904" ROLE="Arg-1">
+            <extent>
+              <charseq START="3284" END="3307">current Buffalo Bills WR</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101212.0131-E37-M3905" ROLE="Arg-2">
+            <extent>
+              <charseq START="3292" END="3304">Buffalo Bills</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

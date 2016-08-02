@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-565479fc0000000000000004">
+  
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-379" length="11" offset="435">
+        <text>Illinoisans</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-66" length="16" offset="14">Fat.The.Gangster</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-391" length="87" offset="359">
+        <text>cargo-short/flip-flop wearing, Jeep Wrangler driving, backward hat styling, Illinoisans</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-66" length="16" offset="14">Fat.The.Gangster</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-397" length="98" offset="348">
+        <text>a bunch of cargo-short/flip-flop wearing, Jeep Wrangler driving, backward hat styling, Illinoisans</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-66" length="16" offset="14">Fat.The.Gangster</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-210">
+        <trigger length="2" offset="172">to</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-66" length="16" offset="14">Fat.The.Gangster</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-274">
+        <trigger length="7" offset="164">getting</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-66" length="16" offset="14">Fat.The.Gangster</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

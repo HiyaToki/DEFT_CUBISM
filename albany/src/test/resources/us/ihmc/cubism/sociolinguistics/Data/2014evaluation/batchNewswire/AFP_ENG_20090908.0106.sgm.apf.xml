@@ -1,0 +1,654 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20090908.0106">
+  <document DOCID="AFP_ENG_20090908.0106">
+
+    <entity ID="AFP_ENG_20090908.0106-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E0-M0">
+          <extent>
+              <charseq START="58" END="91">Airbus parent company slams Boeing</charseq>
+          </extent>
+          <head>
+              <charseq START="86" END="91">Boeing</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090908.0106-E0-M4">
+          <extent>
+              <charseq START="80" END="84">slams</charseq>
+          </extent>
+          <head>
+              <charseq START="80" END="84">slams</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E0-M315">
+          <extent>
+              <charseq START="281" END="286">Boeing</charseq>
+          </extent>
+          <head>
+              <charseq START="281" END="286">Boeing</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E0-M400">
+          <extent>
+              <charseq START="378" END="383">Boeing</charseq>
+          </extent>
+          <head>
+              <charseq START="378" END="383">Boeing</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E0-M503">
+          <extent>
+              <charseq START="610" END="624">US rival Boeing</charseq>
+          </extent>
+          <head>
+              <charseq START="619" END="624">Boeing</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E0-M532">
+          <extent>
+              <charseq START="787" END="792">Boeing</charseq>
+          </extent>
+          <head>
+              <charseq START="787" END="792">Boeing</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E0-M613">
+          <extent>
+              <charseq START="937" END="942">Boeing</charseq>
+          </extent>
+          <head>
+              <charseq START="937" END="942">Boeing</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090908.0106-E0-M608">
+          <extent>
+              <charseq START="870" END="872">its</charseq>
+          </extent>
+          <head>
+              <charseq START="870" END="872">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boeing">
+              <charseq START="86" END="91">Boeing</charseq>
+          </name>
+          <name NAME="Boeing">
+              <charseq START="281" END="286">Boeing</charseq>
+          </name>
+          <name NAME="Boeing">
+              <charseq START="378" END="383">Boeing</charseq>
+          </name>
+          <name NAME="Boeing">
+              <charseq START="619" END="624">Boeing</charseq>
+          </name>
+          <name NAME="Boeing">
+              <charseq START="787" END="792">Boeing</charseq>
+          </name>
+          <name NAME="Boeing">
+              <charseq START="937" END="942">Boeing</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E1" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E1-M1">
+          <extent>
+              <charseq START="58" END="63">Airbus</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">Airbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E1-M303">
+          <extent>
+              <charseq START="189" END="194">Airbus</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="194">Airbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E1-M614">
+          <extent>
+              <charseq START="948" END="953">Airbus</charseq>
+          </extent>
+          <head>
+              <charseq START="948" END="953">Airbus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Airbus">
+              <charseq START="58" END="63">Airbus</charseq>
+          </name>
+          <name NAME="Airbus">
+              <charseq START="189" END="194">Airbus</charseq>
+          </name>
+          <name NAME="Airbus">
+              <charseq START="948" END="953">Airbus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E2-M101">
+          <extent>
+              <charseq START="128" END="132">PARIS</charseq>
+          </extent>
+          <head>
+              <charseq START="128" END="132">PARIS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PARIS">
+              <charseq START="128" END="132">PARIS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E3-M200">
+          <extent>
+              <charseq START="149" END="151">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="149" END="151">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="149" END="151">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E4-M302">
+          <extent>
+              <charseq START="189" END="206">Airbus parent EADS</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="206">EADS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090908.0106-E4-M304">
+          <extent>
+              <charseq START="196" END="201">parent</charseq>
+          </extent>
+          <head>
+              <charseq START="196" END="201">parent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E4-M412">
+          <extent>
+              <charseq START="466" END="502">European Aeronautic Defence and Space</charseq>
+          </extent>
+          <head>
+              <charseq START="466" END="502">European Aeronautic Defence and Space</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090908.0106-E4-M411">
+          <extent>
+              <charseq START="462" END="510">the European Aeronautic Defence and Space company</charseq>
+          </extent>
+          <head>
+              <charseq START="504" END="510">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="EADS">
+              <charseq START="203" END="206">EADS</charseq>
+          </name>
+          <name NAME="European Aeronautic Defence and Space">
+              <charseq START="466" END="502">European Aeronautic Defence and Space</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090908.0106-E5-M300">
+          <extent>
+              <charseq START="177" END="217">The head of Airbus parent EADS on Tuesday</charseq>
+          </extent>
+          <head>
+              <charseq START="181" END="184">head</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090908.0106-E5-M308">
+          <extent>
+              <charseq START="235" END="236">he</charseq>
+          </extent>
+          <head>
+              <charseq START="235" END="236">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E6-M408">
+          <extent>
+              <charseq START="439" END="451">Louis Gallois</charseq>
+          </extent>
+          <head>
+              <charseq START="439" END="451">Louis Gallois</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090908.0106-E6-M409">
+          <extent>
+              <charseq START="454" END="510">head of the European Aeronautic Defence and Space company</charseq>
+          </extent>
+          <head>
+              <charseq START="454" END="457">head</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E6-M500">
+          <extent>
+              <charseq START="583" END="589">Gallois</charseq>
+          </extent>
+          <head>
+              <charseq START="583" END="589">Gallois</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Louis Gallois">
+              <charseq START="439" END="451">Louis Gallois</charseq>
+          </name>
+          <name NAME="Gallois">
+              <charseq START="583" END="589">Gallois</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E7" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E7-M415">
+          <extent>
+              <charseq START="539" END="571">French financial daily La Tribune</charseq>
+          </extent>
+          <head>
+              <charseq START="562" END="571">La Tribune</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="La Tribune">
+              <charseq START="562" END="571">La Tribune</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E8-M416">
+          <extent>
+              <charseq START="539" END="544">French</charseq>
+          </extent>
+          <head>
+              <charseq START="539" END="544">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="539" END="544">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E9-M504">
+          <extent>
+              <charseq START="610" END="611">US</charseq>
+          </extent>
+          <head>
+              <charseq START="610" END="611">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E9-M513" ROLE="GPE">
+          <extent>
+              <charseq START="668" END="669">US</charseq>
+          </extent>
+          <head>
+              <charseq START="668" END="669">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="610" END="611">US</charseq>
+          </name>
+          <name NAME="US">
+              <charseq START="668" END="669">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E10-M508">
+          <extent>
+              <charseq START="644" END="647">NASA</charseq>
+          </extent>
+          <head>
+              <charseq START="644" END="647">NASA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NASA">
+              <charseq START="644" END="647">NASA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E11-M509">
+          <extent>
+              <charseq START="650" END="661">the Pentagon</charseq>
+          </extent>
+          <head>
+              <charseq START="654" END="661">Pentagon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pentagon">
+              <charseq START="654" END="661">Pentagon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E12-M523" ROLE="LOC">
+          <extent>
+              <charseq START="745" END="749">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="745" END="749">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Japan">
+              <charseq START="745" END="749">Japan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E13-M528">
+          <extent>
+              <charseq START="769" END="782">Italy&apos;s Alenia</charseq>
+          </extent>
+          <head>
+              <charseq START="777" END="782">Alenia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090908.0106-E13-M531">
+          <extent>
+              <charseq START="785" END="806">a Boeing subcontractor</charseq>
+          </extent>
+          <head>
+              <charseq START="794" END="806">subcontractor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alenia">
+              <charseq START="777" END="782">Alenia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E14-M529">
+          <extent>
+              <charseq START="769" END="773">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="769" END="773">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italy">
+              <charseq START="769" END="773">Italy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E15" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090908.0106-E15-M511" ROLE="LOC">
+          <extent>
+              <charseq START="664" END="749">the US states where they have factories&quot; as well as in the form of advances from
+Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="671" END="676">states</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090908.0106-E15-M514">
+          <extent>
+              <charseq START="678" END="682">where</charseq>
+          </extent>
+          <head>
+              <charseq START="678" END="682">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090908.0106-E15-M515">
+          <extent>
+              <charseq START="684" END="687">they</charseq>
+          </extent>
+          <head>
+              <charseq START="684" END="687">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E16" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090908.0106-E16-M517">
+          <extent>
+              <charseq START="694" END="749">factories&quot; as well as in the form of advances from
+Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="694" END="702">factories</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E17-M600">
+          <extent>
+              <charseq START="818" END="954">The World Trade Organisation (WTO) last week issued its first ruling on the
+acrimonious dispute over subsidies between Boeing and Airbus.</charseq>
+          </extent>
+          <head>
+              <charseq START="822" END="845">World Trade Organisation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090908.0106-E17-M603">
+          <extent>
+              <charseq START="848" END="850">WTO</charseq>
+          </extent>
+          <head>
+              <charseq START="848" END="850">WTO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="World Trade Organisation">
+              <charseq START="822" END="845">World Trade Organisation</charseq>
+          </name>
+          <name NAME="WTO">
+              <charseq START="848" END="850">WTO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090908.0106-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090908.0106-E18-M701">
+          <extent>
+              <charseq START="996" END="1008">some analysts</charseq>
+          </extent>
+          <head>
+              <charseq START="1001" END="1008">analysts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20090908.0106-T0" VAL="2009-09-08">
+        <timex2_mention ID="AFP_ENG_20090908.0106-T0-M1">
+            <extent>
+              <charseq START="135" END="146">Sept 8, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090908.0106-T1" VAL="2009-09-08">
+        <timex2_mention ID="AFP_ENG_20090908.0106-T1-M1">
+            <extent>
+              <charseq START="211" END="217">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090908.0106-T2">
+        <timex2_mention ID="AFP_ENG_20090908.0106-T2-M1">
+            <extent>
+              <charseq START="556" END="560">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090908.0106-T3" VAL="2009-W36">
+        <timex2_mention ID="AFP_ENG_20090908.0106-T3-M1">
+            <extent>
+              <charseq START="853" END="861">last week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20090908.0106-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090908.0106-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090908.0106-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090908.0106-R0-M300">
+          <extent>
+              <charseq START="177" END="217">The head of Airbus parent EADS on Tuesday</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E5-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="177" END="217">The head of Airbus parent EADS on Tuesday</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E4-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="189" END="206">Airbus parent EADS</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090908.0106-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090908.0106-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090908.0106-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090908.0106-R1-M301">
+          <extent>
+              <charseq START="177" END="217">The head of Airbus parent EADS on Tuesday</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E5-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="177" END="217">The head of Airbus parent EADS on Tuesday</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E1-M303" ROLE="Arg-2">
+            <extent>
+              <charseq START="189" END="194">Airbus</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090908.0106-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090908.0106-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090908.0106-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090908.0106-R2-M400">
+          <extent>
+              <charseq START="454" END="510">head of the European Aeronautic Defence and Space company</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E6-M409" ROLE="Arg-1">
+            <extent>
+              <charseq START="454" END="510">head of the European Aeronautic Defence and Space company</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E4-M411" ROLE="Arg-2">
+            <extent>
+              <charseq START="462" END="510">the European Aeronautic Defence and Space company</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="AFP_ENG_20090908.0106-R2-M401">
+          <extent>
+              <charseq START="454" END="510">head of the European Aeronautic Defence and Space company</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E6-M409" ROLE="Arg-1">
+            <extent>
+              <charseq START="454" END="510">head of the European Aeronautic Defence and Space company</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E4-M412" ROLE="Arg-2">
+            <extent>
+              <charseq START="466" END="502">European Aeronautic Defence and Space</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090908.0106-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090908.0106-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090908.0106-E9" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090908.0106-R3-M500">
+          <extent>
+              <charseq START="610" END="624">US rival Boeing</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E0-M503" ROLE="Arg-1">
+            <extent>
+              <charseq START="610" END="624">US rival Boeing</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E9-M504" ROLE="Arg-2">
+            <extent>
+              <charseq START="610" END="611">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090908.0106-R4" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090908.0106-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090908.0106-E16" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090908.0106-R4-M501">
+          <extent>
+              <charseq START="684" END="687">they</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E15-M515" ROLE="Arg-1">
+            <extent>
+              <charseq START="684" END="687">they</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E16-M517" ROLE="Arg-2">
+            <extent>
+              <charseq START="694" END="749">factories&quot; as well as in the form of advances from
+Japan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090908.0106-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090908.0106-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090908.0106-E14" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090908.0106-R5-M502">
+          <extent>
+              <charseq START="769" END="782">Italy&apos;s Alenia</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E13-M528" ROLE="Arg-1">
+            <extent>
+              <charseq START="769" END="782">Italy&apos;s Alenia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090908.0106-E14-M529" ROLE="Arg-2">
+            <extent>
+              <charseq START="769" END="773">Italy</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

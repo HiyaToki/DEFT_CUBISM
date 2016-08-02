@@ -1,0 +1,899 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20090914.0305">
+  <document DOCID="AFP_ENG_20090914.0305">
+
+    <entity ID="AFP_ENG_20090914.0305-E0" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E0-M8" ROLE="LOC">
+          <extent>
+              <charseq START="112" END="117">Serbia</charseq>
+          </extent>
+          <head>
+              <charseq START="112" END="117">Serbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E0-M302" ROLE="LOC">
+          <extent>
+              <charseq START="223" END="228">Serbia</charseq>
+          </extent>
+          <head>
+              <charseq START="223" END="228">Serbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E0-M401" ROLE="GPE">
+          <extent>
+              <charseq START="396" END="402">Serbian</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="402">Serbian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E0-M1102" ROLE="GPE">
+          <extent>
+              <charseq START="1855" END="1861">Serbian</charseq>
+          </extent>
+          <head>
+              <charseq START="1855" END="1861">Serbian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E0-M1101" ROLE="ORG">
+          <extent>
+              <charseq START="1851" END="1872">the Serbian government</charseq>
+          </extent>
+          <head>
+              <charseq START="1863" END="1872">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E0-M1304">
+          <extent>
+              <charseq START="2331" END="2336">Serbia</charseq>
+          </extent>
+          <head>
+              <charseq START="2331" END="2336">Serbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E0-M1408" ROLE="LOC">
+          <extent>
+              <charseq START="2578" END="2603">Christian Orthodox country</charseq>
+          </extent>
+          <head>
+              <charseq START="2597" END="2603">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Serbia">
+              <charseq START="112" END="117">Serbia</charseq>
+          </name>
+          <name NAME="Serbia">
+              <charseq START="223" END="228">Serbia</charseq>
+          </name>
+          <name NAME="Serbian">
+              <charseq START="396" END="402">Serbian</charseq>
+          </name>
+          <name NAME="Serbian">
+              <charseq START="1855" END="1861">Serbian</charseq>
+          </name>
+          <name NAME="Serbia">
+              <charseq START="2331" END="2336">Serbia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E1" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E1-M9">
+          <extent>
+              <charseq START="120" END="126">Amnesty</charseq>
+          </extent>
+          <head>
+              <charseq START="120" END="126">Amnesty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E1-M308">
+          <extent>
+              <charseq START="285" END="305">Amnesty International</charseq>
+          </extent>
+          <head>
+              <charseq START="285" END="305">Amnesty International</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E1-M515">
+          <extent>
+              <charseq START="687" END="695">the
+group</charseq>
+          </extent>
+          <head>
+              <charseq START="691" END="695">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E1-M715">
+          <extent>
+              <charseq START="1127" END="1147">Amnesty International</charseq>
+          </extent>
+          <head>
+              <charseq START="1127" END="1147">Amnesty International</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E1-M807">
+          <extent>
+              <charseq START="1340" END="1350">the Amnesty</charseq>
+          </extent>
+          <head>
+              <charseq START="1344" END="1350">Amnesty</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E1-M806">
+          <extent>
+              <charseq START="1299" END="1336">right-wing
+and religious organisations</charseq>
+          </extent>
+          <head>
+              <charseq START="1324" END="1336">organisations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E1-M1100">
+          <extent>
+              <charseq START="1819" END="1839">Amnesty International</charseq>
+          </extent>
+          <head>
+              <charseq START="1819" END="1839">Amnesty International</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amnesty">
+              <charseq START="120" END="126">Amnesty</charseq>
+          </name>
+          <name NAME="Amnesty International">
+              <charseq START="285" END="305">Amnesty International</charseq>
+          </name>
+          <name NAME="Amnesty International">
+              <charseq START="1127" END="1147">Amnesty International</charseq>
+          </name>
+          <name NAME="Amnesty">
+              <charseq START="1344" END="1350">Amnesty</charseq>
+          </name>
+          <name NAME="Amnesty International">
+              <charseq START="1819" END="1839">Amnesty International</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E2-M2">
+          <extent>
+              <charseq START="63" END="126">human rights activists attacked with impunity in Serbia: Amnesty</charseq>
+          </extent>
+          <head>
+              <charseq START="76" END="84">activists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E2-M506">
+          <extent>
+              <charseq START="589" END="610">human rights activists</charseq>
+          </extent>
+          <head>
+              <charseq START="602" END="610">activists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E2-M1008">
+          <extent>
+              <charseq START="1661" END="1682">human rights
+activists</charseq>
+          </extent>
+          <head>
+              <charseq START="1674" END="1682">activists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E3-M102" ROLE="GPE">
+          <extent>
+              <charseq START="151" END="158">belgrade</charseq>
+          </extent>
+          <head>
+              <charseq START="151" END="158">belgrade</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E3-M315" ROLE="LOC">
+          <extent>
+              <charseq START="357" END="364">Belgrade</charseq>
+          </extent>
+          <head>
+              <charseq START="357" END="364">Belgrade</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="belgrade">
+              <charseq START="151" END="158">belgrade</charseq>
+          </name>
+          <name NAME="Belgrade">
+              <charseq START="357" END="364">Belgrade</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E4-M200">
+          <extent>
+              <charseq START="176" END="178">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="176" END="178">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="176" END="178">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E5-M300">
+          <extent>
+              <charseq START="204" END="228">The authorities in Serbia</charseq>
+          </extent>
+          <head>
+              <charseq START="208" END="218">authorities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E5-M400">
+          <extent>
+              <charseq START="392" END="414">The Serbian authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="404" END="414">authorities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090914.0305-E5-M500">
+          <extent>
+              <charseq START="532" END="535">They</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="535">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E5-M1011">
+          <extent>
+              <charseq START="1736" END="1750">the authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="1740" END="1750">authorities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E5-M1206">
+          <extent>
+              <charseq START="2113" END="2127">the authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="2117" END="2127">authorities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090914.0305-E5-M1209">
+          <extent>
+              <charseq START="2139" END="2143">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2139" END="2143">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090914.0305-E5-M1216">
+          <extent>
+              <charseq START="2193" END="2197">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2193" END="2197">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E6-M306">
+          <extent>
+              <charseq START="270" END="282">gay activists</charseq>
+          </extent>
+          <head>
+              <charseq START="274" END="282">activists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E7-M307">
+          <extent>
+              <charseq START="270" END="272">gay</charseq>
+          </extent>
+          <head>
+              <charseq START="270" END="272">gay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E7-M701">
+          <extent>
+              <charseq START="929" END="931">gay</charseq>
+          </extent>
+          <head>
+              <charseq START="929" END="931">gay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E7-M709">
+          <extent>
+              <charseq START="1031" END="1033">gay</charseq>
+          </extent>
+          <head>
+              <charseq START="1031" END="1033">gay</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E8-M405">
+          <extent>
+              <charseq START="453" END="483">all people to
+peaceful assembly</charseq>
+          </extent>
+          <head>
+              <charseq START="457" END="462">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E9-M407">
+          <extent>
+              <charseq START="467" END="483">peaceful assembly</charseq>
+          </extent>
+          <head>
+              <charseq START="476" END="483">assembly</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E10-M514">
+          <extent>
+              <charseq START="670" END="683">Belgrade Pride</charseq>
+          </extent>
+          <head>
+              <charseq START="670" END="683">Belgrade Pride</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E10-M802">
+          <extent>
+              <charseq START="1245" END="1262">the Belgrade Pride</charseq>
+          </extent>
+          <head>
+              <charseq START="1249" END="1262">Belgrade Pride</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Belgrade Pride">
+              <charseq START="670" END="683">Belgrade Pride</charseq>
+          </name>
+          <name NAME="Belgrade Pride">
+              <charseq START="1249" END="1262">Belgrade Pride</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E11-M609">
+          <extent>
+              <charseq START="820" END="825">police</charseq>
+          </extent>
+          <head>
+              <charseq START="820" END="825">police</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E12-M611">
+          <extent>
+              <charseq START="845" END="857">football fans</charseq>
+          </extent>
+          <head>
+              <charseq START="854" END="857">fans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E12-M616">
+          <extent>
+              <charseq START="902" END="913">participants</charseq>
+          </extent>
+          <head>
+              <charseq START="902" END="913">participants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E13-M613">
+          <extent>
+              <charseq START="860" END="871">nationalists</charseq>
+          </extent>
+          <head>
+              <charseq START="860" END="871">nationalists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E13-M1308">
+          <extent>
+              <charseq START="2406" END="2417">nationalists</charseq>
+          </extent>
+          <head>
+              <charseq START="2406" END="2417">nationalists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E14-M614">
+          <extent>
+              <charseq START="877" END="913">skinheads from attacking participants</charseq>
+          </extent>
+          <head>
+              <charseq START="877" END="885">skinheads</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E15-M713">
+          <extent>
+              <charseq START="1115" END="1124">Sian Jones</charseq>
+          </extent>
+          <head>
+              <charseq START="1115" END="1124">Sian Jones</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E15-M714">
+          <extent>
+              <charseq START="1127" END="1164">Amnesty International&apos;s
+Balkans expert</charseq>
+          </extent>
+          <head>
+              <charseq START="1159" END="1164">expert</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E15-M1014">
+          <extent>
+              <charseq START="1798" END="1802">Jonas</charseq>
+          </extent>
+          <head>
+              <charseq START="1798" END="1802">Jonas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sian Jones">
+              <charseq START="1115" END="1124">Sian Jones</charseq>
+          </name>
+          <name NAME="Jonas">
+              <charseq START="1798" END="1802">Jonas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E16-M716">
+          <extent>
+              <charseq START="1151" END="1157">Balkans</charseq>
+          </extent>
+          <head>
+              <charseq START="1151" END="1157">Balkans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E16-M719">
+          <extent>
+              <charseq START="1200" END="1209">the agency</charseq>
+          </extent>
+          <head>
+              <charseq START="1204" END="1209">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E16-M919">
+          <extent>
+              <charseq START="1575" END="1581">Balkans</charseq>
+          </extent>
+          <head>
+              <charseq START="1575" END="1581">Balkans</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Balkans">
+              <charseq START="1151" END="1157">Balkans</charseq>
+          </name>
+          <name NAME="Balkans">
+              <charseq START="1575" END="1581">Balkans</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E17-M700">
+          <extent>
+              <charseq START="925" END="941">The gay community</charseq>
+          </extent>
+          <head>
+              <charseq START="933" END="941">community</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E17-M711">
+          <extent>
+              <charseq START="1054" END="1069">the perpetrators</charseq>
+          </extent>
+          <head>
+              <charseq START="1058" END="1069">perpetrators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E17-M1309">
+          <extent>
+              <charseq START="2423" END="2445">the religious community</charseq>
+          </extent>
+          <head>
+              <charseq START="2437" END="2445">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E18-M708">
+          <extent>
+              <charseq START="1031" END="1040">gay people</charseq>
+          </extent>
+          <head>
+              <charseq START="1035" END="1040">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E19-M800">
+          <extent>
+              <charseq START="1231" END="1262">Organizers of the Belgrade Pride</charseq>
+          </extent>
+          <head>
+              <charseq START="1231" END="1240">Organizers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E20-M907">
+          <extent>
+              <charseq START="1451" END="1459">anti-Serb</charseq>
+          </extent>
+          <head>
+              <charseq START="1456" END="1459">Serb</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Serb">
+              <charseq START="1456" END="1459">Serb</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E21" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E21-M911" ROLE="GPE">
+          <extent>
+              <charseq START="1495" END="1500">Kosovo</charseq>
+          </extent>
+          <head>
+              <charseq START="1495" END="1500">Kosovo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kosovo">
+              <charseq START="1495" END="1500">Kosovo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E22-M902">
+          <extent>
+              <charseq START="1388" END="1413">women&apos;s rights campaigners</charseq>
+          </extent>
+          <head>
+              <charseq START="1403" END="1413">campaigners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E23-M903">
+          <extent>
+              <charseq START="1388" END="1392">women</charseq>
+          </extent>
+          <head>
+              <charseq START="1388" END="1392">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E24-M1012">
+          <extent>
+              <charseq START="1756" END="1771">few perpetrators</charseq>
+          </extent>
+          <head>
+              <charseq START="1760" END="1771">perpetrators</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E25" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E25-M1107">
+          <extent>
+              <charseq START="1929" END="2057">the UN Declaration of Human Rights Defenders,
+which provides a framework for the protection and support of human rights
+defenders</charseq>
+          </extent>
+          <head>
+              <charseq START="1933" END="1972">UN Declaration of Human Rights Defenders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090914.0305-E25-M1110">
+          <extent>
+              <charseq START="1975" END="1979">which</charseq>
+          </extent>
+          <head>
+              <charseq START="1975" END="1979">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UN Declaration of Human Rights Defenders">
+              <charseq START="1933" END="1972">UN Declaration of Human Rights Defenders</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E26-M1117">
+          <extent>
+              <charseq START="2036" END="2057">human rights
+defenders</charseq>
+          </extent>
+          <head>
+              <charseq START="2049" END="2057">defenders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E26-M1210">
+          <extent>
+              <charseq START="2160" END="2191">guarantee human rights defenders</charseq>
+          </extent>
+          <head>
+              <charseq START="2183" END="2191">defenders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E28" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090914.0305-E28-M1302">
+          <extent>
+              <charseq START="2331" END="2417">Serbia&apos;s parliament passed an anti-discrimination bill strongly
+opposed by nationalists</charseq>
+          </extent>
+          <head>
+              <charseq START="2340" END="2349">parliament</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090914.0305-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090914.0305-E29-M1409">
+          <extent>
+              <charseq START="2578" END="2595">Christian Orthodox</charseq>
+          </extent>
+          <head>
+              <charseq START="2578" END="2595">Christian Orthodox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Christian Orthodox">
+              <charseq START="2578" END="2595">Christian Orthodox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20090914.0305-T0" VAL="2009-09-14">
+        <timex2_mention ID="AFP_ENG_20090914.0305-T0-M1">
+            <extent>
+              <charseq START="161" END="173">Sept 14, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090914.0305-T1" VAL="2009-09-14">
+        <timex2_mention ID="AFP_ENG_20090914.0305-T1-M1">
+            <extent>
+              <charseq START="312" END="317">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090914.0305-T2" VAL="P9Y">
+        <timex2_mention ID="AFP_ENG_20090914.0305-T2-M1">
+            <extent>
+              <charseq START="370" END="379">nine years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090914.0305-T3" VAL="2009-09-20">
+        <timex2_mention ID="AFP_ENG_20090914.0305-T3-M1">
+            <extent>
+              <charseq START="737" END="748">September 20</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090914.0305-T4" VAL="2001">
+        <timex2_mention ID="AFP_ENG_20090914.0305-T4-M1">
+            <extent>
+              <charseq START="782" END="785">2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090914.0305-T5" VAL="199">
+        <timex2_mention ID="AFP_ENG_20090914.0305-T5-M1">
+            <extent>
+              <charseq START="1564" END="1572">the 1990s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090914.0305-T6" VAL="2009-03">
+        <timex2_mention ID="AFP_ENG_20090914.0305-T6-M1">
+            <extent>
+              <charseq START="2324" END="2328">March</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20090914.0305-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090914.0305-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090914.0305-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090914.0305-R0-M300">
+          <extent>
+              <charseq START="204" END="228">The authorities in Serbia</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E5-M300" ROLE="Arg-1">
+            <extent>
+              <charseq START="204" END="228">The authorities in Serbia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E0-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="223" END="228">Serbia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090914.0305-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090914.0305-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090914.0305-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090914.0305-R1-M400">
+          <extent>
+              <charseq START="392" END="414">The Serbian authorities</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E5-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="392" END="414">The Serbian authorities</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E0-M401" ROLE="Arg-2">
+            <extent>
+              <charseq START="396" END="402">Serbian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090914.0305-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090914.0305-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090914.0305-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090914.0305-R2-M700">
+          <extent>
+              <charseq START="1127" END="1164">Amnesty International&apos;s
+Balkans expert</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E15-M714" ROLE="Arg-1">
+            <extent>
+              <charseq START="1127" END="1164">Amnesty International&apos;s
+Balkans expert</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E1-M715" ROLE="Arg-2">
+            <extent>
+              <charseq START="1127" END="1147">Amnesty International</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090914.0305-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090914.0305-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090914.0305-E16" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090914.0305-R3-M701">
+          <extent>
+              <charseq START="1127" END="1164">Amnesty International&apos;s
+Balkans expert</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E15-M714" ROLE="Arg-1">
+            <extent>
+              <charseq START="1127" END="1164">Amnesty International&apos;s
+Balkans expert</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E16-M716" ROLE="Arg-2">
+            <extent>
+              <charseq START="1151" END="1157">Balkans</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090914.0305-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090914.0305-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090914.0305-E10" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090914.0305-R4-M800">
+          <extent>
+              <charseq START="1231" END="1262">Organizers of the Belgrade Pride</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E19-M800" ROLE="Arg-1">
+            <extent>
+              <charseq START="1231" END="1262">Organizers of the Belgrade Pride</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E10-M802" ROLE="Arg-2">
+            <extent>
+              <charseq START="1245" END="1262">the Belgrade Pride</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090914.0305-R5" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090914.0305-E28" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090914.0305-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090914.0305-R5-M1300">
+          <extent>
+              <charseq START="2331" END="2417">Serbia&apos;s parliament passed an anti-discrimination bill strongly
+opposed by nationalists</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E28-M1302" ROLE="Arg-1">
+            <extent>
+              <charseq START="2331" END="2417">Serbia&apos;s parliament passed an anti-discrimination bill strongly
+opposed by nationalists</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E0-M1304" ROLE="Arg-2">
+            <extent>
+              <charseq START="2331" END="2336">Serbia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090914.0305-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090914.0305-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090914.0305-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090914.0305-R6-M1400">
+          <extent>
+              <charseq START="2578" END="2595">Christian Orthodox</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E29-M1409" ROLE="Arg-1">
+            <extent>
+              <charseq START="2578" END="2595">Christian Orthodox</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090914.0305-E0-M1408" ROLE="Arg-2">
+            <extent>
+              <charseq START="2578" END="2603">Christian Orthodox country</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

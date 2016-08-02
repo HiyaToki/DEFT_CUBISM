@@ -1,0 +1,729 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20101012.0266">
+  <document DOCID="XIN_ENG_20101012.0266">
+
+    <entity ID="XIN_ENG_20101012.0266-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E0-M1">
+          <extent>
+              <charseq START="58" END="62">South</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">South</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South">
+              <charseq START="58" END="62">South</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E1" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E1-M2" ROLE="GPE">
+          <extent>
+              <charseq START="64" END="70">African</charseq>
+          </extent>
+          <head>
+              <charseq START="64" END="70">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="African">
+              <charseq START="64" END="70">African</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E2-M0">
+          <extent>
+              <charseq START="58" END="76">South African coach</charseq>
+          </extent>
+          <head>
+              <charseq START="72" END="76">coach</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E3-M4">
+          <extent>
+              <charseq START="96" END="109">soccer players</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="109">players</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E4-M101" ROLE="LOC">
+          <extent>
+              <charseq START="134" END="145">JOHANNESBURG</charseq>
+          </extent>
+          <head>
+              <charseq START="134" END="145">JOHANNESBURG</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="JOHANNESBURG">
+              <charseq START="134" END="145">JOHANNESBURG</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E5-M200">
+          <extent>
+              <charseq START="157" END="162">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="157" END="162">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="157" END="162">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E6-M300">
+          <extent>
+              <charseq START="188" END="238">South Africa&apos;s national soccer coach Pitso Mosimane</charseq>
+          </extent>
+          <head>
+              <charseq START="225" END="238">Pitso Mosimane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E6-M303">
+          <extent>
+              <charseq START="219" END="223">coach</charseq>
+          </extent>
+          <head>
+              <charseq START="219" END="223">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E6-M415">
+          <extent>
+              <charseq START="507" END="514">Mosimane</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="514">Mosimane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E6-M515">
+          <extent>
+              <charseq START="760" END="767">Mosimane</charseq>
+          </extent>
+          <head>
+              <charseq START="760" END="767">Mosimane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E6-M600">
+          <extent>
+              <charseq START="784" END="792">The coach</charseq>
+          </extent>
+          <head>
+              <charseq START="788" END="792">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E6-M601">
+          <extent>
+              <charseq START="800" END="801">he</charseq>
+          </extent>
+          <head>
+              <charseq START="800" END="801">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E6-M800">
+          <extent>
+              <charseq START="981" END="988">Mosimane</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="988">Mosimane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E6-M802">
+          <extent>
+              <charseq START="1015" END="1016">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1015" END="1016">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E6-M902">
+          <extent>
+              <charseq START="1060" END="1061">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1060" END="1061">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E6-M1000">
+          <extent>
+              <charseq START="1089" END="1090">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1089" END="1090">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E6-M1014">
+          <extent>
+              <charseq START="1222" END="1224">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1222" END="1224">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E6-M1104">
+          <extent>
+              <charseq START="1276" END="1283">Mosimane</charseq>
+          </extent>
+          <head>
+              <charseq START="1276" END="1283">Mosimane</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E6-M1103">
+          <extent>
+              <charseq START="1245" END="1247">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1245" END="1247">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pitso Mosimane">
+              <charseq START="225" END="238">Pitso Mosimane</charseq>
+          </name>
+          <name NAME="Mosimane">
+              <charseq START="507" END="514">Mosimane</charseq>
+          </name>
+          <name NAME="Mosimane">
+              <charseq START="760" END="767">Mosimane</charseq>
+          </name>
+          <name NAME="Mosimane">
+              <charseq START="981" END="988">Mosimane</charseq>
+          </name>
+          <name NAME="Mosimane">
+              <charseq START="1276" END="1283">Mosimane</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E7-M301">
+          <extent>
+              <charseq START="188" END="199">South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="188" END="199">South Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E7-M421" ROLE="LOC">
+          <extent>
+              <charseq START="569" END="580">South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="569" END="580">South Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E7-M1009">
+          <extent>
+              <charseq START="1157" END="1169">South African</charseq>
+          </extent>
+          <head>
+              <charseq START="1157" END="1169">South African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E7-M1203">
+          <extent>
+              <charseq START="1326" END="1337">South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="1326" END="1337">South Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E7-M1213" ROLE="LOC">
+          <extent>
+              <charseq START="1440" END="1451">South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="1440" END="1451">South Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Africa">
+              <charseq START="188" END="199">South Africa</charseq>
+          </name>
+          <name NAME="South Africa">
+              <charseq START="569" END="580">South Africa</charseq>
+          </name>
+          <name NAME="South African">
+              <charseq START="1157" END="1169">South African</charseq>
+          </name>
+          <name NAME="South Africa">
+              <charseq START="1326" END="1337">South Africa</charseq>
+          </name>
+          <name NAME="South Africa">
+              <charseq START="1440" END="1451">South Africa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E8-M308">
+          <extent>
+              <charseq START="256" END="270">Itumeleng
+Khune</charseq>
+          </extent>
+          <head>
+              <charseq START="256" END="270">Itumeleng
+Khune</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E8-M400">
+          <extent>
+              <charseq START="367" END="382">Goalkeeper Khune</charseq>
+          </extent>
+          <head>
+              <charseq START="378" END="382">Khune</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E8-M401">
+          <extent>
+              <charseq START="367" END="376">Goalkeeper</charseq>
+          </extent>
+          <head>
+              <charseq START="367" END="376">Goalkeeper</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E8-M503">
+          <extent>
+              <charseq START="634" END="638">Khune</charseq>
+          </extent>
+          <head>
+              <charseq START="634" END="638">Khune</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Itumeleng
+Khune">
+              <charseq START="256" END="270">Itumeleng
+Khune</charseq>
+          </name>
+          <name NAME="Khune">
+              <charseq START="378" END="382">Khune</charseq>
+          </name>
+          <name NAME="Khune">
+              <charseq START="634" END="638">Khune</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E9-M309">
+          <extent>
+              <charseq START="276" END="286">Teko Modise</charseq>
+          </extent>
+          <head>
+              <charseq START="276" END="286">Teko Modise</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E9-M405">
+          <extent>
+              <charseq START="415" END="580">playmaker Modise, who was a late
+replacement for the injured Steven Pienaar, also impressed Mosimane in the 0-0
+draw in Freetown, according to Sport24 in South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="425" END="430">Modise</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E9-M407">
+          <extent>
+              <charseq START="415" END="423">playmaker</charseq>
+          </extent>
+          <head>
+              <charseq START="415" END="423">playmaker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E9-M409">
+          <extent>
+              <charseq START="433" END="435">who</charseq>
+          </extent>
+          <head>
+              <charseq START="433" END="435">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E9-M511">
+          <extent>
+              <charseq START="716" END="721">Modise</charseq>
+          </extent>
+          <head>
+              <charseq START="716" END="721">Modise</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E9-M605">
+          <extent>
+              <charseq START="823" END="828">Modise</charseq>
+          </extent>
+          <head>
+              <charseq START="823" END="828">Modise</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E9-M704">
+          <extent>
+              <charseq START="876" END="881">Modise</charseq>
+          </extent>
+          <head>
+              <charseq START="876" END="881">Modise</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E9-M801">
+          <extent>
+              <charseq START="995" END="1000">Modise</charseq>
+          </extent>
+          <head>
+              <charseq START="995" END="1000">Modise</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E9-M1200">
+          <extent>
+              <charseq START="1304" END="1309">Modise</charseq>
+          </extent>
+          <head>
+              <charseq START="1304" END="1309">Modise</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E9-M1201">
+          <extent>
+              <charseq START="1326" END="1366">South Africa&apos;s PSL Footballer of the Year</charseq>
+          </extent>
+          <head>
+              <charseq START="1345" END="1354">Footballer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E9-M1206">
+          <extent>
+              <charseq START="1369" END="1370">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1369" END="1370">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Teko Modise">
+              <charseq START="276" END="286">Teko Modise</charseq>
+          </name>
+          <name NAME="Modise">
+              <charseq START="425" END="430">Modise</charseq>
+          </name>
+          <name NAME="Modise">
+              <charseq START="716" END="721">Modise</charseq>
+          </name>
+          <name NAME="Modise">
+              <charseq START="823" END="828">Modise</charseq>
+          </name>
+          <name NAME="Modise">
+              <charseq START="876" END="881">Modise</charseq>
+          </name>
+          <name NAME="Modise">
+              <charseq START="995" END="1000">Modise</charseq>
+          </name>
+          <name NAME="Modise">
+              <charseq START="1304" END="1309">Modise</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E10-M314" ROLE="GPE">
+          <extent>
+              <charseq START="327" END="338">Sierra Leone</charseq>
+          </extent>
+          <head>
+              <charseq START="327" END="338">Sierra Leone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E10-M700">
+          <extent>
+              <charseq START="832" END="843">Sierra Leone</charseq>
+          </extent>
+          <head>
+              <charseq START="832" END="843">Sierra Leone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E10-M710">
+          <extent>
+              <charseq START="955" END="959">their</charseq>
+          </extent>
+          <head>
+              <charseq START="955" END="959">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sierra Leone">
+              <charseq START="327" END="338">Sierra Leone</charseq>
+          </name>
+          <name NAME="Sierra Leone">
+              <charseq START="832" END="843">Sierra Leone</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E11-M305">
+          <extent>
+              <charseq START="248" END="286">players Itumeleng
+Khune and Teko Modise</charseq>
+          </extent>
+          <head>
+              <charseq START="248" END="254">players</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101012.0266-E11-M313">
+          <extent>
+              <charseq START="300" END="304">their</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="304">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E12-M414">
+          <extent>
+              <charseq START="476" END="489">Steven Pienaar</charseq>
+          </extent>
+          <head>
+              <charseq START="476" END="489">Steven Pienaar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Steven Pienaar">
+              <charseq START="476" END="489">Steven Pienaar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E13-M418" ROLE="LOC">
+          <extent>
+              <charseq START="535" END="542">Freetown</charseq>
+          </extent>
+          <head>
+              <charseq START="535" END="542">Freetown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E13-M1004" ROLE="LOC">
+          <extent>
+              <charseq START="1134" END="1141">Freetown</charseq>
+          </extent>
+          <head>
+              <charseq START="1134" END="1141">Freetown</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Freetown">
+              <charseq START="535" END="542">Freetown</charseq>
+          </name>
+          <name NAME="Freetown">
+              <charseq START="1134" END="1141">Freetown</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E14-M502">
+          <extent>
+              <charseq START="610" END="627">single out players</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="627">players</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E16" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E16-M708">
+          <extent>
+              <charseq START="947" END="950">area</charseq>
+          </extent>
+          <head>
+              <charseq START="947" END="950">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101012.0266-E17-M804">
+          <extent>
+              <charseq START="1021" END="1040">a top quality player</charseq>
+          </extent>
+          <head>
+              <charseq START="1035" END="1040">player</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101012.0266-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E18-M1005">
+          <extent>
+              <charseq START="1148" END="1192">the PSL (South African Premier Soccer League)</charseq>
+          </extent>
+          <head>
+              <charseq START="1152" END="1154">PSL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101012.0266-E18-M1008">
+          <extent>
+              <charseq START="1157" END="1191">South African Premier Soccer League</charseq>
+          </extent>
+          <head>
+              <charseq START="1171" END="1191">Premier Soccer League</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PSL">
+              <charseq START="1152" END="1154">PSL</charseq>
+          </name>
+          <name NAME="Premier Soccer League">
+              <charseq START="1171" END="1191">Premier Soccer League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20101012.0266-T0" VAL="2010-10-12">
+        <timex2_mention ID="XIN_ENG_20101012.0266-T0-M1">
+            <extent>
+              <charseq START="148" END="154">Oct. 12</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101012.0266-T1" VAL="2010-10-12">
+        <timex2_mention ID="XIN_ENG_20101012.0266-T1-M1">
+            <extent>
+              <charseq START="288" END="294">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101012.0266-T2" VAL="2010-W42-WE">
+        <timex2_mention ID="XIN_ENG_20101012.0266-T2-M1">
+            <extent>
+              <charseq START="345" END="355">the weekend</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101012.0266-T3" VAL="PT90M">
+        <timex2_mention ID="XIN_ENG_20101012.0266-T3-M1">
+            <extent>
+              <charseq START="738" END="756">the full 90
+minutes</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101012.0266-T4" VAL="PT90M">
+        <timex2_mention ID="XIN_ENG_20101012.0266-T4-M1">
+            <extent>
+              <charseq START="1109" END="1129">this tough 90 minutes</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101012.0266-T5" VAL="2009">
+        <timex2_mention ID="XIN_ENG_20101012.0266-T5-M1">
+            <extent>
+              <charseq START="1401" END="1409">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20101012.0266-R0" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101012.0266-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101012.0266-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101012.0266-R0-M0">
+          <extent>
+              <charseq START="58" END="76">South African coach</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101012.0266-E2-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="58" END="76">South African coach</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101012.0266-E0-M1" ROLE="Arg-2">
+            <extent>
+              <charseq START="58" END="62">South</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101012.0266-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101012.0266-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101012.0266-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101012.0266-R1-M1">
+          <extent>
+              <charseq START="58" END="76">South African coach</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101012.0266-E2-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="58" END="76">South African coach</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101012.0266-E1-M2" ROLE="Arg-2">
+            <extent>
+              <charseq START="64" END="70">African</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101012.0266-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101012.0266-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101012.0266-E7" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101012.0266-R2-M300">
+          <extent>
+              <charseq START="219" END="223">coach</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101012.0266-E6-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="219" END="223">coach</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101012.0266-E7-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="188" END="199">South Africa</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101012.0266-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101012.0266-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101012.0266-E7" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101012.0266-R3-M1000">
+          <extent>
+              <charseq START="1157" END="1191">South African Premier Soccer League</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101012.0266-E18-M1008" ROLE="Arg-1">
+            <extent>
+              <charseq START="1157" END="1191">South African Premier Soccer League</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101012.0266-E7-M1009" ROLE="Arg-2">
+            <extent>
+              <charseq START="1157" END="1169">South African</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

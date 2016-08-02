@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100914.0319">
+  <document DOCID="APW_ENG_20100914.0319">
+
+    <entity ID="APW_ENG_20100914.0319-E0" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E0-M2">
+          <extent>
+              <charseq START="58" END="70">EU Commission</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="70">EU Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="EU Commission">
+              <charseq START="58" END="70">EU Commission</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E1-M3">
+          <extent>
+              <charseq START="78" END="83">France</charseq>
+          </extent>
+          <head>
+              <charseq START="78" END="83">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E1-M204">
+          <extent>
+              <charseq START="220" END="225">France</charseq>
+          </extent>
+          <head>
+              <charseq START="220" END="225">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E1-M402">
+          <extent>
+              <charseq START="423" END="428">France</charseq>
+          </extent>
+          <head>
+              <charseq START="423" END="428">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E1-M502" ROLE="LOC">
+          <extent>
+              <charseq START="588" END="593">France</charseq>
+          </extent>
+          <head>
+              <charseq START="588" END="593">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="France">
+              <charseq START="78" END="83">France</charseq>
+          </name>
+          <name NAME="France">
+              <charseq START="220" END="225">France</charseq>
+          </name>
+          <name NAME="France">
+              <charseq START="423" END="428">France</charseq>
+          </name>
+          <name NAME="France">
+              <charseq START="588" END="593">France</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="129" END="136">BRUSSELS</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="136">BRUSSELS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BRUSSELS">
+              <charseq START="129" END="136">BRUSSELS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E3-M200">
+          <extent>
+              <charseq START="185" END="207">The European Commission</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="207">European Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Commission">
+              <charseq START="189" END="207">European Commission</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E4-M205">
+          <extent>
+              <charseq START="243" END="249">Gypsies</charseq>
+          </extent>
+          <head>
+              <charseq START="243" END="249">Gypsies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E4-M403">
+          <extent>
+              <charseq START="448" END="510">more than 1,000 Gypsies, also known as Roma, mainly to Romania,</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="470">Gypsies</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gypsies">
+              <charseq START="243" END="249">Gypsies</charseq>
+          </name>
+          <name NAME="Gypsies">
+              <charseq START="464" END="470">Gypsies</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E5" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E5-M211" ROLE="GPE">
+          <extent>
+              <charseq START="304" END="317">European Union</charseq>
+          </extent>
+          <head>
+              <charseq START="304" END="317">European Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E5-M301" ROLE="GPE">
+          <extent>
+              <charseq START="333" END="334">EU</charseq>
+          </extent>
+          <head>
+              <charseq START="333" END="334">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Union">
+              <charseq START="304" END="317">European Union</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="333" END="334">EU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E6-M300">
+          <extent>
+              <charseq START="333" END="370">EU Justice Commissioner Viviane Reding</charseq>
+          </extent>
+          <head>
+              <charseq START="357" END="370">Viviane Reding</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100914.0319-E6-M303">
+          <extent>
+              <charseq START="344" END="355">Commissioner</charseq>
+          </extent>
+          <head>
+              <charseq START="344" END="355">Commissioner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100914.0319-E6-M305">
+          <extent>
+              <charseq START="377" END="379">she</charseq>
+          </extent>
+          <head>
+              <charseq START="377" END="379">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Viviane Reding">
+              <charseq START="357" END="370">Viviane Reding</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E7-M302">
+          <extent>
+              <charseq START="336" END="342">Justice</charseq>
+          </extent>
+          <head>
+              <charseq START="336" END="342">Justice</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Justice">
+              <charseq START="336" END="342">Justice</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E8-M406">
+          <extent>
+              <charseq START="487" END="509">Roma, mainly to Romania</charseq>
+          </extent>
+          <head>
+              <charseq START="487" END="490">Roma</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roma">
+              <charseq START="487" END="490">Roma</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100914.0319-E9-M408" ROLE="LOC">
+          <extent>
+              <charseq START="503" END="509">Romania</charseq>
+          </extent>
+          <head>
+              <charseq START="503" END="509">Romania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Romania">
+              <charseq START="503" END="509">Romania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100914.0319-E10-M500">
+          <extent>
+              <charseq START="575" END="593">Officials in France</charseq>
+          </extent>
+          <head>
+              <charseq START="575" END="583">Officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100914.0319-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100914.0319-E11-M503">
+          <extent>
+              <charseq START="616" END="632">100 illegal camps</charseq>
+          </extent>
+          <head>
+              <charseq START="628" END="632">camps</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100914.0319-T0" VAL="2010-09-14-09">
+        <timex2_mention ID="APW_ENG_20100914.0319-T0-M1">
+            <extent>
+              <charseq START="138" END="147">2010-09-14</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100914.0319-T1" VAL="PXW" ANCHOR_VAL="2010-W38" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="APW_ENG_20100914.0319-T1-M1">
+            <extent>
+              <charseq START="552" END="563">recent weeks</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100914.0319-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100914.0319-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100914.0319-E7" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100914.0319-R0-M300">
+          <extent>
+              <charseq START="344" END="355">Commissioner</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100914.0319-E6-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="344" END="355">Commissioner</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100914.0319-E7-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="336" END="342">Justice</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100914.0319-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100914.0319-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100914.0319-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100914.0319-R1-M500">
+          <extent>
+              <charseq START="575" END="593">Officials in France</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100914.0319-E10-M500" ROLE="Arg-1">
+            <extent>
+              <charseq START="575" END="593">Officials in France</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100914.0319-E1-M502" ROLE="Arg-2">
+            <extent>
+              <charseq START="588" END="593">France</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

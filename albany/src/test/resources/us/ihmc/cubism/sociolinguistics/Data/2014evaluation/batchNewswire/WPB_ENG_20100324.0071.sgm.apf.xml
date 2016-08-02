@@ -1,0 +1,926 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="WPB_ENG_20100324.0071">
+  <document DOCID="WPB_ENG_20100324.0071">
+
+    <entity ID="WPB_ENG_20100324.0071-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E0-M100" ROLE="LOC">
+          <extent>
+              <charseq START="142" END="214">WASHINGTON
+By Michael D. Shear
+WASHINGTON POST-BLOOMBERG--03-24-10 1532ET</charseq>
+          </extent>
+          <head>
+              <charseq START="142" END="151">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E0-M105" ROLE="GPE">
+          <extent>
+              <charseq START="173" END="182">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="173" END="182">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="142" END="151">WASHINGTON</charseq>
+          </name>
+          <name NAME="WASHINGTON">
+              <charseq START="173" END="182">WASHINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E1-M104">
+          <extent>
+              <charseq START="156" END="171">Michael D. Shear</charseq>
+          </extent>
+          <head>
+              <charseq START="156" END="171">Michael D. Shear</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michael D. Shear">
+              <charseq START="156" END="171">Michael D. Shear</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E2-M207">
+          <extent>
+              <charseq START="287" END="308">President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="297" END="308">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E2-M208">
+          <extent>
+              <charseq START="287" END="295">President</charseq>
+          </extent>
+          <head>
+              <charseq START="287" END="295">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M500">
+          <extent>
+              <charseq START="471" END="472">He</charseq>
+          </extent>
+          <head>
+              <charseq START="471" END="472">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M605">
+          <extent>
+              <charseq START="575" END="577">his</charseq>
+          </extent>
+          <head>
+              <charseq START="575" END="577">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M705">
+          <extent>
+              <charseq START="644" END="646">his</charseq>
+          </extent>
+          <head>
+              <charseq START="644" END="646">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E2-M1201">
+          <extent>
+              <charseq START="1382" END="1386">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1382" END="1386">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E2-M1306">
+          <extent>
+              <charseq START="1540" END="1544">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1540" END="1544">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M1310">
+          <extent>
+              <charseq START="1606" END="1608">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1606" END="1608">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E2-M1610">
+          <extent>
+              <charseq START="2067" END="2071">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="2067" END="2071">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E2-M1703">
+          <extent>
+              <charseq START="2110" END="2122">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="2114" END="2122">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E2-M1800">
+          <extent>
+              <charseq START="2321" END="2333">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="2325" END="2333">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M1807">
+          <extent>
+              <charseq START="2384" END="2386">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2384" END="2386">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M1817">
+          <extent>
+              <charseq START="2491" END="2492">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2491" END="2492">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M1822">
+          <extent>
+              <charseq START="2515" END="2517">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2515" END="2517">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E2-M1900">
+          <extent>
+              <charseq START="2544" END="2548">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="2544" END="2548">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E2-M2002">
+          <extent>
+              <charseq START="2666" END="2678">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="2670" END="2678">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M2010">
+          <extent>
+              <charseq START="2744" END="2746">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2744" END="2746">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E2-M2108">
+          <extent>
+              <charseq START="2860" END="2864">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="2860" END="2864">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E2-M2207">
+          <extent>
+              <charseq START="2960" END="2972">the president</charseq>
+          </extent>
+          <head>
+              <charseq START="2964" END="2972">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M2209">
+          <extent>
+              <charseq START="2978" END="2980">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2978" END="2980">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E2-M2300">
+          <extent>
+              <charseq START="3041" END="3042">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3041" END="3042">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="297" END="308">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="1382" END="1386">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="1540" END="1544">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="2067" END="2071">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="2544" END="2548">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="2860" END="2864">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E3" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E3-M711">
+          <extent>
+              <charseq START="736" END="751">pro-
+choice ones</charseq>
+          </extent>
+          <head>
+              <charseq START="748" END="751">ones</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E4-M806">
+          <extent>
+              <charseq START="839" END="883">William Galston, of the Brookings Institution</charseq>
+          </extent>
+          <head>
+              <charseq START="839" END="853">William Galston</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E4-M907">
+          <extent>
+              <charseq START="977" END="1001">a very important
+minority</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="1001">minority</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E4-M1701">
+          <extent>
+              <charseq START="2095" END="2101">Galston</charseq>
+          </extent>
+          <head>
+              <charseq START="2095" END="2101">Galston</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="William Galston">
+              <charseq START="839" END="853">William Galston</charseq>
+          </name>
+          <name NAME="Galston">
+              <charseq START="2095" END="2101">Galston</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E5" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E5-M808">
+          <extent>
+              <charseq START="859" END="883">the Brookings Institution</charseq>
+          </extent>
+          <head>
+              <charseq START="863" END="883">Brookings Institution</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brookings Institution">
+              <charseq START="863" END="883">Brookings Institution</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E7-M902">
+          <extent>
+              <charseq START="914" END="934">the
+base of the party</charseq>
+          </extent>
+          <head>
+              <charseq START="918" END="921">base</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E8-M904">
+          <extent>
+              <charseq START="926" END="934">the party</charseq>
+          </extent>
+          <head>
+              <charseq START="930" END="934">party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E8-M908">
+          <extent>
+              <charseq START="1010" END="1018">the party</charseq>
+          </extent>
+          <head>
+              <charseq START="1014" END="1018">party</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E9-M1114">
+          <extent>
+              <charseq START="1242" END="1261">government officials</charseq>
+          </extent>
+          <head>
+              <charseq START="1253" END="1261">officials</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E9-M1118">
+          <extent>
+              <charseq START="1277" END="1281">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1277" END="1281">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E10-M1115">
+          <extent>
+              <charseq START="1242" END="1251">government</charseq>
+          </extent>
+          <head>
+              <charseq START="1242" END="1251">government</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E11-M1200">
+          <extent>
+              <charseq START="1345" END="1364">pro-choice activists</charseq>
+          </extent>
+          <head>
+              <charseq START="1356" END="1364">activists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E12-M1204">
+          <extent>
+              <charseq START="1416" END="1430">pro-life groups</charseq>
+          </extent>
+          <head>
+              <charseq START="1425" END="1430">groups</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E13" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E13-M1300">
+          <extent>
+              <charseq START="1477" END="1511">The National Organization for Women</charseq>
+          </extent>
+          <head>
+              <charseq START="1481" END="1511">National Organization for Women</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Organization for Women">
+              <charseq START="1481" END="1511">National Organization for Women</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E14-M1318">
+          <extent>
+              <charseq START="1717" END="1721">women</charseq>
+          </extent>
+          <head>
+              <charseq START="1717" END="1721">women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E14-M1809">
+          <extent>
+              <charseq START="2417" END="2421">women</charseq>
+          </extent>
+          <head>
+              <charseq START="2417" END="2421">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E15" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E15-M1400">
+          <extent>
+              <charseq START="1738" END="1756">the activist groups</charseq>
+          </extent>
+          <head>
+              <charseq START="1751" END="1756">groups</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E15-M1503">
+          <extent>
+              <charseq START="1824" END="1828">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1824" END="1828">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E15-M1505">
+          <extent>
+              <charseq START="1851" END="1854">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1851" END="1854">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E15-M1512">
+          <extent>
+              <charseq START="1893" END="1897">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1893" END="1897">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E16-M1401">
+          <extent>
+              <charseq START="1742" END="1749">activist</charseq>
+          </extent>
+          <head>
+              <charseq START="1742" END="1749">activist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E17-M1511">
+          <extent>
+              <charseq START="1893" END="1905">their members</charseq>
+          </extent>
+          <head>
+              <charseq START="1899" END="1905">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E18-M1513">
+          <extent>
+              <charseq START="1911" END="1920">supporters</charseq>
+          </extent>
+          <head>
+              <charseq START="1911" END="1920">supporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E19-M1600">
+          <extent>
+              <charseq START="1923" END="1925">NOW</charseq>
+          </extent>
+          <head>
+              <charseq START="1923" END="1925">NOW</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NOW">
+              <charseq START="1923" END="1925">NOW</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E20-M1705">
+          <extent>
+              <charseq START="2167" END="2194">a
+single pro-choice lawmaker</charseq>
+          </extent>
+          <head>
+              <charseq START="2187" END="2194">lawmaker</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E21-M1813">
+          <extent>
+              <charseq START="2441" END="2448">African-</charseq>
+          </extent>
+          <head>
+              <charseq START="2441" END="2448">African-</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E21-M2101">
+          <extent>
+              <charseq START="2777" END="2784">African-</charseq>
+          </extent>
+          <head>
+              <charseq START="2777" END="2784">African-</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="African-">
+              <charseq START="2441" END="2448">African-</charseq>
+          </name>
+          <name NAME="African-">
+              <charseq START="2777" END="2784">African-</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E22-M1806">
+          <extent>
+              <charseq START="2384" END="2412">his most
+devoted constituents</charseq>
+          </extent>
+          <head>
+              <charseq START="2401" END="2412">constituents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E23-M1810">
+          <extent>
+              <charseq START="2424" END="2427">gays</charseq>
+          </extent>
+          <head>
+              <charseq START="2424" END="2427">gays</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E23-M1902">
+          <extent>
+              <charseq START="2560" END="2563">gays</charseq>
+          </extent>
+          <head>
+              <charseq START="2560" END="2563">gays</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E23-M2102">
+          <extent>
+              <charseq START="2785" END="2804">American legislators</charseq>
+          </extent>
+          <head>
+              <charseq START="2794" END="2804">legislators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100324.0071-E23-M2112">
+          <extent>
+              <charseq START="2889" END="2893">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2889" END="2893">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E24" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E24-M1811">
+          <extent>
+              <charseq START="2430" END="2435">unions</charseq>
+          </extent>
+          <head>
+              <charseq START="2430" END="2435">unions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E25-M1812">
+          <extent>
+              <charseq START="2441" END="2457">African-Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="2449" END="2457">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E27-M1903">
+          <extent>
+              <charseq START="2569" END="2609">lesbians to be patient when it comes to &quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="2569" END="2576">lesbians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E27-M1905">
+          <extent>
+              <charseq START="2584" END="2590">patient</charseq>
+          </extent>
+          <head>
+              <charseq START="2584" END="2590">patient</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E28-M2008">
+          <extent>
+              <charseq START="2744" END="2765">his allies desperately</charseq>
+          </extent>
+          <head>
+              <charseq START="2748" END="2753">allies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E29" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100324.0071-E29-M2103" ROLE="GPE">
+          <extent>
+              <charseq START="2785" END="2792">American</charseq>
+          </extent>
+          <head>
+              <charseq START="2785" END="2792">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="2785" END="2792">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E30-M2111">
+          <extent>
+              <charseq START="2889" END="2905">their communities</charseq>
+          </extent>
+          <head>
+              <charseq START="2895" END="2905">communities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100324.0071-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100324.0071-E31-M2208">
+          <extent>
+              <charseq START="2978" END="2988">his lawyers</charseq>
+          </extent>
+          <head>
+              <charseq START="2982" END="2988">lawyers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="WPB_ENG_20100324.0071-T0" VAL="2010-03-24">
+        <timex2_mention ID="WPB_ENG_20100324.0071-T0-M1">
+            <extent>
+              <charseq START="336" END="344">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100324.0071-T1" VAL="2010-03-21TNI">
+        <timex2_mention ID="WPB_ENG_20100324.0071-T1-M1">
+            <extent>
+              <charseq START="1522" END="1533">Sunday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100324.0071-T2" VAL="2010-03-22">
+        <timex2_mention ID="WPB_ENG_20100324.0071-T2-M1">
+            <extent>
+              <charseq START="1936" END="1941">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100324.0071-T3" VAL="P3DE">
+        <timex2_mention ID="WPB_ENG_20100324.0071-T3-M1">
+            <extent>
+              <charseq START="2018" END="2040">three-decade-old annual</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100324.0071-T4" VAL="2010-03-21">
+        <timex2_mention ID="WPB_ENG_20100324.0071-T4-M1">
+            <extent>
+              <charseq START="2922" END="2927">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="WPB_ENG_20100324.0071-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E5" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R0-M800">
+          <extent>
+              <charseq START="839" END="883">William Galston, of the Brookings Institution</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E4-M806" ROLE="Arg-1">
+            <extent>
+              <charseq START="839" END="883">William Galston, of the Brookings Institution</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E5-M808" ROLE="Arg-2">
+            <extent>
+              <charseq START="859" END="883">the Brookings Institution</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100324.0071-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E7" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R1-M900">
+          <extent>
+              <charseq START="926" END="934">the party</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E8-M904" ROLE="Arg-1">
+            <extent>
+              <charseq START="926" END="934">the party</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E7-M902" ROLE="Arg-2">
+            <extent>
+              <charseq START="914" END="934">the
+base of the party</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100324.0071-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E10" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R2-M1100">
+          <extent>
+              <charseq START="1242" END="1261">government officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E9-M1114" ROLE="Arg-1">
+            <extent>
+              <charseq START="1242" END="1261">government officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E10-M1115" ROLE="Arg-2">
+            <extent>
+              <charseq START="1242" END="1251">government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100324.0071-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E15" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R3-M1400">
+          <extent>
+              <charseq START="1742" END="1749">activist</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E16-M1401" ROLE="Arg-1">
+            <extent>
+              <charseq START="1742" END="1749">activist</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E15-M1400" ROLE="Arg-2">
+            <extent>
+              <charseq START="1738" END="1756">the activist groups</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100324.0071-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E15" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R4-M1500">
+          <extent>
+              <charseq START="1893" END="1905">their members</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E17-M1511" ROLE="Arg-1">
+            <extent>
+              <charseq START="1893" END="1905">their members</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E15-M1512" ROLE="Arg-2">
+            <extent>
+              <charseq START="1893" END="1897">their</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100324.0071-R5" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E22" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R5-M1800">
+          <extent>
+              <charseq START="2384" END="2386">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E2-M1807" ROLE="Arg-1">
+            <extent>
+              <charseq START="2384" END="2386">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E22-M1806" ROLE="Arg-2">
+            <extent>
+              <charseq START="2384" END="2412">his most
+devoted constituents</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100324.0071-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E28" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R6-M2000">
+          <extent>
+              <charseq START="2744" END="2746">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E2-M2010" ROLE="Arg-1">
+            <extent>
+              <charseq START="2744" END="2746">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E28-M2008" ROLE="Arg-2">
+            <extent>
+              <charseq START="2744" END="2765">his allies desperately</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100324.0071-R7" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E29" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R7-M2100">
+          <extent>
+              <charseq START="2785" END="2804">American legislators</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E23-M2102" ROLE="Arg-1">
+            <extent>
+              <charseq START="2785" END="2804">American legislators</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E29-M2103" ROLE="Arg-2">
+            <extent>
+              <charseq START="2785" END="2792">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100324.0071-R8" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E30" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R8-M2101">
+          <extent>
+              <charseq START="2889" END="2893">their</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E23-M2112" ROLE="Arg-1">
+            <extent>
+              <charseq START="2889" END="2893">their</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E30-M2111" ROLE="Arg-2">
+            <extent>
+              <charseq START="2889" END="2905">their communities</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100324.0071-R9" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100324.0071-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100324.0071-E31" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100324.0071-R9-M2200">
+          <extent>
+              <charseq START="2978" END="2980">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E2-M2209" ROLE="Arg-1">
+            <extent>
+              <charseq START="2978" END="2980">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100324.0071-E31-M2208" ROLE="Arg-2">
+            <extent>
+              <charseq START="2978" END="2988">his lawyers</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

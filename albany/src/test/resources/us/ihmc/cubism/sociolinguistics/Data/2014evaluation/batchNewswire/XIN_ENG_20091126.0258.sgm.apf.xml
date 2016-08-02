@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091126.0258">
+  <document DOCID="XIN_ENG_20091126.0258">
+
+    <entity ID="XIN_ENG_20091126.0258-E0" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E0-M0">
+          <extent>
+              <charseq START="58" END="60">WWF</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="60">WWF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E0-M303">
+          <extent>
+              <charseq START="226" END="228">WWF</charseq>
+          </extent>
+          <head>
+              <charseq START="226" END="228">WWF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E0-M414">
+          <extent>
+              <charseq START="507" END="509">WWF</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="509">WWF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091126.0258-E0-M700">
+          <extent>
+              <charseq START="959" END="1004">The Swiss-based environment conservation group</charseq>
+          </extent>
+          <head>
+              <charseq START="1000" END="1004">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WWF">
+              <charseq START="58" END="60">WWF</charseq>
+          </name>
+          <name NAME="WWF">
+              <charseq START="226" END="228">WWF</charseq>
+          </name>
+          <name NAME="WWF">
+              <charseq START="507" END="509">WWF</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E1-M2">
+          <extent>
+              <charseq START="71" END="75">China</charseq>
+          </extent>
+          <head>
+              <charseq START="71" END="75">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E1-M307">
+          <extent>
+              <charseq START="252" END="256">China</charseq>
+          </extent>
+          <head>
+              <charseq START="252" END="256">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E1-M404">
+          <extent>
+              <charseq START="396" END="400">China</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="400">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E1-M503">
+          <extent>
+              <charseq START="568" END="572">China</charseq>
+          </extent>
+          <head>
+              <charseq START="568" END="572">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E1-M507">
+          <extent>
+              <charseq START="603" END="607">China</charseq>
+          </extent>
+          <head>
+              <charseq START="603" END="607">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E1-M602" ROLE="LOC">
+          <extent>
+              <charseq START="867" END="871">China</charseq>
+          </extent>
+          <head>
+              <charseq START="867" END="871">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E1-M705" ROLE="GPE">
+          <extent>
+              <charseq START="1024" END="1030">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="1024" END="1030">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="71" END="75">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="252" END="256">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="396" END="400">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="568" END="572">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="603" END="607">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="867" END="871">China</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="1024" END="1030">Chinese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="146" END="151">GENEVA</charseq>
+          </extent>
+          <head>
+              <charseq START="146" END="151">GENEVA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="GENEVA">
+              <charseq START="146" END="151">GENEVA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E3-M200">
+          <extent>
+              <charseq START="163" END="168">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="163" END="168">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="163" END="168">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E4-M300">
+          <extent>
+              <charseq START="194" END="241">The World Wide Fund for Nature (WWF) on Thursday</charseq>
+          </extent>
+          <head>
+              <charseq START="198" END="223">World Wide Fund for Nature</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="World Wide Fund for Nature">
+              <charseq START="198" END="223">World Wide Fund for Nature</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E5-M410">
+          <extent>
+              <charseq START="483" END="496">Kim Carstensen</charseq>
+          </extent>
+          <head>
+              <charseq START="483" END="496">Kim Carstensen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091126.0258-E5-M411">
+          <extent>
+              <charseq START="499" END="537">head of WWF&apos;s global
+climate initiative</charseq>
+          </extent>
+          <head>
+              <charseq START="499" END="502">head</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E5-M522">
+          <extent>
+              <charseq START="798" END="807">Carstensen</charseq>
+          </extent>
+          <head>
+              <charseq START="798" END="807">Carstensen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091126.0258-E5-M608">
+          <extent>
+              <charseq START="940" END="941">he</charseq>
+          </extent>
+          <head>
+              <charseq START="940" END="941">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E5-M810">
+          <extent>
+              <charseq START="1271" END="1280">Carstensen</charseq>
+          </extent>
+          <head>
+              <charseq START="1271" END="1280">Carstensen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kim Carstensen">
+              <charseq START="483" END="496">Kim Carstensen</charseq>
+          </name>
+          <name NAME="Carstensen">
+              <charseq START="798" END="807">Carstensen</charseq>
+          </name>
+          <name NAME="Carstensen">
+              <charseq START="1271" END="1280">Carstensen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E6" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091126.0258-E6-M515">
+          <extent>
+              <charseq START="717" END="725">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="721" END="725">world</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091126.0258-E6-M800">
+          <extent>
+              <charseq START="1146" END="1154">The world</charseq>
+          </extent>
+          <head>
+              <charseq START="1150" END="1154">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E7-M701" ROLE="LOC">
+          <extent>
+              <charseq START="963" END="967">Swiss</charseq>
+          </extent>
+          <head>
+              <charseq START="963" END="967">Swiss</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Swiss">
+              <charseq START="963" END="967">Swiss</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E8-M707">
+          <extent>
+              <charseq START="1062" END="1079">Premier Wen Jiabao</charseq>
+          </extent>
+          <head>
+              <charseq START="1070" END="1079">Wen Jiabao</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091126.0258-E8-M708">
+          <extent>
+              <charseq START="1062" END="1068">Premier</charseq>
+          </extent>
+          <head>
+              <charseq START="1062" END="1068">Premier</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E8-M807">
+          <extent>
+              <charseq START="1216" END="1225">Wen
+Jiabao</charseq>
+          </extent>
+          <head>
+              <charseq START="1216" END="1225">Wen
+Jiabao</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wen Jiabao">
+              <charseq START="1070" END="1079">Wen Jiabao</charseq>
+          </name>
+          <name NAME="Wen
+Jiabao">
+              <charseq START="1216" END="1225">Wen
+Jiabao</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E9-M712" ROLE="GPE">
+          <extent>
+              <charseq START="1098" END="1107">Copenhagen</charseq>
+          </extent>
+          <head>
+              <charseq START="1098" END="1107">Copenhagen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091126.0258-E9-M808" ROLE="LOC">
+          <extent>
+              <charseq START="1238" END="1247">Copenhagen</charseq>
+          </extent>
+          <head>
+              <charseq START="1238" END="1247">Copenhagen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Copenhagen">
+              <charseq START="1098" END="1107">Copenhagen</charseq>
+          </name>
+          <name NAME="Copenhagen">
+              <charseq START="1238" END="1247">Copenhagen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091126.0258-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091126.0258-E10-M806">
+          <extent>
+              <charseq START="1203" END="1209">leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="1203" END="1209">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091126.0258-T0" VAL="2009-11-26">
+        <timex2_mention ID="XIN_ENG_20091126.0258-T0-M1">
+            <extent>
+              <charseq START="154" END="160">Nov. 26</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091126.0258-T1" VAL="2009-11-26">
+        <timex2_mention ID="XIN_ENG_20091126.0258-T1-M1">
+            <extent>
+              <charseq START="234" END="241">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091126.0258-T2" VAL="2020">
+        <timex2_mention ID="XIN_ENG_20091126.0258-T2-M1">
+            <extent>
+              <charseq START="351" END="354">2020</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="XIN_ENG_20091126.0258-V3" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="XIN_ENG_20091126.0258-V3-M1">
+            <extent>
+              <charseq START="369" END="381">40-45 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="XIN_ENG_20091126.0258-T4" VAL="2009-11-26">
+        <timex2_mention ID="XIN_ENG_20091126.0258-T4-M1">
+            <extent>
+              <charseq START="1048" END="1055">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091126.0258-T5" VAL="2009-12">
+        <timex2_mention ID="XIN_ENG_20091126.0258-T5-M1">
+            <extent>
+              <charseq START="1124" END="1133">next month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20091126.0258-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091126.0258-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091126.0258-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091126.0258-R0-M400">
+          <extent>
+              <charseq START="499" END="537">head of WWF&apos;s global
+climate initiative</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091126.0258-E5-M411" ROLE="Arg-1">
+            <extent>
+              <charseq START="499" END="537">head of WWF&apos;s global
+climate initiative</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091126.0258-E0-M414" ROLE="Arg-2">
+            <extent>
+              <charseq START="507" END="509">WWF</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091126.0258-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091126.0258-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091126.0258-E7" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091126.0258-R1-M700">
+          <extent>
+              <charseq START="959" END="1004">The Swiss-based environment conservation group</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091126.0258-E0-M700" ROLE="Arg-1">
+            <extent>
+              <charseq START="959" END="1004">The Swiss-based environment conservation group</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091126.0258-E7-M701" ROLE="Arg-2">
+            <extent>
+              <charseq START="963" END="967">Swiss</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091126.0258-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091126.0258-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091126.0258-E9" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091126.0258-R2-M800">
+          <extent>
+              <charseq START="1203" END="1209">leaders</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091126.0258-E10-M806" ROLE="Arg-1">
+            <extent>
+              <charseq START="1203" END="1209">leaders</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091126.0258-E9-M808" ROLE="Arg-2">
+            <extent>
+              <charseq START="1238" END="1247">Copenhagen</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

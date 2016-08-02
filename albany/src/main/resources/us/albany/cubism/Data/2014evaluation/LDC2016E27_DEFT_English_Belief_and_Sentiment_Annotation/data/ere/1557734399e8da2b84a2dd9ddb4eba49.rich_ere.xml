@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="55490d330000000000000037" doc_id="1557734399e8da2b84a2dd9ddb4eba49" source_type="multi_post">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specific">
+      <entity_mention id="m-87" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="14" length="4">
+        <mention_text>MLei</mention_text>
+      </entity_mention>
+      <entity_mention id="m-93" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="64" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-99" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="671" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-105" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="722" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-111" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="835" length="2">
+        <mention_text>me</mention_text>
+      </entity_mention>
+      <entity_mention id="m-117" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="896" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="933" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1053" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1081" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-141" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1093" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-147" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1133" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-18" type="PER" specificity="specific">
+      <entity_mention id="m-153" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="806" length="31">
+        <mention_text>the pedorathist that trained me</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="810" length="11">pedorathist</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="PER" specificity="specific">
+      <entity_mention id="m-171" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1245" length="9">
+        <mention_text>haase7788</mention_text>
+      </entity_mention>
+      <entity_mention id="m-177" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1305" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-183" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1367" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-189" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1421" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-195" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1507" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-201" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1530" length="2">
+        <mention_text>my</mention_text>
+      </entity_mention>
+      <entity_mention id="m-207" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1672" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-213" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1751" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="PER" specificity="specific">
+      <entity_mention id="m-219" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1298" length="4">
+        <mention_text>Chai</mention_text>
+      </entity_mention>
+      <entity_mention id="m-225" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="3090" length="4">
+        <mention_text>Chai</mention_text>
+      </entity_mention>
+      <entity_mention id="m-231" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="3110" length="4">
+        <mention_text>Chai</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="specific">
+      <entity_mention id="m-237" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1825" length="8">
+        <mention_text>bartay98</mention_text>
+      </entity_mention>
+      <entity_mention id="m-243" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1876" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-249" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1980" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-255" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2019" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-261" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2049" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-267" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2134" length="8">
+        <mention_text>bartay98</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="PER" specificity="specific">
+      <entity_mention id="m-273" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2085" length="5">
+        <mention_text>roger</mention_text>
+      </entity_mention>
+      <entity_mention id="m-279" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2177" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-285" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2209" length="2">
+        <mention_text>my</mention_text>
+      </entity_mention>
+      <entity_mention id="m-291" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2229" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-297" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2372" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-303" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2457" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-309" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2634" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-315" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2713" length="2">
+        <mention_text>my</mention_text>
+      </entity_mention>
+      <entity_mention id="m-321" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2896" length="1">
+        <mention_text>I</mention_text>
+      </entity_mention>
+      <entity_mention id="m-327" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2992" length="5">
+        <mention_text>roger</mention_text>
+      </entity_mention>
+      <entity_mention id="m-333" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="3010" length="5">
+        <mention_text>Roger</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="PER" specificity="specific">
+      <entity_mention id="m-339" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2671" length="31">
+        <mention_text>a name brand physical therapist</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="2693" length="9">therapist</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="PER" specificity="specific">
+      <entity_mention id="m-345" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2940" length="8">
+        <mention_text>ossobuco</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-42" type="PER" specificity="specific">
+      <entity_mention id="m-351" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="3040" length="6">
+        <mention_text>Shrugs</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="ORG" specificity="specific">
+      <entity_mention id="m-159" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="348" length="2">
+        <mention_text>we</mention_text>
+      </entity_mention>
+      <entity_mention id="m-165" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="636" length="3">
+        <mention_text>our</mention_text>
+      </entity_mention>
+      <entity_mention id="m-357" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="171" length="14">
+        <mention_text>Foot Solutions</mention_text>
+      </entity_mention>
+      <entity_mention id="m-363" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="689" length="14">
+        <mention_text>Foot Solutions</mention_text>
+      </entity_mention>
+      <entity_mention id="m-369" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="707" length="11">
+        <mention_text>a franchise</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="709" length="9">franchise</nom_head>
+      </entity_mention>
+      <entity_mention id="m-375" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1999" length="14">
+        <mention_text>Foot Solutions</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="ORG" specificity="specific">
+      <entity_mention id="m-381" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2807" length="20">
+        <mention_text>the local shoe store</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="2822" length="5">store</nom_head>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2838" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="FAC" specificity="specific">
+      <entity_mention id="m-393" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="636" length="9">
+        <mention_text>our store</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="640" length="5">store</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-57" type="FAC" specificity="specific">
+      <entity_mention id="m-411" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1775" length="14">
+        <mention_text>foot solutions</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-60" type="GPE" specificity="specific">
+      <entity_mention id="m-417" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="193" length="13">
+        <mention_text>United States</mention_text>
+      </entity_mention>
+      <entity_mention id="m-423" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="262" length="10">
+        <mention_text>the nation</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="266" length="6">nation</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-63" type="GPE" specificity="specific">
+      <entity_mention id="m-429" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="847" length="5">
+        <mention_text>Texas</mention_text>
+      </entity_mention>
+      <entity_mention id="m-435" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="880" length="5">
+        <mention_text>Texas</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-66" type="GPE" specificity="specific">
+      <entity_mention id="m-441" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="872" length="6">
+        <mention_text>Austin</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-69" type="GPE" specificity="specific">
+      <entity_mention id="m-447" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1793" length="5">
+        <mention_text>Fargo</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-72" type="GPE" specificity="specific">
+      <entity_mention id="m-453" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1799" length="2">
+        <mention_text>ND</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-75" type="GPE" specificity="specific">
+      <entity_mention id="m-459" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2882" length="9">
+        <mention_text>this town</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="2887" length="4">town</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-78" type="FAC" specificity="specific">
+      <entity_mention id="m-465" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="868" length="26">
+        <mention_text>the Austin, Texas location</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="886" length="8">location</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-81" type="FAC" specificity="specific">
+      <entity_mention id="m-471" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1088" length="4">
+        <mention_text>home</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="1088" length="4">home</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-84" type="LOC" specificity="specific">
+      <entity_mention id="m-477" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2361" length="25">
+        <mention_text>The places I go for walks</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="2365" length="6">places</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-749" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-743" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="323" length="12">
+        <mention_text>the sidewalk</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="327" length="8">sidewalk</nom_head>
+      </entity_mention>
+      <entity_mention id="m-752" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="354" length="12">
+        <mention_text>the sidewalk</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="358" length="8">sidewalk</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-764" type="PER" specificity="nonspecific">
+      <entity_mention id="m-758" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="218" length="3">
+        <mention_text>you</mention_text>
+      </entity_mention>
+      <entity_mention id="m-767" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="383" length="3">
+        <mention_text>you</mention_text>
+      </entity_mention>
+      <entity_mention id="m-773" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2559" length="4">
+        <mention_text>your</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-785" type="PER" specificity="nonspecific">
+      <entity_mention id="m-779" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="477" length="30">
+        <mention_text>a lot of people that wear them</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="479" length="3">lot</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-794" type="PER" specificity="nonspecific">
+      <entity_mention id="m-788" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="512" length="6">
+        <mention_text>nurses</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="512" length="6">nurses</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-803" type="PER" specificity="nonspecific">
+      <entity_mention id="m-797" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="520" length="8">
+        <mention_text>teachers</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="520" length="8">teachers</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-812" type="PER" specificity="nonspecific">
+      <entity_mention id="m-806" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="530" length="9">
+        <mention_text>mechanics</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="530" length="9">mechanics</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-821" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-815" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="653" length="27">
+        <mention_text>almost all stores I know of</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="664" length="6">stores</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-830" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-824" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="747" length="8">
+        <mention_text>them all</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-839" type="PER" specificity="nonspecific">
+      <entity_mention id="m-833" noun_type="NOM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1001" length="32">
+        <mention_text>the people that they do work for</mention_text>
+        <nom_head source="1557734399e8da2b84a2dd9ddb4eba49" offset="1005" length="6">people</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-848" type="PER" specificity="nonspecific">
+      <entity_mention id="m-842" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1542" length="4">
+        <mention_text>they</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-867" type="FAC" specificity="nonspecific">
+      <entity_mention id="m-861" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="236" length="14">
+        <mention_text>Foot Solutions</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-876" type="PER" specificity="nonspecific">
+      <entity_mention id="m-870" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="783" length="6">
+        <mention_text>anyone</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-1071" type="ORG" specificity="specific">
+      <entity_mention id="m-405" noun_type="PRO" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1893" length="5">
+        <mention_text>their</mention_text>
+      </entity_mention>
+      <entity_mention id="m-1065" noun_type="NAM" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1331" length="9">
+        <mention_text>chung shi</mention_text>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-951" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2235" length="13" type="commodity">the SAS Bravo</filler>
+    <filler id="f-958" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2235" length="13" type="commodity">the SAS Bravo</filler>
+    <filler id="f-1115" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1883" length="52" type="commodity">a pair of their Level 1 Comfort Step Trekker Sandals</filler>
+    <filler id="f-944" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1321" length="25" type="commodity">a pair of chung shi shoes</filler>
+    <filler id="f-906" source="1557734399e8da2b84a2dd9ddb4eba49" offset="434" length="11" type="commodity">These shoes</filler>
+    <filler id="f-986" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1758" length="4" type="money">$245</filler>
+    <filler id="f-1030" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1321" length="25" type="commodity">a pair of chung shi shoes</filler>
+    <filler id="f-1062" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1758" length="4" type="money">$245</filler>
+    <filler id="f-1106" source="1557734399e8da2b84a2dd9ddb4eba49" offset="1937" length="4" type="money">$235</filler>
+    <filler id="f-1159" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2910" length="6" type="money">$70.00</filler>
+    <filler id="f-1272" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2235" length="13" type="commodity">the SAS Bravo</filler>
+    <filler id="f-1265" source="1557734399e8da2b84a2dd9ddb4eba49" offset="2910" length="6" type="money">$70.00</filler>
+  </fillers>
+  <relations>
+    <relation id="r-455" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-483" realis="true">
+        <rel_arg1 entity_id="ent-45" entity_mention_id="m-357" role="org">Foot Solutions</rel_arg1>
+        <rel_arg2 entity_id="ent-60" entity_mention_id="m-417" role="loc">United States</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="186" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-456" type="personalsocial" subtype="business">
+      <relation_mention id="relm-503" realis="true">
+        <rel_arg1 entity_id="ent-18" entity_mention_id="m-153" role="per">the pedorathist that trained me</rel_arg1>
+        <rel_arg2 entity_id="ent-8" entity_mention_id="m-111" role="per">me</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="827" length="7">trained</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-457" type="physical" subtype="resident">
+      <relation_mention id="relm-513" realis="true">
+        <rel_arg1 entity_id="ent-18" entity_mention_id="m-153" role="per">the pedorathist that trained me</rel_arg1>
+        <rel_arg2 entity_id="ent-63" entity_mention_id="m-429" role="loc">Texas</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="842" length="4">from</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-458" type="physical" subtype="locatednear">
+      <relation_mention id="relm-523" realis="true">
+        <rel_arg1 entity_id="ent-18" entity_mention_id="m-153" role="entity">the pedorathist that trained me</rel_arg1>
+        <rel_arg2 entity_id="ent-78" entity_mention_id="m-465" role="loc">the Austin, Texas location</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="865" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-459" type="physical" subtype="locatednear">
+      <relation_mention id="relm-533" realis="true">
+        <rel_arg1 entity_id="ent-78" entity_mention_id="m-465" role="entity">the Austin, Texas location</rel_arg1>
+        <rel_arg2 entity_id="ent-66" entity_mention_id="m-441" role="loc">Austin</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-460" type="physical" subtype="locatednear">
+      <relation_mention id="relm-543" realis="true">
+        <rel_arg1 entity_id="ent-66" entity_mention_id="m-441" role="entity">Austin</rel_arg1>
+        <rel_arg2 entity_id="ent-63" entity_mention_id="m-435" role="loc">Texas</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-461" type="physical" subtype="resident">
+      <relation_mention id="relm-553" realis="true">
+        <rel_arg1 entity_id="ent-8" entity_mention_id="m-135" role="per">I</rel_arg1>
+        <rel_arg2 entity_id="ent-81" entity_mention_id="m-471" role="loc">home</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="1085" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-462" type="physical" subtype="locatednear">
+      <relation_mention id="relm-563" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-213" role="entity">I</rel_arg1>
+        <rel_arg2 entity_id="ent-57" entity_mention_id="m-411" role="loc">foot solutions</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="1772" length="2">at</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-463" type="physical" subtype="locatednear">
+      <relation_mention id="relm-573" realis="true">
+        <rel_arg1 entity_id="ent-57" entity_mention_id="m-411" role="entity">foot solutions</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-447" role="loc">Fargo</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="1790" length="2">is</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-464" type="physical" subtype="locatednear">
+      <relation_mention id="relm-583" realis="true">
+        <rel_arg1 entity_id="ent-69" entity_mention_id="m-447" role="entity">Fargo</rel_arg1>
+        <rel_arg2 entity_id="ent-72" entity_mention_id="m-453" role="loc">ND</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-465" type="physical" subtype="locatednear">
+      <relation_mention id="relm-593" realis="true">
+        <rel_arg1 entity_id="ent-33" entity_mention_id="m-297" role="entity">I</rel_arg1>
+        <rel_arg2 entity_id="ent-84" entity_mention_id="m-477" role="loc">The places I go for walks</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="2365" length="6">places</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-466" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-603" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-387" role="org">they</rel_arg1>
+        <rel_arg2 entity_id="ent-75" entity_mention_id="m-459" role="loc">this town</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="2879" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-467" type="physical" subtype="locatednear">
+      <relation_mention id="relm-879" realis="true">
+        <rel_arg1 entity_id="ent-867" entity_mention_id="m-861" role="entity">Foot Solutions</rel_arg1>
+        <rel_arg2 entity_id="ent-60" entity_mention_id="m-423" role="loc">the nation</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="251" length="10">throughout</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-468" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1162" realis="false">
+        <rel_arg1 entity_id="ent-764" entity_mention_id="m-758" role="entity">you</rel_arg1>
+        <rel_arg2 entity_id="ent-867" entity_mention_id="m-861" role="loc">Foot Solutions</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="231" length="2">in</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-469" type="physical" subtype="locatednear">
+      <relation_mention id="relm-1172" realis="false">
+        <rel_arg1 entity_id="ent-764" entity_mention_id="m-758" role="entity">you</rel_arg1>
+        <rel_arg2 entity_id="ent-749" entity_mention_id="m-743" role="loc">the sidewalk</rel_arg2>
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="320" length="2">on</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-617" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="2231" length="3">got</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-291" role="recipient" realis="true">I</em_arg>
+        <em_arg filler_id="f-951" role="thing" realis="true">the SAS Bravo</em_arg>
+      </event_mention>
+      <event_mention id="em-638" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="2898" length="3">got</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-321" role="recipient" realis="true">I</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-387" role="giver" realis="true">they</em_arg>
+        <em_arg entity_id="ent-75" entity_mention_id="m-459" role="place" realis="true">this town</em_arg>
+        <em_arg filler_id="f-958" role="thing" realis="true">the SAS Bravo</em_arg>
+      </event_mention>
+      <event_mention id="em-1212" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="3005" length="3">buy</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-333" role="recipient" realis="true">Roger</em_arg>
+        <em_arg filler_id="f-1272" role="thing" realis="true">the SAS Bravo</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-613">
+      <event_mention id="em-1120" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="2898" length="3">got</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-321" role="giver" realis="true">I</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-381" role="recipient" realis="true">the local shoe store</em_arg>
+        <em_arg entity_id="ent-75" entity_mention_id="m-459" role="place" realis="true">this town</em_arg>
+        <em_arg filler_id="f-1159" role="money" realis="true">$70.00</em_arg>
+      </event_mention>
+      <event_mention id="em-1240" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="3005" length="3">buy</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-333" role="giver" realis="true">Roger</em_arg>
+        <em_arg filler_id="f-1265" role="money" realis="true">$70.00</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-615">
+      <event_mention id="em-680" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="1312" length="8">puchased</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-177" role="recipient" realis="true">I</em_arg>
+        <em_arg entity_id="ent-69" entity_mention_id="m-447" role="place" realis="true">Fargo</em_arg>
+        <em_arg filler_id="f-944" role="thing" realis="true">a pair of chung shi shoes</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-917">
+      <event_mention id="em-889" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="450" length="4">made</trigger>
+        <em_arg filler_id="f-906" role="artifact" realis="true">These shoes</em_arg>
+        <em_arg entity_id="ent-45" entity_mention_id="m-363" role="agent" realis="true">Foot Solutions</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-996">
+      <event_mention id="em-1035" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="1312" length="8">puchased</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-177" role="giver" realis="true">I</em_arg>
+        <em_arg filler_id="f-1062" role="money" realis="true">$245</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1033">
+      <event_mention id="em-961" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="1753" length="4">paid</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-213" role="giver" realis="true">I</em_arg>
+        <em_arg filler_id="f-986" role="money" realis="true">$245</em_arg>
+        <em_arg entity_id="ent-57" entity_mention_id="m-411" role="place" realis="true">foot solutions</em_arg>
+      </event_mention>
+      <event_mention id="em-998" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="1753" length="4">paid</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-213" role="recipient" realis="true">I</em_arg>
+        <em_arg entity_id="ent-57" entity_mention_id="m-411" role="place" realis="true">foot solutions</em_arg>
+        <em_arg filler_id="f-1030" role="thing" realis="true">a pair of chung shi shoes</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1109">
+      <event_mention id="em-1074" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="1982" length="6">bought</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-249" role="giver" realis="true">I</em_arg>
+        <em_arg entity_id="ent-45" entity_mention_id="m-375" role="recipient" realis="true">Foot Solutions</em_arg>
+        <em_arg filler_id="f-1106" role="money" realis="true">$235</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1118">
+      <event_mention id="em-659" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="1982" length="6">bought</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-249" role="recipient" realis="true">I</em_arg>
+        <em_arg entity_id="ent-45" entity_mention_id="m-375" role="giver" realis="true">Foot Solutions</em_arg>
+        <em_arg filler_id="f-1115" role="thing" realis="true">a pair of their Level 1 Comfort Step Trekker Sandals</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1210">
+      <event_mention id="em-1182" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1557734399e8da2b84a2dd9ddb4eba49" offset="2032" length="8">returned</trigger>
+        <em_arg entity_id="ent-30" entity_mention_id="m-255" role="giver" realis="true">I</em_arg>
+        <em_arg entity_id="ent-45" entity_mention_id="m-375" role="recipient" realis="true">Foot Solutions</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

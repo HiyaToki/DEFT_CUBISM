@@ -1,0 +1,1273 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100921.0220">
+  <document DOCID="NYT_ENG_20100921.0220">
+
+    <entity ID="NYT_ENG_20100921.0220-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E0-M0">
+          <extent>
+              <charseq START="58" END="111">LAWSUITS ACCUSE MEGACHURCH LEADER OF SEXUAL MISCONDUCT</charseq>
+          </extent>
+          <head>
+              <charseq START="85" END="90">LEADER</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E1-M4">
+          <extent>
+              <charseq START="74" END="83">MEGACHURCH</charseq>
+          </extent>
+          <head>
+              <charseq START="74" END="83">MEGACHURCH</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E2-M100" ROLE="LOC">
+          <extent>
+              <charseq START="136" END="142">ATLANTA</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="142">ATLANTA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E2-M407" ROLE="GPE">
+          <extent>
+              <charseq START="634" END="640">Atlanta</charseq>
+          </extent>
+          <head>
+              <charseq START="634" END="640">Atlanta</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ATLANTA">
+              <charseq START="136" END="142">ATLANTA</charseq>
+          </name>
+          <name NAME="Atlanta">
+              <charseq START="634" END="640">Atlanta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E3-M202" ROLE="LOC">
+          <extent>
+              <charseq START="184" END="190">Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="184" END="190">Georgia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Georgia">
+              <charseq START="184" END="190">Georgia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E4-M208">
+          <extent>
+              <charseq START="226" END="232">Baptist</charseq>
+          </extent>
+          <head>
+              <charseq START="226" END="232">Baptist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Baptist">
+              <charseq START="226" END="232">Baptist</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E5-M209">
+          <extent>
+              <charseq START="246" END="266">Bishop Eddie L. Long,</charseq>
+          </extent>
+          <head>
+              <charseq START="253" END="265">Eddie L. Long</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M207">
+          <extent>
+              <charseq START="224" END="243">a Baptist megachurch</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="243">megachurch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M211">
+          <extent>
+              <charseq START="246" END="251">Bishop</charseq>
+          </extent>
+          <head>
+              <charseq START="246" END="251">Bishop</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M204">
+          <extent>
+              <charseq START="210" END="266">the pastor
+of a Baptist megachurch, Bishop Eddie L. Long,</charseq>
+          </extent>
+          <head>
+              <charseq START="214" END="219">pastor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E5-M216">
+          <extent>
+              <charseq START="317" END="319">him</charseq>
+          </extent>
+          <head>
+              <charseq START="317" END="319">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E5-M305">
+          <extent>
+              <charseq START="389" END="392">Long</charseq>
+          </extent>
+          <head>
+              <charseq START="389" END="392">Long</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M312">
+          <extent>
+              <charseq START="461" END="481">a
+spiritual counselor</charseq>
+          </extent>
+          <head>
+              <charseq START="473" END="481">counselor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E5-M311">
+          <extent>
+              <charseq START="445" END="447">his</charseq>
+          </extent>
+          <head>
+              <charseq START="445" END="447">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M401">
+          <extent>
+              <charseq START="568" END="647">the pastor of New Birth Missionary Baptist Church in
+Lithonia, an Atlanta suburb</charseq>
+          </extent>
+          <head>
+              <charseq START="572" END="577">pastor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M610">
+          <extent>
+              <charseq START="839" END="854">bishop over them</charseq>
+          </extent>
+          <head>
+              <charseq START="839" END="844">bishop</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E5-M609">
+          <extent>
+              <charseq START="822" END="824">his</charseq>
+          </extent>
+          <head>
+              <charseq START="822" END="824">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E5-M900">
+          <extent>
+              <charseq START="1115" END="1125">Bishop Long</charseq>
+          </extent>
+          <head>
+              <charseq START="1122" END="1125">Long</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M901">
+          <extent>
+              <charseq START="1115" END="1120">Bishop</charseq>
+          </extent>
+          <head>
+              <charseq START="1115" END="1120">Bishop</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M1201">
+          <extent>
+              <charseq START="1334" END="1352">the church&apos;s pastor</charseq>
+          </extent>
+          <head>
+              <charseq START="1347" END="1352">pastor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E5-M1205">
+          <extent>
+              <charseq START="1373" END="1375">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1373" END="1375">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E5-M1402">
+          <extent>
+              <charseq START="1592" END="1595">Long</charseq>
+          </extent>
+          <head>
+              <charseq START="1592" END="1595">Long</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E5-M1502">
+          <extent>
+              <charseq START="1800" END="1801">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1800" END="1801">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E5-M1801">
+          <extent>
+              <charseq START="2167" END="2244">Long, who has a wife and four children,
+through a church program for teenagers</charseq>
+          </extent>
+          <head>
+              <charseq START="2167" END="2170">Long</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E5-M1803">
+          <extent>
+              <charseq START="2173" END="2175">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2173" END="2175">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E5-M2100">
+          <extent>
+              <charseq START="2498" END="2499">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2498" END="2499">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M2201">
+          <extent>
+              <charseq START="2540" END="2575">an outspoken critic of homosexuality</charseq>
+          </extent>
+          <head>
+              <charseq START="2553" END="2558">critic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E5-M2302">
+          <extent>
+              <charseq START="2736" END="2762">the author of a book titled</charseq>
+          </extent>
+          <head>
+              <charseq START="2740" END="2745">author</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E5-M2300">
+          <extent>
+              <charseq START="2730" END="2731">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2730" END="2731">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eddie L. Long">
+              <charseq START="253" END="265">Eddie L. Long</charseq>
+          </name>
+          <name NAME="Long">
+              <charseq START="389" END="392">Long</charseq>
+          </name>
+          <name NAME="Long">
+              <charseq START="1122" END="1125">Long</charseq>
+          </name>
+          <name NAME="Long">
+              <charseq START="1592" END="1595">Long</charseq>
+          </name>
+          <name NAME="Long">
+              <charseq START="2167" END="2170">Long</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M200">
+          <extent>
+              <charseq START="167" END="190">Two young men in Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="179">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M213">
+          <extent>
+              <charseq START="291" END="294">them</charseq>
+          </extent>
+          <head>
+              <charseq START="291" END="294">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M303">
+          <extent>
+              <charseq START="371" END="377">the men</charseq>
+          </extent>
+          <head>
+              <charseq START="375" END="377">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M313">
+          <extent>
+              <charseq START="491" END="494">them</charseq>
+          </extent>
+          <head>
+              <charseq START="491" END="494">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M319">
+          <extent>
+              <charseq START="545" END="548">them</charseq>
+          </extent>
+          <head>
+              <charseq START="545" END="548">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M623">
+          <extent>
+              <charseq START="959" END="965">the men</charseq>
+          </extent>
+          <head>
+              <charseq START="963" END="965">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M1004">
+          <extent>
+              <charseq START="1205" END="1223">these two young men</charseq>
+          </extent>
+          <head>
+              <charseq START="1221" END="1223">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M1302">
+          <extent>
+              <charseq START="1504" END="1514">the two men</charseq>
+          </extent>
+          <head>
+              <charseq START="1512" END="1514">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M1403">
+          <extent>
+              <charseq START="1610" END="1741">the
+men with free hotel stays in more than a dozen cities around the
+country (checking them into rooms under the alias &quot;Dick Tracy&quot;)</charseq>
+          </extent>
+          <head>
+              <charseq START="1614" END="1616">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M1400">
+          <extent>
+              <charseq START="1582" END="1585">They</charseq>
+          </extent>
+          <head>
+              <charseq START="1582" END="1585">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M1412">
+          <extent>
+              <charseq START="1697" END="1700">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1697" END="1700">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M1418">
+          <extent>
+              <charseq START="1757" END="1760">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1757" END="1760">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M1500">
+          <extent>
+              <charseq START="1790" END="1793">They</charseq>
+          </extent>
+          <head>
+              <charseq START="1790" END="1793">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M1504">
+          <extent>
+              <charseq START="1818" END="1821">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1818" END="1821">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M1602">
+          <extent>
+              <charseq START="1918" END="1924">the men</charseq>
+          </extent>
+          <head>
+              <charseq START="1922" END="1924">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M1700">
+          <extent>
+              <charseq START="2050" END="2053">They</charseq>
+          </extent>
+          <head>
+              <charseq START="2050" END="2053">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M1800">
+          <extent>
+              <charseq START="2149" END="2161">The young men</charseq>
+          </extent>
+          <head>
+              <charseq START="2159" END="2161">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M1901">
+          <extent>
+              <charseq START="2293" END="2299">the men</charseq>
+          </extent>
+          <head>
+              <charseq START="2297" END="2299">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E6-M2004">
+          <extent>
+              <charseq START="2409" END="2445">the most
+charismatic and powerful men</charseq>
+          </extent>
+          <head>
+              <charseq START="2443" END="2445">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E6-M2000">
+          <extent>
+              <charseq START="2356" END="2359">They</charseq>
+          </extent>
+          <head>
+              <charseq START="2356" END="2359">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E7" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E7-M302" ROLE="LOC">
+          <extent>
+              <charseq START="356" END="368">DeKalb County</charseq>
+          </extent>
+          <head>
+              <charseq START="356" END="368">DeKalb County</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E7-M506" ROLE="LOC">
+          <extent>
+              <charseq START="687" END="697">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="691" END="697">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E7-M1411" ROLE="LOC">
+          <extent>
+              <charseq START="1675" END="1685">the
+country</charseq>
+          </extent>
+          <head>
+              <charseq START="1679" END="1685">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DeKalb County">
+              <charseq START="356" END="368">DeKalb County</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E8-M307">
+          <extent>
+              <charseq START="395" END="414">a prominent minister</charseq>
+          </extent>
+          <head>
+              <charseq START="407" END="414">minister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E9" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E9-M403">
+          <extent>
+              <charseq START="582" END="616">New Birth Missionary Baptist Church</charseq>
+          </extent>
+          <head>
+              <charseq START="582" END="616">New Birth Missionary Baptist Church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E9-M607">
+          <extent>
+              <charseq START="797" END="802">church</charseq>
+          </extent>
+          <head>
+              <charseq START="797" END="802">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E9-M1202">
+          <extent>
+              <charseq START="1334" END="1343">the church</charseq>
+          </extent>
+          <head>
+              <charseq START="1338" END="1343">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E9-M1211">
+          <extent>
+              <charseq START="1461" END="1470">the church</charseq>
+          </extent>
+          <head>
+              <charseq START="1465" END="1470">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E9-M1207">
+          <extent>
+              <charseq START="1389" END="1391">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1389" END="1391">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E9-M1607">
+          <extent>
+              <charseq START="1967" END="1976">the church</charseq>
+          </extent>
+          <head>
+              <charseq START="1971" END="1976">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E9-M1703">
+          <extent>
+              <charseq START="2086" END="2126">the most
+powerful church in the Southeast</charseq>
+          </extent>
+          <head>
+              <charseq START="2104" END="2109">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E9-M2005">
+          <extent>
+              <charseq START="2452" END="2462">this church</charseq>
+          </extent>
+          <head>
+              <charseq START="2457" END="2462">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New Birth Missionary Baptist Church">
+              <charseq START="582" END="616">New Birth Missionary Baptist Church</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E10-M405" ROLE="LOC">
+          <extent>
+              <charseq START="621" END="628">Lithonia</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="628">Lithonia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E10-M406">
+          <extent>
+              <charseq START="631" END="647">an Atlanta suburb</charseq>
+          </extent>
+          <head>
+              <charseq START="642" END="647">suburb</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lithonia">
+              <charseq START="621" END="628">Lithonia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E11" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E11-M504">
+          <extent>
+              <charseq START="663" END="697">the largest churches in
+the country</charseq>
+          </extent>
+          <head>
+              <charseq START="675" END="682">churches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E13-M625">
+          <extent>
+              <charseq START="968" END="983">Maurice Robinson</charseq>
+          </extent>
+          <head>
+              <charseq START="968" END="983">Maurice Robinson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Maurice Robinson">
+              <charseq START="968" END="983">Maurice Robinson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E14" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E14-M605">
+          <extent>
+              <charseq START="777" END="781">group</charseq>
+          </extent>
+          <head>
+              <charseq START="777" END="781">group</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E15-M606">
+          <extent>
+              <charseq START="786" END="810">young male church members</charseq>
+          </extent>
+          <head>
+              <charseq START="804" END="810">members</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E15-M612">
+          <extent>
+              <charseq START="851" END="854">them</charseq>
+          </extent>
+          <head>
+              <charseq START="851" END="854">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E15-M614">
+          <extent>
+              <charseq START="876" END="879">them</charseq>
+          </extent>
+          <head>
+              <charseq START="876" END="879">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E17-M704">
+          <extent>
+              <charseq START="1022" END="1034">Anthony
+Flagg</charseq>
+          </extent>
+          <head>
+              <charseq START="1022" END="1034">Anthony
+Flagg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Anthony
+Flagg">
+              <charseq START="1022" END="1034">Anthony
+Flagg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E18-M700">
+          <extent>
+              <charseq START="990" END="1012">The other man who filed</charseq>
+          </extent>
+          <head>
+              <charseq START="1000" END="1002">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E18-M702">
+          <extent>
+              <charseq START="1004" END="1006">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1004" END="1006">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E19-M803">
+          <extent>
+              <charseq START="1065" END="1077">Craig Gillen,</charseq>
+          </extent>
+          <head>
+              <charseq START="1065" END="1076">Craig Gillen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E19-M801">
+          <extent>
+              <charseq START="1050" END="1062">Long&apos;s lawyer</charseq>
+          </extent>
+          <head>
+              <charseq START="1057" END="1062">lawyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E19-M904">
+          <extent>
+              <charseq START="1163" END="1168">Gillen</charseq>
+          </extent>
+          <head>
+              <charseq START="1163" END="1168">Gillen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Craig Gillen">
+              <charseq START="1065" END="1076">Craig Gillen</charseq>
+          </name>
+          <name NAME="Gillen">
+              <charseq START="1163" END="1168">Gillen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E21-M1208">
+          <extent>
+              <charseq START="1414" END="1480">more than 25,000 people from
+300, according to the church&apos;s website</charseq>
+          </extent>
+          <head>
+              <charseq START="1431" END="1436">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E22-M1300">
+          <extent>
+              <charseq START="1492" END="1514">Lawyers for the two men</charseq>
+          </extent>
+          <head>
+              <charseq START="1492" END="1498">Lawyers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E23-M1417">
+          <extent>
+              <charseq START="1730" END="1739">Dick Tracy</charseq>
+          </extent>
+          <head>
+              <charseq START="1730" END="1739">Dick Tracy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dick Tracy">
+              <charseq START="1730" END="1739">Dick Tracy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E24-M1422">
+          <extent>
+              <charseq START="1779" END="1787">a Mustang</charseq>
+          </extent>
+          <head>
+              <charseq START="1781" END="1787">Mustang</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mustang">
+              <charseq START="1781" END="1787">Mustang</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E25" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E25-M1406">
+          <extent>
+              <charseq START="1623" END="1632">free hotel</charseq>
+          </extent>
+          <head>
+              <charseq START="1628" END="1632">hotel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E26-M1409">
+          <extent>
+              <charseq START="1653" END="1666">a dozen cities</charseq>
+          </extent>
+          <head>
+              <charseq START="1661" END="1666">cities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E27" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E27-M1414">
+          <extent>
+              <charseq START="1707" END="1711">rooms</charseq>
+          </extent>
+          <head>
+              <charseq START="1707" END="1711">rooms</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E28-M1509">
+          <extent>
+              <charseq START="1843" END="1866">the producer Tyler Perry</charseq>
+          </extent>
+          <head>
+              <charseq START="1856" END="1866">Tyler Perry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E28-M1510">
+          <extent>
+              <charseq START="1847" END="1854">producer</charseq>
+          </extent>
+          <head>
+              <charseq START="1847" END="1854">producer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tyler Perry">
+              <charseq START="1856" END="1866">Tyler Perry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E29-M1512">
+          <extent>
+              <charseq START="1872" END="1893">the actor Chris Tucker</charseq>
+          </extent>
+          <head>
+              <charseq START="1882" END="1893">Chris Tucker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E29-M1513">
+          <extent>
+              <charseq START="1876" END="1880">actor</charseq>
+          </extent>
+          <head>
+              <charseq START="1876" END="1880">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chris Tucker">
+              <charseq START="1882" END="1893">Chris Tucker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E30" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E30-M1506">
+          <extent>
+              <charseq START="1826" END="1893">celebrities like the producer Tyler Perry and
+the actor Chris Tucker</charseq>
+          </extent>
+          <head>
+              <charseq START="1826" END="1836">celebrities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E31-M1603">
+          <extent>
+              <charseq START="1927" END="1947">Brenda Joy Bernstein,</charseq>
+          </extent>
+          <head>
+              <charseq START="1927" END="1946">Brenda Joy Bernstein</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E31-M1811">
+          <extent>
+              <charseq START="2247" END="2255">Bernstein</charseq>
+          </extent>
+          <head>
+              <charseq START="2247" END="2255">Bernstein</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E31-M2006">
+          <extent>
+              <charseq START="2481" END="2489">Bernstein</charseq>
+          </extent>
+          <head>
+              <charseq START="2481" END="2489">Bernstein</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brenda Joy Bernstein">
+              <charseq START="1927" END="1946">Brenda Joy Bernstein</charseq>
+          </name>
+          <name NAME="Bernstein">
+              <charseq START="2247" END="2255">Bernstein</charseq>
+          </name>
+          <name NAME="Bernstein">
+              <charseq START="2481" END="2489">Bernstein</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E32-M1600">
+          <extent>
+              <charseq START="1905" END="1924">A lawyer for the men</charseq>
+          </extent>
+          <head>
+              <charseq START="1907" END="1912">lawyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100921.0220-E32-M1707">
+          <extent>
+              <charseq START="2130" END="2132">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2130" END="2132">she</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E33-M1605">
+          <extent>
+              <charseq START="1954" END="1976">officials at
+the church</charseq>
+          </extent>
+          <head>
+              <charseq START="1954" END="1962">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E34" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E34-M1705">
+          <extent>
+              <charseq START="2114" END="2126">the Southeast</charseq>
+          </extent>
+          <head>
+              <charseq START="2118" END="2126">Southeast</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Southeast">
+              <charseq START="2118" END="2126">Southeast</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E35-M1805">
+          <extent>
+              <charseq START="2181" END="2186">a wife</charseq>
+          </extent>
+          <head>
+              <charseq START="2183" END="2186">wife</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E36-M1806">
+          <extent>
+              <charseq START="2192" END="2204">four children</charseq>
+          </extent>
+          <head>
+              <charseq START="2197" END="2204">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E37-M1810">
+          <extent>
+              <charseq START="2236" END="2244">teenagers</charseq>
+          </extent>
+          <head>
+              <charseq START="2236" END="2244">teenagers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E39" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100921.0220-E39-M2204">
+          <extent>
+              <charseq START="2600" END="2630">the Southern Poverty Law Center</charseq>
+          </extent>
+          <head>
+              <charseq START="2604" END="2630">Southern Poverty Law Center</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Southern Poverty Law Center">
+              <charseq START="2604" END="2630">Southern Poverty Law Center</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100921.0220-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100921.0220-E40-M2209">
+          <extent>
+              <charseq START="2640" END="2726">the most virulently
+homophobic black leaders in the religiously based anti-gay
+movement</charseq>
+          </extent>
+          <head>
+              <charseq START="2677" END="2683">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100921.0220-T0" VAL="2010-09-21">
+        <timex2_mention ID="NYT_ENG_20100921.0220-T0-M1">
+            <extent>
+              <charseq START="197" END="203">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100921.0220-T1" VAL="1987">
+        <timex2_mention ID="NYT_ENG_20100921.0220-T1-M1">
+            <extent>
+              <charseq START="1357" END="1360">1987</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100921.0220-T2" VAL="P18Y">
+        <timex2_mention ID="NYT_ENG_20100921.0220-T2-M1">
+            <extent>
+              <charseq START="2313" END="2324">18 years old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100921.0220-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E3" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R0-M200">
+          <extent>
+              <charseq START="167" END="190">Two young men in Georgia</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E6-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="167" END="190">Two young men in Georgia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E3-M202" ROLE="Arg-2">
+            <extent>
+              <charseq START="184" END="190">Georgia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100921.0220-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E9" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R1-M400">
+          <extent>
+              <charseq START="568" END="647">the pastor of New Birth Missionary Baptist Church in
+Lithonia, an Atlanta suburb</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E5-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="568" END="647">the pastor of New Birth Missionary Baptist Church in
+Lithonia, an Atlanta suburb</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E9-M403" ROLE="Arg-2">
+            <extent>
+              <charseq START="582" END="616">New Birth Missionary Baptist Church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100921.0220-R2" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E10" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R2-M401">
+          <extent>
+              <charseq START="568" END="647">the pastor of New Birth Missionary Baptist Church in
+Lithonia, an Atlanta suburb</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E5-M401" ROLE="Arg-1">
+            <extent>
+              <charseq START="568" END="647">the pastor of New Birth Missionary Baptist Church in
+Lithonia, an Atlanta suburb</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E10-M405" ROLE="Arg-2">
+            <extent>
+              <charseq START="621" END="628">Lithonia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100921.0220-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E7" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R3-M500">
+          <extent>
+              <charseq START="663" END="697">the largest churches in
+the country</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E11-M504" ROLE="Arg-1">
+            <extent>
+              <charseq START="663" END="697">the largest churches in
+the country</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E7-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="687" END="697">the country</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100921.0220-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E9" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R4-M600">
+          <extent>
+              <charseq START="786" END="810">young male church members</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E15-M606" ROLE="Arg-1">
+            <extent>
+              <charseq START="786" END="810">young male church members</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E9-M607" ROLE="Arg-2">
+            <extent>
+              <charseq START="797" END="802">church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100921.0220-R5" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E6" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R5-M1300">
+          <extent>
+              <charseq START="1492" END="1514">Lawyers for the two men</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E22-M1300" ROLE="Arg-1">
+            <extent>
+              <charseq START="1492" END="1514">Lawyers for the two men</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E6-M1302" ROLE="Arg-2">
+            <extent>
+              <charseq START="1504" END="1514">the two men</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100921.0220-R6" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E25" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R6-M1400">
+          <extent>
+              <charseq START="1610" END="1741">the
+men with free hotel stays in more than a dozen cities around the
+country (checking them into rooms under the alias &quot;Dick Tracy&quot;)</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E6-M1403" ROLE="Arg-1">
+            <extent>
+              <charseq START="1610" END="1741">the
+men with free hotel stays in more than a dozen cities around the
+country (checking them into rooms under the alias &quot;Dick Tracy&quot;)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E25-M1406" ROLE="Arg-2">
+            <extent>
+              <charseq START="1623" END="1632">free hotel</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100921.0220-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E27" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R7-M1401">
+          <extent>
+              <charseq START="1697" END="1700">them</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E6-M1412" ROLE="Arg-1">
+            <extent>
+              <charseq START="1697" END="1700">them</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E27-M1414" ROLE="Arg-2">
+            <extent>
+              <charseq START="1707" END="1711">rooms</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100921.0220-R8" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E6" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R8-M1600">
+          <extent>
+              <charseq START="1905" END="1924">A lawyer for the men</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E32-M1600" ROLE="Arg-1">
+            <extent>
+              <charseq START="1905" END="1924">A lawyer for the men</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E6-M1602" ROLE="Arg-2">
+            <extent>
+              <charseq START="1918" END="1924">the men</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100921.0220-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100921.0220-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100921.0220-E9" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100921.0220-R9-M1601">
+          <extent>
+              <charseq START="1954" END="1976">officials at
+the church</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E33-M1605" ROLE="Arg-1">
+            <extent>
+              <charseq START="1954" END="1976">officials at
+the church</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100921.0220-E9-M1607" ROLE="Arg-2">
+            <extent>
+              <charseq START="1967" END="1976">the church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

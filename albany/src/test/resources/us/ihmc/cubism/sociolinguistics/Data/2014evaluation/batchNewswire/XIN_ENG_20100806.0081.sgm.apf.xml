@@ -1,0 +1,901 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100806.0081">
+  <document DOCID="XIN_ENG_20100806.0081">
+
+    <entity ID="XIN_ENG_20100806.0081-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E0-M0">
+          <extent>
+              <charseq START="58" END="65">Cambodia</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="65">Cambodia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E0-M301" ROLE="GPE">
+          <extent>
+              <charseq START="204" END="212">Cambodian</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="212">Cambodian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E0-M300" ROLE="ORG">
+          <extent>
+              <charseq START="204" END="223">Cambodian government</charseq>
+          </extent>
+          <head>
+              <charseq START="214" END="223">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E0-M519">
+          <extent>
+              <charseq START="880" END="887">Cambodia</charseq>
+          </extent>
+          <head>
+              <charseq START="880" END="887">Cambodia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E0-M526">
+          <extent>
+              <charseq START="954" END="961">Cambodia</charseq>
+          </extent>
+          <head>
+              <charseq START="954" END="961">Cambodia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E0-M701">
+          <extent>
+              <charseq START="1490" END="1497">Cambodia</charseq>
+          </extent>
+          <head>
+              <charseq START="1490" END="1497">Cambodia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E0-M804">
+          <extent>
+              <charseq START="1637" END="1644">Cambodia</charseq>
+          </extent>
+          <head>
+              <charseq START="1637" END="1644">Cambodia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E0-M902">
+          <extent>
+              <charseq START="1753" END="1760">Cambodia</charseq>
+          </extent>
+          <head>
+              <charseq START="1753" END="1760">Cambodia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E0-M920" ROLE="GPE">
+          <extent>
+              <charseq START="1917" END="1925">Cambodian</charseq>
+          </extent>
+          <head>
+              <charseq START="1917" END="1925">Cambodian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E0-M1000">
+          <extent>
+              <charseq START="1980" END="1987">Cambodia</charseq>
+          </extent>
+          <head>
+              <charseq START="1980" END="1987">Cambodia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100806.0081-E0-M1003">
+          <extent>
+              <charseq START="2008" END="2010">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2008" END="2010">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cambodia">
+              <charseq START="58" END="65">Cambodia</charseq>
+          </name>
+          <name NAME="Cambodian">
+              <charseq START="204" END="212">Cambodian</charseq>
+          </name>
+          <name NAME="Cambodia">
+              <charseq START="880" END="887">Cambodia</charseq>
+          </name>
+          <name NAME="Cambodia">
+              <charseq START="954" END="961">Cambodia</charseq>
+          </name>
+          <name NAME="Cambodia">
+              <charseq START="1490" END="1497">Cambodia</charseq>
+          </name>
+          <name NAME="Cambodia">
+              <charseq START="1637" END="1644">Cambodia</charseq>
+          </name>
+          <name NAME="Cambodia">
+              <charseq START="1753" END="1760">Cambodia</charseq>
+          </name>
+          <name NAME="Cambodian">
+              <charseq START="1917" END="1925">Cambodian</charseq>
+          </name>
+          <name NAME="Cambodia">
+              <charseq START="1980" END="1987">Cambodia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="72" END="75">Thai</charseq>
+          </extent>
+          <head>
+              <charseq START="72" END="75">Thai</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E1-M305">
+          <extent>
+              <charseq START="242" END="249">Thailand</charseq>
+          </extent>
+          <head>
+              <charseq START="242" END="249">Thailand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E1-M416" ROLE="GPE">
+          <extent>
+              <charseq START="499" END="502">Thai</charseq>
+          </extent>
+          <head>
+              <charseq START="499" END="502">Thai</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E1-M518">
+          <extent>
+              <charseq START="867" END="874">Thailand</charseq>
+          </extent>
+          <head>
+              <charseq START="867" END="874">Thailand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E1-M601">
+          <extent>
+              <charseq START="1051" END="1058">Thailand</charseq>
+          </extent>
+          <head>
+              <charseq START="1051" END="1058">Thailand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E1-M609">
+          <extent>
+              <charseq START="1139" END="1146">Thailand</charseq>
+          </extent>
+          <head>
+              <charseq START="1139" END="1146">Thailand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E1-M703">
+          <extent>
+              <charseq START="1540" END="1547">Thailand</charseq>
+          </extent>
+          <head>
+              <charseq START="1540" END="1547">Thailand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E1-M903">
+          <extent>
+              <charseq START="1766" END="1773">Thailand</charseq>
+          </extent>
+          <head>
+              <charseq START="1766" END="1773">Thailand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E1-M1016" ROLE="GPE">
+          <extent>
+              <charseq START="2165" END="2168">Thai</charseq>
+          </extent>
+          <head>
+              <charseq START="2165" END="2168">Thai</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Thai">
+              <charseq START="72" END="75">Thai</charseq>
+          </name>
+          <name NAME="Thailand">
+              <charseq START="242" END="249">Thailand</charseq>
+          </name>
+          <name NAME="Thai">
+              <charseq START="499" END="502">Thai</charseq>
+          </name>
+          <name NAME="Thailand">
+              <charseq START="867" END="874">Thailand</charseq>
+          </name>
+          <name NAME="Thailand">
+              <charseq START="1051" END="1058">Thailand</charseq>
+          </name>
+          <name NAME="Thailand">
+              <charseq START="1139" END="1146">Thailand</charseq>
+          </name>
+          <name NAME="Thailand">
+              <charseq START="1540" END="1547">Thailand</charseq>
+          </name>
+          <name NAME="Thailand">
+              <charseq START="1766" END="1773">Thailand</charseq>
+          </name>
+          <name NAME="Thai">
+              <charseq START="2165" END="2168">Thai</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E2-M6">
+          <extent>
+              <charseq START="106" END="111">temple</charseq>
+          </extent>
+          <head>
+              <charseq START="106" END="111">temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E2-M308">
+          <extent>
+              <charseq START="281" END="299">Preah Vihear Temple</charseq>
+          </extent>
+          <head>
+              <charseq START="287" END="299">Vihear Temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E2-M309">
+          <extent>
+              <charseq START="281" END="285">Preah</charseq>
+          </extent>
+          <head>
+              <charseq START="281" END="285">Preah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E2-M422">
+          <extent>
+              <charseq START="559" END="577">Preah Vihear Temple</charseq>
+          </extent>
+          <head>
+              <charseq START="565" END="577">Vihear Temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E2-M423">
+          <extent>
+              <charseq START="559" END="563">Preah</charseq>
+          </extent>
+          <head>
+              <charseq START="559" END="563">Preah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E2-M528">
+          <extent>
+              <charseq START="999" END="1022">the ancient Khmer temple</charseq>
+          </extent>
+          <head>
+              <charseq START="1017" END="1022">temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E2-M612">
+          <extent>
+              <charseq START="1184" END="1193">the
+temple</charseq>
+          </extent>
+          <head>
+              <charseq START="1188" END="1193">temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E2-M803">
+          <extent>
+              <charseq START="1637" END="1666">Cambodia&apos;s Preah Vihear Temple</charseq>
+          </extent>
+          <head>
+              <charseq START="1654" END="1666">Vihear Temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E2-M805">
+          <extent>
+              <charseq START="1648" END="1652">Preah</charseq>
+          </extent>
+          <head>
+              <charseq START="1648" END="1652">Preah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E2-M1009">
+          <extent>
+              <charseq START="2071" END="2093">the Preah Vihear Temple</charseq>
+          </extent>
+          <head>
+              <charseq START="2075" END="2093">Preah Vihear Temple</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vihear Temple">
+              <charseq START="287" END="299">Vihear Temple</charseq>
+          </name>
+          <name NAME="Vihear Temple">
+              <charseq START="565" END="577">Vihear Temple</charseq>
+          </name>
+          <name NAME="Vihear Temple">
+              <charseq START="1654" END="1666">Vihear Temple</charseq>
+          </name>
+          <name NAME="Preah Vihear Temple">
+              <charseq START="2075" END="2093">Preah Vihear Temple</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="153" END="162">PHNOM PENH</charseq>
+          </extent>
+          <head>
+              <charseq START="153" END="162">PHNOM PENH</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="PHNOM PENH">
+              <charseq START="153" END="162">PHNOM PENH</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E4-M200">
+          <extent>
+              <charseq START="173" END="178">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="173" END="178">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="173" END="178">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E5-M401">
+          <extent>
+              <charseq START="328" END="338">Hor Namhong</charseq>
+          </extent>
+          <head>
+              <charseq START="328" END="338">Hor Namhong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E5-M501">
+          <extent>
+              <charseq START="666" END="676">Hor Namhong</charseq>
+          </extent>
+          <head>
+              <charseq START="666" END="676">Hor Namhong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E5-M600">
+          <extent>
+              <charseq START="1034" END="1044">Hor Namhong</charseq>
+          </extent>
+          <head>
+              <charseq START="1034" END="1044">Hor Namhong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E5-M700">
+          <extent>
+              <charseq START="1470" END="1472">Hor</charseq>
+          </extent>
+          <head>
+              <charseq START="1470" END="1472">Hor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hor Namhong">
+              <charseq START="328" END="338">Hor Namhong</charseq>
+          </name>
+          <name NAME="Hor Namhong">
+              <charseq START="666" END="676">Hor Namhong</charseq>
+          </name>
+          <name NAME="Hor Namhong">
+              <charseq START="1034" END="1044">Hor Namhong</charseq>
+          </name>
+          <name NAME="Hor">
+              <charseq START="1470" END="1472">Hor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E6-M415">
+          <extent>
+              <charseq START="499" END="535">Thai Prime Minister Abhisit Vejjajiva</charseq>
+          </extent>
+          <head>
+              <charseq START="519" END="535">Abhisit Vejjajiva</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E6-M418">
+          <extent>
+              <charseq START="510" END="517">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="517">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E6-M403">
+          <extent>
+              <charseq START="341" END="361">deputy prime minister</charseq>
+          </extent>
+          <head>
+              <charseq START="354" END="361">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E6-M405">
+          <extent>
+              <charseq START="367" END="393">minister of foreign affairs</charseq>
+          </extent>
+          <head>
+              <charseq START="367" END="374">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E6-M506">
+          <extent>
+              <charseq START="733" END="764">Prime
+Minister Abhisit Vejjajiva</charseq>
+          </extent>
+          <head>
+              <charseq START="748" END="764">Abhisit Vejjajiva</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E6-M508">
+          <extent>
+              <charseq START="739" END="746">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="739" END="746">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Abhisit Vejjajiva">
+              <charseq START="519" END="535">Abhisit Vejjajiva</charseq>
+          </name>
+          <name NAME="Abhisit Vejjajiva">
+              <charseq START="748" END="764">Abhisit Vejjajiva</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E7-M409">
+          <extent>
+              <charseq START="431" END="439">reporters</charseq>
+          </extent>
+          <head>
+              <charseq START="431" END="439">reporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E8" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E8-M512">
+          <extent>
+              <charseq START="784" END="797">World Heritage</charseq>
+          </extent>
+          <head>
+              <charseq START="784" END="797">World Heritage</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E8-M1013">
+          <extent>
+              <charseq START="2121" END="2135">World
+Heritage,</charseq>
+          </extent>
+          <head>
+              <charseq START="2121" END="2134">World
+Heritage</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="World Heritage">
+              <charseq START="784" END="797">World Heritage</charseq>
+          </name>
+          <name NAME="World
+Heritage">
+              <charseq START="2121" END="2134">World
+Heritage</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E9" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E9-M513">
+          <extent>
+              <charseq START="810" END="821">Preah
+Vihear</charseq>
+          </extent>
+          <head>
+              <charseq START="810" END="821">Preah
+Vihear</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E9-M617">
+          <extent>
+              <charseq START="1240" END="1251">Preah Vihear</charseq>
+          </extent>
+          <head>
+              <charseq START="1240" END="1251">Preah Vihear</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Preah
+Vihear">
+              <charseq START="810" END="821">Preah
+Vihear</charseq>
+          </name>
+          <name NAME="Preah Vihear">
+              <charseq START="1240" END="1251">Preah Vihear</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E10-M529">
+          <extent>
+              <charseq START="1011" END="1015">Khmer</charseq>
+          </extent>
+          <head>
+              <charseq START="1011" END="1015">Khmer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Khmer">
+              <charseq START="1011" END="1015">Khmer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E11-M514">
+          <extent>
+              <charseq START="827" END="849">its adjacent compound -</charseq>
+          </extent>
+          <head>
+              <charseq START="840" END="847">compound</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E11-M921">
+          <extent>
+              <charseq START="1937" END="1968">the world cultural heritage
+site</charseq>
+          </extent>
+          <head>
+              <charseq START="1965" END="1968">site</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E12-M613">
+          <extent>
+              <charseq START="1198" END="1210">Preah Viharn,</charseq>
+          </extent>
+          <head>
+              <charseq START="1198" END="1209">Preah Viharn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Preah Viharn">
+              <charseq START="1198" END="1209">Preah Viharn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E13-M618">
+          <extent>
+              <charseq START="1271" END="1296">Cambodians in 11th century</charseq>
+          </extent>
+          <head>
+              <charseq START="1271" END="1280">Cambodians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E14" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E14-M633">
+          <extent>
+              <charseq START="1410" END="1432">the
+international court</charseq>
+          </extent>
+          <head>
+              <charseq START="1428" END="1432">court</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E15-M911">
+          <extent>
+              <charseq START="1825" END="1841">the recent UNESCO</charseq>
+          </extent>
+          <head>
+              <charseq START="1836" END="1841">UNESCO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E15-M1012">
+          <extent>
+              <charseq START="2098" END="2103">UNESCO</charseq>
+          </extent>
+          <head>
+              <charseq START="2098" END="2103">UNESCO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E15-M1100">
+          <extent>
+              <charseq START="2291" END="2296">UNESCO</charseq>
+          </extent>
+          <head>
+              <charseq START="2291" END="2296">UNESCO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100806.0081-E15-M1102">
+          <extent>
+              <charseq START="2332" END="2333">it</charseq>
+          </extent>
+          <head>
+              <charseq START="2332" END="2333">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UNESCO">
+              <charseq START="1836" END="1841">UNESCO</charseq>
+          </name>
+          <name NAME="UNESCO">
+              <charseq START="2098" END="2103">UNESCO</charseq>
+          </name>
+          <name NAME="UNESCO">
+              <charseq START="2291" END="2296">UNESCO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E16-M913" ROLE="LOC">
+          <extent>
+              <charseq START="1857" END="1862">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="1857" END="1862">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brazil">
+              <charseq START="1857" END="1862">Brazil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E17" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E17-M1011">
+          <extent>
+              <charseq START="2098" END="2115">UNESCO&apos;s committee</charseq>
+          </extent>
+          <head>
+              <charseq START="2107" END="2115">committee</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E18" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100806.0081-E18-M1021">
+          <extent>
+              <charseq START="2236" END="2250">the two nations</charseq>
+          </extent>
+          <head>
+              <charseq START="2244" END="2250">nations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100806.0081-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100806.0081-E19-M1105" ROLE="LOC">
+          <extent>
+              <charseq START="2363" END="2369">Bahrain</charseq>
+          </extent>
+          <head>
+              <charseq START="2363" END="2369">Bahrain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bahrain">
+              <charseq START="2363" END="2369">Bahrain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T0" VAL="2010-08-06">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T0-M1">
+            <extent>
+              <charseq START="165" END="170">Aug. 6</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T1" VAL="2010-08-06">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T1-M1">
+            <extent>
+              <charseq START="230" END="235">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T2" VAL="2010-08-06">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T2-M1">
+            <extent>
+              <charseq START="465" END="470">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T3" VAL="PAST_REF" ANCHOR_VAL="2010-08-06" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T3-M1">
+            <extent>
+              <charseq START="1120" END="1127">the past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T4" VAL="10">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T4-M1">
+            <extent>
+              <charseq START="1285" END="1296">11th century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T5" VAL="1904">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T5-M1">
+            <extent>
+              <charseq START="1354" END="1357">1904</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T6" VAL="1907">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T6-M1">
+            <extent>
+              <charseq START="1373" END="1376">1907</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T7" VAL="1962">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T7-M1">
+            <extent>
+              <charseq START="1446" END="1449">1962</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T8" VAL="P1W">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T8-M1">
+            <extent>
+              <charseq START="1622" END="1629">one week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T9" VAL="2008-07">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T9-M1">
+            <extent>
+              <charseq START="1709" END="1717">July 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T10" VAL="PXD">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T10-M1">
+            <extent>
+              <charseq START="1738" END="1750">the past days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T11" VAL="PAST_REF" ANCHOR_VAL="2010-08-06" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T11-M1">
+            <extent>
+              <charseq START="1829" END="1834">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100806.0081-T12" VAL="2011">
+        <timex2_mention ID="XIN_ENG_20100806.0081-T12-M1">
+            <extent>
+              <charseq START="2350" END="2358">next year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100806.0081-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100806.0081-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100806.0081-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100806.0081-R0-M400">
+          <extent>
+              <charseq START="510" END="517">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100806.0081-E6-M418" ROLE="Arg-1">
+            <extent>
+              <charseq START="510" END="517">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100806.0081-E1-M416" ROLE="Arg-2">
+            <extent>
+              <charseq START="499" END="502">Thai</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100806.0081-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100806.0081-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100806.0081-E2" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100806.0081-R1-M500">
+          <extent>
+              <charseq START="1011" END="1015">Khmer</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100806.0081-E10-M529" ROLE="Arg-1">
+            <extent>
+              <charseq START="1011" END="1015">Khmer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100806.0081-E2-M528" ROLE="Arg-2">
+            <extent>
+              <charseq START="999" END="1022">the ancient Khmer temple</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100806.0081-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100806.0081-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100806.0081-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100806.0081-R2-M800">
+          <extent>
+              <charseq START="1648" END="1652">Preah</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100806.0081-E2-M805" ROLE="Arg-1">
+            <extent>
+              <charseq START="1648" END="1652">Preah</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100806.0081-E0-M804" ROLE="Arg-2">
+            <extent>
+              <charseq START="1637" END="1644">Cambodia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100806.0081-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100806.0081-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100806.0081-E15" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100806.0081-R3-M1000">
+          <extent>
+              <charseq START="2098" END="2115">UNESCO&apos;s committee</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100806.0081-E17-M1011" ROLE="Arg-1">
+            <extent>
+              <charseq START="2098" END="2115">UNESCO&apos;s committee</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100806.0081-E15-M1012" ROLE="Arg-2">
+            <extent>
+              <charseq START="2098" END="2103">UNESCO</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

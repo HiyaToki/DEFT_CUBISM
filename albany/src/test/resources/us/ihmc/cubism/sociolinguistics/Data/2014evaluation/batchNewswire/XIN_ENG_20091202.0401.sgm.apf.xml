@@ -1,0 +1,618 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091202.0401">
+  <document DOCID="XIN_ENG_20091202.0401">
+
+    <entity ID="XIN_ENG_20091202.0401-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E0-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="64">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E0-M101" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="115" END="121">BEIJING</charseq>
+          </extent>
+          <head>
+              <charseq START="115" END="121">BEIJING</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E0-M301" ROLE="GPE">
+          <extent>
+              <charseq START="163" END="169">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="163" END="169">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E0-M509">
+          <extent>
+              <charseq START="706" END="710">China</charseq>
+          </extent>
+          <head>
+              <charseq START="706" END="710">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E0-M512">
+          <extent>
+              <charseq START="731" END="735">China</charseq>
+          </extent>
+          <head>
+              <charseq START="731" END="735">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E0-M701">
+          <extent>
+              <charseq START="976" END="980">China</charseq>
+          </extent>
+          <head>
+              <charseq START="976" END="980">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E0-M711">
+          <extent>
+              <charseq START="1060" END="1064">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1060" END="1064">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E0-M719">
+          <extent>
+              <charseq START="1214" END="1218">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1214" END="1218">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chinese">
+              <charseq START="58" END="64">Chinese</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="163" END="169">Chinese</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="706" END="710">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="731" END="735">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="976" END="980">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1060" END="1064">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1214" END="1218">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="75" END="83">Hungarian</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="83">Hungarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E1-M312">
+          <extent>
+              <charseq START="236" END="244">Hungarian</charseq>
+          </extent>
+          <head>
+              <charseq START="236" END="244">Hungarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E1-M319" ROLE="GPE">
+          <extent>
+              <charseq START="336" END="342">Hungary</charseq>
+          </extent>
+          <head>
+              <charseq START="336" END="342">Hungary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E1-M505">
+          <extent>
+              <charseq START="657" END="663">Hungary</charseq>
+          </extent>
+          <head>
+              <charseq START="657" END="663">Hungary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E1-M713">
+          <extent>
+              <charseq START="1084" END="1090">Hungary</charseq>
+          </extent>
+          <head>
+              <charseq START="1084" END="1090">Hungary</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hungarian">
+              <charseq START="75" END="83">Hungarian</charseq>
+          </name>
+          <name NAME="Hungarian">
+              <charseq START="236" END="244">Hungarian</charseq>
+          </name>
+          <name NAME="Hungary">
+              <charseq START="336" END="342">Hungary</charseq>
+          </name>
+          <name NAME="Hungary">
+              <charseq START="657" END="663">Hungary</charseq>
+          </name>
+          <name NAME="Hungary">
+              <charseq START="1084" END="1090">Hungary</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091202.0401-E2-M2">
+          <extent>
+              <charseq START="75" END="90">Hungarian guests</charseq>
+          </extent>
+          <head>
+              <charseq START="85" END="90">guests</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E3-M200">
+          <extent>
+              <charseq START="132" END="137">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="137">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="132" END="137">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E4-M300">
+          <extent>
+              <charseq START="163" END="195">Chinese Vice President Xi Jinping</charseq>
+          </extent>
+          <head>
+              <charseq START="186" END="195">Xi Jinping</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091202.0401-E4-M303">
+          <extent>
+              <charseq START="176" END="184">President</charseq>
+          </extent>
+          <head>
+              <charseq START="176" END="184">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E4-M500">
+          <extent>
+              <charseq START="628" END="629">Xi</charseq>
+          </extent>
+          <head>
+              <charseq START="628" END="629">Xi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xi Jinping">
+              <charseq START="186" END="195">Xi Jinping</charseq>
+          </name>
+          <name NAME="Xi">
+              <charseq START="628" END="629">Xi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E5-M306">
+          <extent>
+              <charseq START="206" END="217">Orban Viktor</charseq>
+          </extent>
+          <head>
+              <charseq START="206" END="217">Orban Viktor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091202.0401-E5-M308">
+          <extent>
+              <charseq START="220" END="305">chairman of the
+Hungarian main opposition party Federation of Young Democrats (Fidesz)</charseq>
+          </extent>
+          <head>
+              <charseq START="220" END="227">chairman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091202.0401-E5-M317">
+          <extent>
+              <charseq START="311" END="342">former prime minister of Hungary</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="331">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091202.0401-E5-M402">
+          <extent>
+              <charseq START="374" END="489">also member of the Standing Committee of the Political Bureau of the Chinese
+Communist Party (CPC) Central Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="379" END="384">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E5-M600">
+          <extent>
+              <charseq START="824" END="828">Orban</charseq>
+          </extent>
+          <head>
+              <charseq START="824" END="828">Orban</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091202.0401-E5-M604">
+          <extent>
+              <charseq START="868" END="870">his</charseq>
+          </extent>
+          <head>
+              <charseq START="868" END="870">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091202.0401-E5-M608">
+          <extent>
+              <charseq START="894" END="896">his</charseq>
+          </extent>
+          <head>
+              <charseq START="894" END="896">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E5-M700">
+          <extent>
+              <charseq START="965" END="969">Orban</charseq>
+          </extent>
+          <head>
+              <charseq START="965" END="969">Orban</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091202.0401-E5-M709">
+          <extent>
+              <charseq START="1041" END="1043">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1041" END="1043">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Orban Viktor">
+              <charseq START="206" END="217">Orban Viktor</charseq>
+          </name>
+          <name NAME="Orban">
+              <charseq START="824" END="828">Orban</charseq>
+          </name>
+          <name NAME="Orban">
+              <charseq START="965" END="969">Orban</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E6-M310">
+          <extent>
+              <charseq START="232" END="305">the
+Hungarian main opposition party Federation of Young Democrats (Fidesz)</charseq>
+          </extent>
+          <head>
+              <charseq START="268" END="296">Federation of Young Democrats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E6-M316">
+          <extent>
+              <charseq START="299" END="304">Fidesz</charseq>
+          </extent>
+          <head>
+              <charseq START="299" END="304">Fidesz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091202.0401-E6-M314">
+          <extent>
+              <charseq START="262" END="266">party</charseq>
+          </extent>
+          <head>
+              <charseq START="262" END="266">party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091202.0401-E6-M606">
+          <extent>
+              <charseq START="894" END="953">his party
+established formal exchange relations with the CPC</charseq>
+          </extent>
+          <head>
+              <charseq START="898" END="902">party</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Federation of Young Democrats">
+              <charseq START="268" END="296">Federation of Young Democrats</charseq>
+          </name>
+          <name NAME="Fidesz">
+              <charseq START="299" END="304">Fidesz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E7-M404">
+          <extent>
+              <charseq START="389" END="489">the Standing Committee of the Political Bureau of the Chinese
+Communist Party (CPC) Central Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="393" END="465">Standing Committee of the Political Bureau of the Chinese
+Communist Party</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Standing Committee of the Political Bureau of the Chinese
+Communist Party">
+              <charseq START="393" END="465">Standing Committee of the Political Bureau of the Chinese
+Communist Party</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E8-M407">
+          <extent>
+              <charseq START="468" END="489">CPC) Central Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="468" END="489">CPC) Central Committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E8-M612">
+          <extent>
+              <charseq START="947" END="953">the CPC</charseq>
+          </extent>
+          <head>
+              <charseq START="951" END="953">CPC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CPC) Central Committee">
+              <charseq START="468" END="489">CPC) Central Committee</charseq>
+          </name>
+          <name NAME="CPC">
+              <charseq START="951" END="953">CPC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091202.0401-E9-M414">
+          <extent>
+              <charseq START="568" END="582">the two peoples</charseq>
+          </extent>
+          <head>
+              <charseq START="576" END="582">peoples</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091202.0401-E10" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E10-M510">
+          <extent>
+              <charseq START="716" END="721">the EU</charseq>
+          </extent>
+          <head>
+              <charseq START="720" END="721">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E10-M513">
+          <extent>
+              <charseq START="746" END="751">the EU</charseq>
+          </extent>
+          <head>
+              <charseq START="750" END="751">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091202.0401-E10-M717">
+          <extent>
+              <charseq START="1203" END="1208">the EU</charseq>
+          </extent>
+          <head>
+              <charseq START="1207" END="1208">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="EU">
+              <charseq START="720" END="721">EU</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="750" END="751">EU</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="1207" END="1208">EU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091202.0401-T0" VAL="2009-12-02">
+        <timex2_mention ID="XIN_ENG_20091202.0401-T0-M1">
+            <extent>
+              <charseq START="124" END="129">Dec. 2</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091202.0401-T1" VAL="2009-12-02">
+        <timex2_mention ID="XIN_ENG_20091202.0401-T1-M1">
+            <extent>
+              <charseq START="350" END="358">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091202.0401-T2" VAL="PRESENT_REF" ANCHOR_VAL="2009-12-02" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20091202.0401-T2-M1">
+            <extent>
+              <charseq START="872" END="878">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20091202.0401-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091202.0401-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091202.0401-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091202.0401-R0-M0">
+          <extent>
+              <charseq START="75" END="90">Hungarian guests</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E2-M2" ROLE="Arg-1">
+            <extent>
+              <charseq START="75" END="90">Hungarian guests</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E1-M3" ROLE="Arg-2">
+            <extent>
+              <charseq START="75" END="83">Hungarian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091202.0401-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091202.0401-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091202.0401-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091202.0401-R1-M300">
+          <extent>
+              <charseq START="176" END="184">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E4-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="176" END="184">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E0-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="163" END="169">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091202.0401-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091202.0401-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091202.0401-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091202.0401-R2-M301">
+          <extent>
+              <charseq START="220" END="305">chairman of the
+Hungarian main opposition party Federation of Young Democrats (Fidesz)</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E5-M308" ROLE="Arg-1">
+            <extent>
+              <charseq START="220" END="305">chairman of the
+Hungarian main opposition party Federation of Young Democrats (Fidesz)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E6-M310" ROLE="Arg-2">
+            <extent>
+              <charseq START="232" END="305">the
+Hungarian main opposition party Federation of Young Democrats (Fidesz)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091202.0401-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091202.0401-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091202.0401-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091202.0401-R3-M302">
+          <extent>
+              <charseq START="262" END="266">party</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E6-M314" ROLE="Arg-1">
+            <extent>
+              <charseq START="262" END="266">party</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E1-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="236" END="244">Hungarian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091202.0401-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091202.0401-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091202.0401-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091202.0401-R4-M303">
+          <extent>
+              <charseq START="311" END="342">former prime minister of Hungary</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E5-M317" ROLE="Arg-1">
+            <extent>
+              <charseq START="311" END="342">former prime minister of Hungary</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E1-M319" ROLE="Arg-2">
+            <extent>
+              <charseq START="336" END="342">Hungary</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091202.0401-R5" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091202.0401-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091202.0401-E7" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091202.0401-R5-M400">
+          <extent>
+              <charseq START="374" END="489">also member of the Standing Committee of the Political Bureau of the Chinese
+Communist Party (CPC) Central Committee</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E5-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="374" END="489">also member of the Standing Committee of the Political Bureau of the Chinese
+Communist Party (CPC) Central Committee</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E7-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="389" END="489">the Standing Committee of the Political Bureau of the Chinese
+Communist Party (CPC) Central Committee</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091202.0401-R6" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091202.0401-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091202.0401-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091202.0401-R6-M600">
+          <extent>
+              <charseq START="894" END="896">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E5-M608" ROLE="Arg-1">
+            <extent>
+              <charseq START="894" END="896">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091202.0401-E6-M606" ROLE="Arg-2">
+            <extent>
+              <charseq START="894" END="953">his party
+established formal exchange relations with the CPC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

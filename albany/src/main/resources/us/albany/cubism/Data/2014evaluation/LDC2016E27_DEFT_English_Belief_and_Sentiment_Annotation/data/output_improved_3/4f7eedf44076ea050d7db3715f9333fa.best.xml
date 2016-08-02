@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="4f7eedf44076ea050d7db3715f9333fa.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-195" length="3" offset="538">
+        <text>MSE</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-135" length="17" offset="461">Trying to be good</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-244" length="6" offset="1714">
+        <text>an IFA</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="5" offset="955">SandC</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

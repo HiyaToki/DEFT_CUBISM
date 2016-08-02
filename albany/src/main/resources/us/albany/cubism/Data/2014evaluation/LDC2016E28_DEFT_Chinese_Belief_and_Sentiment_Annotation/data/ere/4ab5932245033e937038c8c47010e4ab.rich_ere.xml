@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="55ccab530000000000000023" doc_id="4ab5932245033e937038c8c47010e4ab" source_type="multi_post">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specific">
+      <entity_mention id="m-57" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="14" length="2">
+        <mention_text>刑天</mention_text>
+      </entity_mention>
+      <entity_mention id="m-63" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="133" length="1">
+        <mention_text>哥</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="133" length="1">哥</nom_head>
+      </entity_mention>
+      <entity_mention id="m-69" noun_type="PRO" source="4ab5932245033e937038c8c47010e4ab" offset="275" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-75" noun_type="PRO" source="4ab5932245033e937038c8c47010e4ab" offset="307" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-81" noun_type="PRO" source="4ab5932245033e937038c8c47010e4ab" offset="320" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-87" noun_type="PRO" source="4ab5932245033e937038c8c47010e4ab" offset="164" length="1">
+        <mention_text>你</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-18" type="PER" specificity="specific">
+      <entity_mention id="m-93" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="252" length="3">
+        <mention_text>打工者</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="252" length="3">打工者</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-21" type="PER" specificity="nonspecific">
+      <entity_mention id="m-99" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="258" length="1">
+        <mention_text>人</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="258" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="PER" specificity="specific">
+      <entity_mention id="m-105" noun_type="PRO" source="4ab5932245033e937038c8c47010e4ab" offset="154" length="2">
+        <mention_text>人家</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="PER" specificity="specific">
+      <entity_mention id="m-111" noun_type="PRO" source="4ab5932245033e937038c8c47010e4ab" offset="195" length="2">
+        <mention_text>他们</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="ORG" specificity="specific">
+      <entity_mention id="m-117" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="89" length="3">
+        <mention_text>劳动局</mention_text>
+      </entity_mention>
+      <entity_mention id="m-123" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="198" length="3">
+        <mention_text>劳动局</mention_text>
+      </entity_mention>
+      <entity_mention id="m-129" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="327" length="3">
+        <mention_text>劳动局</mention_text>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="235" length="3">
+        <mention_text>劳动局</mention_text>
+      </entity_mention>
+      <entity_mention id="m-411" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="319" length="3">
+        <mention_text>骗我的</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="321" length="1">的</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="ORG" specificity="specific">
+      <entity_mention id="m-141" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="70" length="3">
+        <mention_text>富士康</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="ORG" specificity="specific">
+      <entity_mention id="m-147" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="188" length="4">
+        <mention_text>劳动部门</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="190" length="2">部门</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="GPE" specificity="specific">
+      <entity_mention id="m-153" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="59" length="2">
+        <mention_text>郑州</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-42" type="GPE" specificity="specific">
+      <entity_mention id="m-159" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="223" length="2">
+        <mention_text>中国</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="GPE" specificity="specific">
+      <entity_mention id="m-165" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="243" length="2">
+        <mention_text>东莞</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="LOC" specificity="specific">
+      <entity_mention id="m-171" noun_type="NAM" source="4ab5932245033e937038c8c47010e4ab" offset="245" length="2">
+        <mention_text>厚街</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="LOC" specificity="specific">
+      <entity_mention id="m-177" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="265" length="10">
+        <mention_text>报道上的 那个 地方</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="273" length="2">地方</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="LOC" specificity="specific">
+      <entity_mention id="m-183" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="150" length="1">
+        <mention_text>厂</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="150" length="1">厂</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-337" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-331" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="65" length="14">
+        <mention_text>很 多打着富士康招聘的 地点</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="77" length="2">地点</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-346" type="PER" specificity="nonspecific">
+      <entity_mention id="m-340" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="209" length="10">
+        <mention_text>在外时间长的 朋友们</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="216" length="3">朋友们</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-355" type="PER" specificity="nonspecific">
+      <entity_mention id="m-349" noun_type="PRO" source="4ab5932245033e937038c8c47010e4ab" offset="334" length="1">
+        <mention_text>你</mention_text>
+      </entity_mention>
+      <entity_mention id="m-358" noun_type="PRO" source="4ab5932245033e937038c8c47010e4ab" offset="342" length="1">
+        <mention_text>你</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-423" type="ORG" specificity="nonspecific">
+      <entity_mention id="m-417" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="341" length="6">
+        <mention_text>把你安排的厂</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="346" length="1">厂</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-432" type="ORG" specificity="nonspecific">
+      <entity_mention id="m-426" noun_type="NOM" source="4ab5932245033e937038c8c47010e4ab" offset="350" length="23">
+        <mention_text>又苦又累加班没完没了，知道底细的根本不会进的厂</mention_text>
+        <nom_head source="4ab5932245033e937038c8c47010e4ab" offset="372" length="1">厂</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-301" source="4ab5932245033e937038c8c47010e4ab" offset="281" length="3" type="time" nom_time="2007-XX-XX">07年</filler>
+    <filler id="f-378" source="4ab5932245033e937038c8c47010e4ab" offset="295" length="4" type="money">好 几百</filler>
+  </fillers>
+  <relations>
+    <relation id="r-302" type="physical" subtype="locatednear">
+      <relation_mention id="relm-189" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-171" role="entity">厚街</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-165" role="loc">东莞</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-303" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-199" realis="true">
+        <rel_arg1 entity_id="ent-30" entity_mention_id="m-135" role="suborg">劳动局</rel_arg1>
+        <rel_arg2 entity_id="ent-42" entity_mention_id="m-159" role="parent">中国</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-304" type="physical" subtype="locatednear">
+      <relation_mention id="relm-364" realis="true">
+        <rel_arg1 entity_id="ent-18" entity_mention_id="m-93" role="entity">打工者</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-171" role="loc">厚街</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-234" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="4ab5932245033e937038c8c47010e4ab" offset="292" length="1">骗</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-69" role="giver" realis="true">我</em_arg>
+        <em_arg filler_id="f-301" role="time" realis="true">07年</em_arg>
+        <em_arg filler_id="f-378" role="money" realis="true">好 几百</em_arg>
+      </event_mention>
+      <event_mention id="em-255" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="4ab5932245033e937038c8c47010e4ab" offset="319" length="1">骗</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-81" role="giver" realis="true">我</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-129" role="recipient" realis="true">劳动局</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-209">
+      <event_mention id="em-213" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="4ab5932245033e937038c8c47010e4ab" offset="142" length="1">骗</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-63" role="giver" realis="true">哥</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-211">
+      <event_mention id="em-276" type="conflict" subtype="attack" realis="actual">
+        <trigger source="4ab5932245033e937038c8c47010e4ab" offset="257" length="1">杀</trigger>
+        <em_arg entity_id="ent-21" entity_mention_id="m-99" role="target" realis="true">人</em_arg>
+        <em_arg entity_id="ent-18" entity_mention_id="m-93" role="attacker" realis="true">打工者</em_arg>
+        <em_arg entity_id="ent-48" entity_mention_id="m-171" role="place" realis="true">厚街</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-402">
+      <event_mention id="em-381" type="life" subtype="die" realis="other">
+        <trigger source="4ab5932245033e937038c8c47010e4ab" offset="312" length="2">杀人</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-75" role="agent" realis="true">我</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

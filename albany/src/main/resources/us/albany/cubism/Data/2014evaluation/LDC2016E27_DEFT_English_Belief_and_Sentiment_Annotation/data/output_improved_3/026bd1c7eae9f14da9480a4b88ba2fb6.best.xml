@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="026bd1c7eae9f14da9480a4b88ba2fb6.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-150" length="3" offset="1270">
+        <text>You</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-108" length="8" offset="726">BenNatuf</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-234" length="2" offset="1458">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-108" length="8" offset="726">BenNatuf</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-504" length="31" offset="3104">
+        <text>other Islamic terrorist leaders</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-282" length="8" offset="2307">manifold</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-504" length="31" offset="3104">
+        <text>other Islamic terrorist leaders</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-294" length="8" offset="3404">manifold</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-768" length="22" offset="4464">
+        <text>the mosque in question</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-384" length="4" offset="3336">Ravi</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-504" length="31" offset="3104">
+        <text>other Islamic terrorist leaders</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" length="8" offset="5706">manifold</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-768" length="22" offset="4464">
+        <text>the mosque in question</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-402" length="4" offset="5679">Ravi</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

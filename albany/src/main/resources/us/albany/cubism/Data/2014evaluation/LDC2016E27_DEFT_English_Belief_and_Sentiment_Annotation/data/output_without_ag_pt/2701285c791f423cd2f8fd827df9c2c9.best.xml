@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="2701285c791f423cd2f8fd827df9c2c9.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-516" length="3" offset="132">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="86">tmd2_1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-825" length="15" offset="159">
+        <text>A lot of people</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="86">tmd2_1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-120" length="3" offset="217">
+        <text>JFK</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="86">tmd2_1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-744" length="31" offset="247">
+        <text>an actual government commission</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="86">tmd2_1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-126" length="18" offset="486">
+        <text>Martin Luther King</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="86">tmd2_1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-753" length="11" offset="511">
+        <text>many people</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="86">tmd2_1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-162" length="10" offset="548">
+        <text>his family</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="86">tmd2_1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-777" length="4" offset="1203">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-84" length="8" offset="14">bynmdsue</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-324" length="11" offset="1578">
+        <text>John Albert</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-186" length="11" offset="1515">Patrick1000</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-354" length="29" offset="2223">
+        <text>courageous lone Italian judge</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-306" length="5" offset="1446">LSSBB</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-354" length="29" offset="2223">
+        <text>courageous lone Italian judge</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" length="5" offset="1446">LSSBB</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-888" length="4" offset="2898">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-510" length="8" offset="2442">Garrison</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-414" length="5" offset="3088">
+        <text>Nixon</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-222" length="11" offset="2367">Patrick1000</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-354" length="29" offset="2223">
+        <text>courageous lone Italian judge</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-312" length="5" offset="3270">LSSBB</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-354" length="29" offset="2223">
+        <text>courageous lone Italian judge</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-312" length="5" offset="3270">LSSBB</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-396" length="7" offset="3573">
+        <text>one guy</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-228" length="11" offset="3195">Patrick1000</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-534" length="4" offset="3603">
+        <text>NATO</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-228" length="11" offset="3195">Patrick1000</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-354" length="29" offset="2223">
+        <text>courageous lone Italian judge</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-318" length="5" offset="3716">LSSBB</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-354" length="29" offset="2223">
+        <text>courageous lone Italian judge</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-318" length="5" offset="3716">LSSBB</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-324" length="11" offset="1578">
+        <text>John Albert</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-246" length="11" offset="4035">Patrick1000</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1020" length="4" offset="6396">
+        <text>Wiki</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-480" length="13" offset="6008">Scott Sommers</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-426" length="9" offset="6408">
+        <text>Churchill</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-480" length="13" offset="6008">Scott Sommers</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

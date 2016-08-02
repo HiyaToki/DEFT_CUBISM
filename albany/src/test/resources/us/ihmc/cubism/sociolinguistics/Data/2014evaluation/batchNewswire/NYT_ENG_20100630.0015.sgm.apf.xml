@@ -1,0 +1,4132 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100630.0015">
+  <document DOCID="NYT_ENG_20100630.0015">
+
+    <entity ID="NYT_ENG_20100630.0015-E0" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E0-M2">
+          <extent>
+              <charseq START="67" END="72">VALLEY</charseq>
+          </extent>
+          <head>
+              <charseq START="67" END="72">VALLEY</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E0-M1513">
+          <extent>
+              <charseq START="787" END="792">valley</charseq>
+          </extent>
+          <head>
+              <charseq START="787" END="792">valley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E0-M11103">
+          <extent>
+              <charseq START="8559" END="8568">the valley</charseq>
+          </extent>
+          <head>
+              <charseq START="8563" END="8568">valley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="VALLEY">
+              <charseq START="67" END="72">VALLEY</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E2-M201">
+          <extent>
+              <charseq START="155" END="158">Loja</charseq>
+          </extent>
+          <head>
+              <charseq START="155" END="158">Loja</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Loja">
+              <charseq START="155" END="158">Loja</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E3-M202">
+          <extent>
+              <charseq START="177" END="181">Quito</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="181">Quito</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E3-M4503" ROLE="LOC">
+          <extent>
+              <charseq START="3288" END="3292">Quito</charseq>
+          </extent>
+          <head>
+              <charseq START="3288" END="3292">Quito</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Quito">
+              <charseq START="177" END="181">Quito</charseq>
+          </name>
+          <name NAME="Quito">
+              <charseq START="3288" END="3292">Quito</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M401">
+          <extent>
+              <charseq START="234" END="243">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="234" END="243">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E4-M500">
+          <extent>
+              <charseq START="316" END="320">Where</charseq>
+          </extent>
+          <head>
+              <charseq START="316" END="320">Where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M3000">
+          <extent>
+              <charseq START="1941" END="1952">VILCABAMBA -</charseq>
+          </extent>
+          <head>
+              <charseq START="1941" END="1950">VILCABAMBA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M3119" ROLE="GPE">
+          <extent>
+              <charseq START="2199" END="2208">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="2199" END="2208">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M3502" ROLE="LOC">
+          <extent>
+              <charseq START="2343" END="2352">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="2343" END="2352">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M4219" ROLE="LOC">
+          <extent>
+              <charseq START="2971" END="2980">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="2971" END="2980">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M4311" ROLE="LOC">
+          <extent>
+              <charseq START="3102" END="3111">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="3102" END="3111">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M5001">
+          <extent>
+              <charseq START="3912" END="3921">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="3912" END="3921">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M5501">
+          <extent>
+              <charseq START="4437" END="4446">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="4437" END="4446">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M8510">
+          <extent>
+              <charseq START="6675" END="6684">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="6675" END="6684">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M11004" ROLE="LOC">
+          <extent>
+              <charseq START="8517" END="8526">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="8517" END="8526">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M11212" ROLE="LOC">
+          <extent>
+              <charseq START="8763" END="8772">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="8763" END="8772">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M11509" ROLE="LOC">
+          <extent>
+              <charseq START="9211" END="9220">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="9211" END="9220">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M12804">
+          <extent>
+              <charseq START="10375" END="10385">Vilcabamba,</charseq>
+          </extent>
+          <head>
+              <charseq START="10375" END="10384">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E4-M12806">
+          <extent>
+              <charseq START="10399" END="10402">They</charseq>
+          </extent>
+          <head>
+              <charseq START="10399" END="10402">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E4-M13710" ROLE="LOC">
+          <extent>
+              <charseq START="11099" END="11108">Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="11099" END="11108">Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vilcabamba">
+              <charseq START="234" END="243">Vilcabamba</charseq>
+          </name>
+          <name NAME="VILCABAMBA">
+              <charseq START="1941" END="1950">VILCABAMBA</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="2199" END="2208">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="2343" END="2352">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="2971" END="2980">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="3102" END="3111">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="3912" END="3921">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="4437" END="4446">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="6675" END="6684">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="8517" END="8526">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="8763" END="8772">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="9211" END="9220">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="10375" END="10384">Vilcabamba</charseq>
+          </name>
+          <name NAME="Vilcabamba">
+              <charseq START="11099" END="11108">Vilcabamba</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E5" TYPE="FAC" SUBTYPE="Airport" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E5-M400">
+          <extent>
+              <charseq START="221" END="231">the airport</charseq>
+          </extent>
+          <head>
+              <charseq START="225" END="231">airport</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E6" TYPE="VEH" SUBTYPE="Air" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E6-M406">
+          <extent>
+              <charseq START="283" END="304">taxi
+shuttle available</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="294">shuttle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E6-M3004">
+          <extent>
+              <charseq START="1978" END="1986">the plane</charseq>
+          </extent>
+          <head>
+              <charseq START="1982" END="1986">plane</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E7" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E7-M408">
+          <extent>
+              <charseq START="283" END="286">taxi</charseq>
+          </extent>
+          <head>
+              <charseq START="283" END="286">taxi</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E8-M600">
+          <extent>
+              <charseq START="339" END="360">Hosteria de Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="339" END="360">Hosteria de Vilcabamba</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hosteria de Vilcabamba">
+              <charseq START="339" END="360">Hosteria de Vilcabamba</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E9-M803">
+          <extent>
+              <charseq START="406" END="421">the nicer motels</charseq>
+          </extent>
+          <head>
+              <charseq START="416" END="421">motels</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E10-M805">
+          <extent>
+              <charseq START="422" END="426">/inns</charseq>
+          </extent>
+          <head>
+              <charseq START="423" END="426">inns</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E11" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E11-M801">
+          <extent>
+              <charseq START="399" END="421">One of the nicer motels</charseq>
+          </extent>
+          <head>
+              <charseq START="399" END="401">One</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E11-M4005">
+          <extent>
+              <charseq START="2548" END="2577">this
+off-the-beaten-path place</charseq>
+          </extent>
+          <head>
+              <charseq START="2573" END="2577">place</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E11-M4100">
+          <extent>
+              <charseq START="2656" END="2657">it</charseq>
+          </extent>
+          <head>
+              <charseq START="2656" END="2657">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E11-M5416">
+          <extent>
+              <charseq START="4381" END="4394">abundant plant</charseq>
+          </extent>
+          <head>
+              <charseq START="4390" END="4394">plant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E12-M1300">
+          <extent>
+              <charseq START="595" END="613">www.montesuenos.org</charseq>
+          </extent>
+          <head>
+              <charseq START="595" END="613">www.montesuenos.org</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="www.montesuenos.org">
+              <charseq START="595" END="613">www.montesuenos.org</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E13-M1401">
+          <extent>
+              <charseq START="624" END="636">Brian O&apos;Leary</charseq>
+          </extent>
+          <head>
+              <charseq START="624" END="636">Brian O&apos;Leary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E13-M11206">
+          <extent>
+              <charseq START="8692" END="8704">Brian
+O&apos;Leary</charseq>
+          </extent>
+          <head>
+              <charseq START="8692" END="8704">Brian
+O&apos;Leary</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E13-M11208">
+          <extent>
+              <charseq START="8707" END="8737">a
+former MIT-educated astronaut</charseq>
+          </extent>
+          <head>
+              <charseq START="8729" END="8737">astronaut</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E13-M11210">
+          <extent>
+              <charseq START="8743" END="8748">author</charseq>
+          </extent>
+          <head>
+              <charseq START="8743" END="8748">author</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E13-M11215">
+          <extent>
+              <charseq START="8783" END="8788">artist</charseq>
+          </extent>
+          <head>
+              <charseq START="8783" END="8788">artist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E13-M11211">
+          <extent>
+              <charseq START="8750" END="8752">who</charseq>
+          </extent>
+          <head>
+              <charseq START="8750" END="8752">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E13-M11214">
+          <extent>
+              <charseq START="8779" END="8781">his</charseq>
+          </extent>
+          <head>
+              <charseq START="8779" END="8781">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E13-M11300">
+          <extent>
+              <charseq START="8820" END="8840">the gringo &apos;invasion&apos;</charseq>
+          </extent>
+          <head>
+              <charseq START="8824" END="8829">gringo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brian O&apos;Leary">
+              <charseq START="624" END="636">Brian O&apos;Leary</charseq>
+          </name>
+          <name NAME="Brian
+O&apos;Leary">
+              <charseq START="8692" END="8704">Brian
+O&apos;Leary</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E14" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E14-M1400">
+          <extent>
+              <charseq START="624" END="654">Brian O&apos;Leary&apos;s mountainous inn</charseq>
+          </extent>
+          <head>
+              <charseq START="652" END="654">inn</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M1405" ROLE="GPE">
+          <extent>
+              <charseq START="684" END="687">town</charseq>
+          </extent>
+          <head>
+              <charseq START="684" END="687">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M2905">
+          <extent>
+              <charseq START="1900" END="1907">the town</charseq>
+          </extent>
+          <head>
+              <charseq START="1904" END="1907">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M3105" ROLE="LOC">
+          <extent>
+              <charseq START="2102" END="2136">this small town in southern Ecuador</charseq>
+          </extent>
+          <head>
+              <charseq START="2113" END="2116">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M3604" ROLE="GPE">
+          <extent>
+              <charseq START="2390" END="2397">the
+town</charseq>
+          </extent>
+          <head>
+              <charseq START="2394" END="2397">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M5603">
+          <extent>
+              <charseq START="4577" END="4584">the town</charseq>
+          </extent>
+          <head>
+              <charseq START="4581" END="4584">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E15-M5701">
+          <extent>
+              <charseq START="4626" END="4629">here</charseq>
+          </extent>
+          <head>
+              <charseq START="4626" END="4629">here</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M6806">
+          <extent>
+              <charseq START="5505" END="5512">the town</charseq>
+          </extent>
+          <head>
+              <charseq START="5509" END="5512">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M6904">
+          <extent>
+              <charseq START="5607" END="5614">the town</charseq>
+          </extent>
+          <head>
+              <charseq START="5611" END="5614">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E15-M6901">
+          <extent>
+              <charseq START="5553" END="5556">here</charseq>
+          </extent>
+          <head>
+              <charseq START="5553" END="5556">here</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M7706">
+          <extent>
+              <charseq START="5954" END="5957">town</charseq>
+          </extent>
+          <head>
+              <charseq START="5954" END="5957">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M8713">
+          <extent>
+              <charseq START="6954" END="6961">the town</charseq>
+          </extent>
+          <head>
+              <charseq START="6958" END="6961">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M10703" ROLE="LOC">
+          <extent>
+              <charseq START="8261" END="8264">town</charseq>
+          </extent>
+          <head>
+              <charseq START="8261" END="8264">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E15-M11106">
+          <extent>
+              <charseq START="8623" END="8626">here</charseq>
+          </extent>
+          <head>
+              <charseq START="8623" END="8626">here</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E15-M11204">
+          <extent>
+              <charseq START="8680" END="8683">here</charseq>
+          </extent>
+          <head>
+              <charseq START="8680" END="8683">here</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M11602" ROLE="LOC">
+          <extent>
+              <charseq START="9254" END="9324">town,
+commissioned by a Miami doctor to look into &quot;this longevity
+thing</charseq>
+          </extent>
+          <head>
+              <charseq START="9254" END="9257">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E15-M11712" ROLE="LOC">
+          <extent>
+              <charseq START="9408" END="9411">town</charseq>
+          </extent>
+          <head>
+              <charseq START="9408" END="9411">town</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E16" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E16-M1511">
+          <extent>
+              <charseq START="773" END="781">the Andes</charseq>
+          </extent>
+          <head>
+              <charseq START="777" END="781">Andes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E16-M2801">
+          <extent>
+              <charseq START="1802" END="1810">the Andes</charseq>
+          </extent>
+          <head>
+              <charseq START="1806" END="1810">Andes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E16-M5504">
+          <extent>
+              <charseq START="4470" END="4531">the Andes with
+views of
+lush valleys and distant purple slopes</charseq>
+          </extent>
+          <head>
+              <charseq START="4474" END="4478">Andes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andes">
+              <charseq START="777" END="781">Andes</charseq>
+          </name>
+          <name NAME="Andes">
+              <charseq START="1806" END="1810">Andes</charseq>
+          </name>
+          <name NAME="Andes">
+              <charseq START="4474" END="4478">Andes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E17-M1700">
+          <extent>
+              <charseq START="834" END="845">Madre Tierra</charseq>
+          </extent>
+          <head>
+              <charseq START="834" END="845">Madre Tierra</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Madre Tierra">
+              <charseq START="834" END="845">Madre Tierra</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E18-M1900">
+          <extent>
+              <charseq START="884" END="912">www.vilcabambamadretierra.com</charseq>
+          </extent>
+          <head>
+              <charseq START="884" END="912">www.vilcabambamadretierra.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="www.vilcabambamadretierra.com">
+              <charseq START="884" END="912">www.vilcabambamadretierra.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E19-M2201">
+          <extent>
+              <charseq START="1076" END="1207">La Roca
+      Direccion Calle Agua de Hierro y Eterna Juventud
+      011-593-9-264-0364
+      Specializes in pork and steak platters</charseq>
+          </extent>
+          <head>
+              <charseq START="1079" END="1137">Roca
+      Direccion Calle Agua de Hierro y Eterna Juventud</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E19-M2203">
+          <extent>
+              <charseq START="1076" END="1077">La</charseq>
+          </extent>
+          <head>
+              <charseq START="1076" END="1077">La</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roca
+      Direccion Calle Agua de Hierro y Eterna Juventud">
+              <charseq START="1079" END="1137">Roca
+      Direccion Calle Agua de Hierro y Eterna Juventud</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E20-M2205">
+          <extent>
+              <charseq START="1145" END="1207">011-593-9-264-0364
+      Specializes in pork and steak platters</charseq>
+          </extent>
+          <head>
+              <charseq START="1170" END="1180">Specializes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Specializes">
+              <charseq START="1170" END="1180">Specializes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E21" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E21-M2301">
+          <extent>
+              <charseq START="1231" END="1260">La Terraza
+      Central Plaza</charseq>
+          </extent>
+          <head>
+              <charseq START="1231" END="1260">La Terraza
+      Central Plaza</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E21-M2302">
+          <extent>
+              <charseq START="1263" END="1382">corner of Diego Vaca de la Vega and Bolivar
+      011-593-9-264-4108
+      Fajitas, nachos, and other Mexican-style food</charseq>
+          </extent>
+          <head>
+              <charseq START="1263" END="1268">corner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="La Terraza
+      Central Plaza">
+              <charseq START="1231" END="1260">La Terraza
+      Central Plaza</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E22-M2305">
+          <extent>
+              <charseq START="1273" END="1293">Diego Vaca de la Vega</charseq>
+          </extent>
+          <head>
+              <charseq START="1273" END="1293">Diego Vaca de la Vega</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E22-M2503">
+          <extent>
+              <charseq START="1573" END="1590">Diego Vaca de Vega</charseq>
+          </extent>
+          <head>
+              <charseq START="1573" END="1590">Diego Vaca de Vega</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Diego Vaca de la Vega">
+              <charseq START="1273" END="1293">Diego Vaca de la Vega</charseq>
+          </name>
+          <name NAME="Diego Vaca de Vega">
+              <charseq START="1573" END="1590">Diego Vaca de Vega</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E23-M2306">
+          <extent>
+              <charseq START="1299" END="1344">Bolivar
+      011-593-9-264-4108
+      Fajitas</charseq>
+          </extent>
+          <head>
+              <charseq START="1338" END="1344">Fajitas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fajitas">
+              <charseq START="1338" END="1344">Fajitas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E24-M2307">
+          <extent>
+              <charseq START="1299" END="1305">Bolivar</charseq>
+          </extent>
+          <head>
+              <charseq START="1299" END="1305">Bolivar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E24-M2500">
+          <extent>
+              <charseq START="1555" END="1625">Beauty Care
+      Diego Vaca de Vega y Bolivar
+      011-593-9-326-1944</charseq>
+          </extent>
+          <head>
+              <charseq START="1594" END="1600">Bolivar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bolivar">
+              <charseq START="1299" END="1305">Bolivar</charseq>
+          </name>
+          <name NAME="Bolivar">
+              <charseq START="1594" END="1600">Bolivar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E25-M2312">
+          <extent>
+              <charseq START="1365" END="1371">Mexican</charseq>
+          </extent>
+          <head>
+              <charseq START="1365" END="1371">Mexican</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mexican">
+              <charseq START="1365" END="1371">Mexican</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E26-M2405">
+          <extent>
+              <charseq START="1432" END="1438">Gavilan</charseq>
+          </extent>
+          <head>
+              <charseq START="1432" END="1438">Gavilan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gavilan">
+              <charseq START="1432" END="1438">Gavilan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E27" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E27-M2411">
+          <extent>
+              <charseq START="1510" END="1517">mountain</charseq>
+          </extent>
+          <head>
+              <charseq START="1510" END="1517">mountain</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E28-M2600">
+          <extent>
+              <charseq START="1636" END="1641">Karina</charseq>
+          </extent>
+          <head>
+              <charseq START="1636" END="1641">Karina</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Karina">
+              <charseq START="1636" END="1641">Karina</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E29" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E29-M3007">
+          <extent>
+              <charseq START="2011" END="2055">the
+Valle de Longevidad - Valley of Longevity</charseq>
+          </extent>
+          <head>
+              <charseq START="2015" END="2055">Valle de Longevidad - Valley of Longevity</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Valle de Longevidad - Valley of Longevity">
+              <charseq START="2015" END="2055">Valle de Longevidad - Valley of Longevity</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E31-M3107" ROLE="LOC">
+          <extent>
+              <charseq START="2121" END="2136">southern Ecuador</charseq>
+          </extent>
+          <head>
+              <charseq START="2130" END="2136">Ecuador</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E31-M13002" ROLE="LOC">
+          <extent>
+              <charseq START="10577" END="10583">Ecuador</charseq>
+          </extent>
+          <head>
+              <charseq START="10577" END="10583">Ecuador</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ecuador">
+              <charseq START="2130" END="2136">Ecuador</charseq>
+          </name>
+          <name NAME="Ecuador">
+              <charseq START="10577" END="10583">Ecuador</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E32-M3100">
+          <extent>
+              <charseq START="2066" END="2077">My cabdriver</charseq>
+          </extent>
+          <head>
+              <charseq START="2069" END="2077">cabdriver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E32-M3111">
+          <extent>
+              <charseq START="2150" END="2152">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2150" END="2152">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E32-M7400">
+          <extent>
+              <charseq START="5842" END="5853">My
+cabdriver</charseq>
+          </extent>
+          <head>
+              <charseq START="5845" END="5853">cabdriver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E32-M7405">
+          <extent>
+              <charseq START="5863" END="5865">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5863" END="5865">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E33-M3117">
+          <extent>
+              <charseq START="2171" END="2208">the legendary old people of Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="2189" END="2194">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E34-M3300">
+          <extent>
+              <charseq START="2234" END="2253">My great-great uncle</charseq>
+          </extent>
+          <head>
+              <charseq START="2249" END="2253">uncle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E34-M3303">
+          <extent>
+              <charseq START="2283" END="2284">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2283" END="2284">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E34-M3401">
+          <extent>
+              <charseq START="2293" END="2295">His</charseq>
+          </extent>
+          <head>
+              <charseq START="2293" END="2295">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E34-M3605">
+          <extent>
+              <charseq START="2413" END="2415">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2413" END="2415">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E34-M3701">
+          <extent>
+              <charseq START="2427" END="2428">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2427" END="2428">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E34-M3901">
+          <extent>
+              <charseq START="2462" END="2463">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2462" END="2463">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E34-M6707">
+          <extent>
+              <charseq START="5441" END="5460">a robust elderly man</charseq>
+          </extent>
+          <head>
+              <charseq START="5458" END="5460">man</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E35" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E35-M3402">
+          <extent>
+              <charseq START="2306" END="2318">Miguel Carpio</charseq>
+          </extent>
+          <head>
+              <charseq START="2306" END="2318">Miguel Carpio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E35-M3503">
+          <extent>
+              <charseq START="2359" END="2364">Carpio</charseq>
+          </extent>
+          <head>
+              <charseq START="2359" END="2364">Carpio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E35-M7714">
+          <extent>
+              <charseq START="5999" END="6080">the late, legendary Miguel, &quot;who spent only
+one night
+in 127 years in the hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="6019" END="6024">Miguel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E35-M8607">
+          <extent>
+              <charseq START="6750" END="6755">Carpio</charseq>
+          </extent>
+          <head>
+              <charseq START="6750" END="6755">Carpio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E35-M8700">
+          <extent>
+              <charseq START="6858" END="6859">He</charseq>
+          </extent>
+          <head>
+              <charseq START="6858" END="6859">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E35-M8710">
+          <extent>
+              <charseq START="6949" END="6950">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6949" END="6950">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E35-M8801">
+          <extent>
+              <charseq START="6982" END="6984">His</charseq>
+          </extent>
+          <head>
+              <charseq START="6982" END="6984">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E35-M8900">
+          <extent>
+              <charseq START="7000" END="7001">He</charseq>
+          </extent>
+          <head>
+              <charseq START="7000" END="7001">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miguel Carpio">
+              <charseq START="2306" END="2318">Miguel Carpio</charseq>
+          </name>
+          <name NAME="Carpio">
+              <charseq START="2359" END="2364">Carpio</charseq>
+          </name>
+          <name NAME="Miguel">
+              <charseq START="6019" END="6024">Miguel</charseq>
+          </name>
+          <name NAME="Carpio">
+              <charseq START="6750" END="6755">Carpio</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E36-M3500">
+          <extent>
+              <charseq START="2331" END="2352">Everyone in Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="2331" END="2338">Everyone</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E36-M12700">
+          <extent>
+              <charseq START="10251" END="10258">Everyone</charseq>
+          </extent>
+          <head>
+              <charseq START="10251" END="10258">Everyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E37" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E37-M4011">
+          <extent>
+              <charseq START="2623" END="2634">centenarians</charseq>
+          </extent>
+          <head>
+              <charseq START="2623" END="2634">centenarians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E37-M4403">
+          <extent>
+              <charseq START="3209" END="3245">three centenarians per 100,000
+people</charseq>
+          </extent>
+          <head>
+              <charseq START="3215" END="3226">centenarians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E37-M5801">
+          <extent>
+              <charseq START="4739" END="4751">the old folks</charseq>
+          </extent>
+          <head>
+              <charseq START="4747" END="4751">folks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E37-M10807">
+          <extent>
+              <charseq START="8356" END="8372">all the old folks</charseq>
+          </extent>
+          <head>
+              <charseq START="8368" END="8372">folks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E37-M10902">
+          <extent>
+              <charseq START="8387" END="8390">them</charseq>
+          </extent>
+          <head>
+              <charseq START="8387" END="8390">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E37-M10904">
+          <extent>
+              <charseq START="8392" END="8395">they</charseq>
+          </extent>
+          <head>
+              <charseq START="8392" END="8395">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E37-M11907">
+          <extent>
+              <charseq START="9680" END="9691">centenarians</charseq>
+          </extent>
+          <head>
+              <charseq START="9680" END="9691">centenarians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E38" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E38-M4106">
+          <extent>
+              <charseq START="2716" END="2734">National Geographic</charseq>
+          </extent>
+          <head>
+              <charseq START="2716" END="2734">National Geographic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E38-M4105">
+          <extent>
+              <charseq START="2716" END="2743">National Geographic magazine</charseq>
+          </extent>
+          <head>
+              <charseq START="2736" END="2743">magazine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E38-M8506">
+          <extent>
+              <charseq START="6632" END="6684">a magazine
+devoted to the super-elderly of Vilcabamba</charseq>
+          </extent>
+          <head>
+              <charseq START="6634" END="6641">magazine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E38-M13009">
+          <extent>
+              <charseq START="10634" END="10652">National Geographic</charseq>
+          </extent>
+          <head>
+              <charseq START="10634" END="10652">National Geographic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Geographic">
+              <charseq START="2716" END="2734">National Geographic</charseq>
+          </name>
+          <name NAME="National Geographic">
+              <charseq START="10634" END="10652">National Geographic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E39-M4107">
+          <extent>
+              <charseq START="2762" END="2792">locals eager
+to promote tourism</charseq>
+          </extent>
+          <head>
+              <charseq START="2762" END="2767">locals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E40" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E40-M4202">
+          <extent>
+              <charseq START="2823" END="2840">Dr. Alexander Leaf</charseq>
+          </extent>
+          <head>
+              <charseq START="2827" END="2840">Alexander Leaf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E40-M4203">
+          <extent>
+              <charseq START="2823" END="2825">Dr.</charseq>
+          </extent>
+          <head>
+              <charseq START="2823" END="2825">Dr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E40-M4302">
+          <extent>
+              <charseq START="2989" END="3079">then a professor at Harvard
+and
+chief of medical services at Massachusetts General Hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="2996" END="3004">professor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E40-M4306">
+          <extent>
+              <charseq START="3021" END="3025">chief</charseq>
+          </extent>
+          <head>
+              <charseq START="3021" END="3025">chief</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E40-M4500">
+          <extent>
+              <charseq START="3270" END="3273">Leaf</charseq>
+          </extent>
+          <head>
+              <charseq START="3270" END="3273">Leaf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E40-M4501">
+          <extent>
+              <charseq START="3276" END="3292">a doctor in Quito</charseq>
+          </extent>
+          <head>
+              <charseq START="3278" END="3283">doctor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E40-M4802">
+          <extent>
+              <charseq START="3638" END="3658">the
+uber-elderly Leaf</charseq>
+          </extent>
+          <head>
+              <charseq START="3655" END="3658">Leaf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E40-M4904">
+          <extent>
+              <charseq START="3757" END="3760">Leaf</charseq>
+          </extent>
+          <head>
+              <charseq START="3757" END="3760">Leaf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M6009">
+          <extent>
+              <charseq START="4874" END="4875">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4874" END="4875">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M6101">
+          <extent>
+              <charseq START="4897" END="4898">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4897" END="4898">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M7900">
+          <extent>
+              <charseq START="6212" END="6213">He</charseq>
+          </extent>
+          <head>
+              <charseq START="6212" END="6213">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M7903">
+          <extent>
+              <charseq START="6244" END="6245">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6244" END="6245">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M8006">
+          <extent>
+              <charseq START="6326" END="6327">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6326" END="6327">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M8400">
+          <extent>
+              <charseq START="6522" END="6523">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6522" END="6523">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M9402">
+          <extent>
+              <charseq START="7335" END="7337">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7335" END="7337">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M9404">
+          <extent>
+              <charseq START="7353" END="7355">his</charseq>
+          </extent>
+          <head>
+              <charseq START="7353" END="7355">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M9405">
+          <extent>
+              <charseq START="7363" END="7364">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7363" END="7364">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M9501">
+          <extent>
+              <charseq START="7410" END="7411">he</charseq>
+          </extent>
+          <head>
+              <charseq START="7410" END="7411">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M9600">
+          <extent>
+              <charseq START="7460" END="7461">He</charseq>
+          </extent>
+          <head>
+              <charseq START="7460" END="7461">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M9700">
+          <extent>
+              <charseq START="7499" END="7500">He</charseq>
+          </extent>
+          <head>
+              <charseq START="7499" END="7500">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E40-M11604">
+          <extent>
+              <charseq START="9276" END="9289">a Miami doctor</charseq>
+          </extent>
+          <head>
+              <charseq START="9284" END="9289">doctor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M11600">
+          <extent>
+              <charseq START="9243" END="9244">He</charseq>
+          </extent>
+          <head>
+              <charseq START="9243" END="9244">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M11700">
+          <extent>
+              <charseq START="9333" END="9334">he</charseq>
+          </extent>
+          <head>
+              <charseq START="9333" END="9334">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M11900">
+          <extent>
+              <charseq START="9592" END="9593">He</charseq>
+          </extent>
+          <head>
+              <charseq START="9592" END="9593">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M12101">
+          <extent>
+              <charseq START="9821" END="9822">he</charseq>
+          </extent>
+          <head>
+              <charseq START="9821" END="9822">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M12510">
+          <extent>
+              <charseq START="10160" END="10161">he</charseq>
+          </extent>
+          <head>
+              <charseq START="10160" END="10161">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M12702">
+          <extent>
+              <charseq START="10291" END="10292">he</charseq>
+          </extent>
+          <head>
+              <charseq START="10291" END="10292">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E40-M13005">
+          <extent>
+              <charseq START="10605" END="10659">Leaf, who wrote
+the
+original National Geographic story,</charseq>
+          </extent>
+          <head>
+              <charseq START="10605" END="10608">Leaf</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M13007">
+          <extent>
+              <charseq START="10611" END="10613">who</charseq>
+          </extent>
+          <head>
+              <charseq START="10611" END="10613">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M13100">
+          <extent>
+              <charseq START="10687" END="10688">He</charseq>
+          </extent>
+          <head>
+              <charseq START="10687" END="10688">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M13202">
+          <extent>
+              <charseq START="10701" END="10702">he</charseq>
+          </extent>
+          <head>
+              <charseq START="10701" END="10702">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M13300">
+          <extent>
+              <charseq START="10833" END="10834">he</charseq>
+          </extent>
+          <head>
+              <charseq START="10833" END="10834">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E40-M13400">
+          <extent>
+              <charseq START="10899" END="10900">he</charseq>
+          </extent>
+          <head>
+              <charseq START="10899" END="10900">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Alexander Leaf">
+              <charseq START="2827" END="2840">Alexander Leaf</charseq>
+          </name>
+          <name NAME="Leaf">
+              <charseq START="3270" END="3273">Leaf</charseq>
+          </name>
+          <name NAME="Leaf">
+              <charseq START="3655" END="3658">Leaf</charseq>
+          </name>
+          <name NAME="Leaf">
+              <charseq START="3757" END="3760">Leaf</charseq>
+          </name>
+          <name NAME="Leaf">
+              <charseq START="10605" END="10608">Leaf</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E41" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E41-M4213" ROLE="LOC">
+          <extent>
+              <charseq START="2925" END="2931">Kashmir</charseq>
+          </extent>
+          <head>
+              <charseq START="2925" END="2931">Kashmir</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kashmir">
+              <charseq START="2925" END="2931">Kashmir</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E42" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E42-M4217" ROLE="LOC">
+          <extent>
+              <charseq START="2949" END="2955">Russian</charseq>
+          </extent>
+          <head>
+              <charseq START="2949" END="2955">Russian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russian">
+              <charseq START="2949" END="2955">Russian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E43" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E43-M4218">
+          <extent>
+              <charseq START="2957" END="2964">Caucasus</charseq>
+          </extent>
+          <head>
+              <charseq START="2957" END="2964">Caucasus</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Caucasus">
+              <charseq START="2957" END="2964">Caucasus</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E44-M4211" ROLE="LOC">
+          <extent>
+              <charseq START="2912" END="2931">a village in Kashmir</charseq>
+          </extent>
+          <head>
+              <charseq START="2914" END="2920">village</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E45" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E45-M4305">
+          <extent>
+              <charseq START="3009" END="3015">Harvard</charseq>
+          </extent>
+          <head>
+              <charseq START="3009" END="3015">Harvard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harvard">
+              <charseq START="3009" END="3015">Harvard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E46" TYPE="ORG" SUBTYPE="Medical-Science" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E46-M4308">
+          <extent>
+              <charseq START="3050" END="3079">Massachusetts General Hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="3050" END="3079">Massachusetts General Hospital</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Massachusetts General Hospital">
+              <charseq START="3050" END="3079">Massachusetts General Hospital</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E47-M4312">
+          <extent>
+              <charseq START="3119" END="3137">a population of 819</charseq>
+          </extent>
+          <head>
+              <charseq START="3121" END="3130">population</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E48" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E48-M4315">
+          <extent>
+              <charseq START="3144" END="3154">nine people</charseq>
+          </extent>
+          <head>
+              <charseq START="3149" END="3154">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E49" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E49-M4401">
+          <extent>
+              <charseq START="3187" END="3203">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="3191" END="3203">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E49-M11506" ROLE="LOC">
+          <extent>
+              <charseq START="9165" END="9181">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="9169" END="9181">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="3191" END="3203">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="9169" END="9181">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E50" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E50-M4405">
+          <extent>
+              <charseq START="3232" END="3245">100,000
+people</charseq>
+          </extent>
+          <head>
+              <charseq START="3240" END="3245">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E51" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E51-M4506">
+          <extent>
+              <charseq START="3319" END="3329">the elderly</charseq>
+          </extent>
+          <head>
+              <charseq START="3323" END="3329">elderly</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E51-M4508">
+          <extent>
+              <charseq START="3364" END="3367">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3364" END="3367">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E51-M4605">
+          <extent>
+              <charseq START="3547" END="3551">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3547" END="3551">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E51-M9103">
+          <extent>
+              <charseq START="7201" END="7211">the elderly</charseq>
+          </extent>
+          <head>
+              <charseq START="7205" END="7211">elderly</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E52" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E52-M4806">
+          <extent>
+              <charseq START="3697" END="3702">parent</charseq>
+          </extent>
+          <head>
+              <charseq START="3697" END="3702">parent</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E54" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E54-M4900" ROLE="LOC">
+          <extent>
+              <charseq START="3708" END="3754">an isolated village
+where
+many are interrelated</charseq>
+          </extent>
+          <head>
+              <charseq START="3720" END="3726">village</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E54-M4902">
+          <extent>
+              <charseq START="3728" END="3732">where</charseq>
+          </extent>
+          <head>
+              <charseq START="3728" END="3732">where</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E55" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E55-M4903">
+          <extent>
+              <charseq START="3734" END="3737">many</charseq>
+          </extent>
+          <head>
+              <charseq START="3734" END="3737">many</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E56" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E56-M4905">
+          <extent>
+              <charseq START="3778" END="3877">a few people lacking
+&quot;bad
+genes&quot; that increase morbidity might have been the source of the
+longevity</charseq>
+          </extent>
+          <head>
+              <charseq START="3784" END="3789">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E57-M5002">
+          <extent>
+              <charseq START="3936" END="3952">5,000
+inhabitants</charseq>
+          </extent>
+          <head>
+              <charseq START="3942" END="3952">inhabitants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E58" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E58-M5102">
+          <extent>
+              <charseq START="3975" END="3999">the larger world 30 years</charseq>
+          </extent>
+          <head>
+              <charseq START="3986" END="3990">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E59" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E59-M5105">
+          <extent>
+              <charseq START="4008" END="4034">a winding, two-lane
+highway</charseq>
+          </extent>
+          <head>
+              <charseq START="4028" END="4034">highway</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E59-M11902">
+          <extent>
+              <charseq START="9617" END="9627">the highway</charseq>
+          </extent>
+          <head>
+              <charseq START="9621" END="9627">highway</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E60" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E60-M5202">
+          <extent>
+              <charseq START="4053" END="4112">a sleepy town with a square anchored by the
+requisite
+church</charseq>
+          </extent>
+          <head>
+              <charseq START="4062" END="4065">town</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E61" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E61-M5208">
+          <extent>
+              <charseq START="4107" END="4112">church</charseq>
+          </extent>
+          <head>
+              <charseq START="4107" END="4112">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E61-M10308">
+          <extent>
+              <charseq START="7966" END="7971">church</charseq>
+          </extent>
+          <head>
+              <charseq START="7966" END="7971">church</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E62" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E62-M5303">
+          <extent>
+              <charseq START="4136" END="4151">some restaurants</charseq>
+          </extent>
+          <head>
+              <charseq START="4141" END="4151">restaurants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E63" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E63-M5304">
+          <extent>
+              <charseq START="4154" END="4157">spas</charseq>
+          </extent>
+          <head>
+              <charseq START="4154" END="4157">spas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E64" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E64-M5305">
+          <extent>
+              <charseq START="4160" END="4181">and excursion
+agencies</charseq>
+          </extent>
+          <head>
+              <charseq START="4174" END="4181">agencies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E65" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E65-M5308">
+          <extent>
+              <charseq START="4201" END="4223">the surrounding streets</charseq>
+          </extent>
+          <head>
+              <charseq START="4217" END="4223">streets</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E66" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E66-M5408">
+          <extent>
+              <charseq START="4286" END="4320">the nearby Podocarpus National Park</charseq>
+          </extent>
+          <head>
+              <charseq START="4297" END="4320">Podocarpus National Park</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Podocarpus National Park">
+              <charseq START="4297" END="4320">Podocarpus National Park</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E67" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E67-M5402">
+          <extent>
+              <charseq START="4236" END="4245">outfitters</charseq>
+          </extent>
+          <head>
+              <charseq START="4236" END="4245">outfitters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E67-M5403">
+          <extent>
+              <charseq START="4247" END="4249">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4247" END="4249">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E68" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E68-M5413">
+          <extent>
+              <charseq START="4346" END="4350">lakes</charseq>
+          </extent>
+          <head>
+              <charseq START="4346" END="4350">lakes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E69" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E69-M5510">
+          <extent>
+              <charseq START="4494" END="4505">lush valleys</charseq>
+          </extent>
+          <head>
+              <charseq START="4499" END="4505">valleys</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E70" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E70-M5512">
+          <extent>
+              <charseq START="4511" END="4531">distant purple slopes</charseq>
+          </extent>
+          <head>
+              <charseq START="4526" END="4531">slopes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E71" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E71-M5903">
+          <extent>
+              <charseq START="4774" END="4789">Fabricio Peralta</charseq>
+          </extent>
+          <head>
+              <charseq START="4774" END="4789">Fabricio Peralta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E71-M5901">
+          <extent>
+              <charseq START="4763" END="4771">My cabbie</charseq>
+          </extent>
+          <head>
+              <charseq START="4766" END="4771">cabbie</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E71-M6307">
+          <extent>
+              <charseq START="5149" END="5155">Peralta</charseq>
+          </extent>
+          <head>
+              <charseq START="5149" END="5155">Peralta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E71-M7700">
+          <extent>
+              <charseq START="5926" END="5934">My cabbie</charseq>
+          </extent>
+          <head>
+              <charseq START="5929" END="5934">cabbie</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E71-M10800">
+          <extent>
+              <charseq START="8307" END="8313">Peralta</charseq>
+          </extent>
+          <head>
+              <charseq START="8307" END="8313">Peralta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E71-M10801">
+          <extent>
+              <charseq START="8325" END="8332">tourists</charseq>
+          </extent>
+          <head>
+              <charseq START="8325" END="8332">tourists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E71-M10804">
+          <extent>
+              <charseq START="8346" END="8348">him</charseq>
+          </extent>
+          <head>
+              <charseq START="8346" END="8348">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fabricio Peralta">
+              <charseq START="4774" END="4789">Fabricio Peralta</charseq>
+          </name>
+          <name NAME="Peralta">
+              <charseq START="5149" END="5155">Peralta</charseq>
+          </name>
+          <name NAME="Peralta">
+              <charseq START="8307" END="8313">Peralta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E72" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E72-M6103">
+          <extent>
+              <charseq START="4927" END="4932">anyone</charseq>
+          </extent>
+          <head>
+              <charseq START="4927" END="4932">anyone</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E73" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E73-M6200">
+          <extent>
+              <charseq START="4956" END="4969">The old-timers</charseq>
+          </extent>
+          <head>
+              <charseq START="4960" END="4969">old-timers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E73-M6204">
+          <extent>
+              <charseq START="4994" END="4997">they</charseq>
+          </extent>
+          <head>
+              <charseq START="4994" END="4997">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E73-M6300">
+          <extent>
+              <charseq START="5063" END="5074">The grandmas</charseq>
+          </extent>
+          <head>
+              <charseq START="5067" END="5074">grandmas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E73-M6305">
+          <extent>
+              <charseq START="5132" END="5135">they</charseq>
+          </extent>
+          <head>
+              <charseq START="5132" END="5135">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E73-M6400">
+          <extent>
+              <charseq START="5159" END="5162">They</charseq>
+          </extent>
+          <head>
+              <charseq START="5159" END="5162">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E74" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E74-M6502">
+          <extent>
+              <charseq START="5236" END="5240">youth</charseq>
+          </extent>
+          <head>
+              <charseq START="5236" END="5240">youth</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E75" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E75-M6605">
+          <extent>
+              <charseq START="5376" END="5381">stores</charseq>
+          </extent>
+          <head>
+              <charseq START="5376" END="5381">stores</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E76" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E76-M6805">
+          <extent>
+              <charseq START="5505" END="5520">the town&apos;s taxis</charseq>
+          </extent>
+          <head>
+              <charseq START="5516" END="5520">taxis</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E77" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E77-M6900">
+          <extent>
+              <charseq START="5532" END="5545">Judy Meumunier</charseq>
+          </extent>
+          <head>
+              <charseq START="5532" END="5545">Judy Meumunier</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E77-M7200">
+          <extent>
+              <charseq START="5783" END="5785">she</charseq>
+          </extent>
+          <head>
+              <charseq START="5783" END="5785">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Judy Meumunier">
+              <charseq START="5532" END="5545">Judy Meumunier</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E78" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E78-M6903" ROLE="LOC">
+          <extent>
+              <charseq START="5574" END="5585">Indianapolis</charseq>
+          </extent>
+          <head>
+              <charseq START="5574" END="5585">Indianapolis</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indianapolis">
+              <charseq START="5574" END="5585">Indianapolis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E79" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E79-M7007">
+          <extent>
+              <charseq START="5688" END="5705">real estate broker</charseq>
+          </extent>
+          <head>
+              <charseq START="5700" END="5705">broker</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E80" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E80-M7104">
+          <extent>
+              <charseq START="5735" END="5744">the people</charseq>
+          </extent>
+          <head>
+              <charseq START="5739" END="5744">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E81" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E81-M7204">
+          <extent>
+              <charseq START="5800" END="5809">old people</charseq>
+          </extent>
+          <head>
+              <charseq START="5804" END="5809">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E81-M7300">
+          <extent>
+              <charseq START="5818" END="5821">they</charseq>
+          </extent>
+          <head>
+              <charseq START="5818" END="5821">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E82" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E82-M7404">
+          <extent>
+              <charseq START="5863" END="5874">his relative</charseq>
+          </extent>
+          <head>
+              <charseq START="5867" END="5874">relative</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E83" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E83-M7711">
+          <extent>
+              <charseq START="5978" END="5989">Nesto Carpio</charseq>
+          </extent>
+          <head>
+              <charseq START="5978" END="5989">Nesto Carpio</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E83-M7800">
+          <extent>
+              <charseq START="6122" END="6126">Nesto</charseq>
+          </extent>
+          <head>
+              <charseq START="6122" END="6126">Nesto</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nesto Carpio">
+              <charseq START="5978" END="5989">Nesto Carpio</charseq>
+          </name>
+          <name NAME="Nesto">
+              <charseq START="6122" END="6126">Nesto</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E84" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E84-M7704">
+          <extent>
+              <charseq START="5950" END="6105">the town park,
+where I find
+Nesto Carpio, son of the late, legendary Miguel, &quot;who spent only
+one night
+in 127 years in the hospital, his last night on earth</charseq>
+          </extent>
+          <head>
+              <charseq START="5959" END="5962">park</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E84-M7707">
+          <extent>
+              <charseq START="5965" END="5969">where</charseq>
+          </extent>
+          <head>
+              <charseq START="5965" END="5969">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E84-M9903">
+          <extent>
+              <charseq START="7611" END="7729">the home of Lucila
+Victorios Guerrero,
+who is said to be 104: Guerrero, her daughter, granddaughter, and
+great-grandson</charseq>
+          </extent>
+          <head>
+              <charseq START="7615" END="7618">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E84-M12902">
+          <extent>
+              <charseq START="10519" END="10531">a great house</charseq>
+          </extent>
+          <head>
+              <charseq START="10527" END="10531">house</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E85" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E85-M7712">
+          <extent>
+              <charseq START="5992" END="6080">son of the late, legendary Miguel, &quot;who spent only
+one night
+in 127 years in the hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="5992" END="5994">son</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E85-M7717">
+          <extent>
+              <charseq START="6028" END="6030">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6028" END="6030">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E85-M7723">
+          <extent>
+              <charseq START="6083" END="6085">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6083" END="6085">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E86" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E86-M7720">
+          <extent>
+              <charseq START="6069" END="6080">the hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="6073" END="6080">hospital</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E86-M8100">
+          <extent>
+              <charseq START="6347" END="6364">the local hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="6357" END="6364">hospital</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E86-M8505">
+          <extent>
+              <charseq START="6596" END="6603">hospital</charseq>
+          </extent>
+          <head>
+              <charseq START="6596" END="6603">hospital</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E87" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E87-M8101">
+          <extent>
+              <charseq START="6367" END="6383">Dr. Juan Espinoza</charseq>
+          </extent>
+          <head>
+              <charseq START="6371" END="6383">Juan Espinoza</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E87-M8102">
+          <extent>
+              <charseq START="6367" END="6369">Dr.</charseq>
+          </extent>
+          <head>
+              <charseq START="6367" END="6369">Dr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E87-M11405">
+          <extent>
+              <charseq START="9054" END="9108">Espinoza, who is
+seeing more
+diabetes and heart disease</charseq>
+          </extent>
+          <head>
+              <charseq START="9054" END="9061">Espinoza</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E87-M11407">
+          <extent>
+              <charseq START="9064" END="9066">who</charseq>
+          </extent>
+          <head>
+              <charseq START="9064" END="9066">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Juan Espinoza">
+              <charseq START="6371" END="6383">Juan Espinoza</charseq>
+          </name>
+          <name NAME="Espinoza">
+              <charseq START="9054" END="9061">Espinoza</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E88" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E88-M8200">
+          <extent>
+              <charseq START="6418" END="6431">The old people</charseq>
+          </extent>
+          <head>
+              <charseq START="6426" END="6431">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E88-M8201">
+          <extent>
+              <charseq START="6434" END="6437">they</charseq>
+          </extent>
+          <head>
+              <charseq START="6434" END="6437">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E88-M8204">
+          <extent>
+              <charseq START="6461" END="6464">they</charseq>
+          </extent>
+          <head>
+              <charseq START="6461" END="6464">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E88-M8206">
+          <extent>
+              <charseq START="6472" END="6475">they</charseq>
+          </extent>
+          <head>
+              <charseq START="6472" END="6475">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E88-M8211">
+          <extent>
+              <charseq START="6489" END="6492">they</charseq>
+          </extent>
+          <head>
+              <charseq START="6489" END="6492">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E88-M8300">
+          <extent>
+              <charseq START="6500" END="6503">They</charseq>
+          </extent>
+          <head>
+              <charseq START="6500" END="6503">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E88-M8402">
+          <extent>
+              <charseq START="6532" END="6535">They</charseq>
+          </extent>
+          <head>
+              <charseq START="6532" END="6535">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E89" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E89-M8501">
+          <extent>
+              <charseq START="6567" END="6589">Another Carpio - Victor</charseq>
+          </extent>
+          <head>
+              <charseq START="6575" END="6589">Carpio - Victor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E89-M8503">
+          <extent>
+              <charseq START="6592" END="6616">the hospital pharmacist -</charseq>
+          </extent>
+          <head>
+              <charseq START="6605" END="6614">pharmacist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Carpio - Victor">
+              <charseq START="6575" END="6589">Carpio - Victor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E90" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E90-M8704">
+          <extent>
+              <charseq START="6876" END="6938">Vincente Pilco Torres, who will be 110 -
+allegedly - in
+August,</charseq>
+          </extent>
+          <head>
+              <charseq START="6876" END="6896">Vincente Pilco Torres</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E90-M8707">
+          <extent>
+              <charseq START="6899" END="6901">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6899" END="6901">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E90-M9002">
+          <extent>
+              <charseq START="7039" END="7052">locate Torres,</charseq>
+          </extent>
+          <head>
+              <charseq START="7046" END="7051">Torres</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E90-M9004">
+          <extent>
+              <charseq START="7039" END="7044">locate</charseq>
+          </extent>
+          <head>
+              <charseq START="7039" END="7044">locate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Vincente Pilco Torres">
+              <charseq START="6876" END="6896">Vincente Pilco Torres</charseq>
+          </name>
+          <name NAME="Torres">
+              <charseq START="7046" END="7051">Torres</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E91" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E91-M8712">
+          <extent>
+              <charseq START="6954" END="6979">the town&apos;s oldest resident</charseq>
+          </extent>
+          <head>
+              <charseq START="6972" END="6979">resident</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E92" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E92-M9009">
+          <extent>
+              <charseq START="7065" END="7078">Manuel Picoita</charseq>
+          </extent>
+          <head>
+              <charseq START="7065" END="7078">Manuel Picoita</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Manuel Picoita">
+              <charseq START="7065" END="7078">Manuel Picoita</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E93" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E93-M9014">
+          <extent>
+              <charseq START="7120" END="7164">a disheveled house shared by four generations</charseq>
+          </extent>
+          <head>
+              <charseq START="7133" END="7137">house</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E94" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E94-M9016">
+          <extent>
+              <charseq START="7149" END="7164">four generations</charseq>
+          </extent>
+          <head>
+              <charseq START="7154" END="7164">generations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E94-M9901">
+          <extent>
+              <charseq START="7584" END="7729">four generations living in the home of Lucila
+Victorios Guerrero,
+who is said to be 104: Guerrero, her daughter, granddaughter, and
+great-grandson</charseq>
+          </extent>
+          <head>
+              <charseq START="7589" END="7599">generations</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E94-M9907">
+          <extent>
+              <charseq START="7650" END="7652">who</charseq>
+          </extent>
+          <head>
+              <charseq START="7650" END="7652">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E94-M11404">
+          <extent>
+              <charseq START="8995" END="9017">the
+younger
+generations</charseq>
+          </extent>
+          <head>
+              <charseq START="9007" END="9017">generations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E95" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E95-M9100">
+          <extent>
+              <charseq START="7167" END="7212">The
+extended
+family, which honors the elderly,</charseq>
+          </extent>
+          <head>
+              <charseq START="7180" END="7185">family</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E95-M9102">
+          <extent>
+              <charseq START="7188" END="7192">which</charseq>
+          </extent>
+          <head>
+              <charseq START="7188" END="7192">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E95-M10204">
+          <extent>
+              <charseq START="7902" END="7911">the family</charseq>
+          </extent>
+          <head>
+              <charseq START="7906" END="7911">family</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E95-M10404">
+          <extent>
+              <charseq START="8047" END="8050">they</charseq>
+          </extent>
+          <head>
+              <charseq START="8047" END="8050">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E95-M10407">
+          <extent>
+              <charseq START="8068" END="8072">their</charseq>
+          </extent>
+          <head>
+              <charseq START="8068" END="8072">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E95-M10500">
+          <extent>
+              <charseq START="8079" END="8082">They</charseq>
+          </extent>
+          <head>
+              <charseq START="8079" END="8082">They</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E96" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E96-M9200">
+          <extent>
+              <charseq START="7257" END="7270">A nursing home</charseq>
+          </extent>
+          <head>
+              <charseq START="7267" END="7270">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E97" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E97-M9906">
+          <extent>
+              <charseq START="7623" END="7647">Lucila
+Victorios Guerrero</charseq>
+          </extent>
+          <head>
+              <charseq START="7623" END="7647">Lucila
+Victorios Guerrero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E97-M9910">
+          <extent>
+              <charseq START="7673" END="7680">Guerrero</charseq>
+          </extent>
+          <head>
+              <charseq START="7673" END="7680">Guerrero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E97-M9912">
+          <extent>
+              <charseq START="7683" END="7694">her daughter</charseq>
+          </extent>
+          <head>
+              <charseq START="7687" END="7694">daughter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E97-M9914">
+          <extent>
+              <charseq START="7697" END="7709">granddaughter</charseq>
+          </extent>
+          <head>
+              <charseq START="7697" END="7709">granddaughter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E97-M9915">
+          <extent>
+              <charseq START="7716" END="7729">great-grandson</charseq>
+          </extent>
+          <head>
+              <charseq START="7716" END="7729">great-grandson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E97-M9913">
+          <extent>
+              <charseq START="7683" END="7685">her</charseq>
+          </extent>
+          <head>
+              <charseq START="7683" END="7685">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E97-M10001">
+          <extent>
+              <charseq START="7739" END="7741">her</charseq>
+          </extent>
+          <head>
+              <charseq START="7739" END="7741">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E97-M10003">
+          <extent>
+              <charseq START="7763" END="7765">her</charseq>
+          </extent>
+          <head>
+              <charseq START="7763" END="7765">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E97-M10004">
+          <extent>
+              <charseq START="7785" END="7787">she</charseq>
+          </extent>
+          <head>
+              <charseq START="7785" END="7787">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E97-M10101">
+          <extent>
+              <charseq START="7821" END="7823">she</charseq>
+          </extent>
+          <head>
+              <charseq START="7821" END="7823">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E97-M10200">
+          <extent>
+              <charseq START="7849" END="7851">She</charseq>
+          </extent>
+          <head>
+              <charseq START="7849" END="7851">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E97-M10301">
+          <extent>
+              <charseq START="7914" END="7916">She</charseq>
+          </extent>
+          <head>
+              <charseq START="7914" END="7916">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lucila
+Victorios Guerrero">
+              <charseq START="7623" END="7647">Lucila
+Victorios Guerrero</charseq>
+          </name>
+          <name NAME="Guerrero">
+              <charseq START="7673" END="7680">Guerrero</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E98" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E98-M10103">
+          <extent>
+              <charseq START="7835" END="7846">a seamstress</charseq>
+          </extent>
+          <head>
+              <charseq START="7837" END="7846">seamstress</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E99" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E99-M10502">
+          <extent>
+              <charseq START="8095" END="8100">driver</charseq>
+          </extent>
+          <head>
+              <charseq START="8095" END="8100">driver</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E100" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E100-M10603">
+          <extent>
+              <charseq START="8194" END="8198">women</charseq>
+          </extent>
+          <head>
+              <charseq START="8194" END="8198">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E101" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E101-M10708">
+          <extent>
+              <charseq START="8295" END="8304">old
+people</charseq>
+          </extent>
+          <head>
+              <charseq START="8299" END="8304">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E102" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E102-M11003">
+          <extent>
+              <charseq START="8496" END="8512">more centenarians</charseq>
+          </extent>
+          <head>
+              <charseq START="8501" END="8512">centenarians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E103" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E103-M11105">
+          <extent>
+              <charseq START="8601" END="8608">visitors</charseq>
+          </extent>
+          <head>
+              <charseq START="8601" END="8608">visitors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E104" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E104-M11209">
+          <extent>
+              <charseq START="8716" END="8718">MIT</charseq>
+          </extent>
+          <head>
+              <charseq START="8716" END="8718">MIT</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MIT">
+              <charseq START="8716" END="8718">MIT</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E105" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E105-M11213">
+          <extent>
+              <charseq START="8779" END="8793">his
+artist wife</charseq>
+          </extent>
+          <head>
+              <charseq START="8790" END="8793">wife</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E106" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E106-M11501">
+          <extent>
+              <charseq START="9120" END="9133">Richard Fontes</charseq>
+          </extent>
+          <head>
+              <charseq START="9120" END="9133">Richard Fontes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E106-M11502">
+          <extent>
+              <charseq START="9136" END="9195">a Brazil native who moved to the United States
+as a
+teenager</charseq>
+          </extent>
+          <head>
+              <charseq START="9145" END="9150">native</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E106-M11508">
+          <extent>
+              <charseq START="9186" END="9195">a
+teenager</charseq>
+          </extent>
+          <head>
+              <charseq START="9188" END="9195">teenager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E106-M11505">
+          <extent>
+              <charseq START="9152" END="9154">who</charseq>
+          </extent>
+          <head>
+              <charseq START="9152" END="9154">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Richard Fontes">
+              <charseq START="9120" END="9133">Richard Fontes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E107" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E107-M11504">
+          <extent>
+              <charseq START="9138" END="9143">Brazil</charseq>
+          </extent>
+          <head>
+              <charseq START="9138" END="9143">Brazil</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brazil">
+              <charseq START="9138" END="9143">Brazil</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E108" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E108-M11605" ROLE="GPE">
+          <extent>
+              <charseq START="9278" END="9282">Miami</charseq>
+          </extent>
+          <head>
+              <charseq START="9278" END="9282">Miami</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Miami">
+              <charseq START="9278" END="9282">Miami</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E109" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E109-M11703">
+          <extent>
+              <charseq START="9356" END="9411">few cars; people tied horses or donkeys to
+posts in
+town</charseq>
+          </extent>
+          <head>
+              <charseq START="9360" END="9363">cars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E110" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E110-M11705">
+          <extent>
+              <charseq START="9366" END="9411">people tied horses or donkeys to
+posts in
+town</charseq>
+          </extent>
+          <head>
+              <charseq START="9366" END="9371">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E110-M11804">
+          <extent>
+              <charseq START="9456" END="9459">they</charseq>
+          </extent>
+          <head>
+              <charseq START="9456" END="9459">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E110-M11809">
+          <extent>
+              <charseq START="9476" END="9479">they</charseq>
+          </extent>
+          <head>
+              <charseq START="9476" END="9479">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E110-M11810">
+          <extent>
+              <charseq START="9492" END="9495">they</charseq>
+          </extent>
+          <head>
+              <charseq START="9492" END="9495">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E110-M11812">
+          <extent>
+              <charseq START="9521" END="9524">they</charseq>
+          </extent>
+          <head>
+              <charseq START="9521" END="9524">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E110-M11817">
+          <extent>
+              <charseq START="9555" END="9558">they</charseq>
+          </extent>
+          <head>
+              <charseq START="9555" END="9558">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E112" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E112-M12002">
+          <extent>
+              <charseq START="9703" END="9747">a small valley with all the
+natural
+elements,</charseq>
+          </extent>
+          <head>
+              <charseq START="9711" END="9716">valley</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E113" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E113-M12100">
+          <extent>
+              <charseq START="9808" END="9818">Each family</charseq>
+          </extent>
+          <head>
+              <charseq START="9813" END="9818">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E114" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E114-M12103">
+          <extent>
+              <charseq START="9834" END="9847">its own garden</charseq>
+          </extent>
+          <head>
+              <charseq START="9842" END="9847">garden</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E115" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E115-M12402">
+          <extent>
+              <charseq START="9986" END="9989">Coke</charseq>
+          </extent>
+          <head>
+              <charseq START="9986" END="9989">Coke</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Coke">
+              <charseq START="9986" END="9989">Coke</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E116" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E116-M12405">
+          <extent>
+              <charseq START="10001" END="10005">Fanta</charseq>
+          </extent>
+          <head>
+              <charseq START="10001" END="10005">Fanta</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fanta">
+              <charseq START="10001" END="10005">Fanta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E117" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E117-M12505">
+          <extent>
+              <charseq START="10104" END="10120">hotels, more
+cars</charseq>
+          </extent>
+          <head>
+              <charseq START="10117" END="10120">cars</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E118" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E118-M12506">
+          <extent>
+              <charseq START="10127" END="10157">microwave towers for cellphones</charseq>
+          </extent>
+          <head>
+              <charseq START="10137" END="10142">towers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E119" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E119-M12601">
+          <extent>
+              <charseq START="10180" END="10209">a
+health
+food store for awhile</charseq>
+          </extent>
+          <head>
+              <charseq START="10194" END="10198">store</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E120" TYPE="PER" SUBTYPE="Indeterminate" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100630.0015-E120-M12606">
+          <extent>
+              <charseq START="10217" END="10222">nobody</charseq>
+          </extent>
+          <head>
+              <charseq START="10217" END="10222">nobody</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E121" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E121-M12701">
+          <extent>
+              <charseq START="10274" END="10287">a magic bullet</charseq>
+          </extent>
+          <head>
+              <charseq START="10282" END="10287">bullet</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E122" TYPE="WEA" SUBTYPE="Projectile" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E122-M12705">
+          <extent>
+              <charseq START="10317" END="10331">no
+magic bullet</charseq>
+          </extent>
+          <head>
+              <charseq START="10326" END="10331">bullet</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E123" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100630.0015-E123-M13204">
+          <extent>
+              <charseq START="10718" END="10727">the office</charseq>
+          </extent>
+          <head>
+              <charseq START="10722" END="10727">office</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100630.0015-E124" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100630.0015-E124-M13900">
+          <extent>
+              <charseq START="11136" END="11148">Bella English</charseq>
+          </extent>
+          <head>
+              <charseq START="11136" END="11148">Bella English</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bella English">
+              <charseq START="11136" END="11148">Bella English</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T0">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T0-M1">
+            <extent>
+              <charseq START="166" END="170">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100630.0015-V1" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V1-M1">
+            <extent>
+              <charseq START="195" END="204">about
+$150</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T2" VAL="PT1H" MOD="APPROX">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T2-M1">
+            <extent>
+              <charseq START="248" END="260">about an hour</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T3" VAL="PT15M">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T3-M1">
+            <extent>
+              <charseq START="266" END="274">15-minute</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100630.0015-V4" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V4-M1">
+            <extent>
+              <charseq START="499" END="501">$34</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V5" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20100630.0015-V5-M1">
+            <extent>
+              <charseq START="595" END="613">www.montesuenos.org</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V6" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V6-M1">
+            <extent>
+              <charseq START="804" END="806">$50</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V7" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V7-M1">
+            <extent>
+              <charseq START="809" END="811">$35</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V8" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20100630.0015-V8-M1">
+            <extent>
+              <charseq START="884" END="912">www.vilcabambamadretierra.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V9" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V9-M1">
+            <extent>
+              <charseq START="980" END="982">$25</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V10" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V10-M1">
+            <extent>
+              <charseq START="1006" END="1008">$88</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V11" TYPE="Contact-Info" SUBTYPE="Phone-Number">
+        <value_mention ID="NYT_ENG_20100630.0015-V11-M1">
+            <extent>
+              <charseq START="1145" END="1162">011-593-9-264-0364</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V12" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V12-M1">
+            <extent>
+              <charseq START="1218" END="1221">$5-$</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V13" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V13-M1">
+            <extent>
+              <charseq START="1393" END="1396">$4-$</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20100630.0015-V14" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V14-M1">
+            <extent>
+              <charseq START="1537" END="1546">$20 to
+$50</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T15" VAL="PT30M">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T15-M1">
+            <extent>
+              <charseq START="1665" END="1673">30-minute</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100630.0015-V16" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V16-M1">
+            <extent>
+              <charseq START="1687" END="1688">$8</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T17" VAL="PT30M">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T17-M1">
+            <extent>
+              <charseq START="1695" END="1703">30-minute</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100630.0015-V18" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V18-M1">
+            <extent>
+              <charseq START="1722" END="1723">$6</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T19" VAL="PT2H">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T19-M1">
+            <extent>
+              <charseq START="1826" END="1833">two-hour</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T20" VAL="P127Y">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T20-M1">
+            <extent>
+              <charseq START="2267" END="2279">127 years old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T21" VAL="P1D">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T21-M1">
+            <extent>
+              <charseq START="2472" END="2476">a day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T22" VAL="2010-06-30">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T22-M1">
+            <extent>
+              <charseq START="2682" END="2697">a
+generation ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T23" VAL="197" MOD="START">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T23-M1">
+            <extent>
+              <charseq START="2807" END="2821">the early 1970s</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T24" VAL="1971">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T24-M1">
+            <extent>
+              <charseq START="3096" END="3099">1971</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T25" VAL="P1D">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T25-M1">
+            <extent>
+              <charseq START="3398" END="3402">a day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T26" VAL="P40Y" MOD="LESS_THAN">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T26-M1">
+            <extent>
+              <charseq START="3889" END="3909">Nearly 40 years later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T27" VAL="1980">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T27-M1">
+            <extent>
+              <charseq START="3992" END="4003">30 years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T28">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T28-M1">
+            <extent>
+              <charseq START="4265" END="4273">horseback</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T29" VAL="2010-SP">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T29-M1">
+            <extent>
+              <charseq START="4601" END="4606">spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T30" VAL="TMO" SET="YES">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T30-M1">
+            <extent>
+              <charseq START="5187" END="5199">every
+morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T31" VAL="2010-SP">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T31-M1">
+            <extent>
+              <charseq START="5407" END="5412">spring</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T32" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T32-M1">
+            <extent>
+              <charseq START="5558" END="5567">a year ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T33" VAL="2010-06-30TNI">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T33-M1">
+            <extent>
+              <charseq START="6038" END="6051">only
+one night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T34" VAL="P127Y">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T34-M1">
+            <extent>
+              <charseq START="6056" END="6064">127 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T35" VAL="2010-06-29TNI">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T35-M1">
+            <extent>
+              <charseq START="6087" END="6096">last night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T36" VAL="1992">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T36-M1">
+            <extent>
+              <charseq START="6142" END="6143">92</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T37" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T37-M1">
+            <extent>
+              <charseq START="6162" END="6171">a year ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T38" VAL="2010-08">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T38-M1">
+            <extent>
+              <charseq START="6932" END="6937">August</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T39" VAL="2010-06-30T06:00">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T39-M1">
+            <extent>
+              <charseq START="7440" END="7457">6
+a.m.
+until 6 p.m</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T40" VAL="P20Y">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T40-M1">
+            <extent>
+              <charseq START="7549" END="7561">20 years more</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T41" VAL="PXDE">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T41-M1">
+            <extent>
+              <charseq START="7812" END="7818">decades</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T42">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T42-M1">
+            <extent>
+              <charseq START="7861" END="7865">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T43" VAL="2010-06-30T04:00">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T43-M1">
+            <extent>
+              <charseq START="7870" END="7875">4 a.m.</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T44" VAL="XXXX-XX-7" SET="YES">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T44-M1">
+            <extent>
+              <charseq START="7973" END="7984">every Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T45" VAL="PAST_REF" ANCHOR_VAL="2010-06-30" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T45-M1">
+            <extent>
+              <charseq START="8709" END="8714">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T46" VAL="2004">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T46-M1">
+            <extent>
+              <charseq START="8795" END="8807">six years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T47" VAL="PXY" ANCHOR_VAL="2010" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T47-M1">
+            <extent>
+              <charseq START="8977" END="8988">recent years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T48" VAL="P20Y" MOD="LESS_THAN">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T48-M1">
+            <extent>
+              <charseq START="9226" END="9240">nearly 20 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T49" VAL="1982">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T49-M1">
+            <extent>
+              <charseq START="9643" END="9646">1982</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T50" VAL="P5Y">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T50-M1">
+            <extent>
+              <charseq START="10059" END="10073">last five years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100630.0015-V51" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20100630.0015-V51-M1">
+            <extent>
+              <charseq START="10537" END="10543">$70,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T52" VAL="TAF" SET="YES">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T52-M1">
+            <extent>
+              <charseq START="10729" END="10743">every afternoon</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T53" VAL="P40Y">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T53-M1">
+            <extent>
+              <charseq START="10860" END="10873">40 years later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100630.0015-T54" VAL="PRESENT_REF" ANCHOR_VAL="2010-06-30" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20100630.0015-T54-M1">
+            <extent>
+              <charseq START="10902" END="10904">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100630.0015-V55" TYPE="Contact-Info" SUBTYPE="E-Mail">
+        <value_mention ID="NYT_ENG_20100630.0015-V55-M1">
+            <extent>
+              <charseq START="11168" END="11184">english@globe.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="NYT_ENG_20100630.0015-R0" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E14" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R0-M1400">
+          <extent>
+              <charseq START="624" END="636">Brian O&apos;Leary</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E13-M1401" ROLE="Arg-1">
+            <extent>
+              <charseq START="624" END="636">Brian O&apos;Leary</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E14-M1400" ROLE="Arg-2">
+            <extent>
+              <charseq START="624" END="654">Brian O&apos;Leary&apos;s mountainous inn</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E31" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R1-M3100">
+          <extent>
+              <charseq START="2102" END="2136">this small town in southern Ecuador</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E15-M3105" ROLE="Arg-1">
+            <extent>
+              <charseq START="2102" END="2136">this small town in southern Ecuador</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E31-M3107" ROLE="Arg-2">
+            <extent>
+              <charseq START="2121" END="2136">southern Ecuador</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E4" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R2-M3101">
+          <extent>
+              <charseq START="2171" END="2208">the legendary old people of Vilcabamba</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E33-M3117" ROLE="Arg-1">
+            <extent>
+              <charseq START="2171" END="2208">the legendary old people of Vilcabamba</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E4-M3119" ROLE="Arg-2">
+            <extent>
+              <charseq START="2199" END="2208">Vilcabamba</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E4" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R4-M3500">
+          <extent>
+              <charseq START="2331" END="2352">Everyone in Vilcabamba</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E36-M3500" ROLE="Arg-1">
+            <extent>
+              <charseq START="2331" END="2352">Everyone in Vilcabamba</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E4-M3502" ROLE="Arg-2">
+            <extent>
+              <charseq START="2343" END="2352">Vilcabamba</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E44" ROLE="Arg-2"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-T23" ROLE="Time-Within"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R5-M4200">
+          <extent>
+              <charseq START="2823" END="2840">Dr. Alexander Leaf</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E40-M4202" ROLE="Arg-1">
+            <extent>
+              <charseq START="2823" END="2840">Dr. Alexander Leaf</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E44-M4211" ROLE="Arg-2">
+            <extent>
+              <charseq START="2912" END="2931">a village in Kashmir</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-T23-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="2807" END="2821">the early 1970s</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E44" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E41" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R6-M4201">
+          <extent>
+              <charseq START="2912" END="2931">a village in Kashmir</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E44-M4211" ROLE="Arg-1">
+            <extent>
+              <charseq START="2912" END="2931">a village in Kashmir</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E41-M4213" ROLE="Arg-2">
+            <extent>
+              <charseq START="2925" END="2931">Kashmir</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E45" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R7-M4300">
+          <extent>
+              <charseq START="2989" END="3079">then a professor at Harvard
+and
+chief of medical services at Massachusetts General Hospital</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E40-M4302" ROLE="Arg-1">
+            <extent>
+              <charseq START="2989" END="3079">then a professor at Harvard
+and
+chief of medical services at Massachusetts General Hospital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E45-M4305" ROLE="Arg-2">
+            <extent>
+              <charseq START="3009" END="3015">Harvard</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E46" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R8-M4301">
+          <extent>
+              <charseq START="2989" END="3079">then a professor at Harvard
+and
+chief of medical services at Massachusetts General Hospital</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E40-M4302" ROLE="Arg-1">
+            <extent>
+              <charseq START="2989" END="3079">then a professor at Harvard
+and
+chief of medical services at Massachusetts General Hospital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E46-M4308" ROLE="Arg-2">
+            <extent>
+              <charseq START="3050" END="3079">Massachusetts General Hospital</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R9" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E3" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R9-M4500">
+          <extent>
+              <charseq START="3276" END="3292">a doctor in Quito</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E40-M4501" ROLE="Arg-1">
+            <extent>
+              <charseq START="3276" END="3292">a doctor in Quito</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E3-M4503" ROLE="Arg-2">
+            <extent>
+              <charseq START="3288" END="3292">Quito</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R10" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E77" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E78" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R10-M6900">
+          <extent>
+              <charseq START="5532" END="5545">Judy Meumunier</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E77-M6900" ROLE="Arg-1">
+            <extent>
+              <charseq START="5532" END="5545">Judy Meumunier</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E78-M6903" ROLE="Arg-2">
+            <extent>
+              <charseq START="5574" END="5585">Indianapolis</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R12" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E85" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E35" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R12-M7701">
+          <extent>
+              <charseq START="5992" END="6080">son of the late, legendary Miguel, &quot;who spent only
+one night
+in 127 years in the hospital</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E85-M7712" ROLE="Arg-1">
+            <extent>
+              <charseq START="5992" END="6080">son of the late, legendary Miguel, &quot;who spent only
+one night
+in 127 years in the hospital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E35-M7714" ROLE="Arg-2">
+            <extent>
+              <charseq START="5999" END="6080">the late, legendary Miguel, &quot;who spent only
+one night
+in 127 years in the hospital</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R13" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E85" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E86" ROLE="Arg-2"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-T33" ROLE="Time-Holds"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R13-M7702">
+          <extent>
+              <charseq START="6028" END="6030">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E85-M7717" ROLE="Arg-1">
+            <extent>
+              <charseq START="6028" END="6030">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E86-M7720" ROLE="Arg-2">
+            <extent>
+              <charseq START="6069" END="6080">the hospital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-T33-M1" ROLE="Time-Holds">
+            <extent>
+              <charseq START="6038" END="6051">only
+one night</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R14" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E94" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E84" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R14-M9900">
+          <extent>
+              <charseq START="7584" END="7729">four generations living in the home of Lucila
+Victorios Guerrero,
+who is said to be 104: Guerrero, her daughter, granddaughter, and
+great-grandson</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E94-M9901" ROLE="Arg-1">
+            <extent>
+              <charseq START="7584" END="7729">four generations living in the home of Lucila
+Victorios Guerrero,
+who is said to be 104: Guerrero, her daughter, granddaughter, and
+great-grandson</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E84-M9903" ROLE="Arg-2">
+            <extent>
+              <charseq START="7611" END="7729">the home of Lucila
+Victorios Guerrero,
+who is said to be 104: Guerrero, her daughter, granddaughter, and
+great-grandson</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R15" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E97" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E84" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R15-M9901">
+          <extent>
+              <charseq START="7623" END="7647">Lucila
+Victorios Guerrero</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E97-M9906" ROLE="Arg-1">
+            <extent>
+              <charseq START="7623" END="7647">Lucila
+Victorios Guerrero</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E84-M9903" ROLE="Arg-2">
+            <extent>
+              <charseq START="7611" END="7729">the home of Lucila
+Victorios Guerrero,
+who is said to be 104: Guerrero, her daughter, granddaughter, and
+great-grandson</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R16" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E104" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R16-M11200">
+          <extent>
+              <charseq START="8707" END="8737">a
+former MIT-educated astronaut</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E13-M11208" ROLE="Arg-1">
+            <extent>
+              <charseq START="8707" END="8737">a
+former MIT-educated astronaut</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E104-M11209" ROLE="Arg-2">
+            <extent>
+              <charseq START="8716" END="8718">MIT</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R17" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E4" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R17-M11201">
+          <extent>
+              <charseq START="8750" END="8752">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E13-M11211" ROLE="Arg-1">
+            <extent>
+              <charseq START="8750" END="8752">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E4-M11212" ROLE="Arg-2">
+            <extent>
+              <charseq START="8763" END="8772">Vilcabamba</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R18" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E105" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R18-M11202">
+          <extent>
+              <charseq START="8750" END="8752">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E13-M11211" ROLE="Arg-1">
+            <extent>
+              <charseq START="8750" END="8752">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E105-M11213" ROLE="Arg-2">
+            <extent>
+              <charseq START="8779" END="8793">his
+artist wife</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R19" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E105" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R19-M11203">
+          <extent>
+              <charseq START="8779" END="8781">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E13-M11214" ROLE="Arg-1">
+            <extent>
+              <charseq START="8779" END="8781">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E105-M11213" ROLE="Arg-2">
+            <extent>
+              <charseq START="8779" END="8793">his
+artist wife</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R20" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E106" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E4" ROLE="Arg-2"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-T48" ROLE="Time-Within"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R20-M11500">
+          <extent>
+              <charseq START="9120" END="9133">Richard Fontes</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E106-M11501" ROLE="Arg-1">
+            <extent>
+              <charseq START="9120" END="9133">Richard Fontes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E4-M11509" ROLE="Arg-2">
+            <extent>
+              <charseq START="9211" END="9220">Vilcabamba</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-T48-M1" ROLE="Time-Within">
+            <extent>
+              <charseq START="9226" END="9240">nearly 20 years</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R21" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E106" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E49" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R21-M11501">
+          <extent>
+              <charseq START="9152" END="9154">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E106-M11505" ROLE="Arg-1">
+            <extent>
+              <charseq START="9152" END="9154">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E49-M11506" ROLE="Arg-2">
+            <extent>
+              <charseq START="9165" END="9181">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R22" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E15" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R22-M11600">
+          <extent>
+              <charseq START="9243" END="9244">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E40-M11600" ROLE="Arg-1">
+            <extent>
+              <charseq START="9243" END="9244">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E15-M11602" ROLE="Arg-2">
+            <extent>
+              <charseq START="9254" END="9324">town,
+commissioned by a Miami doctor to look into &quot;this longevity
+thing</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100630.0015-R23" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100630.0015-E40" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100630.0015-E108" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100630.0015-R23-M11601">
+          <extent>
+              <charseq START="9276" END="9289">a Miami doctor</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E40-M11604" ROLE="Arg-1">
+            <extent>
+              <charseq START="9276" END="9289">a Miami doctor</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100630.0015-E108-M11605" ROLE="Arg-2">
+            <extent>
+              <charseq START="9278" END="9282">Miami</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

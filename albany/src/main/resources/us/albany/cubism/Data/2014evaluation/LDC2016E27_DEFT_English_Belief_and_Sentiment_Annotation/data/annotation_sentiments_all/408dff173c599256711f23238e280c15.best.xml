@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-568eda8c0000000000000002">
+  
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-336" length="14" offset="160">
+        <text>Royal Security</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-342" length="4" offset="211">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-496" length="27" offset="179">
+        <text>the ones massively at fault</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-378" length="4" offset="777">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-604" length="19" offset="741">
+        <text>the legalised thugs</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-390" length="13" offset="1100">
+        <text>Whole country</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-396" length="14" offset="1179">
+        <text>this **** hole</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-676" length="45" offset="2300">
+        <text>the idiots who don't represent the protestors</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-258" length="8" offset="1877">Huskaris</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1050" length="49" offset="1205">
+        <text>where people respect students for trying to learn</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-424">
+        <trigger length="4" offset="269">down</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-434">
+        <trigger length="4" offset="269">down</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-758">
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-454">
+        <trigger length="5" offset="234">taken</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-789">
+        <trigger length="4" offset="834">beat</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-819">
+        <trigger length="4" offset="834">beat</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-946">
+        <trigger length="7" offset="1035">strikes</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1022">
+        <trigger length="7" offset="1168">get out</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1160">
+        <trigger length="3" offset="1411">pay</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1412">
+        <trigger length="8" offset="2979">attacked</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-300" length="7" offset="2932">NeoNerd</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1435">
+        <trigger length="9" offset="3016">attacking</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-294" length="4" offset="2865">ed46</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

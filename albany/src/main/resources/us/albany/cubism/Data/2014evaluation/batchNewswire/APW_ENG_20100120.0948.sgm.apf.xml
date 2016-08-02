@@ -1,0 +1,388 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100120.0948">
+  <document DOCID="APW_ENG_20100120.0948">
+
+    <entity ID="APW_ENG_20100120.0948-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E0-M5" ROLE="GPE">
+          <extent>
+              <charseq START="85" END="91">Israeli</charseq>
+          </extent>
+          <head>
+              <charseq START="85" END="91">Israeli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E0-M202">
+          <extent>
+              <charseq START="244" END="249">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="244" END="249">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100120.0948-E0-M209">
+          <extent>
+              <charseq START="354" END="356">its</charseq>
+          </extent>
+          <head>
+              <charseq START="354" END="356">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E0-M300">
+          <extent>
+              <charseq START="381" END="386">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="381" END="386">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E0-M402">
+          <extent>
+              <charseq START="539" END="544">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="539" END="544">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100120.0948-E0-M404">
+          <extent>
+              <charseq START="550" END="552">its</charseq>
+          </extent>
+          <head>
+              <charseq START="550" END="552">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E0-M515">
+          <extent>
+              <charseq START="728" END="733">Israel</charseq>
+          </extent>
+          <head>
+              <charseq START="728" END="733">Israel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Israeli">
+              <charseq START="85" END="91">Israeli</charseq>
+          </name>
+          <name NAME="Israel">
+              <charseq START="244" END="249">Israel</charseq>
+          </name>
+          <name NAME="Israel">
+              <charseq START="381" END="386">Israel</charseq>
+          </name>
+          <name NAME="Israel">
+              <charseq START="539" END="544">Israel</charseq>
+          </name>
+          <name NAME="Israel">
+              <charseq START="728" END="733">Israel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100120.0948-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E1-M101" ROLE="GPE">
+          <extent>
+              <charseq START="124" END="132">JERUSALEM</charseq>
+          </extent>
+          <head>
+              <charseq START="124" END="132">JERUSALEM</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="JERUSALEM">
+              <charseq START="124" END="132">JERUSALEM</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100120.0948-E2" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E2-M200">
+          <extent>
+              <charseq START="181" END="237">The Organization for Economic Cooperation and Development</charseq>
+          </extent>
+          <head>
+              <charseq START="185" END="237">Organization for Economic Cooperation and Development</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E2-M400">
+          <extent>
+              <charseq START="522" END="529">The OECD</charseq>
+          </extent>
+          <head>
+              <charseq START="526" END="529">OECD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E2-M502">
+          <extent>
+              <charseq START="588" END="591">OECD</charseq>
+          </extent>
+          <head>
+              <charseq START="588" END="591">OECD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E2-M607">
+          <extent>
+              <charseq START="885" END="888">OECD</charseq>
+          </extent>
+          <head>
+              <charseq START="885" END="888">OECD</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100120.0948-E2-M606">
+          <extent>
+              <charseq START="881" END="901">any OECD member state</charseq>
+          </extent>
+          <head>
+              <charseq START="897" END="901">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100120.0948-E2-M600">
+          <extent>
+              <charseq START="803" END="823">The Paris-based group</charseq>
+          </extent>
+          <head>
+              <charseq START="819" END="823">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Organization for Economic Cooperation and Development">
+              <charseq START="185" END="237">Organization for Economic Cooperation and Development</charseq>
+          </name>
+          <name NAME="OECD">
+              <charseq START="526" END="529">OECD</charseq>
+          </name>
+          <name NAME="OECD">
+              <charseq START="588" END="591">OECD</charseq>
+          </name>
+          <name NAME="OECD">
+              <charseq START="885" END="888">OECD</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100120.0948-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100120.0948-E3-M306" ROLE="ORG">
+          <extent>
+              <charseq START="465" END="475">governments</charseq>
+          </extent>
+          <head>
+              <charseq START="465" END="475">governments</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100120.0948-E3-M506" ROLE="LOC">
+          <extent>
+              <charseq START="641" END="651">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="645" END="651">country</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100120.0948-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E4-M500">
+          <extent>
+              <charseq START="588" END="652">OECD Secretary-General Angel Gurria, who is visiting the country,</charseq>
+          </extent>
+          <head>
+              <charseq START="611" END="622">Angel Gurria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100120.0948-E4-M503">
+          <extent>
+              <charseq START="593" END="609">Secretary-General</charseq>
+          </extent>
+          <head>
+              <charseq START="593" END="609">Secretary-General</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100120.0948-E4-M505">
+          <extent>
+              <charseq START="625" END="627">who</charseq>
+          </extent>
+          <head>
+              <charseq START="625" END="627">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Angel Gurria">
+              <charseq START="611" END="622">Angel Gurria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100120.0948-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E5-M517">
+          <extent>
+              <charseq START="752" END="759">Orthodox</charseq>
+          </extent>
+          <head>
+              <charseq START="752" END="759">Orthodox</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Orthodox">
+              <charseq START="752" END="759">Orthodox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100120.0948-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E6-M518">
+          <extent>
+              <charseq START="761" END="766">Jewish</charseq>
+          </extent>
+          <head>
+              <charseq START="761" END="766">Jewish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jewish">
+              <charseq START="761" END="766">Jewish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100120.0948-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100120.0948-E7-M516">
+          <extent>
+              <charseq START="737" END="740">Arab</charseq>
+          </extent>
+          <head>
+              <charseq START="737" END="740">Arab</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100120.0948-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100120.0948-E8-M601" ROLE="LOC">
+          <extent>
+              <charseq START="807" END="811">Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="807" END="811">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paris">
+              <charseq START="807" END="811">Paris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100120.0948-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100120.0948-E9-M604">
+          <extent>
+              <charseq START="842" END="849">Israelis</charseq>
+          </extent>
+          <head>
+              <charseq START="842" END="849">Israelis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100120.0948-E9-M608">
+          <extent>
+              <charseq START="890" END="895">member</charseq>
+          </extent>
+          <head>
+              <charseq START="890" END="895">member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100120.0948-T0" VAL="2010-01-20-01">
+        <timex2_mention ID="APW_ENG_20100120.0948-T0-M1">
+            <extent>
+              <charseq START="134" END="143">2010-01-20</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100120.0948-T1" VAL="2010-01-20">
+        <timex2_mention ID="APW_ENG_20100120.0948-T1-M1">
+            <extent>
+              <charseq START="659" END="667">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100120.0948-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100120.0948-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100120.0948-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100120.0948-R0-M500">
+          <extent>
+              <charseq START="593" END="609">Secretary-General</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100120.0948-E4-M503" ROLE="Arg-1">
+            <extent>
+              <charseq START="593" END="609">Secretary-General</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100120.0948-E2-M502" ROLE="Arg-2">
+            <extent>
+              <charseq START="588" END="591">OECD</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100120.0948-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100120.0948-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100120.0948-E3" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100120.0948-R1-M501">
+          <extent>
+              <charseq START="625" END="627">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100120.0948-E4-M505" ROLE="Arg-1">
+            <extent>
+              <charseq START="625" END="627">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100120.0948-E3-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="641" END="651">the country</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100120.0948-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100120.0948-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100120.0948-E8" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100120.0948-R2-M600">
+          <extent>
+              <charseq START="803" END="823">The Paris-based group</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100120.0948-E2-M600" ROLE="Arg-1">
+            <extent>
+              <charseq START="803" END="823">The Paris-based group</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100120.0948-E8-M601" ROLE="Arg-2">
+            <extent>
+              <charseq START="807" END="811">Paris</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100120.0948-R3" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100120.0948-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100120.0948-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100120.0948-R3-M601">
+          <extent>
+              <charseq START="890" END="895">member</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100120.0948-E9-M608" ROLE="Arg-1">
+            <extent>
+              <charseq START="890" END="895">member</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100120.0948-E2-M607" ROLE="Arg-2">
+            <extent>
+              <charseq START="885" END="888">OECD</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

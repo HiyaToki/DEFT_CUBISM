@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20091123.0430">
+  <document DOCID="AFP_ENG_20091123.0430">
+
+    <entity ID="AFP_ENG_20091123.0430-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E0-M0">
+          <extent>
+              <charseq START="58" END="66">McDonalds</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="66">McDonalds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E0-M306">
+          <extent>
+              <charseq START="235" END="248">even
+McDonalds</charseq>
+          </extent>
+          <head>
+              <charseq START="240" END="248">McDonalds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091123.0430-E0-M311">
+          <extent>
+              <charseq START="291" END="293">its</charseq>
+          </extent>
+          <head>
+              <charseq START="291" END="293">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091123.0430-E0-M409">
+          <extent>
+              <charseq START="470" END="472">its</charseq>
+          </extent>
+          <head>
+              <charseq START="470" END="472">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E0-M702">
+          <extent>
+              <charseq START="940" END="948">McDonalds</charseq>
+          </extent>
+          <head>
+              <charseq START="940" END="948">McDonalds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E0-M900">
+          <extent>
+              <charseq START="1263" END="1271">McDonalds</charseq>
+          </extent>
+          <head>
+              <charseq START="1263" END="1271">McDonalds</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091123.0430-E0-M909">
+          <extent>
+              <charseq START="1360" END="1362">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1360" END="1362">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E0-M1003">
+          <extent>
+              <charseq START="1473" END="1483">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="1477" END="1483">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="McDonalds">
+              <charseq START="58" END="66">McDonalds</charseq>
+          </name>
+          <name NAME="McDonalds">
+              <charseq START="240" END="248">McDonalds</charseq>
+          </name>
+          <name NAME="McDonalds">
+              <charseq START="940" END="948">McDonalds</charseq>
+          </name>
+          <name NAME="McDonalds">
+              <charseq START="1263" END="1271">McDonalds</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E1-M1">
+          <extent>
+              <charseq START="84" END="90">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="84" END="90">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E1-M402" ROLE="GPE">
+          <extent>
+              <charseq START="348" END="353">German</charseq>
+          </extent>
+          <head>
+              <charseq START="348" END="353">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Germany">
+              <charseq START="84" END="90">Germany</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="348" END="353">German</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E2-M101">
+          <extent>
+              <charseq START="115" END="120">Berlin</charseq>
+          </extent>
+          <head>
+              <charseq START="115" END="120">Berlin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Berlin">
+              <charseq START="115" END="120">Berlin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E3-M200">
+          <extent>
+              <charseq START="137" END="139">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="137" END="139">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="137" END="139">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E4-M305" ROLE="LOC">
+          <extent>
+              <charseq START="206" END="215">Copenhagen</charseq>
+          </extent>
+          <head>
+              <charseq START="206" END="215">Copenhagen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E4-M802" ROLE="GPE">
+          <extent>
+              <charseq START="1047" END="1056">Copenhagen</charseq>
+          </extent>
+          <head>
+              <charseq START="1047" END="1056">Copenhagen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Copenhagen">
+              <charseq START="206" END="215">Copenhagen</charseq>
+          </name>
+          <name NAME="Copenhagen">
+              <charseq START="1047" END="1056">Copenhagen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E5-M312">
+          <extent>
+              <charseq START="301" END="318">a senior executive</charseq>
+          </extent>
+          <head>
+              <charseq START="310" END="318">executive</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E6-M404" ROLE="GPE">
+          <extent>
+              <charseq START="371" END="372">US</charseq>
+          </extent>
+          <head>
+              <charseq START="371" END="372">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="371" END="372">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E7-M410">
+          <extent>
+              <charseq START="485" END="529">McDonalds Germany
+vice-president Holger Beeck</charseq>
+          </extent>
+          <head>
+              <charseq START="518" END="529">Holger Beeck</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E7-M506">
+          <extent>
+              <charseq START="644" END="648">Beeck</charseq>
+          </extent>
+          <head>
+              <charseq START="644" END="648">Beeck</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Holger Beeck">
+              <charseq START="518" END="529">Holger Beeck</charseq>
+          </name>
+          <name NAME="Beeck">
+              <charseq START="644" END="648">Beeck</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E8-M411">
+          <extent>
+              <charseq START="485" END="501">McDonalds Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="485" END="501">McDonalds Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="McDonalds Germany">
+              <charseq START="485" END="501">McDonalds Germany</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E9-M400">
+          <extent>
+              <charseq START="348" END="388">German branches of the US fast-food chain</charseq>
+          </extent>
+          <head>
+              <charseq START="355" END="362">branches</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E10" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E10-M507">
+          <extent>
+              <charseq START="655" END="685">the Financial Times Deutschland</charseq>
+          </extent>
+          <head>
+              <charseq START="659" END="685">Financial Times Deutschland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Financial Times Deutschland">
+              <charseq START="659" END="685">Financial Times Deutschland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E11-M501">
+          <extent>
+              <charseq START="573" END="640">all new and refitted restaurants &quot;out of respect for
+the environment</charseq>
+          </extent>
+          <head>
+              <charseq START="594" END="604">restaurants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E12-M607">
+          <extent>
+              <charseq START="801" END="810">Interbrand</charseq>
+          </extent>
+          <head>
+              <charseq START="801" END="810">Interbrand</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E12-M606">
+          <extent>
+              <charseq START="801" END="822">Interbrand consultancy</charseq>
+          </extent>
+          <head>
+              <charseq START="812" END="822">consultancy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Interbrand">
+              <charseq START="801" END="810">Interbrand</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E13-M611">
+          <extent>
+              <charseq START="848" END="850">IBM</charseq>
+          </extent>
+          <head>
+              <charseq START="848" END="850">IBM</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="IBM">
+              <charseq START="848" END="850">IBM</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E14-M612">
+          <extent>
+              <charseq START="853" END="861">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="853" END="861">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Microsoft">
+              <charseq START="853" END="861">Microsoft</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E15-M613">
+          <extent>
+              <charseq START="864" END="879">General Electric</charseq>
+          </extent>
+          <head>
+              <charseq START="864" END="879">General Electric</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="General Electric">
+              <charseq START="864" END="879">General Electric</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E16-M614">
+          <extent>
+              <charseq START="885" END="889">Nokia</charseq>
+          </extent>
+          <head>
+              <charseq START="885" END="889">Nokia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nokia">
+              <charseq START="885" END="889">Nokia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E17" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E17-M602">
+          <extent>
+              <charseq START="732" END="740">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="736" END="740">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E18-M705">
+          <extent>
+              <charseq START="981" END="1017">Germans between the ages of 12 and 18</charseq>
+          </extent>
+          <head>
+              <charseq START="981" END="987">Germans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20091123.0430-E18-M809">
+          <extent>
+              <charseq START="1208" END="1211">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1208" END="1211">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E19-M807" ROLE="LOC">
+          <extent>
+              <charseq START="1155" END="1168">poorer nations</charseq>
+          </extent>
+          <head>
+              <charseq START="1162" END="1168">nations</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E20" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E20-M904">
+          <extent>
+              <charseq START="1310" END="1397">environmental groups on several
+fronts, including its use of packaging and deforestation</charseq>
+          </extent>
+          <head>
+              <charseq START="1324" END="1329">groups</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20091123.0430-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20091123.0430-E21-M1000">
+          <extent>
+              <charseq START="1418" END="1453">environmental campaigners Greenpeace</charseq>
+          </extent>
+          <head>
+              <charseq START="1444" END="1453">Greenpeace</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20091123.0430-E21-M1001">
+          <extent>
+              <charseq START="1432" END="1442">campaigners</charseq>
+          </extent>
+          <head>
+              <charseq START="1432" END="1442">campaigners</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greenpeace">
+              <charseq START="1444" END="1453">Greenpeace</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20091123.0430-T0" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20091123.0430-T0-M1">
+            <extent>
+              <charseq START="131" END="134">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091123.0430-T1" VAL="2009-11-23">
+        <timex2_mention ID="AFP_ENG_20091123.0430-T1-M1">
+            <extent>
+              <charseq START="328" END="333">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091123.0430-T2" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20091123.0430-T2-M1">
+            <extent>
+              <charseq START="786" END="789">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091123.0430-T3" VAL="2009-11">
+        <timex2_mention ID="AFP_ENG_20091123.0430-T3-M1">
+            <extent>
+              <charseq START="909" END="926">earlier this month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091123.0430-T4" VAL="2009-12-18">
+        <timex2_mention ID="AFP_ENG_20091123.0430-T4-M1">
+            <extent>
+              <charseq START="1033" END="1045">December 7-18</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20091123.0430-T5" VAL="PAST_REF" ANCHOR_VAL="2009-11-23" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20091123.0430-T5-M1">
+            <extent>
+              <charseq START="1280" END="1287">the past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20091123.0430-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20091123.0430-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20091123.0430-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20091123.0430-R0-M400">
+          <extent>
+              <charseq START="348" END="388">German branches of the US fast-food chain</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20091123.0430-E9-M400" ROLE="Arg-1">
+            <extent>
+              <charseq START="348" END="388">German branches of the US fast-food chain</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20091123.0430-E1-M402" ROLE="Arg-2">
+            <extent>
+              <charseq START="348" END="353">German</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

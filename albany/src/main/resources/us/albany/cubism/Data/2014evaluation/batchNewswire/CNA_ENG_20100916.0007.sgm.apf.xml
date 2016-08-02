@@ -1,0 +1,880 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="CNA_ENG_20100916.0007">
+  <document DOCID="CNA_ENG_20100916.0007">
+
+    <entity ID="CNA_ENG_20100916.0007-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E0-M0">
+          <extent>
+              <charseq START="58" END="110">Yunlin County fines Formosa Plastics for noxious odor</charseq>
+          </extent>
+          <head>
+              <charseq START="78" END="93">Formosa Plastics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E0-M3">
+          <extent>
+              <charseq START="72" END="76">fines</charseq>
+          </extent>
+          <head>
+              <charseq START="72" END="76">fines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E0-M717">
+          <extent>
+              <charseq START="728" END="744">Formosa  Plastics</charseq>
+          </extent>
+          <head>
+              <charseq START="728" END="744">Formosa  Plastics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E0-M1500">
+          <extent>
+              <charseq START="1970" END="1985">Formosa Plastics</charseq>
+          </extent>
+          <head>
+              <charseq START="1970" END="1985">Formosa Plastics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Formosa Plastics">
+              <charseq START="78" END="93">Formosa Plastics</charseq>
+          </name>
+          <name NAME="Formosa  Plastics">
+              <charseq START="728" END="744">Formosa  Plastics</charseq>
+          </name>
+          <name NAME="Formosa Plastics">
+              <charseq START="1970" END="1985">Formosa Plastics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E1" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E1-M2">
+          <extent>
+              <charseq START="58" END="70">Yunlin County</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="70">Yunlin County</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E1-M501" ROLE="GPE">
+          <extent>
+              <charseq START="240" END="252">Yunlin County</charseq>
+          </extent>
+          <head>
+              <charseq START="240" END="252">Yunlin County</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E1-M500" ROLE="ORG">
+          <extent>
+              <charseq START="236" END="263">The Yunlin County government</charseq>
+          </extent>
+          <head>
+              <charseq START="254" END="263">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E1-M601">
+          <extent>
+              <charseq START="462" END="471">The county</charseq>
+          </extent>
+          <head>
+              <charseq START="466" END="471">county</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E1-M709">
+          <extent>
+              <charseq START="659" END="664">Yunlin</charseq>
+          </extent>
+          <head>
+              <charseq START="659" END="664">Yunlin</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E1-M809" ROLE="ORG">
+          <extent>
+              <charseq START="914" END="934">the county
+government</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="934">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E1-M905" ROLE="ORG">
+          <extent>
+              <charseq START="1008" END="1021">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="1012" END="1021">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E1-M1602">
+          <extent>
+              <charseq START="2178" END="2187">the county</charseq>
+          </extent>
+          <head>
+              <charseq START="2182" END="2187">county</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20100916.0007-E1-M1608">
+          <extent>
+              <charseq START="2275" END="2277">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2275" END="2277">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yunlin County">
+              <charseq START="58" END="70">Yunlin County</charseq>
+          </name>
+          <name NAME="Yunlin County">
+              <charseq START="240" END="252">Yunlin County</charseq>
+          </name>
+          <name NAME="Yunlin">
+              <charseq START="659" END="664">Yunlin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="135" END="140">Taipei</charseq>
+          </extent>
+          <head>
+              <charseq START="135" END="140">Taipei</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taipei">
+              <charseq START="135" END="140">Taipei</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E3-M200">
+          <extent>
+              <charseq START="153" END="155">CNA</charseq>
+          </extent>
+          <head>
+              <charseq START="153" END="155">CNA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CNA">
+              <charseq START="153" END="155">CNA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E4-M401">
+          <extent>
+              <charseq START="181" END="192">Yeh Tzu-kang</charseq>
+          </extent>
+          <head>
+              <charseq START="181" END="192">Yeh Tzu-kang</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yeh Tzu-kang">
+              <charseq START="181" END="192">Yeh Tzu-kang</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E5-M402">
+          <extent>
+              <charseq START="198" END="210">Elizabeth Hsu</charseq>
+          </extent>
+          <head>
+              <charseq START="198" END="210">Elizabeth Hsu</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Elizabeth Hsu">
+              <charseq START="198" END="210">Elizabeth Hsu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E6-M507">
+          <extent>
+              <charseq START="311" END="332">Formosa Plastics Group</charseq>
+          </extent>
+          <head>
+              <charseq START="311" END="332">Formosa Plastics Group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Formosa Plastics Group">
+              <charseq START="311" END="332">Formosa Plastics Group</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E7-M513">
+          <extent>
+              <charseq START="434" END="450">nearly 100 people</charseq>
+          </extent>
+          <head>
+              <charseq START="445" END="450">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E8-M600">
+          <extent>
+              <charseq START="462" END="505">The county&apos;s Environmental Protection Bureau</charseq>
+          </extent>
+          <head>
+              <charseq START="475" END="505">Environmental Protection Bureau</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E8-M1203">
+          <extent>
+              <charseq START="1361" END="1370">the bureau</charseq>
+          </extent>
+          <head>
+              <charseq START="1365" END="1370">bureau</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20100916.0007-E8-M1205">
+          <extent>
+              <charseq START="1382" END="1384">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1382" END="1384">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E8-M1600">
+          <extent>
+              <charseq START="2155" END="2284">The company criticized the county for blaming the petrochemical complex for the
+odor without publicizing the results of its probe.</charseq>
+          </extent>
+          <head>
+              <charseq START="2159" END="2165">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20100916.0007-E8-M1700">
+          <extent>
+              <charseq START="2296" END="2297">It</charseq>
+          </extent>
+          <head>
+              <charseq START="2296" END="2297">It</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Environmental Protection Bureau">
+              <charseq START="475" END="505">Environmental Protection Bureau</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E9-M708" ROLE="LOC">
+          <extent>
+              <charseq START="659" END="683">Yunlin&apos;s Mailiao Township</charseq>
+          </extent>
+          <head>
+              <charseq START="668" END="683">Mailiao Township</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mailiao Township">
+              <charseq START="668" END="683">Mailiao Township</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E10-M711" ROLE="LOC">
+          <extent>
+              <charseq START="689" END="714">neighboring
+Taisi Township</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="714">Taisi Township</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E10-M1001">
+          <extent>
+              <charseq START="1051" END="1064">Taisi Township</charseq>
+          </extent>
+          <head>
+              <charseq START="1051" END="1064">Taisi Township</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taisi Township">
+              <charseq START="701" END="714">Taisi Township</charseq>
+          </name>
+          <name NAME="Taisi Township">
+              <charseq START="1051" END="1064">Taisi Township</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E11" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E11-M720">
+          <extent>
+              <charseq START="788" END="799">60 factories</charseq>
+          </extent>
+          <head>
+              <charseq START="791" END="799">factories</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E11-M1307">
+          <extent>
+              <charseq START="1589" END="1597">the plant</charseq>
+          </extent>
+          <head>
+              <charseq START="1593" END="1597">plant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E11-M1508">
+          <extent>
+              <charseq START="2088" END="2098">the factory</charseq>
+          </extent>
+          <head>
+              <charseq START="2092" END="2098">factory</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E12-M801">
+          <extent>
+              <charseq START="802" END="821">Sixty-three students</charseq>
+          </extent>
+          <head>
+              <charseq START="814" END="821">students</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E13-M803">
+          <extent>
+              <charseq START="827" END="868">teachers at five public
+elementary schools</charseq>
+          </extent>
+          <head>
+              <charseq START="827" END="834">teachers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E14" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E14-M805">
+          <extent>
+              <charseq START="839" END="868">five public
+elementary schools</charseq>
+          </extent>
+          <head>
+              <charseq START="862" END="868">schools</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E14-M1006">
+          <extent>
+              <charseq START="1116" END="1121">school</charseq>
+          </extent>
+          <head>
+              <charseq START="1116" END="1121">school</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E15" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E15-M810">
+          <extent>
+              <charseq START="918" END="923">county</charseq>
+          </extent>
+          <head>
+              <charseq START="918" END="923">county</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E15-M1109">
+          <extent>
+              <charseq START="1260" END="1265">county</charseq>
+          </extent>
+          <head>
+              <charseq START="1260" END="1265">county</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E16-M1005">
+          <extent>
+              <charseq START="1102" END="1130">10 elementary
+school students</charseq>
+          </extent>
+          <head>
+              <charseq START="1123" END="1130">students</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E17-M1007">
+          <extent>
+              <charseq START="1136" END="1161">teachers seeking treatment</charseq>
+          </extent>
+          <head>
+              <charseq START="1136" END="1143">teachers</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20100916.0007-E17-M1100">
+          <extent>
+              <charseq START="1183" END="1190">they all</charseq>
+          </extent>
+          <head>
+              <charseq START="1183" END="1186">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E18-M1110">
+          <extent>
+              <charseq START="1279" END="1305">the Department of Education</charseq>
+          </extent>
+          <head>
+              <charseq START="1283" END="1305">Department of Education</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Department of Education">
+              <charseq START="1283" END="1305">Department of Education</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E19" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E19-M1104">
+          <extent>
+              <charseq START="1223" END="1253">hospitals for medical
+treatment</charseq>
+          </extent>
+          <head>
+              <charseq START="1223" END="1231">hospitals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E20-M1107">
+          <extent>
+              <charseq START="1258" END="1305">a county official at the Department of Education</charseq>
+          </extent>
+          <head>
+              <charseq START="1267" END="1274">official</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E21" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E21-M1200">
+          <extent>
+              <charseq START="1322" END="1353">The Chinese-language China Times</charseq>
+          </extent>
+          <head>
+              <charseq START="1343" END="1353">China Times</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China Times">
+              <charseq START="1343" END="1353">China Times</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E22-M1201">
+          <extent>
+              <charseq START="1326" END="1332">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="1326" END="1332">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chinese">
+              <charseq START="1326" END="1332">Chinese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E23" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E23-M1209">
+          <extent>
+              <charseq START="1457" END="1493">a naphtha storage tank
+numbered T8506</charseq>
+          </extent>
+          <head>
+              <charseq START="1475" END="1478">tank</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E24-M1300">
+          <extent>
+              <charseq START="1505" END="1514">Inspectors</charseq>
+          </extent>
+          <head>
+              <charseq START="1505" END="1514">Inspectors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100916.0007-E25-M1400">
+          <extent>
+              <charseq START="1805" END="1834">Bureau Director Lai Tung-hung,</charseq>
+          </extent>
+          <head>
+              <charseq START="1821" END="1833">Lai Tung-hung</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E25-M1403">
+          <extent>
+              <charseq START="1812" END="1819">Director</charseq>
+          </extent>
+          <head>
+              <charseq START="1812" END="1819">Director</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lai Tung-hung">
+              <charseq START="1821" END="1833">Lai Tung-hung</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E26" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E26-M1501">
+          <extent>
+              <charseq START="1997" END="2004">the tank</charseq>
+          </extent>
+          <head>
+              <charseq START="2001" END="2004">tank</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E26-M1510">
+          <extent>
+              <charseq START="2117" END="2124">the tank</charseq>
+          </extent>
+          <head>
+              <charseq START="2121" END="2124">tank</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E27" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E27-M1509">
+          <extent>
+              <charseq START="2104" END="2108">areas</charseq>
+          </extent>
+          <head>
+              <charseq START="2104" END="2108">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E28-M1705">
+          <extent>
+              <charseq START="2348" END="2377">a spokesman for the
+enterprise</charseq>
+          </extent>
+          <head>
+              <charseq START="2350" END="2358">spokesman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E29-M1811">
+          <extent>
+              <charseq START="2530" END="2538">residents</charseq>
+          </extent>
+          <head>
+              <charseq START="2530" END="2538">residents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20100916.0007-E29-M1814">
+          <extent>
+              <charseq START="2581" END="2584">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2581" END="2584">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100916.0007-E30" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100916.0007-E30-M1820">
+          <extent>
+              <charseq START="2621" END="2631">the
+complex</charseq>
+          </extent>
+          <head>
+              <charseq START="2625" END="2631">complex</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="CNA_ENG_20100916.0007-T0" VAL="2010-09-15">
+        <timex2_mention ID="CNA_ENG_20100916.0007-T0-M1">
+            <extent>
+              <charseq START="143" END="150">Sept. 15</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100916.0007-T1" VAL="2010-09-16T22:42:51">
+        <timex2_mention ID="CNA_ENG_20100916.0007-T1-M1">
+            <extent>
+              <charseq START="168" END="175">22:42:51</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="CNA_ENG_20100916.0007-V2" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="CNA_ENG_20100916.0007-V2-M1">
+            <extent>
+              <charseq START="274" END="285">NT$1 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="CNA_ENG_20100916.0007-V3" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="CNA_ENG_20100916.0007-V3-M1">
+            <extent>
+              <charseq START="288" END="296">US$31,460</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="CNA_ENG_20100916.0007-T4" VAL="2010-09-15">
+        <timex2_mention ID="CNA_ENG_20100916.0007-T4-M1">
+            <extent>
+              <charseq START="334" END="342">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100916.0007-T5" VAL="2010-09-09">
+        <timex2_mention ID="CNA_ENG_20100916.0007-T5-M1">
+            <extent>
+              <charseq START="648" END="654">Sept. 9</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100916.0007-T6" VAL="P1D">
+        <timex2_mention ID="CNA_ENG_20100916.0007-T6-M1">
+            <extent>
+              <charseq START="949" END="965">the following day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100916.0007-T7" VAL="2010-09-13">
+        <timex2_mention ID="CNA_ENG_20100916.0007-T7-M1">
+            <extent>
+              <charseq START="1041" END="1048">Sept. 13</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100916.0007-T8" VAL="P1W">
+        <timex2_mention ID="CNA_ENG_20100916.0007-T8-M1">
+            <extent>
+              <charseq START="1947" END="1958">another week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100916.0007-T9" VAL="2010-07">
+        <timex2_mention ID="CNA_ENG_20100916.0007-T9-M1">
+            <extent>
+              <charseq START="2397" END="2400">July</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="CNA_ENG_20100916.0007-R0" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100916.0007-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100916.0007-E1" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100916.0007-R0-M0">
+          <extent>
+              <charseq START="72" END="76">fines</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E0-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="72" END="76">fines</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E1-M2" ROLE="Arg-2">
+            <extent>
+              <charseq START="58" END="70">Yunlin County</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100916.0007-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100916.0007-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100916.0007-E1" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100916.0007-R1-M600">
+          <extent>
+              <charseq START="462" END="505">The county&apos;s Environmental Protection Bureau</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E8-M600" ROLE="Arg-1">
+            <extent>
+              <charseq START="462" END="505">The county&apos;s Environmental Protection Bureau</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E1-M601" ROLE="Arg-2">
+            <extent>
+              <charseq START="462" END="471">The county</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100916.0007-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100916.0007-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100916.0007-E1" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100916.0007-R2-M700">
+          <extent>
+              <charseq START="659" END="683">Yunlin&apos;s Mailiao Township</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E9-M708" ROLE="Arg-1">
+            <extent>
+              <charseq START="659" END="683">Yunlin&apos;s Mailiao Township</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E1-M709" ROLE="Arg-2">
+            <extent>
+              <charseq START="659" END="664">Yunlin</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100916.0007-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100916.0007-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100916.0007-E14" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100916.0007-R3-M800">
+          <extent>
+              <charseq START="827" END="868">teachers at five public
+elementary schools</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E13-M803" ROLE="Arg-1">
+            <extent>
+              <charseq START="827" END="868">teachers at five public
+elementary schools</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E14-M805" ROLE="Arg-2">
+            <extent>
+              <charseq START="839" END="868">five public
+elementary schools</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100916.0007-R4" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100916.0007-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100916.0007-E14" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100916.0007-R4-M1000">
+          <extent>
+              <charseq START="1102" END="1130">10 elementary
+school students</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E16-M1005" ROLE="Arg-1">
+            <extent>
+              <charseq START="1102" END="1130">10 elementary
+school students</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E14-M1006" ROLE="Arg-2">
+            <extent>
+              <charseq START="1116" END="1121">school</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100916.0007-R5" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100916.0007-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100916.0007-E19" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100916.0007-R5-M1100">
+          <extent>
+              <charseq START="1183" END="1190">they all</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E17-M1100" ROLE="Arg-1">
+            <extent>
+              <charseq START="1183" END="1190">they all</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E19-M1104" ROLE="Arg-2">
+            <extent>
+              <charseq START="1223" END="1253">hospitals for medical
+treatment</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100916.0007-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100916.0007-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100916.0007-E15" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100916.0007-R6-M1101">
+          <extent>
+              <charseq START="1258" END="1305">a county official at the Department of Education</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E20-M1107" ROLE="Arg-1">
+            <extent>
+              <charseq START="1258" END="1305">a county official at the Department of Education</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E15-M1109" ROLE="Arg-2">
+            <extent>
+              <charseq START="1260" END="1265">county</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100916.0007-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100916.0007-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100916.0007-E18" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100916.0007-R7-M1102">
+          <extent>
+              <charseq START="1258" END="1305">a county official at the Department of Education</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E20-M1107" ROLE="Arg-1">
+            <extent>
+              <charseq START="1258" END="1305">a county official at the Department of Education</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100916.0007-E18-M1110" ROLE="Arg-2">
+            <extent>
+              <charseq START="1279" END="1305">the Department of Education</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

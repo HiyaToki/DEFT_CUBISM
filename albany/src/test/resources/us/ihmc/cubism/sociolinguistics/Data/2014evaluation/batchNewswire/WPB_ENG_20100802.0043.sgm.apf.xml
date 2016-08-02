@@ -1,0 +1,2544 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="WPB_ENG_20100802.0043">
+  <document DOCID="WPB_ENG_20100802.0043">
+
+    <entity ID="WPB_ENG_20100802.0043-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E0-M0">
+          <extent>
+              <charseq START="66" END="79">Facebook Owner</charseq>
+          </extent>
+          <head>
+              <charseq START="75" END="79">Owner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E0-M2">
+          <extent>
+              <charseq START="86" END="87">He</charseq>
+          </extent>
+          <head>
+              <charseq START="86" END="87">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E0-M6">
+          <extent>
+              <charseq START="94" END="96">His</charseq>
+          </extent>
+          <head>
+              <charseq START="94" END="96">His</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E1-M102">
+          <extent>
+              <charseq START="147" END="159">Bob Van Voris</charseq>
+          </extent>
+          <head>
+              <charseq START="147" END="159">Bob Van Voris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bob Van Voris">
+              <charseq START="147" END="159">Bob Van Voris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E2-M103" ROLE="GPE">
+          <extent>
+              <charseq START="161" END="170">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="161" END="170">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="161" END="170">WASHINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E3-M201" ROLE="LOC">
+          <extent>
+              <charseq START="227" END="236">WELLSVILLE</charseq>
+          </extent>
+          <head>
+              <charseq START="227" END="236">WELLSVILLE</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E3-M218">
+          <extent>
+              <charseq START="365" END="369">state</charseq>
+          </extent>
+          <head>
+              <charseq START="365" END="369">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E3-M330" ROLE="LOC">
+          <extent>
+              <charseq START="723" END="732">Wellsville</charseq>
+          </extent>
+          <head>
+              <charseq START="723" END="732">Wellsville</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E3-M914">
+          <extent>
+              <charseq START="1635" END="1639">state</charseq>
+          </extent>
+          <head>
+              <charseq START="1635" END="1639">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E3-M3618">
+          <extent>
+              <charseq START="5033" END="5037">state</charseq>
+          </extent>
+          <head>
+              <charseq START="5033" END="5037">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WELLSVILLE">
+              <charseq START="227" END="236">WELLSVILLE</charseq>
+          </name>
+          <name NAME="Wellsville">
+              <charseq START="723" END="732">Wellsville</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E4-M203" ROLE="LOC">
+          <extent>
+              <charseq START="239" END="242">N.Y.</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="242">N.Y.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E4-M306" ROLE="GPE">
+          <extent>
+              <charseq START="480" END="487">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="480" END="487">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E4-M505" ROLE="LOC">
+          <extent>
+              <charseq START="917" END="932">western New York</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="932">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E4-M913" ROLE="GPE">
+          <extent>
+              <charseq START="1626" END="1633">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="1626" END="1633">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="N.Y.">
+              <charseq START="239" END="242">N.Y.</charseq>
+          </name>
+          <name NAME="New York">
+              <charseq START="480" END="487">New York</charseq>
+          </name>
+          <name NAME="New York">
+              <charseq START="925" END="932">New York</charseq>
+          </name>
+          <name NAME="New York">
+              <charseq START="1626" END="1633">New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M204">
+          <extent>
+              <charseq START="246" END="256">Paul Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="246" END="256">Paul Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M209">
+          <extent>
+              <charseq START="288" END="289">he</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="289">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M216">
+          <extent>
+              <charseq START="325" END="327">his</charseq>
+          </extent>
+          <head>
+              <charseq START="325" END="327">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M221">
+          <extent>
+              <charseq START="395" END="397">his</charseq>
+          </extent>
+          <head>
+              <charseq START="395" END="397">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M223">
+          <extent>
+              <charseq START="426" END="428">him</charseq>
+          </extent>
+          <head>
+              <charseq START="426" END="428">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M302">
+          <extent>
+              <charseq START="450" END="455">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="450" END="455">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M317">
+          <extent>
+              <charseq START="578" END="580">his</charseq>
+          </extent>
+          <head>
+              <charseq START="578" END="580">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M319">
+          <extent>
+              <charseq START="616" END="618">him</charseq>
+          </extent>
+          <head>
+              <charseq START="616" END="618">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M324">
+          <extent>
+              <charseq START="684" END="685">he</charseq>
+          </extent>
+          <head>
+              <charseq START="684" END="685">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M329">
+          <extent>
+              <charseq START="711" END="713">his</charseq>
+          </extent>
+          <head>
+              <charseq START="711" END="713">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E5-M411">
+          <extent>
+              <charseq START="817" END="825">executive</charseq>
+          </extent>
+          <head>
+              <charseq START="817" END="825">executive</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M501">
+          <extent>
+              <charseq START="866" END="871">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="866" END="871">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E5-M503">
+          <extent>
+              <charseq START="878" END="1004">a self-described environmentalist from western New York who wants to
+legalize drugs and has views on the evils of central banks</charseq>
+          </extent>
+          <head>
+              <charseq START="895" END="910">environmentalist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M507">
+          <extent>
+              <charseq START="934" END="936">who</charseq>
+          </extent>
+          <head>
+              <charseq START="934" END="936">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M517">
+          <extent>
+              <charseq START="1036" END="1038">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1036" END="1038">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M603">
+          <extent>
+              <charseq START="1101" END="1103">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1101" END="1103">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M710">
+          <extent>
+              <charseq START="1376" END="1381">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="1376" END="1381">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M712">
+          <extent>
+              <charseq START="1391" END="1393">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1391" END="1393">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M901">
+          <extent>
+              <charseq START="1503" END="1508">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="1503" END="1508">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M905">
+          <extent>
+              <charseq START="1540" END="1542">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1540" END="1542">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M916">
+          <extent>
+              <charseq START="1679" END="1680">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1679" END="1680">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M919">
+          <extent>
+              <charseq START="1703" END="1705">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1703" END="1705">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M1001">
+          <extent>
+              <charseq START="1714" END="1716">His</charseq>
+          </extent>
+          <head>
+              <charseq START="1714" END="1716">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M1006">
+          <extent>
+              <charseq START="1744" END="1745">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1744" END="1745">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E5-M1108">
+          <extent>
+              <charseq START="1855" END="1861">a phony</charseq>
+          </extent>
+          <head>
+              <charseq START="1857" END="1861">phony</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M1201">
+          <extent>
+              <charseq START="1874" END="1879">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="1874" END="1879">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M1204">
+          <extent>
+              <charseq START="1905" END="1907">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1905" END="1907">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M1300">
+          <extent>
+              <charseq START="2001" END="2006">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="2001" END="2006">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M1408">
+          <extent>
+              <charseq START="2281" END="2282">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2281" END="2282">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M1504">
+          <extent>
+              <charseq START="2408" END="2413">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="2408" END="2413">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M1502">
+          <extent>
+              <charseq START="2402" END="2404">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2402" END="2404">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M1701">
+          <extent>
+              <charseq START="2449" END="2454">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="2449" END="2454">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E5-M1713">
+          <extent>
+              <charseq START="2560" END="2575">the Facebook CEO</charseq>
+          </extent>
+          <head>
+              <charseq START="2573" END="2575">CEO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E5-M1715">
+          <extent>
+              <charseq START="2581" END="2603">an 18-year-old
+freshman</charseq>
+          </extent>
+          <head>
+              <charseq START="2596" END="2603">freshman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M1707">
+          <extent>
+              <charseq START="2512" END="2513">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2512" END="2513">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M1803">
+          <extent>
+              <charseq START="2656" END="2661">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="2656" END="2661">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M1810">
+          <extent>
+              <charseq START="2747" END="2752">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="2747" END="2752">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M1811">
+          <extent>
+              <charseq START="2759" END="2760">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2759" END="2760">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M1904">
+          <extent>
+              <charseq START="2867" END="2872">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="2867" END="2872">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M2103">
+          <extent>
+              <charseq START="3188" END="3193">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="3188" END="3193">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M2104">
+          <extent>
+              <charseq START="3209" END="3211">him</charseq>
+          </extent>
+          <head>
+              <charseq START="3209" END="3211">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M2200">
+          <extent>
+              <charseq START="3338" END="3343">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="3338" END="3343">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M2201">
+          <extent>
+              <charseq START="3350" END="3351">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3350" END="3351">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M2207">
+          <extent>
+              <charseq START="3374" END="3376">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3374" END="3376">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M2306">
+          <extent>
+              <charseq START="3464" END="3465">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3464" END="3465">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M2411">
+          <extent>
+              <charseq START="3595" END="3600">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="3595" END="3600">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M2501">
+          <extent>
+              <charseq START="3630" END="3635">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="3630" END="3635">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M2607">
+          <extent>
+              <charseq START="3747" END="3752">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="3747" END="3752">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M2601">
+          <extent>
+              <charseq START="3694" END="3695">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3694" END="3695">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M2704">
+          <extent>
+              <charseq START="3883" END="3888">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="3883" END="3888">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M2709">
+          <extent>
+              <charseq START="3911" END="3912">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3911" END="3912">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M2903">
+          <extent>
+              <charseq START="4149" END="4154">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="4149" END="4154">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M2909">
+          <extent>
+              <charseq START="4202" END="4203">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4202" END="4203">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M2911">
+          <extent>
+              <charseq START="4210" END="4211">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4210" END="4211">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M2923">
+          <extent>
+              <charseq START="4302" END="4304">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4302" END="4304">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M3200">
+          <extent>
+              <charseq START="4430" END="4435">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="4430" END="4435">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3201">
+          <extent>
+              <charseq START="4442" END="4443">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4442" END="4443">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M3307">
+          <extent>
+              <charseq START="4637" END="4642">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="4637" END="4642">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3404">
+          <extent>
+              <charseq START="4695" END="4696">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4695" END="4696">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3507">
+          <extent>
+              <charseq START="4780" END="4782">him</charseq>
+          </extent>
+          <head>
+              <charseq START="4780" END="4782">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M3613">
+          <extent>
+              <charseq START="4988" END="4993">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="4988" END="4993">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M3700">
+          <extent>
+              <charseq START="5055" END="5060">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="5055" END="5060">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3703">
+          <extent>
+              <charseq START="5067" END="5068">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5067" END="5068">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3713">
+          <extent>
+              <charseq START="5196" END="5197">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5196" END="5197">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3716">
+          <extent>
+              <charseq START="5223" END="5225">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5223" END="5225">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3800">
+          <extent>
+              <charseq START="5233" END="5234">He</charseq>
+          </extent>
+          <head>
+              <charseq START="5233" END="5234">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M3917">
+          <extent>
+              <charseq START="5433" END="5438">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="5433" END="5438">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E5-M3908">
+          <extent>
+              <charseq START="5368" END="5377">his father</charseq>
+          </extent>
+          <head>
+              <charseq START="5372" END="5377">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3905">
+          <extent>
+              <charseq START="5353" END="5354">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5353" END="5354">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3910">
+          <extent>
+              <charseq START="5395" END="5396">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5395" END="5396">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M3914">
+          <extent>
+              <charseq START="5405" END="5407">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5405" END="5407">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M4004">
+          <extent>
+              <charseq START="5490" END="5495">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="5490" END="5495">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M4002">
+          <extent>
+              <charseq START="5465" END="5466">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5465" END="5466">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M4100">
+          <extent>
+              <charseq START="5504" END="5505">He</charseq>
+          </extent>
+          <head>
+              <charseq START="5504" END="5505">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M4202">
+          <extent>
+              <charseq START="5528" END="5530">him</charseq>
+          </extent>
+          <head>
+              <charseq START="5528" END="5530">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M4300">
+          <extent>
+              <charseq START="5560" END="5565">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="5560" END="5565">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M4301">
+          <extent>
+              <charseq START="5572" END="5573">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5572" END="5573">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M4304">
+          <extent>
+              <charseq START="5603" END="5604">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5603" END="5604">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E5-M4414">
+          <extent>
+              <charseq START="5772" END="5777">Ceglia</charseq>
+          </extent>
+          <head>
+              <charseq START="5772" END="5777">Ceglia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E5-M4411">
+          <extent>
+              <charseq START="5738" END="5740">him</charseq>
+          </extent>
+          <head>
+              <charseq START="5738" END="5740">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paul Ceglia">
+              <charseq START="246" END="256">Paul Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="450" END="455">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="866" END="871">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="1376" END="1381">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="1503" END="1508">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="1874" END="1879">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="2001" END="2006">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="2408" END="2413">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="2449" END="2454">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="2656" END="2661">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="2747" END="2752">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="2867" END="2872">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="3188" END="3193">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="3338" END="3343">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="3595" END="3600">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="3630" END="3635">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="3747" END="3752">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="3883" END="3888">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="4149" END="4154">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="4430" END="4435">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="4637" END="4642">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="4988" END="4993">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="5055" END="5060">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="5433" END="5438">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="5490" END="5495">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="5560" END="5565">Ceglia</charseq>
+          </name>
+          <name NAME="Ceglia">
+              <charseq START="5772" END="5777">Ceglia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M213">
+          <extent>
+              <charseq START="310" END="318">Facebook,</charseq>
+          </extent>
+          <head>
+              <charseq START="310" END="317">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M412">
+          <extent>
+              <charseq START="838" END="845">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="838" END="845">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M907">
+          <extent>
+              <charseq START="1571" END="1591">Calif.-based Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1584" END="1591">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M1100">
+          <extent>
+              <charseq START="1773" END="1780">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1773" END="1780">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M1205">
+          <extent>
+              <charseq START="1960" END="1967">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="1960" END="1967">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M1714">
+          <extent>
+              <charseq START="2564" END="2571">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="2564" END="2571">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M2404">
+          <extent>
+              <charseq START="3509" END="3516">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="3509" END="3516">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M2606">
+          <extent>
+              <charseq START="3735" END="3742">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="3735" END="3742">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M2700">
+          <extent>
+              <charseq START="3815" END="3822">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="3815" END="3822">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M2803">
+          <extent>
+              <charseq START="4007" END="4014">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="4007" END="4014">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E6-M4405">
+          <extent>
+              <charseq START="5694" END="5701">Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="5694" END="5701">Facebook</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Facebook">
+              <charseq START="310" END="317">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="838" END="845">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="1584" END="1591">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="1773" END="1780">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="1960" END="1967">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="2564" END="2571">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="3509" END="3516">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="3735" END="3742">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="3815" END="3822">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="4007" END="4014">Facebook</charseq>
+          </name>
+          <name NAME="Facebook">
+              <charseq START="5694" END="5701">Facebook</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E7-M217">
+          <extent>
+              <charseq START="365" END="378">state troopers</charseq>
+          </extent>
+          <head>
+              <charseq START="371" END="378">troopers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E8-M219">
+          <extent>
+              <charseq START="395" END="414">his house in October</charseq>
+          </extent>
+          <head>
+              <charseq START="399" END="403">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E8-M327">
+          <extent>
+              <charseq START="711" END="732">his home in Wellsville</charseq>
+          </extent>
+          <head>
+              <charseq START="715" END="718">home</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E8-M2922">
+          <extent>
+              <charseq START="4302" END="4310">his house</charseq>
+          </extent>
+          <head>
+              <charseq START="4306" END="4310">house</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E8-M3916">
+          <extent>
+              <charseq START="5427" END="5430">home</charseq>
+          </extent>
+          <head>
+              <charseq START="5427" END="5430">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E10-M305">
+          <extent>
+              <charseq START="480" END="517">New York Attorney General Andrew Cuomo</charseq>
+          </extent>
+          <head>
+              <charseq START="506" END="517">Andrew Cuomo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E10-M308">
+          <extent>
+              <charseq START="498" END="504">General</charseq>
+          </extent>
+          <head>
+              <charseq START="498" END="504">General</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrew Cuomo">
+              <charseq START="506" END="517">Andrew Cuomo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E11-M323">
+          <extent>
+              <charseq START="673" END="681">customers</charseq>
+          </extent>
+          <head>
+              <charseq START="673" END="681">customers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M408">
+          <extent>
+              <charseq START="790" END="804">Mark Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="790" END="804">Mark Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E12-M409">
+          <extent>
+              <charseq START="807" END="845">now chief executive officer
+of Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="827" END="833">officer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E12-M413">
+          <extent>
+              <charseq START="848" END="849">he</charseq>
+          </extent>
+          <head>
+              <charseq START="848" END="849">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M910">
+          <extent>
+              <charseq START="1597" END="1606">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="1597" END="1606">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M1411">
+          <extent>
+              <charseq START="2304" END="2313">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="2304" END="2313">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M1709">
+          <extent>
+              <charseq START="2515" END="2531">claims
+Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="2522" END="2531">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E12-M1710">
+          <extent>
+              <charseq START="2515" END="2520">claims</charseq>
+          </extent>
+          <head>
+              <charseq START="2515" END="2520">claims</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M1804">
+          <extent>
+              <charseq START="2677" END="2686">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="2677" END="2686">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M2408">
+          <extent>
+              <charseq START="3556" END="3565">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="3556" END="3565">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M2500">
+          <extent>
+              <charseq START="3603" END="3612">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="3603" END="3612">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M2703">
+          <extent>
+              <charseq START="3852" END="3861">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="3852" END="3861">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M2807">
+          <extent>
+              <charseq START="4054" END="4063">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="4054" END="4063">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E12-M2811">
+          <extent>
+              <charseq START="4098" END="4099">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4098" END="4099">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M3005">
+          <extent>
+              <charseq START="4350" END="4359">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="4350" END="4359">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E12-M3006">
+          <extent>
+              <charseq START="4368" END="4374">a mogul</charseq>
+          </extent>
+          <head>
+              <charseq START="4370" END="4374">mogul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M3203">
+          <extent>
+              <charseq START="4451" END="4460">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="4451" END="4460">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M3300">
+          <extent>
+              <charseq START="4557" END="4566">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="4557" END="4566">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E12-M3301">
+          <extent>
+              <charseq START="4572" END="4585">the low bidder</charseq>
+          </extent>
+          <head>
+              <charseq START="4580" END="4585">bidder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M3506">
+          <extent>
+              <charseq START="4759" END="4768">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="4759" END="4768">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M3704">
+          <extent>
+              <charseq START="5080" END="5151">the 18-year-old Zuckerberg as &quot;probably one of the most
+difficult people</charseq>
+          </extent>
+          <head>
+              <charseq START="5096" END="5105">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M3902">
+          <extent>
+              <charseq START="5278" END="5287">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="5278" END="5287">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E12-M3904">
+          <extent>
+              <charseq START="5320" END="5322">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5320" END="5322">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E12-M3909">
+          <extent>
+              <charseq START="5368" END="5370">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5368" END="5370">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E12-M4306">
+          <extent>
+              <charseq START="5619" END="5628">Zuckerberg</charseq>
+          </extent>
+          <head>
+              <charseq START="5619" END="5628">Zuckerberg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Zuckerberg">
+              <charseq START="790" END="804">Mark Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="1597" END="1606">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="2304" END="2313">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="2522" END="2531">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="2677" END="2686">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="3556" END="3565">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="3603" END="3612">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="3852" END="3861">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="4054" END="4063">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="4350" END="4359">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="4451" END="4460">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="4557" END="4566">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="4759" END="4768">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="5096" END="5105">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="5278" END="5287">Zuckerberg</charseq>
+          </name>
+          <name NAME="Zuckerberg">
+              <charseq START="5619" END="5628">Zuckerberg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E13-M513">
+          <extent>
+              <charseq START="992" END="1004">central banks</charseq>
+          </extent>
+          <head>
+              <charseq START="1000" END="1004">banks</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E13-M521">
+          <extent>
+              <charseq START="1051" END="1061">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="1055" END="1061">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E13-M613">
+          <extent>
+              <charseq START="1221" END="1231">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="1225" END="1231">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E13-M1314">
+          <extent>
+              <charseq START="2182" END="2192">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="2186" END="2192">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E13-M4413">
+          <extent>
+              <charseq START="5758" END="5768">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="5762" END="5768">company</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E15" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E15-M608">
+          <extent>
+              <charseq START="1116" END="1124">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="1120" END="1124">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E17-M906">
+          <extent>
+              <charseq START="1560" END="1568">Palo
+Alto</charseq>
+          </extent>
+          <head>
+              <charseq START="1560" END="1568">Palo
+Alto</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Palo
+Alto">
+              <charseq START="1560" END="1568">Palo
+Alto</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E18" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E18-M908" ROLE="LOC">
+          <extent>
+              <charseq START="1571" END="1576">Calif.</charseq>
+          </extent>
+          <head>
+              <charseq START="1571" END="1576">Calif.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Calif.">
+              <charseq START="1571" END="1576">Calif.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E19-M912">
+          <extent>
+              <charseq START="1626" END="1645">New York state
+court</charseq>
+          </extent>
+          <head>
+              <charseq START="1641" END="1645">court</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E19-M3617">
+          <extent>
+              <charseq START="5033" END="5043">state court</charseq>
+          </extent>
+          <head>
+              <charseq START="5039" END="5043">court</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E20-M915">
+          <extent>
+              <charseq START="1648" END="1656">observers</charseq>
+          </extent>
+          <head>
+              <charseq START="1648" END="1656">observers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E21-M1413">
+          <extent>
+              <charseq START="2328" END="2333">a jury</charseq>
+          </extent>
+          <head>
+              <charseq START="2330" END="2333">jury</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E22" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E22-M1716">
+          <extent>
+              <charseq START="2608" END="2614">Harvard</charseq>
+          </extent>
+          <head>
+              <charseq START="2608" END="2614">Harvard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E22-M2808">
+          <extent>
+              <charseq START="4067" END="4073">Harvard</charseq>
+          </extent>
+          <head>
+              <charseq START="4067" END="4073">Harvard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Harvard">
+              <charseq START="2608" END="2614">Harvard</charseq>
+          </name>
+          <name NAME="Harvard">
+              <charseq START="4067" END="4073">Harvard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E23-M1808">
+          <extent>
+              <charseq START="2722" END="2734">StreetFax LLC</charseq>
+          </extent>
+          <head>
+              <charseq START="2722" END="2734">StreetFax LLC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E23-M1809">
+          <extent>
+              <charseq START="2737" END="2745">a company</charseq>
+          </extent>
+          <head>
+              <charseq START="2739" END="2745">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E23-M3208">
+          <extent>
+              <charseq START="4485" END="4493">StreetFax</charseq>
+          </extent>
+          <head>
+              <charseq START="4485" END="4493">StreetFax</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E23-M3505">
+          <extent>
+              <charseq START="4743" END="4751">StreetFax</charseq>
+          </extent>
+          <head>
+              <charseq START="4743" END="4751">StreetFax</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="StreetFax LLC">
+              <charseq START="2722" END="2734">StreetFax LLC</charseq>
+          </name>
+          <name NAME="StreetFax">
+              <charseq START="4485" END="4493">StreetFax</charseq>
+          </name>
+          <name NAME="StreetFax">
+              <charseq START="4743" END="4751">StreetFax</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E24-M2015">
+          <extent>
+              <charseq START="3149" END="3165">a larger audience</charseq>
+          </extent>
+          <head>
+              <charseq START="3158" END="3165">audience</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E25-M2302">
+          <extent>
+              <charseq START="3430" END="3439">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="3435" END="3439">other</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E26-M2401">
+          <extent>
+              <charseq START="3482" END="3493">Lisa Simpson</charseq>
+          </extent>
+          <head>
+              <charseq START="3482" END="3493">Lisa Simpson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E26-M2402">
+          <extent>
+              <charseq START="3496" END="3516">a lawyer for Facebook</charseq>
+          </extent>
+          <head>
+              <charseq START="3498" END="3503">lawyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E26-M2505">
+          <extent>
+              <charseq START="3670" END="3672">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3670" END="3672">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100802.0043-E26-M2608">
+          <extent>
+              <charseq START="3755" END="3757">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3755" END="3757">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lisa Simpson">
+              <charseq START="3482" END="3493">Lisa Simpson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E27-M2610">
+          <extent>
+              <charseq START="3764" END="3797">U.S.
+District Judge Richard Arcara</charseq>
+          </extent>
+          <head>
+              <charseq START="3784" END="3797">Richard Arcara</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E27-M2613">
+          <extent>
+              <charseq START="3778" END="3782">Judge</charseq>
+          </extent>
+          <head>
+              <charseq START="3778" END="3782">Judge</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E27-M3602">
+          <extent>
+              <charseq START="4879" END="4884">Arcara</charseq>
+          </extent>
+          <head>
+              <charseq START="4879" END="4884">Arcara</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Richard Arcara">
+              <charseq START="3784" END="3797">Richard Arcara</charseq>
+          </name>
+          <name NAME="Arcara">
+              <charseq START="4879" END="4884">Arcara</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E28-M2611" ROLE="GPE">
+          <extent>
+              <charseq START="3764" END="3767">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="3764" END="3767">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="3764" END="3767">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E29" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E29-M2806">
+          <extent>
+              <charseq START="4054" END="4083">Zuckerberg&apos;s Harvard dorm room</charseq>
+          </extent>
+          <head>
+              <charseq START="4080" END="4083">room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E30-M2918">
+          <extent>
+              <charseq START="4255" END="4259">Amish</charseq>
+          </extent>
+          <head>
+              <charseq START="4255" END="4259">Amish</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Amish">
+              <charseq START="4255" END="4259">Amish</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E31" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E31-M2906">
+          <extent>
+              <charseq START="4174" END="4310">the wood pellet-making shop he
+said he built himself, with the help of two local Amish men, in an enlarged two-
+car garage near his house</charseq>
+          </extent>
+          <head>
+              <charseq START="4197" END="4200">shop</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E32-M2917">
+          <extent>
+              <charseq START="4245" END="4263">two local Amish men</charseq>
+          </extent>
+          <head>
+              <charseq START="4261" END="4263">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E33-M2919">
+          <extent>
+              <charseq START="4269" END="4310">an enlarged two-
+car garage near his house</charseq>
+          </extent>
+          <head>
+              <charseq START="4290" END="4295">garage</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E34" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E34-M2921">
+          <extent>
+              <charseq START="4286" END="4288">car</charseq>
+          </extent>
+          <head>
+              <charseq START="4286" END="4288">car</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E35" TYPE="FAC" SUBTYPE="Plant" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E35-M3003">
+          <extent>
+              <charseq START="4327" END="4343">my little factory</charseq>
+          </extent>
+          <head>
+              <charseq START="4337" END="4343">factory</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E36" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E36-M3210">
+          <extent>
+              <charseq START="4510" END="4519">Craigslist</charseq>
+          </extent>
+          <head>
+              <charseq START="4510" END="4519">Craigslist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Craigslist">
+              <charseq START="4510" END="4519">Craigslist</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E37" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100802.0043-E37-M3403" ROLE="LOC">
+          <extent>
+              <charseq START="4687" END="4692">Boston</charseq>
+          </extent>
+          <head>
+              <charseq START="4687" END="4692">Boston</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boston">
+              <charseq START="4687" END="4692">Boston</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E38-M3400">
+          <extent>
+              <charseq START="4645" END="4651">The two</charseq>
+          </extent>
+          <head>
+              <charseq START="4649" END="4651">two</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E39" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E39-M3402">
+          <extent>
+              <charseq START="4676" END="4682">a hotel</charseq>
+          </extent>
+          <head>
+              <charseq START="4678" END="4682">hotel</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E40" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E40-M3601">
+          <extent>
+              <charseq START="4845" END="4855">the parties</charseq>
+          </extent>
+          <head>
+              <charseq START="4849" END="4855">parties</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E41-M3709">
+          <extent>
+              <charseq START="5127" END="5151">the most
+difficult people</charseq>
+          </extent>
+          <head>
+              <charseq START="5146" END="5151">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100802.0043-E43" TYPE="VEH" SUBTYPE="Water" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100802.0043-E43-M3907">
+          <extent>
+              <charseq START="5368" END="5384">his father&apos;s boat</charseq>
+          </extent>
+          <head>
+              <charseq START="5381" END="5384">boat</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <value ID="WPB_ENG_20100802.0043-V0" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="WPB_ENG_20100802.0043-V0-M1">
+            <extent>
+              <charseq START="296" END="305">84 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T1" VAL="2009-10">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T1-M1">
+            <extent>
+              <charseq START="408" END="414">October</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T2" VAL="P2M">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T2-M1">
+            <extent>
+              <charseq START="519" END="534">two months
+later</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T3" VAL="2003">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T3-M1">
+            <extent>
+              <charseq START="771" END="774">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T4" VAL="PRESENT_REF" ANCHOR_VAL="2010-08-02" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T4-M1">
+            <extent>
+              <charseq START="807" END="809">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100802.0043-V5" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100802.0043-V5-M1">
+            <extent>
+              <charseq START="1183" END="1199">about $21 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T6" VAL="PXW">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T6-M1">
+            <extent>
+              <charseq START="1487" END="1495">the weeks</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T7" VAL="2010-06-30">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T7-M1">
+            <extent>
+              <charseq START="1615" END="1621">June 30</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T8" VAL="2003-04">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T8-M1">
+            <extent>
+              <charseq START="2543" END="2552">April 2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T9" VAL="P18Y">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T9-M1">
+            <extent>
+              <charseq START="2584" END="2594">18-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100802.0043-V10" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100802.0043-V10-M1">
+            <extent>
+              <charseq START="2688" END="2693">$1,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T11">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T11-M1">
+            <extent>
+              <charseq START="2798" END="2805">the time</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100802.0043-V12" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100802.0043-V12-M1">
+            <extent>
+              <charseq START="2846" END="2851">$1,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T13" VAL="2004-01-01" MOD="AFTER">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T13-M1">
+            <extent>
+              <charseq START="3252" END="3278">each day after Jan. 1, 2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T14" VAL="P1Y" MOD="MORE_THAN">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T14-M1">
+            <extent>
+              <charseq START="3445" END="3460">more than a year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T15" VAL="2010-07-20">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T15-M1">
+            <extent>
+              <charseq START="3543" END="3549">July 20</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T16" VAL="2003">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T16-M1">
+            <extent>
+              <charseq START="3664" END="3667">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T17" VAL="P1Y">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T17-M1">
+            <extent>
+              <charseq START="3939" END="3956">the following year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T18" VAL="2004">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T18-M1">
+            <extent>
+              <charseq START="4088" END="4091">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T19" VAL="PRESENT_REF" ANCHOR_VAL="2010-08-02" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T19-M1">
+            <extent>
+              <charseq START="4364" END="4366">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T20" VAL="2003">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T20-M1">
+            <extent>
+              <charseq START="4414" END="4417">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100802.0043-V21" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100802.0043-V21-M1">
+            <extent>
+              <charseq START="4616" END="4621">$1,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="WPB_ENG_20100802.0043-V22" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100802.0043-V22-M1">
+            <extent>
+              <charseq START="4794" END="4799">$1,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T23" VAL="2010-08-06">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T23-M1">
+            <extent>
+              <charseq START="4838" END="4843">Aug. 6</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T24" VAL="P18Y">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T24-M1">
+            <extent>
+              <charseq START="5084" END="5094">18-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T25" VAL="2010-08-02">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T25-M1">
+            <extent>
+              <charseq START="5532" END="5536">today</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T26" VAL="P1D">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T26-M1">
+            <extent>
+              <charseq START="5592" END="5596">a day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100802.0043-T27" VAL="FUTURE_REF" ANCHOR_VAL="2010-08-02" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="WPB_ENG_20100802.0043-T27-M1">
+            <extent>
+              <charseq START="5667" END="5676">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="WPB_ENG_20100802.0043-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E3" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R0-M200">
+          <extent>
+              <charseq START="365" END="378">state troopers</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E7-M217" ROLE="Arg-1">
+            <extent>
+              <charseq START="365" END="378">state troopers</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E3-M218" ROLE="Arg-2">
+            <extent>
+              <charseq START="365" END="369">state</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E8" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R1-M201">
+          <extent>
+              <charseq START="395" END="397">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E5-M221" ROLE="Arg-1">
+            <extent>
+              <charseq START="395" END="397">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E8-M219" ROLE="Arg-2">
+            <extent>
+              <charseq START="395" END="414">his house in October</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="WPB_ENG_20100802.0043-R1-M301">
+          <extent>
+              <charseq START="711" END="713">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E5-M329" ROLE="Arg-1">
+            <extent>
+              <charseq START="711" END="713">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E8-M327" ROLE="Arg-2">
+            <extent>
+              <charseq START="711" END="732">his home in Wellsville</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="WPB_ENG_20100802.0043-R1-M2901">
+          <extent>
+              <charseq START="4302" END="4304">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E5-M2923" ROLE="Arg-1">
+            <extent>
+              <charseq START="4302" END="4304">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E8-M2922" ROLE="Arg-2">
+            <extent>
+              <charseq START="4302" END="4310">his house</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E4" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R2-M300">
+          <extent>
+              <charseq START="498" END="504">General</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E10-M308" ROLE="Arg-1">
+            <extent>
+              <charseq START="498" END="504">General</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E4-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="480" END="487">New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E3" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R3-M302">
+          <extent>
+              <charseq START="711" END="732">his home in Wellsville</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E8-M327" ROLE="Arg-1">
+            <extent>
+              <charseq START="711" END="732">his home in Wellsville</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E3-M330" ROLE="Arg-2">
+            <extent>
+              <charseq START="723" END="732">Wellsville</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E6" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R4-M400">
+          <extent>
+              <charseq START="807" END="845">now chief executive officer
+of Facebook</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E12-M409" ROLE="Arg-1">
+            <extent>
+              <charseq START="807" END="845">now chief executive officer
+of Facebook</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E6-M412" ROLE="Arg-2">
+            <extent>
+              <charseq START="838" END="845">Facebook</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E4" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R5-M500">
+          <extent>
+              <charseq START="878" END="1004">a self-described environmentalist from western New York who wants to
+legalize drugs and has views on the evils of central banks</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E5-M503" ROLE="Arg-1">
+            <extent>
+              <charseq START="878" END="1004">a self-described environmentalist from western New York who wants to
+legalize drugs and has views on the evils of central banks</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E4-M505" ROLE="Arg-2">
+            <extent>
+              <charseq START="917" END="932">western New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E18" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R6-M900">
+          <extent>
+              <charseq START="1560" END="1568">Palo
+Alto</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E17-M906" ROLE="Arg-1">
+            <extent>
+              <charseq START="1560" END="1568">Palo
+Alto</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E18-M908" ROLE="Arg-2">
+            <extent>
+              <charseq START="1571" END="1576">Calif.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E18" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R7-M901">
+          <extent>
+              <charseq START="1571" END="1591">Calif.-based Facebook</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E6-M907" ROLE="Arg-1">
+            <extent>
+              <charseq START="1571" END="1591">Calif.-based Facebook</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E18-M908" ROLE="Arg-2">
+            <extent>
+              <charseq START="1571" END="1576">Calif.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R8" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E4" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R8-M902">
+          <extent>
+              <charseq START="1626" END="1645">New York state
+court</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E19-M912" ROLE="Arg-1">
+            <extent>
+              <charseq START="1626" END="1645">New York state
+court</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E4-M913" ROLE="Arg-2">
+            <extent>
+              <charseq START="1626" END="1633">New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R9" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E3" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R9-M903">
+          <extent>
+              <charseq START="1626" END="1645">New York state
+court</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E19-M912" ROLE="Arg-1">
+            <extent>
+              <charseq START="1626" END="1645">New York state
+court</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E3-M914" ROLE="Arg-2">
+            <extent>
+              <charseq START="1635" END="1639">state</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="WPB_ENG_20100802.0043-R9-M3600">
+          <extent>
+              <charseq START="5033" END="5043">state court</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E19-M3617" ROLE="Arg-1">
+            <extent>
+              <charseq START="5033" END="5043">state court</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E3-M3618" ROLE="Arg-2">
+            <extent>
+              <charseq START="5033" END="5037">state</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E6" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R10-M1700">
+          <extent>
+              <charseq START="2560" END="2575">the Facebook CEO</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E5-M1713" ROLE="Arg-1">
+            <extent>
+              <charseq START="2560" END="2575">the Facebook CEO</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E6-M1714" ROLE="Arg-2">
+            <extent>
+              <charseq START="2564" END="2571">Facebook</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E22" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R11-M1701">
+          <extent>
+              <charseq START="2581" END="2603">an 18-year-old
+freshman</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E5-M1715" ROLE="Arg-1">
+            <extent>
+              <charseq START="2581" END="2603">an 18-year-old
+freshman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E22-M1716" ROLE="Arg-2">
+            <extent>
+              <charseq START="2608" END="2614">Harvard</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R12" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E23" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R12-M1800">
+          <extent>
+              <charseq START="2677" END="2686">Zuckerberg</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E12-M1804" ROLE="Arg-1">
+            <extent>
+              <charseq START="2677" END="2686">Zuckerberg</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E23-M1808" ROLE="Arg-2">
+            <extent>
+              <charseq START="2722" END="2734">StreetFax LLC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R13" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E6" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R13-M2400">
+          <extent>
+              <charseq START="3496" END="3516">a lawyer for Facebook</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E26-M2402" ROLE="Arg-1">
+            <extent>
+              <charseq START="3496" END="3516">a lawyer for Facebook</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E6-M2404" ROLE="Arg-2">
+            <extent>
+              <charseq START="3509" END="3516">Facebook</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R14" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E28" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R14-M2600">
+          <extent>
+              <charseq START="3778" END="3782">Judge</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E27-M2613" ROLE="Arg-1">
+            <extent>
+              <charseq START="3778" END="3782">Judge</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E28-M2611" ROLE="Arg-2">
+            <extent>
+              <charseq START="3764" END="3767">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R15" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E29" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R15-M2800">
+          <extent>
+              <charseq START="4054" END="4063">Zuckerberg</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E12-M2807" ROLE="Arg-1">
+            <extent>
+              <charseq START="4054" END="4063">Zuckerberg</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E29-M2806" ROLE="Arg-2">
+            <extent>
+              <charseq START="4054" END="4083">Zuckerberg&apos;s Harvard dorm room</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R16" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E29" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R16-M2801">
+          <extent>
+              <charseq START="4067" END="4073">Harvard</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E22-M2808" ROLE="Arg-1">
+            <extent>
+              <charseq START="4067" END="4073">Harvard</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E29-M2806" ROLE="Arg-2">
+            <extent>
+              <charseq START="4054" END="4083">Zuckerberg&apos;s Harvard dorm room</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R17" TYPE="PHYS" SUBTYPE="Near" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E33" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E8" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R17-M2900">
+          <extent>
+              <charseq START="4269" END="4310">an enlarged two-
+car garage near his house</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E33-M2919" ROLE="Arg-1">
+            <extent>
+              <charseq START="4269" END="4310">an enlarged two-
+car garage near his house</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E8-M2922" ROLE="Arg-2">
+            <extent>
+              <charseq START="4302" END="4310">his house</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R19" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E37" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R19-M3400">
+          <extent>
+              <charseq START="4676" END="4682">a hotel</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E39-M3402" ROLE="Arg-1">
+            <extent>
+              <charseq START="4676" END="4682">a hotel</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E37-M3403" ROLE="Arg-2">
+            <extent>
+              <charseq START="4687" END="4692">Boston</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R20" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E43" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R20-M3900">
+          <extent>
+              <charseq START="5368" END="5377">his father</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E5-M3908" ROLE="Arg-1">
+            <extent>
+              <charseq START="5368" END="5377">his father</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E43-M3907" ROLE="Arg-2">
+            <extent>
+              <charseq START="5368" END="5384">his father&apos;s boat</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100802.0043-R21" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100802.0043-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100802.0043-E5" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100802.0043-R21-M3901">
+          <extent>
+              <charseq START="5368" END="5370">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E12-M3909" ROLE="Arg-1">
+            <extent>
+              <charseq START="5368" END="5370">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100802.0043-E5-M3908" ROLE="Arg-2">
+            <extent>
+              <charseq START="5368" END="5377">his father</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

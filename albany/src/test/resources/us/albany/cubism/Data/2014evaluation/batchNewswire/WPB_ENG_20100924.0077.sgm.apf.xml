@@ -1,0 +1,2526 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="WPB_ENG_20100924.0077">
+  <document DOCID="WPB_ENG_20100924.0077">
+
+    <entity ID="WPB_ENG_20100924.0077-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E0-M10">
+          <extent>
+              <charseq START="139" END="145">Norfolk</charseq>
+          </extent>
+          <head>
+              <charseq START="139" END="145">Norfolk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E0-M200">
+          <extent>
+              <charseq START="262" END="269">NORFOLK,</charseq>
+          </extent>
+          <head>
+              <charseq START="262" END="268">NORFOLK</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E0-M1516">
+          <extent>
+              <charseq START="2763" END="2769">Norfolk</charseq>
+          </extent>
+          <head>
+              <charseq START="2763" END="2769">Norfolk</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E0-M4204">
+          <extent>
+              <charseq START="6046" END="6052">Norfolk</charseq>
+          </extent>
+          <head>
+              <charseq START="6046" END="6052">Norfolk</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Norfolk">
+              <charseq START="139" END="145">Norfolk</charseq>
+          </name>
+          <name NAME="NORFOLK">
+              <charseq START="262" END="268">NORFOLK</charseq>
+          </name>
+          <name NAME="Norfolk">
+              <charseq START="2763" END="2769">Norfolk</charseq>
+          </name>
+          <name NAME="Norfolk">
+              <charseq START="6046" END="6052">Norfolk</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E1-M102">
+          <extent>
+              <charseq START="174" END="194">Rosalind S. Helderman</charseq>
+          </extent>
+          <head>
+              <charseq START="174" END="194">Rosalind S. Helderman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rosalind S. Helderman">
+              <charseq START="174" END="194">Rosalind S. Helderman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E2-M103" ROLE="GPE">
+          <extent>
+              <charseq START="196" END="205">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="196" END="205">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="196" END="205">WASHINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M203">
+          <extent>
+              <charseq START="271" END="273">Va.</charseq>
+          </extent>
+          <head>
+              <charseq START="271" END="273">Va.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M204">
+          <extent>
+              <charseq START="277" END="284">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="284">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M216" ROLE="LOC">
+          <extent>
+              <charseq START="371" END="378">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="371" END="378">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M307">
+          <extent>
+              <charseq START="667" END="676">Virginians</charseq>
+          </extent>
+          <head>
+              <charseq START="667" END="676">Virginians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E3-M806">
+          <extent>
+              <charseq START="1315" END="1323">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="1319" END="1323">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E3-M807">
+          <extent>
+              <charseq START="1334" END="1363">the capital of the Confederacy</charseq>
+          </extent>
+          <head>
+              <charseq START="1338" END="1344">capital</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M1210">
+          <extent>
+              <charseq START="1972" END="1979">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="1972" END="1979">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M1224" ROLE="LOC">
+          <extent>
+              <charseq START="2152" END="2159">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="2152" END="2159">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M1402">
+          <extent>
+              <charseq START="2333" END="2340">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="2333" END="2340">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M1504">
+          <extent>
+              <charseq START="2661" END="2668">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="2661" END="2668">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M1520">
+          <extent>
+              <charseq START="2784" END="2791">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="2784" END="2791">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M1904">
+          <extent>
+              <charseq START="3319" END="3326">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="3319" END="3326">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M2626">
+          <extent>
+              <charseq START="4281" END="4288">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="4281" END="4288">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E3-M2618">
+          <extent>
+              <charseq START="4213" END="4221">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="4217" END="4221">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M2700">
+          <extent>
+              <charseq START="4355" END="4371">A modern Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="4364" END="4371">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M2800">
+          <extent>
+              <charseq START="4444" END="4460">a modern Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="4453" END="4460">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M2907">
+          <extent>
+              <charseq START="4637" END="4644">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="4637" END="4644">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E3-M2909">
+          <extent>
+              <charseq START="4670" END="4672">its</charseq>
+          </extent>
+          <head>
+              <charseq START="4670" END="4672">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E3-M2912">
+          <extent>
+              <charseq START="4703" END="4705">its</charseq>
+          </extent>
+          <head>
+              <charseq START="4703" END="4705">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E3-M3003">
+          <extent>
+              <charseq START="4734" END="4742">the state</charseq>
+          </extent>
+          <head>
+              <charseq START="4738" END="4742">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M3203" ROLE="LOC">
+          <extent>
+              <charseq START="5037" END="5044">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="5037" END="5044">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M3611" ROLE="GPE">
+          <extent>
+              <charseq START="5538" END="5545">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="5538" END="5545">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E3-M3903">
+          <extent>
+              <charseq START="5791" END="5798">Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="5791" END="5798">Virginia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Va.">
+              <charseq START="271" END="273">Va.</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="277" END="284">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="371" END="378">Virginia</charseq>
+          </name>
+          <name NAME="Virginians">
+              <charseq START="667" END="676">Virginians</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="1972" END="1979">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="2152" END="2159">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="2333" END="2340">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="2661" END="2668">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="2784" END="2791">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="3319" END="3326">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="4281" END="4288">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="4364" END="4371">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="4453" END="4460">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="4637" END="4644">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="5037" END="5044">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="5538" END="5545">Virginia</charseq>
+          </name>
+          <name NAME="Virginia">
+              <charseq START="5791" END="5798">Virginia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M205">
+          <extent>
+              <charseq START="286" END="306">Gov. Robert McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="291" END="306">Robert McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E4-M206">
+          <extent>
+              <charseq START="286" END="289">Gov.</charseq>
+          </extent>
+          <head>
+              <charseq START="286" END="289">Gov.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M209">
+          <extent>
+              <charseq START="330" END="331">he</charseq>
+          </extent>
+          <head>
+              <charseq START="330" END="331">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M221">
+          <extent>
+              <charseq START="432" END="444">he once again</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="433">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M306">
+          <extent>
+              <charseq START="647" END="655">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="647" END="655">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M400">
+          <extent>
+              <charseq START="745" END="746">He</charseq>
+          </extent>
+          <head>
+              <charseq START="745" END="746">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M511">
+          <extent>
+              <charseq START="992" END="993">he</charseq>
+          </extent>
+          <head>
+              <charseq START="992" END="993">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M700">
+          <extent>
+              <charseq START="1051" END="1059">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="1051" END="1059">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M703">
+          <extent>
+              <charseq START="1119" END="1120">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1119" END="1120">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M803">
+          <extent>
+              <charseq START="1255" END="1263">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="1255" END="1263">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M901">
+          <extent>
+              <charseq START="1388" END="1396">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="1388" END="1396">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M1001">
+          <extent>
+              <charseq START="1506" END="1514">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="1506" END="1514">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M1014">
+          <extent>
+              <charseq START="1617" END="1619">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1617" END="1619">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M1017">
+          <extent>
+              <charseq START="1653" END="1655">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1653" END="1655">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M1104">
+          <extent>
+              <charseq START="1756" END="1758">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1756" END="1758">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M1113">
+          <extent>
+              <charseq START="1840" END="1842">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1840" END="1842">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M1216">
+          <extent>
+              <charseq START="2040" END="2048">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="2040" END="2048">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M1218">
+          <extent>
+              <charseq START="2075" END="2076">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2075" END="2076">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M1300">
+          <extent>
+              <charseq START="2162" END="2163">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2162" END="2163">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M1405">
+          <extent>
+              <charseq START="2367" END="2368">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2367" END="2368">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M1600">
+          <extent>
+              <charseq START="2830" END="2838">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="2830" END="2838">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E4-M1601">
+          <extent>
+              <charseq START="2847" END="2864">the first governor</charseq>
+          </extent>
+          <head>
+              <charseq START="2857" END="2864">governor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M2301">
+          <extent>
+              <charseq START="3664" END="3672">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="3664" END="3672">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M2305">
+          <extent>
+              <charseq START="3726" END="3728">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3726" END="3728">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M2400">
+          <extent>
+              <charseq START="3739" END="3740">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3739" END="3740">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M2408">
+          <extent>
+              <charseq START="3823" END="3825">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3823" END="3825">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M2501">
+          <extent>
+              <charseq START="3888" END="3889">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3888" END="3889">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M2602">
+          <extent>
+              <charseq START="4099" END="4100">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4099" END="4100">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M2605">
+          <extent>
+              <charseq START="4106" END="4108">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4106" END="4108">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M2706">
+          <extent>
+              <charseq START="4430" END="4431">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4430" END="4431">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M2900">
+          <extent>
+              <charseq START="4565" END="4566">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4565" END="4566">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E4-M3007">
+          <extent>
+              <charseq START="4792" END="4840">the nation&apos;s
+first elected black governor in 1989</charseq>
+          </extent>
+          <head>
+              <charseq START="4825" END="4832">governor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M3000">
+          <extent>
+              <charseq START="4718" END="4719">He</charseq>
+          </extent>
+          <head>
+              <charseq START="4718" END="4719">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M3102">
+          <extent>
+              <charseq START="4868" END="4869">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4868" END="4869">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M3403">
+          <extent>
+              <charseq START="5130" END="5138">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="5130" END="5138">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E4-M3407">
+          <extent>
+              <charseq START="5207" END="5313">the governor called him Friday morning to discuss
+the remarks, which Wilder described as &quot;very impressive.&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="5211" END="5218">governor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M3405">
+          <extent>
+              <charseq START="5172" END="5174">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5172" END="5174">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M3409">
+          <extent>
+              <charseq START="5227" END="5229">him</charseq>
+          </extent>
+          <head>
+              <charseq START="5227" END="5229">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E4-M3500">
+          <extent>
+              <charseq START="5325" END="5336">The governor</charseq>
+          </extent>
+          <head>
+              <charseq START="5329" END="5336">governor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M3602">
+          <extent>
+              <charseq START="5432" END="5440">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="5432" END="5440">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E4-M3607">
+          <extent>
+              <charseq START="5510" END="5590">the former commander of the Virginia division of the Sons of Confederate
+Veterans</charseq>
+          </extent>
+          <head>
+              <charseq START="5521" END="5529">commander</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M3704">
+          <extent>
+              <charseq START="5628" END="5630">him</charseq>
+          </extent>
+          <head>
+              <charseq START="5628" END="5630">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M3800">
+          <extent>
+              <charseq START="5649" END="5650">He</charseq>
+          </extent>
+          <head>
+              <charseq START="5649" END="5650">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M3806">
+          <extent>
+              <charseq START="5704" END="5706">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5704" END="5706">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M3901">
+          <extent>
+              <charseq START="5766" END="5774">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="5766" END="5774">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E4-M4003">
+          <extent>
+              <charseq START="5919" END="5924">a man,</charseq>
+          </extent>
+          <head>
+              <charseq START="5921" END="5923">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M4215">
+          <extent>
+              <charseq START="6160" END="6168">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="6160" END="6168">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M4208">
+          <extent>
+              <charseq START="6087" END="6089">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6087" END="6089">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M4219">
+          <extent>
+              <charseq START="6199" END="6201">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6199" END="6201">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E4-M4302">
+          <extent>
+              <charseq START="6223" END="6231">McDonnell</charseq>
+          </extent>
+          <head>
+              <charseq START="6223" END="6231">McDonnell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M4300">
+          <extent>
+              <charseq START="6214" END="6215">He</charseq>
+          </extent>
+          <head>
+              <charseq START="6214" END="6215">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M4307">
+          <extent>
+              <charseq START="6274" END="6276">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6274" END="6276">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M4400">
+          <extent>
+              <charseq START="6297" END="6298">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6297" END="6298">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M4403">
+          <extent>
+              <charseq START="6322" END="6323">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6322" END="6323">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M4407">
+          <extent>
+              <charseq START="6344" END="6345">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6344" END="6345">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E4-M4417">
+          <extent>
+              <charseq START="6404" END="6405">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6404" END="6405">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Robert McDonnell">
+              <charseq START="291" END="306">Robert McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="647" END="655">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="1051" END="1059">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="1255" END="1263">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="1388" END="1396">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="1506" END="1514">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="2040" END="2048">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="2830" END="2838">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="3664" END="3672">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="5130" END="5138">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="5432" END="5440">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="5766" END="5774">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="6160" END="6168">McDonnell</charseq>
+          </name>
+          <name NAME="McDonnell">
+              <charseq START="6223" END="6231">McDonnell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E5" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E5-M305">
+          <extent>
+              <charseq START="621" END="644">Norfolk State
+University</charseq>
+          </extent>
+          <head>
+              <charseq START="621" END="644">Norfolk State
+University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Norfolk State
+University">
+              <charseq START="621" END="644">Norfolk State
+University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E6" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E6-M413">
+          <extent>
+              <charseq START="831" END="847">an administration</charseq>
+          </extent>
+          <head>
+              <charseq START="834" END="847">administration</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E7-M507">
+          <extent>
+              <charseq START="965" END="972">people -</charseq>
+          </extent>
+          <head>
+              <charseq START="965" END="970">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E9-M709">
+          <extent>
+              <charseq START="1164" END="1195">the Sons of Confederate Veterans</charseq>
+          </extent>
+          <head>
+              <charseq START="1168" END="1195">Sons of Confederate Veterans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E9-M3612">
+          <extent>
+              <charseq START="5559" END="5590">the Sons of Confederate
+Veterans</charseq>
+          </extent>
+          <head>
+              <charseq START="5563" END="5590">Sons of Confederate
+Veterans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E9-M3609">
+          <extent>
+              <charseq START="5534" END="5590">the Virginia division of the Sons of Confederate
+Veterans</charseq>
+          </extent>
+          <head>
+              <charseq START="5547" END="5554">division</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sons of Confederate Veterans">
+              <charseq START="1168" END="1195">Sons of Confederate Veterans</charseq>
+          </name>
+          <name NAME="Sons of Confederate
+Veterans">
+              <charseq START="5563" END="5590">Sons of Confederate
+Veterans</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E10-M800">
+          <extent>
+              <charseq START="1207" END="1233">Even President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="1222" END="1233">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E10-M801">
+          <extent>
+              <charseq START="1212" END="1220">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1212" END="1220">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="1222" END="1233">Barack Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E11-M809">
+          <extent>
+              <charseq START="1349" END="1363">the Confederacy</charseq>
+          </extent>
+          <head>
+              <charseq START="1353" END="1363">Confederacy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E11-M1015">
+          <extent>
+              <charseq START="1621" END="1631">Confederate</charseq>
+          </extent>
+          <head>
+              <charseq START="1621" END="1631">Confederate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E11-M1118">
+          <extent>
+              <charseq START="1889" END="1899">Confederate</charseq>
+          </extent>
+          <head>
+              <charseq START="1889" END="1899">Confederate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E11-M3406">
+          <extent>
+              <charseq START="5176" END="5186">Confederate</charseq>
+          </extent>
+          <head>
+              <charseq START="5176" END="5186">Confederate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E11-M3904">
+          <extent>
+              <charseq START="5802" END="5812">Confederate</charseq>
+          </extent>
+          <head>
+              <charseq START="5802" END="5812">Confederate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Confederacy">
+              <charseq START="1353" END="1363">Confederacy</charseq>
+          </name>
+          <name NAME="Confederate">
+              <charseq START="1621" END="1631">Confederate</charseq>
+          </name>
+          <name NAME="Confederate">
+              <charseq START="1889" END="1899">Confederate</charseq>
+          </name>
+          <name NAME="Confederate">
+              <charseq START="5176" END="5186">Confederate</charseq>
+          </name>
+          <name NAME="Confederate">
+              <charseq START="5802" END="5812">Confederate</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E12-M1105">
+          <extent>
+              <charseq START="1774" END="1907">a conservative who can also
+speak to moderates, a key strategy of his 2009 campaign that took a beating
+during the Confederate episode</charseq>
+          </extent>
+          <head>
+              <charseq START="1776" END="1787">conservative</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E12-M1107">
+          <extent>
+              <charseq START="1789" END="1791">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1789" END="1791">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E13-M1305">
+          <extent>
+              <charseq START="2202" END="2236">all Virginians&quot; - free and
+enslaved</charseq>
+          </extent>
+          <head>
+              <charseq START="2206" END="2215">Virginians</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E13-M1910">
+          <extent>
+              <charseq START="3383" END="3396">All Virginians</charseq>
+          </extent>
+          <head>
+              <charseq START="3387" END="3396">Virginians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E14-M1307">
+          <extent>
+              <charseq START="2243" END="2273">those who fought for both sides</charseq>
+          </extent>
+          <head>
+              <charseq START="2243" END="2247">those</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E14-M1309">
+          <extent>
+              <charseq START="2249" END="2251">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2249" END="2251">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E15-M1310">
+          <extent>
+              <charseq START="2264" END="2273">both sides</charseq>
+          </extent>
+          <head>
+              <charseq START="2269" END="2273">sides</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E16-M1424" ROLE="GPE">
+          <extent>
+              <charseq START="2519" END="2526">American</charseq>
+          </extent>
+          <head>
+              <charseq START="2519" END="2526">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E16-M3009">
+          <extent>
+              <charseq START="4792" END="4801">the nation</charseq>
+          </extent>
+          <head>
+              <charseq START="4796" END="4801">nation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E16-M3106" ROLE="GPE">
+          <extent>
+              <charseq START="4892" END="4898">African</charseq>
+          </extent>
+          <head>
+              <charseq START="4892" END="4898">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E16-M3107" ROLE="GPE">
+          <extent>
+              <charseq START="4900" END="4907">American</charseq>
+          </extent>
+          <head>
+              <charseq START="4900" END="4907">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E16-M3301" ROLE="GPE">
+          <extent>
+              <charseq START="5047" END="5053">African</charseq>
+          </extent>
+          <head>
+              <charseq START="5047" END="5053">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E16-M3302" ROLE="GPE">
+          <extent>
+              <charseq START="5055" END="5062">American</charseq>
+          </extent>
+          <head>
+              <charseq START="5055" END="5062">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E16-M4212" ROLE="GPE">
+          <extent>
+              <charseq START="6122" END="6128">African</charseq>
+          </extent>
+          <head>
+              <charseq START="6122" END="6128">African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E16-M4213" ROLE="GPE">
+          <extent>
+              <charseq START="6130" END="6137">American</charseq>
+          </extent>
+          <head>
+              <charseq START="6130" END="6137">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="2519" END="2526">American</charseq>
+          </name>
+          <name NAME="African">
+              <charseq START="4892" END="4898">African</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="4900" END="4907">American</charseq>
+          </name>
+          <name NAME="African">
+              <charseq START="5047" END="5053">African</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="5055" END="5062">American</charseq>
+          </name>
+          <name NAME="African">
+              <charseq START="6122" END="6128">African</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="6130" END="6137">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E17-M1411">
+          <extent>
+              <charseq START="2427" END="2445">the 1,600
+attendees</charseq>
+          </extent>
+          <head>
+              <charseq START="2437" END="2445">attendees</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E18-M1511">
+          <extent>
+              <charseq START="2741" END="2758">Sen. Yvonne Miller</charseq>
+          </extent>
+          <head>
+              <charseq START="2746" END="2758">Yvonne Miller</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E18-M1512">
+          <extent>
+              <charseq START="2741" END="2744">Sen.</charseq>
+          </extent>
+          <head>
+              <charseq START="2741" END="2744">Sen.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yvonne Miller">
+              <charseq START="2746" END="2758">Yvonne Miller</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E19" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E19-M1515">
+          <extent>
+              <charseq START="2761" END="2761">D</charseq>
+          </extent>
+          <head>
+              <charseq START="2761" END="2761">D</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E19-M3006">
+          <extent>
+              <charseq START="4789" END="4789">D</charseq>
+          </extent>
+          <head>
+              <charseq START="4789" END="4789">D</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="D">
+              <charseq START="2761" END="2761">D</charseq>
+          </name>
+          <name NAME="D">
+              <charseq START="4789" END="4789">D</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E20-M1501">
+          <extent>
+              <charseq START="2616" END="2638">people across the
+world</charseq>
+          </extent>
+          <head>
+              <charseq START="2616" END="2621">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E21" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E21-M1503">
+          <extent>
+              <charseq START="2630" END="2638">the
+world</charseq>
+          </extent>
+          <head>
+              <charseq START="2634" END="2638">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E22-M1517">
+          <extent>
+              <charseq START="2772" END="2818">a member of
+Virginia&apos;s legislative black caucus</charseq>
+          </extent>
+          <head>
+              <charseq START="2774" END="2779">member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E23-M1519">
+          <extent>
+              <charseq START="2784" END="2818">Virginia&apos;s legislative black caucus</charseq>
+          </extent>
+          <head>
+              <charseq START="2813" END="2818">caucus</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E24" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E24-M1606" ROLE="LOC">
+          <extent>
+              <charseq START="2930" END="2936">a state</charseq>
+          </extent>
+          <head>
+              <charseq START="2932" END="2936">state</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E25-M1701">
+          <extent>
+              <charseq START="2984" END="3000">Gov. George Allen</charseq>
+          </extent>
+          <head>
+              <charseq START="2989" END="3000">George Allen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E25-M1702">
+          <extent>
+              <charseq START="2984" END="2987">Gov.</charseq>
+          </extent>
+          <head>
+              <charseq START="2984" END="2987">Gov.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E25-M1708">
+          <extent>
+              <charseq START="3044" END="3045">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3044" END="3045">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E25-M1900">
+          <extent>
+              <charseq START="3295" END="3296">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3295" END="3296">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="George Allen">
+              <charseq START="2989" END="3000">George Allen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E26" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E26-M1704">
+          <extent>
+              <charseq START="3003" END="3003">R</charseq>
+          </extent>
+          <head>
+              <charseq START="3003" END="3003">R</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E26-M1805">
+          <extent>
+              <charseq START="3233" END="3233">R</charseq>
+          </extent>
+          <head>
+              <charseq START="3233" END="3233">R</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E26-M4000">
+          <extent>
+              <charseq START="5898" END="5924">Our
+organization, to a man,</charseq>
+          </extent>
+          <head>
+              <charseq START="5902" END="5913">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="R">
+              <charseq START="3003" END="3003">R</charseq>
+          </name>
+          <name NAME="R">
+              <charseq START="3233" END="3233">R</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E27-M1802">
+          <extent>
+              <charseq START="3213" END="3230">Gov. James Gilmore</charseq>
+          </extent>
+          <head>
+              <charseq START="3218" END="3230">James Gilmore</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E27-M1803">
+          <extent>
+              <charseq START="3213" END="3216">Gov.</charseq>
+          </extent>
+          <head>
+              <charseq START="3213" END="3216">Gov.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="James Gilmore">
+              <charseq START="3218" END="3230">James Gilmore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E28" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E28-M2000" ROLE="LOC">
+          <extent>
+              <charseq START="3437" END="3441">Govs.</charseq>
+          </extent>
+          <head>
+              <charseq START="3437" END="3440">Govs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Govs">
+              <charseq START="3437" END="3440">Govs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E29-M2101">
+          <extent>
+              <charseq START="3443" END="3453">Mark Warner</charseq>
+          </extent>
+          <head>
+              <charseq START="3443" END="3453">Mark Warner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E29-M2201">
+          <extent>
+              <charseq START="3529" END="3534">Warner</charseq>
+          </extent>
+          <head>
+              <charseq START="3529" END="3534">Warner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mark Warner">
+              <charseq START="3443" END="3453">Mark Warner</charseq>
+          </name>
+          <name NAME="Warner">
+              <charseq START="3529" END="3534">Warner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E30-M2102">
+          <extent>
+              <charseq START="3459" END="3471">Timothy Kaine</charseq>
+          </extent>
+          <head>
+              <charseq START="3459" END="3471">Timothy Kaine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Timothy Kaine">
+              <charseq START="3459" END="3471">Timothy Kaine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E31" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E31-M2103">
+          <extent>
+              <charseq START="3474" END="3517">both Democrats, issued no April
+proclamation</charseq>
+          </extent>
+          <head>
+              <charseq START="3479" END="3487">Democrats</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Democrats">
+              <charseq START="3479" END="3487">Democrats</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E32-M2209">
+          <extent>
+              <charseq START="3609" END="3614">blacks</charseq>
+          </extent>
+          <head>
+              <charseq START="3609" END="3614">blacks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E33" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E33-M2210">
+          <extent>
+              <charseq START="3620" END="3625">whites</charseq>
+          </extent>
+          <head>
+              <charseq START="3620" END="3625">whites</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E34" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E34-M2404">
+          <extent>
+              <charseq START="3773" END="3792">civil rights leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="3786" END="3792">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E35" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E35-M2409">
+          <extent>
+              <charseq START="3845" END="3865">a civil rights museum</charseq>
+          </extent>
+          <head>
+              <charseq START="3860" END="3865">museum</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E36-M2505">
+          <extent>
+              <charseq START="3914" END="3930">the state Capitol</charseq>
+          </extent>
+          <head>
+              <charseq START="3924" END="3930">Capitol</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E36-M2506">
+          <extent>
+              <charseq START="3918" END="3922">state</charseq>
+          </extent>
+          <head>
+              <charseq START="3918" END="3922">state</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Capitol">
+              <charseq START="3924" END="3930">Capitol</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E37-M2508">
+          <extent>
+              <charseq START="3935" END="4075">Barbara Johns, who in
+1951 - when she was 16 - helped lead a walkout at her all-black school to
+protest poor conditions at segregated schools</charseq>
+          </extent>
+          <head>
+              <charseq START="3935" END="3947">Barbara Johns</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E37-M2510">
+          <extent>
+              <charseq START="3950" END="3952">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3950" END="3952">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E37-M2512">
+          <extent>
+              <charseq START="3969" END="3971">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3969" END="3971">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E37-M2518">
+          <extent>
+              <charseq START="4007" END="4009">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4007" END="4009">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E37-M2704">
+          <extent>
+              <charseq START="4390" END="4392">her</charseq>
+          </extent>
+          <head>
+              <charseq START="4390" END="4392">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barbara Johns">
+              <charseq START="3935" END="3947">Barbara Johns</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E38" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E38-M2517">
+          <extent>
+              <charseq START="4007" END="4026">her all-black school</charseq>
+          </extent>
+          <head>
+              <charseq START="4021" END="4026">school</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E39" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E39-M2522">
+          <extent>
+              <charseq START="4058" END="4075">segregated schools</charseq>
+          </extent>
+          <head>
+              <charseq START="4069" END="4075">schools</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E40-M2604">
+          <extent>
+              <charseq START="4106" END="4114">his staff</charseq>
+          </extent>
+          <head>
+              <charseq START="4110" END="4114">staff</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E41-M2908">
+          <extent>
+              <charseq START="4666" END="4681">all its citizens</charseq>
+          </extent>
+          <head>
+              <charseq START="4674" END="4681">citizens</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E42" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E42-M3005">
+          <extent>
+              <charseq START="4773" END="4786">Douglas Wilder</charseq>
+          </extent>
+          <head>
+              <charseq START="4773" END="4786">Douglas Wilder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E42-M3400">
+          <extent>
+              <charseq START="5106" END="5200">Wilder, who is close to McDonnell but had been highly critical of his
+Confederate proclamation,</charseq>
+          </extent>
+          <head>
+              <charseq START="5106" END="5111">Wilder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E42-M3415">
+          <extent>
+              <charseq START="5276" END="5281">Wilder</charseq>
+          </extent>
+          <head>
+              <charseq START="5276" END="5281">Wilder</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E42-M3402">
+          <extent>
+              <charseq START="5114" END="5116">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5114" END="5116">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E42-M3505">
+          <extent>
+              <charseq START="5410" END="5415">Wilder</charseq>
+          </extent>
+          <head>
+              <charseq START="5410" END="5415">Wilder</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Douglas Wilder">
+              <charseq START="4773" END="4786">Douglas Wilder</charseq>
+          </name>
+          <name NAME="Wilder">
+              <charseq START="5106" END="5111">Wilder</charseq>
+          </name>
+          <name NAME="Wilder">
+              <charseq START="5276" END="5281">Wilder</charseq>
+          </name>
+          <name NAME="Wilder">
+              <charseq START="5410" END="5415">Wilder</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E43" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E43-M3110">
+          <extent>
+              <charseq START="4936" END="4948">Rickey Willis</charseq>
+          </extent>
+          <head>
+              <charseq START="4936" END="4948">Rickey Willis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E43-M3111">
+          <extent>
+              <charseq START="4951" END="4999">a Portsmouth resident who attended the conference</charseq>
+          </extent>
+          <head>
+              <charseq START="4964" END="4971">resident</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E43-M3114">
+          <extent>
+              <charseq START="4973" END="4975">who</charseq>
+          </extent>
+          <head>
+              <charseq START="4973" END="4975">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rickey Willis">
+              <charseq START="4936" END="4948">Rickey Willis</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E44" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E44-M3113" ROLE="GPE">
+          <extent>
+              <charseq START="4953" END="4962">Portsmouth</charseq>
+          </extent>
+          <head>
+              <charseq START="4953" END="4962">Portsmouth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Portsmouth">
+              <charseq START="4953" END="4962">Portsmouth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E45" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E45-M3201">
+          <extent>
+              <charseq START="5013" END="5044">eight million people in Virginia</charseq>
+          </extent>
+          <head>
+              <charseq START="5027" END="5032">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E46" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E46-M3606">
+          <extent>
+              <charseq START="5496" END="5507">Brag Bowling</charseq>
+          </extent>
+          <head>
+              <charseq START="5496" END="5507">Brag Bowling</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E46-M3706">
+          <extent>
+              <charseq START="5634" END="5640">Bowling</charseq>
+          </extent>
+          <head>
+              <charseq START="5634" END="5640">Bowling</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E46-M3900">
+          <extent>
+              <charseq START="5750" END="5756">Bowling</charseq>
+          </extent>
+          <head>
+              <charseq START="5750" END="5756">Bowling</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Brag Bowling">
+              <charseq START="5496" END="5507">Brag Bowling</charseq>
+          </name>
+          <name NAME="Bowling">
+              <charseq START="5634" END="5640">Bowling</charseq>
+          </name>
+          <name NAME="Bowling">
+              <charseq START="5750" END="5756">Bowling</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E47" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E47-M3805">
+          <extent>
+              <charseq START="5704" END="5724">his political enemies</charseq>
+          </extent>
+          <head>
+              <charseq START="5718" END="5724">enemies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E48" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E48-M3807">
+          <extent>
+              <charseq START="5729" END="5737">the media</charseq>
+          </extent>
+          <head>
+              <charseq START="5733" END="5737">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E49-M3902">
+          <extent>
+              <charseq START="5791" END="5824">Virginia&apos;s Confederate descendents</charseq>
+          </extent>
+          <head>
+              <charseq START="5814" END="5824">descendents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E50" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E50-M4200">
+          <extent>
+              <charseq START="6018" END="6153">Sam Mosley, who came to the Norfolk conference from Lynchburg, where his wife
+serves on the board of an African American history museum,</charseq>
+          </extent>
+          <head>
+              <charseq START="6018" END="6027">Sam Mosley</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E50-M4202">
+          <extent>
+              <charseq START="6030" END="6032">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6030" END="6032">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sam Mosley">
+              <charseq START="6018" END="6027">Sam Mosley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E51" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="WPB_ENG_20100924.0077-E51-M4205" ROLE="LOC">
+          <extent>
+              <charseq START="6070" END="6078">Lynchburg</charseq>
+          </extent>
+          <head>
+              <charseq START="6070" END="6078">Lynchburg</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="WPB_ENG_20100924.0077-E51-M4206">
+          <extent>
+              <charseq START="6081" END="6085">where</charseq>
+          </extent>
+          <head>
+              <charseq START="6081" END="6085">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lynchburg">
+              <charseq START="6070" END="6078">Lynchburg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E52-M4207">
+          <extent>
+              <charseq START="6087" END="6094">his wife</charseq>
+          </extent>
+          <head>
+              <charseq START="6091" END="6094">wife</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="WPB_ENG_20100924.0077-E53" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="WPB_ENG_20100924.0077-E53-M4211">
+          <extent>
+              <charseq START="6119" END="6152">an African American history museum</charseq>
+          </extent>
+          <head>
+              <charseq START="6147" END="6152">museum</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T0" VAL="2010-09-24">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T0-M1">
+            <extent>
+              <charseq START="318" END="323">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T1" VAL="2010-04">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T1-M1">
+            <extent>
+              <charseq START="351" END="355">April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T2" VAL="P1M">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T2-M1">
+            <extent>
+              <charseq START="381" END="385">month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T3" VAL="PAST_REF" ANCHOR_VAL="2010-09-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T3-M1">
+            <extent>
+              <charseq START="435" END="438">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T4" VAL="2010">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T4-M1">
+            <extent>
+              <charseq START="476" END="492">earlier this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T5" VAL="2009">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T5-M1">
+            <extent>
+              <charseq START="755" END="763">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T6" VAL="PXM">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T6-M1">
+            <extent>
+              <charseq START="849" END="875">only a few months in office</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T7" VAL="PXD">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T7-M1">
+            <extent>
+              <charseq START="1375" END="1385">Within days</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T8" VAL="2010-09-24">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T8-M1">
+            <extent>
+              <charseq START="1517" END="1522">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T9" VAL="2010-04">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T9-M1">
+            <extent>
+              <charseq START="1693" END="1697">April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T10" VAL="2009">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T10-M1">
+            <extent>
+              <charseq START="1844" END="1847">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T11" VAL="2010-09-24">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T11-M1">
+            <extent>
+              <charseq START="1943" END="1948">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T12">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T12-M1">
+            <extent>
+              <charseq START="2000" END="2037">the 150th anniversary of the Civil War</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T13" VAL="2011">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T13-M1">
+            <extent>
+              <charseq START="2064" END="2072">next year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T14" VAL="P50Y">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T14-M1">
+            <extent>
+              <charseq START="2302" END="2312">fifty years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T15" VAL="1997">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T15-M1">
+            <extent>
+              <charseq START="3034" END="3037">1997</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T16" VAL="P4Y">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T16-M1">
+            <extent>
+              <charseq START="3094" END="3102">four-year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T17" VAL="1998">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T17-M1">
+            <extent>
+              <charseq START="3207" END="3210">1998</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T18" VAL="2010-04">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T18-M1">
+            <extent>
+              <charseq START="3309" END="3313">April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T19" VAL="2010-04">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T19-M1">
+            <extent>
+              <charseq START="3500" END="3504">April</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T20" VAL="2002">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T20-M1">
+            <extent>
+              <charseq START="3523" END="3526">2002</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T21" VAL="P5M">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T21-M1">
+            <extent>
+              <charseq START="3642" END="3661">the past five months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="WPB_ENG_20100924.0077-V22" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="WPB_ENG_20100924.0077-V22-M1">
+            <extent>
+              <charseq START="3810" END="3816">$10,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T23" VAL="2010-W38">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T23-M1">
+            <extent>
+              <charseq START="3877" END="3885">Last week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T24" VAL="1951">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T24-M1">
+            <extent>
+              <charseq START="3957" END="3960">1951</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T25" VAL="PXM">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T25-M1">
+            <extent>
+              <charseq START="4091" END="4096">months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T26" VAL="2010-09-24">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T26-M1">
+            <extent>
+              <charseq START="4126" END="4131">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T27">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T27-M1">
+            <extent>
+              <charseq START="4166" END="4171">annual</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T28" VAL="2015">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T28-M1">
+            <extent>
+              <charseq START="4241" END="4244">2015</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T29" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-24" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T29-M1">
+            <extent>
+              <charseq START="4357" END="4362">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T30" VAL="PAST_REF" ANCHOR_VAL="2010-09-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T30-M1">
+            <extent>
+              <charseq START="4390" END="4397">her past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T31" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-24" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T31-M1">
+            <extent>
+              <charseq START="4446" END="4451">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T32" VAL="P4Y">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T32-M1">
+            <extent>
+              <charseq START="4472" END="4481">four years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T33" VAL="PAST_REF" ANCHOR_VAL="2010-09-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T33-M1">
+            <extent>
+              <charseq START="4501" END="4504">past</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T34" VAL="1989">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T34-M1">
+            <extent>
+              <charseq START="4837" END="4840">1989</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T35" VAL="2010-09-24TMO">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T35-M1">
+            <extent>
+              <charseq START="5231" END="5244">Friday morning</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T36" VAL="2010-09-24">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T36-M1">
+            <extent>
+              <charseq START="5457" END="5462">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="WPB_ENG_20100924.0077-T37" VAL="PAST_REF" ANCHOR_VAL="2010-09-24" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="WPB_ENG_20100924.0077-T37-M1">
+            <extent>
+              <charseq START="5514" END="5519">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="WPB_ENG_20100924.0077-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E3" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R0-M200">
+          <extent>
+              <charseq START="286" END="289">Gov.</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E4-M206" ROLE="Arg-1">
+            <extent>
+              <charseq START="286" END="289">Gov.</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E3-M204" ROLE="Arg-2">
+            <extent>
+              <charseq START="277" END="284">Virginia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E21" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R1-M1500">
+          <extent>
+              <charseq START="2616" END="2638">people across the
+world</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E20-M1501" ROLE="Arg-1">
+            <extent>
+              <charseq START="2616" END="2638">people across the
+world</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E21-M1503" ROLE="Arg-2">
+            <extent>
+              <charseq START="2630" END="2638">the
+world</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E23" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R2-M1501">
+          <extent>
+              <charseq START="2772" END="2818">a member of
+Virginia&apos;s legislative black caucus</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E22-M1517" ROLE="Arg-1">
+            <extent>
+              <charseq START="2772" END="2818">a member of
+Virginia&apos;s legislative black caucus</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E23-M1519" ROLE="Arg-2">
+            <extent>
+              <charseq START="2784" END="2818">Virginia&apos;s legislative black caucus</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E26" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R3-M1700">
+          <extent>
+              <charseq START="2984" END="3000">Gov. George Allen</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E25-M1701" ROLE="Arg-1">
+            <extent>
+              <charseq START="2984" END="3000">Gov. George Allen</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E26-M1704" ROLE="Arg-2">
+            <extent>
+              <charseq START="3003" END="3003">R</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E26" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R4-M1800">
+          <extent>
+              <charseq START="3213" END="3230">Gov. James Gilmore</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E27-M1802" ROLE="Arg-1">
+            <extent>
+              <charseq START="3213" END="3230">Gov. James Gilmore</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E26-M1805" ROLE="Arg-2">
+            <extent>
+              <charseq START="3233" END="3233">R</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R5" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E38" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R5-M2500">
+          <extent>
+              <charseq START="4007" END="4009">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E37-M2518" ROLE="Arg-1">
+            <extent>
+              <charseq START="4007" END="4009">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E38-M2517" ROLE="Arg-2">
+            <extent>
+              <charseq START="4007" END="4026">her all-black school</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R6" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E40" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R6-M2600">
+          <extent>
+              <charseq START="4106" END="4108">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E4-M2605" ROLE="Arg-1">
+            <extent>
+              <charseq START="4106" END="4108">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E40-M2604" ROLE="Arg-2">
+            <extent>
+              <charseq START="4106" END="4114">his staff</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E41" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E3" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R7-M2900">
+          <extent>
+              <charseq START="4666" END="4681">all its citizens</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E41-M2908" ROLE="Arg-1">
+            <extent>
+              <charseq START="4666" END="4681">all its citizens</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E3-M2909" ROLE="Arg-2">
+            <extent>
+              <charseq START="4670" END="4672">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E42" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E19" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R8-M3000">
+          <extent>
+              <charseq START="4773" END="4786">Douglas Wilder</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E42-M3005" ROLE="Arg-1">
+            <extent>
+              <charseq START="4773" END="4786">Douglas Wilder</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E19-M3006" ROLE="Arg-2">
+            <extent>
+              <charseq START="4789" END="4789">D</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E16" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R9-M3001">
+          <extent>
+              <charseq START="4792" END="4840">the nation&apos;s
+first elected black governor in 1989</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E4-M3007" ROLE="Arg-1">
+            <extent>
+              <charseq START="4792" END="4840">the nation&apos;s
+first elected black governor in 1989</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E16-M3009" ROLE="Arg-2">
+            <extent>
+              <charseq START="4792" END="4801">the nation</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R10" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E43" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E44" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R10-M3100">
+          <extent>
+              <charseq START="4951" END="4999">a Portsmouth resident who attended the conference</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E43-M3111" ROLE="Arg-1">
+            <extent>
+              <charseq START="4951" END="4999">a Portsmouth resident who attended the conference</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E44-M3113" ROLE="Arg-2">
+            <extent>
+              <charseq START="4953" END="4962">Portsmouth</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R11" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E45" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E3" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R11-M3200">
+          <extent>
+              <charseq START="5013" END="5044">eight million people in Virginia</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E45-M3201" ROLE="Arg-1">
+            <extent>
+              <charseq START="5013" END="5044">eight million people in Virginia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E3-M3203" ROLE="Arg-2">
+            <extent>
+              <charseq START="5037" END="5044">Virginia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R12" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E9" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R12-M3600">
+          <extent>
+              <charseq START="5510" END="5590">the former commander of the Virginia division of the Sons of Confederate
+Veterans</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E4-M3607" ROLE="Arg-1">
+            <extent>
+              <charseq START="5510" END="5590">the former commander of the Virginia division of the Sons of Confederate
+Veterans</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E9-M3609" ROLE="Arg-2">
+            <extent>
+              <charseq START="5534" END="5590">the Virginia division of the Sons of Confederate
+Veterans</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R13" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E3" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R13-M3601">
+          <extent>
+              <charseq START="5534" END="5590">the Virginia division of the Sons of Confederate
+Veterans</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E9-M3609" ROLE="Arg-1">
+            <extent>
+              <charseq START="5534" END="5590">the Virginia division of the Sons of Confederate
+Veterans</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E3-M3611" ROLE="Arg-2">
+            <extent>
+              <charseq START="5538" END="5545">Virginia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R14" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E49" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E11" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R14-M3900">
+          <extent>
+              <charseq START="5791" END="5824">Virginia&apos;s Confederate descendents</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E49-M3902" ROLE="Arg-1">
+            <extent>
+              <charseq START="5791" END="5824">Virginia&apos;s Confederate descendents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E11-M3904" ROLE="Arg-2">
+            <extent>
+              <charseq START="5802" END="5812">Confederate</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R16" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E50" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E51" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R16-M4200">
+          <extent>
+              <charseq START="6030" END="6032">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E50-M4202" ROLE="Arg-1">
+            <extent>
+              <charseq START="6030" END="6032">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E51-M4205" ROLE="Arg-2">
+            <extent>
+              <charseq START="6070" END="6078">Lynchburg</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="WPB_ENG_20100924.0077-R17" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="WPB_ENG_20100924.0077-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="WPB_ENG_20100924.0077-E52" ROLE="Arg-2"/>
+        <relation_mention ID="WPB_ENG_20100924.0077-R17-M4201">
+          <extent>
+              <charseq START="6087" END="6089">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E4-M4208" ROLE="Arg-1">
+            <extent>
+              <charseq START="6087" END="6089">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="WPB_ENG_20100924.0077-E52-M4207" ROLE="Arg-2">
+            <extent>
+              <charseq START="6087" END="6094">his wife</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

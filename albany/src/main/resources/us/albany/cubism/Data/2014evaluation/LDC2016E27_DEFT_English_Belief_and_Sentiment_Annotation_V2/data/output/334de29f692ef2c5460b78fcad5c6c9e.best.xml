@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="334de29f692ef2c5460b78fcad5c6c9e.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-993" length="6" offset="111">
+        <text>My mum</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="97">dandy-candy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1011" length="14" offset="182">
+        <text>my best friend</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="97">dandy-candy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1011" length="14" offset="182">
+        <text>my best friend</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="97">dandy-candy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1041" length="65" offset="437">
+        <text>the one person who could calm me down and make everything alright</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="97">dandy-candy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1041" length="65" offset="437">
+        <text>the one person who could calm me down and make everything alright</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="97">dandy-candy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1251" length="12" offset="592">
+        <text>the hospital</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-513" length="1" offset="574">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1053" length="3" offset="898">
+        <text>mum</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-561" length="1" offset="870">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1059" length="3" offset="925">
+        <text>her</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-573" length="1" offset="903">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1173" length="2" offset="1439">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="97">dandy-candy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1191" length="3" offset="1573">
+        <text>him</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-669" length="1" offset="1545">i</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1185" length="2" offset="1499">
+        <text>He</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="97">dandy-candy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1209" length="7" offset="1579">
+        <text>My kids</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="97">dandy-candy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1227" length="12" offset="1849">
+        <text>a counsellor</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="11" offset="97">dandy-candy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-975" length="6" offset="1949">
+        <text>myself</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-753" length="1" offset="1942">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1089" length="3" offset="2172">
+        <text>her</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-813" length="1" offset="2165">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-423" length="10" offset="2533">
+        <text>My own mum</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-87" length="13" offset="14">no-oneknowsme</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-429" length="3" offset="2559">
+        <text>her</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-87" length="13" offset="14">no-oneknowsme</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-441" length="6" offset="2694">
+        <text>my Mum</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-123" length="1" offset="2660">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-861" length="3" offset="2704">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-87" length="13" offset="14">no-oneknowsme</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-873" length="3" offset="2867">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-147" length="1" offset="2854">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-891" length="3" offset="3061">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-87" length="13" offset="14">no-oneknowsme</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1113" length="4" offset="3083">
+        <text>shes</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-1119" length="3" offset="3107">she</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-909" length="4" offset="3175">
+        <text>your</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-87" length="13" offset="14">no-oneknowsme</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1131" length="3" offset="3193">
+        <text>her</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-87" length="13" offset="14">no-oneknowsme</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-915" length="26" offset="3206">
+        <text>the person you have become</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-87" length="13" offset="14">no-oneknowsme</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-399" length="3" offset="3587">
+        <text>her</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-213" length="1" offset="3578">i</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-411" length="6" offset="3669">
+        <text>my mum</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-231" length="1" offset="3657">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-357" length="50" offset="3750">
+        <text>my two young children who were 3 and 1 at the time</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-357" length="50" offset="3750">
+        <text>my two young children who were 3 and 1 at the time</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-417" length="7" offset="4006">
+        <text>my mums</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-333" length="29" offset="4062">
+        <text>my beautiful 25 day old niece</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-333" length="29" offset="4062">
+        <text>my beautiful 25 day old niece</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-333" length="29" offset="4062">
+        <text>my beautiful 25 day old niece</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-333" length="29" offset="4062">
+        <text>my beautiful 25 day old niece</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1203" length="3" offset="4269">
+        <text>him</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-939" length="3" offset="4220">you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-933" length="4" offset="4184">
+        <text>your</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-939" length="3" offset="4220">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1197" length="28" offset="4229">
+        <text>a very understanding husband</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1197" length="28" offset="4229">
+        <text>a very understanding husband</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-177" length="9" offset="3299">clare1076</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

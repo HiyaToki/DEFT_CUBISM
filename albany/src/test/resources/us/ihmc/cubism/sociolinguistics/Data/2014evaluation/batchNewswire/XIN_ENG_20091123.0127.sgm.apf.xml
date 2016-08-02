@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091123.0127">
+  <document DOCID="XIN_ENG_20091123.0127">
+
+    <entity ID="XIN_ENG_20091123.0127-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E0-M2" ROLE="LOC">
+          <extent>
+              <charseq START="77" END="85">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="77" END="85">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E0-M303" ROLE="LOC">
+          <extent>
+              <charseq START="235" END="243">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="235" END="243">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E0-M504" ROLE="LOC">
+          <extent>
+              <charseq START="851" END="859">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="851" END="859">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E0-M502" ROLE="ORG">
+          <extent>
+              <charseq START="833" END="846">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="837" END="846">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091123.0127-E0-M506">
+          <extent>
+              <charseq START="877" END="879">its</charseq>
+          </extent>
+          <head>
+              <charseq START="877" END="879">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E0-M807" ROLE="LOC">
+          <extent>
+              <charseq START="1543" END="1556">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="1547" END="1556">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E0-M1106" ROLE="ORG">
+          <extent>
+              <charseq START="1948" END="1961">the Government</charseq>
+          </extent>
+          <head>
+              <charseq START="1952" END="1961">Government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E0-M1213" ROLE="LOC">
+          <extent>
+              <charseq START="2203" END="2211">Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="2203" END="2211">Indonesia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E0-M1503" ROLE="GPE">
+          <extent>
+              <charseq START="2654" END="2663">Indonesian</charseq>
+          </extent>
+          <head>
+              <charseq START="2654" END="2663">Indonesian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indonesia">
+              <charseq START="77" END="85">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="235" END="243">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="851" END="859">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesia">
+              <charseq START="2203" END="2211">Indonesia</charseq>
+          </name>
+          <name NAME="Indonesian">
+              <charseq START="2654" END="2663">Indonesian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E1-M101" ROLE="LOC">
+          <extent>
+              <charseq START="153" END="159">JAKARTA</charseq>
+          </extent>
+          <head>
+              <charseq START="153" END="159">JAKARTA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="JAKARTA">
+              <charseq START="153" END="159">JAKARTA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E2-M200">
+          <extent>
+              <charseq START="171" END="176">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="171" END="176">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="171" END="176">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E3-M320">
+          <extent>
+              <charseq START="402" END="424">the Ministry of Finance</charseq>
+          </extent>
+          <head>
+              <charseq START="406" END="424">Ministry of Finance</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E3-M322">
+          <extent>
+              <charseq START="427" END="460">the
+Ministry of National Education</charseq>
+          </extent>
+          <head>
+              <charseq START="431" END="460">Ministry of National Education</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E3-M1522">
+          <extent>
+              <charseq START="2841" END="2874">the Ministry of National Education</charseq>
+          </extent>
+          <head>
+              <charseq START="2845" END="2874">Ministry of National Education</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E3-M1526">
+          <extent>
+              <charseq START="2917" END="2944">the Ministry of Home Affairs</charseq>
+          </extent>
+          <head>
+              <charseq START="2921" END="2944">Ministry of Home Affairs</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ministry of Finance">
+              <charseq START="406" END="424">Ministry of Finance</charseq>
+          </name>
+          <name NAME="Ministry of National Education">
+              <charseq START="431" END="460">Ministry of National Education</charseq>
+          </name>
+          <name NAME="Ministry of National Education">
+              <charseq START="2845" END="2874">Ministry of National Education</charseq>
+          </name>
+          <name NAME="Ministry of Home Affairs">
+              <charseq START="2921" END="2944">Ministry of Home Affairs</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E4-M326">
+          <extent>
+              <charseq START="470" END="504">Basic Education Capacity Trust Fund</charseq>
+          </extent>
+          <head>
+              <charseq START="470" END="504">Basic Education Capacity Trust Fund</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Basic Education Capacity Trust Fund">
+              <charseq START="470" END="504">Basic Education Capacity Trust Fund</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E5-M327">
+          <extent>
+              <charseq START="507" END="513">BEC-
+TF</charseq>
+          </extent>
+          <head>
+              <charseq START="507" END="513">BEC-
+TF</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BEC-
+TF">
+              <charseq START="507" END="513">BEC-
+TF</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E6-M332">
+          <extent>
+              <charseq START="562" END="575">the World Bank</charseq>
+          </extent>
+          <head>
+              <charseq START="566" END="575">World Bank</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E6-M614">
+          <extent>
+              <charseq START="1288" END="1301">the
+World Bank</charseq>
+          </extent>
+          <head>
+              <charseq START="1292" END="1301">World Bank</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="World Bank">
+              <charseq START="566" END="575">World Bank</charseq>
+          </name>
+          <name NAME="World Bank">
+              <charseq START="1292" END="1301">World Bank</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E7-M300" ROLE="ORG">
+          <extent>
+              <charseq START="202" END="243">Twenty-five local governments in Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="220" END="230">governments</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E7-M409" ROLE="GPE">
+          <extent>
+              <charseq START="657" END="781">50 local governments
+in nine provinces to manage education finance and information systems more
+effectively and transparently</charseq>
+          </extent>
+          <head>
+              <charseq START="666" END="676">governments</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E7-M703" ROLE="GPE">
+          <extent>
+              <charseq START="1407" END="1426">25 local governments</charseq>
+          </extent>
+          <head>
+              <charseq START="1416" END="1426">governments</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091123.0127-E7-M705">
+          <extent>
+              <charseq START="1435" END="1439">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1435" END="1439">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E7-M902" ROLE="LOC">
+          <extent>
+              <charseq START="1588" END="1607">regional governments</charseq>
+          </extent>
+          <head>
+              <charseq START="1597" END="1607">governments</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E7-M1306" ROLE="ORG">
+          <extent>
+              <charseq START="2283" END="2299">local governments</charseq>
+          </extent>
+          <head>
+              <charseq START="2289" END="2299">governments</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E8" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E8-M324" ROLE="LOC">
+          <extent>
+              <charseq START="467" END="542">25 Basic Education Capacity Trust Fund (BEC-
+TF) partner districts on Monday</charseq>
+          </extent>
+          <head>
+              <charseq START="524" END="532">districts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E9-M412" ROLE="LOC">
+          <extent>
+              <charseq START="681" END="763">nine provinces to manage education finance and information systems more
+effectively</charseq>
+          </extent>
+          <head>
+              <charseq START="686" END="694">provinces</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E10-M510">
+          <extent>
+              <charseq START="933" END="968">an Education Thematic
+Dialogue Forum</charseq>
+          </extent>
+          <head>
+              <charseq START="936" END="968">Education Thematic
+Dialogue Forum</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Education Thematic
+Dialogue Forum">
+              <charseq START="936" END="968">Education Thematic
+Dialogue Forum</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E11-M607" ROLE="GPE">
+          <extent>
+              <charseq START="1195" END="1199">Dutch</charseq>
+          </extent>
+          <head>
+              <charseq START="1195" END="1199">Dutch</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E11-M605" ROLE="LOC">
+          <extent>
+              <charseq START="1191" END="1363">the Dutch government (22
+million euro) and the European Commission (17 million euro), managed by the
+World Bank and executed by the Indonesian Ministry of National Education</charseq>
+          </extent>
+          <head>
+              <charseq START="1201" END="1210">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E11-M1108" ROLE="GPE">
+          <extent>
+              <charseq START="1998" END="2002">Dutch</charseq>
+          </extent>
+          <head>
+              <charseq START="1998" END="2002">Dutch</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dutch">
+              <charseq START="1195" END="1199">Dutch</charseq>
+          </name>
+          <name NAME="Dutch">
+              <charseq START="1998" END="2002">Dutch</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E12-M610">
+          <extent>
+              <charseq START="1234" END="1274">the European Commission (17 million euro)</charseq>
+          </extent>
+          <head>
+              <charseq START="1238" END="1256">European Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E12-M1211">
+          <extent>
+              <charseq START="2176" END="2198">the European Commission</charseq>
+          </extent>
+          <head>
+              <charseq START="2180" END="2198">European Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Commission">
+              <charseq START="1238" END="1256">European Commission</charseq>
+          </name>
+          <name NAME="European Commission">
+              <charseq START="2180" END="2198">European Commission</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E13" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E13-M616">
+          <extent>
+              <charseq START="1319" END="1363">the Indonesian Ministry of National Education</charseq>
+          </extent>
+          <head>
+              <charseq START="1323" END="1363">Indonesian Ministry of National Education</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Indonesian Ministry of National Education">
+              <charseq START="1323" END="1363">Indonesian Ministry of National Education</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E14" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E14-M802">
+          <extent>
+              <charseq START="1466" END="1477">50 districts</charseq>
+          </extent>
+          <head>
+              <charseq START="1469" END="1477">districts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E15-M900">
+          <extent>
+              <charseq START="1568" END="1690">Grant channeling to regional governments within the framework of central-region
+financial relation in the education sector,</charseq>
+          </extent>
+          <head>
+              <charseq START="1568" END="1572">Grant</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Grant">
+              <charseq START="1568" END="1572">Grant</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E16" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E16-M910">
+          <extent>
+              <charseq START="1717" END="1730">donor
+agencies</charseq>
+          </extent>
+          <head>
+              <charseq START="1723" END="1730">agencies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E18-M1107">
+          <extent>
+              <charseq START="1998" END="2030">Dutch Ambassador Nikolaos van Dam</charseq>
+          </extent>
+          <head>
+              <charseq START="2015" END="2030">Nikolaos van Dam</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E18-M1109">
+          <extent>
+              <charseq START="2004" END="2013">Ambassador</charseq>
+          </extent>
+          <head>
+              <charseq START="2004" END="2013">Ambassador</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nikolaos van Dam">
+              <charseq START="2015" END="2030">Nikolaos van Dam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E19-M1202">
+          <extent>
+              <charseq START="2042" END="2054">Julian Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="2042" END="2054">Julian Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E19-M1312">
+          <extent>
+              <charseq START="2387" END="2392">Wilson</charseq>
+          </extent>
+          <head>
+              <charseq START="2387" END="2392">Wilson</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Julian Wilson">
+              <charseq START="2042" END="2054">Julian Wilson</charseq>
+          </name>
+          <name NAME="Wilson">
+              <charseq START="2387" END="2392">Wilson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E20" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E20-M1205">
+          <extent>
+              <charseq START="2068" END="2112">Head of Delegation of the European Commission</charseq>
+          </extent>
+          <head>
+              <charseq START="2068" END="2112">Head of Delegation of the European Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E20-M1200">
+          <extent>
+              <charseq START="2042" END="2113">Julian Wilson, Ambassador/Head of Delegation of the European Commission,</charseq>
+          </extent>
+          <head>
+              <charseq START="2068" END="2112">Head of Delegation of the European Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Head of Delegation of the European Commission">
+              <charseq START="2068" END="2112">Head of Delegation of the European Commission</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E21-M1207">
+          <extent>
+              <charseq START="2144" END="2211">the major sector of support for the European Commission
+in Indonesia</charseq>
+          </extent>
+          <head>
+              <charseq START="2154" END="2159">sector</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E22" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091123.0127-E22-M1400">
+          <extent>
+              <charseq START="2404" END="2473">Districts that are successful in developing their education governance</charseq>
+          </extent>
+          <head>
+              <charseq START="2404" END="2412">Districts</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091123.0127-E22-M1402">
+          <extent>
+              <charseq START="2448" END="2452">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2448" END="2452">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E23" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E23-M1500">
+          <extent>
+              <charseq START="2641" END="2645">SISWA</charseq>
+          </extent>
+          <head>
+              <charseq START="2641" END="2645">SISWA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SISWA">
+              <charseq START="2641" END="2645">SISWA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091123.0127-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091123.0127-E24-M1525">
+          <extent>
+              <charseq START="2881" END="2904">Ministry of Religious Af</charseq>
+          </extent>
+          <head>
+              <charseq START="2881" END="2904">Ministry of Religious Af</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ministry of Religious Af">
+              <charseq START="2881" END="2904">Ministry of Religious Af</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091123.0127-T0" VAL="2009-11-23">
+        <timex2_mention ID="XIN_ENG_20091123.0127-T0-M1">
+            <extent>
+              <charseq START="162" END="168">Nov. 23</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091123.0127-T1" VAL="2009-11-23">
+        <timex2_mention ID="XIN_ENG_20091123.0127-T1-M1">
+            <extent>
+              <charseq START="537" END="542">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091123.0127-T2" VAL="2012">
+        <timex2_mention ID="XIN_ENG_20091123.0127-T2-M1">
+            <extent>
+              <charseq START="791" END="794">2012</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091123.0127-T3" VAL="2009-09">
+        <timex2_mention ID="XIN_ENG_20091123.0127-T3-M1">
+            <extent>
+              <charseq START="1378" END="1386">September</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091123.0127-T4" VAL="FUTURE_REF" ANCHOR_VAL="2009-11-23" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="XIN_ENG_20091123.0127-T4-M1">
+            <extent>
+              <charseq START="2620" END="2629">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20091123.0127-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091123.0127-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091123.0127-E11" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091123.0127-R0-M1100">
+          <extent>
+              <charseq START="2004" END="2013">Ambassador</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091123.0127-E18-M1109" ROLE="Arg-1">
+            <extent>
+              <charseq START="2004" END="2013">Ambassador</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091123.0127-E11-M1108" ROLE="Arg-2">
+            <extent>
+              <charseq START="1998" END="2002">Dutch</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091123.0127-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091123.0127-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091123.0127-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091123.0127-R1-M1200">
+          <extent>
+              <charseq START="2176" END="2198">the European Commission</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091123.0127-E12-M1211" ROLE="Arg-1">
+            <extent>
+              <charseq START="2176" END="2198">the European Commission</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091123.0127-E0-M1213" ROLE="Arg-2">
+            <extent>
+              <charseq START="2203" END="2211">Indonesia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

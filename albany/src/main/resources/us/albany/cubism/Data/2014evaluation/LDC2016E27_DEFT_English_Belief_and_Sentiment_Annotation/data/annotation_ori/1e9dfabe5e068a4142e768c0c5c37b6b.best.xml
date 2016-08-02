@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-565479fd0000000000000005">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-690">
+        <trigger offset="122" length="7">friends</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-700">
+        <trigger offset="885" length="5">loved</trigger>
+        <beliefs>
+          <belief type="rob" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-474" offset="488" length="3">his</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-740">
+        <trigger offset="1774" length="2">ex</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-606" offset="1547" length="10">LilMonster</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-710">
+        <trigger offset="590" length="2">ex</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-720">
+        <trigger offset="672" length="6">friend</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-730">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-750">
+        <trigger offset="3099" length="4">care</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-654" offset="2613" length="6">Snavej</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-764">
+        <trigger offset="267" length="4">told</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-450" offset="255" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-72" offset="272" length="2">
+            <text>me</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-838" offset="240" length="14">
+            <text>the other week</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-785">
+        <trigger offset="445" length="4">tell</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-468" offset="441" length="3">
+            <text>him</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-84" offset="450" length="2">
+            <text>me</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-806">
+        <trigger offset="841" length="4">take</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-582" offset="837" length="3">
+            <text>him</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-156" offset="846" length="2">
+            <text>me</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-684" offset="849" length="4">
+            <text>home</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-914">
+        <trigger offset="894" length="4">told</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-174" offset="892" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-498" offset="899" length="3">
+            <text>him</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-944">
+        <trigger offset="934" length="4">told</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-510" offset="931" length="2">
+            <text>he</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-186" offset="939" length="2">
+            <text>me</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-983">
+        <trigger offset="1133" length="3">cut</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-228" offset="1119" length="2">
+            <text>my</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-228" offset="1119" length="2">
+            <text>my</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no"/>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1013">
+        <trigger offset="1335" length="3">cut</trigger>
+        <beliefs>
+          <belief type="rob" polarity="pos" sarcasm="no">
+            <source ere_id="m-594" offset="1275" length="8">humairaa</source>
+          </belief>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-252" offset="1333" length="1">
+            <text>u</text>
+            <beliefs>
+              <belief type="rob" polarity="pos" sarcasm="no">
+                <source ere_id="m-594" offset="1275" length="8">humairaa</source>
+              </belief>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-258" offset="1339" length="2">
+            <text>ur</text>
+            <beliefs>
+              <belief type="rob" polarity="pos" sarcasm="no">
+                <source ere_id="m-594" offset="1275" length="8">humairaa</source>
+              </belief>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1047">
+        <trigger offset="1865" length="7">harming</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-606" offset="1547" length="10">LilMonster</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-294" offset="1848" length="8">
+            <text>yourself</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-606" offset="1547" length="10">LilMonster</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-294" offset="1848" length="8">
+            <text>yourself</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-606" offset="1547" length="10">LilMonster</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-96" offset="459" length="37">
+        <text>the most important person in his life</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-468" offset="441" length="3">him</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-120" offset="717" length="2">
+        <text>me</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-564" offset="659" length="60">another male friend last night who I know has a thing for me</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-180" offset="923" length="2">
+        <text>me</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-504" offset="908" length="2">he</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-228" offset="1119" length="2">
+        <text>my</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-246" offset="1228" length="2">
+        <text>my</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-330" offset="2156" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-654" offset="2613" length="6">Snavej</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-336" offset="2225" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-654" offset="2613" length="6">Snavej</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-390" offset="3110" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-678" offset="3083" length="30">the people that care about you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-438" offset="1796" length="10">
+        <text>each other</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-282" offset="1763" length="3">You</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-492" offset="875" length="15">
+        <text>the guy I loved</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-552" offset="2875" length="20">
+        <text>the person you loved</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-366" offset="2886" length="3">you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-630" offset="2281" length="1">
+        <text>I</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-606" offset="1547" length="10">LilMonster</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1077" offset="2805" length="7">
+        <text>friends</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-654" offset="2613" length="6">Snavej</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events>
+      <event ere_id="em-764">
+        <trigger offset="267" length="4">told</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-983">
+        <trigger offset="1133" length="3">cut</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" offset="14" length="9">Anonymous</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1047">
+        <trigger offset="1865" length="7">harming</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-606" offset="1547" length="10">LilMonster</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

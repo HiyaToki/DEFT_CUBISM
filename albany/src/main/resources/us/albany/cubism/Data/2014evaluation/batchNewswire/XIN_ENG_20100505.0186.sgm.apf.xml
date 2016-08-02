@@ -1,0 +1,711 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100505.0186">
+  <document DOCID="XIN_ENG_20100505.0186">
+
+    <entity ID="XIN_ENG_20100505.0186-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E0-M0">
+          <extent>
+              <charseq START="58" END="65">Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="65">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E0-M301" ROLE="GPE">
+          <extent>
+              <charseq START="188" END="196">Bulgarian</charseq>
+          </extent>
+          <head>
+              <charseq START="188" END="196">Bulgarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E0-M400">
+          <extent>
+              <charseq START="369" END="378">&quot;Bulgaria,</charseq>
+          </extent>
+          <head>
+              <charseq START="370" END="377">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E0-M701">
+          <extent>
+              <charseq START="929" END="936">Bulgaria</charseq>
+          </extent>
+          <head>
+              <charseq START="929" END="936">Bulgaria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bulgaria">
+              <charseq START="58" END="65">Bulgaria</charseq>
+          </name>
+          <name NAME="Bulgarian">
+              <charseq START="188" END="196">Bulgarian</charseq>
+          </name>
+          <name NAME="Bulgaria">
+              <charseq START="370" END="377">Bulgaria</charseq>
+          </name>
+          <name NAME="Bulgaria">
+              <charseq START="929" END="936">Bulgaria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E1-M2">
+          <extent>
+              <charseq START="81" END="89">Macedonia</charseq>
+          </extent>
+          <head>
+              <charseq START="81" END="89">Macedonia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E1-M309">
+          <extent>
+              <charseq START="276" END="284">Macedonia</charseq>
+          </extent>
+          <head>
+              <charseq START="276" END="284">Macedonia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100505.0186-E1-M306">
+          <extent>
+              <charseq START="255" END="265">his country</charseq>
+          </extent>
+          <head>
+              <charseq START="259" END="265">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E1-M407">
+          <extent>
+              <charseq START="411" END="542">support Macedonia over its efforts in
+the Euro-Atlantic integration,&quot; said Mladenov, who is on a two-day official
+visit to Macedonia</charseq>
+          </extent>
+          <head>
+              <charseq START="419" END="427">Macedonia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E1-M421" ROLE="LOC">
+          <extent>
+              <charseq START="534" END="542">Macedonia</charseq>
+          </extent>
+          <head>
+              <charseq START="534" END="542">Macedonia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100505.0186-E1-M409">
+          <extent>
+              <charseq START="411" END="417">support</charseq>
+          </extent>
+          <head>
+              <charseq START="411" END="417">support</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100505.0186-E1-M417">
+          <extent>
+              <charseq START="496" END="498">who</charseq>
+          </extent>
+          <head>
+              <charseq START="496" END="498">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E1-M506" ROLE="GPE">
+          <extent>
+              <charseq START="605" END="614">Macedonian</charseq>
+          </extent>
+          <head>
+              <charseq START="605" END="614">Macedonian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E1-M600">
+          <extent>
+              <charseq START="767" END="775">Macedonia</charseq>
+          </extent>
+          <head>
+              <charseq START="767" END="775">Macedonia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Macedonia">
+              <charseq START="81" END="89">Macedonia</charseq>
+          </name>
+          <name NAME="Macedonia">
+              <charseq START="276" END="284">Macedonia</charseq>
+          </name>
+          <name NAME="Macedonia">
+              <charseq START="419" END="427">Macedonia</charseq>
+          </name>
+          <name NAME="Macedonia">
+              <charseq START="534" END="542">Macedonia</charseq>
+          </name>
+          <name NAME="Macedonian">
+              <charseq START="605" END="614">Macedonian</charseq>
+          </name>
+          <name NAME="Macedonia">
+              <charseq START="767" END="775">Macedonia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E2" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E2-M4" ROLE="LOC">
+          <extent>
+              <charseq START="110" END="111">EU</charseq>
+          </extent>
+          <head>
+              <charseq START="110" END="111">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E2-M311" ROLE="LOC">
+          <extent>
+              <charseq START="308" END="325">the European Union</charseq>
+          </extent>
+          <head>
+              <charseq START="312" END="325">European Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E2-M406" ROLE="GPE">
+          <extent>
+              <charseq START="394" END="395">EU</charseq>
+          </extent>
+          <head>
+              <charseq START="394" END="395">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E2-M707" ROLE="LOC">
+          <extent>
+              <charseq START="1021" END="1026">the EU</charseq>
+          </extent>
+          <head>
+              <charseq START="1025" END="1026">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="EU">
+              <charseq START="110" END="111">EU</charseq>
+          </name>
+          <name NAME="European Union">
+              <charseq START="312" END="325">European Union</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="394" END="395">EU</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="1025" END="1026">EU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E3" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E3-M5">
+          <extent>
+              <charseq START="114" END="117">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="114" END="117">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E3-M313">
+          <extent>
+              <charseq START="331" END="334">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="334">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E3-M403">
+          <extent>
+              <charseq START="383" END="388">a NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="385" END="388">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100505.0186-E3-M413">
+          <extent>
+              <charseq START="434" END="436">its</charseq>
+          </extent>
+          <head>
+              <charseq START="434" END="436">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E3-M709">
+          <extent>
+              <charseq START="1032" END="1035">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="1032" END="1035">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NATO">
+              <charseq START="114" END="117">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="331" END="334">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="385" END="388">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="1032" END="1035">NATO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E4-M101">
+          <extent>
+              <charseq START="142" END="147">TIRANA</charseq>
+          </extent>
+          <head>
+              <charseq START="142" END="147">TIRANA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TIRANA">
+              <charseq START="142" END="147">TIRANA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E5-M200">
+          <extent>
+              <charseq START="157" END="162">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="157" END="162">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="157" END="162">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E6-M300">
+          <extent>
+              <charseq START="188" END="230">Bulgarian Foreign Minister Nikolay Mladenov</charseq>
+          </extent>
+          <head>
+              <charseq START="215" END="230">Nikolay Mladenov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100505.0186-E6-M303">
+          <extent>
+              <charseq START="206" END="213">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="206" END="213">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100505.0186-E6-M307">
+          <extent>
+              <charseq START="255" END="257">his</charseq>
+          </extent>
+          <head>
+              <charseq START="255" END="257">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E6-M416">
+          <extent>
+              <charseq START="486" END="493">Mladenov</charseq>
+          </extent>
+          <head>
+              <charseq START="486" END="493">Mladenov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E6-M500">
+          <extent>
+              <charseq START="554" END="561">Mladenov</charseq>
+          </extent>
+          <head>
+              <charseq START="554" END="561">Mladenov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100505.0186-E6-M505">
+          <extent>
+              <charseq START="601" END="603">his</charseq>
+          </extent>
+          <head>
+              <charseq START="601" END="603">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E6-M601">
+          <extent>
+              <charseq START="778" END="785">Mladenov</charseq>
+          </extent>
+          <head>
+              <charseq START="778" END="785">Mladenov</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100505.0186-E6-M603">
+          <extent>
+              <charseq START="803" END="805">his</charseq>
+          </extent>
+          <head>
+              <charseq START="803" END="805">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E6-M700">
+          <extent>
+              <charseq START="902" END="909">Mladenov</charseq>
+          </extent>
+          <head>
+              <charseq START="902" END="909">Mladenov</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nikolay Mladenov">
+              <charseq START="215" END="230">Nikolay Mladenov</charseq>
+          </name>
+          <name NAME="Mladenov">
+              <charseq START="486" END="493">Mladenov</charseq>
+          </name>
+          <name NAME="Mladenov">
+              <charseq START="554" END="561">Mladenov</charseq>
+          </name>
+          <name NAME="Mladenov">
+              <charseq START="778" END="785">Mladenov</charseq>
+          </name>
+          <name NAME="Mladenov">
+              <charseq START="902" END="909">Mladenov</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E7-M316" ROLE="LOC">
+          <extent>
+              <charseq START="347" END="352">Skopje</charseq>
+          </extent>
+          <head>
+              <charseq START="347" END="352">Skopje</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Skopje">
+              <charseq START="347" END="352">Skopje</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E8" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E8-M415">
+          <extent>
+              <charseq START="453" END="465">Euro-Atlantic</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="465">Euro-Atlantic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Euro-Atlantic">
+              <charseq START="453" END="465">Euro-Atlantic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100505.0186-E9-M405">
+          <extent>
+              <charseq START="394" END="402">EU member</charseq>
+          </extent>
+          <head>
+              <charseq START="397" END="402">member</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E10-M504">
+          <extent>
+              <charseq START="601" END="644">his Macedonian counterpart
+Antonio Milososki</charseq>
+          </extent>
+          <head>
+              <charseq START="628" END="644">Antonio Milososki</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100505.0186-E10-M507">
+          <extent>
+              <charseq START="616" END="626">counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="616" END="626">counterpart</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Antonio Milososki">
+              <charseq START="628" END="644">Antonio Milososki</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E11" TYPE="LOC" SUBTYPE="Region-International" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E11-M516">
+          <extent>
+              <charseq START="747" END="757">the Balkans</charseq>
+          </extent>
+          <head>
+              <charseq START="751" END="757">Balkans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E11-M604">
+          <extent>
+              <charseq START="815" END="820">Balkan</charseq>
+          </extent>
+          <head>
+              <charseq START="815" END="820">Balkan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E11-M705">
+          <extent>
+              <charseq START="988" END="993">Balkan</charseq>
+          </extent>
+          <head>
+              <charseq START="988" END="993">Balkan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100505.0186-E11-M704">
+          <extent>
+              <charseq START="988" END="1000">Balkan region</charseq>
+          </extent>
+          <head>
+              <charseq START="995" END="1000">region</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Balkans">
+              <charseq START="751" END="757">Balkans</charseq>
+          </name>
+          <name NAME="Balkan">
+              <charseq START="815" END="820">Balkan</charseq>
+          </name>
+          <name NAME="Balkan">
+              <charseq START="988" END="993">Balkan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100505.0186-E12-M511">
+          <extent>
+              <charseq START="673" END="689">the two countries</charseq>
+          </extent>
+          <head>
+              <charseq START="681" END="689">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E13" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E13-M608" ROLE="LOC">
+          <extent>
+              <charseq START="845" END="850">Serbia</charseq>
+          </extent>
+          <head>
+              <charseq START="845" END="850">Serbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Serbia">
+              <charseq START="845" END="850">Serbia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E14-M609" ROLE="LOC">
+          <extent>
+              <charseq START="853" END="862">Montenegro</charseq>
+          </extent>
+          <head>
+              <charseq START="853" END="862">Montenegro</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Montenegro">
+              <charseq START="853" END="862">Montenegro</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E15" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E15-M610" ROLE="LOC">
+          <extent>
+              <charseq START="865" END="870">Kosovo</charseq>
+          </extent>
+          <head>
+              <charseq START="865" END="870">Kosovo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kosovo">
+              <charseq START="865" END="870">Kosovo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E16-M611" ROLE="LOC">
+          <extent>
+              <charseq START="873" END="878">Bosnia</charseq>
+          </extent>
+          <head>
+              <charseq START="873" END="878">Bosnia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bosnia">
+              <charseq START="873" END="878">Bosnia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100505.0186-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100505.0186-E17-M612" ROLE="LOC">
+          <extent>
+              <charseq START="884" END="890">Albania</charseq>
+          </extent>
+          <head>
+              <charseq START="884" END="890">Albania</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Albania">
+              <charseq START="884" END="890">Albania</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100505.0186-T0" VAL="2010-05-05">
+        <timex2_mention ID="XIN_ENG_20100505.0186-T0-M1">
+            <extent>
+              <charseq START="150" END="154">May 5</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100505.0186-T1" VAL="2010-05-05">
+        <timex2_mention ID="XIN_ENG_20100505.0186-T1-M1">
+            <extent>
+              <charseq START="240" END="248">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100505.0186-T2" VAL="P2D">
+        <timex2_mention ID="XIN_ENG_20100505.0186-T2-M1">
+            <extent>
+              <charseq START="508" END="514">two-day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100505.0186-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100505.0186-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100505.0186-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100505.0186-R0-M300">
+          <extent>
+              <charseq START="206" END="213">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E6-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="206" END="213">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E0-M301" ROLE="Arg-2">
+            <extent>
+              <charseq START="188" END="196">Bulgarian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100505.0186-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100505.0186-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100505.0186-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100505.0186-R1-M301">
+          <extent>
+              <charseq START="255" END="257">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E6-M307" ROLE="Arg-1">
+            <extent>
+              <charseq START="255" END="257">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E1-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="255" END="265">his country</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100505.0186-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100505.0186-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100505.0186-E2" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100505.0186-R2-M400">
+          <extent>
+              <charseq START="394" END="402">EU member</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E9-M405" ROLE="Arg-1">
+            <extent>
+              <charseq START="394" END="402">EU member</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E2-M406" ROLE="Arg-2">
+            <extent>
+              <charseq START="394" END="395">EU</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100505.0186-R3" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100505.0186-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100505.0186-E10" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100505.0186-R3-M500">
+          <extent>
+              <charseq START="601" END="603">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E6-M505" ROLE="Arg-1">
+            <extent>
+              <charseq START="601" END="603">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E10-M507" ROLE="Arg-2">
+            <extent>
+              <charseq START="616" END="626">counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100505.0186-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100505.0186-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100505.0186-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100505.0186-R4-M501">
+          <extent>
+              <charseq START="616" END="626">counterpart</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E10-M507" ROLE="Arg-1">
+            <extent>
+              <charseq START="616" END="626">counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100505.0186-E1-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="605" END="614">Macedonian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

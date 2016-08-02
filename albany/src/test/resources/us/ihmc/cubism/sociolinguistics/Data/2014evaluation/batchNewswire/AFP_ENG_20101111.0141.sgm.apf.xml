@@ -1,0 +1,606 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20101111.0141">
+  <document DOCID="AFP_ENG_20101111.0141">
+
+    <entity ID="AFP_ENG_20101111.0141-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E0-M2">
+          <extent>
+              <charseq START="74" END="80">Mandela</charseq>
+          </extent>
+          <head>
+              <charseq START="74" END="80">Mandela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E0-M806">
+          <extent>
+              <charseq START="1025" END="1031">Mandela</charseq>
+          </extent>
+          <head>
+              <charseq START="1025" END="1031">Mandela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E0-M901">
+          <extent>
+              <charseq START="1195" END="1201">Mandela</charseq>
+          </extent>
+          <head>
+              <charseq START="1195" END="1201">Mandela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E0-M902">
+          <extent>
+              <charseq START="1204" END="1239">South Africa&apos;s first black president</charseq>
+          </extent>
+          <head>
+              <charseq START="1231" END="1239">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E0-M1101">
+          <extent>
+              <charseq START="1529" END="1535">Mandela</charseq>
+          </extent>
+          <head>
+              <charseq START="1529" END="1535">Mandela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E0-M1104">
+          <extent>
+              <charseq START="1582" END="1590">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1582" END="1590">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101111.0141-E0-M1110">
+          <extent>
+              <charseq START="1675" END="1677">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1675" END="1677">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mandela">
+              <charseq START="74" END="80">Mandela</charseq>
+          </name>
+          <name NAME="Mandela">
+              <charseq START="1025" END="1031">Mandela</charseq>
+          </name>
+          <name NAME="Mandela">
+              <charseq START="1195" END="1201">Mandela</charseq>
+          </name>
+          <name NAME="Mandela">
+              <charseq START="1529" END="1535">Mandela</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E1-M202" ROLE="GPE">
+          <extent>
+              <charseq START="117" END="128">JOHANNESBURG</charseq>
+          </extent>
+          <head>
+              <charseq START="117" END="128">JOHANNESBURG</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E1-M912" ROLE="LOC">
+          <extent>
+              <charseq START="1351" END="1362">Johannesburg</charseq>
+          </extent>
+          <head>
+              <charseq START="1351" END="1362">Johannesburg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="JOHANNESBURG">
+              <charseq START="117" END="128">JOHANNESBURG</charseq>
+          </name>
+          <name NAME="Johannesburg">
+              <charseq START="1351" END="1362">Johannesburg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E2-M300">
+          <extent>
+              <charseq START="145" END="147">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="147">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="145" END="147">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E3-M400">
+          <extent>
+              <charseq START="173" END="213">The Nelson Mandela Foundation on Thursday</charseq>
+          </extent>
+          <head>
+              <charseq START="177" END="201">Nelson Mandela Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E3-M500">
+          <extent>
+              <charseq START="369" END="522">&quot;The Nelson Mandela Foundation would like to ask people everywhere to help make
+Madiba&apos;s retirement a time of peace and tranquillity,&quot; the statement said.</charseq>
+          </extent>
+          <head>
+              <charseq START="374" END="398">Nelson Mandela Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E3-M808">
+          <extent>
+              <charseq START="1041" END="1069">the Nelson
+Mandela Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="1045" END="1069">Nelson
+Mandela Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E3-M811">
+          <extent>
+              <charseq START="1076" END="1089">Nelson Mandela</charseq>
+          </extent>
+          <head>
+              <charseq START="1076" END="1089">Nelson Mandela</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E3-M813">
+          <extent>
+              <charseq START="1111" END="1139">the Mandela Rhodes
+Foundation</charseq>
+          </extent>
+          <head>
+              <charseq START="1115" END="1139">Mandela Rhodes
+Foundation</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nelson Mandela Foundation">
+              <charseq START="177" END="201">Nelson Mandela Foundation</charseq>
+          </name>
+          <name NAME="Nelson Mandela Foundation">
+              <charseq START="374" END="398">Nelson Mandela Foundation</charseq>
+          </name>
+          <name NAME="Nelson
+Mandela Foundation">
+              <charseq START="1045" END="1069">Nelson
+Mandela Foundation</charseq>
+          </name>
+          <name NAME="Nelson Mandela">
+              <charseq START="1076" END="1089">Nelson Mandela</charseq>
+          </name>
+          <name NAME="Mandela Rhodes
+Foundation">
+              <charseq START="1115" END="1139">Mandela Rhodes
+Foundation</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E4-M410" ROLE="GPE">
+          <extent>
+              <charseq START="274" END="286">South African</charseq>
+          </extent>
+          <head>
+              <charseq START="274" END="286">South African</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E4-M903">
+          <extent>
+              <charseq START="1204" END="1215">South Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="1204" END="1215">South Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South African">
+              <charseq START="274" END="286">South African</charseq>
+          </name>
+          <name NAME="South Africa">
+              <charseq START="1204" END="1215">South Africa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E5-M404">
+          <extent>
+              <charseq START="221" END="226">people</charseq>
+          </extent>
+          <head>
+              <charseq START="221" END="226">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E5-M503">
+          <extent>
+              <charseq START="418" END="423">people</charseq>
+          </extent>
+          <head>
+              <charseq START="418" END="423">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E6-M409">
+          <extent>
+              <charseq START="267" END="296">former South African president</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="296">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101111.0141-E6-M413">
+          <extent>
+              <charseq START="337" END="339">him</charseq>
+          </extent>
+          <head>
+              <charseq START="337" END="339">him</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E7" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E7-M505">
+          <extent>
+              <charseq START="449" END="454">Madiba</charseq>
+          </extent>
+          <head>
+              <charseq START="449" END="454">Madiba</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Madiba">
+              <charseq START="449" END="454">Madiba</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E8-M602">
+          <extent>
+              <charseq START="562" END="591">the 92-year-old Nobel Laureate</charseq>
+          </extent>
+          <head>
+              <charseq START="584" END="591">Laureate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101111.0141-E8-M601">
+          <extent>
+              <charseq START="546" END="548">his</charseq>
+          </extent>
+          <head>
+              <charseq START="546" END="548">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101111.0141-E8-M703">
+          <extent>
+              <charseq START="783" END="784">he</charseq>
+          </extent>
+          <head>
+              <charseq START="783" END="784">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101111.0141-E8-M711">
+          <extent>
+              <charseq START="880" END="881">he</charseq>
+          </extent>
+          <head>
+              <charseq START="880" END="881">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101111.0141-E8-M802">
+          <extent>
+              <charseq START="984" END="986">his</charseq>
+          </extent>
+          <head>
+              <charseq START="984" END="986">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101111.0141-E8-M818">
+          <extent>
+              <charseq START="1174" END="1176">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1174" END="1176">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E9-M612">
+          <extent>
+              <charseq START="682" END="725">various humanitarian causes around the globe</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="701">humanitarian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E10" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E10-M614">
+          <extent>
+              <charseq START="717" END="725">the globe</charseq>
+          </extent>
+          <head>
+              <charseq START="721" END="725">globe</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E11" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E11-M810">
+          <extent>
+              <charseq START="1072" END="1105">the Nelson Mandela Children's Fund</charseq>
+          </extent>
+          <head>
+              <charseq START="1091" END="1105">Children's Fund</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Children's Fund">
+              <charseq START="1091" END="1105">Children's Fund</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E12-M1011" ROLE="GPE">
+          <extent>
+              <charseq START="1453" END="1458">London</charseq>
+          </extent>
+          <head>
+              <charseq START="1453" END="1458">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="London">
+              <charseq START="1453" END="1458">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E13-M1002">
+          <extent>
+              <charseq START="1383" END="1506">the much-loved statesman through his lawyers distanced himself from a
+London exhibition of lithographs bearing his signature</charseq>
+          </extent>
+          <head>
+              <charseq START="1398" END="1406">statesman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101111.0141-E13-M1006">
+          <extent>
+              <charseq START="1416" END="1418">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1416" END="1418">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101111.0141-E13-M1015">
+          <extent>
+              <charseq START="1494" END="1496">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1494" END="1496">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101111.0141-E14-M1004">
+          <extent>
+              <charseq START="1416" END="1506">his lawyers distanced himself from a
+London exhibition of lithographs bearing his signature</charseq>
+          </extent>
+          <head>
+              <charseq START="1420" END="1426">lawyers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E15" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E15-M1103">
+          <extent>
+              <charseq START="1567" END="1580">Congo Republic</charseq>
+          </extent>
+          <head>
+              <charseq START="1567" END="1580">Congo Republic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Congo Republic">
+              <charseq START="1567" END="1580">Congo Republic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101111.0141-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101111.0141-E16-M1105">
+          <extent>
+              <charseq START="1592" END="1611">Denis
+Sassou-Nguesso</charseq>
+          </extent>
+          <head>
+              <charseq START="1592" END="1611">Denis
+Sassou-Nguesso</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Denis
+Sassou-Nguesso">
+              <charseq START="1592" END="1611">Denis
+Sassou-Nguesso</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20101111.0141-T0" VAL="2010">
+        <timex2_mention ID="AFP_ENG_20101111.0141-T0-M1">
+            <extent>
+              <charseq START="139" END="142">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101111.0141-T1" VAL="2010-11-11">
+        <timex2_mention ID="AFP_ENG_20101111.0141-T1-M1">
+            <extent>
+              <charseq START="206" END="213">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101111.0141-T2" VAL="PAST_REF" ANCHOR_VAL="2010-11-11" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20101111.0141-T2-M1">
+            <extent>
+              <charseq START="267" END="272">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101111.0141-T3" VAL="P92Y">
+        <timex2_mention ID="AFP_ENG_20101111.0141-T3-M1">
+            <extent>
+              <charseq START="566" END="576">92-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101111.0141-T4" VAL="P1M">
+        <timex2_mention ID="AFP_ENG_20101111.0141-T4-M1">
+            <extent>
+              <charseq START="617" END="625">per month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101111.0141-T5" VAL="2004">
+        <timex2_mention ID="AFP_ENG_20101111.0141-T5-M1">
+            <extent>
+              <charseq START="1019" END="1022">2004</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101111.0141-T6" VAL="2010">
+        <timex2_mention ID="AFP_ENG_20101111.0141-T6-M1">
+            <extent>
+              <charseq START="1328" END="1331">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101111.0141-T7" VAL="2010-07">
+        <timex2_mention ID="AFP_ENG_20101111.0141-T7-M1">
+            <extent>
+              <charseq START="1377" END="1380">July</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101111.0141-T8" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20101111.0141-T8-M1">
+            <extent>
+              <charseq START="1518" END="1526">Last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20101111.0141-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101111.0141-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101111.0141-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101111.0141-R0-M400">
+          <extent>
+              <charseq START="267" END="296">former South African president</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101111.0141-E6-M409" ROLE="Arg-1">
+            <extent>
+              <charseq START="267" END="296">former South African president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101111.0141-E4-M410" ROLE="Arg-2">
+            <extent>
+              <charseq START="274" END="286">South African</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101111.0141-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101111.0141-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101111.0141-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101111.0141-R1-M900">
+          <extent>
+              <charseq START="1204" END="1239">South Africa&apos;s first black president</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101111.0141-E0-M902" ROLE="Arg-1">
+            <extent>
+              <charseq START="1204" END="1239">South Africa&apos;s first black president</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101111.0141-E4-M903" ROLE="Arg-2">
+            <extent>
+              <charseq START="1204" END="1215">South Africa</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101111.0141-R2" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101111.0141-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101111.0141-E14" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101111.0141-R2-M1000">
+          <extent>
+              <charseq START="1416" END="1418">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101111.0141-E13-M1006" ROLE="Arg-1">
+            <extent>
+              <charseq START="1416" END="1418">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101111.0141-E14-M1004" ROLE="Arg-2">
+            <extent>
+              <charseq START="1416" END="1506">his lawyers distanced himself from a
+London exhibition of lithographs bearing his signature</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20101111.0141-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101111.0141-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101111.0141-E15" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101111.0141-R3-M1100">
+          <extent>
+              <charseq START="1582" END="1590">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101111.0141-E0-M1104" ROLE="Arg-1">
+            <extent>
+              <charseq START="1582" END="1590">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101111.0141-E15-M1103" ROLE="Arg-2">
+            <extent>
+              <charseq START="1567" END="1580">Congo Republic</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

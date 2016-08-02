@@ -1,0 +1,2888 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20090822.0020">
+  <document DOCID="NYT_ENG_20090822.0020">
+
+    <entity ID="NYT_ENG_20090822.0020-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E0-M4" ROLE="GPE">
+          <extent>
+              <charseq START="71" END="78">MOROCCAN</charseq>
+          </extent>
+          <head>
+              <charseq START="71" END="78">MOROCCAN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E0-M102" ROLE="LOC">
+          <extent>
+              <charseq START="141" END="147">Morocco</charseq>
+          </extent>
+          <head>
+              <charseq START="141" END="147">Morocco</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E0-M229" ROLE="LOC">
+          <extent>
+              <charseq START="399" END="405">Morocco</charseq>
+          </extent>
+          <head>
+              <charseq START="399" END="405">Morocco</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E0-M1706" ROLE="GPE">
+          <extent>
+              <charseq START="2154" END="2167">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="2158" END="2167">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E0-M2316" ROLE="GPE">
+          <extent>
+              <charseq START="3086" END="3093">Moroccan</charseq>
+          </extent>
+          <head>
+              <charseq START="3086" END="3093">Moroccan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E0-M2613">
+          <extent>
+              <charseq START="3448" END="3454">Morocco</charseq>
+          </extent>
+          <head>
+              <charseq START="3448" END="3454">Morocco</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E0-M4803">
+          <extent>
+              <charseq START="5071" END="5077">Morocco</charseq>
+          </extent>
+          <head>
+              <charseq START="5071" END="5077">Morocco</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="MOROCCAN">
+              <charseq START="71" END="78">MOROCCAN</charseq>
+          </name>
+          <name NAME="Morocco">
+              <charseq START="141" END="147">Morocco</charseq>
+          </name>
+          <name NAME="Morocco">
+              <charseq START="399" END="405">Morocco</charseq>
+          </name>
+          <name NAME="Moroccan">
+              <charseq START="3086" END="3093">Moroccan</charseq>
+          </name>
+          <name NAME="Morocco">
+              <charseq START="3448" END="3454">Morocco</charseq>
+          </name>
+          <name NAME="Morocco">
+              <charseq START="5071" END="5077">Morocco</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E1" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E1-M1">
+          <extent>
+              <charseq START="58" END="66">BACK HOME</charseq>
+          </extent>
+          <head>
+              <charseq START="63" END="66">HOME</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E1-M6002">
+          <extent>
+              <charseq START="6095" END="6098">home</charseq>
+          </extent>
+          <head>
+              <charseq START="6095" END="6098">home</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E2-M100" ROLE="LOC">
+          <extent>
+              <charseq START="129" END="147">CASABLANCA, Morocco</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="138">CASABLANCA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E2-M2609" ROLE="LOC">
+          <extent>
+              <charseq START="3393" END="3402">Casablanca</charseq>
+          </extent>
+          <head>
+              <charseq START="3393" END="3402">Casablanca</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CASABLANCA">
+              <charseq START="129" END="138">CASABLANCA</charseq>
+          </name>
+          <name NAME="Casablanca">
+              <charseq START="3393" END="3402">Casablanca</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E3-M205">
+          <extent>
+              <charseq START="203" END="218">Hay
+al-Mohammadi</charseq>
+          </extent>
+          <head>
+              <charseq START="203" END="218">Hay
+al-Mohammadi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E3-M1800">
+          <extent>
+              <charseq START="2253" END="2273">Near Hay al-Mohammadi</charseq>
+          </extent>
+          <head>
+              <charseq START="2258" END="2273">Hay al-Mohammadi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E3-M1801">
+          <extent>
+              <charseq START="2253" END="2256">Near</charseq>
+          </extent>
+          <head>
+              <charseq START="2253" END="2256">Near</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E3-M5300">
+          <extent>
+              <charseq START="5491" END="5607">Hay al-Mohammadi, where Bahri&apos;s parents, brother and sister
+still live, there are signs of rebuilding and development</charseq>
+          </extent>
+          <head>
+              <charseq START="5491" END="5506">Hay al-Mohammadi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hay
+al-Mohammadi">
+              <charseq START="203" END="218">Hay
+al-Mohammadi</charseq>
+          </name>
+          <name NAME="Hay al-Mohammadi">
+              <charseq START="2258" END="2273">Hay al-Mohammadi</charseq>
+          </name>
+          <name NAME="Hay al-Mohammadi">
+              <charseq START="5491" END="5506">Hay al-Mohammadi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E4-M230">
+          <extent>
+              <charseq START="408" END="417">CasaMuslim</charseq>
+          </extent>
+          <head>
+              <charseq START="408" END="417">CasaMuslim</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CasaMuslim">
+              <charseq START="408" END="417">CasaMuslim</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E5-M202">
+          <extent>
+              <charseq START="191" END="250">a prince in Hay
+al-Mohammadi, the district of slums, markets</charseq>
+          </extent>
+          <head>
+              <charseq START="193" END="198">prince</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E5-M200">
+          <extent>
+              <charseq START="172" END="173">He</charseq>
+          </extent>
+          <head>
+              <charseq START="172" END="173">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E5-M216">
+          <extent>
+              <charseq START="305" END="306">he</charseq>
+          </extent>
+          <head>
+              <charseq START="305" END="306">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E6" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E6-M206" ROLE="LOC">
+          <extent>
+              <charseq START="221" END="250">the district of slums, markets</charseq>
+          </extent>
+          <head>
+              <charseq START="225" END="232">district</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E6-M303">
+          <extent>
+              <charseq START="465" END="541">the district, which was
+central to popular resistance to French colonial rule</charseq>
+          </extent>
+          <head>
+              <charseq START="469" END="476">district</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E6-M305">
+          <extent>
+              <charseq START="479" END="483">which</charseq>
+          </extent>
+          <head>
+              <charseq START="479" END="483">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E6-M312">
+          <extent>
+              <charseq START="559" END="562">here</charseq>
+          </extent>
+          <head>
+              <charseq START="559" END="562">here</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E7" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E7-M209">
+          <extent>
+              <charseq START="237" END="241">slums</charseq>
+          </extent>
+          <head>
+              <charseq START="237" END="241">slums</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E8-M212">
+          <extent>
+              <charseq START="253" END="262">immigrants</charseq>
+          </extent>
+          <head>
+              <charseq START="253" END="262">immigrants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E9-M213">
+          <extent>
+              <charseq START="268" END="290">working-class Moroccans</charseq>
+          </extent>
+          <head>
+              <charseq START="282" END="290">Moroccans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E9-M1902">
+          <extent>
+              <charseq START="2492" END="2509">ordinary
+Moroccans</charseq>
+          </extent>
+          <head>
+              <charseq START="2501" END="2509">Moroccans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E10-M220">
+          <extent>
+              <charseq START="329" END="352">a
+teenager, 15 years old</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="338">teenager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E10-M315">
+          <extent>
+              <charseq START="582" END="586">a kid</charseq>
+          </extent>
+          <head>
+              <charseq START="584" END="586">kid</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E10-M316">
+          <extent>
+              <charseq START="588" END="590">who</charseq>
+          </extent>
+          <head>
+              <charseq START="588" END="590">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E10-M401">
+          <extent>
+              <charseq START="637" END="639">him</charseq>
+          </extent>
+          <head>
+              <charseq START="637" END="639">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E10-M404">
+          <extent>
+              <charseq START="658" END="660">him</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="660">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E10-M407">
+          <extent>
+              <charseq START="674" END="676">him</charseq>
+          </extent>
+          <head>
+              <charseq START="674" END="676">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E10-M411">
+          <extent>
+              <charseq START="684" END="686">his</charseq>
+          </extent>
+          <head>
+              <charseq START="684" END="686">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E10-M413">
+          <extent>
+              <charseq START="700" END="702">his</charseq>
+          </extent>
+          <head>
+              <charseq START="700" END="702">his</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E11-M225">
+          <extent>
+              <charseq START="375" END="417">the first rap groups in
+Morocco, CasaMuslim</charseq>
+          </extent>
+          <head>
+              <charseq START="389" END="394">groups</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M300">
+          <extent>
+              <charseq START="429" END="442">Muhammad Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="429" END="442">Muhammad Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M313">
+          <extent>
+              <charseq START="577" END="579">him</charseq>
+          </extent>
+          <head>
+              <charseq START="577" END="579">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M504">
+          <extent>
+              <charseq START="865" END="906">Bahri, who goes by the
+stage name of Barry</charseq>
+          </extent>
+          <head>
+              <charseq START="865" END="869">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M506">
+          <extent>
+              <charseq START="872" END="874">who</charseq>
+          </extent>
+          <head>
+              <charseq START="872" END="874">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M512">
+          <extent>
+              <charseq START="920" END="922">his</charseq>
+          </extent>
+          <head>
+              <charseq START="920" END="922">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M603">
+          <extent>
+              <charseq START="940" END="942">His</charseq>
+          </extent>
+          <head>
+              <charseq START="940" END="942">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M607">
+          <extent>
+              <charseq START="1035" END="1037">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1035" END="1037">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M612">
+          <extent>
+              <charseq START="1057" END="1059">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1057" END="1059">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M704">
+          <extent>
+              <charseq START="1164" END="1165">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1164" END="1165">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M809">
+          <extent>
+              <charseq START="1328" END="1330">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1328" END="1330">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M904">
+          <extent>
+              <charseq START="1473" END="1477">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="1473" END="1477">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M1002">
+          <extent>
+              <charseq START="1495" END="1497">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1495" END="1497">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M1006">
+          <extent>
+              <charseq START="1536" END="1537">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1536" END="1537">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M1200">
+          <extent>
+              <charseq START="1604" END="1605">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1604" END="1605">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M1204">
+          <extent>
+              <charseq START="1625" END="1627">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1625" END="1627">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M1208">
+          <extent>
+              <charseq START="1655" END="1656">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1655" END="1656">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M1302">
+          <extent>
+              <charseq START="1731" END="1732">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1731" END="1732">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M1306">
+          <extent>
+              <charseq START="1784" END="1786">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1784" END="1786">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M1310">
+          <extent>
+              <charseq START="1805" END="1807">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1805" END="1807">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M2002">
+          <extent>
+              <charseq START="2602" END="2606">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="2602" END="2606">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M2012">
+          <extent>
+              <charseq START="2697" END="2701">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="2697" END="2701">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M2108">
+          <extent>
+              <charseq START="2797" END="2801">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="2797" END="2801">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M2303">
+          <extent>
+              <charseq START="3000" END="3004">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="3000" END="3004">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M2504">
+          <extent>
+              <charseq START="3312" END="3316">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="3312" END="3316">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M2614">
+          <extent>
+              <charseq START="3457" END="3461">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="3457" END="3461">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M2703">
+          <extent>
+              <charseq START="3574" END="3575">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3574" END="3575">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M2900">
+          <extent>
+              <charseq START="3618" END="3619">He</charseq>
+          </extent>
+          <head>
+              <charseq START="3618" END="3619">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M3004">
+          <extent>
+              <charseq START="3714" END="3715">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3714" END="3715">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M3201">
+          <extent>
+              <charseq START="3911" END="3913">His</charseq>
+          </extent>
+          <head>
+              <charseq START="3911" END="3913">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M3302">
+          <extent>
+              <charseq START="4014" END="4015">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4014" END="4015">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M4100">
+          <extent>
+              <charseq START="4463" END="4467">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="4463" END="4467">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M4206">
+          <extent>
+              <charseq START="4661" END="4662">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4661" END="4662">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M4402">
+          <extent>
+              <charseq START="4692" END="4694">him</charseq>
+          </extent>
+          <head>
+              <charseq START="4692" END="4694">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M4500">
+          <extent>
+              <charseq START="4715" END="4719">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="4715" END="4719">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M4503">
+          <extent>
+              <charseq START="4763" END="4764">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4763" END="4764">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M4509">
+          <extent>
+              <charseq START="4794" END="4796">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4794" END="4796">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M4516">
+          <extent>
+              <charseq START="4869" END="4871">his</charseq>
+          </extent>
+          <head>
+              <charseq START="4869" END="4871">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M4609">
+          <extent>
+              <charseq START="4983" END="4984">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4983" END="4984">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M4804">
+          <extent>
+              <charseq START="5106" END="5110">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="5106" END="5110">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M4806">
+          <extent>
+              <charseq START="5126" END="5128">his</charseq>
+          </extent>
+          <head>
+              <charseq START="5126" END="5128">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M5001">
+          <extent>
+              <charseq START="5281" END="5285">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="5281" END="5285">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E13-M5000">
+          <extent>
+              <charseq START="5281" END="5294">Bahri&apos;s father</charseq>
+          </extent>
+          <head>
+              <charseq START="5289" END="5294">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E13-M5002">
+          <extent>
+              <charseq START="5300" END="5334">an excellent soccer player who made</charseq>
+          </extent>
+          <head>
+              <charseq START="5320" END="5325">player</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M5005">
+          <extent>
+              <charseq START="5327" END="5329">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5327" END="5329">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E13-M5102">
+          <extent>
+              <charseq START="5372" END="5412">an engineer on the national train
+network</charseq>
+          </extent>
+          <head>
+              <charseq START="5375" END="5382">engineer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M5100">
+          <extent>
+              <charseq START="5362" END="5363">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5362" END="5363">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M5203">
+          <extent>
+              <charseq START="5452" END="5456">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="5452" END="5456">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M5200">
+          <extent>
+              <charseq START="5415" END="5416">He</charseq>
+          </extent>
+          <head>
+              <charseq START="5415" END="5416">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M5304">
+          <extent>
+              <charseq START="5515" END="5519">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="5515" END="5519">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M5407">
+          <extent>
+              <charseq START="5682" END="5686">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="5682" END="5686">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M5803">
+          <extent>
+              <charseq START="6028" END="6032">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="6028" END="6032">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M6104">
+          <extent>
+              <charseq START="6167" END="6171">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="6167" END="6171">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E13-M6103">
+          <extent>
+              <charseq START="6150" END="6156">teacher</charseq>
+          </extent>
+          <head>
+              <charseq START="6150" END="6156">teacher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M6105">
+          <extent>
+              <charseq START="6191" END="6193">him</charseq>
+          </extent>
+          <head>
+              <charseq START="6191" END="6193">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M6108">
+          <extent>
+              <charseq START="6198" END="6200">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6198" END="6200">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M6307">
+          <extent>
+              <charseq START="6381" END="6382">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6381" END="6382">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M6312">
+          <extent>
+              <charseq START="6415" END="6417">his</charseq>
+          </extent>
+          <head>
+              <charseq START="6415" END="6417">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M6406">
+          <extent>
+              <charseq START="6524" END="6525">he</charseq>
+          </extent>
+          <head>
+              <charseq START="6524" END="6525">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M6707">
+          <extent>
+              <charseq START="6711" END="6715">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="6711" END="6715">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M6713">
+          <extent>
+              <charseq START="6774" END="6776">him</charseq>
+          </extent>
+          <head>
+              <charseq START="6774" END="6776">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E13-M6802">
+          <extent>
+              <charseq START="6803" END="6805">him</charseq>
+          </extent>
+          <head>
+              <charseq START="6803" END="6805">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E13-M7002">
+          <extent>
+              <charseq START="6892" END="6896">Bahri</charseq>
+          </extent>
+          <head>
+              <charseq START="6892" END="6896">Bahri</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muhammad Bahri">
+              <charseq START="429" END="442">Muhammad Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="865" END="869">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="1473" END="1477">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="2602" END="2606">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="2697" END="2701">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="2797" END="2801">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="3000" END="3004">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="3312" END="3316">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="3457" END="3461">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="4463" END="4467">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="4715" END="4719">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="5106" END="5110">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="5281" END="5285">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="5452" END="5456">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="5515" END="5519">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="5682" END="5686">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="6028" END="6032">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="6167" END="6171">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="6711" END="6715">Bahri</charseq>
+          </name>
+          <name NAME="Bahri">
+              <charseq START="6892" END="6896">Bahri</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E14-M309" ROLE="GPE">
+          <extent>
+              <charseq START="522" END="527">French</charseq>
+          </extent>
+          <head>
+              <charseq START="522" END="527">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E14-M2011" ROLE="GPE">
+          <extent>
+              <charseq START="2684" END="2689">French</charseq>
+          </extent>
+          <head>
+              <charseq START="2684" END="2689">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="French">
+              <charseq START="522" END="527">French</charseq>
+          </name>
+          <name NAME="French">
+              <charseq START="2684" END="2689">French</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E15-M310">
+          <extent>
+              <charseq START="548" END="562">the
+people here</charseq>
+          </extent>
+          <head>
+              <charseq START="552" END="557">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E15-M1405">
+          <extent>
+              <charseq START="1871" END="1880">the people</charseq>
+          </extent>
+          <head>
+              <charseq START="1875" END="1880">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E16-M400">
+          <extent>
+              <charseq START="625" END="630">People</charseq>
+          </extent>
+          <head>
+              <charseq START="625" END="630">People</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E17-M410">
+          <extent>
+              <charseq START="684" END="694">his parents</charseq>
+          </extent>
+          <head>
+              <charseq START="688" END="694">parents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E17-M417">
+          <extent>
+              <charseq START="736" END="740">their</charseq>
+          </extent>
+          <head>
+              <charseq START="736" END="740">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E17-M4508">
+          <extent>
+              <charseq START="4794" END="4804">his parents</charseq>
+          </extent>
+          <head>
+              <charseq START="4798" END="4804">parents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E18-M420">
+          <extent>
+              <charseq START="763" END="772">the police</charseq>
+          </extent>
+          <head>
+              <charseq START="767" END="772">police</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E18-M425">
+          <extent>
+              <charseq START="802" END="806">their</charseq>
+          </extent>
+          <head>
+              <charseq START="802" END="806">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E18-M605">
+          <extent>
+              <charseq START="1011" END="1021">the
+police,</charseq>
+          </extent>
+          <head>
+              <charseq START="1015" END="1020">police</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E19" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E19-M423">
+          <extent>
+              <charseq START="784" END="799">the neighborhood</charseq>
+          </extent>
+          <head>
+              <charseq START="788" END="799">neighborhood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E19-M4501">
+          <extent>
+              <charseq START="4726" END="4741">the neighborhood</charseq>
+          </extent>
+          <head>
+              <charseq START="4730" END="4741">neighborhood</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E20-M424">
+          <extent>
+              <charseq START="802" END="811">their kids</charseq>
+          </extent>
+          <head>
+              <charseq START="808" END="811">kids</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E20-M5603">
+          <extent>
+              <charseq START="5872" END="5879">children</charseq>
+          </extent>
+          <head>
+              <charseq START="5872" END="5879">children</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E20-M5800">
+          <extent>
+              <charseq START="5968" END="5979">These people</charseq>
+          </extent>
+          <head>
+              <charseq START="5974" END="5979">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E21-M510">
+          <extent>
+              <charseq START="902" END="906">Barry</charseq>
+          </extent>
+          <head>
+              <charseq START="902" END="906">Barry</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barry">
+              <charseq START="902" END="906">Barry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E22-M604">
+          <extent>
+              <charseq START="982" END="1005">former interior minister</charseq>
+          </extent>
+          <head>
+              <charseq START="998" END="1005">minister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E23-M702">
+          <extent>
+              <charseq START="1155" END="1160">&quot;Driss</charseq>
+          </extent>
+          <head>
+              <charseq START="1156" END="1160">Driss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E23-M901">
+          <extent>
+              <charseq START="1429" END="1433">Driss</charseq>
+          </extent>
+          <head>
+              <charseq START="1429" END="1433">Driss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E23-M902">
+          <extent>
+              <charseq START="1439" END="1446">a farmer</charseq>
+          </extent>
+          <head>
+              <charseq START="1441" END="1446">farmer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E23-M903">
+          <extent>
+              <charseq START="1459" END="1469">a policeman</charseq>
+          </extent>
+          <head>
+              <charseq START="1461" END="1469">policeman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E23-M2102">
+          <extent>
+              <charseq START="2731" END="2735">Driss</charseq>
+          </extent>
+          <head>
+              <charseq START="2731" END="2735">Driss</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Driss">
+              <charseq START="1156" END="1160">Driss</charseq>
+          </name>
+          <name NAME="Driss">
+              <charseq START="1429" END="1433">Driss</charseq>
+          </name>
+          <name NAME="Driss">
+              <charseq START="2731" END="2735">Driss</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E24-M706">
+          <extent>
+              <charseq START="1175" END="1270">Driss Basri,
+who ran the Interior Ministry from 1979 to 1999, known here as
+&quot;the years of lead.&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1175" END="1185">Driss Basri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E24-M708">
+          <extent>
+              <charseq START="1188" END="1190">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1188" END="1190">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E24-M800">
+          <extent>
+              <charseq START="1272" END="1276">Basri</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1276">Basri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E24-M1500">
+          <extent>
+              <charseq START="1893" END="1897">Basri</charseq>
+          </extent>
+          <head>
+              <charseq START="1893" END="1897">Basri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E24-M1513">
+          <extent>
+              <charseq START="2020" END="2029">his father</charseq>
+          </extent>
+          <head>
+              <charseq START="2024" END="2029">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E24-M1507">
+          <extent>
+              <charseq START="1964" END="1966">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1964" END="1966">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E24-M1514">
+          <extent>
+              <charseq START="2020" END="2022">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2020" END="2022">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E24-M1607">
+          <extent>
+              <charseq START="2083" END="2084">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2083" END="2084">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E24-M1700">
+          <extent>
+              <charseq START="2107" END="2108">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2107" END="2108">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E24-M1813">
+          <extent>
+              <charseq START="2447" END="2451">Basri</charseq>
+          </extent>
+          <head>
+              <charseq START="2447" END="2451">Basri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E24-M1807">
+          <extent>
+              <charseq START="2360" END="2369">the French</charseq>
+          </extent>
+          <head>
+              <charseq START="2364" END="2369">French</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Driss Basri">
+              <charseq START="1175" END="1185">Driss Basri</charseq>
+          </name>
+          <name NAME="Basri">
+              <charseq START="1272" END="1276">Basri</charseq>
+          </name>
+          <name NAME="Basri">
+              <charseq START="1893" END="1897">Basri</charseq>
+          </name>
+          <name NAME="Basri">
+              <charseq START="2447" END="2451">Basri</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E25" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E25-M709">
+          <extent>
+              <charseq START="1196" END="1216">the Interior Ministry</charseq>
+          </extent>
+          <head>
+              <charseq START="1200" END="1216">Interior Ministry</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Interior Ministry">
+              <charseq START="1200" END="1216">Interior Ministry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E26-M803">
+          <extent>
+              <charseq START="1293" END="1306">King Hassan II</charseq>
+          </extent>
+          <head>
+              <charseq START="1298" END="1306">Hassan II</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E26-M804">
+          <extent>
+              <charseq START="1293" END="1296">King</charseq>
+          </extent>
+          <head>
+              <charseq START="1293" END="1296">King</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E26-M1501">
+          <extent>
+              <charseq START="1916" END="1931">the current king</charseq>
+          </extent>
+          <head>
+              <charseq START="1928" END="1931">king</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E26-M1900">
+          <extent>
+              <charseq START="2454" END="2465">The new king</charseq>
+          </extent>
+          <head>
+              <charseq START="2462" END="2465">king</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E26-M1904">
+          <extent>
+              <charseq START="2516" END="2517">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2516" END="2517">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E26-M2105">
+          <extent>
+              <charseq START="2784" END="2794">King Hassan</charseq>
+          </extent>
+          <head>
+              <charseq START="2789" END="2794">Hassan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E26-M2106">
+          <extent>
+              <charseq START="2784" END="2787">King</charseq>
+          </extent>
+          <head>
+              <charseq START="2784" END="2787">King</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E26-M2300">
+          <extent>
+              <charseq START="2987" END="2997">King Hassan</charseq>
+          </extent>
+          <head>
+              <charseq START="2992" END="2997">Hassan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E26-M2301">
+          <extent>
+              <charseq START="2987" END="2990">King</charseq>
+          </extent>
+          <head>
+              <charseq START="2987" END="2990">King</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hassan II">
+              <charseq START="1298" END="1306">Hassan II</charseq>
+          </name>
+          <name NAME="Hassan">
+              <charseq START="2789" END="2794">Hassan</charseq>
+          </name>
+          <name NAME="Hassan">
+              <charseq START="2992" END="2997">Hassan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E28" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E28-M1305">
+          <extent>
+              <charseq START="1784" END="1790">his Ray</charseq>
+          </extent>
+          <head>
+              <charseq START="1788" END="1790">Ray</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E28-M4604" ROLE="LOC">
+          <extent>
+              <charseq START="4917" END="4936">these poor districts</charseq>
+          </extent>
+          <head>
+              <charseq START="4928" END="4936">districts</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ray">
+              <charseq START="1788" END="1790">Ray</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E29-M1300">
+          <extent>
+              <charseq START="1695" END="1700">People</charseq>
+          </extent>
+          <head>
+              <charseq START="1695" END="1700">People</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E30-M1502">
+          <extent>
+              <charseq START="1934" END="1944">Muhammad VI</charseq>
+          </extent>
+          <head>
+              <charseq START="1934" END="1944">Muhammad VI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E30-M1600">
+          <extent>
+              <charseq START="2032" END="2105">The former minister exiled himself to Paris, where he
+died in 2007, at 69.</charseq>
+          </extent>
+          <head>
+              <charseq START="2043" END="2050">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E30-M2200">
+          <extent>
+              <charseq START="2809" END="2821">King Muhammad</charseq>
+          </extent>
+          <head>
+              <charseq START="2814" END="2821">Muhammad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E30-M2201">
+          <extent>
+              <charseq START="2809" END="2812">King</charseq>
+          </extent>
+          <head>
+              <charseq START="2809" END="2812">King</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E30-M2212">
+          <extent>
+              <charseq START="2945" END="2952">the king</charseq>
+          </extent>
+          <head>
+              <charseq START="2949" END="2952">king</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E30-M5401">
+          <extent>
+              <charseq START="5626" END="5641">King Muhammad VI</charseq>
+          </extent>
+          <head>
+              <charseq START="5631" END="5641">Muhammad VI</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E30-M5402">
+          <extent>
+              <charseq START="5626" END="5629">King</charseq>
+          </extent>
+          <head>
+              <charseq START="5626" END="5629">King</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E30-M6101">
+          <extent>
+              <charseq START="6120" END="6133">Muhammad Mardi</charseq>
+          </extent>
+          <head>
+              <charseq START="6120" END="6133">Muhammad Mardi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E30-M6200">
+          <extent>
+              <charseq START="6212" END="6216">Mardi</charseq>
+          </extent>
+          <head>
+              <charseq START="6212" END="6216">Mardi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muhammad VI">
+              <charseq START="1934" END="1944">Muhammad VI</charseq>
+          </name>
+          <name NAME="Muhammad">
+              <charseq START="2814" END="2821">Muhammad</charseq>
+          </name>
+          <name NAME="Muhammad VI">
+              <charseq START="5631" END="5641">Muhammad VI</charseq>
+          </name>
+          <name NAME="Muhammad Mardi">
+              <charseq START="6120" END="6133">Muhammad Mardi</charseq>
+          </name>
+          <name NAME="Mardi">
+              <charseq START="6212" END="6216">Mardi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E31-M1604" ROLE="LOC">
+          <extent>
+              <charseq START="2070" END="2104">Paris, where he
+died in 2007, at 69</charseq>
+          </extent>
+          <head>
+              <charseq START="2070" END="2074">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E31-M1606">
+          <extent>
+              <charseq START="2077" END="2081">where</charseq>
+          </extent>
+          <head>
+              <charseq START="2077" END="2081">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paris">
+              <charseq START="2070" END="2074">Paris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E32" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E32-M1702" ROLE="LOC">
+          <extent>
+              <charseq START="2124" END="2129">Rabat,</charseq>
+          </extent>
+          <head>
+              <charseq START="2124" END="2128">Rabat</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rabat">
+              <charseq START="2124" END="2128">Rabat</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E33" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E33-M1711">
+          <extent>
+              <charseq START="2226" END="2241">Chakib Benmoussa</charseq>
+          </extent>
+          <head>
+              <charseq START="2226" END="2241">Chakib Benmoussa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E33-M1710">
+          <extent>
+              <charseq START="2195" END="2223">the current interior
+minister</charseq>
+          </extent>
+          <head>
+              <charseq START="2216" END="2223">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E33-M1704">
+          <extent>
+              <charseq START="2135" END="2177">the only member of
+the government to attend</charseq>
+          </extent>
+          <head>
+              <charseq START="2144" END="2149">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chakib Benmoussa">
+              <charseq START="2226" END="2241">Chakib Benmoussa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E34-M1803">
+          <extent>
+              <charseq START="2279" END="2296">Derb Moulay Sherif</charseq>
+          </extent>
+          <head>
+              <charseq START="2279" END="2296">Derb Moulay Sherif</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Derb Moulay Sherif">
+              <charseq START="2279" END="2296">Derb Moulay Sherif</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E35" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E35-M1805">
+          <extent>
+              <charseq START="2308" END="2451">an
+infamous underground prison, originally built by the French, where
+conditions for political prisoners were said to be unspeakable
+under Basri</charseq>
+          </extent>
+          <head>
+              <charseq START="2332" END="2337">prison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E35-M1809">
+          <extent>
+              <charseq START="2372" END="2376">where</charseq>
+          </extent>
+          <head>
+              <charseq START="2372" END="2376">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E35-M1908">
+          <extent>
+              <charseq START="2544" END="2553">the prison</charseq>
+          </extent>
+          <head>
+              <charseq START="2548" END="2553">prison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E35-M2007">
+          <extent>
+              <charseq START="2645" END="2654">the prison</charseq>
+          </extent>
+          <head>
+              <charseq START="2649" END="2654">prison</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E36" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E36-M1812">
+          <extent>
+              <charseq START="2393" END="2411">political prisoners</charseq>
+          </extent>
+          <head>
+              <charseq START="2403" END="2411">prisoners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E37-M2001">
+          <extent>
+              <charseq START="2602" END="2620">Bahri&apos;s grandfather</charseq>
+          </extent>
+          <head>
+              <charseq START="2610" END="2620">grandfather</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E37-M2003">
+          <extent>
+              <charseq START="2623" END="2654">a poet, spent time in the prison</charseq>
+          </extent>
+          <head>
+              <charseq START="2625" END="2628">poet</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E38" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E38-M2205">
+          <extent>
+              <charseq START="2865" END="2878">the news media</charseq>
+          </extent>
+          <head>
+              <charseq START="2874" END="2878">media</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E39" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E39-M2319" ROLE="GPE">
+          <extent>
+              <charseq START="3137" END="3144">Algerian</charseq>
+          </extent>
+          <head>
+              <charseq START="3137" END="3144">Algerian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Algerian">
+              <charseq START="3137" END="3144">Algerian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E40-M2309">
+          <extent>
+              <charseq START="3046" END="3148">so musicians created a style, a kind of Moroccan popular music
+called &quot;chaabi,&quot; similar to Algerian &quot;ra</charseq>
+          </extent>
+          <head>
+              <charseq START="3049" END="3057">musicians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E41" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E41-M2604">
+          <extent>
+              <charseq START="3347" END="3353">Islamic</charseq>
+          </extent>
+          <head>
+              <charseq START="3347" END="3353">Islamic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Islamic">
+              <charseq START="3347" END="3353">Islamic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E42" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E42-M2602">
+          <extent>
+              <charseq START="3347" END="3454">Islamic radicals set off a series of bombs in
+Casablanca, killing 45, wounding hundreds and shocking Morocco</charseq>
+          </extent>
+          <head>
+              <charseq START="3355" END="3362">radicals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E43" TYPE="WEA" SUBTYPE="Exploding" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E43-M2607">
+          <extent>
+              <charseq START="3384" END="3402">bombs in
+Casablanca</charseq>
+          </extent>
+          <head>
+              <charseq START="3384" END="3388">bombs</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E43-M4005">
+          <extent>
+              <charseq START="4442" END="4446">bombs</charseq>
+          </extent>
+          <head>
+              <charseq START="4442" END="4446">bombs</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E44" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E44-M2615">
+          <extent>
+              <charseq START="3478" END="3493">a club 200 yards</charseq>
+          </extent>
+          <head>
+              <charseq START="3480" END="3483">club</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E46" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E46-M2700">
+          <extent>
+              <charseq START="3530" END="3537">The room</charseq>
+          </extent>
+          <head>
+              <charseq START="3534" END="3537">room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E47" TYPE="FAC" SUBTYPE="Path" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E47-M2902">
+          <extent>
+              <charseq START="3663" END="3672">the street</charseq>
+          </extent>
+          <head>
+              <charseq START="3667" END="3672">street</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E48" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E48-M3120">
+          <extent>
+              <charseq START="3883" END="3887">Qaida</charseq>
+          </extent>
+          <head>
+              <charseq START="3883" END="3887">Qaida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E48-M3204">
+          <extent>
+              <charseq START="3959" END="3966">al-Qaida</charseq>
+          </extent>
+          <head>
+              <charseq START="3959" END="3966">al-Qaida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Qaida">
+              <charseq START="3883" END="3887">Qaida</charseq>
+          </name>
+          <name NAME="al-Qaida">
+              <charseq START="3959" END="3966">al-Qaida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E49" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E49-M3106">
+          <extent>
+              <charseq START="3801" END="3806">people</charseq>
+          </extent>
+          <head>
+              <charseq START="3801" END="3806">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E49-M3109">
+          <extent>
+              <charseq START="3822" END="3824">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3822" END="3824">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E50" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E50-M3107">
+          <extent>
+              <charseq START="3817" END="3857">jail who had nothing to do with anything,</charseq>
+          </extent>
+          <head>
+              <charseq START="3817" END="3820">jail</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E52" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E52-M3507">
+          <extent>
+              <charseq START="4095" END="4098">Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="4095" END="4098">Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E52-M3510">
+          <extent>
+              <charseq START="4125" END="4155">former President George W. Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="4142" END="4155">George W. Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E52-M3511">
+          <extent>
+              <charseq START="4132" END="4140">President</charseq>
+          </extent>
+          <head>
+              <charseq START="4132" END="4140">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E52-M3508">
+          <extent>
+              <charseq START="4102" END="4103">he</charseq>
+          </extent>
+          <head>
+              <charseq START="4102" END="4103">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E52-M4105">
+          <extent>
+              <charseq START="4527" END="4530">Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="4527" END="4530">Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E52-M4106">
+          <extent>
+              <charseq START="4541" END="4558">Johnny Walker Bush</charseq>
+          </extent>
+          <head>
+              <charseq START="4541" END="4558">Johnny Walker Bush</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bush">
+              <charseq START="4095" END="4098">Bush</charseq>
+          </name>
+          <name NAME="George W. Bush">
+              <charseq START="4142" END="4155">George W. Bush</charseq>
+          </name>
+          <name NAME="Bush">
+              <charseq START="4527" END="4530">Bush</charseq>
+          </name>
+          <name NAME="Johnny Walker Bush">
+              <charseq START="4541" END="4558">Johnny Walker Bush</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E53" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E53-M3608">
+          <extent>
+              <charseq START="4209" END="4215">the CIA</charseq>
+          </extent>
+          <head>
+              <charseq START="4213" END="4215">CIA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CIA">
+              <charseq START="4213" END="4215">CIA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E54" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E54-M3800">
+          <extent>
+              <charseq START="4250" END="4251">ou</charseq>
+          </extent>
+          <head>
+              <charseq START="4250" END="4251">ou</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ou">
+              <charseq START="4250" END="4251">ou</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E55" TYPE="GPE" SUBTYPE="County-or-District" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E55-M4002">
+          <extent>
+              <charseq START="4413" END="4421">the
+Quran</charseq>
+          </extent>
+          <head>
+              <charseq START="4417" END="4421">Quran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E55-M5406">
+          <extent>
+              <charseq START="5666" END="5678">this district</charseq>
+          </extent>
+          <head>
+              <charseq START="5671" END="5678">district</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Quran">
+              <charseq START="4417" END="4421">Quran</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E56" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E56-M4202">
+          <extent>
+              <charseq START="4627" END="4636">every Arab</charseq>
+          </extent>
+          <head>
+              <charseq START="4633" END="4636">Arab</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E57" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E57-M4510">
+          <extent>
+              <charseq START="4810" END="4816">friends</charseq>
+          </extent>
+          <head>
+              <charseq START="4810" END="4816">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E58" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E58-M4607">
+          <extent>
+              <charseq START="4946" END="4959">the newspapers</charseq>
+          </extent>
+          <head>
+              <charseq START="4950" END="4959">newspapers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E59" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E59-M4905">
+          <extent>
+              <charseq START="5178" END="5190">an ambassador</charseq>
+          </extent>
+          <head>
+              <charseq START="5181" END="5190">ambassador</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E59-M4913">
+          <extent>
+              <charseq START="5263" END="5264">he</charseq>
+          </extent>
+          <head>
+              <charseq START="5263" END="5264">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E60" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E60-M4906">
+          <extent>
+              <charseq START="5195" END="5206">a journalist</charseq>
+          </extent>
+          <head>
+              <charseq START="5197" END="5206">journalist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E60-M6708">
+          <extent>
+              <charseq START="6731" END="6753">the American journalist</charseq>
+          </extent>
+          <head>
+              <charseq START="6744" END="6753">journalist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E61" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E61-M4909">
+          <extent>
+              <charseq START="5228" END="5259">people who don&apos;t read
+newspapers</charseq>
+          </extent>
+          <head>
+              <charseq START="5228" END="5233">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E61-M4911">
+          <extent>
+              <charseq START="5235" END="5237">who</charseq>
+          </extent>
+          <head>
+              <charseq START="5235" END="5237">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E62" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E62-M4912">
+          <extent>
+              <charseq START="5250" END="5259">newspapers</charseq>
+          </extent>
+          <head>
+              <charseq START="5250" END="5259">newspapers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E63" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E63-M5006">
+          <extent>
+              <charseq START="5336" END="5352">the
+national team</charseq>
+          </extent>
+          <head>
+              <charseq START="5349" END="5352">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E63-M5104">
+          <extent>
+              <charseq START="5387" END="5412">the national train
+network</charseq>
+          </extent>
+          <head>
+              <charseq START="5406" END="5412">network</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E64" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E64-M5105">
+          <extent>
+              <charseq START="5400" END="5404">train</charseq>
+          </extent>
+          <head>
+              <charseq START="5400" END="5404">train</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E65" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E65-M5303">
+          <extent>
+              <charseq START="5515" END="5529">Bahri&apos;s parents</charseq>
+          </extent>
+          <head>
+              <charseq START="5523" END="5529">parents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E65-M5404">
+          <extent>
+              <charseq START="5654" END="5657">they</charseq>
+          </extent>
+          <head>
+              <charseq START="5654" END="5657">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E66" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E66-M5306">
+          <extent>
+              <charseq START="5532" END="5538">brother</charseq>
+          </extent>
+          <head>
+              <charseq START="5532" END="5538">brother</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E67" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E67-M5307">
+          <extent>
+              <charseq START="5544" END="5549">sister</charseq>
+          </extent>
+          <head>
+              <charseq START="5544" END="5549">sister</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E68" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E68-M5502">
+          <extent>
+              <charseq START="5720" END="5749">the nearby hovels for the
+poor</charseq>
+          </extent>
+          <head>
+              <charseq START="5731" END="5736">hovels</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E69" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E69-M5504">
+          <extent>
+              <charseq START="5742" END="5749">the
+poor</charseq>
+          </extent>
+          <head>
+              <charseq START="5746" END="5749">poor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E70" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E70-M5506">
+          <extent>
+              <charseq START="5762" END="5791">some new and renovated schools</charseq>
+          </extent>
+          <head>
+              <charseq START="5785" END="5791">schools</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E71" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E71-M5508">
+          <extent>
+              <charseq START="5804" END="5822">a new
+sports center</charseq>
+          </extent>
+          <head>
+              <charseq START="5817" END="5822">center</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E72" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E72-M5510">
+          <extent>
+              <charseq START="5828" END="5837">playground</charseq>
+          </extent>
+          <head>
+              <charseq START="5828" END="5837">playground</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E73" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E73-M5604">
+          <extent>
+              <charseq START="5884" END="5910">seaside camps in the summer</charseq>
+          </extent>
+          <head>
+              <charseq START="5892" END="5896">camps</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E74" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E74-M5606">
+          <extent>
+              <charseq START="5884" END="5890">seaside</charseq>
+          </extent>
+          <head>
+              <charseq START="5884" END="5890">seaside</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E75" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E75-M6201">
+          <extent>
+              <charseq START="6234" END="6327">three
+young men cementing broken tiles in front of a shop, to create a
+more decorative walkway</charseq>
+          </extent>
+          <head>
+              <charseq START="6246" END="6248">men</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E75-M6303">
+          <extent>
+              <charseq START="6346" END="6352">the men</charseq>
+          </extent>
+          <head>
+              <charseq START="6350" END="6352">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E76" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E76-M6206">
+          <extent>
+              <charseq START="6285" END="6327">a shop, to create a
+more decorative walkway</charseq>
+          </extent>
+          <head>
+              <charseq START="6287" END="6290">shop</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E77" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E77-M6208">
+          <extent>
+              <charseq START="6303" END="6327">a
+more decorative walkway</charseq>
+          </extent>
+          <head>
+              <charseq START="6321" END="6327">walkway</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E78" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E78-M6305">
+          <extent>
+              <charseq START="6355" END="6369">Khaled al-Omari</charseq>
+          </extent>
+          <head>
+              <charseq START="6355" END="6369">Khaled al-Omari</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Khaled al-Omari">
+              <charseq START="6355" END="6369">Khaled al-Omari</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E79" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E79-M6311">
+          <extent>
+              <charseq START="6415" END="6424">his mother</charseq>
+          </extent>
+          <head>
+              <charseq START="6419" END="6424">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20090822.0020-E79-M6313">
+          <extent>
+              <charseq START="6427" END="6429">who</charseq>
+          </extent>
+          <head>
+              <charseq START="6427" END="6429">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E80" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E80-M6316">
+          <extent>
+              <charseq START="6467" END="6479">four
+siblings</charseq>
+          </extent>
+          <head>
+              <charseq START="6472" END="6479">siblings</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E82" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20090822.0020-E82-M6709" ROLE="GPE">
+          <extent>
+              <charseq START="6735" END="6742">American</charseq>
+          </extent>
+          <head>
+              <charseq START="6735" END="6742">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="6735" END="6742">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E83" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E83-M6702">
+          <extent>
+              <charseq START="6634" END="6673">the fly-strewn stalls
+for butchered meat</charseq>
+          </extent>
+          <head>
+              <charseq START="6649" END="6654">stalls</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E84" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E84-M6705">
+          <extent>
+              <charseq START="6676" END="6691">a bearded vendor</charseq>
+          </extent>
+          <head>
+              <charseq START="6686" END="6691">vendor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20090822.0020-E85" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20090822.0020-E85-M7102">
+          <extent>
+              <charseq START="6938" END="6950">psychiatrists</charseq>
+          </extent>
+          <head>
+              <charseq START="6938" END="6950">psychiatrists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T0" VAL="P15Y">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T0-M1">
+            <extent>
+              <charseq START="341" END="352">15 years old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T1" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T1-M1">
+            <extent>
+              <charseq START="445" END="447">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T2" VAL="PAST_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T2-M1">
+            <extent>
+              <charseq START="704" END="709">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T3" VAL="PAST_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T3-M1">
+            <extent>
+              <charseq START="982" END="987">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T4" VAL="1979">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T4-M1">
+            <extent>
+              <charseq START="1223" END="1226">1979</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T5" VAL="1999">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T5-M1">
+            <extent>
+              <charseq START="1231" END="1234">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T6" VAL="PAST_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T6-M1">
+            <extent>
+              <charseq START="1748" END="1753">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T7" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T7-M1">
+            <extent>
+              <charseq START="1920" END="1926">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T8" VAL="PXM">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T8-M1">
+            <extent>
+              <charseq START="1954" END="1959">months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T9" VAL="1999">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T9-M1">
+            <extent>
+              <charseq START="1995" END="1998">1999</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T10" VAL="PAST_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T10-M1">
+            <extent>
+              <charseq START="2036" END="2041">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T11" VAL="2007">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T11-M1">
+            <extent>
+              <charseq START="2094" END="2097">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T12" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T12-M1">
+            <extent>
+              <charseq START="2199" END="2205">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T13" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T13-M1">
+            <extent>
+              <charseq START="3201" END="3203">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T14" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T14-M1">
+            <extent>
+              <charseq START="3220" END="3225">modern</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T15" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T15-M1">
+            <extent>
+              <charseq START="3286" END="3288">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T16" VAL="2003">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T16-M1">
+            <extent>
+              <charseq START="3336" END="3339">2003</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T17" VAL="2009-08-22">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T17-M1">
+            <extent>
+              <charseq START="4036" END="4040">today</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T18" VAL="PAST_REF" ANCHOR_VAL="2009-08-22" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T18-M1">
+            <extent>
+              <charseq START="4125" END="4130">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T19" VAL="2004">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T19-M1">
+            <extent>
+              <charseq START="4743" END="4756">five years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T20" VAL="2009-SU">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T20-M1">
+            <extent>
+              <charseq START="5901" END="5910">the summer</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20090822.0020-T21" VAL="P1D">
+        <timex2_mention ID="NYT_ENG_20090822.0020-T21-M1">
+            <extent>
+              <charseq START="6563" END="6567">a day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20090822.0020-V22" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20090822.0020-V22-M1">
+            <extent>
+              <charseq START="6571" END="6581">about $6.25</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="NYT_ENG_20090822.0020-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E0" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R0-M100">
+          <extent>
+              <charseq START="129" END="147">CASABLANCA, Morocco</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E2-M100" ROLE="Arg-1">
+            <extent>
+              <charseq START="129" END="147">CASABLANCA, Morocco</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E0-M102" ROLE="Arg-2">
+            <extent>
+              <charseq START="141" END="147">Morocco</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E0" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R1-M200">
+          <extent>
+              <charseq START="375" END="417">the first rap groups in
+Morocco, CasaMuslim</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E11-M225" ROLE="Arg-1">
+            <extent>
+              <charseq START="375" END="417">the first rap groups in
+Morocco, CasaMuslim</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E0-M229" ROLE="Arg-2">
+            <extent>
+              <charseq START="399" END="405">Morocco</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E11" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R2-M201">
+          <extent>
+              <charseq START="408" END="417">CasaMuslim</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E4-M230" ROLE="Arg-1">
+            <extent>
+              <charseq START="408" END="417">CasaMuslim</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E11-M225" ROLE="Arg-2">
+            <extent>
+              <charseq START="375" END="417">the first rap groups in
+Morocco, CasaMuslim</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R3" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E6" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R3-M300">
+          <extent>
+              <charseq START="548" END="562">the
+people here</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E15-M310" ROLE="Arg-1">
+            <extent>
+              <charseq START="548" END="562">the
+people here</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E6-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="559" END="562">here</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R4" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E17" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R4-M400">
+          <extent>
+              <charseq START="684" END="686">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E10-M411" ROLE="Arg-1">
+            <extent>
+              <charseq START="684" END="686">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E17-M410" ROLE="Arg-2">
+            <extent>
+              <charseq START="684" END="694">his parents</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E25" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R5-M700">
+          <extent>
+              <charseq START="1188" END="1190">who</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E24-M708" ROLE="Arg-1">
+            <extent>
+              <charseq START="1188" END="1190">who</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E25-M709" ROLE="Arg-2">
+            <extent>
+              <charseq START="1196" END="1216">the Interior Ministry</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E28" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R6-M1300">
+          <extent>
+              <charseq START="1784" END="1786">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E13-M1306" ROLE="Arg-1">
+            <extent>
+              <charseq START="1784" END="1786">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E28-M1305" ROLE="Arg-2">
+            <extent>
+              <charseq START="1784" END="1790">his Ray</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E31" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R7-M1600">
+          <extent>
+              <charseq START="2083" END="2084">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E24-M1607" ROLE="Arg-1">
+            <extent>
+              <charseq START="2083" END="2084">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E31-M1606" ROLE="Arg-2">
+            <extent>
+              <charseq START="2077" END="2081">where</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R8" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E32" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R8-M1700">
+          <extent>
+              <charseq START="2107" END="2108">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E24-M1700" ROLE="Arg-1">
+            <extent>
+              <charseq START="2107" END="2108">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E32-M1702" ROLE="Arg-2">
+            <extent>
+              <charseq START="2124" END="2129">Rabat,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R9" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E37" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R9-M2000">
+          <extent>
+              <charseq START="2602" END="2606">Bahri</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E13-M2002" ROLE="Arg-1">
+            <extent>
+              <charseq START="2602" END="2606">Bahri</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E37-M2001" ROLE="Arg-2">
+            <extent>
+              <charseq START="2602" END="2620">Bahri&apos;s grandfather</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R10" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E44" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R10-M2600">
+          <extent>
+              <charseq START="3457" END="3461">Bahri</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E13-M2614" ROLE="Arg-1">
+            <extent>
+              <charseq START="3457" END="3461">Bahri</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E44-M2615" ROLE="Arg-2">
+            <extent>
+              <charseq START="3478" END="3493">a club 200 yards</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R11" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E47" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R11-M2900">
+          <extent>
+              <charseq START="3618" END="3619">He</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E13-M2900" ROLE="Arg-1">
+            <extent>
+              <charseq START="3618" END="3619">He</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E47-M2902" ROLE="Arg-2">
+            <extent>
+              <charseq START="3663" END="3672">the street</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R12" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E65" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R12-M5300">
+          <extent>
+              <charseq START="5515" END="5519">Bahri</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E13-M5304" ROLE="Arg-1">
+            <extent>
+              <charseq START="5515" END="5519">Bahri</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E65-M5303" ROLE="Arg-2">
+            <extent>
+              <charseq START="5515" END="5529">Bahri&apos;s parents</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R13" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E73" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R13-M5600">
+          <extent>
+              <charseq START="5872" END="5879">children</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E20-M5603" ROLE="Arg-1">
+            <extent>
+              <charseq START="5872" END="5879">children</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E73-M5604" ROLE="Arg-2">
+            <extent>
+              <charseq START="5884" END="5910">seaside camps in the summer</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R14" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E79" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R14-M6300">
+          <extent>
+              <charseq START="6415" END="6417">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E13-M6312" ROLE="Arg-1">
+            <extent>
+              <charseq START="6415" END="6417">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E79-M6311" ROLE="Arg-2">
+            <extent>
+              <charseq START="6415" END="6424">his mother</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20090822.0020-R15" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20090822.0020-E60" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20090822.0020-E82" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20090822.0020-R15-M6700">
+          <extent>
+              <charseq START="6731" END="6753">the American journalist</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E60-M6708" ROLE="Arg-1">
+            <extent>
+              <charseq START="6731" END="6753">the American journalist</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20090822.0020-E82-M6709" ROLE="Arg-2">
+            <extent>
+              <charseq START="6735" END="6742">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

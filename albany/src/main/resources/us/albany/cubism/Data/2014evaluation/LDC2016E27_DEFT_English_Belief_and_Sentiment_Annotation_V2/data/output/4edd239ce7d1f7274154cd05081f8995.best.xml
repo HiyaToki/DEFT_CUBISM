@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="4edd239ce7d1f7274154cd05081f8995.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-195" length="13" offset="115">
+        <text>David Cameron</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-369" length="1" offset="98">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-195" length="13" offset="115">
+        <text>David Cameron</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-483" length="14" offset="140">
+        <text>his government</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-471" length="6" offset="224">
+        <text>Labour</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-363" length="21" offset="247">
+        <text>a Labour party member</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-831" length="5" offset="382">
+        <text>Union</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-1313" length="2" offset="370">we</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-207" length="13" offset="399">
+        <text>David Cameron</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-231" length="2" offset="458">
+        <text>He</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1325" length="9" offset="683">
+        <text>The world</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1343" length="4" offset="748">
+        <text>west</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1343" length="4" offset="748">
+        <text>west</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1334" length="4" offset="727">
+        <text>east</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1334" length="4" offset="727">
+        <text>east</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-699" length="5" offset="860">
+        <text>Scots</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-399" length="1" offset="809">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-585" length="8" offset="818">
+        <text>Scottish</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1065" length="12" offset="1100">
+        <text>West Lothian</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1071" length="7" offset="1105">
+        <text>Lothian</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-213" length="13" offset="1163">
+        <text>David Cameron</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-597" length="8" offset="1237">
+        <text>Scottish</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-879" length="7" offset="1317">
+        <text>English</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-615" length="8" offset="1407">
+        <text>Scottish</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="86">drewretto</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-621" length="8" offset="1593">
+        <text>Scottish</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-309" length="9" offset="14">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1083" length="8" offset="2063">
+        <text>Holyrood</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-309" length="9" offset="14">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1077" length="19" offset="1911">
+        <text>north of the border</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-309" length="9" offset="14">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-519" length="79" offset="1982">
+        <text>a parliament situated hundreds of miles away that doesn't really represent them</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-309" length="9" offset="14">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-465" length="16" offset="2098">
+        <text>centre-left MSPs</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-309" length="9" offset="14">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-513" length="32" offset="2142">
+        <text>centre right majority government</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-309" length="9" offset="14">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1059" length="6" offset="2740">
+        <text>Europe</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-921" length="6" offset="2756">
+        <text>Polish</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-297" length="1" offset="2749">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-921" length="6" offset="2756">
+        <text>Polish</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-189" length="7" offset="2786">
+        <text>Cameron</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-627" length="8" offset="2798">
+        <text>Scottish</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-183" length="7" offset="2831">
+        <text>Cameron</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1430" length="28" offset="3030">
+        <text>the prime minister of the UK</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-867" length="8" offset="3151">
+        <text>Brittany</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-639" length="8" offset="3381">
+        <text>Scotland</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-735" length="2" offset="3466">
+        <text>UK</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-777" length="2" offset="3363">
+        <text>UK</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-795" length="2" offset="3437">
+        <text>EU</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-555" length="8" offset="3595">
+        <text>Scotland</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1505" length="18" offset="3809">
+        <text>independent states</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-729" length="5" offset="3930">
+        <text>Irish</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-669" length="2" offset="4414">
+        <text>it</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1974" length="6" offset="4456">
+        <text>People</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1710" length="35" offset="4488">
+        <text>a reasonably large financial centre</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1710" length="35" offset="4488">
+        <text>a reasonably large financial centre</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-543" length="8" offset="4587">
+        <text>Scotland</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-531" length="8" offset="4907">
+        <text>Scotland</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1541" length="21" offset="4947">
+        <text>an independent nation</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-315" length="9" offset="2540">JayTeeKay</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-987" length="6" offset="5076">
+        <text>Nordic</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-255" length="8" offset="2469">cvqw1278</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-663" length="2" offset="5180">
+        <text>It</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-255" length="8" offset="2469">cvqw1278</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-741" length="2" offset="5242">
+        <text>UK</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-255" length="8" offset="2469">cvqw1278</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-657" length="2" offset="5246">
+        <text>It</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-255" length="8" offset="2469">cvqw1278</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1752" length="10" offset="5348">
+        <text>many Scots</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-255" length="8" offset="2469">cvqw1278</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-675" length="2" offset="5388">
+        <text>it</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-255" length="8" offset="2469">cvqw1278</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-825" length="2" offset="5593">
+        <text>it</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-255" length="8" offset="2469">cvqw1278</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

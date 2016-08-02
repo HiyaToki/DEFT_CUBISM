@@ -1,0 +1,864 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20090605.0620">
+  <document DOCID="AFP_ENG_20090605.0620">
+
+    <entity ID="AFP_ENG_20090605.0620-E0" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E0-M2">
+          <extent>
+              <charseq START="61" END="66">Muslim</charseq>
+          </extent>
+          <head>
+              <charseq START="61" END="66">Muslim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E0-M402">
+          <extent>
+              <charseq START="204" END="209">Muslim</charseq>
+          </extent>
+          <head>
+              <charseq START="204" END="209">Muslim</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Muslim">
+              <charseq START="61" END="66">Muslim</charseq>
+          </name>
+          <name NAME="Muslim">
+              <charseq START="204" END="209">Muslim</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E1-M3" ROLE="LOC">
+          <extent>
+              <charseq START="85" END="95">Philippines</charseq>
+          </extent>
+          <head>
+              <charseq START="85" END="95">Philippines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E1-M203" ROLE="LOC">
+          <extent>
+              <charseq START="140" END="150">Philippines</charseq>
+          </extent>
+          <head>
+              <charseq START="140" END="150">Philippines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E1-M406">
+          <extent>
+              <charseq START="291" END="314">the southern Philippines</charseq>
+          </extent>
+          <head>
+              <charseq START="304" END="314">Philippines</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E1-M808" ROLE="ORG">
+          <extent>
+              <charseq START="955" END="968">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="959" END="968">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E1-M1028" ROLE="LOC">
+          <extent>
+              <charseq START="1364" END="1377">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="1368" END="1377">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E1-M1213" ROLE="LOC">
+          <extent>
+              <charseq START="1646" END="1659">the government</charseq>
+          </extent>
+          <head>
+              <charseq START="1650" END="1659">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Philippines">
+              <charseq START="85" END="95">Philippines</charseq>
+          </name>
+          <name NAME="Philippines">
+              <charseq START="140" END="150">Philippines</charseq>
+          </name>
+          <name NAME="Philippines">
+              <charseq START="304" END="314">Philippines</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E2-M0">
+          <extent>
+              <charseq START="58" END="96">13 Muslim rebels killed in Philippines:</charseq>
+          </extent>
+          <head>
+              <charseq START="68" END="73">rebels</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E2-M1214">
+          <extent>
+              <charseq START="1665" END="1674">the rebels</charseq>
+          </extent>
+          <head>
+              <charseq START="1669" END="1674">rebels</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E3-M201" ROLE="LOC">
+          <extent>
+              <charseq START="130" END="150">COTABATO, Philippines</charseq>
+          </extent>
+          <head>
+              <charseq START="130" END="137">COTABATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="COTABATO">
+              <charseq START="130" END="137">COTABATO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E4-M300">
+          <extent>
+              <charseq START="167" END="169">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="167" END="169">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="167" END="169">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E5-M400">
+          <extent>
+              <charseq START="195" END="216">Thirteen Muslim rebels</charseq>
+          </extent>
+          <head>
+              <charseq START="211" END="216">rebels</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E6-M403">
+          <extent>
+              <charseq START="234" END="246">five soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="239" END="246">soldiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E7-M408">
+          <extent>
+              <charseq START="317" END="328">the military</charseq>
+          </extent>
+          <head>
+              <charseq START="321" END="328">military</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E7-M515">
+          <extent>
+              <charseq START="499" END="506">military</charseq>
+          </extent>
+          <head>
+              <charseq START="499" END="506">military</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E8-M503">
+          <extent>
+              <charseq START="363" END="391">Moro Islamic Liberation Front</charseq>
+          </extent>
+          <head>
+              <charseq START="363" END="391">Moro Islamic Liberation Front</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E8-M504">
+          <extent>
+              <charseq START="394" END="397">MILF</charseq>
+          </extent>
+          <head>
+              <charseq START="394" END="397">MILF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E8-M801">
+          <extent>
+              <charseq START="868" END="871">MILF</charseq>
+          </extent>
+          <head>
+              <charseq START="868" END="871">MILF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E8-M1007">
+          <extent>
+              <charseq START="1140" END="1143">MILF</charseq>
+          </extent>
+          <head>
+              <charseq START="1140" END="1143">MILF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E8-M1026">
+          <extent>
+              <charseq START="1337" END="1358">the
+12,000-member MILF</charseq>
+          </extent>
+          <head>
+              <charseq START="1355" END="1358">MILF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E8-M1205">
+          <extent>
+              <charseq START="1530" END="1533">MILF</charseq>
+          </extent>
+          <head>
+              <charseq START="1530" END="1533">MILF</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Moro Islamic Liberation Front">
+              <charseq START="363" END="391">Moro Islamic Liberation Front</charseq>
+          </name>
+          <name NAME="MILF">
+              <charseq START="394" END="397">MILF</charseq>
+          </name>
+          <name NAME="MILF">
+              <charseq START="868" END="871">MILF</charseq>
+          </name>
+          <name NAME="MILF">
+              <charseq START="1140" END="1143">MILF</charseq>
+          </name>
+          <name NAME="MILF">
+              <charseq START="1355" END="1358">MILF</charseq>
+          </name>
+          <name NAME="MILF">
+              <charseq START="1530" END="1533">MILF</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E9-M505">
+          <extent>
+              <charseq START="414" END="440">Commander Ameril
+Umbrakato,</charseq>
+          </extent>
+          <head>
+              <charseq START="424" END="439">Ameril
+Umbrakato</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E9-M507">
+          <extent>
+              <charseq START="414" END="422">Commander</charseq>
+          </extent>
+          <head>
+              <charseq START="414" END="422">Commander</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090605.0620-E9-M615">
+          <extent>
+              <charseq START="736" END="737">he</charseq>
+          </extent>
+          <head>
+              <charseq START="736" END="737">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E9-M1000">
+          <extent>
+              <charseq START="1113" END="1121">Umbrakato</charseq>
+          </extent>
+          <head>
+              <charseq START="1113" END="1121">Umbrakato</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ameril
+Umbrakato">
+              <charseq START="424" END="439">Ameril
+Umbrakato</charseq>
+          </name>
+          <name NAME="Umbrakato">
+              <charseq START="1113" END="1121">Umbrakato</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E10" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E10-M512">
+          <extent>
+              <charseq START="453" END="461">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="461">Christian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E10-M1011">
+          <extent>
+              <charseq START="1180" END="1188">Christian</charseq>
+          </extent>
+          <head>
+              <charseq START="1180" END="1188">Christian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E11" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E11-M517">
+          <extent>
+              <charseq START="520" END="527">Mindanao</charseq>
+          </extent>
+          <head>
+              <charseq START="520" END="527">Mindanao</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E11-M516">
+          <extent>
+              <charseq START="520" END="540">Mindanao island early</charseq>
+          </extent>
+          <head>
+              <charseq START="529" END="534">island</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E11-M1012">
+          <extent>
+              <charseq START="1205" END="1212">Mindanao</charseq>
+          </extent>
+          <head>
+              <charseq START="1205" END="1212">Mindanao</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mindanao">
+              <charseq START="520" END="527">Mindanao</charseq>
+          </name>
+          <name NAME="Mindanao">
+              <charseq START="1205" END="1212">Mindanao</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E12-M519">
+          <extent>
+              <charseq START="557" END="589">Lieutenant Colonel Jonathan
+Ponce</charseq>
+          </extent>
+          <head>
+              <charseq START="576" END="589">Jonathan
+Ponce</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E12-M521">
+          <extent>
+              <charseq START="568" END="574">Colonel</charseq>
+          </extent>
+          <head>
+              <charseq START="568" END="574">Colonel</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E12-M704">
+          <extent>
+              <charseq START="824" END="828">Ponce</charseq>
+          </extent>
+          <head>
+              <charseq START="824" END="828">Ponce</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jonathan
+Ponce">
+              <charseq START="576" END="589">Jonathan
+Ponce</charseq>
+          </name>
+          <name NAME="Ponce">
+              <charseq START="824" END="828">Ponce</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E13-M502">
+          <extent>
+              <charseq START="363" END="405">Moro Islamic Liberation Front (MILF) rebels</charseq>
+          </extent>
+          <head>
+              <charseq START="400" END="405">rebels</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090605.0620-E13-M509">
+          <extent>
+              <charseq START="442" END="444">who</charseq>
+          </extent>
+          <head>
+              <charseq START="442" END="444">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E14-M511">
+          <extent>
+              <charseq START="453" END="473">Christian communities</charseq>
+          </extent>
+          <head>
+              <charseq START="463" END="473">communities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E14-M1009" ROLE="GPE">
+          <extent>
+              <charseq START="1180" END="1212">Christian
+communities in Mindanao</charseq>
+          </extent>
+          <head>
+              <charseq START="1190" END="1200">communities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E15-M514">
+          <extent>
+              <charseq START="495" END="515">two military
+outposts</charseq>
+          </extent>
+          <head>
+              <charseq START="508" END="515">outposts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E17-M610" ROLE="GPE">
+          <extent>
+              <charseq START="658" END="669">Guindulungan</charseq>
+          </extent>
+          <head>
+              <charseq START="658" END="669">Guindulungan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E17-M608" ROLE="LOC">
+          <extent>
+              <charseq START="658" END="691">Guindulungan town later
+in the day</charseq>
+          </extent>
+          <head>
+              <charseq START="671" END="674">town</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guindulungan">
+              <charseq START="658" END="669">Guindulungan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E18-M614">
+          <extent>
+              <charseq START="721" END="733">13 guerrillas</charseq>
+          </extent>
+          <head>
+              <charseq START="724" END="733">guerrillas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E19-M700">
+          <extent>
+              <charseq START="755" END="772">Numerous civilians</charseq>
+          </extent>
+          <head>
+              <charseq START="764" END="772">civilians</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E20" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E20-M701">
+          <extent>
+              <charseq START="794" END="801">the area</charseq>
+          </extent>
+          <head>
+              <charseq START="798" END="801">area</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E20-M807">
+          <extent>
+              <charseq START="928" END="937">the region</charseq>
+          </extent>
+          <head>
+              <charseq START="932" END="937">region</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E21-M800">
+          <extent>
+              <charseq START="868" END="903">MILF peace negotiator Mohagher Iqbal</charseq>
+          </extent>
+          <head>
+              <charseq START="890" END="903">Mohagher Iqbal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E21-M803">
+          <extent>
+              <charseq START="879" END="888">negotiator</charseq>
+          </extent>
+          <head>
+              <charseq START="879" END="888">negotiator</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E21-M907">
+          <extent>
+              <charseq START="1092" END="1096">Iqbal</charseq>
+          </extent>
+          <head>
+              <charseq START="1092" END="1096">Iqbal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090605.0620-E21-M900">
+          <extent>
+              <charseq START="1016" END="1019">They</charseq>
+          </extent>
+          <head>
+              <charseq START="1016" END="1019">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mohagher Iqbal">
+              <charseq START="890" END="903">Mohagher Iqbal</charseq>
+          </name>
+          <name NAME="Iqbal">
+              <charseq START="1092" END="1096">Iqbal</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E22-M904">
+          <extent>
+              <charseq START="1058" END="1088">even our other field commanders</charseq>
+          </extent>
+          <head>
+              <charseq START="1079" END="1088">commanders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E24" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090605.0620-E24-M1015">
+          <extent>
+              <charseq START="1232" END="1248">the Supreme Court</charseq>
+          </extent>
+          <head>
+              <charseq START="1236" END="1248">Supreme Court</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Supreme Court">
+              <charseq START="1236" END="1248">Supreme Court</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E25-M1005">
+          <extent>
+              <charseq START="1134" END="1167">three MILF commanders who launched</charseq>
+          </extent>
+          <head>
+              <charseq START="1145" END="1154">commanders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090605.0620-E25-M1008">
+          <extent>
+              <charseq START="1156" END="1158">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1156" END="1158">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E26" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E26-M1022" ROLE="LOC">
+          <extent>
+              <charseq START="1310" END="1377">a peace settlement between the
+12,000-member MILF and the government</charseq>
+          </extent>
+          <head>
+              <charseq START="1318" END="1327">settlement</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E28-M1102">
+          <extent>
+              <charseq START="1399" END="1404">people</charseq>
+          </extent>
+          <head>
+              <charseq START="1399" END="1404">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E30-M1204">
+          <extent>
+              <charseq START="1526" END="1544">the MILF leadership</charseq>
+          </extent>
+          <head>
+              <charseq START="1535" END="1544">leadership</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090605.0620-E31" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090605.0620-E31-M1208">
+          <extent>
+              <charseq START="1581" END="1593">the two sides</charseq>
+          </extent>
+          <head>
+              <charseq START="1589" END="1593">sides</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20090605.0620-T0" VAL="2009-06-05">
+        <timex2_mention ID="AFP_ENG_20090605.0620-T0-M1">
+            <extent>
+              <charseq START="153" END="164">June 5, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090605.0620-T1" VAL="2009-06-05">
+        <timex2_mention ID="AFP_ENG_20090605.0620-T1-M1">
+            <extent>
+              <charseq START="335" END="340">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090605.0620-T2" VAL="2008">
+        <timex2_mention ID="AFP_ENG_20090605.0620-T2-M1">
+            <extent>
+              <charseq START="475" END="483">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090605.0620-T3" VAL="2009-06-04" MOD="START">
+        <timex2_mention ID="AFP_ENG_20090605.0620-T3-M1">
+            <extent>
+              <charseq START="536" END="549">early Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090605.0620-T4" VAL="2009-06-05">
+        <timex2_mention ID="AFP_ENG_20090605.0620-T4-M1">
+            <extent>
+              <charseq START="676" END="691">later
+in the day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090605.0620-T5" VAL="2008-08">
+        <timex2_mention ID="AFP_ENG_20090605.0620-T5-M1">
+            <extent>
+              <charseq START="1214" END="1224">last August</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20090605.0620-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090605.0620-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090605.0620-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090605.0620-R0-M0">
+          <extent>
+              <charseq START="58" END="96">13 Muslim rebels killed in Philippines:</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E2-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="58" END="96">13 Muslim rebels killed in Philippines:</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E1-M3" ROLE="Arg-2">
+            <extent>
+              <charseq START="85" END="95">Philippines</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090605.0620-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090605.0620-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090605.0620-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090605.0620-R1-M200">
+          <extent>
+              <charseq START="130" END="150">COTABATO, Philippines</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E3-M201" ROLE="Arg-1">
+            <extent>
+              <charseq START="130" END="150">COTABATO, Philippines</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E1-M203" ROLE="Arg-2">
+            <extent>
+              <charseq START="140" END="150">Philippines</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090605.0620-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090605.0620-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090605.0620-E8" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090605.0620-R2-M500">
+          <extent>
+              <charseq START="363" END="405">Moro Islamic Liberation Front (MILF) rebels</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E13-M502" ROLE="Arg-1">
+            <extent>
+              <charseq START="363" END="405">Moro Islamic Liberation Front (MILF) rebels</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E8-M503" ROLE="Arg-2">
+            <extent>
+              <charseq START="363" END="391">Moro Islamic Liberation Front</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090605.0620-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090605.0620-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090605.0620-E15" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090605.0620-R3-M501">
+          <extent>
+              <charseq START="499" END="506">military</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E7-M515" ROLE="Arg-1">
+            <extent>
+              <charseq START="499" END="506">military</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E15-M514" ROLE="Arg-2">
+            <extent>
+              <charseq START="495" END="515">two military
+outposts</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090605.0620-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090605.0620-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090605.0620-E11" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090605.0620-R4-M502">
+          <extent>
+              <charseq START="495" END="515">two military
+outposts</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E15-M514" ROLE="Arg-1">
+            <extent>
+              <charseq START="495" END="515">two military
+outposts</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E11-M516" ROLE="Arg-2">
+            <extent>
+              <charseq START="520" END="540">Mindanao island early</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090605.0620-R5" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090605.0620-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090605.0620-E8" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090605.0620-R5-M800">
+          <extent>
+              <charseq START="879" END="888">negotiator</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E21-M803" ROLE="Arg-1">
+            <extent>
+              <charseq START="879" END="888">negotiator</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E8-M801" ROLE="Arg-2">
+            <extent>
+              <charseq START="868" END="871">MILF</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090605.0620-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090605.0620-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090605.0620-E8" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090605.0620-R7-M1000">
+          <extent>
+              <charseq START="1134" END="1167">three MILF commanders who launched</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E25-M1005" ROLE="Arg-1">
+            <extent>
+              <charseq START="1134" END="1167">three MILF commanders who launched</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E8-M1007" ROLE="Arg-2">
+            <extent>
+              <charseq START="1140" END="1143">MILF</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090605.0620-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090605.0620-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090605.0620-E11" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090605.0620-R8-M1001">
+          <extent>
+              <charseq START="1180" END="1212">Christian
+communities in Mindanao</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E14-M1009" ROLE="Arg-1">
+            <extent>
+              <charseq START="1180" END="1212">Christian
+communities in Mindanao</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090605.0620-E11-M1012" ROLE="Arg-2">
+            <extent>
+              <charseq START="1205" END="1212">Mindanao</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

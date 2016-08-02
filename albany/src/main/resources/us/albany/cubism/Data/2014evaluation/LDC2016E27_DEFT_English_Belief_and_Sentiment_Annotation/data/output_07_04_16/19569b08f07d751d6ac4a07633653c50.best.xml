@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="19569b08f07d751d6ac4a07633653c50.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-628" length="6" offset="330">
+        <text>anyone</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" length="9" offset="14">nottheone</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-228" length="2" offset="928">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" length="9" offset="14">nottheone</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1060" length="13" offset="946">
+        <text>our societies</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" length="9" offset="14">nottheone</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1222" length="5" offset="2623">
+        <text>adult</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-994" length="2" offset="2609">We</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1006" length="6" offset="2788">
+        <text>adults</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-114" length="9" offset="2365">nottheone</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1024" length="8" offset="3282">
+        <text>a person</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-336" length="8" offset="3032">Astronuc</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-240" length="9" offset="3470">
+        <text>the child</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-336" length="8" offset="3032">Astronuc</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-270" length="7" offset="3776">
+        <text>the boy</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-336" length="8" offset="3032">Astronuc</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

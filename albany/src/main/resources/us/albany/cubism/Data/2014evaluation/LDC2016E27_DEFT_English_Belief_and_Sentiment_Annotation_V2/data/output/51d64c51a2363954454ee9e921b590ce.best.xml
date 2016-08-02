@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="51d64c51a2363954454ee9e921b590ce.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-207" length="3" offset="112">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-129" length="9" offset="85">NabilKhan</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-591" length="4" offset="276">
+        <text>They</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-129" length="9" offset="85">NabilKhan</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-837" length="7" offset="369">
+        <text>britons</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-129" length="9" offset="85">NabilKhan</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1331" length="36" offset="428">
+        <text>malicous beings that caused the 9/11</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-129" length="9" offset="85">NabilKhan</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-213" length="20" offset="656">
+        <text>EDL's common members</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-129" length="9" offset="85">NabilKhan</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-609" length="3" offset="756">
+        <text>EDL</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-129" length="9" offset="85">NabilKhan</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-225" length="19" offset="819">
+        <text>some of the members</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-129" length="9" offset="85">NabilKhan</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1420" length="21" offset="1244">
+        <text>second class citizens</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-177" length="7" offset="1060">Jim-Jam</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1447" length="21" offset="1469">
+        <text>second class citizens</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-231" length="9" offset="987">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-2321" length="6" offset="1556">
+        <text>Muslim</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-231" length="9" offset="987">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-327" length="27" offset="1598">
+        <text>those that died as a result</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-231" length="9" offset="987">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1447" length="21" offset="1469">
+        <text>second class citizens</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-243" length="9" offset="1820">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-2321" length="6" offset="1556">
+        <text>Muslim</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-243" length="9" offset="1820">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-327" length="27" offset="1598">
+        <text>those that died as a result</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-243" length="9" offset="1820">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-747" length="4" offset="2546">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-393" length="12" offset="2414">Perseveranze</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-645" length="5" offset="2882">
+        <text>their</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="6" offset="2344">Besakt</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-435" length="2" offset="3433">
+        <text>Im</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-429" length="7" offset="3386">IRSP044</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-573" length="3" offset="3446">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-429" length="7" offset="3386">IRSP044</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1540" length="15" offset="3513">
+        <text>People like you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-429" length="7" offset="3386">IRSP044</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-843" length="7" offset="3624">
+        <text>Britain</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-417" length="1" offset="3603">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1567" length="19" offset="3640">
+        <text>political prisoners</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-417" length="1" offset="3603">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-843" length="7" offset="3624">
+        <text>Britain</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" length="3" offset="3615">you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1567" length="19" offset="3640">
+        <text>political prisoners</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-441" length="3" offset="3615">you</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-783" length="3" offset="3704">
+        <text>UAF</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-411" length="9" offset="3313">nicknick1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-765" length="3" offset="3726">
+        <text>BNP</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-411" length="9" offset="3313">nicknick1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1567" length="19" offset="3640">
+        <text>political prisoners</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-411" length="9" offset="3313">nicknick1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-645" length="5" offset="2882">
+        <text>their</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-375" length="6" offset="3934">Besakt</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-657" length="3" offset="4740">
+        <text>EDL</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="6" offset="4686">Barksy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-663" length="4" offset="4759">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="6" offset="4686">Barksy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-813" length="25" offset="4828">
+        <text>a largely secular country</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-669" length="4" offset="4798">They</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-819" length="12" offset="4962">
+        <text>this country</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-1660" length="2" offset="4926">We</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-675" length="3" offset="4994">
+        <text>EDL</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-459" length="6" offset="4686">Barksy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1678" length="97" offset="5219">
+        <text>a far right party whose solution to this balkan situation would be reminiscent of 1933-1945 again</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-489" length="14" offset="5190">Pax Amerifauna</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1678" length="97" offset="5219">
+        <text>a far right party whose solution to this balkan situation would be reminiscent of 1933-1945 again</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-489" length="14" offset="5190">Pax Amerifauna</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-909" length="8" offset="5383">
+        <text>European</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-255" length="9" offset="5117">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-501" length="26" offset="5469">
+        <text>the perpetrators behind it</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-255" length="9" offset="5117">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-657" length="3" offset="4740">
+        <text>EDL</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-465" length="6" offset="5620">Barksy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-663" length="4" offset="4759">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-465" length="6" offset="5620">Barksy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-813" length="25" offset="4828">
+        <text>a largely secular country</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-669" length="4" offset="4798">They</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-819" length="12" offset="4962">
+        <text>this country</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-1660" length="2" offset="4926">We</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-675" length="3" offset="4994">
+        <text>EDL</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-465" length="6" offset="5620">Barksy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-321" length="5" offset="5916">
+        <text>Tommy</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-267" length="9" offset="5547">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-711" length="3" offset="5974">
+        <text>EDL</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-267" length="9" offset="5547">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-717" length="4" offset="6010">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-267" length="9" offset="5547">de_monies</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1839" length="14" offset="6572">
+        <text>the white race</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-543" length="15" offset="6405">Blackrevolution</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1839" length="14" offset="6572">
+        <text>the white race</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-543" length="15" offset="6405">Blackrevolution</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1854" length="4" offset="6632">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-543" length="15" offset="6405">Blackrevolution</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1866" length="12" offset="6744">
+        <text>black people</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-507" length="9" offset="6332">Bloodbath</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1866" length="12" offset="6744">
+        <text>black people</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-507" length="9" offset="6332">Bloodbath</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1906" length="12" offset="6806">
+        <text>black people</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-507" length="9" offset="6332">Bloodbath</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1918" length="4" offset="6891">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-507" length="9" offset="6332">Bloodbath</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1866" length="12" offset="6744">
+        <text>black people</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-513" length="9" offset="7001">Bloodbath</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1866" length="12" offset="6744">
+        <text>black people</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-513" length="9" offset="7001">Bloodbath</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1906" length="12" offset="6806">
+        <text>black people</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-513" length="9" offset="7001">Bloodbath</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1918" length="4" offset="6891">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-513" length="9" offset="7001">Bloodbath</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-531" length="2" offset="7196">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="9" offset="6928">NabilKhan</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-537" length="2" offset="7215">
+        <text>He</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="9" offset="6928">NabilKhan</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

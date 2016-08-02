@@ -1,0 +1,1778 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20101019.0246">
+  <document DOCID="XIN_ENG_20101019.0246">
+
+    <entity ID="XIN_ENG_20101019.0246-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E0-M4" ROLE="GPE">
+          <extent>
+              <charseq START="72" END="78">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="72" END="78">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E0-M5">
+          <extent>
+              <charseq START="80" END="89">government</charseq>
+          </extent>
+          <head>
+              <charseq START="80" END="89">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E0-M206" ROLE="GPE">
+          <extent>
+              <charseq START="232" END="276">Prime Minister Silvio Berlusconi&apos;s
+government</charseq>
+          </extent>
+          <head>
+              <charseq START="267" END="276">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E0-M1313" ROLE="GPE">
+          <extent>
+              <charseq START="2096" END="2102">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="2096" END="2102">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E0-M2714" ROLE="LOC">
+          <extent>
+              <charseq START="3859" END="3900">Italy, where he said she has been
+vilified</charseq>
+          </extent>
+          <head>
+              <charseq START="3859" END="3863">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E0-M2716">
+          <extent>
+              <charseq START="3866" END="3870">where</charseq>
+          </extent>
+          <head>
+              <charseq START="3866" END="3870">where</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italian">
+              <charseq START="72" END="78">Italian</charseq>
+          </name>
+          <name NAME="Italian">
+              <charseq START="2096" END="2102">Italian</charseq>
+          </name>
+          <name NAME="Italy">
+              <charseq START="3859" END="3863">Italy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M6">
+          <extent>
+              <charseq START="105" END="127">convicted murderer
+Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="124" END="127">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E1-M7">
+          <extent>
+              <charseq START="115" END="122">murderer</charseq>
+          </extent>
+          <head>
+              <charseq START="115" END="122">murderer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M213">
+          <extent>
+              <charseq START="300" END="310">Amanda Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="310">Amanda Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E1-M214">
+          <extent>
+              <charseq START="315" END="344">the 23-year-old American woman</charseq>
+          </extent>
+          <head>
+              <charseq START="340" END="344">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M219">
+          <extent>
+              <charseq START="389" END="391">her</charseq>
+          </extent>
+          <head>
+              <charseq START="389" END="391">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M311">
+          <extent>
+              <charseq START="609" END="612">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="609" END="612">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M316">
+          <extent>
+              <charseq START="668" END="670">her</charseq>
+          </extent>
+          <head>
+              <charseq START="668" END="670">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M400">
+          <extent>
+              <charseq START="692" END="695">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="692" END="695">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M601">
+          <extent>
+              <charseq START="1026" END="1029">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="1026" END="1029">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E1-M602">
+          <extent>
+              <charseq START="1035" END="1054">her former boyfriend</charseq>
+          </extent>
+          <head>
+              <charseq START="1046" END="1054">boyfriend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M603">
+          <extent>
+              <charseq START="1035" END="1037">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1035" END="1037">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M713">
+          <extent>
+              <charseq START="1308" END="1311">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="1308" END="1311">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M807">
+          <extent>
+              <charseq START="1409" END="1419">Amanda
+Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="1409" END="1419">Amanda
+Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M812">
+          <extent>
+              <charseq START="1492" END="1495">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="1492" END="1495">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M814">
+          <extent>
+              <charseq START="1520" END="1522">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1520" END="1522">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M817">
+          <extent>
+              <charseq START="1545" END="1547">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1545" END="1547">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M819">
+          <extent>
+              <charseq START="1560" END="1562">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1560" END="1562">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M822">
+          <extent>
+              <charseq START="1585" END="1587">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1585" END="1587">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M902">
+          <extent>
+              <charseq START="1629" END="1632">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="1629" END="1632">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E1-M1004">
+          <extent>
+              <charseq START="1700" END="1741">a very different girl from what I imagined</charseq>
+          </extent>
+          <head>
+              <charseq START="1717" END="1720">girl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M1002">
+          <extent>
+              <charseq START="1692" END="1694">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1692" END="1694">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E1-M1104">
+          <extent>
+              <charseq START="1822" END="1827">a girl</charseq>
+          </extent>
+          <head>
+              <charseq START="1824" END="1827">girl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M1307">
+          <extent>
+              <charseq START="2019" END="2022">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="2019" END="2022">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M1408">
+          <extent>
+              <charseq START="2225" END="2324">Knox, which he believes will continue even if Knox remains in prison and beyond
+her eventual release</charseq>
+          </extent>
+          <head>
+              <charseq START="2225" END="2228">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M1413">
+          <extent>
+              <charseq START="2271" END="2274">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="2271" END="2274">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M1416">
+          <extent>
+              <charseq START="2305" END="2307">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2305" END="2307">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M1617">
+          <extent>
+              <charseq START="2715" END="2718">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="2715" END="2718">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M1704">
+          <extent>
+              <charseq START="2759" END="2762">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="2759" END="2762">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M1906">
+          <extent>
+              <charseq START="3012" END="3015">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="3012" END="3015">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M2301">
+          <extent>
+              <charseq START="3274" END="3277">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="3274" END="3277">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M2402">
+          <extent>
+              <charseq START="3318" END="3320">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="3318" END="3320">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M2407">
+          <extent>
+              <charseq START="3380" END="3382">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3380" END="3382">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M2503">
+          <extent>
+              <charseq START="3586" END="3589">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="3586" END="3589">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M2508">
+          <extent>
+              <charseq START="3660" END="3662">her</charseq>
+          </extent>
+          <head>
+              <charseq START="3660" END="3662">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M2606">
+          <extent>
+              <charseq START="3723" END="3726">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="3723" END="3726">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M2704">
+          <extent>
+              <charseq START="3762" END="3765">Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="3762" END="3765">Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E1-M2705">
+          <extent>
+              <charseq START="3777" END="3785">Curt Knox</charseq>
+          </extent>
+          <head>
+              <charseq START="3777" END="3785">Curt Knox</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E1-M2703">
+          <extent>
+              <charseq START="3762" END="3774">Knox&apos;s father</charseq>
+          </extent>
+          <head>
+              <charseq START="3769" END="3774">father</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E1-M2712">
+          <extent>
+              <charseq START="3835" END="3846">his daughter</charseq>
+          </extent>
+          <head>
+              <charseq START="3839" END="3846">daughter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E1-M2719">
+          <extent>
+              <charseq START="3880" END="3882">she</charseq>
+          </extent>
+          <head>
+              <charseq START="3880" END="3882">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Knox">
+              <charseq START="124" END="127">Knox</charseq>
+          </name>
+          <name NAME="Amanda Knox">
+              <charseq START="300" END="310">Amanda Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="609" END="612">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="692" END="695">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="1026" END="1029">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="1308" END="1311">Knox</charseq>
+          </name>
+          <name NAME="Amanda
+Knox">
+              <charseq START="1409" END="1419">Amanda
+Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="1492" END="1495">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="1629" END="1632">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="2019" END="2022">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="2225" END="2228">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="2271" END="2274">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="2715" END="2718">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="2759" END="2762">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="3012" END="3015">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="3274" END="3277">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="3586" END="3589">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="3723" END="3726">Knox</charseq>
+          </name>
+          <name NAME="Knox">
+              <charseq START="3762" END="3765">Knox</charseq>
+          </name>
+          <name NAME="Curt Knox">
+              <charseq START="3777" END="3785">Curt Knox</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E2-M3">
+          <extent>
+              <charseq START="72" END="98">Italian government official</charseq>
+          </extent>
+          <head>
+              <charseq START="91" END="98">official</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E2-M306">
+          <extent>
+              <charseq START="576" END="587">the official</charseq>
+          </extent>
+          <head>
+              <charseq START="580" END="587">official</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E2-M307">
+          <extent>
+              <charseq START="594" END="595">he</charseq>
+          </extent>
+          <head>
+              <charseq START="594" END="595">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E3-M100">
+          <extent>
+              <charseq START="167" END="179">Eric J. Lyman</charseq>
+          </extent>
+          <head>
+              <charseq START="167" END="179">Eric J. Lyman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eric J. Lyman">
+              <charseq START="167" END="179">Eric J. Lyman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E4" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E4-M201" ROLE="LOC">
+          <extent>
+              <charseq START="190" END="193">ROME</charseq>
+          </extent>
+          <head>
+              <charseq START="190" END="193">ROME</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="ROME">
+              <charseq START="190" END="193">ROME</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E5" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E5-M203">
+          <extent>
+              <charseq START="205" END="210">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="205" END="210">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="205" END="210">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E6-M207">
+          <extent>
+              <charseq START="232" END="263">Prime Minister Silvio Berlusconi</charseq>
+          </extent>
+          <head>
+              <charseq START="247" END="263">Silvio Berlusconi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E6-M209">
+          <extent>
+              <charseq START="238" END="245">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="238" END="245">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E6-M204">
+          <extent>
+              <charseq START="216" END="276">A key member of Prime Minister Silvio Berlusconi&apos;s
+government</charseq>
+          </extent>
+          <head>
+              <charseq START="222" END="227">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E6-M211">
+          <extent>
+              <charseq START="283" END="284">he</charseq>
+          </extent>
+          <head>
+              <charseq START="283" END="284">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E6-M708">
+          <extent>
+              <charseq START="1209" END="1218">Berlusconi</charseq>
+          </extent>
+          <head>
+              <charseq START="1209" END="1218">Berlusconi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Silvio Berlusconi">
+              <charseq START="247" END="263">Silvio Berlusconi</charseq>
+          </name>
+          <name NAME="Berlusconi">
+              <charseq START="1209" END="1218">Berlusconi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E7-M215" ROLE="GPE">
+          <extent>
+              <charseq START="331" END="338">American</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="338">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E7-M1303" ROLE="LOC">
+          <extent>
+              <charseq START="1966" END="1982">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1970" END="1982">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E7-M2700" ROLE="LOC">
+          <extent>
+              <charseq START="3743" END="3759">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="3747" END="3759">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="331" END="338">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1970" END="1982">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="3747" END="3759">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E8-M218" ROLE="GPE">
+          <extent>
+              <charseq START="389" END="425">her British roommate Meredith Kercher</charseq>
+          </extent>
+          <head>
+              <charseq START="393" END="399">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="393" END="399">British</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E9-M221">
+          <extent>
+              <charseq START="410" END="425">Meredith Kercher</charseq>
+          </extent>
+          <head>
+              <charseq START="410" END="425">Meredith Kercher</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E9-M1505">
+          <extent>
+              <charseq START="2370" END="2376">Kercher</charseq>
+          </extent>
+          <head>
+              <charseq START="2370" END="2376">Kercher</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Meredith Kercher">
+              <charseq START="410" END="425">Meredith Kercher</charseq>
+          </name>
+          <name NAME="Kercher">
+              <charseq START="2370" END="2376">Kercher</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E10-M223" ROLE="LOC">
+          <extent>
+              <charseq START="456" END="462">Perugia</charseq>
+          </extent>
+          <head>
+              <charseq START="456" END="462">Perugia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E10-M509" ROLE="GPE">
+          <extent>
+              <charseq START="878" END="884">Perugia</charseq>
+          </extent>
+          <head>
+              <charseq START="878" END="884">Perugia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E10-M505" ROLE="LOC">
+          <extent>
+              <charseq START="851" END="940">the sleepy Umbrian city of Perugia, because of the sexual and violent nature of
+the murder</charseq>
+          </extent>
+          <head>
+              <charseq START="870" END="873">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Perugia">
+              <charseq START="456" END="462">Perugia</charseq>
+          </name>
+          <name NAME="Perugia">
+              <charseq START="878" END="884">Perugia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E11" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E11-M222">
+          <extent>
+              <charseq START="430" END="451">the foreign university</charseq>
+          </extent>
+          <head>
+              <charseq START="442" END="451">university</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E12" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E12-M312">
+          <extent>
+              <charseq START="626" END="631">prison</charseq>
+          </extent>
+          <head>
+              <charseq START="626" END="631">prison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E12-M808">
+          <extent>
+              <charseq START="1424" END="1429">Prison</charseq>
+          </extent>
+          <head>
+              <charseq START="1424" END="1429">Prison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E12-M1414">
+          <extent>
+              <charseq START="2287" END="2292">prison</charseq>
+          </extent>
+          <head>
+              <charseq START="2287" END="2292">prison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E12-M2002">
+          <extent>
+              <charseq START="3083" END="3088">prison</charseq>
+          </extent>
+          <head>
+              <charseq START="3083" END="3088">prison</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E13-M508" ROLE="GPE">
+          <extent>
+              <charseq START="862" END="868">Umbrian</charseq>
+          </extent>
+          <head>
+              <charseq START="862" END="868">Umbrian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Umbrian">
+              <charseq START="862" END="868">Umbrian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E14-M604">
+          <extent>
+              <charseq START="1060" END="1090">co-defendant Raffaele Sollecito</charseq>
+          </extent>
+          <head>
+              <charseq START="1073" END="1090">Raffaele Sollecito</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Raffaele Sollecito">
+              <charseq START="1073" END="1090">Raffaele Sollecito</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E15-M611">
+          <extent>
+              <charseq START="1118" END="1126">the judge</charseq>
+          </extent>
+          <head>
+              <charseq START="1122" END="1126">judge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E16-M701">
+          <extent>
+              <charseq START="1153" END="1166">Rocco Girlanda</charseq>
+          </extent>
+          <head>
+              <charseq START="1153" END="1166">Rocco Girlanda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E16-M702">
+          <extent>
+              <charseq START="1169" END="1248">a 44-year-old member of parliament from Berlusconi&apos;s People
+of Freedom alliance,</charseq>
+          </extent>
+          <head>
+              <charseq START="1183" END="1188">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E16-M710">
+          <extent>
+              <charseq START="1255" END="1256">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1255" END="1256">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E16-M1009">
+          <extent>
+              <charseq START="1763" END="1770">Girlanda</charseq>
+          </extent>
+          <head>
+              <charseq START="1763" END="1770">Girlanda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E16-M1203">
+          <extent>
+              <charseq START="1900" END="1922">a very different
+person</charseq>
+          </extent>
+          <head>
+              <charseq START="1917" END="1922">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E16-M1311">
+          <extent>
+              <charseq START="2063" END="2070">Girlanda</charseq>
+          </extent>
+          <head>
+              <charseq START="2063" END="2070">Girlanda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E16-M1401">
+          <extent>
+              <charseq START="2162" END="2169">Girlanda</charseq>
+          </extent>
+          <head>
+              <charseq START="2162" END="2169">Girlanda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E16-M1402">
+          <extent>
+              <charseq START="2176" END="2177">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2176" END="2177">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E16-M1404">
+          <extent>
+              <charseq START="2188" END="2189">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2188" END="2189">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E16-M1411">
+          <extent>
+              <charseq START="2237" END="2238">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2237" END="2238">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E16-M1509">
+          <extent>
+              <charseq START="2396" END="2403">Girlanda</charseq>
+          </extent>
+          <head>
+              <charseq START="2396" END="2403">Girlanda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E16-M1702">
+          <extent>
+              <charseq START="2737" END="2750">clear Girlanda</charseq>
+          </extent>
+          <head>
+              <charseq START="2743" END="2750">Girlanda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E16-M1905">
+          <extent>
+              <charseq START="2982" END="2989">Girlanda</charseq>
+          </extent>
+          <head>
+              <charseq START="2982" END="2989">Girlanda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E16-M2003">
+          <extent>
+              <charseq START="3101" END="3108">a person</charseq>
+          </extent>
+          <head>
+              <charseq START="3103" END="3108">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E16-M2709">
+          <extent>
+              <charseq START="3802" END="3809">Girlanda</charseq>
+          </extent>
+          <head>
+              <charseq START="3802" END="3809">Girlanda</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E16-M2706">
+          <extent>
+              <charseq START="3793" END="3794">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3793" END="3794">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E16-M2713">
+          <extent>
+              <charseq START="3835" END="3837">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3835" END="3837">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E16-M2717">
+          <extent>
+              <charseq START="3872" END="3873">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3872" END="3873">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rocco Girlanda">
+              <charseq START="1153" END="1166">Rocco Girlanda</charseq>
+          </name>
+          <name NAME="Girlanda">
+              <charseq START="1763" END="1770">Girlanda</charseq>
+          </name>
+          <name NAME="Girlanda">
+              <charseq START="2063" END="2070">Girlanda</charseq>
+          </name>
+          <name NAME="Girlanda">
+              <charseq START="2162" END="2169">Girlanda</charseq>
+          </name>
+          <name NAME="Girlanda">
+              <charseq START="2396" END="2403">Girlanda</charseq>
+          </name>
+          <name NAME="Girlanda">
+              <charseq START="2743" END="2750">Girlanda</charseq>
+          </name>
+          <name NAME="Girlanda">
+              <charseq START="2982" END="2989">Girlanda</charseq>
+          </name>
+          <name NAME="Girlanda">
+              <charseq START="3802" END="3809">Girlanda</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E17" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E17-M706">
+          <extent>
+              <charseq START="1209" END="1248">Berlusconi&apos;s People
+of Freedom alliance,</charseq>
+          </extent>
+          <head>
+              <charseq START="1222" END="1247">People
+of Freedom alliance</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="People
+of Freedom alliance">
+              <charseq START="1222" END="1247">People
+of Freedom alliance</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E18" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E18-M704">
+          <extent>
+              <charseq START="1193" END="1248">parliament from Berlusconi&apos;s People
+of Freedom alliance,</charseq>
+          </extent>
+          <head>
+              <charseq START="1193" END="1202">parliament</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E19-M802">
+          <extent>
+              <charseq START="1356" END="1362">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="1356" END="1362">Italian</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E22" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E22-M1010">
+          <extent>
+              <charseq START="1780" END="1786">a press</charseq>
+          </extent>
+          <head>
+              <charseq START="1782" END="1786">press</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E23-M1300">
+          <extent>
+              <charseq START="1943" END="2002">Political leaders from the United States and other countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1953" END="1959">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E24-M1305" ROLE="LOC">
+          <extent>
+              <charseq START="1988" END="2002">other countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1994" END="2002">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E25-M1312">
+          <extent>
+              <charseq START="2080" END="2111">no high-ranking
+Italian official</charseq>
+          </extent>
+          <head>
+              <charseq START="2104" END="2111">official</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E26-M1501">
+          <extent>
+              <charseq START="2336" END="2352">Francesco Maresca</charseq>
+          </extent>
+          <head>
+              <charseq START="2336" END="2352">Francesco Maresca</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E26-M1502">
+          <extent>
+              <charseq START="2355" END="2385">the lawyer for Kercher&apos;s family</charseq>
+          </extent>
+          <head>
+              <charseq START="2359" END="2364">lawyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E26-M1601">
+          <extent>
+              <charseq START="2482" END="2488">Maresca</charseq>
+          </extent>
+          <head>
+              <charseq START="2482" END="2488">Maresca</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E26-M1602">
+          <extent>
+              <charseq START="2495" END="2513">the parliamentarian</charseq>
+          </extent>
+          <head>
+              <charseq START="2499" END="2513">parliamentarian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E26-M1607">
+          <extent>
+              <charseq START="2565" END="2574">the victim</charseq>
+          </extent>
+          <head>
+              <charseq START="2569" END="2574">victim</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E26-M1616">
+          <extent>
+              <charseq START="2684" END="2686">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2684" END="2686">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E26-M1705">
+          <extent>
+              <charseq START="2778" END="2784">Maresca</charseq>
+          </extent>
+          <head>
+              <charseq START="2778" END="2784">Maresca</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E26-M1802">
+          <extent>
+              <charseq START="2817" END="2819">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2817" END="2819">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E26-M1807">
+          <extent>
+              <charseq START="2860" END="2861">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2860" END="2861">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E26-M1811">
+          <extent>
+              <charseq START="2896" END="2897">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2896" END="2897">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E26-M1900">
+          <extent>
+              <charseq START="2935" END="2941">Maresca</charseq>
+          </extent>
+          <head>
+              <charseq START="2935" END="2941">Maresca</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E26-M2004">
+          <extent>
+              <charseq START="3112" END="3113">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3112" END="3113">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Francesco Maresca">
+              <charseq START="2336" END="2352">Francesco Maresca</charseq>
+          </name>
+          <name NAME="Maresca">
+              <charseq START="2482" END="2488">Maresca</charseq>
+          </name>
+          <name NAME="Maresca">
+              <charseq START="2778" END="2784">Maresca</charseq>
+          </name>
+          <name NAME="Maresca">
+              <charseq START="2935" END="2941">Maresca</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E27-M1504">
+          <extent>
+              <charseq START="2370" END="2385">Kercher&apos;s family</charseq>
+          </extent>
+          <head>
+              <charseq START="2380" END="2385">family</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E27-M1606">
+          <extent>
+              <charseq START="2565" END="2583">the victim&apos;s family</charseq>
+          </extent>
+          <head>
+              <charseq START="2578" END="2583">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E28" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E28-M2100">
+          <extent>
+              <charseq START="3122" END="3127">People</charseq>
+          </extent>
+          <head>
+              <charseq START="3122" END="3127">People</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E28-M2101">
+          <extent>
+              <charseq START="3161" END="3164">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3161" END="3164">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20101019.0246-E29-M2410">
+          <extent>
+              <charseq START="3459" END="3534">Rudy Hermann Guede, who had his sentence reduced
+from 30 years to 16 in 2009</charseq>
+          </extent>
+          <head>
+              <charseq START="3459" END="3476">Rudy Hermann Guede</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E29-M2412">
+          <extent>
+              <charseq START="3479" END="3481">who</charseq>
+          </extent>
+          <head>
+              <charseq START="3479" END="3481">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E29-M2415">
+          <extent>
+              <charseq START="3487" END="3489">his</charseq>
+          </extent>
+          <head>
+              <charseq START="3487" END="3489">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rudy Hermann Guede">
+              <charseq START="3459" END="3476">Rudy Hermann Guede</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E30-M2409">
+          <extent>
+              <charseq START="3437" END="3456">another co-defendant</charseq>
+          </extent>
+          <head>
+              <charseq START="3445" END="3456">co-defendant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20101019.0246-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20101019.0246-E31-M2500">
+          <extent>
+              <charseq START="3550" END="3560">prosecutors</charseq>
+          </extent>
+          <head>
+              <charseq START="3550" END="3560">prosecutors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E31-M2501">
+          <extent>
+              <charseq START="3572" END="3575">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3572" END="3575">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E31-M2504">
+          <extent>
+              <charseq START="3633" END="3636">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3633" END="3636">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E31-M2600">
+          <extent>
+              <charseq START="3671" END="3674">They</charseq>
+          </extent>
+          <head>
+              <charseq START="3671" END="3674">They</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20101019.0246-E31-M2602">
+          <extent>
+              <charseq START="3686" END="3689">they</charseq>
+          </extent>
+          <head>
+              <charseq START="3686" END="3689">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T0" VAL="2010-10-19">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T0-M1">
+            <extent>
+              <charseq START="196" END="202">Oct. 19</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T1" VAL="P23Y">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T1-M1">
+            <extent>
+              <charseq START="319" END="329">23-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T2" VAL="2007">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T2-M1">
+            <extent>
+              <charseq START="374" END="377">2007</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T3" VAL="2010-10-19">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T3-M1">
+            <extent>
+              <charseq START="512" END="518">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T4" VAL="2010-W43">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T4-M1">
+            <extent>
+              <charseq START="559" END="573">later this
+week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T5" VAL="PRESENT_REF" ANCHOR_VAL="2010-10-19" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T5-M1">
+            <extent>
+              <charseq START="700" END="708">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T6" VAL="P26Y">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T6-M1">
+            <extent>
+              <charseq START="720" END="726">26-year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T7" VAL="2009-12">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T7-M1">
+            <extent>
+              <charseq START="791" END="803">December 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T8" VAL="PAST_REF" ANCHOR_VAL="2010-10-19" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T8-M1">
+            <extent>
+              <charseq START="1039" END="1044">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T9" VAL="P44Y">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T9-M1">
+            <extent>
+              <charseq START="1171" END="1181">44-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T10" VAL="FUTURE_REF" ANCHOR_VAL="2010-10-19" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T10-M1">
+            <extent>
+              <charseq START="1599" END="1608">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T11" VAL="P3Y">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T11-M1">
+            <extent>
+              <charseq START="3028" END="3055">three years after the murder</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T12" VAL="P3Y">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T12-M1">
+            <extent>
+              <charseq START="3068" END="3088">Three years in prison</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T13" VAL="2010-11-24">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T13-M1">
+            <extent>
+              <charseq START="3309" END="3315">Nov. 24</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T14" VAL="P30Y">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T14-M1">
+            <extent>
+              <charseq START="3513" END="3520">30 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20101019.0246-T15" VAL="2009">
+        <timex2_mention ID="XIN_ENG_20101019.0246-T15-M1">
+            <extent>
+              <charseq START="3531" END="3534">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20101019.0246-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R0-M0">
+          <extent>
+              <charseq START="72" END="98">Italian government official</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E2-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="72" END="98">Italian government official</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E0-M4" ROLE="Arg-2">
+            <extent>
+              <charseq START="72" END="78">Italian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20101019.0246-R0-M1">
+          <extent>
+              <charseq START="72" END="98">Italian government official</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E2-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="72" END="98">Italian government official</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E0-M5" ROLE="Arg-2">
+            <extent>
+              <charseq START="80" END="89">government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R1-M200">
+          <extent>
+              <charseq START="232" END="263">Prime Minister Silvio Berlusconi</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E6-M207" ROLE="Arg-1">
+            <extent>
+              <charseq START="232" END="263">Prime Minister Silvio Berlusconi</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E0-M206" ROLE="Arg-2">
+            <extent>
+              <charseq START="232" END="276">Prime Minister Silvio Berlusconi&apos;s
+government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E7" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R2-M201">
+          <extent>
+              <charseq START="315" END="344">the 23-year-old American woman</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E1-M214" ROLE="Arg-1">
+            <extent>
+              <charseq START="315" END="344">the 23-year-old American woman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E7-M215" ROLE="Arg-2">
+            <extent>
+              <charseq START="331" END="338">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R3" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E10" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R3-M202">
+          <extent>
+              <charseq START="430" END="451">the foreign university</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E11-M222" ROLE="Arg-1">
+            <extent>
+              <charseq START="430" END="451">the foreign university</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E10-M223" ROLE="Arg-2">
+            <extent>
+              <charseq START="456" END="462">Perugia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E12" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R4-M300">
+          <extent>
+              <charseq START="609" END="612">Knox</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E1-M311" ROLE="Arg-1">
+            <extent>
+              <charseq START="609" END="612">Knox</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E12-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="626" END="631">prison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20101019.0246-R4-M800">
+          <extent>
+              <charseq START="1409" END="1419">Amanda
+Knox</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E1-M807" ROLE="Arg-1">
+            <extent>
+              <charseq START="1409" END="1419">Amanda
+Knox</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E12-M808" ROLE="Arg-2">
+            <extent>
+              <charseq START="1424" END="1429">Prison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20101019.0246-R4-M1400">
+          <extent>
+              <charseq START="2271" END="2274">Knox</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E1-M1413" ROLE="Arg-1">
+            <extent>
+              <charseq START="2271" END="2274">Knox</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E12-M1414" ROLE="Arg-2">
+            <extent>
+              <charseq START="2287" END="2292">prison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E13" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R5-M500">
+          <extent>
+              <charseq START="851" END="940">the sleepy Umbrian city of Perugia, because of the sexual and violent nature of
+the murder</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E10-M505" ROLE="Arg-1">
+            <extent>
+              <charseq START="851" END="940">the sleepy Umbrian city of Perugia, because of the sexual and violent nature of
+the murder</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E13-M508" ROLE="Arg-2">
+            <extent>
+              <charseq START="862" END="868">Umbrian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R6" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E18" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R6-M700">
+          <extent>
+              <charseq START="1169" END="1248">a 44-year-old member of parliament from Berlusconi&apos;s People
+of Freedom alliance,</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E16-M702" ROLE="Arg-1">
+            <extent>
+              <charseq START="1169" END="1248">a 44-year-old member of parliament from Berlusconi&apos;s People
+of Freedom alliance,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E18-M704" ROLE="Arg-2">
+            <extent>
+              <charseq START="1193" END="1248">parliament from Berlusconi&apos;s People
+of Freedom alliance,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R7" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E17" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R7-M701">
+          <extent>
+              <charseq START="1209" END="1218">Berlusconi</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E6-M708" ROLE="Arg-1">
+            <extent>
+              <charseq START="1209" END="1218">Berlusconi</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E17-M706" ROLE="Arg-2">
+            <extent>
+              <charseq START="1209" END="1248">Berlusconi&apos;s People
+of Freedom alliance,</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E7" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R8-M1300">
+          <extent>
+              <charseq START="1943" END="2002">Political leaders from the United States and other countries</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E23-M1300" ROLE="Arg-1">
+            <extent>
+              <charseq START="1943" END="2002">Political leaders from the United States and other countries</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E7-M1303" ROLE="Arg-2">
+            <extent>
+              <charseq START="1966" END="1982">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E24" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R9-M1301">
+          <extent>
+              <charseq START="1943" END="2002">Political leaders from the United States and other countries</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E23-M1300" ROLE="Arg-1">
+            <extent>
+              <charseq START="1943" END="2002">Political leaders from the United States and other countries</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E24-M1305" ROLE="Arg-2">
+            <extent>
+              <charseq START="1988" END="2002">other countries</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R10" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E27" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R10-M1500">
+          <extent>
+              <charseq START="2355" END="2385">the lawyer for Kercher&apos;s family</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E26-M1502" ROLE="Arg-1">
+            <extent>
+              <charseq START="2355" END="2385">the lawyer for Kercher&apos;s family</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E27-M1504" ROLE="Arg-2">
+            <extent>
+              <charseq START="2370" END="2385">Kercher&apos;s family</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R11" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E27" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R11-M1501">
+          <extent>
+              <charseq START="2370" END="2376">Kercher</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E9-M1505" ROLE="Arg-1">
+            <extent>
+              <charseq START="2370" END="2376">Kercher</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E27-M1504" ROLE="Arg-2">
+            <extent>
+              <charseq START="2370" END="2385">Kercher&apos;s family</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R12" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E27" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R12-M1600">
+          <extent>
+              <charseq START="2565" END="2574">the victim</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E26-M1607" ROLE="Arg-1">
+            <extent>
+              <charseq START="2565" END="2574">the victim</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E27-M1606" ROLE="Arg-2">
+            <extent>
+              <charseq START="2565" END="2583">the victim&apos;s family</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R13" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R13-M2701">
+          <extent>
+              <charseq START="3835" END="3837">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E16-M2713" ROLE="Arg-1">
+            <extent>
+              <charseq START="3835" END="3837">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E1-M2712" ROLE="Arg-2">
+            <extent>
+              <charseq START="3835" END="3846">his daughter</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20101019.0246-R14" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20101019.0246-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20101019.0246-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20101019.0246-R14-M2702">
+          <extent>
+              <charseq START="3872" END="3873">he</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E16-M2717" ROLE="Arg-1">
+            <extent>
+              <charseq START="3872" END="3873">he</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20101019.0246-E0-M2716" ROLE="Arg-2">
+            <extent>
+              <charseq START="3866" END="3870">where</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="18a89cdd00dadc593a88c924111575f1.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-384" length="8" offset="614">
+        <text>the Feds</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-144" length="82" offset="849">
+        <text>self-important goverment activists looking to make work, and a name for themselves</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-144" length="82" offset="849">
+        <text>self-important goverment activists looking to make work, and a name for themselves</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-156" length="31" offset="1081">
+        <text>the marijuana culture activists</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-156" length="31" offset="1081">
+        <text>the marijuana culture activists</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-782" length="3" offset="1709">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-90" length="5" offset="14">Piney</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

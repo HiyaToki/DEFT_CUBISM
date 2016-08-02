@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="08b0dfe15192c063055ed7db8d24c625.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-327" length="6" offset="223">
+        <text>Indian</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-213" length="10" offset="292">
+        <text>its leader</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1069" length="27" offset="645">
+        <text>Other nationalist movements</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-811" length="27" offset="1645">
+        <text>the normal people of Europe</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-811" length="27" offset="1645">
+        <text>the normal people of Europe</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-279" length="3" offset="1976">
+        <text>BNP</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-123" length="4" offset="90">nmds</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-465" length="12" offset="2572">
+        <text>South Africa</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-231" length="13" offset="14">Ravin McRaven</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-201" length="3" offset="3589">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" length="4" offset="2925">nmds</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

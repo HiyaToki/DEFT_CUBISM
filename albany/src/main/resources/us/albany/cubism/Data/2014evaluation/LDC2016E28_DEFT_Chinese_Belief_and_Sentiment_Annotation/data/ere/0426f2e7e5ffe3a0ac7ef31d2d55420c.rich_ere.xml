@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="55ccab530000000000000003" doc_id="0426f2e7e5ffe3a0ac7ef31d2d55420c" source_type="multi_post">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specific">
+      <entity_mention id="m-57" noun_type="NAM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="512" length="11">
+        <mention_text>QQ864550318</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-18" type="PER" specificity="specific">
+      <entity_mention id="m-63" noun_type="NAM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="14" length="3">
+        <mention_text>liz</mention_text>
+      </entity_mention>
+      <entity_mention id="m-481" noun_type="PRO" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="322" length="2">
+        <mention_text>自身</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-21" type="PER" specificity="specific">
+      <entity_mention id="m-69" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="110" length="5">
+        <mention_text>335 人</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="114" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="PER" specificity="specific">
+      <entity_mention id="m-75" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="234" length="1">
+        <mention_text>人</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="234" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="PER" specificity="specific">
+      <entity_mention id="m-81" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="351" length="7">
+        <mention_text>一大批城市毒瘤</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="356" length="2">毒瘤</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="nonspecific">
+      <entity_mention id="m-87" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="444" length="4">
+        <mention_text>老百姓们</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="444" length="4">老百姓们</nom_head>
+      </entity_mention>
+      <entity_mention id="m-93" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="362" length="2">
+        <mention_text>百姓</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="362" length="2">百姓</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="PER" specificity="specific">
+      <entity_mention id="m-99" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="222" length="2">
+        <mention_text>xx</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="222" length="2">xx</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="ORG" specificity="specific">
+      <entity_mention id="m-105" noun_type="NAM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="332" length="4">
+        <mention_text>陕西公安</mention_text>
+      </entity_mention>
+      <entity_mention id="m-111" noun_type="NAM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="76" length="6">
+        <mention_text>陕西省公安厅</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="ORG" specificity="specific">
+      <entity_mention id="m-117" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="197" length="7">
+        <mention_text>xx 娱乐场所</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="202" length="2">场所</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-42" type="GPE" specificity="specific">
+      <entity_mention id="m-123" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="423" length="7">
+        <mention_text>全国其他的城市</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="428" length="2">城市</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="GPE" specificity="specific">
+      <entity_mention id="m-129" noun_type="NAM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="332" length="2">
+        <mention_text>陕西</mention_text>
+      </entity_mention>
+      <entity_mention id="m-135" noun_type="NAM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="76" length="3">
+        <mention_text>陕西省</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="GPE" specificity="specific">
+      <entity_mention id="m-141" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="84" length="8">
+        <mention_text>11 个市（区）</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="88" length="4">市（区）</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="GPE" specificity="specific">
+      <entity_mention id="m-147" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="423" length="2">
+        <mention_text>全国</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="423" length="2">全国</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="LOC" specificity="specific">
+      <entity_mention id="m-153" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="227" length="5">
+        <mention_text>xxktv</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="229" length="3">ktv</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-342" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-336" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="121" length="6">
+        <mention_text>色情 ktv</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="124" length="3">ktv</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-351" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-345" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="121" length="12">
+        <mention_text>色情 ktv 一类的场所</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="131" length="2">场所</nom_head>
+      </entity_mention>
+      <entity_mention id="m-363" noun_type="PRO" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="155" length="2">
+        <mention_text>这里</mention_text>
+      </entity_mention>
+      <entity_mention id="m-387" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="295" length="5">
+        <mention_text>这样的场所</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="298" length="2">场所</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-360" type="LOC" specificity="nonspecific">
+      <entity_mention id="m-354" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="135" length="2">
+        <mention_text>城市</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="135" length="2">城市</nom_head>
+      </entity_mention>
+      <entity_mention id="m-393" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="307" length="5">
+        <mention_text>好好的城市</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="310" length="2">城市</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-375" type="PER" specificity="nonspecific">
+      <entity_mention id="m-369" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="209" length="4">
+        <mention_text>未成年人</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="209" length="4">未成年人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-384" type="PER" specificity="nonspecific">
+      <entity_mention id="m-378" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="251" length="4">
+        <mention_text>高官权者</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="251" length="4">高官权者</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-405" type="ORG" specificity="specific">
+      <entity_mention id="m-399" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="387" length="2">
+        <mention_text>警方</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="387" length="2">警方</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-478" type="PER" specificity="nonspecific">
+      <entity_mention id="m-472" noun_type="NOM" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="286" length="7">
+        <mention_text>一名普通的群众</mention_text>
+        <nom_head source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="291" length="2">群众</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-467" source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="59" length="16" type="time" nom_time="2011-12-10">2011 年 12 月 10 日</filler>
+  </fillers>
+  <relations>
+    <relation id="r-49" type="partwhole" subtype="subsidiary">
+      <relation_mention id="relm-159" realis="true">
+        <rel_arg1 entity_id="ent-36" entity_mention_id="m-111" role="suborg">陕西省公安厅</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-135" role="parent">陕西省</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-418" realis="true">
+        <rel_arg1 entity_id="ent-36" entity_mention_id="m-105" role="suborg">陕西公安</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-129" role="parent">陕西</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-50" type="physical" subtype="locatednear">
+      <relation_mention id="relm-169" realis="true">
+        <rel_arg1 entity_id="ent-21" entity_mention_id="m-69" role="entity">335 人</rel_arg1>
+        <rel_arg2 entity_id="ent-48" entity_mention_id="m-141" role="loc">11 个市（区）</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-51" type="physical" subtype="locatednear">
+      <relation_mention id="relm-179" realis="true">
+        <rel_arg1 entity_id="ent-42" entity_mention_id="m-123" role="entity">全国其他的城市</rel_arg1>
+        <rel_arg2 entity_id="ent-51" entity_mention_id="m-147" role="loc">全国</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-52" type="physical" subtype="locatednear">
+      <relation_mention id="relm-189" realis="true">
+        <rel_arg1 entity_id="ent-24" entity_mention_id="m-75" role="entity">人</rel_arg1>
+        <rel_arg2 entity_id="ent-54" entity_mention_id="m-153" role="loc">xxktv</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-53" type="physical" subtype="locatednear">
+      <relation_mention id="relm-199" realis="true">
+        <rel_arg1 entity_id="ent-33" entity_mention_id="m-99" role="entity">xx</rel_arg1>
+        <rel_arg2 entity_id="ent-54" entity_mention_id="m-153" role="loc">xxktv</rel_arg2>
+        <trigger source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="225" length="1">在</trigger>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-217" type="life" subtype="die" realis="actual">
+        <trigger source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="243" length="1">死</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-99" role="victim" realis="true">xx</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-209">
+      <event_mention id="em-238" type="life" subtype="injure" realis="actual">
+        <trigger source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="241" length="1">伤</trigger>
+        <em_arg entity_id="ent-33" entity_mention_id="m-99" role="victim" realis="true">xx</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-211">
+      <event_mention id="em-259" type="conflict" subtype="attack" realis="actual">
+        <trigger source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="240" length="1">砍</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-75" role="attacker" realis="true">人</em_arg>
+        <em_arg entity_id="ent-33" entity_mention_id="m-99" role="target" realis="true">xx</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-213">
+      <event_mention id="em-280" type="conflict" subtype="attack" realis="actual">
+        <trigger source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="238" length="2">群殴</trigger>
+        <em_arg entity_id="ent-24" entity_mention_id="m-75" role="attacker" realis="true">人</em_arg>
+        <em_arg entity_id="ent-33" entity_mention_id="m-99" role="target" realis="true">xx</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-470">
+      <event_mention id="em-428" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="0426f2e7e5ffe3a0ac7ef31d2d55420c" offset="107" length="2">抓获</trigger>
+        <em_arg entity_id="ent-48" entity_mention_id="m-141" role="place" realis="true">11 个市（区）</em_arg>
+        <em_arg entity_id="ent-21" entity_mention_id="m-69" role="person" realis="true">335 人</em_arg>
+        <em_arg entity_id="ent-36" entity_mention_id="m-111" role="agent" realis="true">陕西省公安厅</em_arg>
+        <em_arg filler_id="f-467" role="time" realis="true">2011 年 12 月 10 日</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="1e9dfabe5e068a4142e768c0c5c37b6b.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-408" length="12" offset="117">
+        <text>best friends</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" length="9" offset="14">Anonymous</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-96" length="37" offset="459">
+        <text>the most important person in his life</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-54" length="9" offset="14">Anonymous</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-492" length="15" offset="875">
+        <text>the guy I loved</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-162" length="1" offset="855">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-504" length="2" offset="908">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" length="9" offset="14">Anonymous</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-974" length="6" offset="1175">
+        <text>anyone</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-234" length="1" offset="1158">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-300" length="3" offset="1881">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-606" length="10" offset="1547">LilMonster</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-324" length="8" offset="2093">
+        <text>yourself</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-606" length="10" offset="1547">LilMonster</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

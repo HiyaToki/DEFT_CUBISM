@@ -1,0 +1,1350 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20101008.0765">
+  <document DOCID="APW_ENG_20101008.0765">
+
+    <entity ID="APW_ENG_20101008.0765-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E0-M102" ROLE="GPE">
+          <extent>
+              <charseq START="71" END="72">US</charseq>
+          </extent>
+          <head>
+              <charseq START="71" END="72">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E0-M404" ROLE="GPE">
+          <extent>
+              <charseq START="453" END="456">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="456">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E0-M1109" ROLE="LOC">
+          <extent>
+              <charseq START="1756" END="1766">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="1760" END="1766">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="71" END="72">US</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="453" END="456">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E1" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E1-M105" ROLE="LOC">
+          <extent>
+              <charseq START="103" END="106">Utah</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="106">Utah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E1-M907">
+          <extent>
+              <charseq START="1288" END="1291">Utah</charseq>
+          </extent>
+          <head>
+              <charseq START="1288" END="1291">Utah</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Utah">
+              <charseq START="103" END="106">Utah</charseq>
+          </name>
+          <name NAME="Utah">
+              <charseq START="1288" END="1291">Utah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E2-M100">
+          <extent>
+              <charseq START="71" END="106">US gay rights leaders headed to Utah</charseq>
+          </extent>
+          <head>
+              <charseq START="85" END="91">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E3-M201" ROLE="GPE">
+          <extent>
+              <charseq START="131" END="144">SALT LAKE CITY</charseq>
+          </extent>
+          <head>
+              <charseq START="131" END="144">SALT LAKE CITY</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E3-M311">
+          <extent>
+              <charseq START="256" END="269">Salt Lake City</charseq>
+          </extent>
+          <head>
+              <charseq START="256" END="269">Salt Lake City</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E3-M904" ROLE="LOC">
+          <extent>
+              <charseq START="1268" END="1281">Salt Lake City</charseq>
+          </extent>
+          <head>
+              <charseq START="1268" END="1281">Salt Lake City</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SALT LAKE CITY">
+              <charseq START="131" END="144">SALT LAKE CITY</charseq>
+          </name>
+          <name NAME="Salt Lake City">
+              <charseq START="256" END="269">Salt Lake City</charseq>
+          </name>
+          <name NAME="Salt Lake City">
+              <charseq START="1268" END="1281">Salt Lake City</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E4" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E4-M312">
+          <extent>
+              <charseq START="273" END="285">Mormon church</charseq>
+          </extent>
+          <head>
+              <charseq START="273" END="285">Mormon church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E4-M316">
+          <extent>
+              <charseq START="353" END="358">church</charseq>
+          </extent>
+          <head>
+              <charseq START="353" END="358">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E4-M512">
+          <extent>
+              <charseq START="802" END="811">the church</charseq>
+          </extent>
+          <head>
+              <charseq START="806" END="811">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E4-M920">
+          <extent>
+              <charseq START="1407" END="1412">church</charseq>
+          </extent>
+          <head>
+              <charseq START="1407" END="1412">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E4-M1515">
+          <extent>
+              <charseq START="2502" END="2511">the church</charseq>
+          </extent>
+          <head>
+              <charseq START="2506" END="2511">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E4-M1705">
+          <extent>
+              <charseq START="2618" END="2627">the church</charseq>
+          </extent>
+          <head>
+              <charseq START="2622" END="2627">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E4-M1801">
+          <extent>
+              <charseq START="2662" END="2667">Church</charseq>
+          </extent>
+          <head>
+              <charseq START="2662" END="2667">Church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101008.0765-E4-M1816">
+          <extent>
+              <charseq START="2804" END="2806">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2804" END="2806">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E4-M1902">
+          <extent>
+              <charseq START="2970" END="2975">church</charseq>
+          </extent>
+          <head>
+              <charseq START="2970" END="2975">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E4-M2002">
+          <extent>
+              <charseq START="3101" END="3106">church</charseq>
+          </extent>
+          <head>
+              <charseq START="3101" END="3106">church</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mormon church">
+              <charseq START="273" END="285">Mormon church</charseq>
+          </name>
+          <name NAME="Church">
+              <charseq START="2662" END="2667">Church</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E5-M300">
+          <extent>
+              <charseq START="193" END="221">National gay rights activists</charseq>
+          </extent>
+          <head>
+              <charseq START="213" END="221">activists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101008.0765-E5-M305">
+          <extent>
+              <charseq START="235" END="238">they</charseq>
+          </extent>
+          <head>
+              <charseq START="235" END="238">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E6-M307">
+          <extent>
+              <charseq START="245" END="402">descend on Salt Lake City&apos;s Mormon church headquarters to deliver more than 100,000 letters asking a senior church leader to recant recent anti-gay statements</charseq>
+          </extent>
+          <head>
+              <charseq START="245" END="251">descend</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E6-M315">
+          <extent>
+              <charseq START="344" END="365">a senior church leader</charseq>
+          </extent>
+          <head>
+              <charseq START="360" END="365">leader</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E7" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E7-M309">
+          <extent>
+              <charseq START="256" END="402">Salt Lake City&apos;s Mormon church headquarters to deliver more than 100,000 letters asking a senior church leader to recant recent anti-gay statements</charseq>
+          </extent>
+          <head>
+              <charseq START="287" END="298">headquarters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E8" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E8-M401">
+          <extent>
+              <charseq START="414" END="438">The Human Rights Campaign</charseq>
+          </extent>
+          <head>
+              <charseq START="418" END="438">Human Rights Campaign</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E8-M403">
+          <extent>
+              <charseq START="441" END="486">the largest U.S. gay civil rights organization</charseq>
+          </extent>
+          <head>
+              <charseq START="475" END="486">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E8-M700">
+          <extent>
+              <charseq START="970" END="994">The Human Rights Campaign</charseq>
+          </extent>
+          <head>
+              <charseq START="974" END="994">Human Rights Campaign</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E8-M714">
+          <extent>
+              <charseq START="1098" END="1106">the group</charseq>
+          </extent>
+          <head>
+              <charseq START="1102" END="1106">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E8-M900">
+          <extent>
+              <charseq START="1213" END="1221">The group</charseq>
+          </extent>
+          <head>
+              <charseq START="1217" END="1221">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E8-M912">
+          <extent>
+              <charseq START="1331" END="1371">a support group for gay Latter-day Saints</charseq>
+          </extent>
+          <head>
+              <charseq START="1341" END="1345">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Human Rights Campaign">
+              <charseq START="418" END="438">Human Rights Campaign</charseq>
+          </name>
+          <name NAME="Human Rights Campaign">
+              <charseq START="974" END="994">Human Rights Campaign</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E9-M409">
+          <extent>
+              <charseq START="510" END="523">Boyd K. Packer</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="523">Boyd K. Packer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E9-M501">
+          <extent>
+              <charseq START="666" END="671">Packer</charseq>
+          </extent>
+          <head>
+              <charseq START="666" END="671">Packer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101008.0765-E9-M601">
+          <extent>
+              <charseq START="836" END="838">His</charseq>
+          </extent>
+          <head>
+              <charseq START="836" END="838">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E9-M1700">
+          <extent>
+              <charseq START="2595" END="2600">Packer</charseq>
+          </extent>
+          <head>
+              <charseq START="2595" END="2600">Packer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E9-M1701">
+          <extent>
+              <charseq START="2605" END="2659">president of the church&apos;s Quorum of the Twelve Apostles</charseq>
+          </extent>
+          <head>
+              <charseq START="2605" END="2613">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E9-M1805">
+          <extent>
+              <charseq START="2710" END="2715">Packer</charseq>
+          </extent>
+          <head>
+              <charseq START="2710" END="2715">Packer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boyd K. Packer">
+              <charseq START="510" END="523">Boyd K. Packer</charseq>
+          </name>
+          <name NAME="Packer">
+              <charseq START="666" END="671">Packer</charseq>
+          </name>
+          <name NAME="Packer">
+              <charseq START="2595" END="2600">Packer</charseq>
+          </name>
+          <name NAME="Packer">
+              <charseq START="2710" END="2715">Packer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E10" TYPE="ORG" SUBTYPE="Religious" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E10-M506">
+          <extent>
+              <charseq START="726" END="776">the The Church of Jesus Christ of Latter-day Saints</charseq>
+          </extent>
+          <head>
+              <charseq START="734" END="776">Church of Jesus Christ of Latter-day Saints</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E10-M915">
+          <extent>
+              <charseq START="1351" END="1371">gay Latter-day Saints</charseq>
+          </extent>
+          <head>
+              <charseq START="1355" END="1371">Latter-day Saints</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E10-M916">
+          <extent>
+              <charseq START="1351" END="1353">gay</charseq>
+          </extent>
+          <head>
+              <charseq START="1351" END="1353">gay</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Church of Jesus Christ of Latter-day Saints">
+              <charseq START="734" END="776">Church of Jesus Christ of Latter-day Saints</charseq>
+          </name>
+          <name NAME="Latter-day Saints">
+              <charseq START="1355" END="1371">Latter-day Saints</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E11-M711">
+          <extent>
+              <charseq START="1086" END="1095">Fred Sainz</charseq>
+          </extent>
+          <head>
+              <charseq START="1086" END="1095">Fred Sainz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E11-M712">
+          <extent>
+              <charseq START="1098" END="1142">the group&apos;s vice president for communications</charseq>
+          </extent>
+          <head>
+              <charseq START="1115" END="1123">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E11-M921">
+          <extent>
+              <charseq START="1428" END="1432">Sainz</charseq>
+          </extent>
+          <head>
+              <charseq START="1428" END="1432">Sainz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E11-M1013">
+          <extent>
+              <charseq START="1607" END="1611">Sainz</charseq>
+          </extent>
+          <head>
+              <charseq START="1607" END="1611">Sainz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E11-M1300">
+          <extent>
+              <charseq START="1991" END="1995">Sainz</charseq>
+          </extent>
+          <head>
+              <charseq START="1991" END="1995">Sainz</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fred Sainz">
+              <charseq START="1086" END="1095">Fred Sainz</charseq>
+          </name>
+          <name NAME="Sainz">
+              <charseq START="1428" END="1432">Sainz</charseq>
+          </name>
+          <name NAME="Sainz">
+              <charseq START="1607" END="1611">Sainz</charseq>
+          </name>
+          <name NAME="Sainz">
+              <charseq START="1991" END="1995">Sainz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E12-M703">
+          <extent>
+              <charseq START="1002" END="1008">members</charseq>
+          </extent>
+          <head>
+              <charseq START="1002" END="1008">members</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E13-M704">
+          <extent>
+              <charseq START="1014" END="1035">supporters for letters</charseq>
+          </extent>
+          <head>
+              <charseq START="1014" END="1023">supporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E14-M906">
+          <extent>
+              <charseq START="1288" END="1312">Utah&apos;s gay rights leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="1306" END="1312">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E15-M919">
+          <extent>
+              <charseq START="1407" END="1425">church headquarters</charseq>
+          </extent>
+          <head>
+              <charseq START="1414" END="1425">headquarters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E16-M1008">
+          <extent>
+              <charseq START="1489" END="1499">individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="1489" END="1499">individuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E17-M1009">
+          <extent>
+              <charseq START="1505" END="1516">institutions</charseq>
+          </extent>
+          <head>
+              <charseq START="1505" END="1516">institutions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E18-M1011">
+          <extent>
+              <charseq START="1578" END="1590">any community</charseq>
+          </extent>
+          <head>
+              <charseq START="1582" END="1590">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E19-M1012">
+          <extent>
+              <charseq START="1595" END="1603">Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="1595" END="1603">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E21-M1102">
+          <extent>
+              <charseq START="1640" END="1651">Elder Packer</charseq>
+          </extent>
+          <head>
+              <charseq START="1640" END="1651">Elder Packer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Elder Packer">
+              <charseq START="1640" END="1651">Elder Packer</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E22-M1203">
+          <extent>
+              <charseq START="1845" END="1897">18-year-old Rutgers University student Tyler Clementi</charseq>
+          </extent>
+          <head>
+              <charseq START="1884" END="1897">Tyler Clementi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E22-M1205">
+          <extent>
+              <charseq START="1876" END="1882">student</charseq>
+          </extent>
+          <head>
+              <charseq START="1876" END="1882">student</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tyler Clementi">
+              <charseq START="1884" END="1897">Tyler Clementi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E23" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E23-M1204">
+          <extent>
+              <charseq START="1857" END="1874">Rutgers University</charseq>
+          </extent>
+          <head>
+              <charseq START="1857" END="1874">Rutgers University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rutgers University">
+              <charseq START="1857" END="1874">Rutgers University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E24-M1200">
+          <extent>
+              <charseq START="1810" END="1980">At least four young men, including 18-year-old Rutgers University student Tyler Clementi, committed suicide last month after reportedly being victims of anti-gay bullying.</charseq>
+          </extent>
+          <head>
+              <charseq START="1830" END="1832">men</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E25-M1211">
+          <extent>
+              <charseq START="1952" END="1979">victims of anti-gay bullying</charseq>
+          </extent>
+          <head>
+              <charseq START="1952" END="1958">victims</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E26" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E26-M1302">
+          <extent>
+              <charseq START="2013" END="2050">the American Psychological Association</charseq>
+          </extent>
+          <head>
+              <charseq START="2017" END="2050">American Psychological Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E26-M1304">
+          <extent>
+              <charseq START="2056" END="2091">the American Psychiatric Association</charseq>
+          </extent>
+          <head>
+              <charseq START="2060" END="2091">American Psychiatric Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American Psychological Association">
+              <charseq START="2017" END="2050">American Psychological Association</charseq>
+          </name>
+          <name NAME="American Psychiatric Association">
+              <charseq START="2060" END="2091">American Psychiatric Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E27-M1310">
+          <extent>
+              <charseq START="2160" END="2167">a person</charseq>
+          </extent>
+          <head>
+              <charseq START="2162" END="2167">person</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E28" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E28-M1404">
+          <extent>
+              <charseq START="2227" END="2236">Pediatrics</charseq>
+          </extent>
+          <head>
+              <charseq START="2227" END="2236">Pediatrics</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pediatrics">
+              <charseq START="2227" END="2236">Pediatrics</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E29-M1405">
+          <extent>
+              <charseq START="2262" END="2266">teens</charseq>
+          </extent>
+          <head>
+              <charseq START="2262" END="2266">teens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101008.0765-E29-M1406">
+          <extent>
+              <charseq START="2268" END="2271">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2268" END="2271">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101008.0765-E29-M1409">
+          <extent>
+              <charseq START="2284" END="2288">their</charseq>
+          </extent>
+          <head>
+              <charseq START="2284" END="2288">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E29-M1601">
+          <extent>
+              <charseq START="2559" END="2567">the crowd</charseq>
+          </extent>
+          <head>
+              <charseq START="2563" END="2567">crowd</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E30" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E30-M1507" ROLE="GPE">
+          <extent>
+              <charseq START="2425" END="2454">young, gay Mormons to suicide,</charseq>
+          </extent>
+          <head>
+              <charseq START="2436" END="2442">Mormons</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E30-M1509">
+          <extent>
+              <charseq START="2432" END="2434">gay</charseq>
+          </extent>
+          <head>
+              <charseq START="2432" END="2434">gay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E30-M2003">
+          <extent>
+              <charseq START="3122" END="3128">Mormons</charseq>
+          </extent>
+          <head>
+              <charseq START="3122" END="3128">Mormons</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mormons">
+              <charseq START="2436" END="2442">Mormons</charseq>
+          </name>
+          <name NAME="Mormons">
+              <charseq START="3122" END="3128">Mormons</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E31-M1503">
+          <extent>
+              <charseq START="2373" END="2539">activists dressed in black to symbolize the loss of young, gay Mormons to suicide, and lay head-to-toe on the sidewalks circling the church&apos;s six-block downtown campus</charseq>
+          </extent>
+          <head>
+              <charseq START="2373" END="2381">activists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E32-M1512">
+          <extent>
+              <charseq START="2479" END="2539">the sidewalks circling the church&apos;s six-block downtown campus</charseq>
+          </extent>
+          <head>
+              <charseq START="2483" END="2491">sidewalks</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E33" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E33-M1514">
+          <extent>
+              <charseq START="2502" END="2539">the church&apos;s six-block downtown campus</charseq>
+          </extent>
+          <head>
+              <charseq START="2534" END="2539">campus</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E34" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E34-M1516">
+          <extent>
+              <charseq START="2525" END="2532">downtown</charseq>
+          </extent>
+          <head>
+              <charseq START="2525" END="2532">downtown</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E35" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E35-M1600">
+          <extent>
+              <charseq START="2542" END="2547">Police</charseq>
+          </extent>
+          <head>
+              <charseq START="2542" END="2547">Police</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E36" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E36-M1704">
+          <extent>
+              <charseq START="2618" END="2636">the church&apos;s Quorum</charseq>
+          </extent>
+          <head>
+              <charseq START="2631" END="2636">Quorum</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Quorum">
+              <charseq START="2631" END="2636">Quorum</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E37" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E37-M1707">
+          <extent>
+              <charseq START="2641" END="2659">the Twelve Apostles</charseq>
+          </extent>
+          <head>
+              <charseq START="2645" END="2659">Twelve Apostles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Twelve Apostles">
+              <charseq START="2645" END="2659">Twelve Apostles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E38" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E38-M1800">
+          <extent>
+              <charseq START="2662" END="2677">Church officials</charseq>
+          </extent>
+          <head>
+              <charseq START="2669" END="2677">officials</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E38-M1901">
+          <extent>
+              <charseq START="2970" END="2985">church officials</charseq>
+          </extent>
+          <head>
+              <charseq START="2977" END="2985">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E39" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E39-M1813">
+          <extent>
+              <charseq START="2793" END="2798">family</charseq>
+          </extent>
+          <head>
+              <charseq START="2793" END="2798">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E40" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E40-M1828">
+          <extent>
+              <charseq START="2928" END="2941">God&apos;s children</charseq>
+          </extent>
+          <head>
+              <charseq START="2934" END="2941">children</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E42" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E42-M1904">
+          <extent>
+              <charseq START="3006" END="3080">no room in the discussion for hatred or the mistreatment of any individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="3009" END="3012">room</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E43" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E43-M1911">
+          <extent>
+              <charseq START="3066" END="3080">any individuals</charseq>
+          </extent>
+          <head>
+              <charseq START="3070" END="3080">individuals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E44" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E44-M2011" ROLE="GPE">
+          <extent>
+              <charseq START="3196" END="3205">California</charseq>
+          </extent>
+          <head>
+              <charseq START="3196" END="3205">California</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="California">
+              <charseq START="3196" END="3205">California</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E45" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101008.0765-E45-M2021">
+          <extent>
+              <charseq START="3284" END="3296">Supreme Court</charseq>
+          </extent>
+          <head>
+              <charseq START="3284" END="3296">Supreme Court</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Supreme Court">
+              <charseq START="3284" END="3296">Supreme Court</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E46" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E46-M2001">
+          <extent>
+              <charseq START="3101" END="3114">church leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="3108" END="3114">leaders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101008.0765-E46-M2006">
+          <extent>
+              <charseq START="3138" END="3142">their</charseq>
+          </extent>
+          <head>
+              <charseq START="3138" END="3142">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101008.0765-E47" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101008.0765-E47-M2100">
+          <extent>
+              <charseq START="3335" END="3359">A federal judge this year</charseq>
+          </extent>
+          <head>
+              <charseq START="3345" END="3349">judge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20101008.0765-T0" VAL="2010-10-08-10">
+        <timex2_mention ID="APW_ENG_20101008.0765-T0-M1">
+            <extent>
+              <charseq START="146" END="155">2010-10-08</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T1" VAL="2010-10-08">
+        <timex2_mention ID="APW_ENG_20101008.0765-T1-M1">
+            <extent>
+              <charseq START="228" END="233">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T2" VAL="PAST_REF" ANCHOR_VAL="2010-10-08" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="APW_ENG_20101008.0765-T2-M1">
+            <extent>
+              <charseq START="377" END="382">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T3" VAL="2010-W41">
+        <timex2_mention ID="APW_ENG_20101008.0765-T3-M1">
+            <extent>
+              <charseq START="489" END="497">this week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T4" VAL="2010-10-03">
+        <timex2_mention ID="APW_ENG_20101008.0765-T4-M1">
+            <extent>
+              <charseq START="853" END="858">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T5" VAL="2010-10-05">
+        <timex2_mention ID="APW_ENG_20101008.0765-T5-M1">
+            <extent>
+              <charseq START="1037" END="1043">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T6" VAL="2010-10-08">
+        <timex2_mention ID="APW_ENG_20101008.0765-T6-M1">
+            <extent>
+              <charseq START="1196" END="1201">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T7" VAL="2010-10-12">
+        <timex2_mention ID="APW_ENG_20101008.0765-T7-M1">
+            <extent>
+              <charseq START="1257" END="1263">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T8" VAL="P18Y">
+        <timex2_mention ID="APW_ENG_20101008.0765-T8-M1">
+            <extent>
+              <charseq START="1845" END="1855">18-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T9" VAL="2010-09">
+        <timex2_mention ID="APW_ENG_20101008.0765-T9-M1">
+            <extent>
+              <charseq START="1918" END="1927">last month</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T10" VAL="2009">
+        <timex2_mention ID="APW_ENG_20101008.0765-T10-M1">
+            <extent>
+              <charseq START="2193" END="2196">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T11" VAL="2010-10-07TNI">
+        <timex2_mention ID="APW_ENG_20101008.0765-T11-M1">
+            <extent>
+              <charseq START="2357" END="2370">Thursday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T12" VAL="2008">
+        <timex2_mention ID="APW_ENG_20101008.0765-T12-M1">
+            <extent>
+              <charseq START="3095" END="3098">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T13" VAL="PXM">
+        <timex2_mention ID="APW_ENG_20101008.0765-T13-M1">
+            <extent>
+              <charseq START="3263" END="3268">months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101008.0765-T14" VAL="2010">
+        <timex2_mention ID="APW_ENG_20101008.0765-T14-M1">
+            <extent>
+              <charseq START="3351" END="3359">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20101008.0765-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R0-M100">
+          <extent>
+              <charseq START="71" END="106">US gay rights leaders headed to Utah</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E2-M100" ROLE="Arg-1">
+            <extent>
+              <charseq START="71" END="106">US gay rights leaders headed to Utah</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E0-M102" ROLE="Arg-2">
+            <extent>
+              <charseq START="71" END="72">US</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R1-M101">
+          <extent>
+              <charseq START="71" END="106">US gay rights leaders headed to Utah</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E2-M100" ROLE="Arg-1">
+            <extent>
+              <charseq START="71" END="106">US gay rights leaders headed to Utah</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E1-M105" ROLE="Arg-2">
+            <extent>
+              <charseq START="103" END="106">Utah</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E7" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R2-M300">
+          <extent>
+              <charseq START="256" END="269">Salt Lake City</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E3-M311" ROLE="Arg-1">
+            <extent>
+              <charseq START="256" END="269">Salt Lake City</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E7-M309" ROLE="Arg-2">
+            <extent>
+              <charseq START="256" END="402">Salt Lake City&apos;s Mormon church headquarters to deliver more than 100,000 letters asking a senior church leader to recant recent anti-gay statements</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R3" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E7" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R3-M301">
+          <extent>
+              <charseq START="273" END="285">Mormon church</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E4-M312" ROLE="Arg-1">
+            <extent>
+              <charseq START="273" END="285">Mormon church</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E7-M309" ROLE="Arg-2">
+            <extent>
+              <charseq START="256" END="402">Salt Lake City&apos;s Mormon church headquarters to deliver more than 100,000 letters asking a senior church leader to recant recent anti-gay statements</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R4" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E3" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R4-M302">
+          <extent>
+              <charseq START="273" END="285">Mormon church</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E4-M312" ROLE="Arg-1">
+            <extent>
+              <charseq START="273" END="285">Mormon church</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E3-M311" ROLE="Arg-2">
+            <extent>
+              <charseq START="256" END="269">Salt Lake City</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E8" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R5-M700">
+          <extent>
+              <charseq START="1098" END="1142">the group&apos;s vice president for communications</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E11-M712" ROLE="Arg-1">
+            <extent>
+              <charseq START="1098" END="1142">the group&apos;s vice president for communications</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E8-M714" ROLE="Arg-2">
+            <extent>
+              <charseq START="1098" END="1106">the group</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R6" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E23" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R6-M1200">
+          <extent>
+              <charseq START="1876" END="1882">student</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E22-M1205" ROLE="Arg-1">
+            <extent>
+              <charseq START="1876" END="1882">student</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E23-M1204" ROLE="Arg-2">
+            <extent>
+              <charseq START="1857" END="1874">Rutgers University</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E36" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R7-M1700">
+          <extent>
+              <charseq START="2605" END="2659">president of the church&apos;s Quorum of the Twelve Apostles</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E9-M1701" ROLE="Arg-1">
+            <extent>
+              <charseq START="2605" END="2659">president of the church&apos;s Quorum of the Twelve Apostles</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E36-M1704" ROLE="Arg-2">
+            <extent>
+              <charseq START="2618" END="2636">the church&apos;s Quorum</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E37" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R8-M1701">
+          <extent>
+              <charseq START="2605" END="2659">president of the church&apos;s Quorum of the Twelve Apostles</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E9-M1701" ROLE="Arg-1">
+            <extent>
+              <charseq START="2605" END="2659">president of the church&apos;s Quorum of the Twelve Apostles</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E37-M1707" ROLE="Arg-2">
+            <extent>
+              <charseq START="2641" END="2659">the Twelve Apostles</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R9" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E36" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R9-M1702">
+          <extent>
+              <charseq START="2618" END="2636">the church&apos;s Quorum</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E36-M1704" ROLE="Arg-1">
+            <extent>
+              <charseq START="2618" END="2636">the church&apos;s Quorum</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E4-M1705" ROLE="Arg-2">
+            <extent>
+              <charseq START="2618" END="2627">the church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E38" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R10-M1800">
+          <extent>
+              <charseq START="2662" END="2677">Church officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E38-M1800" ROLE="Arg-1">
+            <extent>
+              <charseq START="2662" END="2677">Church officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E4-M1801" ROLE="Arg-2">
+            <extent>
+              <charseq START="2662" END="2667">Church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="APW_ENG_20101008.0765-R10-M1900">
+          <extent>
+              <charseq START="2970" END="2985">church officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E38-M1901" ROLE="Arg-1">
+            <extent>
+              <charseq START="2970" END="2985">church officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E4-M1902" ROLE="Arg-2">
+            <extent>
+              <charseq START="2970" END="2975">church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101008.0765-R11" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101008.0765-E46" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101008.0765-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101008.0765-R11-M2000">
+          <extent>
+              <charseq START="3101" END="3114">church leaders</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E46-M2001" ROLE="Arg-1">
+            <extent>
+              <charseq START="3101" END="3114">church leaders</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101008.0765-E4-M2002" ROLE="Arg-2">
+            <extent>
+              <charseq START="3101" END="3106">church</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

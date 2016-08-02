@@ -1,0 +1,1357 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100908.0606">
+  <document DOCID="APW_ENG_20100908.0606">
+
+    <entity ID="APW_ENG_20100908.0606-E0" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E0-M1">
+          <extent>
+              <charseq START="58" END="76">European Parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="76">European Parliament</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E0-M601">
+          <extent>
+              <charseq START="923" END="951">the European Union Parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="927" END="951">European Union Parliament</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E0-M2100">
+          <extent>
+              <charseq START="3068" END="3091">The European Parliament,</charseq>
+          </extent>
+          <head>
+              <charseq START="3072" END="3090">European Parliament</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E0-M2201">
+          <extent>
+              <charseq START="3170" END="3172">its</charseq>
+          </extent>
+          <head>
+              <charseq START="3170" END="3172">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E0-M2202">
+          <extent>
+              <charseq START="3186" END="3187">it</charseq>
+          </extent>
+          <head>
+              <charseq START="3186" END="3187">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Parliament">
+              <charseq START="58" END="76">European Parliament</charseq>
+          </name>
+          <name NAME="European Union Parliament">
+              <charseq START="927" END="951">European Union Parliament</charseq>
+          </name>
+          <name NAME="European Parliament">
+              <charseq START="3072" END="3090">European Parliament</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="87" END="90">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="87" END="90">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E1-M208">
+          <extent>
+              <charseq START="255" END="258">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="255" END="258">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E1-M212">
+          <extent>
+              <charseq START="277" END="279">its</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="279">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E1-M310">
+          <extent>
+              <charseq START="559" END="562">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="559" END="562">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E1-M400">
+          <extent>
+              <charseq START="620" END="623">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="620" END="623">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E1-M500">
+          <extent>
+              <charseq START="805" END="808">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="805" END="808">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E1-M506">
+          <extent>
+              <charseq START="843" END="845">its</charseq>
+          </extent>
+          <head>
+              <charseq START="843" END="845">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E1-M1000">
+          <extent>
+              <charseq START="1408" END="1411">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="1408" END="1411">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E1-M1005">
+          <extent>
+              <charseq START="1461" END="1462">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1461" END="1462">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E1-M1501">
+          <extent>
+              <charseq START="2075" END="2078">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="2075" END="2078">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E1-M1710">
+          <extent>
+              <charseq START="2652" END="2655">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="2652" END="2655">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E1-M1800">
+          <extent>
+              <charseq START="2724" END="2727">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="2724" END="2727">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iran">
+              <charseq START="87" END="90">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="255" END="258">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="559" END="562">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="620" END="623">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="805" END="808">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="1408" END="1411">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="2075" END="2078">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="2652" END="2655">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="2724" END="2727">Iran</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="132" END="139">BRUSSELS</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="139">BRUSSELS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BRUSSELS">
+              <charseq START="132" END="139">BRUSSELS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E3-M201" ROLE="LOC">
+          <extent>
+              <charseq START="188" END="194">Germany</charseq>
+          </extent>
+          <head>
+              <charseq START="188" END="194">Germany</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E3-M901" ROLE="GPE">
+          <extent>
+              <charseq START="1280" END="1285">German</charseq>
+          </extent>
+          <head>
+              <charseq START="1280" END="1285">German</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Germany">
+              <charseq START="188" END="194">Germany</charseq>
+          </name>
+          <name NAME="German">
+              <charseq START="1280" END="1285">German</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E4" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E4-M202" ROLE="LOC">
+          <extent>
+              <charseq START="197" END="214">the European Union</charseq>
+          </extent>
+          <head>
+              <charseq START="201" END="214">European Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Union">
+              <charseq START="201" END="214">European Union</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E5-M217" ROLE="GPE">
+          <extent>
+              <charseq START="361" END="366">Tehran</charseq>
+          </extent>
+          <head>
+              <charseq START="361" END="366">Tehran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E5-M608">
+          <extent>
+              <charseq START="1007" END="1012">Tehran</charseq>
+          </extent>
+          <head>
+              <charseq START="1007" END="1012">Tehran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E5-M2305" ROLE="LOC">
+          <extent>
+              <charseq START="3307" END="3312">Tehran</charseq>
+          </extent>
+          <head>
+              <charseq START="3307" END="3312">Tehran</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tehran">
+              <charseq START="361" END="366">Tehran</charseq>
+          </name>
+          <name NAME="Tehran">
+              <charseq START="1007" END="1012">Tehran</charseq>
+          </name>
+          <name NAME="Tehran">
+              <charseq START="3307" END="3312">Tehran</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E6" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E6-M204">
+          <extent>
+              <charseq START="220" END="324">a major human rights group slammed Iran on Wednesday for its plans to stone a woman convicted of adultery</charseq>
+          </extent>
+          <head>
+              <charseq START="241" END="245">group</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E7-M213">
+          <extent>
+              <charseq START="296" END="302">a woman</charseq>
+          </extent>
+          <head>
+              <charseq START="298" END="302">woman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E8-M303">
+          <extent>
+              <charseq START="475" END="500">Sakineh Mohammadi Ashtiani</charseq>
+          </extent>
+          <head>
+              <charseq START="475" END="500">Sakineh Mohammadi Ashtiani</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E8-M304">
+          <extent>
+              <charseq START="504" END="530">a 43-year-old mother of two</charseq>
+          </extent>
+          <head>
+              <charseq START="518" END="523">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E8-M405">
+          <extent>
+              <charseq START="696" END="703">Ashtiani</charseq>
+          </extent>
+          <head>
+              <charseq START="696" END="703">Ashtiani</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E8-M408">
+          <extent>
+              <charseq START="725" END="727">her</charseq>
+          </extent>
+          <head>
+              <charseq START="725" END="727">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E8-M413">
+          <extent>
+              <charseq START="761" END="763">her</charseq>
+          </extent>
+          <head>
+              <charseq START="761" END="763">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E8-M910">
+          <extent>
+              <charseq START="1376" END="1387">Ms. Ashtiani</charseq>
+          </extent>
+          <head>
+              <charseq START="1380" END="1387">Ashtiani</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E8-M911">
+          <extent>
+              <charseq START="1376" END="1378">Ms.</charseq>
+          </extent>
+          <head>
+              <charseq START="1376" END="1378">Ms.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E8-M1404">
+          <extent>
+              <charseq START="1909" END="1934">Sakineh Mohammadi Ashtiani</charseq>
+          </extent>
+          <head>
+              <charseq START="1909" END="1934">Sakineh Mohammadi Ashtiani</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E8-M1515">
+          <extent>
+              <charseq START="2289" END="2296">Ashtiani</charseq>
+          </extent>
+          <head>
+              <charseq START="2289" END="2296">Ashtiani</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E8-M1520">
+          <extent>
+              <charseq START="2333" END="2335">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2333" END="2335">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E8-M1602">
+          <extent>
+              <charseq START="2369" END="2376">Ashtiani</charseq>
+          </extent>
+          <head>
+              <charseq START="2369" END="2376">Ashtiani</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E8-M1612">
+          <extent>
+              <charseq START="2461" END="2463">her</charseq>
+          </extent>
+          <head>
+              <charseq START="2461" END="2463">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sakineh Mohammadi Ashtiani">
+              <charseq START="475" END="500">Sakineh Mohammadi Ashtiani</charseq>
+          </name>
+          <name NAME="Ashtiani">
+              <charseq START="696" END="703">Ashtiani</charseq>
+          </name>
+          <name NAME="Ashtiani">
+              <charseq START="1380" END="1387">Ashtiani</charseq>
+          </name>
+          <name NAME="Sakineh Mohammadi Ashtiani">
+              <charseq START="1909" END="1934">Sakineh Mohammadi Ashtiani</charseq>
+          </name>
+          <name NAME="Ashtiani">
+              <charseq START="2289" END="2296">Ashtiani</charseq>
+          </name>
+          <name NAME="Ashtiani">
+              <charseq START="2369" END="2376">Ashtiani</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E9-M312">
+          <extent>
+              <charseq START="577" END="583">Islamic</charseq>
+          </extent>
+          <head>
+              <charseq START="577" END="583">Islamic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E9-M1305">
+          <extent>
+              <charseq START="1748" END="1754">Islamic</charseq>
+          </extent>
+          <head>
+              <charseq START="1748" END="1754">Islamic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E9-M1304">
+          <extent>
+              <charseq START="1744" END="1763">the Islamic republic</charseq>
+          </extent>
+          <head>
+              <charseq START="1756" END="1763">republic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Islamic">
+              <charseq START="577" END="583">Islamic</charseq>
+          </name>
+          <name NAME="Islamic">
+              <charseq START="1748" END="1754">Islamic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E10-M412">
+          <extent>
+              <charseq START="761" END="771">her husband</charseq>
+          </extent>
+          <head>
+              <charseq START="765" END="771">husband</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E10-M1519">
+          <extent>
+              <charseq START="2333" END="2343">her husband</charseq>
+          </extent>
+          <head>
+              <charseq START="2337" END="2343">husband</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E11-M505">
+          <extent>
+              <charseq START="843" END="856">its own courts</charseq>
+          </extent>
+          <head>
+              <charseq START="851" END="856">courts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E12" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E12-M603" ROLE="LOC">
+          <extent>
+              <charseq START="956" END="973">Strasbourg, France</charseq>
+          </extent>
+          <head>
+              <charseq START="956" END="965">Strasbourg</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Strasbourg">
+              <charseq START="956" END="965">Strasbourg</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E13-M605" ROLE="LOC">
+          <extent>
+              <charseq START="968" END="973">France</charseq>
+          </extent>
+          <head>
+              <charseq START="968" END="973">France</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E13-M1408">
+          <extent>
+              <charseq START="1973" END="1984">your country</charseq>
+          </extent>
+          <head>
+              <charseq START="1978" END="1984">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E13-M2000">
+          <extent>
+              <charseq START="2930" END="2940">Our country</charseq>
+          </extent>
+          <head>
+              <charseq START="2934" END="2940">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E13-M2011">
+          <extent>
+              <charseq START="3030" END="3032">its</charseq>
+          </extent>
+          <head>
+              <charseq START="3030" END="3032">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="France">
+              <charseq START="968" END="973">France</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E14-M613">
+          <extent>
+              <charseq START="1049" END="1091">EU Commission President Jose Manuel Barroso</charseq>
+          </extent>
+          <head>
+              <charseq START="1073" END="1091">Jose Manuel Barroso</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E14-M615">
+          <extent>
+              <charseq START="1063" END="1071">President</charseq>
+          </extent>
+          <head>
+              <charseq START="1063" END="1071">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jose Manuel Barroso">
+              <charseq START="1073" END="1091">Jose Manuel Barroso</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E15" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E15-M614">
+          <extent>
+              <charseq START="1049" END="1061">EU Commission</charseq>
+          </extent>
+          <head>
+              <charseq START="1049" END="1061">EU Commission</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="EU Commission">
+              <charseq START="1049" END="1061">EU Commission</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E16-M900">
+          <extent>
+              <charseq START="1280" END="1320">German Foreign Minister Guido Westerwelle</charseq>
+          </extent>
+          <head>
+              <charseq START="1304" END="1320">Guido Westerwelle</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E16-M903">
+          <extent>
+              <charseq START="1295" END="1302">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="1295" END="1302">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E16-M907">
+          <extent>
+              <charseq START="1350" END="1351">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1350" END="1351">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E16-M1009">
+          <extent>
+              <charseq START="1509" END="1519">Westerwelle</charseq>
+          </extent>
+          <head>
+              <charseq START="1509" END="1519">Westerwelle</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Guido Westerwelle">
+              <charseq START="1304" END="1320">Guido Westerwelle</charseq>
+          </name>
+          <name NAME="Westerwelle">
+              <charseq START="1509" END="1519">Westerwelle</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E17" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E17-M1202">
+          <extent>
+              <charseq START="1647" END="1677">the 47-nation Council of Europe</charseq>
+          </extent>
+          <head>
+              <charseq START="1651" END="1677">47-nation Council of Europe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E17-M1204">
+          <extent>
+              <charseq START="1680" END="1728">the continent&apos;s biggest human rights organization</charseq>
+          </extent>
+          <head>
+              <charseq START="1717" END="1728">organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="47-nation Council of Europe">
+              <charseq START="1651" END="1677">47-nation Council of Europe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E18" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E18-M1205">
+          <extent>
+              <charseq START="1680" END="1692">the continent</charseq>
+          </extent>
+          <head>
+              <charseq START="1684" END="1692">continent</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E19-M1306">
+          <extent>
+              <charseq START="1790" END="1801">Ali Larijani</charseq>
+          </extent>
+          <head>
+              <charseq START="1790" END="1801">Ali Larijani</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E19-M1303">
+          <extent>
+              <charseq START="1744" END="1787">the Islamic republic&apos;s parliamentary speaker</charseq>
+          </extent>
+          <head>
+              <charseq START="1781" END="1787">speaker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E19-M1309">
+          <extent>
+              <charseq START="1810" END="1812">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1810" END="1812">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ali Larijani">
+              <charseq START="1790" END="1801">Ali Larijani</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E20-M1411">
+          <extent>
+              <charseq START="1994" END="2009">Mevlut Cavusoglu</charseq>
+          </extent>
+          <head>
+              <charseq START="1994" END="2009">Mevlut Cavusoglu</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E20-M1412">
+          <extent>
+              <charseq START="2012" END="2060">President of the Council&apos;s Parliamentary Assembly</charseq>
+          </extent>
+          <head>
+              <charseq START="2012" END="2020">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mevlut Cavusoglu">
+              <charseq START="1994" END="2009">Mevlut Cavusoglu</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E21-M1414">
+          <extent>
+              <charseq START="2025" END="2060">the Council&apos;s Parliamentary Assembly</charseq>
+          </extent>
+          <head>
+              <charseq START="2029" END="2060">Council&apos;s Parliamentary Assembly</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Council&apos;s Parliamentary Assembly">
+              <charseq START="2029" END="2060">Council&apos;s Parliamentary Assembly</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E22-M1405">
+          <extent>
+              <charseq START="1949" END="1952">cast</charseq>
+          </extent>
+          <head>
+              <charseq START="1949" END="1952">cast</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E24" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E24-M1500">
+          <extent>
+              <charseq START="2075" END="2099">Iran&apos;s state-run Press TV</charseq>
+          </extent>
+          <head>
+              <charseq START="2092" END="2099">Press TV</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Press TV">
+              <charseq START="2092" END="2099">Press TV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E25-M1503">
+          <extent>
+              <charseq START="2102" END="2146">Foreign Ministry spokesman Ramin Mehmanparast</charseq>
+          </extent>
+          <head>
+              <charseq START="2129" END="2146">Ramin Mehmanparast</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E25-M1505">
+          <extent>
+              <charseq START="2119" END="2127">spokesman</charseq>
+          </extent>
+          <head>
+              <charseq START="2119" END="2127">spokesman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E25-M1900">
+          <extent>
+              <charseq START="2781" END="2792">Mehmanparast</charseq>
+          </extent>
+          <head>
+              <charseq START="2781" END="2792">Mehmanparast</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E25-M2013">
+          <extent>
+              <charseq START="3049" END="3050">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3049" END="3050">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ramin Mehmanparast">
+              <charseq START="2129" END="2146">Ramin Mehmanparast</charseq>
+          </name>
+          <name NAME="Mehmanparast">
+              <charseq START="2781" END="2792">Mehmanparast</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E26" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E26-M1504">
+          <extent>
+              <charseq START="2102" END="2117">Foreign Ministry</charseq>
+          </extent>
+          <head>
+              <charseq START="2102" END="2117">Foreign Ministry</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Foreign Ministry">
+              <charseq START="2102" END="2117">Foreign Ministry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E27-M1510">
+          <extent>
+              <charseq START="2239" END="2257">judiciary officials</charseq>
+          </extent>
+          <head>
+              <charseq START="2249" END="2257">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E28-M1603">
+          <extent>
+              <charseq START="2388" END="2405">Houtan Javid Kian,</charseq>
+          </extent>
+          <head>
+              <charseq START="2388" END="2404">Houtan Javid Kian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E28-M1601">
+          <extent>
+              <charseq START="2369" END="2385">Ashtiani&apos;s lawyer</charseq>
+          </extent>
+          <head>
+              <charseq START="2380" END="2385">lawyer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Houtan Javid Kian">
+              <charseq START="2388" END="2404">Houtan Javid Kian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E29" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E29-M1605">
+          <extent>
+              <charseq START="2412" END="2431">The Associated Press</charseq>
+          </extent>
+          <head>
+              <charseq START="2416" END="2431">Associated Press</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Associated Press">
+              <charseq START="2416" END="2431">Associated Press</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E30-M1703">
+          <extent>
+              <charseq START="2581" END="2620">Italian Foreign Minister Franco Frattini</charseq>
+          </extent>
+          <head>
+              <charseq START="2606" END="2620">Franco Frattini</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E30-M1706">
+          <extent>
+              <charseq START="2597" END="2604">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="2597" END="2604">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Franco Frattini">
+              <charseq START="2606" END="2620">Franco Frattini</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E31" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E31-M1704" ROLE="GPE">
+          <extent>
+              <charseq START="2581" END="2587">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="2581" END="2587">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italian">
+              <charseq START="2581" END="2587">Italian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E32" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E32-M1700">
+          <extent>
+              <charseq START="2547" END="2621">Some Western officials, including Italian Foreign Minister Franco Frattini,</charseq>
+          </extent>
+          <head>
+              <charseq START="2560" END="2568">officials</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100908.0606-E32-M1708">
+          <extent>
+              <charseq START="2633" END="2636">they</charseq>
+          </extent>
+          <head>
+              <charseq START="2633" END="2636">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E33" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E33-M1902">
+          <extent>
+              <charseq START="2802" END="2818">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="2806" END="2818">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E33-M2006">
+          <extent>
+              <charseq START="2988" END="2995">the U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="2992" END="2995">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="2806" END="2818">United States</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="2992" END="2995">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E34" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E34-M1904">
+          <extent>
+              <charseq START="2824" END="2846">other Western countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2838" END="2846">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E35" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100908.0606-E35-M2008">
+          <extent>
+              <charseq START="3001" END="3023">other Western countries</charseq>
+          </extent>
+          <head>
+              <charseq START="3015" END="3023">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E37" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E37-M2301">
+          <extent>
+              <charseq START="3265" END="3312">Associated Press Writers Nasser Karimi in Tehran</charseq>
+          </extent>
+          <head>
+              <charseq START="3290" END="3302">Nasser Karimi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nasser Karimi">
+              <charseq START="3290" END="3302">Nasser Karimi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E38" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E38-M2303">
+          <extent>
+              <charseq START="3265" END="3288">Associated Press Writers</charseq>
+          </extent>
+          <head>
+              <charseq START="3265" END="3288">Associated Press Writers</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Associated Press Writers">
+              <charseq START="3265" END="3288">Associated Press Writers</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E39" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E39-M2306">
+          <extent>
+              <charseq START="3318" END="3340">Juergen Baetz in Berlin</charseq>
+          </extent>
+          <head>
+              <charseq START="3318" END="3330">Juergen Baetz</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Juergen Baetz">
+              <charseq START="3318" END="3330">Juergen Baetz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100908.0606-E40" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100908.0606-E40-M2308" ROLE="LOC">
+          <extent>
+              <charseq START="3335" END="3340">Berlin</charseq>
+          </extent>
+          <head>
+              <charseq START="3335" END="3340">Berlin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Berlin">
+              <charseq START="3335" END="3340">Berlin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100908.0606-T0" VAL="2010-09-08-09">
+        <timex2_mention ID="APW_ENG_20100908.0606-T0-M1">
+            <extent>
+              <charseq START="141" END="150">2010-09-08</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100908.0606-T1" VAL="2010-09-08">
+        <timex2_mention ID="APW_ENG_20100908.0606-T1-M1">
+            <extent>
+              <charseq START="263" END="271">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100908.0606-T2" VAL="P43Y">
+        <timex2_mention ID="APW_ENG_20100908.0606-T2-M1">
+            <extent>
+              <charseq START="506" END="516">43-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100908.0606-T3" VAL="PRESENT_REF" ANCHOR_VAL="2010-09-08" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="APW_ENG_20100908.0606-T3-M1">
+            <extent>
+              <charseq START="669" END="671">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100908.0606-T4" VAL="2005">
+        <timex2_mention ID="APW_ENG_20100908.0606-T4-M1">
+            <extent>
+              <charseq START="775" END="778">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100908.0606-T5" VAL="2010-09-08">
+        <timex2_mention ID="APW_ENG_20100908.0606-T5-M1">
+            <extent>
+              <charseq START="912" END="920">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100908.0606-T6" VAL="2005">
+        <timex2_mention ID="APW_ENG_20100908.0606-T6-M1">
+            <extent>
+              <charseq START="2347" END="2350">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100908.0606-R0" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E10" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R0-M400">
+          <extent>
+              <charseq START="761" END="763">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E8-M413" ROLE="Arg-1">
+            <extent>
+              <charseq START="761" END="763">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E10-M412" ROLE="Arg-2">
+            <extent>
+              <charseq START="761" END="771">her husband</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="APW_ENG_20100908.0606-R0-M1502">
+          <extent>
+              <charseq START="2333" END="2335">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E8-M1520" ROLE="Arg-1">
+            <extent>
+              <charseq START="2333" END="2335">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E10-M1519" ROLE="Arg-2">
+            <extent>
+              <charseq START="2333" END="2343">her husband</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R1" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R1-M500">
+          <extent>
+              <charseq START="843" END="856">its own courts</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E11-M505" ROLE="Arg-1">
+            <extent>
+              <charseq START="843" END="856">its own courts</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E1-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="843" END="845">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E13" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R2-M600">
+          <extent>
+              <charseq START="956" END="973">Strasbourg, France</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E12-M603" ROLE="Arg-1">
+            <extent>
+              <charseq START="956" END="973">Strasbourg, France</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E13-M605" ROLE="Arg-2">
+            <extent>
+              <charseq START="968" END="973">France</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E15" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R3-M601">
+          <extent>
+              <charseq START="1063" END="1071">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E14-M615" ROLE="Arg-1">
+            <extent>
+              <charseq START="1063" END="1071">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E15-M614" ROLE="Arg-2">
+            <extent>
+              <charseq START="1049" END="1061">EU Commission</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E16" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E3" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R4-M900">
+          <extent>
+              <charseq START="1295" END="1302">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E16-M903" ROLE="Arg-1">
+            <extent>
+              <charseq START="1295" END="1302">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E3-M901" ROLE="Arg-2">
+            <extent>
+              <charseq START="1280" END="1285">German</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E21" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R6-M1401">
+          <extent>
+              <charseq START="2012" END="2060">President of the Council&apos;s Parliamentary Assembly</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E20-M1412" ROLE="Arg-1">
+            <extent>
+              <charseq START="2012" END="2060">President of the Council&apos;s Parliamentary Assembly</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E21-M1414" ROLE="Arg-2">
+            <extent>
+              <charseq START="2025" END="2060">the Council&apos;s Parliamentary Assembly</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R7" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R7-M1500">
+          <extent>
+              <charseq START="2075" END="2099">Iran&apos;s state-run Press TV</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E24-M1500" ROLE="Arg-1">
+            <extent>
+              <charseq START="2075" END="2099">Iran&apos;s state-run Press TV</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E1-M1501" ROLE="Arg-2">
+            <extent>
+              <charseq START="2075" END="2078">Iran</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R8" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E25" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E26" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R8-M1501">
+          <extent>
+              <charseq START="2119" END="2127">spokesman</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E25-M1505" ROLE="Arg-1">
+            <extent>
+              <charseq START="2119" END="2127">spokesman</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E26-M1504" ROLE="Arg-2">
+            <extent>
+              <charseq START="2102" END="2117">Foreign Ministry</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R9" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E28" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R9-M1600">
+          <extent>
+              <charseq START="2369" END="2376">Ashtiani</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E8-M1602" ROLE="Arg-1">
+            <extent>
+              <charseq START="2369" END="2376">Ashtiani</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E28-M1601" ROLE="Arg-2">
+            <extent>
+              <charseq START="2369" END="2385">Ashtiani&apos;s lawyer</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E30" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E31" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R10-M1700">
+          <extent>
+              <charseq START="2597" END="2604">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E30-M1706" ROLE="Arg-1">
+            <extent>
+              <charseq START="2597" END="2604">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E31-M1704" ROLE="Arg-2">
+            <extent>
+              <charseq START="2581" END="2587">Italian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R12" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E37" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E5" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R12-M2300">
+          <extent>
+              <charseq START="3265" END="3312">Associated Press Writers Nasser Karimi in Tehran</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E37-M2301" ROLE="Arg-1">
+            <extent>
+              <charseq START="3265" END="3312">Associated Press Writers Nasser Karimi in Tehran</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E5-M2305" ROLE="Arg-2">
+            <extent>
+              <charseq START="3307" END="3312">Tehran</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100908.0606-R13" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100908.0606-E39" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100908.0606-E40" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100908.0606-R13-M2301">
+          <extent>
+              <charseq START="3318" END="3340">Juergen Baetz in Berlin</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E39-M2306" ROLE="Arg-1">
+            <extent>
+              <charseq START="3318" END="3340">Juergen Baetz in Berlin</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100908.0606-E40-M2308" ROLE="Arg-2">
+            <extent>
+              <charseq START="3335" END="3340">Berlin</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

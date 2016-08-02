@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="61d2b0dcc730f0b4e92ae0d1929b3caf.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-863" length="15" offset="256">
+        <text>fishing grounds</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-105" length="6" offset="143">Mr. H.</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-899" length="2" offset="538">
+        <text>it</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-129" length="1" offset="504">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-914" length="24" offset="700">
+        <text>your national news media</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="5" offset="85">turak</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-663" length="15" offset="1098">
+        <text>Caribbean ocean</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="5" offset="85">turak</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1090" length="2" offset="1437">
+        <text>it</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-159" length="5" offset="85">turak</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-591" length="9" offset="1903">
+        <text>Caribbean</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-231" length="8" offset="14">asterism</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-944" length="6" offset="2662">
+        <text>people</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-249" length="8" offset="2024">asterism</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-321" length="3" offset="3923">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-219" length="5" offset="3498">turak</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-195" length="3" offset="4165">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-243" length="8" offset="1953">asterism</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-201" length="3" offset="4256">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-243" length="8" offset="1953">asterism</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

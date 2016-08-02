@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere kit_id="55cf957b0000000000000079" doc_id="d889c0271e671fe88856d3a8094ab397" source_type="multi_post">
+  <entities>
+    <entity id="ent-8" type="PER" specificity="specific">
+      <entity_mention id="m-72" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="14" length="4">
+        <mention_text>黑寡妇的</mention_text>
+      </entity_mention>
+      <entity_mention id="m-78" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="279" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-84" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="308" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-90" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="572" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-96" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="625" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-102" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="626" length="2">
+        <mention_text>个人</mention_text>
+      </entity_mention>
+      <entity_mention id="m-108" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="664" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-114" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="668" length="1">
+        <mention_text>我</mention_text>
+      </entity_mention>
+      <entity_mention id="m-120" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="672" length="2">
+        <mention_text>自己</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-18" type="PER" specificity="specific">
+      <entity_mention id="m-126" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="160" length="4">
+        <mention_text>无数老人</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="162" length="2">老人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-21" type="PER" specificity="specific">
+      <entity_mention id="m-132" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="175" length="4">
+        <mention_text>路过的人</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="178" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-24" type="PER" specificity="specific">
+      <entity_mention id="m-138" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="324" length="2">
+        <mention_text>我们</mention_text>
+      </entity_mention>
+      <entity_mention id="m-144" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="442" length="2">
+        <mention_text>我们</mention_text>
+      </entity_mention>
+      <entity_mention id="m-150" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="489" length="2">
+        <mention_text>我们</mention_text>
+      </entity_mention>
+      <entity_mention id="m-156" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="616" length="2">
+        <mention_text>我们</mention_text>
+      </entity_mention>
+      <entity_mention id="m-584" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="599" length="2">
+        <mention_text>我们</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-27" type="PER" specificity="specific">
+      <entity_mention id="m-168" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="399" length="7">
+        <mention_text>美丽的山东姑娘</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="404" length="2">姑娘</nom_head>
+      </entity_mention>
+      <entity_mention id="m-174" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="406" length="2">
+        <mention_text>刁娜</mention_text>
+      </entity_mention>
+      <entity_mention id="m-180" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="511" length="8">
+        <mention_text>山东龙口最美女孩</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="517" length="2">女孩</nom_head>
+      </entity_mention>
+      <entity_mention id="m-186" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="520" length="2">
+        <mention_text>刁娜</mention_text>
+      </entity_mention>
+      <entity_mention id="m-192" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="632" length="2">
+        <mention_text>刁娜</mention_text>
+      </entity_mention>
+      <entity_mention id="m-198" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="637" length="7">
+        <mention_text>一个年轻的姑娘</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="642" length="2">姑娘</nom_head>
+      </entity_mention>
+      <entity_mention id="m-204" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="645" length="1">
+        <mention_text>她</mention_text>
+      </entity_mention>
+      <entity_mention id="m-210" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="680" length="1">
+        <mention_text>她</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-30" type="PER" specificity="nonspecific">
+      <entity_mention id="m-216" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="692" length="4">
+        <mention_text>各位童鞋</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="694" length="2">童鞋</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-33" type="PER" specificity="specific">
+      <entity_mention id="m-222" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="356" length="4">
+        <mention_text>工薪夫妇</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="358" length="2">夫妇</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-36" type="PER" specificity="specific">
+      <entity_mention id="m-228" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="371" length="7">
+        <mention_text>２００余名儿童</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="376" length="2">儿童</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-39" type="PER" specificity="nonspecific">
+      <entity_mention id="m-234" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="303" length="2">
+        <mention_text>世人</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="304" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-42" type="PER" specificity="specific">
+      <entity_mention id="m-240" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="229" length="5">
+        <mention_text>19名幼儿</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="232" length="2">幼儿</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-45" type="PER" specificity="specific">
+      <entity_mention id="m-246" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="196" length="3">
+        <mention_text>小悦悦</mention_text>
+      </entity_mention>
+      <entity_mention id="m-252" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="379" length="3">
+        <mention_text>小悦悦</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-48" type="PER" specificity="specific">
+      <entity_mention id="m-258" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="411" length="1">
+        <mention_text>人</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="411" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-51" type="PER" specificity="specific">
+      <entity_mention id="m-264" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="390" length="1">
+        <mention_text>陈</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-54" type="ORG" specificity="specific">
+      <entity_mention id="m-270" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="540" length="3">
+        <mention_text>新华网</mention_text>
+      </entity_mention>
+      <entity_mention id="m-276" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="544" length="3">
+        <mention_text>中国网</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-57" type="GPE" specificity="specific">
+      <entity_mention id="m-282" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="402" length="2">
+        <mention_text>山东</mention_text>
+      </entity_mention>
+      <entity_mention id="m-288" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="511" length="2">
+        <mention_text>山东</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-60" type="GPE" specificity="specific">
+      <entity_mention id="m-294" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="513" length="2">
+        <mention_text>龙口</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-63" type="GPE" specificity="specific">
+      <entity_mention id="m-300" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="531" length="2">
+        <mention_text>揭阳</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-66" type="GPE" specificity="specific">
+      <entity_mention id="m-306" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="526" length="2">
+        <mention_text>中国</mention_text>
+      </entity_mention>
+      <entity_mention id="m-312" noun_type="NAM" source="d889c0271e671fe88856d3a8094ab397" offset="544" length="2">
+        <mention_text>中国</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-69" type="FAC" specificity="specific">
+      <entity_mention id="m-318" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="396" length="2">
+        <mention_text>医院</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="396" length="2">医院</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-494" type="PER" specificity="nonspecific">
+      <entity_mention id="m-497" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="185" length="2">
+        <mention_text>一人</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="186" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-503" type="PER" specificity="nonspecific">
+      <entity_mention id="m-506" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="212" length="1">
+        <mention_text>人</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="212" length="1">人</nom_head>
+      </entity_mention>
+      <entity_mention id="m-548" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="423" length="13">
+        <mention_text>生活中那些平凡而又伟大的人</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="435" length="1">人</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-524" type="PER" specificity="nonspecific">
+      <entity_mention id="m-518" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="258" length="2">
+        <mention_text>人们</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="258" length="2">人们</nom_head>
+      </entity_mention>
+      <entity_mention id="m-527" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="265" length="2">
+        <mention_text>人们</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="265" length="2">人们</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-539" type="PER" specificity="nonspecific">
+      <entity_mention id="m-554" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="453" length="1">
+        <mention_text>谁</mention_text>
+      </entity_mention>
+      <entity_mention id="m-602" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="700" length="1">
+        <mention_text>谁</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-566" type="PER" specificity="nonspecific">
+      <entity_mention id="m-569" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="474" length="2">
+        <mention_text>自己</mention_text>
+      </entity_mention>
+      <entity_mention id="m-728" noun_type="PRO" source="d889c0271e671fe88856d3a8094ab397" offset="470" length="2">
+        <mention_text>他们</mention_text>
+      </entity_mention>
+    </entity>
+    <entity id="ent-581" type="PER" specificity="nonspecific">
+      <entity_mention id="m-575" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="555" length="4">
+        <mention_text>玉德人物</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="557" length="2">人物</nom_head>
+      </entity_mention>
+      <entity_mention id="m-596" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="608" length="4">
+        <mention_text>玉德人物</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="610" length="2">人物</nom_head>
+      </entity_mention>
+    </entity>
+    <entity id="ent-725" type="PER" specificity="nonspecific">
+      <entity_mention id="m-719" noun_type="NOM" source="d889c0271e671fe88856d3a8094ab397" offset="351" length="2">
+        <mention_text>宝贝</mention_text>
+        <nom_head source="d889c0271e671fe88856d3a8094ab397" offset="351" length="2">宝贝</nom_head>
+      </entity_mention>
+    </entity>
+  </entities>
+  <fillers>
+    <filler id="f-742" source="d889c0271e671fe88856d3a8094ab397" offset="391" length="2" type="title">阿婆</filler>
+    <filler id="f-707" source="d889c0271e671fe88856d3a8094ab397" offset="30" length="10" type="time" nom_time="2011-12-09">2011-12-09</filler>
+  </fillers>
+  <relations>
+    <relation id="r-1035" type="personalsocial" subtype="unspecified">
+      <relation_mention id="relm-324" realis="true">
+        <rel_arg1 entity_id="ent-36" entity_mention_id="m-228" role="per">２００余名儿童</rel_arg1>
+        <rel_arg2 entity_id="ent-33" entity_mention_id="m-222" role="per">工薪夫妇</rel_arg2>
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="369" length="2">解救</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1036" type="personalsocial" subtype="unspecified">
+      <relation_mention id="relm-334" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-264" role="per">陈</rel_arg1>
+        <rel_arg2 entity_id="ent-45" entity_mention_id="m-252" role="per">小悦悦</rel_arg2>
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="386" length="1">被</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1037" type="personalsocial" subtype="unspecified">
+      <relation_mention id="relm-344" realis="true">
+        <rel_arg1 entity_id="ent-48" entity_mention_id="m-258" role="per">人</rel_arg1>
+        <rel_arg2 entity_id="ent-27" entity_mention_id="m-174" role="per">刁娜</rel_arg2>
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="410" length="1">救</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1038" type="physical" subtype="locatednear">
+      <relation_mention id="relm-354" realis="true">
+        <rel_arg1 entity_id="ent-60" entity_mention_id="m-294" role="entity">龙口</rel_arg1>
+        <rel_arg2 entity_id="ent-57" entity_mention_id="m-288" role="loc">山东</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1039" type="physical" subtype="locatednear">
+      <relation_mention id="relm-374" realis="true">
+        <rel_arg1 entity_id="ent-63" entity_mention_id="m-300" role="entity">揭阳</rel_arg1>
+        <rel_arg2 entity_id="ent-66" entity_mention_id="m-306" role="loc">中国</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1040" type="physical" subtype="orglocationorigin">
+      <relation_mention id="relm-384" realis="true">
+        <rel_arg1 entity_id="ent-54" entity_mention_id="m-276" role="org">中国网</rel_arg1>
+        <rel_arg2 entity_id="ent-66" entity_mention_id="m-312" role="loc">中国</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1041" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-394" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-174" role="per">刁娜</rel_arg1>
+        <rel_arg2 entity_id="ent-57" entity_mention_id="m-282" role="entity">山东</rel_arg2>
+      </relation_mention>
+      <relation_mention id="relm-744" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-168" role="per">美丽的山东姑娘</rel_arg1>
+        <rel_arg2 entity_id="ent-57" entity_mention_id="m-282" role="entity">山东</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1042" type="physical" subtype="locatednear">
+      <relation_mention id="relm-404" realis="true">
+        <rel_arg1 entity_id="ent-45" entity_mention_id="m-252" role="entity">小悦悦</rel_arg1>
+        <rel_arg2 entity_id="ent-69" entity_mention_id="m-318" role="loc">医院</rel_arg2>
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="394" length="1">进</trigger>
+      </relation_mention>
+    </relation>
+    <relation id="r-1043" type="personalsocial" subtype="role">
+      <relation_mention id="relm-734" realis="true">
+        <rel_arg1 entity_id="ent-51" entity_mention_id="m-264" role="per">陈</rel_arg1>
+        <rel_arg2 filler_id="f-742" role="role">阿婆</rel_arg2>
+      </relation_mention>
+    </relation>
+    <relation id="r-1044" type="generalaffiliation" subtype="more">
+      <relation_mention id="relm-754" realis="true">
+        <rel_arg1 entity_id="ent-27" entity_mention_id="m-180" role="per">山东龙口最美女孩</rel_arg1>
+        <rel_arg2 entity_id="ent-60" entity_mention_id="m-294" role="entity">龙口</rel_arg2>
+      </relation_mention>
+    </relation>
+  </relations>
+  <hoppers>
+    <hopper id="h-16">
+      <event_mention id="em-418" type="life" subtype="die" realis="actual">
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="226" length="2">葬送</trigger>
+        <em_arg entity_id="ent-42" entity_mention_id="m-240" role="victim" realis="true">19名幼儿</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-414">
+      <event_mention id="em-439" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="393" length="2">送进</trigger>
+        <em_arg entity_id="ent-45" entity_mention_id="m-252" role="person" realis="true">小悦悦</em_arg>
+        <em_arg entity_id="ent-69" entity_mention_id="m-318" role="destination" realis="true">医院</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-416">
+      <event_mention id="em-460" type="life" subtype="injure" realis="actual">
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="417" length="2">撞断</trigger>
+        <em_arg entity_id="ent-27" entity_mention_id="m-174" role="victim" realis="true">刁娜</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-650">
+      <event_mention id="em-629" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="454" length="1">说</trigger>
+        <em_arg entity_id="ent-539" entity_mention_id="m-554" role="entity" realis="true">谁</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-717">
+      <event_mention id="em-682" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="657" length="1">说</trigger>
+        <em_arg entity_id="ent-8" entity_mention_id="m-96" role="entity" realis="true">我</em_arg>
+        <em_arg filler_id="f-707" role="time" realis="true">2011-12-09</em_arg>
+        <em_arg entity_id="ent-30" entity_mention_id="m-216" role="audience" realis="true">各位童鞋</em_arg>
+      </event_mention>
+    </hopper>
+    <hopper id="h-813">
+      <event_mention id="em-785" type="life" subtype="injure" realis="actual">
+        <trigger source="d889c0271e671fe88856d3a8094ab397" offset="396" length="2">医院</trigger>
+        <em_arg entity_id="ent-45" entity_mention_id="m-252" role="victim" realis="true">小悦悦</em_arg>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere>

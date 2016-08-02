@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="4829d3d91263ed9d8801e6d94c3569a5.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-103" length="3" offset="445">
+        <text>DOJ</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-13" length="6" offset="14">Eugene</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-142" length="3" offset="658">
+        <text>DOJ</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-13" length="6" offset="14">Eugene</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-157" length="33" offset="803">
+        <text>Federal Communications Commission</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-13" length="6" offset="14">Eugene</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-175" length="8" offset="1074">
+        <text>T-Mobile</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-13" length="6" offset="14">Eugene</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-175" length="8" offset="1074">
+        <text>T-Mobile</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-13" length="6" offset="14">Eugene</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-199" length="13" offset="1235">
+        <text>The companies</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-13" length="6" offset="14">Eugene</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

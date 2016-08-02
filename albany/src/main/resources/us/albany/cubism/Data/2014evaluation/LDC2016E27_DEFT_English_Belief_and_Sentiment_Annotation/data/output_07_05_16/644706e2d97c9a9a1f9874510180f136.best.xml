@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="644706e2d97c9a9a1f9874510180f136.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-1695" length="3" offset="3474">
+        <text>You</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-141" length="12" offset="2920">VeniViciVidi</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-465" length="7" offset="4333">
+        <text>America</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-219" length="4" offset="3744">Msab</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1791" length="8" offset="5228">
+        <text>zionists</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-177" length="6" offset="5214">kanzaz</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1812" length="3" offset="5318">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-177" length="6" offset="5214">kanzaz</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1890" length="118" offset="5702">
+        <text>the ones who want to oppress fellow countrymen and use civilians as shields, while planning new ways to kill Americans</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-207" length="6" offset="5145">DYKWIA</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1935" length="3" offset="5973">
+        <text>You</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-207" length="6" offset="5145">DYKWIA</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

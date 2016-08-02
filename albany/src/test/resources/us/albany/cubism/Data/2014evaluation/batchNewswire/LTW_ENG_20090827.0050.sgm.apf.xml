@@ -1,0 +1,702 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="LTW_ENG_20090827.0050">
+  <document DOCID="LTW_ENG_20090827.0050">
+
+    <entity ID="LTW_ENG_20090827.0050-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E0-M1">
+          <extent>
+              <charseq START="58" END="68">Ted Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="68">Ted Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E0-M204">
+          <extent>
+              <charseq START="194" END="215">Sen. Edward M. Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="199" END="215">Edward M. Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E0-M205">
+          <extent>
+              <charseq START="194" END="197">Sen.</charseq>
+          </extent>
+          <head>
+              <charseq START="194" END="197">Sen.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M305">
+          <extent>
+              <charseq START="415" END="417">his</charseq>
+          </extent>
+          <head>
+              <charseq START="415" END="417">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M309">
+          <extent>
+              <charseq START="447" END="448">he</charseq>
+          </extent>
+          <head>
+              <charseq START="447" END="448">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E0-M402">
+          <extent>
+              <charseq START="546" END="552">Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="546" END="552">Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M404">
+          <extent>
+              <charseq START="600" END="601">he</charseq>
+          </extent>
+          <head>
+              <charseq START="600" END="601">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M506">
+          <extent>
+              <charseq START="677" END="678">he</charseq>
+          </extent>
+          <head>
+              <charseq START="677" END="678">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E0-M1003">
+          <extent>
+              <charseq START="1138" END="1144">Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="1138" END="1144">Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M1100">
+          <extent>
+              <charseq START="1296" END="1297">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1296" END="1297">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M1201">
+          <extent>
+              <charseq START="1443" END="1445">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1443" END="1445">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M1202">
+          <extent>
+              <charseq START="1475" END="1476">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1475" END="1476">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M1206">
+          <extent>
+              <charseq START="1488" END="1490">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1488" END="1490">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E0-M1300">
+          <extent>
+              <charseq START="1694" END="1700">Kennedy</charseq>
+          </extent>
+          <head>
+              <charseq START="1694" END="1700">Kennedy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M1400">
+          <extent>
+              <charseq START="1845" END="1846">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1845" END="1846">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="LTW_ENG_20090827.0050-E0-M1410">
+          <extent>
+              <charseq START="1901" END="1903">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1901" END="1903">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ted Kennedy">
+              <charseq START="58" END="68">Ted Kennedy</charseq>
+          </name>
+          <name NAME="Edward M. Kennedy">
+              <charseq START="199" END="215">Edward M. Kennedy</charseq>
+          </name>
+          <name NAME="Kennedy">
+              <charseq START="546" END="552">Kennedy</charseq>
+          </name>
+          <name NAME="Kennedy">
+              <charseq START="1138" END="1144">Kennedy</charseq>
+          </name>
+          <name NAME="Kennedy">
+              <charseq START="1694" END="1700">Kennedy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E1-M102">
+          <extent>
+              <charseq START="129" END="147">The Washington Post</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="147">The Washington Post</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="The Washington Post">
+              <charseq START="129" END="147">The Washington Post</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E2-M200" ROLE="LOC">
+          <extent>
+              <charseq START="158" END="362">WASHINGTON -- There&apos;s no doubt that Sen. Edward M. Kennedy came from the
+&quot;social justice&quot; tradition of Catholicism -- a belief system that more
+conservative Catholics view as a rather wobbly kind of faith.</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="167">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="158" END="167">WASHINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E3-M311">
+          <extent>
+              <charseq START="458" END="536">Liberty Baptist College (Jerry Falwell&apos;s school, now
+called Liberty University)</charseq>
+          </extent>
+          <head>
+              <charseq START="458" END="480">Liberty Baptist College</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E3-M316">
+          <extent>
+              <charseq START="518" END="536">Liberty University)</charseq>
+          </extent>
+          <head>
+              <charseq START="518" END="535">Liberty University</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Liberty Baptist College">
+              <charseq START="458" END="480">Liberty Baptist College</charseq>
+          </name>
+          <name NAME="Liberty University">
+              <charseq START="518" END="535">Liberty University</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E4-M315">
+          <extent>
+              <charseq START="483" END="495">Jerry Falwell</charseq>
+          </extent>
+          <head>
+              <charseq START="483" END="495">Jerry Falwell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jerry Falwell">
+              <charseq START="483" END="495">Jerry Falwell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E5" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E5-M313">
+          <extent>
+              <charseq START="483" END="536">Jerry Falwell&apos;s school, now
+called Liberty University)</charseq>
+          </extent>
+          <head>
+              <charseq START="499" END="504">school</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E6-M503" ROLE="LOC">
+          <extent>
+              <charseq START="651" END="658">American</charseq>
+          </extent>
+          <head>
+              <charseq START="651" END="658">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E6-M604" ROLE="LOC">
+          <extent>
+              <charseq START="694" END="703">my country</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="703">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E6-M1001">
+          <extent>
+              <charseq START="1118" END="1125">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1118" END="1125">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="American">
+              <charseq START="651" END="658">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="1118" END="1125">American</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E7-M504">
+          <extent>
+              <charseq START="664" END="673">a Catholic</charseq>
+          </extent>
+          <head>
+              <charseq START="666" END="673">Catholic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E7-M1000">
+          <extent>
+              <charseq START="1113" END="1135">many American Catholics</charseq>
+          </extent>
+          <head>
+              <charseq START="1127" END="1135">Catholics</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E7-M1007">
+          <extent>
+              <charseq START="1174" END="1181">Catholic</charseq>
+          </extent>
+          <head>
+              <charseq START="1174" END="1181">Catholic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E7-M1303">
+          <extent>
+              <charseq START="1714" END="1721">Catholic</charseq>
+          </extent>
+          <head>
+              <charseq START="1714" END="1721">Catholic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E7-M1407">
+          <extent>
+              <charseq START="1880" END="1887">Catholic</charseq>
+          </extent>
+          <head>
+              <charseq START="1880" END="1887">Catholic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Catholic">
+              <charseq START="666" END="673">Catholic</charseq>
+          </name>
+          <name NAME="Catholics">
+              <charseq START="1127" END="1135">Catholics</charseq>
+          </name>
+          <name NAME="Catholic">
+              <charseq START="1174" END="1181">Catholic</charseq>
+          </name>
+          <name NAME="Catholic">
+              <charseq START="1714" END="1721">Catholic</charseq>
+          </name>
+          <name NAME="Catholic">
+              <charseq START="1880" END="1887">Catholic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E9-M902">
+          <extent>
+              <charseq START="1057" END="1073">CBN&apos;s David Brody</charseq>
+          </extent>
+          <head>
+              <charseq START="1063" END="1073">David Brody</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="David Brody">
+              <charseq START="1063" END="1073">David Brody</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E10-M903">
+          <extent>
+              <charseq START="1057" END="1059">CBN</charseq>
+          </extent>
+          <head>
+              <charseq START="1057" END="1059">CBN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CBN">
+              <charseq START="1057" END="1059">CBN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E11" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E11-M1008">
+          <extent>
+              <charseq START="1196" END="1208">crucial areas</charseq>
+          </extent>
+          <head>
+              <charseq START="1204" END="1208">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E12-M1108">
+          <extent>
+              <charseq START="1354" END="1358">NARAL</charseq>
+          </extent>
+          <head>
+              <charseq START="1354" END="1358">NARAL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E12-M1105">
+          <extent>
+              <charseq START="1328" END="1358">the abortion-rights group NARAL</charseq>
+          </extent>
+          <head>
+              <charseq START="1348" END="1352">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NARAL">
+              <charseq START="1354" END="1358">NARAL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E13" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E13-M1113">
+          <extent>
+              <charseq START="1392" END="1427">the National Right to Life Committee</charseq>
+          </extent>
+          <head>
+              <charseq START="1396" END="1427">National Right to Life Committee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Right to Life Committee">
+              <charseq START="1396" END="1427">National Right to Life Committee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E14-M1200">
+          <extent>
+              <charseq START="1443" END="1456">his supporters</charseq>
+          </extent>
+          <head>
+              <charseq START="1447" END="1456">supporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E15-M1227">
+          <extent>
+              <charseq START="1676" END="1682">workers</charseq>
+          </extent>
+          <head>
+              <charseq START="1676" END="1682">workers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E16-M1305">
+          <extent>
+              <charseq START="1735" END="1752">Catholic Charities</charseq>
+          </extent>
+          <head>
+              <charseq START="1735" END="1752">Catholic Charities</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Catholic Charities">
+              <charseq START="1735" END="1752">Catholic Charities</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E17-M1302">
+          <extent>
+              <charseq START="1714" END="1729">Catholic bishops</charseq>
+          </extent>
+          <head>
+              <charseq START="1723" END="1729">bishops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E18" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E18-M1304">
+          <extent>
+              <charseq START="1735" END="1762">Catholic Charities officials</charseq>
+          </extent>
+          <head>
+              <charseq START="1754" END="1762">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="LTW_ENG_20090827.0050-E19-M1406">
+          <extent>
+              <charseq START="1880" END="1895">Catholic leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="1889" END="1895">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E20-M1500">
+          <extent>
+              <charseq START="1979" END="1984">Salmon</charseq>
+          </extent>
+          <head>
+              <charseq START="1979" END="1984">Salmon</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Salmon">
+              <charseq START="1979" END="1984">Salmon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E21-M1501">
+          <extent>
+              <charseq START="2004" END="2032">Michelle Boorstein of the God</charseq>
+          </extent>
+          <head>
+              <charseq START="2004" END="2021">Michelle Boorstein</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Michelle Boorstein">
+              <charseq START="2004" END="2021">Michelle Boorstein</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E22" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E22-M1513">
+          <extent>
+              <charseq START="2122" END="2132">Jon Meacham</charseq>
+          </extent>
+          <head>
+              <charseq START="2122" END="2132">Jon Meacham</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jon Meacham">
+              <charseq START="2122" END="2132">Jon Meacham</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="LTW_ENG_20090827.0050-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="LTW_ENG_20090827.0050-E23-M1514">
+          <extent>
+              <charseq START="2138" END="2148">Sally Quinn</charseq>
+          </extent>
+          <head>
+              <charseq START="2138" END="2148">Sally Quinn</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sally Quinn">
+              <charseq START="2138" END="2148">Sally Quinn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="LTW_ENG_20090827.0050-T0" VAL="2009">
+        <timex2_mention ID="LTW_ENG_20090827.0050-T0-M1">
+            <extent>
+              <charseq START="123" END="126">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LTW_ENG_20090827.0050-T1" VAL="1983">
+        <timex2_mention ID="LTW_ENG_20090827.0050-T1-M1">
+            <extent>
+              <charseq START="435" END="438">1983</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="LTW_ENG_20090827.0050-T2" VAL="PRESENT_REF" ANCHOR_VAL="2009-08-27" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="LTW_ENG_20090827.0050-T2-M1">
+            <extent>
+              <charseq START="507" END="509">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="LTW_ENG_20090827.0050-V3" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="LTW_ENG_20090827.0050-V3-M1">
+            <extent>
+              <charseq START="1305" END="1315">100 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="LTW_ENG_20090827.0050-V4" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="LTW_ENG_20090827.0050-V4-M1">
+            <extent>
+              <charseq START="1377" END="1385">0 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="LTW_ENG_20090827.0050-T5">
+        <timex2_mention ID="LTW_ENG_20090827.0050-T5-M1">
+            <extent>
+              <charseq START="1940" END="1948">embryonic</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="LTW_ENG_20090827.0050-V6" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="LTW_ENG_20090827.0050-V6-M1">
+            <extent>
+              <charseq START="2056" END="2074">WashingtonPost.com.</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="LTW_ENG_20090827.0050-V7" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="LTW_ENG_20090827.0050-V7-M1">
+            <extent>
+              <charseq START="2157" END="2174">WashingtonPost.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="LTW_ENG_20090827.0050-R0" TYPE="ORG-AFF" SUBTYPE="Student-Alum" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LTW_ENG_20090827.0050-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="LTW_ENG_20090827.0050-E5" ROLE="Arg-2"/>
+        <relation_mention ID="LTW_ENG_20090827.0050-R0-M300">
+          <extent>
+              <charseq START="483" END="495">Jerry Falwell</charseq>
+          </extent>
+          <relation_mention_argument REFID="LTW_ENG_20090827.0050-E4-M315" ROLE="Arg-1">
+            <extent>
+              <charseq START="483" END="495">Jerry Falwell</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LTW_ENG_20090827.0050-E5-M313" ROLE="Arg-2">
+            <extent>
+              <charseq START="483" END="536">Jerry Falwell&apos;s school, now
+called Liberty University)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LTW_ENG_20090827.0050-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LTW_ENG_20090827.0050-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="LTW_ENG_20090827.0050-E10" ROLE="Arg-2"/>
+        <relation_mention ID="LTW_ENG_20090827.0050-R2-M900">
+          <extent>
+              <charseq START="1057" END="1073">CBN&apos;s David Brody</charseq>
+          </extent>
+          <relation_mention_argument REFID="LTW_ENG_20090827.0050-E9-M902" ROLE="Arg-1">
+            <extent>
+              <charseq START="1057" END="1073">CBN&apos;s David Brody</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LTW_ENG_20090827.0050-E10-M903" ROLE="Arg-2">
+            <extent>
+              <charseq START="1057" END="1059">CBN</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LTW_ENG_20090827.0050-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LTW_ENG_20090827.0050-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="LTW_ENG_20090827.0050-E6" ROLE="Arg-2"/>
+        <relation_mention ID="LTW_ENG_20090827.0050-R3-M1000">
+          <extent>
+              <charseq START="1113" END="1135">many American Catholics</charseq>
+          </extent>
+          <relation_mention_argument REFID="LTW_ENG_20090827.0050-E7-M1000" ROLE="Arg-1">
+            <extent>
+              <charseq START="1113" END="1135">many American Catholics</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LTW_ENG_20090827.0050-E6-M1001" ROLE="Arg-2">
+            <extent>
+              <charseq START="1118" END="1125">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="LTW_ENG_20090827.0050-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="LTW_ENG_20090827.0050-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="LTW_ENG_20090827.0050-E16" ROLE="Arg-2"/>
+        <relation_mention ID="LTW_ENG_20090827.0050-R4-M1300">
+          <extent>
+              <charseq START="1735" END="1762">Catholic Charities officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="LTW_ENG_20090827.0050-E18-M1304" ROLE="Arg-1">
+            <extent>
+              <charseq START="1735" END="1762">Catholic Charities officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="LTW_ENG_20090827.0050-E16-M1305" ROLE="Arg-2">
+            <extent>
+              <charseq START="1735" END="1752">Catholic Charities</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

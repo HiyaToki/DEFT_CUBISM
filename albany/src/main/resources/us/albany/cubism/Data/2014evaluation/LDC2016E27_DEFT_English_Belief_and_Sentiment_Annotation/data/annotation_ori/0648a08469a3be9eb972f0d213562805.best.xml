@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56acedce0000000000000005">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-727">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-884">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1288">
+        <trigger offset="968" length="5">cared</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1298">
+        <trigger offset="1589" length="2">on</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-737">
+        <trigger offset="946" length="4">died</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-195" offset="936" length="14">
+            <text>those who died</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-758">
+        <trigger offset="1181" length="4">died</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-201" offset="1171" length="22">
+            <text>Those who died on 9/11</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-459" offset="1222" length="15">
+            <text>their murderers</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-811" offset="1189" length="4">
+            <text>9/11</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-779">
+        <trigger offset="3532" length="6">murder</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-651" offset="3516" length="8">
+            <text>al Qaeda</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-213" offset="3542" length="28">
+            <text>thousands of innocent people</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-957">
+        <trigger offset="984" length="8">murdered</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-978" offset="956" length="23">
+            <text>someone you cared about</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-866" offset="1019" length="15">
+            <text>the perpetrator</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1003">
+        <trigger offset="984" length="8">murdered</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-866" offset="1019" length="15">
+            <text>the perpetrator</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-978" offset="956" length="23">
+            <text>someone you cared about</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1033">
+        <trigger offset="1228" length="9">murderers</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-459" offset="1222" length="15">
+            <text>their murderers</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-201" offset="1171" length="22">
+            <text>Those who died on 9/11</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1210">
+        <trigger offset="3532" length="6">murder</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-651" offset="3516" length="8">
+            <text>al Qaeda</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-213" offset="3542" length="28">
+            <text>thousands of innocent people</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1086">
+        <trigger offset="2711" length="6">hijack</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-567" offset="2663" length="13">
+            <text>The Jihadists</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1111" offset="2727" length="6">
+            <text>planes</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1116">
+        <trigger offset="2711" length="6">hijack</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-567" offset="2663" length="13">
+            <text>The Jihadists</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1141" offset="2727" length="6">
+            <text>planes</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1174">
+        <trigger offset="3067" length="12">conversation</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-243" offset="3045" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-912" offset="3085" length="36">
+            <text>someone who has polar opposite views</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1238">
+        <trigger offset="3701" length="7">elected</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-495" offset="3692" length="5">
+            <text>Obama</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-309" offset="3435" length="19">
+        <text>the truth movements</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-327" offset="1289" length="4">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-333" offset="1377" length="4">
+        <text>them</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-345" offset="3491" length="5">
+        <text>their</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-363" offset="903" length="4">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-369" offset="862" length="5">
+        <text>their</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-381" offset="620" length="4">
+        <text>They</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-393" offset="697" length="4">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-399" offset="787" length="15">
+        <text>the nincompoops</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-405" offset="568" length="4">
+        <text>They</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-411" offset="549" length="4">
+        <text>They</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-845" offset="462" length="13">
+        <text>the miscreant</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-851" offset="500" length="3">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-447" offset="1402" length="38">
+        <text>Those idiots at the memorial last week</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-453" offset="1518" length="4">
+        <text>them</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-465" offset="1774" length="36">
+        <text>the eager easily-duped suburban kids</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-942" offset="3337" length="9">
+        <text>a truther</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1204" offset="3275" length="58">
+        <text>The only person that I absolutely cannot keep my cool with</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-555" offset="2252" length="72">
+        <text>a significant segment of the most recent wave of Internet truther trolls</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-561" offset="2277" length="47">
+        <text>the most recent wave of Internet truther trolls</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1261" offset="1577" length="24">
+        <text>a crap band on the stage</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1279" offset="2301" length="23">
+        <text>Internet truther trolls</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-105" offset="14" length="9">Bananaman</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-1298">
+        <trigger offset="1589" length="2">on</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-441" offset="1723" length="6">Myriad</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-779">
+        <trigger offset="3532" length="6">murder</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1210">
+        <trigger offset="3532" length="6">murder</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-225" offset="2948" length="9">liverleef</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

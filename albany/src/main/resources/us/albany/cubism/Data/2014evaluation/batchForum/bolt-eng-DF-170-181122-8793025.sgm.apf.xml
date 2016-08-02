@@ -1,0 +1,574 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="bolt-eng-DF-170-181122-8793025">
+  <document DOCID="bolt-eng-DF-170-181122-8793025">
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E0-M0">
+          <extent>
+              <charseq START="53" END="60">Rain man</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="60">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E0-M106">
+          <extent>
+              <charseq START="182" END="189">this guy</charseq>
+          </extent>
+          <head>
+              <charseq START="187" END="189">guy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E0-M109">
+          <extent>
+              <charseq START="208" END="221">an amazing man</charseq>
+          </extent>
+          <head>
+              <charseq START="219" END="221">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E0-M107">
+          <extent>
+              <charseq START="195" END="196">he</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="196">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E0-M1202">
+          <extent>
+              <charseq START="1284" END="1298">little big man&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1295" END="1297">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E0-M1504">
+          <extent>
+              <charseq START="1572" END="1584">a amazing man</charseq>
+          </extent>
+          <head>
+              <charseq START="1582" END="1584">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E0-M1505">
+          <extent>
+              <charseq START="1586" END="1587">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1586" END="1587">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E0-M1902">
+          <extent>
+              <charseq START="1888" END="1902">little big man&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1899" END="1901">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E0-M3502">
+          <extent>
+              <charseq START="3179" END="3193">little big man&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="3190" END="3192">man</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E2-M201">
+          <extent>
+              <charseq START="302" END="309">Kim Peek</charseq>
+          </extent>
+          <head>
+              <charseq START="302" END="309">Kim Peek</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kim Peek">
+              <charseq START="302" END="309">Kim Peek</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E3-M300">
+          <extent>
+              <charseq START="352" END="354">Jen</charseq>
+          </extent>
+          <head>
+              <charseq START="352" END="354">Jen</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E3-M400">
+          <extent>
+              <charseq START="596" END="597">He</charseq>
+          </extent>
+          <head>
+              <charseq START="596" END="597">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jen">
+              <charseq START="352" END="354">Jen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E4-M304">
+          <extent>
+              <charseq START="484" END="519">the people no one gives a shit about</charseq>
+          </extent>
+          <head>
+              <charseq START="488" END="493">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E5-M306">
+          <extent>
+              <charseq START="495" END="500">no one</charseq>
+          </extent>
+          <head>
+              <charseq START="498" END="500">one</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M303">
+          <extent>
+              <charseq START="453" END="455">You</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="455">You</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E6-M402">
+          <extent>
+              <charseq START="603" END="621">an excellent driver</charseq>
+          </extent>
+          <head>
+              <charseq START="616" END="621">driver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M707">
+          <extent>
+              <charseq START="921" END="923">you</charseq>
+          </extent>
+          <head>
+              <charseq START="921" END="923">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M1203">
+          <extent>
+              <charseq START="1304" END="1306">you</charseq>
+          </extent>
+          <head>
+              <charseq START="1304" END="1306">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M1500">
+          <extent>
+              <charseq START="1519" END="1521">You</charseq>
+          </extent>
+          <head>
+              <charseq START="1519" END="1521">You</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M1903">
+          <extent>
+              <charseq START="1908" END="1910">you</charseq>
+          </extent>
+          <head>
+              <charseq START="1908" END="1910">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M2407">
+          <extent>
+              <charseq START="2246" END="2248">you</charseq>
+          </extent>
+          <head>
+              <charseq START="2246" END="2248">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E6-M2502">
+          <extent>
+              <charseq START="2456" END="2474">an excellent driver</charseq>
+          </extent>
+          <head>
+              <charseq START="2469" END="2474">driver</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M3000">
+          <extent>
+              <charseq START="2750" END="2752">You</charseq>
+          </extent>
+          <head>
+              <charseq START="2750" END="2752">You</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M3503">
+          <extent>
+              <charseq START="3199" END="3201">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3199" END="3201">you</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M4101">
+          <extent>
+              <charseq START="3455" END="3457">You</charseq>
+          </extent>
+          <head>
+              <charseq START="3455" END="3457">You</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M4103">
+          <extent>
+              <charseq START="3522" END="3524">You</charseq>
+          </extent>
+          <head>
+              <charseq START="3522" END="3524">You</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E6-M4204">
+          <extent>
+              <charseq START="3652" END="3654">you</charseq>
+          </extent>
+          <head>
+              <charseq START="3652" END="3654">you</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E7-M700">
+          <extent>
+              <charseq START="840" END="843">Jeny</charseq>
+          </extent>
+          <head>
+              <charseq START="840" END="843">Jeny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E7-M2400">
+          <extent>
+              <charseq START="2165" END="2168">Jeny</charseq>
+          </extent>
+          <head>
+              <charseq START="2165" END="2168">Jeny</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E7-M2500">
+          <extent>
+              <charseq START="2449" END="2450">He</charseq>
+          </extent>
+          <head>
+              <charseq START="2449" END="2450">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E7-M2704">
+          <extent>
+              <charseq START="2592" END="2593">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2592" END="2593">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jeny">
+              <charseq START="840" END="843">Jeny</charseq>
+          </name>
+          <name NAME="Jeny">
+              <charseq START="2165" END="2168">Jeny</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E8-M702">
+          <extent>
+              <charseq START="859" END="871">people no one</charseq>
+          </extent>
+          <head>
+              <charseq START="859" END="864">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E9-M704">
+          <extent>
+              <charseq START="866" END="871">no one</charseq>
+          </extent>
+          <head>
+              <charseq START="869" END="871">one</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E10-M803">
+          <extent>
+              <charseq START="1013" END="1018">wapner</charseq>
+          </extent>
+          <head>
+              <charseq START="1013" END="1018">wapner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E10-M2803">
+          <extent>
+              <charseq START="2725" END="2730">wapner</charseq>
+          </extent>
+          <head>
+              <charseq START="2725" END="2730">wapner</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="wapner">
+              <charseq START="1013" END="1018">wapner</charseq>
+          </name>
+          <name NAME="wapner">
+              <charseq START="2725" END="2730">wapner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E11-M1101">
+          <extent>
+              <charseq START="1240" END="1253">Dustin Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="1240" END="1253">Dustin Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E11-M1102">
+          <extent>
+              <charseq START="1258" END="1274">a very good actor</charseq>
+          </extent>
+          <head>
+              <charseq START="1270" END="1274">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E11-M1801">
+          <extent>
+              <charseq START="1844" END="1857">Dustin Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="1844" END="1857">Dustin Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E11-M1802">
+          <extent>
+              <charseq START="1862" END="1878">a very good actor</charseq>
+          </extent>
+          <head>
+              <charseq START="1874" END="1878">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E11-M2101">
+          <extent>
+              <charseq START="1969" END="1975">Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="1969" END="1975">Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E11-M3401">
+          <extent>
+              <charseq START="3135" END="3148">Dustin Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="3135" END="3148">Dustin Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E11-M3402">
+          <extent>
+              <charseq START="3153" END="3169">a very good actor</charseq>
+          </extent>
+          <head>
+              <charseq START="3165" END="3169">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E11-M3701">
+          <extent>
+              <charseq START="3260" END="3266">Hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="3260" END="3266">Hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E11-M4202">
+          <extent>
+              <charseq START="3640" END="3646">hoffman</charseq>
+          </extent>
+          <head>
+              <charseq START="3640" END="3646">hoffman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E11-M4207">
+          <extent>
+              <charseq START="3675" END="3687">a great actor</charseq>
+          </extent>
+          <head>
+              <charseq START="3683" END="3687">actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E11-M4205">
+          <extent>
+              <charseq START="3665" END="3666">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3665" END="3666">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E11-M4211">
+          <extent>
+              <charseq START="3701" END="3702">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3701" END="3702">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E11-M4215">
+          <extent>
+              <charseq START="3750" END="3751">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3750" END="3751">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dustin Hoffman">
+              <charseq START="1240" END="1253">Dustin Hoffman</charseq>
+          </name>
+          <name NAME="Dustin Hoffman">
+              <charseq START="1844" END="1857">Dustin Hoffman</charseq>
+          </name>
+          <name NAME="Hoffman">
+              <charseq START="1969" END="1975">Hoffman</charseq>
+          </name>
+          <name NAME="Dustin Hoffman">
+              <charseq START="3135" END="3148">Dustin Hoffman</charseq>
+          </name>
+          <name NAME="Hoffman">
+              <charseq START="3260" END="3266">Hoffman</charseq>
+          </name>
+          <name NAME="hoffman">
+              <charseq START="3640" END="3646">hoffman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E12-M2300">
+          <extent>
+              <charseq START="2011" END="2015">Women</charseq>
+          </extent>
+          <head>
+              <charseq START="2011" END="2015">Women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E12-M2303">
+          <extent>
+              <charseq START="2046" END="2057">those actors</charseq>
+          </extent>
+          <head>
+              <charseq START="2052" END="2057">actors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E12-M3900">
+          <extent>
+              <charseq START="3302" END="3306">Women</charseq>
+          </extent>
+          <head>
+              <charseq START="3302" END="3306">Women</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E12-M3903">
+          <extent>
+              <charseq START="3337" END="3348">those actors</charseq>
+          </extent>
+          <head>
+              <charseq START="3343" END="3348">actors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="bolt-eng-DF-170-181122-8793025-E13-M2402">
+          <extent>
+              <charseq START="2184" END="2196">people no one</charseq>
+          </extent>
+          <head>
+              <charseq START="2184" END="2189">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="bolt-eng-DF-170-181122-8793025-E14-M2404">
+          <extent>
+              <charseq START="2191" END="2196">no one</charseq>
+          </extent>
+          <head>
+              <charseq START="2194" END="2196">one</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E15-M3101">
+          <extent>
+              <charseq START="2842" END="2846">Kmart</charseq>
+          </extent>
+          <head>
+              <charseq START="2842" END="2846">Kmart</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kmart">
+              <charseq START="2842" END="2846">Kmart</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="bolt-eng-DF-170-181122-8793025-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="bolt-eng-DF-170-181122-8793025-E16-M4201">
+          <extent>
+              <charseq START="3630" END="3635">pacino</charseq>
+          </extent>
+          <head>
+              <charseq START="3630" END="3635">pacino</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="pacino">
+              <charseq START="3630" END="3635">pacino</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="bolt-eng-DF-170-181122-8793025-T0" VAL="PT10M">
+        <timex2_mention ID="bolt-eng-DF-170-181122-8793025-T0-M1">
+            <extent>
+              <charseq START="998" END="1008">ten minutes</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="bolt-eng-DF-170-181122-8793025-T1" VAL="PT10M">
+        <timex2_mention ID="bolt-eng-DF-170-181122-8793025-T1-M1">
+            <extent>
+              <charseq START="2710" END="2720">ten minutes</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+  </document>
+</source_file>

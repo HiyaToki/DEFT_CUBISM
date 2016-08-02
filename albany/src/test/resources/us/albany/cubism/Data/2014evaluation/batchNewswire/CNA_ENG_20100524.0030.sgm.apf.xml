@@ -1,0 +1,1028 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="CNA_ENG_20100524.0030">
+  <document DOCID="CNA_ENG_20100524.0030">
+
+    <entity ID="CNA_ENG_20100524.0030-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E0-M3" ROLE="GPE">
+          <extent>
+              <charseq START="76" END="79">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="76" END="79">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E0-M506" ROLE="GPE">
+          <extent>
+              <charseq START="393" END="400">American</charseq>
+          </extent>
+          <head>
+              <charseq START="393" END="400">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E0-M1103" ROLE="GPE">
+          <extent>
+              <charseq START="1380" END="1387">American</charseq>
+          </extent>
+          <head>
+              <charseq START="1380" END="1387">American</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E0-M1205" ROLE="LOC">
+          <extent>
+              <charseq START="1483" END="1499">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1487" END="1499">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="76" END="79">U.S.</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="393" END="400">American</charseq>
+          </name>
+          <name NAME="American">
+              <charseq START="1380" END="1387">American</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1487" END="1499">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E1-M4" ROLE="LOC">
+          <extent>
+              <charseq START="103" END="108">Taipei</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="108">Taipei</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E1-M100">
+          <extent>
+              <charseq START="133" END="138">Taipei</charseq>
+          </extent>
+          <head>
+              <charseq START="133" END="138">Taipei</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E1-M411" ROLE="LOC">
+          <extent>
+              <charseq START="333" END="338">Taipei</charseq>
+          </extent>
+          <head>
+              <charseq START="333" END="338">Taipei</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taipei">
+              <charseq START="103" END="108">Taipei</charseq>
+          </name>
+          <name NAME="Taipei">
+              <charseq START="133" END="138">Taipei</charseq>
+          </name>
+          <name NAME="Taipei">
+              <charseq START="333" END="338">Taipei</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E2-M2">
+          <extent>
+              <charseq START="76" END="86">U.S. museum</charseq>
+          </extent>
+          <head>
+              <charseq START="81" END="86">museum</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E3-M200">
+          <extent>
+              <charseq START="148" END="150">CNA</charseq>
+          </extent>
+          <head>
+              <charseq START="148" END="150">CNA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CNA">
+              <charseq START="148" END="150">CNA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E4-M404">
+          <extent>
+              <charseq START="240" END="269">the Philadelphia Museum of Art</charseq>
+          </extent>
+          <head>
+              <charseq START="244" END="269">Philadelphia Museum of Art</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E4-M605">
+          <extent>
+              <charseq START="585" END="614">the Philadelphia
+Museum of Art</charseq>
+          </extent>
+          <head>
+              <charseq START="589" END="614">Philadelphia
+Museum of Art</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E4-M1207">
+          <extent>
+              <charseq START="1502" END="1531">the Philadelphia Museum of Art</charseq>
+          </extent>
+          <head>
+              <charseq START="1506" END="1531">Philadelphia Museum of Art</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Philadelphia Museum of Art">
+              <charseq START="244" END="269">Philadelphia Museum of Art</charseq>
+          </name>
+          <name NAME="Philadelphia
+Museum of Art">
+              <charseq START="589" END="614">Philadelphia
+Museum of Art</charseq>
+          </name>
+          <name NAME="Philadelphia Museum of Art">
+              <charseq START="1506" END="1531">Philadelphia Museum of Art</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E5-M407">
+          <extent>
+              <charseq START="295" END="338">the Taipei Fine Arts Museum (TFAM) in Taipei</charseq>
+          </extent>
+          <head>
+              <charseq START="299" END="321">Taipei Fine Arts Museum</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E5-M410">
+          <extent>
+              <charseq START="324" END="327">TFAM</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="327">TFAM</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E5-M504">
+          <extent>
+              <charseq START="390" END="442">an American museum on an international
+art exhibition</charseq>
+          </extent>
+          <head>
+              <charseq START="402" END="407">museum</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E5-M1303">
+          <extent>
+              <charseq START="1602" END="1611">the museum</charseq>
+          </extent>
+          <head>
+              <charseq START="1606" END="1611">museum</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taipei Fine Arts Museum">
+              <charseq START="299" END="321">Taipei Fine Arts Museum</charseq>
+          </name>
+          <name NAME="TFAM">
+              <charseq START="324" END="327">TFAM</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E6-M503">
+          <extent>
+              <charseq START="357" END="362">Taiwan</charseq>
+          </extent>
+          <head>
+              <charseq START="357" END="362">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taiwan">
+              <charseq START="357" END="362">Taiwan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E7-M509">
+          <extent>
+              <charseq START="454" END="480">TFAM Director Chen Wen-ling</charseq>
+          </extent>
+          <head>
+              <charseq START="468" END="480">Chen Wen-ling</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E7-M511">
+          <extent>
+              <charseq START="459" END="466">Director</charseq>
+          </extent>
+          <head>
+              <charseq START="459" END="466">Director</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E7-M1500">
+          <extent>
+              <charseq START="1881" END="1891">Sunnie Chen</charseq>
+          </extent>
+          <head>
+              <charseq START="1881" END="1891">Sunnie Chen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Chen Wen-ling">
+              <charseq START="468" END="480">Chen Wen-ling</charseq>
+          </name>
+          <name NAME="Sunnie Chen">
+              <charseq START="1881" END="1891">Sunnie Chen</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E8-M602">
+          <extent>
+              <charseq START="549" END="553">Manet</charseq>
+          </extent>
+          <head>
+              <charseq START="549" END="553">Manet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E8-M801">
+          <extent>
+              <charseq START="884" END="888">Manet</charseq>
+          </extent>
+          <head>
+              <charseq START="884" END="888">Manet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E8-M817">
+          <extent>
+              <charseq START="1026" END="1030">Monet</charseq>
+          </extent>
+          <head>
+              <charseq START="1026" END="1030">Monet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E8-M802">
+          <extent>
+              <charseq START="891" END="918">the pioneer of impressionism</charseq>
+          </extent>
+          <head>
+              <charseq START="895" END="901">pioneer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Manet">
+              <charseq START="549" END="553">Manet</charseq>
+          </name>
+          <name NAME="Manet">
+              <charseq START="884" END="888">Manet</charseq>
+          </name>
+          <name NAME="Monet">
+              <charseq START="1026" END="1030">Monet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E9-M612">
+          <extent>
+              <charseq START="675" END="684">33
+artists</charseq>
+          </extent>
+          <head>
+              <charseq START="678" END="684">artists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E10-M709" ROLE="LOC">
+          <extent>
+              <charseq START="762" END="774">Impressionism</charseq>
+          </extent>
+          <head>
+              <charseq START="762" END="774">Impressionism</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Impressionism">
+              <charseq START="762" END="774">Impressionism</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E11-M712">
+          <extent>
+              <charseq START="838" END="858">organizer Lei Yi-ting</charseq>
+          </extent>
+          <head>
+              <charseq START="848" END="858">Lei Yi-ting</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E11-M713">
+          <extent>
+              <charseq START="838" END="846">organizer</charseq>
+          </extent>
+          <head>
+              <charseq START="838" END="846">organizer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E11-M820">
+          <extent>
+              <charseq START="1051" END="1053">Lei</charseq>
+          </extent>
+          <head>
+              <charseq START="1051" END="1053">Lei</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lei Yi-ting">
+              <charseq START="848" END="858">Lei Yi-ting</charseq>
+          </name>
+          <name NAME="Lei">
+              <charseq START="1051" END="1053">Lei</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E12-M815">
+          <extent>
+              <charseq START="1011" END="1016">Boudin</charseq>
+          </extent>
+          <head>
+              <charseq START="1011" END="1016">Boudin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Boudin">
+              <charseq START="1011" END="1016">Boudin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E13-M816">
+          <extent>
+              <charseq START="1019" END="1023">Degas</charseq>
+          </extent>
+          <head>
+              <charseq START="1019" END="1023">Degas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Degas">
+              <charseq START="1019" END="1023">Degas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E14-M818">
+          <extent>
+              <charseq START="1033" END="1038">Renoir</charseq>
+          </extent>
+          <head>
+              <charseq START="1033" END="1038">Renoir</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Renoir">
+              <charseq START="1033" END="1038">Renoir</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E15-M819">
+          <extent>
+              <charseq START="1041" END="1048">Pissarro</charseq>
+          </extent>
+          <head>
+              <charseq START="1041" END="1048">Pissarro</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pissarro">
+              <charseq START="1041" END="1048">Pissarro</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E16-M809">
+          <extent>
+              <charseq START="960" END="1058">painters who flourished from 1874 to 1886, such as Boudin, Degas,
+Monet, Renoir, Pissarro, Lei said</charseq>
+          </extent>
+          <head>
+              <charseq START="960" END="967">painters</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20100524.0030-E16-M811">
+          <extent>
+              <charseq START="969" END="971">who</charseq>
+          </extent>
+          <head>
+              <charseq START="969" END="971">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E16-M1105">
+          <extent>
+              <charseq START="1421" END="1442">painters like
+O&apos;Keeffe</charseq>
+          </extent>
+          <head>
+              <charseq START="1421" END="1428">painters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E17-M903">
+          <extent>
+              <charseq START="1122" END="1128">Cezanne</charseq>
+          </extent>
+          <head>
+              <charseq START="1122" END="1128">Cezanne</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cezanne">
+              <charseq START="1122" END="1128">Cezanne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E18-M904">
+          <extent>
+              <charseq START="1131" END="1136">Gaugin</charseq>
+          </extent>
+          <head>
+              <charseq START="1131" END="1136">Gaugin</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gaugin">
+              <charseq START="1131" END="1136">Gaugin</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E19-M905">
+          <extent>
+              <charseq START="1139" END="1146">Van Gogh</charseq>
+          </extent>
+          <head>
+              <charseq START="1139" END="1146">Van Gogh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Van Gogh">
+              <charseq START="1139" END="1146">Van Gogh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E20-M906">
+          <extent>
+              <charseq START="1152" END="1159">Rousseau</charseq>
+          </extent>
+          <head>
+              <charseq START="1152" END="1159">Rousseau</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rousseau">
+              <charseq START="1152" END="1159">Rousseau</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20100524.0030-E21-M900">
+          <extent>
+              <charseq START="1070" END="1075">Others</charseq>
+          </extent>
+          <head>
+              <charseq START="1070" END="1075">Others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E22-M901">
+          <extent>
+              <charseq START="1086" END="1111">post-impressionist artists</charseq>
+          </extent>
+          <head>
+              <charseq START="1105" END="1111">artists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E23" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E23-M1012" ROLE="LOC">
+          <extent>
+              <charseq START="1260" END="1264">Paris</charseq>
+          </extent>
+          <head>
+              <charseq START="1260" END="1264">Paris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paris">
+              <charseq START="1260" END="1264">Paris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E24-M1014">
+          <extent>
+              <charseq START="1288" END="1294">Picasso</charseq>
+          </extent>
+          <head>
+              <charseq START="1288" END="1294">Picasso</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="CNA_ENG_20100524.0030-E24-M1019">
+          <extent>
+              <charseq START="1344" END="1346">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1344" END="1346">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Picasso">
+              <charseq START="1288" END="1294">Picasso</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E25" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E25-M1015">
+          <extent>
+              <charseq START="1297" END="1302">Braque</charseq>
+          </extent>
+          <head>
+              <charseq START="1297" END="1302">Braque</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Braque">
+              <charseq START="1297" END="1302">Braque</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E26-M1016">
+          <extent>
+              <charseq START="1305" END="1309">Leger</charseq>
+          </extent>
+          <head>
+              <charseq START="1305" END="1309">Leger</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Leger">
+              <charseq START="1305" END="1309">Leger</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E27" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E27-M1017">
+          <extent>
+              <charseq START="1312" END="1317">Derain</charseq>
+          </extent>
+          <head>
+              <charseq START="1312" END="1317">Derain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Derain">
+              <charseq START="1312" END="1317">Derain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E28" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E28-M1018">
+          <extent>
+              <charseq START="1320" END="1327">Lipchitz</charseq>
+          </extent>
+          <head>
+              <charseq START="1320" END="1327">Lipchitz</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lipchitz">
+              <charseq START="1320" END="1327">Lipchitz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E29-M1010">
+          <extent>
+              <charseq START="1260" END="1327">Paris-based artists such as Picasso, Braque,
+Leger, Derain, Lipchitz</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1278">artists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E30" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E30-M1107">
+          <extent>
+              <charseq START="1435" END="1442">O&apos;Keeffe</charseq>
+          </extent>
+          <head>
+              <charseq START="1435" END="1442">O&apos;Keeffe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="O&apos;Keeffe">
+              <charseq START="1435" END="1442">O&apos;Keeffe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E31" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E31-M1102">
+          <extent>
+              <charseq START="1380" END="1395">American artists</charseq>
+          </extent>
+          <head>
+              <charseq START="1389" END="1395">artists</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E32" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E32-M1202">
+          <extent>
+              <charseq START="1461" END="1499">the oldest museums in the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1472" END="1478">museums</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E34" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E34-M1300">
+          <extent>
+              <charseq START="1569" END="1599">Philadelphia&apos;s Franklin Parkway</charseq>
+          </extent>
+          <head>
+              <charseq START="1584" END="1599">Franklin Parkway</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Franklin Parkway">
+              <charseq START="1584" END="1599">Franklin Parkway</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E35" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E35-M1301">
+          <extent>
+              <charseq START="1569" END="1580">Philadelphia</charseq>
+          </extent>
+          <head>
+              <charseq START="1569" END="1580">Philadelphia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Philadelphia">
+              <charseq START="1569" END="1580">Philadelphia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E36" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E36-M1319" ROLE="GPE">
+          <extent>
+              <charseq START="1744" END="1750">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="1744" END="1750">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italian">
+              <charseq START="1744" END="1750">Italian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E37" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E37-M1321" ROLE="GPE">
+          <extent>
+              <charseq START="1780" END="1787">Japanese</charseq>
+          </extent>
+          <head>
+              <charseq START="1780" END="1787">Japanese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Japanese">
+              <charseq START="1780" END="1787">Japanese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E38" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="CNA_ENG_20100524.0030-E38-M1323">
+          <extent>
+              <charseq START="1800" END="1805">Shaker</charseq>
+          </extent>
+          <head>
+              <charseq START="1800" END="1805">Shaker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Shaker">
+              <charseq START="1800" END="1805">Shaker</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E39" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E39-M1304">
+          <extent>
+              <charseq START="1617" END="1815">an area of 10
+hectares and more than 200 exhibition rooms and a collection of over 225,000
+items that includes everything from Italian gold-ground  paintings  and Japanese
+screens to Shaker furniture</charseq>
+          </extent>
+          <head>
+              <charseq START="1620" END="1623">area</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="CNA_ENG_20100524.0030-E40" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="CNA_ENG_20100524.0030-E40-M1308">
+          <extent>
+              <charseq START="1644" END="1673">more than 200 exhibition rooms</charseq>
+          </extent>
+          <head>
+              <charseq START="1669" END="1673">rooms</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T0" VAL="2010-05-24">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T0-M1">
+            <extent>
+              <charseq START="140" END="145">May 24</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T1" VAL="2010-05-24T19:11:30">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T1-M1">
+            <extent>
+              <charseq START="163" END="170">19:11:30</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T2" VAL="2010-05-24">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T2-M1">
+            <extent>
+              <charseq START="509" END="514">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T3" VAL="1874">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T3-M1">
+            <extent>
+              <charseq START="989" END="992">1874</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T4" VAL="1886">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T4-M1">
+            <extent>
+              <charseq START="997" END="1000">1886</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T5" VAL="1907">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T5-M1">
+            <extent>
+              <charseq START="1184" END="1187">1907</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T6" VAL="1940">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T6-M1">
+            <extent>
+              <charseq START="1192" END="1195">1940</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T7" VAL="1913">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T7-M1">
+            <extent>
+              <charseq START="1403" END="1406">1913</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T8" VAL="1876">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T8-M1">
+            <extent>
+              <charseq START="1543" END="1546">1876</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="CNA_ENG_20100524.0030-T9" VAL="2010-09-26">
+        <timex2_mention ID="CNA_ENG_20100524.0030-T9-M1">
+            <extent>
+              <charseq START="1853" END="1874">June 26 until Sept. 26</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="CNA_ENG_20100524.0030-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100524.0030-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100524.0030-E0" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100524.0030-R0-M0">
+          <extent>
+              <charseq START="76" END="86">U.S. museum</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E2-M2" ROLE="Arg-1">
+            <extent>
+              <charseq START="76" END="86">U.S. museum</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E0-M3" ROLE="Arg-2">
+            <extent>
+              <charseq START="76" END="79">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100524.0030-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100524.0030-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100524.0030-E1" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100524.0030-R1-M400">
+          <extent>
+              <charseq START="295" END="338">the Taipei Fine Arts Museum (TFAM) in Taipei</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E5-M407" ROLE="Arg-1">
+            <extent>
+              <charseq START="295" END="338">the Taipei Fine Arts Museum (TFAM) in Taipei</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E1-M411" ROLE="Arg-2">
+            <extent>
+              <charseq START="333" END="338">Taipei</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100524.0030-R2" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100524.0030-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100524.0030-E0" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100524.0030-R2-M500">
+          <extent>
+              <charseq START="390" END="442">an American museum on an international
+art exhibition</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E5-M504" ROLE="Arg-1">
+            <extent>
+              <charseq START="390" END="442">an American museum on an international
+art exhibition</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E0-M506" ROLE="Arg-2">
+            <extent>
+              <charseq START="393" END="400">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100524.0030-R3" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100524.0030-E29" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100524.0030-E23" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100524.0030-R3-M1000">
+          <extent>
+              <charseq START="1260" END="1327">Paris-based artists such as Picasso, Braque,
+Leger, Derain, Lipchitz</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E29-M1010" ROLE="Arg-1">
+            <extent>
+              <charseq START="1260" END="1327">Paris-based artists such as Picasso, Braque,
+Leger, Derain, Lipchitz</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E23-M1012" ROLE="Arg-2">
+            <extent>
+              <charseq START="1260" END="1264">Paris</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100524.0030-R4" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100524.0030-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100524.0030-E0" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100524.0030-R4-M1100">
+          <extent>
+              <charseq START="1380" END="1395">American artists</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E31-M1102" ROLE="Arg-1">
+            <extent>
+              <charseq START="1380" END="1395">American artists</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E0-M1103" ROLE="Arg-2">
+            <extent>
+              <charseq START="1380" END="1387">American</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100524.0030-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100524.0030-E32" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100524.0030-E0" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100524.0030-R5-M1200">
+          <extent>
+              <charseq START="1461" END="1499">the oldest museums in the United States</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E32-M1202" ROLE="Arg-1">
+            <extent>
+              <charseq START="1461" END="1499">the oldest museums in the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E0-M1205" ROLE="Arg-2">
+            <extent>
+              <charseq START="1483" END="1499">the United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="CNA_ENG_20100524.0030-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="CNA_ENG_20100524.0030-E34" ROLE="Arg-1"/>
+      <relation_argument REFID="CNA_ENG_20100524.0030-E35" ROLE="Arg-2"/>
+        <relation_mention ID="CNA_ENG_20100524.0030-R6-M1300">
+          <extent>
+              <charseq START="1569" END="1599">Philadelphia&apos;s Franklin Parkway</charseq>
+          </extent>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E34-M1300" ROLE="Arg-1">
+            <extent>
+              <charseq START="1569" END="1599">Philadelphia&apos;s Franklin Parkway</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="CNA_ENG_20100524.0030-E35-M1301" ROLE="Arg-2">
+            <extent>
+              <charseq START="1569" END="1580">Philadelphia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

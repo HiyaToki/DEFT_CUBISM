@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091208.0172">
+  <document DOCID="XIN_ENG_20091208.0172">
+
+    <entity ID="XIN_ENG_20091208.0172-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E0-M0">
+          <extent>
+              <charseq START="58" END="62">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E0-M101" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="111" END="114">ROME</charseq>
+          </extent>
+          <head>
+              <charseq START="111" END="114">ROME</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E0-M302">
+          <extent>
+              <charseq START="156" END="162">Italian</charseq>
+          </extent>
+          <head>
+              <charseq START="156" END="162">Italian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E0-M502">
+          <extent>
+              <charseq START="558" END="562">Italy</charseq>
+          </extent>
+          <head>
+              <charseq START="558" END="562">Italy</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Italy">
+              <charseq START="58" END="62">Italy</charseq>
+          </name>
+          <name NAME="Italian">
+              <charseq START="156" END="162">Italian</charseq>
+          </name>
+          <name NAME="Italy">
+              <charseq START="558" END="562">Italy</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091208.0172-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E1-M2" ROLE="GPE">
+          <extent>
+              <charseq START="73" END="79">Baghdad</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="79">Baghdad</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E1-M309" ROLE="LOC">
+          <extent>
+              <charseq START="259" END="273">Baghdad killing</charseq>
+          </extent>
+          <head>
+              <charseq START="259" END="265">Baghdad</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Baghdad">
+              <charseq START="73" END="79">Baghdad</charseq>
+          </name>
+          <name NAME="Baghdad">
+              <charseq START="259" END="265">Baghdad</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091208.0172-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E2-M200">
+          <extent>
+              <charseq START="125" END="130">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="125" END="130">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="125" END="130">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091208.0172-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E3-M300">
+          <extent>
+              <charseq START="156" END="206">Italian Foreign Minister Franco Frattini on Tuesday</charseq>
+          </extent>
+          <head>
+              <charseq START="181" END="195">Franco Frattini</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091208.0172-E3-M304">
+          <extent>
+              <charseq START="172" END="179">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="172" END="179">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E3-M407">
+          <extent>
+              <charseq START="388" END="395">Frattini</charseq>
+          </extent>
+          <head>
+              <charseq START="388" END="395">Frattini</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091208.0172-E3-M403">
+          <extent>
+              <charseq START="350" END="352">his</charseq>
+          </extent>
+          <head>
+              <charseq START="350" END="352">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091208.0172-E3-M506">
+          <extent>
+              <charseq START="619" END="638">the foreign
+minister</charseq>
+          </extent>
+          <head>
+              <charseq START="631" END="638">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Franco Frattini">
+              <charseq START="181" END="195">Franco Frattini</charseq>
+          </name>
+          <name NAME="Frattini">
+              <charseq START="388" END="395">Frattini</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091208.0172-E4" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091208.0172-E4-M311">
+          <extent>
+              <charseq START="275" END="293">at least 127 people</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="293">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091208.0172-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091208.0172-E5-M312">
+          <extent>
+              <charseq START="308" END="322">some
+448 others</charseq>
+          </extent>
+          <head>
+              <charseq START="317" END="322">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091208.0172-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E6-M402">
+          <extent>
+              <charseq START="350" END="385">his Iraqi counterpart Hoshyar Zebari</charseq>
+          </extent>
+          <head>
+              <charseq START="372" END="385">Hoshyar Zebari</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091208.0172-E6-M405">
+          <extent>
+              <charseq START="360" END="370">counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="360" END="370">counterpart</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hoshyar Zebari">
+              <charseq START="372" END="385">Hoshyar Zebari</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091208.0172-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E7-M404" ROLE="GPE">
+          <extent>
+              <charseq START="354" END="358">Iraqi</charseq>
+          </extent>
+          <head>
+              <charseq START="354" END="358">Iraqi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E7-M413" ROLE="GPE">
+          <extent>
+              <charseq START="457" END="461">Iraqi</charseq>
+          </extent>
+          <head>
+              <charseq START="457" END="461">Iraqi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091208.0172-E7-M412" ROLE="ORG">
+          <extent>
+              <charseq START="453" END="472">the Iraqi government</charseq>
+          </extent>
+          <head>
+              <charseq START="463" END="472">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091208.0172-E7-M504" ROLE="GPE">
+          <extent>
+              <charseq START="582" END="586">Iraqi</charseq>
+          </extent>
+          <head>
+              <charseq START="582" END="586">Iraqi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091208.0172-E7-M503" ROLE="ORG">
+          <extent>
+              <charseq START="578" END="597">the Iraqi government</charseq>
+          </extent>
+          <head>
+              <charseq START="588" END="597">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iraqi">
+              <charseq START="354" END="358">Iraqi</charseq>
+          </name>
+          <name NAME="Iraqi">
+              <charseq START="457" END="461">Iraqi</charseq>
+          </name>
+          <name NAME="Iraqi">
+              <charseq START="582" END="586">Iraqi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091208.0172-E8" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091208.0172-E8-M414">
+          <extent>
+              <charseq START="499" END="510">institutions</charseq>
+          </extent>
+          <head>
+              <charseq START="499" END="510">institutions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091208.0172-T0" VAL="2009-12-08">
+        <timex2_mention ID="XIN_ENG_20091208.0172-T0-M1">
+            <extent>
+              <charseq START="117" END="122">Dec. 8</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091208.0172-T1" VAL="2009-12-08">
+        <timex2_mention ID="XIN_ENG_20091208.0172-T1-M1">
+            <extent>
+              <charseq START="200" END="206">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20091208.0172-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091208.0172-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091208.0172-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091208.0172-R0-M300">
+          <extent>
+              <charseq START="172" END="179">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091208.0172-E3-M304" ROLE="Arg-1">
+            <extent>
+              <charseq START="172" END="179">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091208.0172-E0-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="156" END="162">Italian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091208.0172-R1" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091208.0172-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091208.0172-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091208.0172-R1-M400">
+          <extent>
+              <charseq START="350" END="352">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091208.0172-E3-M403" ROLE="Arg-1">
+            <extent>
+              <charseq START="350" END="352">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091208.0172-E6-M405" ROLE="Arg-2">
+            <extent>
+              <charseq START="360" END="370">counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091208.0172-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091208.0172-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091208.0172-E7" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091208.0172-R2-M401">
+          <extent>
+              <charseq START="360" END="370">counterpart</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091208.0172-E6-M405" ROLE="Arg-1">
+            <extent>
+              <charseq START="360" END="370">counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091208.0172-E7-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="354" END="358">Iraqi</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

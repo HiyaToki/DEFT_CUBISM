@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="08ebdc5f0ec8588af38ab1684318d99c.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-985" length="4" offset="847">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="18" offset="14">Repatriated Canuck</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-294" length="35" offset="972">
+        <text>Communities in Canada and Australia</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="18" offset="14">Repatriated Canuck</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-474" length="17" offset="2578">
+        <text>These communities</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="18" offset="14">Repatriated Canuck</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1214" length="8" offset="2746">
+        <text>the kids</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-114" length="18" offset="14">Repatriated Canuck</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-5654e46c0000000000000016">
+  
+  <sentiment_annotations>
+    <entities/>
+    <relations/>
+    <events>
+      <event ere_id="em-842">
+        <trigger length="5" offset="825">argue</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-51" length="13" offset="14">uptownlivin90</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-872">
+        <trigger length="8" offset="849">let free</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-51" length="13" offset="14">uptownlivin90</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

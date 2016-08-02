@@ -1,0 +1,796 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20100917.0140">
+  <document DOCID="NYT_ENG_20100917.0140">
+
+    <entity ID="NYT_ENG_20100917.0140-E0" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E0-M11">
+          <extent>
+              <charseq START="99" END="108">THE DESERT</charseq>
+          </extent>
+          <head>
+              <charseq START="103" END="108">DESERT</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E1" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E1-M111">
+          <extent>
+              <charseq START="236" END="240">teams</charseq>
+          </extent>
+          <head>
+              <charseq START="236" END="240">teams</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E2-M206">
+          <extent>
+              <charseq START="282" END="285">Iowa</charseq>
+          </extent>
+          <head>
+              <charseq START="282" END="285">Iowa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E2-M900">
+          <extent>
+              <charseq START="907" END="910">Iowa</charseq>
+          </extent>
+          <head>
+              <charseq START="907" END="910">Iowa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E2-M1109" ROLE="GPE">
+          <extent>
+              <charseq START="1303" END="1306">Iowa</charseq>
+          </extent>
+          <head>
+              <charseq START="1303" END="1306">Iowa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E2-M1503" ROLE="GPE">
+          <extent>
+              <charseq START="1539" END="1542">Iowa</charseq>
+          </extent>
+          <head>
+              <charseq START="1539" END="1542">Iowa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iowa">
+              <charseq START="282" END="285">Iowa</charseq>
+          </name>
+          <name NAME="Iowa">
+              <charseq START="907" END="910">Iowa</charseq>
+          </name>
+          <name NAME="Iowa">
+              <charseq START="1303" END="1306">Iowa</charseq>
+          </name>
+          <name NAME="Iowa">
+              <charseq START="1539" END="1542">Iowa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E3" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E3-M207">
+          <extent>
+              <charseq START="287" END="293">Arizona</charseq>
+          </extent>
+          <head>
+              <charseq START="287" END="293">Arizona</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E3-M212">
+          <extent>
+              <charseq START="339" END="345">Arizona</charseq>
+          </extent>
+          <head>
+              <charseq START="339" END="345">Arizona</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E3-M302" ROLE="GPE">
+          <extent>
+              <charseq START="388" END="394">Arizona</charseq>
+          </extent>
+          <head>
+              <charseq START="388" END="394">Arizona</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E3-M1001" ROLE="LOC">
+          <extent>
+              <charseq START="1050" END="1056">Arizona</charseq>
+          </extent>
+          <head>
+              <charseq START="1050" END="1056">Arizona</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E3-M1402" ROLE="GPE">
+          <extent>
+              <charseq START="1409" END="1415">Arizona</charseq>
+          </extent>
+          <head>
+              <charseq START="1409" END="1415">Arizona</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Arizona">
+              <charseq START="287" END="293">Arizona</charseq>
+          </name>
+          <name NAME="Arizona">
+              <charseq START="339" END="345">Arizona</charseq>
+          </name>
+          <name NAME="Arizona">
+              <charseq START="388" END="394">Arizona</charseq>
+          </name>
+          <name NAME="Arizona">
+              <charseq START="1050" END="1056">Arizona</charseq>
+          </name>
+          <name NAME="Arizona">
+              <charseq START="1409" END="1415">Arizona</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E4-M209">
+          <extent>
+              <charseq START="316" END="332">the host
+Hawkeyes</charseq>
+          </extent>
+          <head>
+              <charseq START="325" END="332">Hawkeyes</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E4-M210">
+          <extent>
+              <charseq START="320" END="323">host</charseq>
+          </extent>
+          <head>
+              <charseq START="320" END="323">host</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E4-M805">
+          <extent>
+              <charseq START="873" END="897">the
+ninth-ranked Hawkeyes</charseq>
+          </extent>
+          <head>
+              <charseq START="890" END="897">Hawkeyes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hawkeyes">
+              <charseq START="325" END="332">Hawkeyes</charseq>
+          </name>
+          <name NAME="Hawkeyes">
+              <charseq START="890" END="897">Hawkeyes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E5-M200">
+          <extent>
+              <charseq START="243" END="246">Fans</charseq>
+          </extent>
+          <head>
+              <charseq START="243" END="246">Fans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E6" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E6-M301">
+          <extent>
+              <charseq START="376" END="399">a different Arizona team</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="399">team</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E6-M604">
+          <extent>
+              <charseq START="690" END="695">a team</charseq>
+          </extent>
+          <head>
+              <charseq START="692" END="695">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E7-M407">
+          <extent>
+              <charseq START="448" END="469">quarterback Nick Foles</charseq>
+          </extent>
+          <head>
+              <charseq START="460" END="469">Nick Foles</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E7-M406">
+          <extent>
+              <charseq START="439" END="445">one man</charseq>
+          </extent>
+          <head>
+              <charseq START="443" END="445">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E7-M408">
+          <extent>
+              <charseq START="448" END="458">quarterback</charseq>
+          </extent>
+          <head>
+              <charseq START="448" END="458">quarterback</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100917.0140-E7-M410">
+          <extent>
+              <charseq START="472" END="474">who</charseq>
+          </extent>
+          <head>
+              <charseq START="472" END="474">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E7-M503">
+          <extent>
+              <charseq START="625" END="629">Foles</charseq>
+          </extent>
+          <head>
+              <charseq START="625" END="629">Foles</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E7-M700">
+          <extent>
+              <charseq START="753" END="757">Foles</charseq>
+          </extent>
+          <head>
+              <charseq START="753" END="757">Foles</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100917.0140-E7-M705">
+          <extent>
+              <charseq START="806" END="808">his</charseq>
+          </extent>
+          <head>
+              <charseq START="806" END="808">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E7-M1004">
+          <extent>
+              <charseq START="1124" END="1128">Foles</charseq>
+          </extent>
+          <head>
+              <charseq START="1124" END="1128">Foles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nick Foles">
+              <charseq START="460" END="469">Nick Foles</charseq>
+          </name>
+          <name NAME="Foles">
+              <charseq START="625" END="629">Foles</charseq>
+          </name>
+          <name NAME="Foles">
+              <charseq START="753" END="757">Foles</charseq>
+          </name>
+          <name NAME="Foles">
+              <charseq START="1124" END="1128">Foles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E8-M411">
+          <extent>
+              <charseq START="496" END="513">starter Matt Scott</charseq>
+          </extent>
+          <head>
+              <charseq START="504" END="513">Matt Scott</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E8-M412">
+          <extent>
+              <charseq START="496" END="502">starter</charseq>
+          </extent>
+          <head>
+              <charseq START="496" END="502">starter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E8-M1704">
+          <extent>
+              <charseq START="1764" END="1772">a starter</charseq>
+          </extent>
+          <head>
+              <charseq START="1766" END="1772">starter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Matt Scott">
+              <charseq START="504" END="513">Matt Scott</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E9-M504">
+          <extent>
+              <charseq START="636" END="644">reporters</charseq>
+          </extent>
+          <head>
+              <charseq START="636" END="644">reporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E11" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E11-M703">
+          <extent>
+              <charseq START="770" END="772">NFL</charseq>
+          </extent>
+          <head>
+              <charseq START="770" END="772">NFL</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NFL">
+              <charseq START="770" END="772">NFL</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E12-M801">
+          <extent>
+              <charseq START="840" END="845">Toledo</charseq>
+          </extent>
+          <head>
+              <charseq START="840" END="845">Toledo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Toledo">
+              <charseq START="840" END="845">Toledo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E13" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E13-M802">
+          <extent>
+              <charseq START="851" END="861">the Citadel</charseq>
+          </extent>
+          <head>
+              <charseq START="855" END="861">Citadel</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Citadel">
+              <charseq START="855" END="861">Citadel</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E14-M906">
+          <extent>
+              <charseq START="975" END="1004">defensive end Adrian Clayborn,</charseq>
+          </extent>
+          <head>
+              <charseq START="989" END="1003">Adrian Clayborn</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E14-M908">
+          <extent>
+              <charseq START="985" END="987">end</charseq>
+          </extent>
+          <head>
+              <charseq START="985" END="987">end</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Adrian Clayborn">
+              <charseq START="989" END="1003">Adrian Clayborn</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E15-M901">
+          <extent>
+              <charseq START="917" END="931">two linebackers</charseq>
+          </extent>
+          <head>
+              <charseq START="921" END="931">linebackers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E16-M914" ROLE="LOC">
+          <extent>
+              <charseq START="1028" END="1038">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="1032" END="1038">country</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E17-M1005">
+          <extent>
+              <charseq START="1142" END="1212">Juron Criner, who already has 236
+yards on 12 catches through two games</charseq>
+          </extent>
+          <head>
+              <charseq START="1142" END="1153">Juron Criner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E17-M1002">
+          <extent>
+              <charseq START="1059" END="1080">a 1 1/2-point underdog</charseq>
+          </extent>
+          <head>
+              <charseq START="1073" END="1080">underdog</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100917.0140-E17-M1007">
+          <extent>
+              <charseq START="1156" END="1158">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1156" END="1158">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Juron Criner">
+              <charseq START="1142" END="1153">Juron Criner</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E18-M1108">
+          <extent>
+              <charseq START="1303" END="1325">Iowa coach Kirk Ferentz</charseq>
+          </extent>
+          <head>
+              <charseq START="1314" END="1325">Kirk Ferentz</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E18-M1110">
+          <extent>
+              <charseq START="1308" END="1312">coach</charseq>
+          </extent>
+          <head>
+              <charseq START="1308" END="1312">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100917.0140-E18-M1300">
+          <extent>
+              <charseq START="1363" END="1364">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1363" END="1364">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kirk Ferentz">
+              <charseq START="1314" END="1325">Kirk Ferentz</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E19-M1401">
+          <extent>
+              <charseq START="1409" END="1436">Arizona tailback Nic Grigsby</charseq>
+          </extent>
+          <head>
+              <charseq START="1426" END="1436">Nic Grigsby</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E19-M1403">
+          <extent>
+              <charseq START="1417" END="1424">tailback</charseq>
+          </extent>
+          <head>
+              <charseq START="1417" END="1424">tailback</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E19-M1405">
+          <extent>
+              <charseq START="1439" END="1465">a 1,000-yard rusher in 2008</charseq>
+          </extent>
+          <head>
+              <charseq START="1452" END="1457">rusher</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nic Grigsby">
+              <charseq START="1426" END="1436">Nic Grigsby</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E20-M1504">
+          <extent>
+              <charseq START="1557" END="1569">Adam Robinson</charseq>
+          </extent>
+          <head>
+              <charseq START="1557" END="1569">Adam Robinson</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E20-M1501">
+          <extent>
+              <charseq START="1535" END="1554">His
+Iowa counterpart</charseq>
+          </extent>
+          <head>
+              <charseq START="1544" END="1554">counterpart</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100917.0140-E20-M1502">
+          <extent>
+              <charseq START="1535" END="1537">His</charseq>
+          </extent>
+          <head>
+              <charseq START="1535" END="1537">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Adam Robinson">
+              <charseq START="1557" END="1569">Adam Robinson</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E21-M1510">
+          <extent>
+              <charseq START="1637" END="1652">Eastern Illinois</charseq>
+          </extent>
+          <head>
+              <charseq START="1637" END="1652">Eastern Illinois</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eastern Illinois">
+              <charseq START="1637" END="1652">Eastern Illinois</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E22" TYPE="ORG" SUBTYPE="Educational" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E22-M1512">
+          <extent>
+              <charseq START="1676" END="1685">Iowa State</charseq>
+          </extent>
+          <head>
+              <charseq START="1676" END="1685">Iowa State</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iowa State">
+              <charseq START="1676" END="1685">Iowa State</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20100917.0140-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20100917.0140-E23-M1603">
+          <extent>
+              <charseq START="1725" END="1748">quarterback Ricky Stanzi</charseq>
+          </extent>
+          <head>
+              <charseq START="1737" END="1748">Ricky Stanzi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20100917.0140-E23-M1604">
+          <extent>
+              <charseq START="1725" END="1735">quarterback</charseq>
+          </extent>
+          <head>
+              <charseq START="1725" END="1735">quarterback</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20100917.0140-E23-M1702">
+          <extent>
+              <charseq START="1751" END="1752">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1751" END="1752">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ricky Stanzi">
+              <charseq START="1737" END="1748">Ricky Stanzi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T0" VAL="2010-09">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T0-M1">
+            <extent>
+              <charseq START="156" END="164">September</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T1" VAL="2010">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T1-M1">
+            <extent>
+              <charseq START="180" END="183">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T2" VAL="2010-09-11TNI">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T2-M1">
+            <extent>
+              <charseq START="265" END="278">Saturday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T3" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T3-M1">
+            <extent>
+              <charseq START="300" END="309">a year ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T4" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T4-M1">
+            <extent>
+              <charseq START="550" END="559">a
+year ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T5" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T5-M1">
+            <extent>
+              <charseq START="613" END="621">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T6" VAL="2010-W38">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T6-M1">
+            <extent>
+              <charseq START="646" END="654">this week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20100917.0140-V7" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20100917.0140-V7-M1">
+            <extent>
+              <charseq START="792" END="801">83 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T8" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T8-M1">
+            <extent>
+              <charseq START="938" END="946">last
+year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T9" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T9-M1">
+            <extent>
+              <charseq START="1225" END="1233">Last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T10" VAL="2008">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T10-M1">
+            <extent>
+              <charseq START="1462" END="1465">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20100917.0140-T11" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20100917.0140-T11-M1">
+            <extent>
+              <charseq START="1524" END="1532">last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="NYT_ENG_20100917.0140-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100917.0140-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100917.0140-E3" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100917.0140-R0-M300">
+          <extent>
+              <charseq START="376" END="399">a different Arizona team</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100917.0140-E6-M301" ROLE="Arg-1">
+            <extent>
+              <charseq START="376" END="399">a different Arizona team</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100917.0140-E3-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="388" END="394">Arizona</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100917.0140-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100917.0140-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100917.0140-E2" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100917.0140-R1-M1100">
+          <extent>
+              <charseq START="1308" END="1312">coach</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100917.0140-E18-M1110" ROLE="Arg-1">
+            <extent>
+              <charseq START="1308" END="1312">coach</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100917.0140-E2-M1109" ROLE="Arg-2">
+            <extent>
+              <charseq START="1303" END="1306">Iowa</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100917.0140-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100917.0140-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100917.0140-E3" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100917.0140-R2-M1400">
+          <extent>
+              <charseq START="1417" END="1424">tailback</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100917.0140-E19-M1403" ROLE="Arg-1">
+            <extent>
+              <charseq START="1417" END="1424">tailback</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100917.0140-E3-M1402" ROLE="Arg-2">
+            <extent>
+              <charseq START="1409" END="1415">Arizona</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20100917.0140-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20100917.0140-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20100917.0140-E2" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20100917.0140-R3-M1501">
+          <extent>
+              <charseq START="1535" END="1554">His
+Iowa counterpart</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20100917.0140-E20-M1501" ROLE="Arg-1">
+            <extent>
+              <charseq START="1535" END="1554">His
+Iowa counterpart</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20100917.0140-E2-M1503" ROLE="Arg-2">
+            <extent>
+              <charseq START="1539" END="1542">Iowa</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

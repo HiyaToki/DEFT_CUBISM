@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56acedc20000000000000001">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-453">
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-105" offset="86" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-463">
+        <trigger offset="203" length="7">sheriff</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-105" offset="86" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-473">
+        <trigger offset="2244" length="4">head</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="2142" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-483">
+        <trigger offset="3748" length="2">VP</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-213" offset="2959" length="8">gonzomax</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-802">
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-81" offset="14" length="8">Merijeek</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-812">
+        <trigger offset="626" length="7">leaving</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-147" offset="391" length="8">Irishman</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-822">
+        <trigger offset="1418" length="7">leaving</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-111" offset="1225" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1083">
+        <trigger offset="4329" length="5">owner</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-135" offset="4154" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-495">
+        <trigger offset="220" length="6">busted</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-105" offset="86" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-93" offset="199" length="11">
+            <text>the sheriff</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="86" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-423" offset="167" length="100">
+            <text>the South Carolina county where the sheriff just got busted for his involvement in the drug business</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="86" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-569" offset="211" length="4">
+            <text>just</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="86" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-836" offset="231" length="36">
+            <text>his involvement in the drug business</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-105" offset="86" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-516">
+        <trigger offset="2663" length="6">bought</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-357" offset="2762" length="31">
+            <text>Election Systems &amp;amp; Software</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-576" offset="2801" length="4">
+            <text>2009</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-351" offset="3218" length="26">
+            <text>Premier Election Solutions</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-537">
+        <trigger offset="3279" length="6">bought</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-393" offset="3378" length="31">
+            <text>Election Systems &amp;amp; Software</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-583" offset="3417" length="4">
+            <text>2009</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-351" offset="3218" length="26">
+            <text>Premier Election Solutions</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-839">
+        <trigger offset="1418" length="7">leaving</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-111" offset="1225" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-706" offset="1378" length="3">
+            <text>you</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-111" offset="1225" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-712" offset="1426" length="17">
+            <text>the polling place</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-111" offset="1225" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-869">
+        <trigger offset="626" length="7">leaving</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-147" offset="391" length="8">Irishman</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-640" offset="586" length="3">
+            <text>you</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-147" offset="391" length="8">Irishman</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-646" offset="634" length="17">
+            <text>the polling place</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-147" offset="391" length="8">Irishman</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-897">
+        <trigger offset="2260" length="4">said</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-117" offset="2142" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-183" offset="2240" length="19">
+            <text>The head of Diebold</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-117" offset="2142" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-920">
+        <trigger offset="2302" length="10">re-elected</trigger>
+        <beliefs>
+          <belief type="na">
+            <source ere_id="m-117" offset="2142" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-207" offset="2293" length="4">
+            <text>Bush</text>
+            <beliefs>
+              <belief type="na">
+                <source ere_id="m-117" offset="2142" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-943">
+        <trigger offset="2443" length="5">makes</trigger>
+        <beliefs>
+          <belief type="cb" polarity="neg" sarcasm="no">
+            <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-273" offset="2425" length="7">
+            <text>Diebold</text>
+            <beliefs>
+              <belief type="cb" polarity="neg" sarcasm="no">
+                <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-968" offset="2449" length="15">
+            <text>voting machines</text>
+            <beliefs>
+              <belief type="cb" polarity="neg" sarcasm="no">
+                <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1003">
+        <trigger offset="3059" length="5">makes</trigger>
+        <beliefs>
+          <belief type="cb" polarity="neg" sarcasm="no">
+            <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-297" offset="3041" length="7">
+            <text>Diebold</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1028" offset="3065" length="15">
+            <text>voting machines</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-973">
+        <trigger offset="2902" length="8">business</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-291" offset="2892" length="7">
+            <text>Diebold</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-998" offset="2923" length="12">
+            <text>ATM machines</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-171" offset="2071" length="7">suranyi</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1045">
+        <trigger offset="3518" length="8">business</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-315" offset="3508" length="7">
+            <text>Diebold</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-1070" offset="3539" length="12">
+            <text>ATM machines</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-129" offset="3031" length="7">Bricker</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-267" offset="2409" length="4">
+        <text>them</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-117" offset="2142" length="7">Bricker</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

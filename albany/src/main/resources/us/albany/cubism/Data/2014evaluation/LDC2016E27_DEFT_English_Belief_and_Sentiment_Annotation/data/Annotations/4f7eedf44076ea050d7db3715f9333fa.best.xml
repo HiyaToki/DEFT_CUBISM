@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-5693fa670000000000000031">
+  
+  <sentiment_annotations><entities>
+      <entity ere_id="m-195" length="3" offset="538">
+        <text>MSE</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-135" length="17" offset="461">Trying to be good</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-229" length="9" offset="1117">
+        <text>the world</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="5" offset="955">SandC</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-244" length="6" offset="1714">
+        <text>an IFA</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="5" offset="955">SandC</source>
+        </sentiment>
+      </entity>
+    <entity ere_id="m-195" length="3" offset="538"><text>MSE</text><sentiment polarity="pos" sarcasm="no"><source ere_id="m-135" length="17" offset="461">Trying to be good</source></sentiment></entity><entity ere_id="m-57" length="3" offset="674"><text>you</text><sentiment polarity="pos" sarcasm="no"><source ere_id="m-135" length="17" offset="461">Trying to be good</source></sentiment></entity><entity ere_id="m-244" length="6" offset="1714"><text>an IFA</text><sentiment polarity="pos" sarcasm="no"><source ere_id="m-177" length="1" offset="1675">I</source></sentiment></entity><entity ere_id="m-75" length="4" offset="1631"><text>your</text><sentiment polarity="pos" sarcasm="no"><source ere_id="m-141" length="5" offset="955">SandC</source></sentiment></entity><entity ere_id="m-81" length="3" offset="1734"><text>you</text><sentiment polarity="pos" sarcasm="no"><source ere_id="m-141" length="5" offset="955">SandC</source></sentiment></entity></entities></sentiment_annotations>
+</committed_belief_doc>

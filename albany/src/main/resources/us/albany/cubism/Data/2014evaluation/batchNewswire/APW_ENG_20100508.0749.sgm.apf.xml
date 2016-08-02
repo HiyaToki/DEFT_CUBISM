@@ -1,0 +1,617 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100508.0749">
+  <document DOCID="APW_ENG_20100508.0749">
+
+    <entity ID="APW_ENG_20100508.0749-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E0-M0">
+          <extent>
+              <charseq START="58" END="76">US Sen. Bob Bennett</charseq>
+          </extent>
+          <head>
+              <charseq START="66" END="76">Bob Bennett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E0-M2">
+          <extent>
+              <charseq START="61" END="64">Sen.</charseq>
+          </extent>
+          <head>
+              <charseq START="61" END="64">Sen.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E0-M200">
+          <extent>
+              <charseq START="189" END="215">Republican Sen. Bob Bennett</charseq>
+          </extent>
+          <head>
+              <charseq START="205" END="215">Bob Bennett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E0-M202">
+          <extent>
+              <charseq START="200" END="203">Sen.</charseq>
+          </extent>
+          <head>
+              <charseq START="200" END="203">Sen.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100508.0749-E0-M209">
+          <extent>
+              <charseq START="267" END="269">his</charseq>
+          </extent>
+          <head>
+              <charseq START="267" END="269">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E0-M301">
+          <extent>
+              <charseq START="444" END="450">Bennett</charseq>
+          </extent>
+          <head>
+              <charseq START="444" END="450">Bennett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100508.0749-E0-M309">
+          <extent>
+              <charseq START="521" END="523">his</charseq>
+          </extent>
+          <head>
+              <charseq START="521" END="523">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100508.0749-E0-M310">
+          <extent>
+              <charseq START="553" END="555">him</charseq>
+          </extent>
+          <head>
+              <charseq START="553" END="555">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E0-M400">
+          <extent>
+              <charseq START="731" END="737">Bennett</charseq>
+          </extent>
+          <head>
+              <charseq START="731" END="737">Bennett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100508.0749-E0-M500">
+          <extent>
+              <charseq START="856" END="857">He</charseq>
+          </extent>
+          <head>
+              <charseq START="856" END="857">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E0-M702">
+          <extent>
+              <charseq START="1030" END="1036">Bennett</charseq>
+          </extent>
+          <head>
+              <charseq START="1030" END="1036">Bennett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E0-M705">
+          <extent>
+              <charseq START="1073" END="1125">the delegates before the second round of voting began</charseq>
+          </extent>
+          <head>
+              <charseq START="1077" END="1085">delegates</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100508.0749-E0-M704">
+          <extent>
+              <charseq START="1053" END="1055">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1053" END="1055">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E0-M902">
+          <extent>
+              <charseq START="1166" END="1172">Bennett</charseq>
+          </extent>
+          <head>
+              <charseq START="1166" END="1172">Bennett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E0-M1001">
+          <extent>
+              <charseq START="1360" END="1366">Bennett</charseq>
+          </extent>
+          <head>
+              <charseq START="1360" END="1366">Bennett</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100508.0749-E0-M1007">
+          <extent>
+              <charseq START="1425" END="1426">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1425" END="1426">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bob Bennett">
+              <charseq START="66" END="76">Bob Bennett</charseq>
+          </name>
+          <name NAME="Bob Bennett">
+              <charseq START="205" END="215">Bob Bennett</charseq>
+          </name>
+          <name NAME="Bennett">
+              <charseq START="444" END="450">Bennett</charseq>
+          </name>
+          <name NAME="Bennett">
+              <charseq START="731" END="737">Bennett</charseq>
+          </name>
+          <name NAME="Bennett">
+              <charseq START="1030" END="1036">Bennett</charseq>
+          </name>
+          <name NAME="Bennett">
+              <charseq START="1166" END="1172">Bennett</charseq>
+          </name>
+          <name NAME="Bennett">
+              <charseq START="1360" END="1366">Bennett</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E1-M1" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="59">US</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="59">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="58" END="59">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E2" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E2-M5" ROLE="GPE">
+          <extent>
+              <charseq START="88" END="91">Utah</charseq>
+          </extent>
+          <head>
+              <charseq START="88" END="91">Utah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E2-M210" ROLE="GPE">
+          <extent>
+              <charseq START="279" END="282">Utah</charseq>
+          </extent>
+          <head>
+              <charseq START="279" END="282">Utah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E2-M305">
+          <extent>
+              <charseq START="478" END="481">Utah</charseq>
+          </extent>
+          <head>
+              <charseq START="478" END="481">Utah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E2-M1009">
+          <extent>
+              <charseq START="1459" END="1480">ultraconservative Utah</charseq>
+          </extent>
+          <head>
+              <charseq START="1477" END="1480">Utah</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Utah">
+              <charseq START="88" END="91">Utah</charseq>
+          </name>
+          <name NAME="Utah">
+              <charseq START="279" END="282">Utah</charseq>
+          </name>
+          <name NAME="Utah">
+              <charseq START="478" END="481">Utah</charseq>
+          </name>
+          <name NAME="Utah">
+              <charseq START="1477" END="1480">Utah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E3-M101" ROLE="GPE">
+          <extent>
+              <charseq START="127" END="140">SALT LAKE CITY</charseq>
+          </extent>
+          <head>
+              <charseq START="127" END="140">SALT LAKE CITY</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SALT LAKE CITY">
+              <charseq START="127" END="140">SALT LAKE CITY</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E4-M208">
+          <extent>
+              <charseq START="267" END="275">his party</charseq>
+          </extent>
+          <head>
+              <charseq START="271" END="275">party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E4-M308">
+          <extent>
+              <charseq START="521" END="529">his party</charseq>
+          </extent>
+          <head>
+              <charseq START="525" END="529">party</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E4-M318">
+          <extent>
+              <charseq START="683" END="691">the party</charseq>
+          </extent>
+          <head>
+              <charseq START="687" END="691">party</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E5-M214">
+          <extent>
+              <charseq START="336" END="432">a once-popular three-term incumbent who fell victim to a growing conservative movement nationwide</charseq>
+          </extent>
+          <head>
+              <charseq START="362" END="370">incumbent</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100508.0749-E5-M215">
+          <extent>
+              <charseq START="372" END="374">who</charseq>
+          </extent>
+          <head>
+              <charseq START="372" END="374">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E6-M216">
+          <extent>
+              <charseq START="381" END="386">victim</charseq>
+          </extent>
+          <head>
+              <charseq START="381" END="386">victim</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E7-M304">
+          <extent>
+              <charseq START="478" END="502">Utah&apos;s Republican primary</charseq>
+          </extent>
+          <head>
+              <charseq START="485" END="494">Republican</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E7-M1005">
+          <extent>
+              <charseq START="1395" END="1404">Republican</charseq>
+          </extent>
+          <head>
+              <charseq START="1395" END="1404">Republican</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Republican">
+              <charseq START="485" END="494">Republican</charseq>
+          </name>
+          <name NAME="Republican">
+              <charseq START="1395" END="1404">Republican</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E8-M314">
+          <extent>
+              <charseq START="631" END="665">the difficult challenges candidates</charseq>
+          </extent>
+          <head>
+              <charseq START="656" END="665">candidates</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E9-M600">
+          <extent>
+              <charseq START="903" END="929">Businessman Tim Bridgewater</charseq>
+          </extent>
+          <head>
+              <charseq START="915" END="929">Tim Bridgewater</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E9-M601">
+          <extent>
+              <charseq START="903" END="913">Businessman</charseq>
+          </extent>
+          <head>
+              <charseq START="903" END="913">Businessman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tim Bridgewater">
+              <charseq START="915" END="929">Tim Bridgewater</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E10-M604">
+          <extent>
+              <charseq START="950" END="966">attorney Mike Lee</charseq>
+          </extent>
+          <head>
+              <charseq START="959" END="966">Mike Lee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E10-M605">
+          <extent>
+              <charseq START="950" END="957">attorney</charseq>
+          </extent>
+          <head>
+              <charseq START="950" END="957">attorney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mike Lee">
+              <charseq START="959" END="966">Mike Lee</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E11-M701">
+          <extent>
+              <charseq START="1017" END="1026">a newcomer</charseq>
+          </extent>
+          <head>
+              <charseq START="1019" END="1026">newcomer</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E12" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E12-M904">
+          <extent>
+              <charseq START="1192" END="1221">the National Rifle Association</charseq>
+          </extent>
+          <head>
+              <charseq START="1196" END="1221">National Rifle Association</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National Rifle Association">
+              <charseq START="1196" END="1221">National Rifle Association</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E13-M906">
+          <extent>
+              <charseq START="1227" END="1267">former presidential candidate Mitt Romney</charseq>
+          </extent>
+          <head>
+              <charseq START="1257" END="1267">Mitt Romney</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E13-M907">
+          <extent>
+              <charseq START="1247" END="1255">candidate</charseq>
+          </extent>
+          <head>
+              <charseq START="1247" END="1255">candidate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mitt Romney">
+              <charseq START="1257" END="1267">Mitt Romney</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E14" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100508.0749-E14-M913" ROLE="GPE">
+          <extent>
+              <charseq START="1310" END="1319">Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="1310" END="1319">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Washington">
+              <charseq START="1310" END="1319">Washington</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100508.0749-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100508.0749-E15-M1003">
+          <extent>
+              <charseq START="1389" END="1480">seven Republican opponents who said he wasn&apos;t conservative enough for ultraconservative Utah</charseq>
+          </extent>
+          <head>
+              <charseq START="1406" END="1414">opponents</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100508.0749-E15-M1006">
+          <extent>
+              <charseq START="1416" END="1418">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1416" END="1418">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100508.0749-T0" VAL="2010-05-08-05">
+        <timex2_mention ID="APW_ENG_20100508.0749-T0-M1">
+            <extent>
+              <charseq START="142" END="151">2010-05-08</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100508.0749-T1" VAL="2010-05-08">
+        <timex2_mention ID="APW_ENG_20100508.0749-T1-M1">
+            <extent>
+              <charseq START="242" END="249">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100508.0749-T2" VAL="2010">
+        <timex2_mention ID="APW_ENG_20100508.0749-T2-M1">
+            <extent>
+              <charseq START="604" END="612">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100508.0749-T3" VAL="2010">
+        <timex2_mention ID="APW_ENG_20100508.0749-T3-M1">
+            <extent>
+              <charseq START="716" END="719">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100508.0749-T4" VAL="2010-05-08">
+        <timex2_mention ID="APW_ENG_20100508.0749-T4-M1">
+            <extent>
+              <charseq START="772" END="779">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20100508.0749-V5" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100508.0749-V5-M1">
+            <extent>
+              <charseq START="879" END="888">27 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100508.0749-V6" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100508.0749-V6-M1">
+            <extent>
+              <charseq START="935" END="944">37 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100508.0749-V7" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100508.0749-V7-M1">
+            <extent>
+              <charseq START="972" END="981">35 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20100508.0749-T8" VAL="PAST_REF" ANCHOR_VAL="2010-05-08" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="APW_ENG_20100508.0749-T8-M1">
+            <extent>
+              <charseq START="1227" END="1232">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100508.0749-R0" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100508.0749-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100508.0749-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100508.0749-R0-M200">
+          <extent>
+              <charseq START="267" END="269">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100508.0749-E0-M209" ROLE="Arg-1">
+            <extent>
+              <charseq START="267" END="269">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100508.0749-E4-M208" ROLE="Arg-2">
+            <extent>
+              <charseq START="267" END="275">his party</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="APW_ENG_20100508.0749-R0-M301">
+          <extent>
+              <charseq START="521" END="523">his</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100508.0749-E0-M309" ROLE="Arg-1">
+            <extent>
+              <charseq START="521" END="523">his</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100508.0749-E4-M308" ROLE="Arg-2">
+            <extent>
+              <charseq START="521" END="529">his party</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100508.0749-R1" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100508.0749-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100508.0749-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100508.0749-R1-M300">
+          <extent>
+              <charseq START="478" END="502">Utah&apos;s Republican primary</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100508.0749-E7-M304" ROLE="Arg-1">
+            <extent>
+              <charseq START="478" END="502">Utah&apos;s Republican primary</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100508.0749-E2-M305" ROLE="Arg-2">
+            <extent>
+              <charseq START="478" END="481">Utah</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100508.0749-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100508.0749-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100508.0749-E7" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100508.0749-R2-M1000">
+          <extent>
+              <charseq START="1389" END="1480">seven Republican opponents who said he wasn&apos;t conservative enough for ultraconservative Utah</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100508.0749-E15-M1003" ROLE="Arg-1">
+            <extent>
+              <charseq START="1389" END="1480">seven Republican opponents who said he wasn&apos;t conservative enough for ultraconservative Utah</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100508.0749-E7-M1005" ROLE="Arg-2">
+            <extent>
+              <charseq START="1395" END="1404">Republican</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

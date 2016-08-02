@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="2bebb50073ceefd0c9ccfdf3e07b3258.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-93" length="18" offset="119">
+        <text>two boys 8 &amp;amp; 6</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-63" length="1" offset="112">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-99" length="4" offset="183">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-57" length="6" offset="14">glewis</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-147" length="13" offset="268">
+        <text>the young one</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-57" length="6" offset="14">glewis</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-105" length="8" offset="482">
+        <text>the kids</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-57" length="6" offset="14">glewis</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-111" length="4" offset="506">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-57" length="6" offset="14">glewis</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-385" length="5" offset="976">
+        <text>their</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-159" length="10" offset="896">travelgran</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-446" length="4" offset="1045">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="10" offset="896">travelgran</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-81" length="3" offset="1074">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="10" offset="896">travelgran</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-117" length="4" offset="1124">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-159" length="10" offset="896">travelgran</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-123" length="4" offset="1233">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="10" offset="896">travelgran</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-129" length="5" offset="1258">
+        <text>their</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="10" offset="896">travelgran</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-87" length="3" offset="1302">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-159" length="10" offset="896">travelgran</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-171" length="8" offset="1471">
+        <text>the kids</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="9" offset="1378">nuttybabe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-177" length="4" offset="1489">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" length="9" offset="1378">nuttybabe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-201" length="3" offset="1646">
+        <text>Ds1</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" length="9" offset="1378">nuttybabe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-219" length="2" offset="1738">
+        <text>he</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="9" offset="1378">nuttybabe</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

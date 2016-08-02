@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="3ddbad6f438c88eec387131477ffe1b9.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-983" length="92" offset="459">
+        <text>friends of the same age who seem to be a little further along in their 'life plan' than I am</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="1" offset="423">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1103" length="8" offset="1579">
+        <text>children</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-204" length="1" offset="1551">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-390" length="2" offset="1464">
+        <text>he</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-54" length="7" offset="14">jtr2803</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1109" length="8" offset="1812">
+        <text>children</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-234" length="1" offset="1822">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-630" length="5" offset="4301">
+        <text>My OH</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-504" length="9" offset="3172">4nnabella</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

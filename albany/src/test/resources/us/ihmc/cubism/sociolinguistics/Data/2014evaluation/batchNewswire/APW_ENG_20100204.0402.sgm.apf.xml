@@ -1,0 +1,928 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100204.0402">
+  <document DOCID="APW_ENG_20100204.0402">
+
+    <entity ID="APW_ENG_20100204.0402-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E0-M1">
+          <extent>
+              <charseq START="58" END="65">Unilever</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="65">Unilever</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E0-M309">
+          <extent>
+              <charseq START="531" END="538">Unilever</charseq>
+          </extent>
+          <head>
+              <charseq START="531" END="538">Unilever</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E0-M500">
+          <extent>
+              <charseq START="705" END="712">Unilever</charseq>
+          </extent>
+          <head>
+              <charseq START="705" END="712">Unilever</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E0-M701">
+          <extent>
+              <charseq START="1010" END="1017">Unilever</charseq>
+          </extent>
+          <head>
+              <charseq START="1010" END="1017">Unilever</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E0-M1100">
+          <extent>
+              <charseq START="1490" END="1497">Unilever</charseq>
+          </extent>
+          <head>
+              <charseq START="1490" END="1497">Unilever</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E0-M1502">
+          <extent>
+              <charseq START="1929" END="1936">Unilever</charseq>
+          </extent>
+          <head>
+              <charseq START="1929" END="1936">Unilever</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E0-M1702">
+          <extent>
+              <charseq START="2226" END="2233">Unilever</charseq>
+          </extent>
+          <head>
+              <charseq START="2226" END="2233">Unilever</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E0-M1802">
+          <extent>
+              <charseq START="2404" END="2411">Unilever</charseq>
+          </extent>
+          <head>
+              <charseq START="2404" END="2411">Unilever</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Unilever">
+              <charseq START="58" END="65">Unilever</charseq>
+          </name>
+          <name NAME="Unilever">
+              <charseq START="531" END="538">Unilever</charseq>
+          </name>
+          <name NAME="Unilever">
+              <charseq START="705" END="712">Unilever</charseq>
+          </name>
+          <name NAME="Unilever">
+              <charseq START="1010" END="1017">Unilever</charseq>
+          </name>
+          <name NAME="Unilever">
+              <charseq START="1490" END="1497">Unilever</charseq>
+          </name>
+          <name NAME="Unilever">
+              <charseq START="1929" END="1936">Unilever</charseq>
+          </name>
+          <name NAME="Unilever">
+              <charseq START="2226" END="2233">Unilever</charseq>
+          </name>
+          <name NAME="Unilever">
+              <charseq START="2404" END="2411">Unilever</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E1-M101" ROLE="GPE">
+          <extent>
+              <charseq START="121" END="129">AMSTERDAM</charseq>
+          </extent>
+          <head>
+              <charseq START="121" END="129">AMSTERDAM</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E1-M1008" ROLE="LOC">
+          <extent>
+              <charseq START="1469" END="1477">Amsterdam</charseq>
+          </extent>
+          <head>
+              <charseq START="1469" END="1477">Amsterdam</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AMSTERDAM">
+              <charseq START="121" END="129">AMSTERDAM</charseq>
+          </name>
+          <name NAME="Amsterdam">
+              <charseq START="1469" END="1477">Amsterdam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E2-M200">
+          <extent>
+              <charseq START="178" END="189">Unilever NV,</charseq>
+          </extent>
+          <head>
+              <charseq START="178" END="188">Unilever NV</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100204.0402-E2-M202">
+          <extent>
+              <charseq START="191" END="420">maker of consumer products such as Ben &amp;amp; Jerry&apos;s ice cream and Dove soap, saw fourth quarter earnings fall by 27 percent after its year-ago figures were boosted by a one-time gain on the sale of its Bertolli olive oil business</charseq>
+          </extent>
+          <head>
+              <charseq START="191" END="195">maker</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100204.0402-E2-M1203">
+          <extent>
+              <charseq START="1652" END="1662">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="1656" END="1662">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100204.0402-E2-M1505">
+          <extent>
+              <charseq START="1980" END="1990">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="1984" END="1990">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Unilever NV">
+              <charseq START="178" END="188">Unilever NV</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E3" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E3-M209">
+          <extent>
+              <charseq START="226" END="240">Ben &amp;amp; Jerry</charseq>
+          </extent>
+          <head>
+              <charseq START="226" END="240">Ben &amp;amp; Jerry</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100204.0402-E3-M219">
+          <extent>
+              <charseq START="322" END="324">its</charseq>
+          </extent>
+          <head>
+              <charseq START="322" END="324">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100204.0402-E3-M225">
+          <extent>
+              <charseq START="390" END="392">its</charseq>
+          </extent>
+          <head>
+              <charseq START="390" END="392">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E3-M2104">
+          <extent>
+              <charseq START="2650" END="2664">Ben &amp;amp; Jerry</charseq>
+          </extent>
+          <head>
+              <charseq START="2650" END="2664">Ben &amp;amp; Jerry</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ben &amp;amp; Jerry">
+              <charseq START="226" END="240">Ben &amp;amp; Jerry</charseq>
+          </name>
+          <name NAME="Ben &amp;amp; Jerry">
+              <charseq START="2650" END="2664">Ben &amp;amp; Jerry</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E4-M212">
+          <extent>
+              <charseq START="258" END="261">Dove</charseq>
+          </extent>
+          <head>
+              <charseq START="258" END="261">Dove</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dove">
+              <charseq START="258" END="261">Dove</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E5-M226">
+          <extent>
+              <charseq START="394" END="401">Bertolli</charseq>
+          </extent>
+          <head>
+              <charseq START="394" END="401">Bertolli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E5-M310">
+          <extent>
+              <charseq START="545" END="552">Bertolli</charseq>
+          </extent>
+          <head>
+              <charseq START="545" END="552">Bertolli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E5-M410">
+          <extent>
+              <charseq START="681" END="688">Bertolli</charseq>
+          </extent>
+          <head>
+              <charseq START="681" END="688">Bertolli</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bertolli">
+              <charseq START="394" END="401">Bertolli</charseq>
+          </name>
+          <name NAME="Bertolli">
+              <charseq START="545" END="552">Bertolli</charseq>
+          </name>
+          <name NAME="Bertolli">
+              <charseq START="681" END="688">Bertolli</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E6-M311">
+          <extent>
+              <charseq START="557" END="573">Spain&apos;s Grupo SOS</charseq>
+          </extent>
+          <head>
+              <charseq START="565" END="573">Grupo SOS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Grupo SOS">
+              <charseq START="565" END="573">Grupo SOS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E7" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E7-M312">
+          <extent>
+              <charseq START="557" END="561">Spain</charseq>
+          </extent>
+          <head>
+              <charseq START="557" END="561">Spain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Spain">
+              <charseq START="557" END="561">Spain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E8-M803">
+          <extent>
+              <charseq START="1222" END="1248">Chief Executive Paul Polman</charseq>
+          </extent>
+          <head>
+              <charseq START="1238" END="1248">Paul Polman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100204.0402-E8-M805">
+          <extent>
+              <charseq START="1228" END="1236">Executive</charseq>
+          </extent>
+          <head>
+              <charseq START="1228" END="1236">Executive</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E8-M2200">
+          <extent>
+              <charseq START="2715" END="2720">Polman</charseq>
+          </extent>
+          <head>
+              <charseq START="2715" END="2720">Polman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Paul Polman">
+              <charseq START="1238" END="1248">Paul Polman</charseq>
+          </name>
+          <name NAME="Polman">
+              <charseq START="2715" END="2720">Polman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100204.0402-E9-M801">
+          <extent>
+              <charseq START="1158" END="1166">consumers</charseq>
+          </extent>
+          <head>
+              <charseq START="1158" END="1166">consumers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E11-M1102">
+          <extent>
+              <charseq START="1561" END="1603">analyst Keith Bowman of Hargreaves Lansdown</charseq>
+          </extent>
+          <head>
+              <charseq START="1569" END="1580">Keith Bowman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100204.0402-E11-M1104">
+          <extent>
+              <charseq START="1561" END="1567">analyst</charseq>
+          </extent>
+          <head>
+              <charseq START="1561" END="1567">analyst</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100204.0402-E11-M1200">
+          <extent>
+              <charseq START="1641" END="1642">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1641" END="1642">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E11-M1500">
+          <extent>
+              <charseq START="1910" END="1915">Bowman</charseq>
+          </extent>
+          <head>
+              <charseq START="1910" END="1915">Bowman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E11-M1612">
+          <extent>
+              <charseq START="2204" END="2209">Bowman</charseq>
+          </extent>
+          <head>
+              <charseq START="2204" END="2209">Bowman</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Keith Bowman">
+              <charseq START="1569" END="1580">Keith Bowman</charseq>
+          </name>
+          <name NAME="Bowman">
+              <charseq START="1910" END="1915">Bowman</charseq>
+          </name>
+          <name NAME="Bowman">
+              <charseq START="2204" END="2209">Bowman</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E12-M1106">
+          <extent>
+              <charseq START="1585" END="1603">Hargreaves Lansdown</charseq>
+          </extent>
+          <head>
+              <charseq START="1585" END="1603">Hargreaves Lansdown</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hargreaves Lansdown">
+              <charseq START="1585" END="1603">Hargreaves Lansdown</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E13" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E13-M1206" ROLE="LOC">
+          <extent>
+              <charseq START="1696" END="1699">Asia</charseq>
+          </extent>
+          <head>
+              <charseq START="1696" END="1699">Asia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Asia">
+              <charseq START="1696" END="1699">Asia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E14" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E14-M1207" ROLE="LOC">
+          <extent>
+              <charseq START="1705" END="1710">Africa</charseq>
+          </extent>
+          <head>
+              <charseq START="1705" END="1710">Africa</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Africa">
+              <charseq START="1705" END="1710">Africa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E15-M1304">
+          <extent>
+              <charseq START="1790" END="1801">the Americas</charseq>
+          </extent>
+          <head>
+              <charseq START="1794" END="1801">Americas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E15-M1403" ROLE="LOC">
+          <extent>
+              <charseq START="1831" END="1842">the Americas</charseq>
+          </extent>
+          <head>
+              <charseq START="1835" END="1842">Americas</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Americas">
+              <charseq START="1794" END="1801">Americas</charseq>
+          </name>
+          <name NAME="Americas">
+              <charseq START="1835" END="1842">Americas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E16" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E16-M1306">
+          <extent>
+              <charseq START="1807" END="1812">Europe</charseq>
+          </extent>
+          <head>
+              <charseq START="1807" END="1812">Europe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E16-M1408" ROLE="LOC">
+          <extent>
+              <charseq START="1893" END="1898">Europe</charseq>
+          </extent>
+          <head>
+              <charseq START="1893" END="1898">Europe</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Europe">
+              <charseq START="1807" END="1812">Europe</charseq>
+          </name>
+          <name NAME="Europe">
+              <charseq START="1893" END="1898">Europe</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100204.0402-E17-M1608">
+          <extent>
+              <charseq START="2149" END="2166">the media industry</charseq>
+          </extent>
+          <head>
+              <charseq START="2159" END="2166">industry</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E18-M2006">
+          <extent>
+              <charseq START="2583" END="2585">Omo</charseq>
+          </extent>
+          <head>
+              <charseq START="2583" END="2585">Omo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Omo">
+              <charseq START="2583" END="2585">Omo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E19-M2007">
+          <extent>
+              <charseq START="2591" END="2593">Cif</charseq>
+          </extent>
+          <head>
+              <charseq START="2591" END="2593">Cif</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Cif">
+              <charseq START="2591" END="2593">Cif</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E20-M2106">
+          <extent>
+              <charseq START="2669" END="2674">Magnum</charseq>
+          </extent>
+          <head>
+              <charseq START="2669" END="2674">Magnum</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Magnum">
+              <charseq START="2669" END="2674">Magnum</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E21-M2108">
+          <extent>
+              <charseq START="2680" END="2685">Lipton</charseq>
+          </extent>
+          <head>
+              <charseq START="2680" END="2685">Lipton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lipton">
+              <charseq START="2680" END="2685">Lipton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E22-M2207" ROLE="LOC">
+          <extent>
+              <charseq START="2785" END="2791">the U.S</charseq>
+          </extent>
+          <head>
+              <charseq START="2789" END="2791">U.S</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S">
+              <charseq START="2789" END="2791">U.S</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E23-M2306">
+          <extent>
+              <charseq START="2842" END="2849">Hellmann</charseq>
+          </extent>
+          <head>
+              <charseq START="2842" END="2849">Hellmann</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hellmann">
+              <charseq START="2842" END="2849">Hellmann</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100204.0402-E24" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100204.0402-E24-M2308">
+          <extent>
+              <charseq START="2868" END="2872">Knorr</charseq>
+          </extent>
+          <head>
+              <charseq START="2868" END="2872">Knorr</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Knorr">
+              <charseq START="2868" END="2872">Knorr</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <value ID="APW_ENG_20100204.0402-V0" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V0-M1">
+            <extent>
+              <charseq START="87" END="96">27 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20100204.0402-T1" VAL="2010-02-04-02">
+        <timex2_mention ID="APW_ENG_20100204.0402-T1-M1">
+            <extent>
+              <charseq START="131" END="140">2010-02-04</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20100204.0402-V2" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V2-M1">
+            <extent>
+              <charseq START="305" END="314">27 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V3" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="APW_ENG_20100204.0402-V3-M1">
+            <extent>
+              <charseq START="453" END="463">831 million</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V4" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="APW_ENG_20100204.0402-V4-M1">
+            <extent>
+              <charseq START="466" END="478">$1.15 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V5" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="APW_ENG_20100204.0402-V5-M1">
+            <extent>
+              <charseq START="497" END="508">1.14 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20100204.0402-T6" VAL="P1Y">
+        <timex2_mention ID="APW_ENG_20100204.0402-T6-M1">
+            <extent>
+              <charseq START="510" END="523">a year earlier</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100204.0402-T7">
+        <timex2_mention ID="APW_ENG_20100204.0402-T7-M1">
+            <extent>
+              <charseq START="605" END="611">quarter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20100204.0402-V8" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V8-M1">
+            <extent>
+              <charseq START="624" END="632">5 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V9" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="APW_ENG_20100204.0402-V9-M1">
+            <extent>
+              <charseq START="643" END="654">9.66 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V10" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V10-M1">
+            <extent>
+              <charseq START="830" END="838">4 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V11" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V11-M1">
+            <extent>
+              <charseq START="896" END="906">1.8 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V12" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V12-M1">
+            <extent>
+              <charseq START="931" END="939">5 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V13" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V13-M1">
+            <extent>
+              <charseq START="968" END="978">3.1 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20100204.0402-T14" VAL="P1Y">
+        <timex2_mention ID="APW_ENG_20100204.0402-T14-M1">
+            <extent>
+              <charseq START="995" END="1007">the past year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100204.0402-T15" VAL="2010">
+        <timex2_mention ID="APW_ENG_20100204.0402-T15-M1">
+            <extent>
+              <charseq START="1152" END="1155">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100204.0402-T16" VAL="2010">
+        <timex2_mention ID="APW_ENG_20100204.0402-T16-M1">
+            <extent>
+              <charseq START="1302" END="1305">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20100204.0402-V17" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V17-M1">
+            <extent>
+              <charseq START="1422" END="1432">2.5 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V18" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V18-M1">
+            <extent>
+              <charseq START="1730" END="1740">7.4 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20100204.0402-T19" VAL="PRESENT_REF" ANCHOR_VAL="2010-02-04" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="APW_ENG_20100204.0402-T19-M1">
+            <extent>
+              <charseq START="1750" END="1752">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20100204.0402-V20" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V20-M1">
+            <extent>
+              <charseq START="1848" END="1858">1.2 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V21" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V21-M1">
+            <extent>
+              <charseq START="1878" END="1888">4.2 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20100204.0402-T22" VAL="2010">
+        <timex2_mention ID="APW_ENG_20100204.0402-T22-M1">
+            <extent>
+              <charseq START="1957" END="1965">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100204.0402-T23" VAL="PAST_REF" ANCHOR_VAL="2010-02-04" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="APW_ENG_20100204.0402-T23-M1">
+            <extent>
+              <charseq START="2106" END="2111">recent</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100204.0402-T24" VAL="P1Y">
+        <timex2_mention ID="APW_ENG_20100204.0402-T24-M1">
+            <extent>
+              <charseq START="2226" END="2245">Unilever&apos;s full year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20100204.0402-V25" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="APW_ENG_20100204.0402-V25-M1">
+            <extent>
+              <charseq START="2268" END="2279">3.66 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V26" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V26-M1">
+            <extent>
+              <charseq START="2287" END="2296">33 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20100204.0402-T27" VAL="2008">
+        <timex2_mention ID="APW_ENG_20100204.0402-T27-M1">
+            <extent>
+              <charseq START="2303" END="2306">2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20100204.0402-V28" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="APW_ENG_20100204.0402-V28-M1">
+            <extent>
+              <charseq START="2327" END="2338">39.8 billion</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V29" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V29-M1">
+            <extent>
+              <charseq START="2357" END="2365">2 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20100204.0402-T30" VAL="P1Y">
+        <timex2_mention ID="APW_ENG_20100204.0402-T30-M1">
+            <extent>
+              <charseq START="2418" END="2431">only full year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20100204.0402-V31" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V31-M1">
+            <extent>
+              <charseq START="2526" END="2536">5.3 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V32" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V32-M1">
+            <extent>
+              <charseq START="2601" END="2611">7.1 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V33" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V33-M1">
+            <extent>
+              <charseq START="2704" END="2712">4 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V34" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V34-M1">
+            <extent>
+              <charseq START="2761" END="2780">more than 10 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20100204.0402-V35" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="APW_ENG_20100204.0402-V35-M1">
+            <extent>
+              <charseq START="2885" END="2895">0.1 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="APW_ENG_20100204.0402-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100204.0402-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100204.0402-E7" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100204.0402-R0-M300">
+          <extent>
+              <charseq START="557" END="573">Spain&apos;s Grupo SOS</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100204.0402-E6-M311" ROLE="Arg-1">
+            <extent>
+              <charseq START="557" END="573">Spain&apos;s Grupo SOS</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100204.0402-E7-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="557" END="561">Spain</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

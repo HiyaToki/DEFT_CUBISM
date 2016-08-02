@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="7b5c935f7671391a5f4463832794af51.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-117" length="3" offset="98">
+        <text>小 金</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-105" length="3" offset="14">许伯寅</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-183" length="2" offset="312">
+        <text>我们</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-267" length="4" offset="265">少校卫疆</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-171" length="4" offset="316">
+        <text>朝鲜人民</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-267" length="4" offset="265">少校卫疆</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-147" length="1" offset="523">
+        <text>他</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-243" length="5" offset="385">好象懂一点</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-213" length="1" offset="709">
+        <text>我</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-201" length="4" offset="651">皇城明月</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-213" length="1" offset="709">
+        <text>我</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-219" length="4" offset="1146">皇城明月</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-225" length="1" offset="1268">
+        <text>你</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-249" length="5" offset="1078">好象懂一点</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-357" length="3" offset="1280">
+        <text>你父母</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-249" length="5" offset="1078">好象懂一点</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-393" length="2" offset="1750">
+        <text>朝鲜</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-339" length="6" offset="1682">想封我，白扯</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-429" length="2" offset="1771">
+        <text>中国</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-345" length="3" offset="1616">浪飞起</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

@@ -1,0 +1,756 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="NYT_ENG_20101101.0133">
+  <document DOCID="NYT_ENG_20101101.0133">
+
+    <entity ID="NYT_ENG_20101101.0133-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E0-M2">
+          <extent>
+              <charseq START="61" END="63">DOW</charseq>
+          </extent>
+          <head>
+              <charseq START="61" END="63">DOW</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E0-M101">
+          <extent>
+              <charseq START="92" END="103">Dow Chemical</charseq>
+          </extent>
+          <head>
+              <charseq START="92" END="103">Dow Chemical</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E0-M300">
+          <extent>
+              <charseq START="198" END="223">Midland - Dow Chemical Co.</charseq>
+          </extent>
+          <head>
+              <charseq START="198" END="223">Midland - Dow Chemical Co.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E0-M612">
+          <extent>
+              <charseq START="899" END="918">the
+chemical company</charseq>
+          </extent>
+          <head>
+              <charseq START="912" END="918">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E0-M700">
+          <extent>
+              <charseq START="939" END="941">Dow</charseq>
+          </extent>
+          <head>
+              <charseq START="939" END="941">Dow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101101.0133-E0-M702">
+          <extent>
+              <charseq START="955" END="957">its</charseq>
+          </extent>
+          <head>
+              <charseq START="955" END="957">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E0-M1101">
+          <extent>
+              <charseq START="1281" END="1283">Dow</charseq>
+          </extent>
+          <head>
+              <charseq START="1281" END="1283">Dow</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E0-M1302">
+          <extent>
+              <charseq START="1542" END="1552">the company</charseq>
+          </extent>
+          <head>
+              <charseq START="1546" END="1552">company</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E0-M1500">
+          <extent>
+              <charseq START="1797" END="1804">The firm</charseq>
+          </extent>
+          <head>
+              <charseq START="1801" END="1804">firm</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101101.0133-E0-M1605">
+          <extent>
+              <charseq START="2046" END="2048">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2046" END="2048">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E0-M1900">
+          <extent>
+              <charseq START="2306" END="2308">Dow</charseq>
+          </extent>
+          <head>
+              <charseq START="2306" END="2308">Dow</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="DOW">
+              <charseq START="61" END="63">DOW</charseq>
+          </name>
+          <name NAME="Dow Chemical">
+              <charseq START="92" END="103">Dow Chemical</charseq>
+          </name>
+          <name NAME="Midland - Dow Chemical Co.">
+              <charseq START="198" END="223">Midland - Dow Chemical Co.</charseq>
+          </name>
+          <name NAME="Dow">
+              <charseq START="939" END="941">Dow</charseq>
+          </name>
+          <name NAME="Dow">
+              <charseq START="1281" END="1283">Dow</charseq>
+          </name>
+          <name NAME="Dow">
+              <charseq START="2306" END="2308">Dow</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E1-M200">
+          <extent>
+              <charseq START="154" END="164">Jaclyn Trop</charseq>
+          </extent>
+          <head>
+              <charseq START="154" END="164">Jaclyn Trop</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jaclyn Trop">
+              <charseq START="154" END="164">Jaclyn Trop</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E2-M201">
+          <extent>
+              <charseq START="172" END="187">The Detroit News</charseq>
+          </extent>
+          <head>
+              <charseq START="176" END="187">Detroit News</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Detroit News">
+              <charseq START="176" END="187">Detroit News</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E3-M304" ROLE="LOC">
+          <extent>
+              <charseq START="286" END="291">Kuwait</charseq>
+          </extent>
+          <head>
+              <charseq START="286" END="291">Kuwait</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kuwait">
+              <charseq START="286" END="291">Kuwait</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E4-M305">
+          <extent>
+              <charseq START="296" END="330">a stronger, more innovative
+company</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="330">company</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E5-M306">
+          <extent>
+              <charseq START="333" END="351">corporate officials</charseq>
+          </extent>
+          <head>
+              <charseq START="343" END="351">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E6-M402" ROLE="LOC">
+          <extent>
+              <charseq START="402" END="418">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="406" END="418">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United States">
+              <charseq START="406" END="418">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E7-M420">
+          <extent>
+              <charseq START="610" END="639">Chief Executive Andrew
+Liveris</charseq>
+          </extent>
+          <head>
+              <charseq START="626" END="639">Andrew
+Liveris</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E7-M422">
+          <extent>
+              <charseq START="616" END="624">Executive</charseq>
+          </extent>
+          <head>
+              <charseq START="616" END="624">Executive</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E7-M506">
+          <extent>
+              <charseq START="760" END="766">Liveris</charseq>
+          </extent>
+          <head>
+              <charseq START="760" END="766">Liveris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Andrew
+Liveris">
+              <charseq START="626" END="639">Andrew
+Liveris</charseq>
+          </name>
+          <name NAME="Liveris">
+              <charseq START="760" END="766">Liveris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E9" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E9-M604" ROLE="GPE">
+          <extent>
+              <charseq START="803" END="822">national governments</charseq>
+          </extent>
+          <head>
+              <charseq START="812" END="822">governments</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E10-M707">
+          <extent>
+              <charseq START="1004" END="1016">Mike Gambrell</charseq>
+          </extent>
+          <head>
+              <charseq START="1004" END="1016">Mike Gambrell</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E10-M708">
+          <extent>
+              <charseq START="1019" END="1075">executive vice president of manufacturing and
+engineering</charseq>
+          </extent>
+          <head>
+              <charseq START="1034" END="1042">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E10-M802">
+          <extent>
+              <charseq START="1125" END="1132">Gambrell</charseq>
+          </extent>
+          <head>
+              <charseq START="1125" END="1132">Gambrell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mike Gambrell">
+              <charseq START="1004" END="1016">Mike Gambrell</charseq>
+          </name>
+          <name NAME="Gambrell">
+              <charseq START="1125" END="1132">Gambrell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E11-M903">
+          <extent>
+              <charseq START="1179" END="1191">our customers</charseq>
+          </extent>
+          <head>
+              <charseq START="1183" END="1191">customers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E12-M1100">
+          <extent>
+              <charseq START="1281" END="1306">Dow&apos;s performance division</charseq>
+          </extent>
+          <head>
+              <charseq START="1299" END="1306">division</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E12-M1207">
+          <extent>
+              <charseq START="1447" END="1458">the
+division</charseq>
+          </extent>
+          <head>
+              <charseq START="1451" END="1458">division</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E12-M1604">
+          <extent>
+              <charseq START="2046" END="2067">its
+Dow Solar division</charseq>
+          </extent>
+          <head>
+              <charseq START="2060" END="2067">division</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101101.0133-E12-M1608">
+          <extent>
+              <charseq START="2076" END="2078">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2076" END="2078">its</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E13-M1204">
+          <extent>
+              <charseq START="1430" END="1444">Ganesh Kailasam</charseq>
+          </extent>
+          <head>
+              <charseq START="1430" END="1444">Ganesh Kailasam</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E13-M1205">
+          <extent>
+              <charseq START="1447" END="1503">the
+division&apos;s vice president of research and development</charseq>
+          </extent>
+          <head>
+              <charseq START="1467" END="1475">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ganesh Kailasam">
+              <charseq START="1430" END="1444">Ganesh Kailasam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E14-M1501">
+          <extent>
+              <charseq START="1822" END="1859">analysts expected in the third-quarter</charseq>
+          </extent>
+          <head>
+              <charseq START="1822" END="1829">analysts</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E15-M1606">
+          <extent>
+              <charseq START="2050" END="2058">Dow Solar</charseq>
+          </extent>
+          <head>
+              <charseq START="2050" END="2058">Dow Solar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E15-M1809">
+          <extent>
+              <charseq START="2265" END="2273">Dow Solar</charseq>
+          </extent>
+          <head>
+              <charseq START="2265" END="2273">Dow Solar</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dow Solar">
+              <charseq START="2050" END="2058">Dow Solar</charseq>
+          </name>
+          <name NAME="Dow Solar">
+              <charseq START="2265" END="2273">Dow Solar</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E16" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E16-M1702">
+          <extent>
+              <charseq START="2136" END="2146">a household</charseq>
+          </extent>
+          <head>
+              <charseq START="2138" END="2146">household</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E17-M1808">
+          <extent>
+              <charseq START="2265" END="2303">Dow Solar general manager Jane
+Palmieri</charseq>
+          </extent>
+          <head>
+              <charseq START="2291" END="2303">Jane
+Palmieri</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E17-M1810">
+          <extent>
+              <charseq START="2283" END="2289">manager</charseq>
+          </extent>
+          <head>
+              <charseq START="2283" END="2289">manager</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101101.0133-E17-M1908">
+          <extent>
+              <charseq START="2390" END="2392">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2390" END="2392">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jane
+Palmieri">
+              <charseq START="2291" END="2303">Jane
+Palmieri</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E18" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E18-M1800">
+          <extent>
+              <charseq START="2180" END="2199">Residential rooftops</charseq>
+          </extent>
+          <head>
+              <charseq START="2192" END="2199">rooftops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="NYT_ENG_20101101.0133-E19-M1905">
+          <extent>
+              <charseq START="2365" END="2374">homeowners</charseq>
+          </extent>
+          <head>
+              <charseq START="2365" END="2374">homeowners</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="NYT_ENG_20101101.0133-E19-M1906">
+          <extent>
+              <charseq START="2384" END="2387">them</charseq>
+          </extent>
+          <head>
+              <charseq START="2384" END="2387">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="NYT_ENG_20101101.0133-E20" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="NYT_ENG_20101101.0133-E20-M2000">
+          <extent>
+              <charseq START="2409" END="2424">jtropdetnews.com</charseq>
+          </extent>
+          <head>
+              <charseq START="2409" END="2424">jtropdetnews.com</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="jtropdetnews.com">
+              <charseq START="2409" END="2424">jtropdetnews.com</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T0" VAL="2010-11-01">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T0-M1">
+            <extent>
+              <charseq START="358" END="363">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20101101.0133-V1" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20101101.0133-V1-M1">
+            <extent>
+              <charseq START="473" END="491">billions of dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T2" VAL="FUTURE_REF" ANCHOR_VAL="2010-11-01" ANCHOR_DIR="AFTER">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T2-M1">
+            <extent>
+              <charseq START="541" END="550">the future</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T3" VAL="2011">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T3-M1">
+            <extent>
+              <charseq START="595" END="598">2011</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T4" VAL="2012">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T4-M1">
+            <extent>
+              <charseq START="604" END="607">2012</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T5" VAL="2010-11-01">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T5-M1">
+            <extent>
+              <charseq START="651" END="656">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T6" VAL="PRESENT_REF" ANCHOR_VAL="2010-11-01" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T6-M1">
+            <extent>
+              <charseq START="1141" END="1143">Now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T7" VAL="2010">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T7-M1">
+            <extent>
+              <charseq START="1344" END="1352">this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T8" VAL="2009">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T8-M1">
+            <extent>
+              <charseq START="1377" END="1380">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20101101.0133-V9" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20101101.0133-V9-M1">
+            <extent>
+              <charseq START="1577" END="1586">21
+percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T10" VAL="2010-08" MOD="START">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T10-M1">
+            <extent>
+              <charseq START="1594" END="1605">early August</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20101101.0133-V11" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20101101.0133-V11-M1">
+            <extent>
+              <charseq START="1674" END="1683">10 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="NYT_ENG_20101101.0133-V12" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20101101.0133-V12-M1">
+            <extent>
+              <charseq START="1737" END="1742">$25.50</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T13" VAL="2010-08-03">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T13-M1">
+            <extent>
+              <charseq START="1755" END="1760">Aug. 3</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T14" VAL="2010-11-01">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T14-M1">
+            <extent>
+              <charseq START="1770" END="1775">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20101101.0133-V15" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="NYT_ENG_20101101.0133-V15-M1">
+            <extent>
+              <charseq START="1780" END="1785">$30.87</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T16">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T16-M1">
+            <extent>
+              <charseq START="1847" END="1859">third-quarter</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20101101.0133-V17" TYPE="Numeric" SUBTYPE="Percent">
+        <value_mention ID="NYT_ENG_20101101.0133-V17-M1">
+            <extent>
+              <charseq START="1880" END="1888">7 percent</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="NYT_ENG_20101101.0133-T18" VAL="2010-W44">
+        <timex2_mention ID="NYT_ENG_20101101.0133-T18-M1">
+            <extent>
+              <charseq START="1967" END="1975">last week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="NYT_ENG_20101101.0133-V19" TYPE="Contact-Info" SUBTYPE="URL">
+        <value_mention ID="NYT_ENG_20101101.0133-V19-M1">
+            <extent>
+              <charseq START="2409" END="2424">jtropdetnews.com</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <relation ID="NYT_ENG_20101101.0133-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101101.0133-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101101.0133-E2" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101101.0133-R0-M200">
+          <extent>
+              <charseq START="154" END="164">Jaclyn Trop</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E1-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="154" END="164">Jaclyn Trop</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E2-M201" ROLE="Arg-2">
+            <extent>
+              <charseq START="172" END="187">The Detroit News</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101101.0133-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101101.0133-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101101.0133-E0" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101101.0133-R2-M1100">
+          <extent>
+              <charseq START="1281" END="1306">Dow&apos;s performance division</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E12-M1100" ROLE="Arg-1">
+            <extent>
+              <charseq START="1281" END="1306">Dow&apos;s performance division</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E0-M1101" ROLE="Arg-2">
+            <extent>
+              <charseq START="1281" END="1283">Dow</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="NYT_ENG_20101101.0133-R2-M1600">
+          <extent>
+              <charseq START="2046" END="2067">its
+Dow Solar division</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E12-M1604" ROLE="Arg-1">
+            <extent>
+              <charseq START="2046" END="2067">its
+Dow Solar division</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E0-M1605" ROLE="Arg-2">
+            <extent>
+              <charseq START="2046" END="2048">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101101.0133-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101101.0133-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101101.0133-E12" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101101.0133-R3-M1200">
+          <extent>
+              <charseq START="1447" END="1503">the
+division&apos;s vice president of research and development</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E13-M1205" ROLE="Arg-1">
+            <extent>
+              <charseq START="1447" END="1503">the
+division&apos;s vice president of research and development</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E12-M1207" ROLE="Arg-2">
+            <extent>
+              <charseq START="1447" END="1458">the
+division</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="NYT_ENG_20101101.0133-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="NYT_ENG_20101101.0133-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="NYT_ENG_20101101.0133-E15" ROLE="Arg-2"/>
+        <relation_mention ID="NYT_ENG_20101101.0133-R4-M1800">
+          <extent>
+              <charseq START="2283" END="2289">manager</charseq>
+          </extent>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E17-M1810" ROLE="Arg-1">
+            <extent>
+              <charseq START="2283" END="2289">manager</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="NYT_ENG_20101101.0133-E15-M1809" ROLE="Arg-2">
+            <extent>
+              <charseq START="2265" END="2273">Dow Solar</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

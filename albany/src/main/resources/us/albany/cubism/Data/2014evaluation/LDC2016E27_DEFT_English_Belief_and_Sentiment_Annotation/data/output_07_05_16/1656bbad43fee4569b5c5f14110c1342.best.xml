@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="1656bbad43fee4569b5c5f14110c1342.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-553" length="4" offset="591">
+        <text>them</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-81" length="8" offset="14">nheather</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-345" length="8" offset="955">
+        <text>UK roads</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-135" length="10" offset="699">FZR400RRSP</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-541" length="9" offset="1333">
+        <text>motorways</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-135" length="10" offset="699">FZR400RRSP</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-291" length="2" offset="1462">
+        <text>R2</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-135" length="10" offset="699">FZR400RRSP</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-309" length="2" offset="1509">
+        <text>UK</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-135" length="10" offset="699">FZR400RRSP</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-255" length="9" offset="2926">
+        <text>my cousin</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-237" length="1" offset="2891">i</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

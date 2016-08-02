@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="1656bbad43fee4569b5c5f14110c1342.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-523" length="6" offset="68">
+        <text>anyone</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-81" length="8" offset="14">nheather</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-333" length="30" offset="154">
+        <text>Every road I have travelled on</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-81" length="8" offset="14">nheather</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-285" length="8" offset="1046">
+        <text>Councils</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-135" length="10" offset="699">FZR400RRSP</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

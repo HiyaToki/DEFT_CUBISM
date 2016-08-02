@@ -1,0 +1,931 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20090602.0170">
+  <document DOCID="AFP_ENG_20090602.0170">
+
+    <entity ID="AFP_ENG_20090602.0170-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M0">
+          <extent>
+              <charseq START="58" END="62">China</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M400">
+          <extent>
+              <charseq START="173" END="177">China</charseq>
+          </extent>
+          <head>
+              <charseq START="173" END="177">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M518" ROLE="LOC">
+          <extent>
+              <charseq START="549" END="553">China</charseq>
+          </extent>
+          <head>
+              <charseq START="549" END="553">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M601" ROLE="GPE">
+          <extent>
+              <charseq START="615" END="621">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="615" END="621">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E0-M600" ROLE="ORG">
+          <extent>
+              <charseq START="611" END="632">The Chinese government</charseq>
+          </extent>
+          <head>
+              <charseq START="623" END="632">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M708" ROLE="GPE">
+          <extent>
+              <charseq START="796" END="802">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="796" END="802">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M804" ROLE="GPE">
+          <extent>
+              <charseq START="958" END="964">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="958" END="964">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M809">
+          <extent>
+              <charseq START="1036" END="1040">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1036" END="1040">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M921">
+          <extent>
+              <charseq START="1272" END="1276">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1272" END="1276">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M1003">
+          <extent>
+              <charseq START="1333" END="1337">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1333" END="1337">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M1103">
+          <extent>
+              <charseq START="1361" END="1365">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1361" END="1365">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M1203">
+          <extent>
+              <charseq START="1590" END="1601">China (FCCC)</charseq>
+          </extent>
+          <head>
+              <charseq START="1590" END="1594">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E0-M1301">
+          <extent>
+              <charseq START="1757" END="1767">The country</charseq>
+          </extent>
+          <head>
+              <charseq START="1761" END="1767">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E0-M1407" ROLE="LOC">
+          <extent>
+              <charseq START="2053" END="2057">China</charseq>
+          </extent>
+          <head>
+              <charseq START="2053" END="2057">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="58" END="62">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="173" END="177">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="549" END="553">China</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="615" END="621">Chinese</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="796" END="802">Chinese</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="958" END="964">Chinese</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1036" END="1040">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1272" END="1276">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1333" END="1337">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1361" END="1365">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1590" END="1594">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="2053" END="2057">China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E1-M2" ROLE="LOC">
+          <extent>
+              <charseq START="73" END="79">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="79">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E1-M405" ROLE="LOC">
+          <extent>
+              <charseq START="197" END="203">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="197" END="203">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E1-M508" ROLE="LOC">
+          <extent>
+              <charseq START="479" END="485">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="479" END="485">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E1-M914">
+          <extent>
+              <charseq START="1211" END="1217">Twitter</charseq>
+          </extent>
+          <head>
+              <charseq START="1211" END="1217">Twitter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Twitter">
+              <charseq START="73" END="79">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="197" END="203">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="479" END="485">Twitter</charseq>
+          </name>
+          <name NAME="Twitter">
+              <charseq START="1211" END="1217">Twitter</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E2" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E2-M100">
+          <extent>
+              <charseq START="92" END="94">RSF</charseq>
+          </extent>
+          <head>
+              <charseq START="92" END="94">RSF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E2-M417">
+          <extent>
+              <charseq START="342" END="344">RSF</charseq>
+          </extent>
+          <head>
+              <charseq START="342" END="344">RSF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E2-M608">
+          <extent>
+              <charseq START="711" END="713">RSF</charseq>
+          </extent>
+          <head>
+              <charseq START="711" END="713">RSF</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E2-M800">
+          <extent>
+              <charseq START="925" END="927">RSF</charseq>
+          </extent>
+          <head>
+              <charseq START="925" END="927">RSF</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="RSF">
+              <charseq START="92" END="94">RSF</charseq>
+          </name>
+          <name NAME="RSF">
+              <charseq START="342" END="344">RSF</charseq>
+          </name>
+          <name NAME="RSF">
+              <charseq START="711" END="713">RSF</charseq>
+          </name>
+          <name NAME="RSF">
+              <charseq START="925" END="927">RSF</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E3-M201" ROLE="LOC">
+          <extent>
+              <charseq START="119" END="128">washington</charseq>
+          </extent>
+          <head>
+              <charseq START="119" END="128">washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="washington">
+              <charseq START="119" END="128">washington</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E4-M300">
+          <extent>
+              <charseq START="145" END="147">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="147">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E4-M917">
+          <extent>
+              <charseq START="1234" END="1276">AFP asking about the reported move by China</charseq>
+          </extent>
+          <head>
+              <charseq START="1234" END="1236">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="145" END="147">AFP</charseq>
+          </name>
+          <name NAME="AFP">
+              <charseq START="1234" END="1236">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E5-M406">
+          <extent>
+              <charseq START="206" END="211">Flickr</charseq>
+          </extent>
+          <head>
+              <charseq START="206" END="211">Flickr</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E5-M511">
+          <extent>
+              <charseq START="503" END="508">Flickr</charseq>
+          </extent>
+          <head>
+              <charseq START="503" END="508">Flickr</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Flickr">
+              <charseq START="206" END="211">Flickr</charseq>
+          </name>
+          <name NAME="Flickr">
+              <charseq START="503" END="508">Flickr</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E6-M414">
+          <extent>
+              <charseq START="287" END="302">Tiananmen Square</charseq>
+          </extent>
+          <head>
+              <charseq START="287" END="302">Tiananmen Square</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E6-M607">
+          <extent>
+              <charseq START="692" END="707">Tiananmen Square</charseq>
+          </extent>
+          <head>
+              <charseq START="692" END="707">Tiananmen Square</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E6-M1113">
+          <extent>
+              <charseq START="1517" END="1532">Tiananmen Square</charseq>
+          </extent>
+          <head>
+              <charseq START="1517" END="1532">Tiananmen Square</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E6-M1213">
+          <extent>
+              <charseq START="1684" END="1699">Tiananmen Square</charseq>
+          </extent>
+          <head>
+              <charseq START="1684" END="1699">Tiananmen Square</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E6-M1305">
+          <extent>
+              <charseq START="1824" END="1833">the square</charseq>
+          </extent>
+          <head>
+              <charseq START="1828" END="1833">square</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tiananmen Square">
+              <charseq START="287" END="302">Tiananmen Square</charseq>
+          </name>
+          <name NAME="Tiananmen Square">
+              <charseq START="692" END="707">Tiananmen Square</charseq>
+          </name>
+          <name NAME="Tiananmen Square">
+              <charseq START="1517" END="1532">Tiananmen Square</charseq>
+          </name>
+          <name NAME="Tiananmen Square">
+              <charseq START="1684" END="1699">Tiananmen Square</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E7" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E7-M415">
+          <extent>
+              <charseq START="315" END="345">Reporters
+Without Borders (RSF)</charseq>
+          </extent>
+          <head>
+              <charseq START="315" END="339">Reporters
+Without Borders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E7-M500">
+          <extent>
+              <charseq START="397" END="421">Reporters Without Borders</charseq>
+          </extent>
+          <head>
+              <charseq START="397" END="421">Reporters Without Borders</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E7-M519">
+          <extent>
+              <charseq START="557" END="578">the media rights group</charseq>
+          </extent>
+          <head>
+              <charseq START="574" END="578">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Reporters
+Without Borders">
+              <charseq START="315" END="339">Reporters
+Without Borders</charseq>
+          </name>
+          <name NAME="Reporters Without Borders">
+              <charseq START="397" END="421">Reporters Without Borders</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E8-M509">
+          <extent>
+              <charseq START="488" END="494">YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="488" END="494">YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E8-M1000">
+          <extent>
+              <charseq START="1288" END="1307">Google-owned YouTube</charseq>
+          </extent>
+          <head>
+              <charseq START="1301" END="1307">YouTube</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="YouTube">
+              <charseq START="488" END="494">YouTube</charseq>
+          </name>
+          <name NAME="YouTube">
+              <charseq START="1301" END="1307">YouTube</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E9-M510">
+          <extent>
+              <charseq START="497" END="500">Bing</charseq>
+          </extent>
+          <head>
+              <charseq START="497" END="500">Bing</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E9-M909">
+          <extent>
+              <charseq START="1156" END="1159">Bing</charseq>
+          </extent>
+          <head>
+              <charseq START="1156" END="1159">Bing</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bing">
+              <charseq START="497" END="500">Bing</charseq>
+          </name>
+          <name NAME="Bing">
+              <charseq START="1156" END="1159">Bing</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E10-M517">
+          <extent>
+              <charseq START="538" END="544">Blogger</charseq>
+          </extent>
+          <head>
+              <charseq START="538" END="544">Blogger</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E11-M707">
+          <extent>
+              <charseq START="796" END="811">Chinese
+citizens</charseq>
+          </extent>
+          <head>
+              <charseq START="804" END="811">citizens</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E12-M709">
+          <extent>
+              <charseq START="814" END="828">the authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="818" END="828">authorities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E14-M803">
+          <extent>
+              <charseq START="958" END="979">Chinese Internet users</charseq>
+          </extent>
+          <head>
+              <charseq START="975" END="979">users</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E15" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E15-M903">
+          <extent>
+              <charseq START="1099" END="1107">Microsoft</charseq>
+          </extent>
+          <head>
+              <charseq START="1099" END="1107">Microsoft</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090602.0170-E15-M907">
+          <extent>
+              <charseq START="1134" END="1136">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1134" END="1136">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Microsoft">
+              <charseq START="1099" END="1107">Microsoft</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E16-M910">
+          <extent>
+              <charseq START="1162" END="1167">Yahoo!</charseq>
+          </extent>
+          <head>
+              <charseq START="1162" END="1167">Yahoo!</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Yahoo!">
+              <charseq START="1162" END="1167">Yahoo!</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E17-M1001">
+          <extent>
+              <charseq START="1288" END="1293">Google</charseq>
+          </extent>
+          <head>
+              <charseq START="1288" END="1293">Google</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Google">
+              <charseq START="1288" END="1293">Google</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E18-M1108" ROLE="LOC">
+          <extent>
+              <charseq START="1450" END="1456">Beijing</charseq>
+          </extent>
+          <head>
+              <charseq START="1450" END="1456">Beijing</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Beijing">
+              <charseq START="1450" END="1456">Beijing</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E19-M1102">
+          <extent>
+              <charseq START="1361" END="1390">China&apos;s foreign correspondents</charseq>
+          </extent>
+          <head>
+              <charseq START="1377" END="1390">correspondents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E20-M1107">
+          <extent>
+              <charseq START="1435" END="1445">authorities</charseq>
+          </extent>
+          <head>
+              <charseq START="1435" END="1445">authorities</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E20-M1210">
+          <extent>
+              <charseq START="1650" END="1745">authorities blocking reporting at Tiananmen Square and
+intimidating journalists or their sources</charseq>
+          </extent>
+          <head>
+              <charseq START="1650" END="1660">authorities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E21" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E21-M1200">
+          <extent>
+              <charseq START="1554" END="1601">The Foreign Correspondents' Club of China (FCCC)</charseq>
+          </extent>
+          <head>
+              <charseq START="1558" END="1585">Foreign Correspondents' Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Foreign Correspondents' Club">
+              <charseq START="1558" END="1585">Foreign Correspondents' Club</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E22" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090602.0170-E22-M1205">
+          <extent>
+              <charseq START="1597" END="1600">FCCC</charseq>
+          </extent>
+          <head>
+              <charseq START="1597" END="1600">FCCC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="FCCC">
+              <charseq START="1597" END="1600">FCCC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E23" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E23-M1214">
+          <extent>
+              <charseq START="1705" END="1728">intimidating journalists</charseq>
+          </extent>
+          <head>
+              <charseq START="1718" END="1728">journalists</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090602.0170-E23-M1216">
+          <extent>
+              <charseq START="1733" END="1737">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1733" END="1737">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E24-M1215">
+          <extent>
+              <charseq START="1733" END="1745">their sources</charseq>
+          </extent>
+          <head>
+              <charseq START="1739" END="1745">sources</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E25-M1302">
+          <extent>
+              <charseq START="1797" END="1804">soldiers</charseq>
+          </extent>
+          <head>
+              <charseq START="1797" END="1804">soldiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E26" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E26-M1306">
+          <extent>
+              <charseq START="1839" END="1868">surrounding areas on the night</charseq>
+          </extent>
+          <head>
+              <charseq START="1851" END="1855">areas</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090602.0170-E27" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090602.0170-E27-M1400">
+          <extent>
+              <charseq START="1960" END="1988">Hundreds, possibly thousands,</charseq>
+          </extent>
+          <head>
+              <charseq START="1979" END="1987">thousands</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T0" VAL="2009-06-02">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T0-M1">
+            <extent>
+              <charseq START="131" END="142">June 2, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T1" VAL="2009-06-02">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T1-M1">
+            <extent>
+              <charseq START="232" END="238">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T2" VAL="P2D">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T2-M1">
+            <extent>
+              <charseq START="241" END="295">two days
+ahead of the 20th anniversary of the Tiananmen</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T3" VAL="1989">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T3-M1">
+            <extent>
+              <charseq START="676" END="687">20 years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T4">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T4-M1">
+            <extent>
+              <charseq START="775" END="779">daily</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T5" VAL="2009-06-02">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T5-M1">
+            <extent>
+              <charseq START="1045" END="1051">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T6" VAL="PAST_REF" ANCHOR_VAL="2009-06-02" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T6-M1">
+            <extent>
+              <charseq START="1116" END="1123">recently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T7" VAL="2009-03">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T7-M1">
+            <extent>
+              <charseq START="1345" END="1349">March</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T8" VAL="2009-06-02">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T8-M1">
+            <extent>
+              <charseq START="1408" END="1414">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T9" VAL="1989-06-04TNI">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T9-M1">
+            <extent>
+              <charseq START="1860" END="1886">the night of June 3-4, 1989</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090602.0170-T10" VAL="P7W">
+        <timex2_mention ID="AFP_ENG_20090602.0170-T10-M1">
+            <extent>
+              <charseq START="1896" END="1906">seven weeks</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20090602.0170-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090602.0170-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090602.0170-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090602.0170-R0-M500">
+          <extent>
+              <charseq START="538" END="544">Blogger</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E10-M517" ROLE="Arg-1">
+            <extent>
+              <charseq START="538" END="544">Blogger</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E0-M518" ROLE="Arg-2">
+            <extent>
+              <charseq START="549" END="553">China</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090602.0170-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090602.0170-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090602.0170-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090602.0170-R1-M700">
+          <extent>
+              <charseq START="796" END="811">Chinese
+citizens</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E11-M707" ROLE="Arg-1">
+            <extent>
+              <charseq START="796" END="811">Chinese
+citizens</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E0-M708" ROLE="Arg-2">
+            <extent>
+              <charseq START="796" END="802">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090602.0170-R2" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090602.0170-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090602.0170-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090602.0170-R2-M800">
+          <extent>
+              <charseq START="958" END="979">Chinese Internet users</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E14-M803" ROLE="Arg-1">
+            <extent>
+              <charseq START="958" END="979">Chinese Internet users</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E0-M804" ROLE="Arg-2">
+            <extent>
+              <charseq START="958" END="964">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090602.0170-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090602.0170-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090602.0170-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090602.0170-R3-M1100">
+          <extent>
+              <charseq START="1361" END="1390">China&apos;s foreign correspondents</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E19-M1102" ROLE="Arg-1">
+            <extent>
+              <charseq START="1361" END="1390">China&apos;s foreign correspondents</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E0-M1103" ROLE="Arg-2">
+            <extent>
+              <charseq START="1361" END="1365">China</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090602.0170-R4" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090602.0170-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090602.0170-E18" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090602.0170-R4-M1101">
+          <extent>
+              <charseq START="1435" END="1445">authorities</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E20-M1107" ROLE="Arg-1">
+            <extent>
+              <charseq START="1435" END="1445">authorities</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E18-M1108" ROLE="Arg-2">
+            <extent>
+              <charseq START="1450" END="1456">Beijing</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090602.0170-R5" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090602.0170-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090602.0170-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090602.0170-R5-M1200">
+          <extent>
+              <charseq START="1554" END="1601">The Foreign Correspondents' Club of China (FCCC)</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E21-M1200" ROLE="Arg-1">
+            <extent>
+              <charseq START="1554" END="1601">The Foreign Correspondents' Club of China (FCCC)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090602.0170-E0-M1203" ROLE="Arg-2">
+            <extent>
+              <charseq START="1590" END="1601">China (FCCC)</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

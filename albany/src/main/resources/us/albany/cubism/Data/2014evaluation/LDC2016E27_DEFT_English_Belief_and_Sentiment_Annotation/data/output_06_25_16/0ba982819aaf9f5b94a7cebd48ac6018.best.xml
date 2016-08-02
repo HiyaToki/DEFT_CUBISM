@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="0ba982819aaf9f5b94a7cebd48ac6018.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-90" length="2" offset="670">
+        <text>He</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-480" length="10" offset="657">WillowTree</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-570" length="7" offset="1066">
+        <text>America</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-450" length="8" offset="592">hortysir</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-126" length="3" offset="1167">
+        <text>Jeb</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-450" length="8" offset="592">hortysir</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-570" length="7" offset="1066">
+        <text>America</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-456" length="8" offset="1445">hortysir</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-126" length="3" offset="1167">
+        <text>Jeb</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-456" length="8" offset="1445">hortysir</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-570" length="7" offset="1066">
+        <text>America</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-462" length="8" offset="2247">hortysir</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-126" length="3" offset="1167">
+        <text>Jeb</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-462" length="8" offset="2247">hortysir</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1201" length="3" offset="3751">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-318" length="11" offset="3629">Synthaholic</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-174" length="3" offset="3933">
+        <text>Jeb</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-318" length="11" offset="3629">Synthaholic</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1324" length="14" offset="4388">
+        <text>most Americans</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-354" length="7" offset="3559">Lumpy 1</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

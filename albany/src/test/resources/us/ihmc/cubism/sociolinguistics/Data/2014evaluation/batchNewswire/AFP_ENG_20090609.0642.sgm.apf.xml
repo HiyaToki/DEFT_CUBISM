@@ -1,0 +1,919 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20090609.0642">
+  <document DOCID="AFP_ENG_20090609.0642">
+
+    <entity ID="AFP_ENG_20090609.0642-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="67">Australian</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="67">Australian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E0-M309">
+          <extent>
+              <charseq START="257" END="265">Australia</charseq>
+          </extent>
+          <head>
+              <charseq START="257" END="265">Australia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Australian">
+              <charseq START="58" END="67">Australian</charseq>
+          </name>
+          <name NAME="Australia">
+              <charseq START="257" END="265">Australia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E1-M6">
+          <extent>
+              <charseq START="101" END="106">Ramsay</charseq>
+          </extent>
+          <head>
+              <charseq START="101" END="106">Ramsay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E1-M300">
+          <extent>
+              <charseq START="186" END="213">Celebrity chef Gordon Ramsay</charseq>
+          </extent>
+          <head>
+              <charseq START="201" END="213">Gordon Ramsay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E1-M302">
+          <extent>
+              <charseq START="196" END="199">chef</charseq>
+          </extent>
+          <head>
+              <charseq START="196" END="199">chef</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E1-M308">
+          <extent>
+              <charseq START="257" END="289">Australia&apos;s deputy prime minister</charseq>
+          </extent>
+          <head>
+              <charseq START="282" END="289">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E1-M316">
+          <extent>
+              <charseq START="333" END="353">a
+female TV presenter</charseq>
+          </extent>
+          <head>
+              <charseq START="345" END="353">presenter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E1-M318">
+          <extent>
+              <charseq START="359" END="367">a lesbian</charseq>
+          </extent>
+          <head>
+              <charseq START="361" END="367">lesbian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E1-M304">
+          <extent>
+              <charseq START="224" END="225">he</charseq>
+          </extent>
+          <head>
+              <charseq START="224" END="225">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E1-M314">
+          <extent>
+              <charseq START="320" END="321">he</charseq>
+          </extent>
+          <head>
+              <charseq START="320" END="321">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E1-M416">
+          <extent>
+              <charseq START="535" END="537">him</charseq>
+          </extent>
+          <head>
+              <charseq START="535" END="537">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E1-M505">
+          <extent>
+              <charseq START="585" END="590">Ramsay</charseq>
+          </extent>
+          <head>
+              <charseq START="585" END="590">Ramsay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E1-M600">
+          <extent>
+              <charseq START="683" END="781">He also showed a picture of a woman apparently naked on all fours with the face
+of a pig and said &quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="683" END="684">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E1-M701">
+          <extent>
+              <charseq START="806" END="808">His</charseq>
+          </extent>
+          <head>
+              <charseq START="806" END="808">His</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E1-M805">
+          <extent>
+              <charseq START="968" END="973">Ramsay</charseq>
+          </extent>
+          <head>
+              <charseq START="968" END="973">Ramsay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E1-M904">
+          <extent>
+              <charseq START="1064" END="1076">Gordon Ramsay</charseq>
+          </extent>
+          <head>
+              <charseq START="1064" END="1076">Gordon Ramsay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E1-M905">
+          <extent>
+              <charseq START="1081" END="1091">a good chef</charseq>
+          </extent>
+          <head>
+              <charseq START="1088" END="1091">chef</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E1-M1003">
+          <extent>
+              <charseq START="1140" END="1141">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1140" END="1141">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E1-M1104">
+          <extent>
+              <charseq START="1349" END="1351">him</charseq>
+          </extent>
+          <head>
+              <charseq START="1349" END="1351">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E1-M1207">
+          <extent>
+              <charseq START="1471" END="1476">Ramsay</charseq>
+          </extent>
+          <head>
+              <charseq START="1471" END="1476">Ramsay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E1-M1313">
+          <extent>
+              <charseq START="1706" END="1717">probe Ramsay</charseq>
+          </extent>
+          <head>
+              <charseq START="1712" END="1717">Ramsay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E1-M1314">
+          <extent>
+              <charseq START="1706" END="1710">probe</charseq>
+          </extent>
+          <head>
+              <charseq START="1706" END="1710">probe</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E1-M1317">
+          <extent>
+              <charseq START="1753" END="1754">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1753" END="1754">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E1-M1404">
+          <extent>
+              <charseq START="1844" END="1849">Ramsay</charseq>
+          </extent>
+          <head>
+              <charseq START="1844" END="1849">Ramsay</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E1-M1600">
+          <extent>
+              <charseq START="2081" END="2086">Gordon</charseq>
+          </extent>
+          <head>
+              <charseq START="2081" END="2086">Gordon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E1-M1604">
+          <extent>
+              <charseq START="2127" END="2129">him</charseq>
+          </extent>
+          <head>
+              <charseq START="2127" END="2129">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ramsay">
+              <charseq START="101" END="106">Ramsay</charseq>
+          </name>
+          <name NAME="Gordon Ramsay">
+              <charseq START="201" END="213">Gordon Ramsay</charseq>
+          </name>
+          <name NAME="Ramsay">
+              <charseq START="585" END="590">Ramsay</charseq>
+          </name>
+          <name NAME="Ramsay">
+              <charseq START="968" END="973">Ramsay</charseq>
+          </name>
+          <name NAME="Gordon Ramsay">
+              <charseq START="1064" END="1076">Gordon Ramsay</charseq>
+          </name>
+          <name NAME="Ramsay">
+              <charseq START="1471" END="1476">Ramsay</charseq>
+          </name>
+          <name NAME="Ramsay">
+              <charseq START="1712" END="1717">Ramsay</charseq>
+          </name>
+          <name NAME="Ramsay">
+              <charseq START="1844" END="1849">Ramsay</charseq>
+          </name>
+          <name NAME="Gordon">
+              <charseq START="2081" END="2086">Gordon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="136" END="141">Sydney</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="141">Sydney</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sydney">
+              <charseq START="136" END="141">Sydney</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E3-M200">
+          <extent>
+              <charseq START="158" END="160">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="158" END="160">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="158" END="160">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E4" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E4-M402" ROLE="GPE">
+          <extent>
+              <charseq START="383" END="389">British</charseq>
+          </extent>
+          <head>
+              <charseq START="383" END="389">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="383" END="389">British</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E5-M403">
+          <extent>
+              <charseq START="405" END="502">Nine Network&apos;s &quot;A Current Affair&quot; presenter Tracy
+Grimshaw at a Melbourne cooking expo on Saturday</charseq>
+          </extent>
+          <head>
+              <charseq START="449" END="462">Tracy
+Grimshaw</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E5-M404">
+          <extent>
+              <charseq START="405" END="462">Nine Network&apos;s &quot;A Current Affair&quot; presenter Tracy
+Grimshaw</charseq>
+          </extent>
+          <head>
+              <charseq START="439" END="447">presenter</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M414">
+          <extent>
+              <charseq START="519" END="521">she</charseq>
+          </extent>
+          <head>
+              <charseq START="519" END="521">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E5-M506">
+          <extent>
+              <charseq START="602" END="609">Grimshaw</charseq>
+          </extent>
+          <head>
+              <charseq START="602" END="609">Grimshaw</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E5-M507">
+          <extent>
+              <charseq START="615" END="623">a lesbian</charseq>
+          </extent>
+          <head>
+              <charseq START="617" END="623">lesbian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E5-M612">
+          <extent>
+              <charseq START="786" END="804">&apos;s Tracy Grimshaw.&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="789" END="802">Tracy Grimshaw</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E5-M606">
+          <extent>
+              <charseq START="711" END="747">a woman apparently naked on all fours</charseq>
+          </extent>
+          <head>
+              <charseq START="713" END="717">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E5-M1100">
+          <extent>
+              <charseq START="1283" END="1290">Grimshaw</charseq>
+          </extent>
+          <head>
+              <charseq START="1283" END="1290">Grimshaw</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E5-M1101">
+          <extent>
+              <charseq START="1309" END="1336">the &quot;Hell&apos;s Kitchen&quot; supremo</charseq>
+          </extent>
+          <head>
+              <charseq START="1330" END="1336">supremo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1109">
+          <extent>
+              <charseq START="1381" END="1383">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1381" END="1383">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E5-M1214">
+          <extent>
+              <charseq START="1539" END="1548">her mother</charseq>
+          </extent>
+          <head>
+              <charseq START="1543" END="1548">mother</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1200">
+          <extent>
+              <charseq START="1432" END="1434">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1432" END="1434">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1212">
+          <extent>
+              <charseq START="1505" END="1507">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1505" END="1507">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1215">
+          <extent>
+              <charseq START="1539" END="1541">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1539" END="1541">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1309">
+          <extent>
+              <charseq START="1662" END="1664">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1662" END="1664">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1311">
+          <extent>
+              <charseq START="1684" END="1686">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1684" END="1686">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E5-M1400">
+          <extent>
+              <charseq START="1787" END="1794">Grimshaw</charseq>
+          </extent>
+          <head>
+              <charseq START="1787" END="1794">Grimshaw</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1401">
+          <extent>
+              <charseq START="1801" END="1803">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1801" END="1803">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1405">
+          <extent>
+              <charseq START="1874" END="1876">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1874" END="1876">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1515">
+          <extent>
+              <charseq START="2051" END="2053">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2051" END="2053">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E5-M1601">
+          <extent>
+              <charseq START="2100" END="2140">any woman who doesn&apos;t find him attractive</charseq>
+          </extent>
+          <head>
+              <charseq START="2104" END="2108">woman</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1603">
+          <extent>
+              <charseq START="2110" END="2112">who</charseq>
+          </extent>
+          <head>
+              <charseq START="2110" END="2112">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E5-M1607">
+          <extent>
+              <charseq START="2156" END="2158">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2156" END="2158">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tracy
+Grimshaw">
+              <charseq START="449" END="462">Tracy
+Grimshaw</charseq>
+          </name>
+          <name NAME="Grimshaw">
+              <charseq START="602" END="609">Grimshaw</charseq>
+          </name>
+          <name NAME="Tracy Grimshaw">
+              <charseq START="789" END="802">Tracy Grimshaw</charseq>
+          </name>
+          <name NAME="Grimshaw">
+              <charseq START="1283" END="1290">Grimshaw</charseq>
+          </name>
+          <name NAME="Grimshaw">
+              <charseq START="1787" END="1794">Grimshaw</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E6" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E6-M405">
+          <extent>
+              <charseq START="405" END="416">Nine Network</charseq>
+          </extent>
+          <head>
+              <charseq START="405" END="416">Nine Network</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Nine Network">
+              <charseq START="405" END="416">Nine Network</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E7-M410" ROLE="GPE">
+          <extent>
+              <charseq START="469" END="477">Melbourne</charseq>
+          </extent>
+          <head>
+              <charseq START="469" END="477">Melbourne</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Melbourne">
+              <charseq START="469" END="477">Melbourne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E8-M509">
+          <extent>
+              <charseq START="644" END="655">Simon Cowell</charseq>
+          </extent>
+          <head>
+              <charseq START="644" END="655">Simon Cowell</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Simon Cowell">
+              <charseq START="644" END="655">Simon Cowell</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E9-M504">
+          <extent>
+              <charseq START="574" END="582">onlookers</charseq>
+          </extent>
+          <head>
+              <charseq START="574" END="582">onlookers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E10-M508">
+          <extent>
+              <charseq START="644" END="670">Simon Cowell&apos;s botox doctor</charseq>
+          </extent>
+          <head>
+              <charseq START="665" END="670">doctor</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E12-M700">
+          <extent>
+              <charseq START="806" END="818">His publicist</charseq>
+          </extent>
+          <head>
+              <charseq START="810" END="818">publicist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E13-M800">
+          <extent>
+              <charseq START="908" END="942">Deputy Prime Minister Julia Gillard</charseq>
+          </extent>
+          <head>
+              <charseq START="930" END="942">Julia Gillard</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E13-M803">
+          <extent>
+              <charseq START="921" END="928">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="921" END="928">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20090609.0642-E13-M906">
+          <extent>
+              <charseq START="1095" END="1101">Gillard</charseq>
+          </extent>
+          <head>
+              <charseq START="1095" END="1101">Gillard</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Julia Gillard">
+              <charseq START="930" END="942">Julia Gillard</charseq>
+          </name>
+          <name NAME="Gillard">
+              <charseq START="1095" END="1101">Gillard</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E15" TYPE="FAC" SUBTYPE="Subarea-Facility" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E15-M1009">
+          <extent>
+              <charseq START="1175" END="1185">the kitchen</charseq>
+          </extent>
+          <head>
+              <charseq START="1179" END="1185">kitchen</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E16-M1011">
+          <extent>
+              <charseq START="1212" END="1217">people</charseq>
+          </extent>
+          <head>
+              <charseq START="1212" END="1217">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E17-M1014">
+          <extent>
+              <charseq START="1265" END="1270">others</charseq>
+          </extent>
+          <head>
+              <charseq START="1265" END="1270">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E18-M1106">
+          <extent>
+              <charseq START="1353" END="1375">an
+&quot;arrogant narcissist</charseq>
+          </extent>
+          <head>
+              <charseq START="1366" END="1375">narcissist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E18-M1512">
+          <extent>
+              <charseq START="2029" END="2038">narcissist</charseq>
+          </extent>
+          <head>
+              <charseq START="2029" END="2038">narcissist</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E19" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E19-M1211">
+          <extent>
+              <charseq START="1505" END="1515">her
+friends</charseq>
+          </extent>
+          <head>
+              <charseq START="1509" END="1515">friends</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E20" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E20-M1213">
+          <extent>
+              <charseq START="1521" END="1526">family</charseq>
+          </extent>
+          <head>
+              <charseq START="1521" END="1526">family</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E21-M1304">
+          <extent>
+              <charseq START="1581" END="1591">many people</charseq>
+          </extent>
+          <head>
+              <charseq START="1586" END="1591">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E21-M1305">
+          <extent>
+              <charseq START="1608" END="1611">they</charseq>
+          </extent>
+          <head>
+              <charseq START="1608" END="1611">they</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E22-M1503">
+          <extent>
+              <charseq START="1934" END="1940">bullies</charseq>
+          </extent>
+          <head>
+              <charseq START="1934" END="1940">bullies</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E22-M1506">
+          <extent>
+              <charseq START="1967" END="1970">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1967" END="1970">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20090609.0642-E23-M1505">
+          <extent>
+              <charseq START="1954" END="1959">no one</charseq>
+          </extent>
+          <head>
+              <charseq START="1957" END="1959">one</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20090609.0642-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20090609.0642-E24-M1511">
+          <extent>
+              <charseq START="2015" END="2044">some arrogant narcissist bully</charseq>
+          </extent>
+          <head>
+              <charseq START="2040" END="2044">bully</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20090609.0642-T0" VAL="2009-06-09">
+        <timex2_mention ID="AFP_ENG_20090609.0642-T0-M1">
+            <extent>
+              <charseq START="144" END="155">June 9, 2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090609.0642-T1" VAL="2009-06-09">
+        <timex2_mention ID="AFP_ENG_20090609.0642-T1-M1">
+            <extent>
+              <charseq START="291" END="297">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090609.0642-T2" VAL="2009-06-06">
+        <timex2_mention ID="AFP_ENG_20090609.0642-T2-M1">
+            <extent>
+              <charseq START="495" END="502">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090609.0642-T3" VAL="2009-06-09" MOD="AFTER">
+        <timex2_mention ID="AFP_ENG_20090609.0642-T3-M1">
+            <extent>
+              <charseq START="505" END="521">the day after she</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090609.0642-T4" VAL="PRESENT_REF" ANCHOR_VAL="2009-06-09" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="AFP_ENG_20090609.0642-T4-M1">
+            <extent>
+              <charseq START="1385" END="1391">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20090609.0642-T5" VAL="2009-06-08TNI">
+        <timex2_mention ID="AFP_ENG_20090609.0642-T5-M1">
+            <extent>
+              <charseq START="1409" END="1420">Monday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20090609.0642-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090609.0642-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090609.0642-E0" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090609.0642-R0-M300">
+          <extent>
+              <charseq START="257" END="289">Australia&apos;s deputy prime minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E1-M308" ROLE="Arg-1">
+            <extent>
+              <charseq START="257" END="289">Australia&apos;s deputy prime minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E0-M309" ROLE="Arg-2">
+            <extent>
+              <charseq START="257" END="265">Australia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090609.0642-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090609.0642-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090609.0642-E6" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090609.0642-R1-M400">
+          <extent>
+              <charseq START="405" END="462">Nine Network&apos;s &quot;A Current Affair&quot; presenter Tracy
+Grimshaw</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E5-M404" ROLE="Arg-1">
+            <extent>
+              <charseq START="405" END="462">Nine Network&apos;s &quot;A Current Affair&quot; presenter Tracy
+Grimshaw</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E6-M405" ROLE="Arg-2">
+            <extent>
+              <charseq START="405" END="416">Nine Network</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090609.0642-R2" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090609.0642-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090609.0642-E10" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090609.0642-R2-M500">
+          <extent>
+              <charseq START="644" END="655">Simon Cowell</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E8-M509" ROLE="Arg-1">
+            <extent>
+              <charseq START="644" END="655">Simon Cowell</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E10-M508" ROLE="Arg-2">
+            <extent>
+              <charseq START="644" END="670">Simon Cowell&apos;s botox doctor</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090609.0642-R3" TYPE="PER-SOC" SUBTYPE="Family" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090609.0642-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090609.0642-E12" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090609.0642-R3-M700">
+          <extent>
+              <charseq START="806" END="808">His</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E1-M701" ROLE="Arg-1">
+            <extent>
+              <charseq START="806" END="808">His</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E12-M700" ROLE="Arg-2">
+            <extent>
+              <charseq START="806" END="818">His publicist</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20090609.0642-R4" TYPE="PER-SOC" SUBTYPE="Lasting-Personal" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20090609.0642-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20090609.0642-E19" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20090609.0642-R4-M1200">
+          <extent>
+              <charseq START="1505" END="1507">her</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E5-M1212" ROLE="Arg-1">
+            <extent>
+              <charseq START="1505" END="1507">her</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20090609.0642-E19-M1211" ROLE="Arg-2">
+            <extent>
+              <charseq START="1505" END="1515">her
+friends</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

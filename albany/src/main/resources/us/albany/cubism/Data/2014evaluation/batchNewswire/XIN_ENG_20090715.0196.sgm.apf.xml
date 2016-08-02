@@ -1,0 +1,385 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20090715.0196">
+  <document DOCID="XIN_ENG_20090715.0196">
+
+    <entity ID="XIN_ENG_20090715.0196-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="64">British</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E0-M507" ROLE="GPE">
+          <extent>
+              <charseq START="577" END="583">Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="577" END="583">Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="58" END="64">British</charseq>
+          </name>
+          <name NAME="Britain">
+              <charseq START="577" END="583">Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E1" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090715.0196-E1-M0">
+          <extent>
+              <charseq START="58" END="111">British postal workers to stage strike in row over pay</charseq>
+          </extent>
+          <head>
+              <charseq START="73" END="79">workers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="136" END="141">LONDON</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="141">LONDON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E2-M405" ROLE="LOC">
+          <extent>
+              <charseq START="425" END="430">London</charseq>
+          </extent>
+          <head>
+              <charseq START="425" END="430">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LONDON">
+              <charseq START="136" END="141">LONDON</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="425" END="430">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E3-M200">
+          <extent>
+              <charseq START="153" END="158">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="153" END="158">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="153" END="158">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E4-M307">
+          <extent>
+              <charseq START="274" END="310">the Communication Workers Union (CWU)</charseq>
+          </extent>
+          <head>
+              <charseq START="278" END="304">Communication Workers Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E4-M310">
+          <extent>
+              <charseq START="307" END="309">CWU</charseq>
+          </extent>
+          <head>
+              <charseq START="307" END="309">CWU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090715.0196-E4-M500">
+          <extent>
+              <charseq START="512" END="584">The union accused the Royal Mail, the national postal service of Britain,</charseq>
+          </extent>
+          <head>
+              <charseq START="516" END="520">union</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E4-M605">
+          <extent>
+              <charseq START="724" END="730">the CWU</charseq>
+          </extent>
+          <head>
+              <charseq START="728" END="730">CWU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E4-M702">
+          <extent>
+              <charseq START="887" END="893">the CWU</charseq>
+          </extent>
+          <head>
+              <charseq START="891" END="893">CWU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Communication Workers Union">
+              <charseq START="278" END="304">Communication Workers Union</charseq>
+          </name>
+          <name NAME="CWU">
+              <charseq START="307" END="309">CWU</charseq>
+          </name>
+          <name NAME="CWU">
+              <charseq START="728" END="730">CWU</charseq>
+          </name>
+          <name NAME="CWU">
+              <charseq START="891" END="893">CWU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090715.0196-E5-M300">
+          <extent>
+              <charseq START="184" END="214">More than 12,000 postal workers</charseq>
+          </extent>
+          <head>
+              <charseq START="208" END="214">workers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E6" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E6-M404" ROLE="LOC">
+          <extent>
+              <charseq START="414" END="422">Edinburgh</charseq>
+          </extent>
+          <head>
+              <charseq START="414" END="422">Edinburgh</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Edinburgh">
+              <charseq START="414" END="422">Edinburgh</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E7-M406" ROLE="LOC">
+          <extent>
+              <charseq START="433" END="439">Bristol</charseq>
+          </extent>
+          <head>
+              <charseq START="433" END="439">Bristol</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Bristol">
+              <charseq START="433" END="439">Bristol</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E8" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E8-M407" ROLE="LOC">
+          <extent>
+              <charseq START="442" END="449">Plymouth</charseq>
+          </extent>
+          <head>
+              <charseq START="442" END="449">Plymouth</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Plymouth">
+              <charseq START="442" END="449">Plymouth</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090715.0196-E9-M401" ROLE="LOC">
+          <extent>
+              <charseq START="368" END="402">cities ranging from north to south,</charseq>
+          </extent>
+          <head>
+              <charseq START="368" END="373">cities</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E10-M503">
+          <extent>
+              <charseq START="530" END="543">the Royal Mail</charseq>
+          </extent>
+          <head>
+              <charseq START="534" END="543">Royal Mail</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090715.0196-E10-M505">
+          <extent>
+              <charseq START="546" END="583">the national postal service of Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="566" END="572">service</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E10-M700">
+          <extent>
+              <charseq START="861" END="874">the Royal Mail</charseq>
+          </extent>
+          <head>
+              <charseq START="865" END="874">Royal Mail</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Royal Mail">
+              <charseq START="534" END="543">Royal Mail</charseq>
+          </name>
+          <name NAME="Royal Mail">
+              <charseq START="865" END="874">Royal Mail</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E11" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090715.0196-E11-M513">
+          <extent>
+              <charseq START="617" END="673">postal workers without agreement and of reducing
+services</charseq>
+          </extent>
+          <head>
+              <charseq START="624" END="630">workers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090715.0196-E12-M601">
+          <extent>
+              <charseq START="685" END="693">Dave Ward</charseq>
+          </extent>
+          <head>
+              <charseq START="685" END="693">Dave Ward</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090715.0196-E12-M602">
+          <extent>
+              <charseq START="696" END="730">deputy general secretary of the CWU</charseq>
+          </extent>
+          <head>
+              <charseq START="711" END="719">secretary</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Dave Ward">
+              <charseq START="685" END="693">Dave Ward</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090715.0196-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090715.0196-E13-M609">
+          <extent>
+              <charseq START="757" END="773">bullying
+managers</charseq>
+          </extent>
+          <head>
+              <charseq START="766" END="773">managers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20090715.0196-T0" VAL="2009-07-14">
+        <timex2_mention ID="XIN_ENG_20090715.0196-T0-M1">
+            <extent>
+              <charseq START="144" END="150">July 14</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090715.0196-T1" VAL="2009-07-17">
+        <timex2_mention ID="XIN_ENG_20090715.0196-T1-M1">
+            <extent>
+              <charseq START="248" END="253">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090715.0196-T2" VAL="2009-07-14">
+        <timex2_mention ID="XIN_ENG_20090715.0196-T2-M1">
+            <extent>
+              <charseq START="317" END="323">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090715.0196-T3" VAL="PT24H">
+        <timex2_mention ID="XIN_ENG_20090715.0196-T3-M1">
+            <extent>
+              <charseq START="339" END="345">24-hour</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090715.0196-T4" VAL="PXY">
+        <timex2_mention ID="XIN_ENG_20090715.0196-T4-M1">
+            <extent>
+              <charseq START="477" END="481">years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090715.0196-T5" VAL="PRESENT_REF" ANCHOR_VAL="2009-07-15" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20090715.0196-T5-M1">
+            <extent>
+              <charseq START="743" END="749">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20090715.0196-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090715.0196-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090715.0196-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090715.0196-R0-M0">
+          <extent>
+              <charseq START="58" END="111">British postal workers to stage strike in row over pay</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090715.0196-E1-M0" ROLE="Arg-1">
+            <extent>
+              <charseq START="58" END="111">British postal workers to stage strike in row over pay</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090715.0196-E0-M2" ROLE="Arg-2">
+            <extent>
+              <charseq START="58" END="64">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090715.0196-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090715.0196-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090715.0196-E4" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090715.0196-R1-M600">
+          <extent>
+              <charseq START="696" END="730">deputy general secretary of the CWU</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090715.0196-E12-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="696" END="730">deputy general secretary of the CWU</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090715.0196-E4-M605" ROLE="Arg-2">
+            <extent>
+              <charseq START="724" END="730">the CWU</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

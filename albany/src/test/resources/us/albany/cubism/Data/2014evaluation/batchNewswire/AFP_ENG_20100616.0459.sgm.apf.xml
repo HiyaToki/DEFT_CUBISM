@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100616.0459">
+  <document DOCID="AFP_ENG_20100616.0459">
+
+    <entity ID="AFP_ENG_20100616.0459-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E0-M0">
+          <extent>
+              <charseq START="58" END="64">Khatami</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="64">Khatami</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E0-M302">
+          <extent>
+              <charseq START="212" END="245">opposition backer Mohammad Khatami</charseq>
+          </extent>
+          <head>
+              <charseq START="230" END="245">Mohammad Khatami</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E0-M304">
+          <extent>
+              <charseq START="223" END="228">backer</charseq>
+          </extent>
+          <head>
+              <charseq START="223" END="228">backer</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E0-M300">
+          <extent>
+              <charseq START="188" END="203">Former president</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="203">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100616.0459-E0-M313">
+          <extent>
+              <charseq START="314" END="315">he</charseq>
+          </extent>
+          <head>
+              <charseq START="314" END="315">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E0-M500">
+          <extent>
+              <charseq START="518" END="524">Khatami</charseq>
+          </extent>
+          <head>
+              <charseq START="518" END="524">Khatami</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E0-M501">
+          <extent>
+              <charseq START="550" END="562">the reformist</charseq>
+          </extent>
+          <head>
+              <charseq START="554" END="562">reformist</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Khatami">
+              <charseq START="58" END="64">Khatami</charseq>
+          </name>
+          <name NAME="Mohammad Khatami">
+              <charseq START="230" END="245">Mohammad Khatami</charseq>
+          </name>
+          <name NAME="Khatami">
+              <charseq START="518" END="524">Khatami</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E1-M4" ROLE="GPE">
+          <extent>
+              <charseq START="90" END="93">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="90" END="93">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E1-M308" ROLE="GPE">
+          <extent>
+              <charseq START="268" END="274">Iranian</charseq>
+          </extent>
+          <head>
+              <charseq START="268" END="274">Iranian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E1-M602" ROLE="GPE">
+          <extent>
+              <charseq START="625" END="628">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="625" END="628">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E1-M608" ROLE="GPE">
+          <extent>
+              <charseq START="697" END="700">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="700">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E1-M803" ROLE="GPE">
+          <extent>
+              <charseq START="943" END="946">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="943" END="946">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E1-M905" ROLE="LOC">
+          <extent>
+              <charseq START="1016" END="1026">our country</charseq>
+          </extent>
+          <head>
+              <charseq START="1020" END="1026">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100616.0459-E1-M915">
+          <extent>
+              <charseq START="1126" END="1129">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1126" END="1129">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E1-M1002">
+          <extent>
+              <charseq START="1163" END="1166">Iran</charseq>
+          </extent>
+          <head>
+              <charseq START="1163" END="1166">Iran</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100616.0459-E1-M1107">
+          <extent>
+              <charseq START="1321" END="1324">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1321" END="1324">them</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iran">
+              <charseq START="90" END="93">Iran</charseq>
+          </name>
+          <name NAME="Iranian">
+              <charseq START="268" END="274">Iranian</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="625" END="628">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="697" END="700">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="943" END="946">Iran</charseq>
+          </name>
+          <name NAME="Iran">
+              <charseq START="1163" END="1166">Iran</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E2-M101" ROLE="LOC">
+          <extent>
+              <charseq START="137" END="142">TEHRAN</charseq>
+          </extent>
+          <head>
+              <charseq START="137" END="142">TEHRAN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TEHRAN">
+              <charseq START="137" END="142">TEHRAN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E3-M200">
+          <extent>
+              <charseq START="160" END="162">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="160" END="162">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="160" END="162">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E4-M311">
+          <extent>
+              <charseq START="294" END="295">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="294" END="295">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E4-M903">
+          <extent>
+              <charseq START="980" END="981">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="980" END="981">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UN">
+              <charseq START="294" END="295">UN</charseq>
+          </name>
+          <name NAME="UN">
+              <charseq START="980" END="981">UN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E5" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E5-M318">
+          <extent>
+              <charseq START="364" END="370">Islamic</charseq>
+          </extent>
+          <head>
+              <charseq START="364" END="370">Islamic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E5-M317">
+          <extent>
+              <charseq START="360" END="379">the Islamic republic</charseq>
+          </extent>
+          <head>
+              <charseq START="372" END="379">republic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Islamic">
+              <charseq START="364" END="370">Islamic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E7-M603">
+          <extent>
+              <charseq START="645" END="654">the people</charseq>
+          </extent>
+          <head>
+              <charseq START="649" END="654">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100616.0459-E8-M604">
+          <extent>
+              <charseq START="660" END="665">no one</charseq>
+          </extent>
+          <head>
+              <charseq START="663" END="665">one</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E9-M700">
+          <extent>
+              <charseq START="732" END="897">But the cleric, who was president between 1997 and 2005, criticised government
+policies, which he said were resulting in &quot;disintegration and empowering of the
+enemy.&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="740" END="745">cleric</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E9-M716">
+          <extent>
+              <charseq START="887" END="895">the
+enemy</charseq>
+          </extent>
+          <head>
+              <charseq START="891" END="895">enemy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E9-M703">
+          <extent>
+              <charseq START="756" END="897">president between 1997 and 2005, criticised government
+policies, which he said were resulting in &quot;disintegration and empowering of the
+enemy.&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="756" END="764">president</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100616.0459-E9-M702">
+          <extent>
+              <charseq START="748" END="750">who</charseq>
+          </extent>
+          <head>
+              <charseq START="748" END="750">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100616.0459-E9-M712">
+          <extent>
+              <charseq START="821" END="825">which</charseq>
+          </extent>
+          <head>
+              <charseq START="821" END="825">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100616.0459-E9-M713">
+          <extent>
+              <charseq START="827" END="828">he</charseq>
+          </extent>
+          <head>
+              <charseq START="827" END="828">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100616.0459-E9-M1000">
+          <extent>
+              <charseq START="1142" END="1143">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1142" END="1143">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100616.0459-E9-M1216">
+          <extent>
+              <charseq START="1505" END="1506">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1505" END="1506">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E9-M1301">
+          <extent>
+              <charseq START="1523" END="1547">Former two-time president</charseq>
+          </extent>
+          <head>
+              <charseq START="1539" END="1547">president</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E10-M902">
+          <extent>
+              <charseq START="975" END="999">the (UN)
+Security Council</charseq>
+          </extent>
+          <head>
+              <charseq START="984" END="999">Security Council</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Security Council">
+              <charseq START="984" END="999">Security Council</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E11-M911" ROLE="GPE">
+          <extent>
+              <charseq START="1080" END="1086">Isareli</charseq>
+          </extent>
+          <head>
+              <charseq START="1080" END="1086">Isareli</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Isareli">
+              <charseq START="1080" END="1086">Isareli</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E12-M1103">
+          <extent>
+              <charseq START="1270" END="1306">opposition leader Mir
+Hossein Mousavi</charseq>
+          </extent>
+          <head>
+              <charseq START="1288" END="1306">Mir
+Hossein Mousavi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E12-M1105">
+          <extent>
+              <charseq START="1281" END="1286">leader</charseq>
+          </extent>
+          <head>
+              <charseq START="1281" END="1286">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mir
+Hossein Mousavi">
+              <charseq START="1288" END="1306">Mir
+Hossein Mousavi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E13-M1215">
+          <extent>
+              <charseq START="1488" END="1493">people</charseq>
+          </extent>
+          <head>
+              <charseq START="1488" END="1493">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100616.0459-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100616.0459-E14-M1303">
+          <extent>
+              <charseq START="1553" END="1597">opposition supporter Akbar Hashemi Rafsanjani</charseq>
+          </extent>
+          <head>
+              <charseq START="1574" END="1597">Akbar Hashemi Rafsanjani</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100616.0459-E14-M1305">
+          <extent>
+              <charseq START="1564" END="1572">supporter</charseq>
+          </extent>
+          <head>
+              <charseq START="1564" END="1572">supporter</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Akbar Hashemi Rafsanjani">
+              <charseq START="1574" END="1597">Akbar Hashemi Rafsanjani</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T0" VAL="2010-06-16">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T0-M1">
+            <extent>
+              <charseq START="145" END="157">June 16, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T1" VAL="PAST_REF" ANCHOR_VAL="2010-06-16" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T1-M1">
+            <extent>
+              <charseq START="188" END="193">Former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T2" VAL="2010-06-16">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T2-M1">
+            <extent>
+              <charseq START="254" END="262">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T3" VAL="1997">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T3-M1">
+            <extent>
+              <charseq START="774" END="777">1997</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T4" VAL="2005">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T4-M1">
+            <extent>
+              <charseq START="783" END="786">2005</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T5" VAL="PXD">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T5-M1">
+            <extent>
+              <charseq START="1214" END="1244">A few days before the sanctions</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T6" VAL="2010-06-09">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T6-M1">
+            <extent>
+              <charseq START="1262" END="1267">June 9</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T7" VAL="PRESENT_REF" ANCHOR_VAL="2010-06-16" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T7-M1">
+            <extent>
+              <charseq START="1360" END="1366">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T8" VAL="PAST_REF" ANCHOR_VAL="2010-06-16" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T8-M1">
+            <extent>
+              <charseq START="1523" END="1528">Former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100616.0459-T9" VAL="PXD">
+        <timex2_mention ID="AFP_ENG_20100616.0459-T9-M1">
+            <extent>
+              <charseq START="1620" END="1649">a few days after the sanctions</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100616.0459-R0" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100616.0459-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100616.0459-E4" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100616.0459-R0-M900">
+          <extent>
+              <charseq START="975" END="999">the (UN)
+Security Council</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100616.0459-E10-M902" ROLE="Arg-1">
+            <extent>
+              <charseq START="975" END="999">the (UN)
+Security Council</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100616.0459-E4-M903" ROLE="Arg-2">
+            <extent>
+              <charseq START="980" END="981">UN</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

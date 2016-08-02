@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="02905b7ce3a6b8b0961c6c2310392ef9.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-525" length="7" offset="202">
+        <text>Finnish</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-729" length="7" offset="269">
+        <text>Lapland</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-237" length="13" offset="371">
+        <text>Salomon Klass</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1183" length="27" offset="416">
+        <text> a commander of a battalion</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1198" length="29" offset="486">
+        <text>Jewish" battalion or regiment</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1554" length="5" offset="1219">
+        <text>Finns</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1431" length="6" offset="1321">
+        <text>Jewish</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1560" length="5" offset="1398">
+        <text>Finns</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1240" length="3" offset="1514">
+        <text>who</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-249" length="13" offset="1566">
+        <text>Salomon Klass</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-465" length="5" offset="1609">
+        <text>Lotta</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1509" length="9" offset="2849">
+        <text>Christian</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-165" length="11" offset="14">Kalevalatar</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-585" length="7" offset="3384">
+        <text>Finland</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="2995">Biblicist</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-645" length="6" offset="3651">
+        <text>German</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="2995">Biblicist</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-687" length="6" offset="3841">
+        <text>Soviet</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="2995">Biblicist</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-489" length="23" offset="3934">
+        <text>these same German units</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="2995">Biblicist</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-489" length="23" offset="3934">
+        <text>these same German units</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-357" length="9" offset="2995">Biblicist</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

@@ -1,0 +1,431 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20091122.0174">
+  <document DOCID="APW_ENG_20091122.0174">
+
+    <entity ID="APW_ENG_20091122.0174-E0" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E0-M0">
+          <extent>
+              <charseq START="58" END="62">Stars</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stars">
+              <charseq START="58" END="62">Stars</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E1" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E1-M2">
+          <extent>
+              <charseq START="77" END="79">CNN</charseq>
+          </extent>
+          <head>
+              <charseq START="77" END="79">CNN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E1-M214">
+          <extent>
+              <charseq START="273" END="275">CNN</charseq>
+          </extent>
+          <head>
+              <charseq START="273" END="275">CNN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E1-M310">
+          <extent>
+              <charseq START="431" END="433">CNN</charseq>
+          </extent>
+          <head>
+              <charseq START="431" END="433">CNN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E1-M711">
+          <extent>
+              <charseq START="863" END="865">CNN</charseq>
+          </extent>
+          <head>
+              <charseq START="863" END="865">CNN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="CNN">
+              <charseq START="77" END="79">CNN</charseq>
+          </name>
+          <name NAME="CNN">
+              <charseq START="273" END="275">CNN</charseq>
+          </name>
+          <name NAME="CNN">
+              <charseq START="431" END="433">CNN</charseq>
+          </name>
+          <name NAME="CNN">
+              <charseq START="863" END="865">CNN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="120" END="130">LOS ANGELES</charseq>
+          </extent>
+          <head>
+              <charseq START="120" END="130">LOS ANGELES</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E2-M306" ROLE="LOC">
+          <extent>
+              <charseq START="386" END="396">Los Angeles</charseq>
+          </extent>
+          <head>
+              <charseq START="386" END="396">Los Angeles</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LOS ANGELES">
+              <charseq START="120" END="130">LOS ANGELES</charseq>
+          </name>
+          <name NAME="Los Angeles">
+              <charseq START="386" END="396">Los Angeles</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091122.0174-E3-M200">
+          <extent>
+              <charseq START="179" END="293">A man who embraced education for himself and other Filipinos as an escape from poverty is the CNN Hero of the Year.</charseq>
+          </extent>
+          <head>
+              <charseq START="181" END="183">man</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091122.0174-E3-M213">
+          <extent>
+              <charseq START="269" END="280">the CNN Hero</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="280">Hero</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091122.0174-E3-M204">
+          <extent>
+              <charseq START="185" END="187">who</charseq>
+          </extent>
+          <head>
+              <charseq START="185" END="187">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E4" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091122.0174-E4-M210">
+          <extent>
+              <charseq START="224" END="238">other Filipinos</charseq>
+          </extent>
+          <head>
+              <charseq START="230" END="238">Filipinos</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E5-M300">
+          <extent>
+              <charseq START="304" END="340">Twenty-one-year-old Efren Penaflorida</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="340">Efren Penaflorida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E5-M400">
+          <extent>
+              <charseq START="452" END="462">Penaflorida</charseq>
+          </extent>
+          <head>
+              <charseq START="452" END="462">Penaflorida</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E5-M505">
+          <extent>
+              <charseq START="600" END="610">Penaflorida</charseq>
+          </extent>
+          <head>
+              <charseq START="600" END="610">Penaflorida</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Efren Penaflorida">
+              <charseq START="324" END="340">Efren Penaflorida</charseq>
+          </name>
+          <name NAME="Penaflorida">
+              <charseq START="452" END="462">Penaflorida</charseq>
+          </name>
+          <name NAME="Penaflorida">
+              <charseq START="600" END="610">Penaflorida</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091122.0174-E6-M307">
+          <extent>
+              <charseq START="409" END="440">nine others chosen as CNN Heroes</charseq>
+          </extent>
+          <head>
+              <charseq START="414" END="419">others</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091122.0174-E6-M309">
+          <extent>
+              <charseq START="431" END="440">CNN Heroes</charseq>
+          </extent>
+          <head>
+              <charseq START="435" END="440">Heroes</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E7-M401">
+          <extent>
+              <charseq START="482" END="491">Eva Mendes</charseq>
+          </extent>
+          <head>
+              <charseq START="482" END="491">Eva Mendes</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eva Mendes">
+              <charseq START="482" END="491">Eva Mendes</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091122.0174-E8-M402">
+          <extent>
+              <charseq START="500" END="561">the many stars who took the stage to introduce the 10 honorees</charseq>
+          </extent>
+          <head>
+              <charseq START="509" END="513">stars</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091122.0174-E8-M404">
+          <extent>
+              <charseq START="515" END="517">who</charseq>
+          </extent>
+          <head>
+              <charseq START="515" END="517">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E9" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091122.0174-E9-M406">
+          <extent>
+              <charseq START="547" END="561">the 10 honorees</charseq>
+          </extent>
+          <head>
+              <charseq START="554" END="561">honorees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091122.0174-E9-M502">
+          <extent>
+              <charseq START="572" END="575">them</charseq>
+          </extent>
+          <head>
+              <charseq START="572" END="575">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E10" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E10-M605">
+          <extent>
+              <charseq START="705" END="723">Neil Patrick Harris</charseq>
+          </extent>
+          <head>
+              <charseq START="705" END="723">Neil Patrick Harris</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Neil Patrick Harris">
+              <charseq START="705" END="723">Neil Patrick Harris</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E11-M606">
+          <extent>
+              <charseq START="726" END="737">Greg Kinnear</charseq>
+          </extent>
+          <head>
+              <charseq START="726" END="737">Greg Kinnear</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Greg Kinnear">
+              <charseq START="726" END="737">Greg Kinnear</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E12-M607">
+          <extent>
+              <charseq START="743" END="756">Pierce Brosnan</charseq>
+          </extent>
+          <head>
+              <charseq START="743" END="756">Pierce Brosnan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091122.0174-E12-M600">
+          <extent>
+              <charseq START="654" END="698">Other celebrities taking part in the ceremony</charseq>
+          </extent>
+          <head>
+              <charseq START="660" END="670">celebrities</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pierce Brosnan">
+              <charseq START="743" END="756">Pierce Brosnan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091122.0174-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091122.0174-E13-M703" ROLE="LOC">
+          <extent>
+              <charseq START="793" END="865">the U.S. on Thursday, which is the country&apos;s Thanksgiving holiday, on CNN</charseq>
+          </extent>
+          <head>
+              <charseq START="797" END="800">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091122.0174-E13-M709">
+          <extent>
+              <charseq START="824" END="834">the country</charseq>
+          </extent>
+          <head>
+              <charseq START="828" END="834">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091122.0174-E13-M707">
+          <extent>
+              <charseq START="815" END="819">which</charseq>
+          </extent>
+          <head>
+              <charseq START="815" END="819">which</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="797" END="800">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="APW_ENG_20091122.0174-T0" VAL="2009-11-22-11">
+        <timex2_mention ID="APW_ENG_20091122.0174-T0-M1">
+            <extent>
+              <charseq START="132" END="141">2009-11-22</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091122.0174-T1" VAL="P1Y">
+        <timex2_mention ID="APW_ENG_20091122.0174-T1-M1">
+            <extent>
+              <charseq START="310" END="322">-one-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091122.0174-T2" VAL="2009-11-21TNI">
+        <timex2_mention ID="APW_ENG_20091122.0174-T2-M1">
+            <extent>
+              <charseq START="368" END="381">Saturday night</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20091122.0174-V3" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="APW_ENG_20091122.0174-V3-M1">
+            <extent>
+              <charseq START="586" END="592">$25,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <value ID="APW_ENG_20091122.0174-V4" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="APW_ENG_20091122.0174-V4-M1">
+            <extent>
+              <charseq START="629" END="636">$100,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20091122.0174-T5" VAL="2009-11-26">
+        <timex2_mention ID="APW_ENG_20091122.0174-T5-M1">
+            <extent>
+              <charseq START="805" END="812">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091122.0174-T6">
+        <timex2_mention ID="APW_ENG_20091122.0174-T6-M1">
+            <extent>
+              <charseq START="838" END="857">Thanksgiving holiday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20091122.0174-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091122.0174-E3" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091122.0174-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091122.0174-R0-M200">
+          <extent>
+              <charseq START="269" END="280">the CNN Hero</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091122.0174-E3-M213" ROLE="Arg-1">
+            <extent>
+              <charseq START="269" END="280">the CNN Hero</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091122.0174-E1-M214" ROLE="Arg-2">
+            <extent>
+              <charseq START="273" END="275">CNN</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091122.0174-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091122.0174-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091122.0174-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091122.0174-R1-M300">
+          <extent>
+              <charseq START="431" END="440">CNN Heroes</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091122.0174-E6-M309" ROLE="Arg-1">
+            <extent>
+              <charseq START="431" END="440">CNN Heroes</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091122.0174-E1-M310" ROLE="Arg-2">
+            <extent>
+              <charseq START="431" END="433">CNN</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

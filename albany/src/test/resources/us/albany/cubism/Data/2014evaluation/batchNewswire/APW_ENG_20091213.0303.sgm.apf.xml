@@ -1,0 +1,1254 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20091213.0303">
+  <document DOCID="APW_ENG_20091213.0303">
+
+    <entity ID="APW_ENG_20091213.0303-E0" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E0-M101">
+          <extent>
+              <charseq START="127" END="131">SEOUL</charseq>
+          </extent>
+          <head>
+              <charseq START="127" END="131">SEOUL</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E0-M207" ROLE="LOC">
+          <extent>
+              <charseq START="277" END="281">Seoul</charseq>
+          </extent>
+          <head>
+              <charseq START="277" END="281">Seoul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E0-M501" ROLE="GPE">
+          <extent>
+              <charseq START="675" END="679">Seoul</charseq>
+          </extent>
+          <head>
+              <charseq START="675" END="679">Seoul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E0-M1903" ROLE="LOC">
+          <extent>
+              <charseq START="2211" END="2224">downtown Seoul</charseq>
+          </extent>
+          <head>
+              <charseq START="2220" END="2224">Seoul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E0-M1904">
+          <extent>
+              <charseq START="2211" END="2218">downtown</charseq>
+          </extent>
+          <head>
+              <charseq START="2211" END="2218">downtown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E0-M2109" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2531" END="2535">Seoul</charseq>
+          </extent>
+          <head>
+              <charseq START="2531" END="2535">Seoul</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E0-M2110">
+          <extent>
+              <charseq START="2540" END="2554">an amazing city</charseq>
+          </extent>
+          <head>
+              <charseq START="2551" END="2554">city</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E0-M2103">
+          <extent>
+              <charseq START="2448" END="2451">here</charseq>
+          </extent>
+          <head>
+              <charseq START="2448" END="2451">here</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="SEOUL">
+              <charseq START="127" END="131">SEOUL</charseq>
+          </name>
+          <name NAME="Seoul">
+              <charseq START="277" END="281">Seoul</charseq>
+          </name>
+          <name NAME="Seoul">
+              <charseq START="675" END="679">Seoul</charseq>
+          </name>
+          <name NAME="Seoul">
+              <charseq START="2220" END="2224">Seoul</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E1-M102">
+          <extent>
+              <charseq START="134" END="144">South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="134" END="144">South Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E1-M1807" ROLE="GPE">
+          <extent>
+              <charseq START="2070" END="2081">South Korean</charseq>
+          </extent>
+          <head>
+              <charseq START="2070" END="2081">South Korean</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E1-M2700">
+          <extent>
+              <charseq START="3142" END="3152">South Korea</charseq>
+          </extent>
+          <head>
+              <charseq START="3142" END="3152">South Korea</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="South Korea">
+              <charseq START="134" END="144">South Korea</charseq>
+          </name>
+          <name NAME="South Korean">
+              <charseq START="2070" END="2081">South Korean</charseq>
+          </name>
+          <name NAME="South Korea">
+              <charseq START="3142" END="3152">South Korea</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E2" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E2-M201" ROLE="GPE">
+          <extent>
+              <charseq START="193" END="197">Swiss</charseq>
+          </extent>
+          <head>
+              <charseq START="193" END="197">Swiss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E2-M600" ROLE="LOC">
+          <extent>
+              <charseq START="713" END="852">The 22-year-old Swiss set the pace with a big backside 1080 -- three rotations in the air -- that went unmatched throughout the competition.</charseq>
+          </extent>
+          <head>
+              <charseq START="729" END="733">Swiss</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E2-M2107" ROLE="LOC">
+          <extent>
+              <charseq START="2498" END="2513">an Asian country</charseq>
+          </extent>
+          <head>
+              <charseq START="2507" END="2513">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Swiss">
+              <charseq START="193" END="197">Swiss</charseq>
+          </name>
+          <name NAME="Swiss">
+              <charseq START="729" END="733">Swiss</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E3" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E3-M202">
+          <extent>
+              <charseq START="210" END="228">Gian-Luca Cavigelli</charseq>
+          </extent>
+          <head>
+              <charseq START="210" END="228">Gian-Luca Cavigelli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E3-M210">
+          <extent>
+              <charseq START="300" END="302">his</charseq>
+          </extent>
+          <head>
+              <charseq START="300" END="302">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E3-M300">
+          <extent>
+              <charseq START="336" END="337">He</charseq>
+          </extent>
+          <head>
+              <charseq START="336" END="337">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E3-M402">
+          <extent>
+              <charseq START="486" END="494">Cavigelli</charseq>
+          </extent>
+          <head>
+              <charseq START="486" END="494">Cavigelli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E3-M503">
+          <extent>
+              <charseq START="693" END="701">Cavigelli</charseq>
+          </extent>
+          <head>
+              <charseq START="693" END="701">Cavigelli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E3-M700">
+          <extent>
+              <charseq START="863" END="877">The rising star</charseq>
+          </extent>
+          <head>
+              <charseq START="874" END="877">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E3-M802">
+          <extent>
+              <charseq START="979" END="987">Cavigelli</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="987">Cavigelli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E3-M806">
+          <extent>
+              <charseq START="1034" END="1036">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1034" END="1036">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E3-M808">
+          <extent>
+              <charseq START="1051" END="1053">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1051" END="1053">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E3-M900">
+          <extent>
+              <charseq START="1063" END="1064">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1063" END="1064">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E3-M1100">
+          <extent>
+              <charseq START="1336" END="1344">Cavigelli</charseq>
+          </extent>
+          <head>
+              <charseq START="1336" END="1344">Cavigelli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E3-M1101">
+          <extent>
+              <charseq START="1351" END="1352">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1351" END="1352">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E3-M1215">
+          <extent>
+              <charseq START="1590" END="1598">Cavigelli</charseq>
+          </extent>
+          <head>
+              <charseq START="1590" END="1598">Cavigelli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E3-M1402">
+          <extent>
+              <charseq START="1682" END="1690">Gian-Luca</charseq>
+          </extent>
+          <head>
+              <charseq START="1682" END="1690">Gian-Luca</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E3-M1403">
+          <extent>
+              <charseq START="1693" END="1694">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1693" END="1694">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E3-M1406">
+          <extent>
+              <charseq START="1751" END="1752">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1751" END="1752">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E3-M1413">
+          <extent>
+              <charseq START="1804" END="1805">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1804" END="1805">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E3-M1700">
+          <extent>
+              <charseq START="1922" END="1930">Cavigelli</charseq>
+          </extent>
+          <head>
+              <charseq START="1922" END="1930">Cavigelli</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E3-M2111">
+          <extent>
+              <charseq START="2558" END="2566">Cavigelli</charseq>
+          </extent>
+          <head>
+              <charseq START="2558" END="2566">Cavigelli</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gian-Luca Cavigelli">
+              <charseq START="210" END="228">Gian-Luca Cavigelli</charseq>
+          </name>
+          <name NAME="Cavigelli">
+              <charseq START="486" END="494">Cavigelli</charseq>
+          </name>
+          <name NAME="Cavigelli">
+              <charseq START="693" END="701">Cavigelli</charseq>
+          </name>
+          <name NAME="Cavigelli">
+              <charseq START="979" END="987">Cavigelli</charseq>
+          </name>
+          <name NAME="Cavigelli">
+              <charseq START="1336" END="1344">Cavigelli</charseq>
+          </name>
+          <name NAME="Cavigelli">
+              <charseq START="1590" END="1598">Cavigelli</charseq>
+          </name>
+          <name NAME="Gian-Luca">
+              <charseq START="1682" END="1690">Gian-Luca</charseq>
+          </name>
+          <name NAME="Cavigelli">
+              <charseq START="1922" END="1930">Cavigelli</charseq>
+          </name>
+          <name NAME="Cavigelli">
+              <charseq START="2558" END="2566">Cavigelli</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E4" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E4-M200">
+          <extent>
+              <charseq START="193" END="208">Swiss wunderkind</charseq>
+          </extent>
+          <head>
+              <charseq START="199" END="208">wunderkind</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E5-M302">
+          <extent>
+              <charseq START="348" END="464">Austria&apos;s Stefan Gimpl, who finished a close second with two strong runs, followed by Finland&apos;s Markku Koski in third</charseq>
+          </extent>
+          <head>
+              <charseq START="358" END="369">Stefan Gimpl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E5-M306">
+          <extent>
+              <charseq START="372" END="374">who</charseq>
+          </extent>
+          <head>
+              <charseq START="372" END="374">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E5-M401">
+          <extent>
+              <charseq START="476" END="480">Gimpl</charseq>
+          </extent>
+          <head>
+              <charseq START="476" END="480">Gimpl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E5-M409">
+          <extent>
+              <charseq START="570" END="574">Gimpl</charseq>
+          </extent>
+          <head>
+              <charseq START="570" END="574">Gimpl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E5-M800">
+          <extent>
+              <charseq START="953" END="957">Gimpl</charseq>
+          </extent>
+          <head>
+              <charseq START="953" END="957">Gimpl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E5-M1300">
+          <extent>
+              <charseq START="1615" END="1619">Gimpl</charseq>
+          </extent>
+          <head>
+              <charseq START="1615" END="1619">Gimpl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E5-M1301">
+          <extent>
+              <charseq START="1626" END="1627">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1626" END="1627">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E5-M1303">
+          <extent>
+              <charseq START="1646" END="1648">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1646" END="1648">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E5-M1601">
+          <extent>
+              <charseq START="1853" END="1857">Gimpl</charseq>
+          </extent>
+          <head>
+              <charseq START="1853" END="1857">Gimpl</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E5-M2308">
+          <extent>
+              <charseq START="2806" END="2810">Gimpl</charseq>
+          </extent>
+          <head>
+              <charseq START="2806" END="2810">Gimpl</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stefan Gimpl">
+              <charseq START="358" END="369">Stefan Gimpl</charseq>
+          </name>
+          <name NAME="Gimpl">
+              <charseq START="476" END="480">Gimpl</charseq>
+          </name>
+          <name NAME="Gimpl">
+              <charseq START="570" END="574">Gimpl</charseq>
+          </name>
+          <name NAME="Gimpl">
+              <charseq START="953" END="957">Gimpl</charseq>
+          </name>
+          <name NAME="Gimpl">
+              <charseq START="1615" END="1619">Gimpl</charseq>
+          </name>
+          <name NAME="Gimpl">
+              <charseq START="1853" END="1857">Gimpl</charseq>
+          </name>
+          <name NAME="Gimpl">
+              <charseq START="2806" END="2810">Gimpl</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E6-M304">
+          <extent>
+              <charseq START="348" END="354">Austria</charseq>
+          </extent>
+          <head>
+              <charseq START="348" END="354">Austria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Austria">
+              <charseq START="348" END="354">Austria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E7-M310">
+          <extent>
+              <charseq START="434" END="464">Finland&apos;s Markku Koski in third</charseq>
+          </extent>
+          <head>
+              <charseq START="444" END="455">Markku Koski</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E7-M1001">
+          <extent>
+              <charseq START="1149" END="1153">Koski</charseq>
+          </extent>
+          <head>
+              <charseq START="1149" END="1153">Koski</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E7-M1002">
+          <extent>
+              <charseq START="1156" END="1227">the gold medalist in the snowboard world championships earlier this year</charseq>
+          </extent>
+          <head>
+              <charseq START="1165" END="1172">medalist</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E7-M1012">
+          <extent>
+              <charseq START="1237" END="1239">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1237" END="1239">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Markku Koski">
+              <charseq START="444" END="455">Markku Koski</charseq>
+          </name>
+          <name NAME="Koski">
+              <charseq START="1149" END="1153">Koski</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E8-M312">
+          <extent>
+              <charseq START="434" END="440">Finland</charseq>
+          </extent>
+          <head>
+              <charseq START="434" END="440">Finland</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E8-M2301">
+          <extent>
+              <charseq START="2685" END="2691">Finland</charseq>
+          </extent>
+          <head>
+              <charseq START="2685" END="2691">Finland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Finland">
+              <charseq START="434" END="440">Finland</charseq>
+          </name>
+          <name NAME="Finland">
+              <charseq START="2685" END="2691">Finland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E9" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E9-M414" ROLE="LOC">
+          <extent>
+              <charseq START="625" END="630">London</charseq>
+          </extent>
+          <head>
+              <charseq START="625" END="630">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="London">
+              <charseq START="625" END="630">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E10" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E10-M415" ROLE="LOC">
+          <extent>
+              <charseq START="633" END="641">Barcelona</charseq>
+          </extent>
+          <head>
+              <charseq START="633" END="641">Barcelona</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barcelona">
+              <charseq START="633" END="641">Barcelona</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E11" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E11-M416" ROLE="LOC">
+          <extent>
+              <charseq START="647" END="655">Stockholm</charseq>
+          </extent>
+          <head>
+              <charseq START="647" END="655">Stockholm</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Stockholm">
+              <charseq START="647" END="655">Stockholm</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E12-M702">
+          <extent>
+              <charseq START="925" END="933">the crowd</charseq>
+          </extent>
+          <head>
+              <charseq START="929" END="933">crowd</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E12-M2409">
+          <extent>
+              <charseq START="2924" END="2942">the crowd of 15,000</charseq>
+          </extent>
+          <head>
+              <charseq START="2928" END="2932">crowd</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E13" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E13-M1209">
+          <extent>
+              <charseq START="1527" END="1567">a super great feeling, super special city</charseq>
+          </extent>
+          <head>
+              <charseq START="1564" END="1567">city</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E15-M1704">
+          <extent>
+              <charseq START="1968" END="1990">Japan&apos;s Kazuhiro Kokubo</charseq>
+          </extent>
+          <head>
+              <charseq START="1976" END="1990">Kazuhiro Kokubo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kazuhiro Kokubo">
+              <charseq START="1976" END="1990">Kazuhiro Kokubo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E16" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E16-M1705">
+          <extent>
+              <charseq START="1968" END="1972">Japan</charseq>
+          </extent>
+          <head>
+              <charseq START="1968" END="1972">Japan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Japan">
+              <charseq START="1968" END="1972">Japan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E17" TYPE="GPE" SUBTYPE="Continent" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E17-M1813" ROLE="LOC">
+          <extent>
+              <charseq START="2133" END="2136">Asia</charseq>
+          </extent>
+          <head>
+              <charseq START="2133" END="2136">Asia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E17-M2108" ROLE="GPE">
+          <extent>
+              <charseq START="2501" END="2505">Asian</charseq>
+          </extent>
+          <head>
+              <charseq START="2501" END="2505">Asian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Asia">
+              <charseq START="2133" END="2136">Asia</charseq>
+          </name>
+          <name NAME="Asian">
+              <charseq START="2501" END="2505">Asian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E18-M1806" ROLE="GPE">
+          <extent>
+              <charseq START="2066" END="2089">the South Korean capital</charseq>
+          </extent>
+          <head>
+              <charseq START="2083" END="2089">capital</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E19" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E19-M1902">
+          <extent>
+              <charseq START="2190" END="2206">Gwanghwamun Plaza</charseq>
+          </extent>
+          <head>
+              <charseq START="2190" END="2206">Gwanghwamun Plaza</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gwanghwamun Plaza">
+              <charseq START="2190" END="2206">Gwanghwamun Plaza</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E20" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E20-M1906">
+          <extent>
+              <charseq START="2241" END="2273">the 600-year-old Gyeongbok Palace</charseq>
+          </extent>
+          <head>
+              <charseq START="2258" END="2273">Gyeongbok Palace</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gyeongbok Palace">
+              <charseq START="2258" END="2273">Gyeongbok Palace</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E21" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E21-M1912">
+          <extent>
+              <charseq START="2303" END="2336">the 15th-century ruler King Sejong</charseq>
+          </extent>
+          <head>
+              <charseq START="2331" END="2336">Sejong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E21-M1914">
+          <extent>
+              <charseq START="2326" END="2329">King</charseq>
+          </extent>
+          <head>
+              <charseq START="2326" END="2329">King</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sejong">
+              <charseq START="2331" END="2336">Sejong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E22-M2003">
+          <extent>
+              <charseq START="2378" END="2391">so many people</charseq>
+          </extent>
+          <head>
+              <charseq START="2386" END="2391">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E23" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E23-M2208">
+          <extent>
+              <charseq START="2636" END="2649">Seoul Snow Jam</charseq>
+          </extent>
+          <head>
+              <charseq START="2636" END="2649">Seoul Snow Jam</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Seoul Snow Jam">
+              <charseq START="2636" END="2649">Seoul Snow Jam</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E24" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E24-M2201">
+          <extent>
+              <charseq START="2583" END="2618">Riders also competed for cash prizes</charseq>
+          </extent>
+          <head>
+              <charseq START="2583" END="2588">Riders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E25-M2209">
+          <extent>
+              <charseq START="2666" END="2682">a crowd of 15,000</charseq>
+          </extent>
+          <head>
+              <charseq START="2668" END="2672">crowd</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E26" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E26-M2300">
+          <extent>
+              <charseq START="2685" END="2705">Finland&apos;s Eero Ettala</charseq>
+          </extent>
+          <head>
+              <charseq START="2695" END="2705">Eero Ettala</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E26-M2401">
+          <extent>
+              <charseq START="2838" END="2843">Ettala</charseq>
+          </extent>
+          <head>
+              <charseq START="2838" END="2843">Ettala</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E26-M2402">
+          <extent>
+              <charseq START="2846" END="2873">a veteran big air competitor</charseq>
+          </extent>
+          <head>
+              <charseq START="2864" END="2873">competitor</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E26-M2405">
+          <extent>
+              <charseq START="2881" END="2882">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2881" END="2882">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E26-M2408">
+          <extent>
+              <charseq START="2901" END="2903">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2901" END="2903">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E26-M2412">
+          <extent>
+              <charseq START="2958" END="2959">he</charseq>
+          </extent>
+          <head>
+              <charseq START="2958" END="2959">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20091213.0303-E26-M2612">
+          <extent>
+              <charseq START="3124" END="3125">he</charseq>
+          </extent>
+          <head>
+              <charseq START="3124" END="3125">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Eero Ettala">
+              <charseq START="2695" END="2705">Eero Ettala</charseq>
+          </name>
+          <name NAME="Ettala">
+              <charseq START="2838" END="2843">Ettala</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E27" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E27-M2805" ROLE="LOC">
+          <extent>
+              <charseq START="3306" END="3325">Telluride, Colorado,</charseq>
+          </extent>
+          <head>
+              <charseq START="3306" END="3314">Telluride</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Telluride">
+              <charseq START="3306" END="3314">Telluride</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E28" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E28-M2807" ROLE="LOC">
+          <extent>
+              <charseq START="3317" END="3324">Colorado</charseq>
+          </extent>
+          <head>
+              <charseq START="3317" END="3324">Colorado</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Colorado">
+              <charseq START="3317" END="3324">Colorado</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E29" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E29-M2812">
+          <extent>
+              <charseq START="3369" END="3390">key Olympic qualifiers</charseq>
+          </extent>
+          <head>
+              <charseq START="3381" END="3390">qualifiers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E30-M3000">
+          <extent>
+              <charseq START="3418" END="3452">Associated Press writer Esther Hong</charseq>
+          </extent>
+          <head>
+              <charseq START="3442" END="3452">Esther Hong</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20091213.0303-E30-M3002">
+          <extent>
+              <charseq START="3435" END="3440">writer</charseq>
+          </extent>
+          <head>
+              <charseq START="3435" END="3440">writer</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Esther Hong">
+              <charseq START="3442" END="3452">Esther Hong</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20091213.0303-E31" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20091213.0303-E31-M3001">
+          <extent>
+              <charseq START="3418" END="3433">Associated Press</charseq>
+          </extent>
+          <head>
+              <charseq START="3418" END="3433">Associated Press</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Associated Press">
+              <charseq START="3418" END="3433">Associated Press</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <timex2 ID="APW_ENG_20091213.0303-T0" VAL="2009-12-13-12">
+        <timex2_mention ID="APW_ENG_20091213.0303-T0-M1">
+            <extent>
+              <charseq START="146" END="155">2009-12-13</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T1" VAL="2009-12-13">
+        <timex2_mention ID="APW_ENG_20091213.0303-T1-M1">
+            <extent>
+              <charseq START="286" END="291">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T2">
+        <timex2_mention ID="APW_ENG_20091213.0303-T2-M1">
+            <extent>
+              <charseq START="553" END="562">all season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T3" VAL="P22Y">
+        <timex2_mention ID="APW_ENG_20091213.0303-T3-M1">
+            <extent>
+              <charseq START="717" END="727">22-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T4" VAL="2009">
+        <timex2_mention ID="APW_ENG_20091213.0303-T4-M1">
+            <extent>
+              <charseq START="1211" END="1227">earlier this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T5" VAL="PRESENT_REF" ANCHOR_VAL="2009-12-13" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="APW_ENG_20091213.0303-T5-M1">
+            <extent>
+              <charseq START="1735" END="1737">now</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T6" VAL="2009-12-13">
+        <timex2_mention ID="APW_ENG_20091213.0303-T6-M1">
+            <extent>
+              <charseq START="2029" END="2034">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T7" VAL="P600Y">
+        <timex2_mention ID="APW_ENG_20091213.0303-T7-M1">
+            <extent>
+              <charseq START="2245" END="2256">600-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T8" VAL="2009-12-12">
+        <timex2_mention ID="APW_ENG_20091213.0303-T8-M1">
+            <extent>
+              <charseq START="2620" END="2627">Saturday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="APW_ENG_20091213.0303-V9" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="APW_ENG_20091213.0303-V9-M1">
+            <extent>
+              <charseq START="2732" END="2738">$24,000</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="APW_ENG_20091213.0303-T10" VAL="2018">
+        <timex2_mention ID="APW_ENG_20091213.0303-T10-M1">
+            <extent>
+              <charseq START="3184" END="3187">2018</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T11" VAL="2009-01">
+        <timex2_mention ID="APW_ENG_20091213.0303-T11-M1">
+            <extent>
+              <charseq START="3245" END="3251">January</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20091213.0303-T12" VAL="2009-12-15">
+        <timex2_mention ID="APW_ENG_20091213.0303-T12-M1">
+            <extent>
+              <charseq START="3295" END="3301">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20091213.0303-R0" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E2" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R0-M200">
+          <extent>
+              <charseq START="193" END="208">Swiss wunderkind</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E4-M200" ROLE="Arg-1">
+            <extent>
+              <charseq START="193" END="208">Swiss wunderkind</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E2-M201" ROLE="Arg-2">
+            <extent>
+              <charseq START="193" END="197">Swiss</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091213.0303-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R1-M300">
+          <extent>
+              <charseq START="348" END="464">Austria&apos;s Stefan Gimpl, who finished a close second with two strong runs, followed by Finland&apos;s Markku Koski in third</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E5-M302" ROLE="Arg-1">
+            <extent>
+              <charseq START="348" END="464">Austria&apos;s Stefan Gimpl, who finished a close second with two strong runs, followed by Finland&apos;s Markku Koski in third</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E6-M304" ROLE="Arg-2">
+            <extent>
+              <charseq START="348" END="354">Austria</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091213.0303-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E8" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R2-M301">
+          <extent>
+              <charseq START="434" END="464">Finland&apos;s Markku Koski in third</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E7-M310" ROLE="Arg-1">
+            <extent>
+              <charseq START="434" END="464">Finland&apos;s Markku Koski in third</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E8-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="434" END="440">Finland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091213.0303-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E16" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R3-M1700">
+          <extent>
+              <charseq START="1968" END="1990">Japan&apos;s Kazuhiro Kokubo</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E15-M1704" ROLE="Arg-1">
+            <extent>
+              <charseq START="1968" END="1990">Japan&apos;s Kazuhiro Kokubo</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E16-M1705" ROLE="Arg-2">
+            <extent>
+              <charseq START="1968" END="1972">Japan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091213.0303-R4" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R4-M1800">
+          <extent>
+              <charseq START="2066" END="2089">the South Korean capital</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E18-M1806" ROLE="Arg-1">
+            <extent>
+              <charseq START="2066" END="2089">the South Korean capital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E1-M1807" ROLE="Arg-2">
+            <extent>
+              <charseq START="2070" END="2081">South Korean</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091213.0303-R5" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R5-M1900">
+          <extent>
+              <charseq START="2190" END="2206">Gwanghwamun Plaza</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E19-M1902" ROLE="Arg-1">
+            <extent>
+              <charseq START="2190" END="2206">Gwanghwamun Plaza</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E0-M1903" ROLE="Arg-2">
+            <extent>
+              <charseq START="2211" END="2224">downtown Seoul</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091213.0303-R6" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E17" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R6-M2100">
+          <extent>
+              <charseq START="2498" END="2513">an Asian country</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E2-M2107" ROLE="Arg-1">
+            <extent>
+              <charseq START="2498" END="2513">an Asian country</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E17-M2108" ROLE="Arg-2">
+            <extent>
+              <charseq START="2501" END="2505">Asian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091213.0303-R7" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E8" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R7-M2300">
+          <extent>
+              <charseq START="2685" END="2705">Finland&apos;s Eero Ettala</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E26-M2300" ROLE="Arg-1">
+            <extent>
+              <charseq START="2685" END="2705">Finland&apos;s Eero Ettala</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E8-M2301" ROLE="Arg-2">
+            <extent>
+              <charseq START="2685" END="2691">Finland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091213.0303-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E27" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E28" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R8-M2800">
+          <extent>
+              <charseq START="3306" END="3325">Telluride, Colorado,</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E27-M2805" ROLE="Arg-1">
+            <extent>
+              <charseq START="3306" END="3325">Telluride, Colorado,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E28-M2807" ROLE="Arg-2">
+            <extent>
+              <charseq START="3317" END="3324">Colorado</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20091213.0303-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20091213.0303-E30" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20091213.0303-E31" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20091213.0303-R9-M3000">
+          <extent>
+              <charseq START="3435" END="3440">writer</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E30-M3002" ROLE="Arg-1">
+            <extent>
+              <charseq START="3435" END="3440">writer</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20091213.0303-E31-M3001" ROLE="Arg-2">
+            <extent>
+              <charseq START="3418" END="3433">Associated Press</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

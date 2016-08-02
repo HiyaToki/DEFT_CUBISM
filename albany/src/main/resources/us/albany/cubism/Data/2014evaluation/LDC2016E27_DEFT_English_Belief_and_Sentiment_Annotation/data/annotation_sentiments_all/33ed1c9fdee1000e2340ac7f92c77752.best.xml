@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-5693fa960000000000000035">
+  
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-877" length="10" offset="3349">
+        <text>extremists</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="9" offset="2833">medbh4805</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-998" length="60" offset="3299">
+        <text>a member of the conties or ONH, cannon fodder for extremists</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="9" offset="2833">medbh4805</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-1013">
+        <trigger length="2" offset="3308">of</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="9" offset="2833">medbh4805</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-1023">
+        <trigger length="2" offset="3308">of</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="9" offset="2833">medbh4805</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-1150">
+        <trigger length="7" offset="2965">feeding</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-114" length="9" offset="2833">medbh4805</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

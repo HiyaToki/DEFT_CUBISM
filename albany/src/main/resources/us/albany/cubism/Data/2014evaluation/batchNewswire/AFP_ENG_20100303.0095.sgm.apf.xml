@@ -1,0 +1,642 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100303.0095">
+  <document DOCID="AFP_ENG_20100303.0095">
+
+    <entity ID="AFP_ENG_20100303.0095-E0" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E0-M102">
+          <extent>
+              <charseq START="86" END="95">World Club</charseq>
+          </extent>
+          <head>
+              <charseq START="86" END="95">World Club</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="World Club">
+              <charseq START="86" END="95">World Club</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E1-M100">
+          <extent>
+              <charseq START="66" END="71">Senior</charseq>
+          </extent>
+          <head>
+              <charseq START="66" END="71">Senior</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E1-M707">
+          <extent>
+              <charseq START="781" END="786">Senior</charseq>
+          </extent>
+          <head>
+              <charseq START="781" END="786">Senior</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E1-M1100">
+          <extent>
+              <charseq START="1183" END="1358">Senior, who was angered over what he saw as Silverwood&apos;s failure to clamp down
+on Melbourne&apos;s &quot;spoiling &quot; tactics at the play-the-ball, apologised later Sunday
+for his remarks.</charseq>
+          </extent>
+          <head>
+              <charseq START="1183" END="1188">Senior</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E1-M1102">
+          <extent>
+              <charseq START="1191" END="1193">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1191" END="1193">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E1-M1104">
+          <extent>
+              <charseq START="1217" END="1218">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1217" END="1218">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E1-M1113">
+          <extent>
+              <charseq START="1347" END="1349">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1347" END="1349">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E1-M1209">
+          <extent>
+              <charseq START="1470" END="1471">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1470" END="1471">he</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E2-M201" ROLE="LOC">
+          <extent>
+              <charseq START="129" END="133">LEEDS</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="133">LEEDS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LEEDS">
+              <charseq START="129" END="133">LEEDS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E3-M203" ROLE="LOC">
+          <extent>
+              <charseq START="136" END="142">England</charseq>
+          </extent>
+          <head>
+              <charseq START="136" END="142">England</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="England">
+              <charseq START="136" END="142">England</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E4-M300">
+          <extent>
+              <charseq START="160" END="162">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="160" END="162">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="160" END="162">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E5-M400">
+          <extent>
+              <charseq START="188" END="212">Leeds centre Keith Senior</charseq>
+          </extent>
+          <head>
+              <charseq START="201" END="212">Keith Senior</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E5-M402">
+          <extent>
+              <charseq START="194" END="199">centre</charseq>
+          </extent>
+          <head>
+              <charseq START="194" END="199">centre</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Keith Senior">
+              <charseq START="201" END="212">Keith Senior</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E6" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E6-M404">
+          <extent>
+              <charseq START="229" END="253">the Rugby Football League</charseq>
+          </extent>
+          <head>
+              <charseq START="233" END="253">Rugby Football League</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E6-M1014">
+          <extent>
+              <charseq START="1080" END="1104">the Rugby Football League</charseq>
+          </extent>
+          <head>
+              <charseq START="1099" END="1104">League</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rugby Football League">
+              <charseq START="233" END="253">Rugby Football League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E7-M411">
+          <extent>
+              <charseq START="308" END="333">referee Richard Silverwood</charseq>
+          </extent>
+          <head>
+              <charseq START="316" END="333">Richard Silverwood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E7-M412">
+          <extent>
+              <charseq START="308" END="314">referee</charseq>
+          </extent>
+          <head>
+              <charseq START="308" END="314">referee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E7-M504">
+          <extent>
+              <charseq START="446" END="455">Silverwood</charseq>
+          </extent>
+          <head>
+              <charseq START="446" END="455">Silverwood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E7-M506">
+          <extent>
+              <charseq START="474" END="475">he</charseq>
+          </extent>
+          <head>
+              <charseq START="474" END="475">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E7-M508">
+          <extent>
+              <charseq START="494" END="496">him</charseq>
+          </extent>
+          <head>
+              <charseq START="494" END="496">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E7-M518">
+          <extent>
+              <charseq START="612" END="613">he</charseq>
+          </extent>
+          <head>
+              <charseq START="612" END="613">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E7-M708">
+          <extent>
+              <charseq START="796" END="805">Silverwood</charseq>
+          </extent>
+          <head>
+              <charseq START="796" END="805">Silverwood</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E7-M702">
+          <extent>
+              <charseq START="740" END="742">him</charseq>
+          </extent>
+          <head>
+              <charseq START="740" END="742">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E7-M705">
+          <extent>
+              <charseq START="759" END="760">he</charseq>
+          </extent>
+          <head>
+              <charseq START="759" END="760">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E7-M803">
+          <extent>
+              <charseq START="846" END="848">him</charseq>
+          </extent>
+          <head>
+              <charseq START="846" END="848">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E7-M809">
+          <extent>
+              <charseq START="891" END="893">him</charseq>
+          </extent>
+          <head>
+              <charseq START="891" END="893">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E7-M900">
+          <extent>
+              <charseq START="896" END="897">He</charseq>
+          </extent>
+          <head>
+              <charseq START="896" END="897">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E7-M1107">
+          <extent>
+              <charseq START="1227" END="1236">Silverwood</charseq>
+          </extent>
+          <head>
+              <charseq START="1227" END="1236">Silverwood</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Richard Silverwood">
+              <charseq START="316" END="333">Richard Silverwood</charseq>
+          </name>
+          <name NAME="Silverwood">
+              <charseq START="446" END="455">Silverwood</charseq>
+          </name>
+          <name NAME="Silverwood">
+              <charseq START="796" END="805">Silverwood</charseq>
+          </name>
+          <name NAME="Silverwood">
+              <charseq START="1227" END="1236">Silverwood</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E8" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E8-M500">
+          <extent>
+              <charseq START="386" END="421">The 33-year-old former Great Britain</charseq>
+          </extent>
+          <head>
+              <charseq START="409" END="421">Great Britain</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Great Britain">
+              <charseq START="409" END="421">Great Britain</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E9" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E9-M512">
+          <extent>
+              <charseq START="521" END="532">Super League</charseq>
+          </extent>
+          <head>
+              <charseq START="521" END="532">Super League</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Super League">
+              <charseq START="521" END="532">Super League</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E10" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E10-M515">
+          <extent>
+              <charseq START="561" END="575">Melbourne Storm</charseq>
+          </extent>
+          <head>
+              <charseq START="561" END="575">Melbourne Storm</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Melbourne Storm">
+              <charseq START="561" END="575">Melbourne Storm</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E11" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E11-M516">
+          <extent>
+              <charseq START="580" END="590">Elland Road</charseq>
+          </extent>
+          <head>
+              <charseq START="580" END="590">Elland Road</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Elland Road">
+              <charseq START="580" END="590">Elland Road</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E12-M511">
+          <extent>
+              <charseq START="517" END="542">the Super League
+champions</charseq>
+          </extent>
+          <head>
+              <charseq START="534" END="542">champions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E13-M600">
+          <extent>
+              <charseq START="660" END="667">Referees</charseq>
+          </extent>
+          <head>
+              <charseq START="660" END="667">Referees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E13-M607">
+          <extent>
+              <charseq START="712" END="715">they</charseq>
+          </extent>
+          <head>
+              <charseq START="712" END="715">they</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E13-M1409">
+          <extent>
+              <charseq START="1694" END="1701">referees</charseq>
+          </extent>
+          <head>
+              <charseq START="1694" END="1701">referees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E13-M1414">
+          <extent>
+              <charseq START="1764" END="1767">them</charseq>
+          </extent>
+          <head>
+              <charseq START="1764" END="1767">them</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E15-M802">
+          <extent>
+              <charseq START="827" END="833">players</charseq>
+          </extent>
+          <head>
+              <charseq START="827" END="833">players</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E16" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E16-M902">
+          <extent>
+              <charseq START="918" END="940">the centre of attention</charseq>
+          </extent>
+          <head>
+              <charseq START="922" END="927">centre</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E17-M1001">
+          <extent>
+              <charseq START="965" END="991">Hull KR coach Justin Morgan</charseq>
+          </extent>
+          <head>
+              <charseq START="979" END="991">Justin Morgan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E17-M1004">
+          <extent>
+              <charseq START="973" END="977">coach</charseq>
+          </extent>
+          <head>
+              <charseq START="973" END="977">coach</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100303.0095-E17-M1011">
+          <extent>
+              <charseq START="1047" END="1048">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1047" END="1048">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Justin Morgan">
+              <charseq START="979" END="991">Justin Morgan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E18" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E18-M1003">
+          <extent>
+              <charseq START="970" END="971">KR</charseq>
+          </extent>
+          <head>
+              <charseq START="970" END="971">KR</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="KR">
+              <charseq START="970" END="971">KR</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E19" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E19-M1020">
+          <extent>
+              <charseq START="1139" END="1156">referee Ben Thaler</charseq>
+          </extent>
+          <head>
+              <charseq START="1147" END="1156">Ben Thaler</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E19-M1021">
+          <extent>
+              <charseq START="1139" END="1145">referee</charseq>
+          </extent>
+          <head>
+              <charseq START="1139" END="1145">referee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ben Thaler">
+              <charseq START="1147" END="1156">Ben Thaler</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E20" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E20-M1108">
+          <extent>
+              <charseq START="1265" END="1273">Melbourne</charseq>
+          </extent>
+          <head>
+              <charseq START="1265" END="1273">Melbourne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E20-M1208" ROLE="LOC">
+          <extent>
+              <charseq START="1458" END="1466">Melbourne</charseq>
+          </extent>
+          <head>
+              <charseq START="1458" END="1466">Melbourne</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100303.0095-E20-M1310">
+          <extent>
+              <charseq START="1594" END="1602">Melbourne</charseq>
+          </extent>
+          <head>
+              <charseq START="1594" END="1602">Melbourne</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Melbourne">
+              <charseq START="1265" END="1273">Melbourne</charseq>
+          </name>
+          <name NAME="Melbourne">
+              <charseq START="1458" END="1466">Melbourne</charseq>
+          </name>
+          <name NAME="Melbourne">
+              <charseq START="1594" END="1602">Melbourne</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100303.0095-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100303.0095-E21-M1407">
+          <extent>
+              <charseq START="1682" END="1691">us players</charseq>
+          </extent>
+          <head>
+              <charseq START="1685" END="1691">players</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100303.0095-T0" VAL="2010-03-03">
+        <timex2_mention ID="AFP_ENG_20100303.0095-T0-M1">
+            <extent>
+              <charseq START="145" END="157">March 3, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100303.0095-T1" VAL="P33Y">
+        <timex2_mention ID="AFP_ENG_20100303.0095-T1-M1">
+            <extent>
+              <charseq START="390" END="400">33-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100303.0095-T2" VAL="PAST_REF" ANCHOR_VAL="2010-03-03" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20100303.0095-T2-M1">
+            <extent>
+              <charseq START="402" END="407">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100303.0095-T3" VAL="2010-02-28">
+        <timex2_mention ID="AFP_ENG_20100303.0095-T3-M1">
+            <extent>
+              <charseq START="595" END="600">Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100303.0095-T4">
+        <timex2_mention ID="AFP_ENG_20100303.0095-T4-M1">
+            <extent>
+              <charseq START="953" END="963">Last season</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100303.0095-T5" VAL="2010-02-28">
+        <timex2_mention ID="AFP_ENG_20100303.0095-T5-M1">
+            <extent>
+              <charseq START="1330" END="1341">later Sunday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100303.0095-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100303.0095-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100303.0095-E3" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100303.0095-R0-M200">
+          <extent>
+              <charseq START="129" END="133">LEEDS</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100303.0095-E2-M201" ROLE="Arg-1">
+            <extent>
+              <charseq START="129" END="133">LEEDS</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100303.0095-E3-M203" ROLE="Arg-2">
+            <extent>
+              <charseq START="136" END="142">England</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100303.0095-R1" TYPE="ORG-AFF" SUBTYPE="Sports-Affiliation" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100303.0095-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100303.0095-E18" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100303.0095-R1-M1000">
+          <extent>
+              <charseq START="973" END="977">coach</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100303.0095-E17-M1004" ROLE="Arg-1">
+            <extent>
+              <charseq START="973" END="977">coach</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100303.0095-E18-M1003" ROLE="Arg-2">
+            <extent>
+              <charseq START="970" END="971">KR</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

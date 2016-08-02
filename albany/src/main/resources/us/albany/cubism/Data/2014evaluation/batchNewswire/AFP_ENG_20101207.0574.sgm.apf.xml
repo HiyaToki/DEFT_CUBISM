@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20101207.0574">
+  <document DOCID="AFP_ENG_20101207.0574">
+
+    <entity ID="AFP_ENG_20101207.0574-E0" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E0-M0">
+          <extent>
+              <charseq START="58" END="72">URGENT ¥¥¥ NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="69" END="72">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101207.0574-E0-M2">
+          <extent>
+              <charseq START="65" END="67">¥¥¥</charseq>
+          </extent>
+          <head>
+              <charseq START="65" END="67">¥¥¥</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E0-M301">
+          <extent>
+              <charseq START="199" END="202">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="199" END="202">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E0-M313">
+          <extent>
+              <charseq START="331" END="334">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="334">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101207.0574-E0-M306">
+          <extent>
+              <charseq START="245" END="273">the Western military alliance</charseq>
+          </extent>
+          <head>
+              <charseq START="266" END="273">alliance</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NATO">
+              <charseq START="69" END="72">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="199" END="202">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="331" END="334">NATO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101207.0574-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E1-M5" ROLE="LOC">
+          <extent>
+              <charseq START="79" END="84">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="79" END="84">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E1-M302" ROLE="LOC">
+          <extent>
+              <charseq START="208" END="213">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="208" END="213">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russia">
+              <charseq START="79" END="84">Russia</charseq>
+          </name>
+          <name NAME="Russia">
+              <charseq START="208" END="213">Russia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101207.0574-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101207.0574-E2-M11">
+          <extent>
+              <charseq START="114" END="123">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="119" END="123">other</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20101207.0574-E2-M305">
+          <extent>
+              <charseq START="233" END="242">each other</charseq>
+          </extent>
+          <head>
+              <charseq START="238" END="242">other</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101207.0574-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E3-M102" ROLE="GPE">
+          <extent>
+              <charseq START="148" END="155">BRUSSELS</charseq>
+          </extent>
+          <head>
+              <charseq START="148" END="155">BRUSSELS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="BRUSSELS">
+              <charseq START="148" END="155">BRUSSELS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101207.0574-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E4-M200">
+          <extent>
+              <charseq START="171" END="173">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="171" END="173">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="171" END="173">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101207.0574-E5" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E5-M311" ROLE="GPE">
+          <extent>
+              <charseq START="301" END="302">US</charseq>
+          </extent>
+          <head>
+              <charseq START="301" END="302">US</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US">
+              <charseq START="301" END="302">US</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101207.0574-E6" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E6-M315">
+          <extent>
+              <charseq START="352" END="357">Baltic</charseq>
+          </extent>
+          <head>
+              <charseq START="352" END="357">Baltic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Baltic">
+              <charseq START="352" END="357">Baltic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101207.0574-E7" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20101207.0574-E7-M316">
+          <extent>
+              <charseq START="374" END="379">Moscow</charseq>
+          </extent>
+          <head>
+              <charseq START="374" END="379">Moscow</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Moscow">
+              <charseq START="374" END="379">Moscow</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20101207.0574-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101207.0574-E8-M308">
+          <extent>
+              <charseq START="257" END="264">military</charseq>
+          </extent>
+          <head>
+              <charseq START="257" END="264">military</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20101207.0574-E9" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20101207.0574-E9-M314">
+          <extent>
+              <charseq START="352" END="364">Baltic
+states</charseq>
+          </extent>
+          <head>
+              <charseq START="359" END="364">states</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20101207.0574-T0" VAL="2010">
+        <timex2_mention ID="AFP_ENG_20101207.0574-T0-M1">
+            <extent>
+              <charseq START="165" END="168">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20101207.0574-T1" VAL="2010-12-07">
+        <timex2_mention ID="AFP_ENG_20101207.0574-T1-M1">
+            <extent>
+              <charseq START="280" END="286">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20101207.0574-R0" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20101207.0574-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20101207.0574-E6" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20101207.0574-R0-M300">
+          <extent>
+              <charseq START="352" END="364">Baltic
+states</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20101207.0574-E9-M314" ROLE="Arg-1">
+            <extent>
+              <charseq START="352" END="364">Baltic
+states</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20101207.0574-E6-M315" ROLE="Arg-2">
+            <extent>
+              <charseq START="352" END="357">Baltic</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

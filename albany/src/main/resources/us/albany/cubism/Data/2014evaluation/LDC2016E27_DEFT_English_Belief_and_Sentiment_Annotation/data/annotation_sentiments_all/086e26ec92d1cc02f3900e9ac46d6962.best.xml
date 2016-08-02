@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="tree-56acedd50000000000000008">
+  
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-315" length="6" offset="3611">
+        <text>george</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" length="5" offset="3563">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-321" length="3" offset="3744">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" length="5" offset="3563">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-327" length="3" offset="3711">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" length="5" offset="3563">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1667" length="10" offset="3719">
+        <text>a good man</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-441" length="5" offset="3563">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1175" length="121" offset="1022">
+        <text>one of those whose "worst qualities of an age and much of a generation notable mostly for its narcism and self-indulgence</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-333" length="5" offset="833">BillW</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-555" length="14" offset="2401">
+        <text>his detractors</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-543" length="11" offset="2281">edgarblythe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-561" length="4" offset="2445">
+        <text>They</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-543" length="11" offset="2281">edgarblythe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-567" length="4" offset="2494">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-543" length="11" offset="2281">edgarblythe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-573" length="4" offset="2582">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-543" length="11" offset="2281">edgarblythe</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-711" length="28" offset="3953">
+        <text>the guys that fled to Canada</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="11" offset="3891">JoanneDorel</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-717" length="4" offset="3998">
+        <text>They</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="11" offset="3891">JoanneDorel</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-723" length="5" offset="4085">
+        <text>there</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="11" offset="3891">JoanneDorel</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-783" length="12" offset="3166">
+        <text>This country</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-597" length="5" offset="2758">mikey</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1265" length="6" offset="3197">
+        <text>itself</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-597" length="5" offset="2758">mikey</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1250" length="39" offset="3007">
+        <text>the guys that were "lucky" to come back</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-597" length="5" offset="2758">mikey</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-885">
+        <trigger length="4" offset="3967">fled</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-141" length="11" offset="3891">JoanneDorel</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-1469">
+        <trigger length="5" offset="214">march</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-117" length="11" offset="14">JoanneDorel</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

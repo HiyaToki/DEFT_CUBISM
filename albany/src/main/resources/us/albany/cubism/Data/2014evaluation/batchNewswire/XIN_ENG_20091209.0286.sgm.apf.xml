@@ -1,0 +1,980 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20091209.0286">
+  <document DOCID="XIN_ENG_20091209.0286">
+
+    <entity ID="XIN_ENG_20091209.0286-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M2" ROLE="GPE">
+          <extent>
+              <charseq START="58" END="61">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="61">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M101" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="140" END="149">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="140" END="149">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M300">
+          <extent>
+              <charseq START="191" END="220">The United States on Wednesday</charseq>
+          </extent>
+          <head>
+              <charseq START="195" END="207">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091209.0286-E0-M306">
+          <extent>
+              <charseq START="233" END="235">its</charseq>
+          </extent>
+          <head>
+              <charseq START="233" END="235">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M400">
+          <extent>
+              <charseq START="355" END="371">The United States</charseq>
+          </extent>
+          <head>
+              <charseq START="359" END="371">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M412">
+          <extent>
+              <charseq START="471" END="530">U.S. Secretary of State Hillary Rodham
+Clinton after meeting</charseq>
+          </extent>
+          <head>
+              <charseq START="471" END="474">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M424" ROLE="LOC">
+          <extent>
+              <charseq START="579" END="588">Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="579" END="588">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M601" ROLE="GPE">
+          <extent>
+              <charseq START="704" END="707">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="704" END="707">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M618">
+          <extent>
+              <charseq START="923" END="926">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="923" END="926">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M707">
+          <extent>
+              <charseq START="1076" END="1092">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1080" END="1092">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M807">
+          <extent>
+              <charseq START="1323" END="1339">the United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1327" END="1339">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M900">
+          <extent>
+              <charseq START="1479" END="1562">The United States officially recognized the independence of Ukraine in December
+1991</charseq>
+          </extent>
+          <head>
+              <charseq START="1483" END="1495">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M1009" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1698" END="1707">Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="1698" END="1707">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E0-M1106" ROLE="GPE">
+          <extent>
+              <charseq START="1802" END="1814">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="1802" END="1814">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="58" END="61">U.S.</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="195" END="207">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="359" END="371">United States</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="471" END="474">U.S.</charseq>
+          </name>
+          <name NAME="Washington">
+              <charseq START="579" END="588">Washington</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="704" END="707">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="923" END="926">U.S.</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1080" END="1092">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1327" END="1339">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1483" END="1495">United States</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="1802" END="1814">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M6">
+          <extent>
+              <charseq START="85" END="91">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="85" END="91">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M307">
+          <extent>
+              <charseq START="249" END="255">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="249" END="255">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M402">
+          <extent>
+              <charseq START="400" END="406">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="400" END="406">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M420">
+          <extent>
+              <charseq START="532" END="540">Ukrainian</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="540">Ukrainian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M503">
+          <extent>
+              <charseq START="612" END="618">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="612" END="618">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M602">
+          <extent>
+              <charseq START="726" END="732">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="726" END="732">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M700">
+          <extent>
+              <charseq START="969" END="1000">A strong and independent Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="1000">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M709">
+          <extent>
+              <charseq START="1098" END="1104">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="1098" END="1104">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M802" ROLE="GPE">
+          <extent>
+              <charseq START="1238" END="1246">Ukrainian</charseq>
+          </extent>
+          <head>
+              <charseq START="1238" END="1246">Ukrainian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M812" ROLE="GPE">
+          <extent>
+              <charseq START="1452" END="1460">Ukrainian</charseq>
+          </extent>
+          <head>
+              <charseq START="1452" END="1460">Ukrainian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091209.0286-E1-M811" ROLE="PER">
+          <extent>
+              <charseq START="1448" END="1467">the Ukrainian
+people</charseq>
+          </extent>
+          <head>
+              <charseq START="1462" END="1467">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M905" ROLE="GPE">
+          <extent>
+              <charseq START="1539" END="1545">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="1539" END="1545">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M1003" ROLE="LOC">
+          <extent>
+              <charseq START="1645" END="1651">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="1645" END="1651">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M1102">
+          <extent>
+              <charseq START="1772" END="1778">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="1772" END="1778">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M1110">
+          <extent>
+              <charseq START="1832" END="1838">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="1832" END="1838">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091209.0286-E1-M1114">
+          <extent>
+              <charseq START="1892" END="1894">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1892" END="1894">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E1-M1304">
+          <extent>
+              <charseq START="2170" END="2176">Ukraine</charseq>
+          </extent>
+          <head>
+              <charseq START="2170" END="2176">Ukraine</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ukraine">
+              <charseq START="85" END="91">Ukraine</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="249" END="255">Ukraine</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="400" END="406">Ukraine</charseq>
+          </name>
+          <name NAME="Ukrainian">
+              <charseq START="532" END="540">Ukrainian</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="612" END="618">Ukraine</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="726" END="732">Ukraine</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="994" END="1000">Ukraine</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="1098" END="1104">Ukraine</charseq>
+          </name>
+          <name NAME="Ukrainian">
+              <charseq START="1238" END="1246">Ukrainian</charseq>
+          </name>
+          <name NAME="Ukrainian">
+              <charseq START="1452" END="1460">Ukrainian</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="1539" END="1545">Ukraine</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="1645" END="1651">Ukraine</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="1772" END="1778">Ukraine</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="1832" END="1838">Ukraine</charseq>
+          </name>
+          <name NAME="Ukraine">
+              <charseq START="2170" END="2176">Ukraine</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E2" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E2-M8">
+          <extent>
+              <charseq START="108" END="111">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="108" END="111">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E2-M311">
+          <extent>
+              <charseq START="270" END="314">the North Atlantic Treaty Organization (NATO)</charseq>
+          </extent>
+          <head>
+              <charseq START="274" END="307">North Atlantic Treaty Organization</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E2-M314">
+          <extent>
+              <charseq START="310" END="313">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="310" END="313">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E2-M505">
+          <extent>
+              <charseq START="647" END="650">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="647" END="650">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E2-M1200">
+          <extent>
+              <charseq START="1994" END="1997">NATO</charseq>
+          </extent>
+          <head>
+              <charseq START="1994" END="1997">NATO</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091209.0286-E2-M1306">
+          <extent>
+              <charseq START="2194" END="2214">the military alliance</charseq>
+          </extent>
+          <head>
+              <charseq START="2207" END="2214">alliance</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="NATO">
+              <charseq START="108" END="111">NATO</charseq>
+          </name>
+          <name NAME="North Atlantic Treaty Organization">
+              <charseq START="274" END="307">North Atlantic Treaty Organization</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="310" END="313">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="647" END="650">NATO</charseq>
+          </name>
+          <name NAME="NATO">
+              <charseq START="1994" END="1997">NATO</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E3" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E3-M9" ROLE="LOC">
+          <extent>
+              <charseq START="114" END="115">EU</charseq>
+          </extent>
+          <head>
+              <charseq START="114" END="115">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="EU">
+              <charseq START="114" END="115">EU</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E4-M200">
+          <extent>
+              <charseq START="160" END="165">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="160" END="165">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="160" END="165">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E5" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E5-M315" ROLE="LOC">
+          <extent>
+              <charseq START="320" END="342">the European Union (EU)</charseq>
+          </extent>
+          <head>
+              <charseq START="324" END="337">European Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E5-M318">
+          <extent>
+              <charseq START="340" END="341">EU</charseq>
+          </extent>
+          <head>
+              <charseq START="340" END="341">EU</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E5-M506" ROLE="LOC">
+          <extent>
+              <charseq START="656" END="673">the European Union</charseq>
+          </extent>
+          <head>
+              <charseq START="660" END="673">European Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="European Union">
+              <charseq START="324" END="337">European Union</charseq>
+          </name>
+          <name NAME="EU">
+              <charseq START="340" END="341">EU</charseq>
+          </name>
+          <name NAME="European Union">
+              <charseq START="660" END="673">European Union</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E6-M410">
+          <extent>
+              <charseq START="471" END="588">U.S. Secretary of State Hillary Rodham
+Clinton after meeting Ukrainian Foreign Minister Petro Poroshenko in Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="559" END="574">Petro Poroshenko</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091209.0286-E6-M422">
+          <extent>
+              <charseq START="550" END="557">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="550" END="557">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Petro Poroshenko">
+              <charseq START="559" END="574">Petro Poroshenko</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E7-M415">
+          <extent>
+              <charseq START="489" END="530">State Hillary Rodham
+Clinton after meeting</charseq>
+          </extent>
+          <head>
+              <charseq START="495" END="516">Hillary Rodham
+Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20091209.0286-E7-M508">
+          <extent>
+              <charseq START="677" END="679">she</charseq>
+          </extent>
+          <head>
+              <charseq START="677" END="679">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E7-M704">
+          <extent>
+              <charseq START="1055" END="1217">Clinton, adding that the United States and Ukraine, combined with
+strategic partnership, &quot;can meet the challenges and seize the opportunities of
+the 21st century.&quot;</charseq>
+          </extent>
+          <head>
+              <charseq START="1055" END="1061">Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E7-M806">
+          <extent>
+              <charseq START="1310" END="1316">Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="1310" END="1316">Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hillary Rodham
+Clinton">
+              <charseq START="495" END="516">Hillary Rodham
+Clinton</charseq>
+          </name>
+          <name NAME="Clinton">
+              <charseq START="1055" END="1061">Clinton</charseq>
+          </name>
+          <name NAME="Clinton">
+              <charseq START="1310" END="1316">Clinton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E8" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E8-M417">
+          <extent>
+              <charseq START="489" END="493">State</charseq>
+          </extent>
+          <head>
+              <charseq START="489" END="493">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="State">
+              <charseq START="489" END="493">State</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E10" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E10-M611">
+          <extent>
+              <charseq START="870" END="875">Kosovo</charseq>
+          </extent>
+          <head>
+              <charseq START="870" END="875">Kosovo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kosovo">
+              <charseq START="870" END="875">Kosovo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E11-M612">
+          <extent>
+              <charseq START="880" END="886">Liberia</charseq>
+          </extent>
+          <head>
+              <charseq START="880" END="886">Liberia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Liberia">
+              <charseq START="880" END="886">Liberia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E12-M613" ROLE="LOC">
+          <extent>
+              <charseq START="891" END="895">Sudan</charseq>
+          </extent>
+          <head>
+              <charseq START="891" END="895">Sudan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Sudan">
+              <charseq START="891" END="895">Sudan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E13-M619" ROLE="LOC">
+          <extent>
+              <charseq START="946" END="956">Afghanistan</charseq>
+          </extent>
+          <head>
+              <charseq START="946" END="956">Afghanistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Afghanistan">
+              <charseq START="946" END="956">Afghanistan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E14" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091209.0286-E14-M600">
+          <extent>
+              <charseq START="696" END="716">The top U.S. diplomat</charseq>
+          </extent>
+          <head>
+              <charseq START="709" END="716">diplomat</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E15" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091209.0286-E15-M702">
+          <extent>
+              <charseq START="1014" END="1023">the region</charseq>
+          </extent>
+          <head>
+              <charseq START="1018" END="1023">region</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091209.0286-E16-M810">
+          <extent>
+              <charseq START="1426" END="1436">the leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="1430" END="1436">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E17" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E17-M909" ROLE="GPE">
+          <extent>
+              <charseq START="1593" END="1608">the Soviet Union</charseq>
+          </extent>
+          <head>
+              <charseq START="1597" END="1608">Soviet Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E17-M1403" ROLE="GPE">
+          <extent>
+              <charseq START="2247" END="2269">the former Soviet Union</charseq>
+          </extent>
+          <head>
+              <charseq START="2258" END="2269">Soviet Union</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Soviet Union">
+              <charseq START="1597" END="1608">Soviet Union</charseq>
+          </name>
+          <name NAME="Soviet Union">
+              <charseq START="2258" END="2269">Soviet Union</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E18" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E18-M1008" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="1689" END="1692">Kiev</charseq>
+          </extent>
+          <head>
+              <charseq START="1689" END="1692">Kiev</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E19" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E19-M1100">
+          <extent>
+              <charseq START="1730" END="1765">the Charter on Strategic Partnership</charseq>
+          </extent>
+          <head>
+              <charseq START="1734" END="1765">Charter on Strategic Partnership</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Charter on Strategic Partnership">
+              <charseq START="1734" END="1765">Charter on Strategic Partnership</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E20" TYPE="LOC" SUBTYPE="Water-Body" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E20-M1115">
+          <extent>
+              <charseq START="1897" END="1910">Euro- Atlantic</charseq>
+          </extent>
+          <head>
+              <charseq START="1897" END="1910">Euro- Atlantic</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E20-M1120">
+          <extent>
+              <charseq START="1974" END="1981">Atlantic</charseq>
+          </extent>
+          <head>
+              <charseq START="1974" END="1981">Atlantic</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Euro- Atlantic">
+              <charseq START="1897" END="1910">Euro- Atlantic</charseq>
+          </name>
+          <name NAME="Atlantic">
+              <charseq START="1974" END="1981">Atlantic</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E21" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091209.0286-E21-M1118">
+          <extent>
+              <charseq START="1945" END="1960">the
+institutions</charseq>
+          </extent>
+          <head>
+              <charseq START="1949" END="1960">institutions</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E22-M1206">
+          <extent>
+              <charseq START="2084" END="2089">Poland</charseq>
+          </extent>
+          <head>
+              <charseq START="2084" END="2089">Poland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Poland">
+              <charseq START="2084" END="2089">Poland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E23-M1207">
+          <extent>
+              <charseq START="2095" END="2101">Hungary</charseq>
+          </extent>
+          <head>
+              <charseq START="2095" END="2101">Hungary</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hungary">
+              <charseq START="2095" END="2101">Hungary</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E24" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091209.0286-E24-M1202">
+          <extent>
+              <charseq START="2044" END="2071">former Warsaw Pact countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2063" END="2071">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E25-M1300">
+          <extent>
+              <charseq START="2113" END="2118">Russia</charseq>
+          </extent>
+          <head>
+              <charseq START="2113" END="2118">Russia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Russia">
+              <charseq START="2113" END="2118">Russia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E26" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20091209.0286-E26-M1305">
+          <extent>
+              <charseq START="2181" END="2187">Georgia</charseq>
+          </extent>
+          <head>
+              <charseq START="2181" END="2187">Georgia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Georgia">
+              <charseq START="2181" END="2187">Georgia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20091209.0286-E27" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20091209.0286-E27-M1307">
+          <extent>
+              <charseq START="2198" END="2205">military</charseq>
+          </extent>
+          <head>
+              <charseq START="2198" END="2205">military</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20091209.0286-T0" VAL="2009-12-09">
+        <timex2_mention ID="XIN_ENG_20091209.0286-T0-M1">
+            <extent>
+              <charseq START="152" END="157">Dec. 9</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091209.0286-T1" VAL="2009-12-09">
+        <timex2_mention ID="XIN_ENG_20091209.0286-T1-M1">
+            <extent>
+              <charseq START="212" END="220">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091209.0286-T2" VAL="20">
+        <timex2_mention ID="XIN_ENG_20091209.0286-T2-M1">
+            <extent>
+              <charseq START="1200" END="1215">the 21st century</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091209.0286-T3" VAL="2010-01-17">
+        <timex2_mention ID="XIN_ENG_20091209.0286-T3-M1">
+            <extent>
+              <charseq START="1291" END="1307">Jan. 17 next
+year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091209.0286-T4" VAL="1991-12">
+        <timex2_mention ID="XIN_ENG_20091209.0286-T4-M1">
+            <extent>
+              <charseq START="1550" END="1562">December
+1991</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091209.0286-T5" VAL="2008-12">
+        <timex2_mention ID="XIN_ENG_20091209.0286-T5-M1">
+            <extent>
+              <charseq START="1783" END="1795">December 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091209.0286-T6" VAL="PAST_REF" ANCHOR_VAL="2009-12-09" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20091209.0286-T6-M1">
+            <extent>
+              <charseq START="2044" END="2049">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20091209.0286-T7" VAL="PAST_REF" ANCHOR_VAL="2009-12-09" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20091209.0286-T7-M1">
+            <extent>
+              <charseq START="2251" END="2256">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20091209.0286-R0" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091209.0286-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091209.0286-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091209.0286-R0-M400">
+          <extent>
+              <charseq START="471" END="588">U.S. Secretary of State Hillary Rodham
+Clinton after meeting Ukrainian Foreign Minister Petro Poroshenko in Washington</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091209.0286-E6-M410" ROLE="Arg-1">
+            <extent>
+              <charseq START="471" END="588">U.S. Secretary of State Hillary Rodham
+Clinton after meeting Ukrainian Foreign Minister Petro Poroshenko in Washington</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091209.0286-E0-M424" ROLE="Arg-2">
+            <extent>
+              <charseq START="579" END="588">Washington</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091209.0286-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091209.0286-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091209.0286-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091209.0286-R1-M401">
+          <extent>
+              <charseq START="550" END="557">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091209.0286-E6-M422" ROLE="Arg-1">
+            <extent>
+              <charseq START="550" END="557">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091209.0286-E1-M420" ROLE="Arg-2">
+            <extent>
+              <charseq START="532" END="540">Ukrainian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20091209.0286-R2" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20091209.0286-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20091209.0286-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20091209.0286-R2-M600">
+          <extent>
+              <charseq START="696" END="716">The top U.S. diplomat</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20091209.0286-E14-M600" ROLE="Arg-1">
+            <extent>
+              <charseq START="696" END="716">The top U.S. diplomat</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20091209.0286-E0-M601" ROLE="Arg-2">
+            <extent>
+              <charseq START="704" END="707">U.S.</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

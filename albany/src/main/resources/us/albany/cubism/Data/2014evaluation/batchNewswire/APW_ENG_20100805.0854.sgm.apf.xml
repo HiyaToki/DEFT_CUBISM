@@ -1,0 +1,689 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100805.0854">
+  <document DOCID="APW_ENG_20100805.0854">
+
+    <entity ID="APW_ENG_20100805.0854-E0" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E0-M0">
+          <extent>
+              <charseq START="58" END="63">Senate</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="63">Senate</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E0-M907">
+          <extent>
+              <charseq START="1098" END="1107">the Senate</charseq>
+          </extent>
+          <head>
+              <charseq START="1102" END="1107">Senate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Senate">
+              <charseq START="58" END="63">Senate</charseq>
+          </name>
+          <name NAME="Senate">
+              <charseq START="1102" END="1107">Senate</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E1-M1">
+          <extent>
+              <charseq START="74" END="78">Kagan</charseq>
+          </extent>
+          <head>
+              <charseq START="74" END="78">Kagan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E1-M202">
+          <extent>
+              <charseq START="208" END="218">Elena Kagan</charseq>
+          </extent>
+          <head>
+              <charseq START="208" END="218">Elena Kagan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E1-M400">
+          <extent>
+              <charseq START="409" END="413">Kagan</charseq>
+          </extent>
+          <head>
+              <charseq START="409" END="413">Kagan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E1-M406">
+          <extent>
+              <charseq START="507" END="530">a leader of the liberals</charseq>
+          </extent>
+          <head>
+              <charseq START="509" END="514">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M409">
+          <extent>
+              <charseq START="532" END="534">who</charseq>
+          </extent>
+          <head>
+              <charseq START="532" END="534">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M503">
+          <extent>
+              <charseq START="620" END="622">her</charseq>
+          </extent>
+          <head>
+              <charseq START="620" END="622">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E1-M601">
+          <extent>
+              <charseq START="660" END="664">Kagan</charseq>
+          </extent>
+          <head>
+              <charseq START="660" END="664">Kagan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E1-M602">
+          <extent>
+              <charseq START="670" END="724">a political liberal who would be unable to be impartial</charseq>
+          </extent>
+          <head>
+              <charseq START="682" END="688">liberal</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M604">
+          <extent>
+              <charseq START="690" END="692">who</charseq>
+          </extent>
+          <head>
+              <charseq START="690" END="692">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E1-M703">
+          <extent>
+              <charseq START="753" END="784">a highly qualified legal scholar</charseq>
+          </extent>
+          <head>
+              <charseq START="778" END="784">scholar</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M701">
+          <extent>
+              <charseq START="746" END="748">her</charseq>
+          </extent>
+          <head>
+              <charseq START="746" END="748">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E1-M802">
+          <extent>
+              <charseq START="803" END="882">the first Supreme Court nominee in nearly 40 years with no experience as a judge</charseq>
+          </extent>
+          <head>
+              <charseq START="827" END="833">nominee</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M800">
+          <extent>
+              <charseq START="796" END="798">She</charseq>
+          </extent>
+          <head>
+              <charseq START="796" END="798">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M810">
+          <extent>
+              <charseq START="889" END="891">her</charseq>
+          </extent>
+          <head>
+              <charseq START="889" END="891">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E1-M909">
+          <extent>
+              <charseq START="1131" END="1143">support Kagan</charseq>
+          </extent>
+          <head>
+              <charseq START="1139" END="1143">Kagan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E1-M910">
+          <extent>
+              <charseq START="1131" END="1137">support</charseq>
+          </extent>
+          <head>
+              <charseq START="1131" END="1137">support</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M1102">
+          <extent>
+              <charseq START="1304" END="1306">Her</charseq>
+          </extent>
+          <head>
+              <charseq START="1304" END="1306">Her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M1119">
+          <extent>
+              <charseq START="1440" END="1442">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1440" END="1442">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M1201">
+          <extent>
+              <charseq START="1519" END="1521">her</charseq>
+          </extent>
+          <head>
+              <charseq START="1519" END="1521">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E1-M1207">
+          <extent>
+              <charseq START="1607" END="1609">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1607" END="1609">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kagan">
+              <charseq START="74" END="78">Kagan</charseq>
+          </name>
+          <name NAME="Elena Kagan">
+              <charseq START="208" END="218">Elena Kagan</charseq>
+          </name>
+          <name NAME="Kagan">
+              <charseq START="409" END="413">Kagan</charseq>
+          </name>
+          <name NAME="Kagan">
+              <charseq START="660" END="664">Kagan</charseq>
+          </name>
+          <name NAME="Kagan">
+              <charseq START="1139" END="1143">Kagan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="120" END="129">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="120" END="129">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="120" END="129">WASHINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E3" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E3-M200">
+          <extent>
+              <charseq START="178" END="192">The U.S. Senate</charseq>
+          </extent>
+          <head>
+              <charseq START="182" END="192">U.S. Senate</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S. Senate">
+              <charseq START="182" END="192">U.S. Senate</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E4" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E4-M207">
+          <extent>
+              <charseq START="270" END="286">the Supreme Court</charseq>
+          </extent>
+          <head>
+              <charseq START="274" END="286">Supreme Court</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E4-M403">
+          <extent>
+              <charseq START="467" END="475">the court</charseq>
+          </extent>
+          <head>
+              <charseq START="471" END="475">court</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E4-M804">
+          <extent>
+              <charseq START="813" END="825">Supreme Court</charseq>
+          </extent>
+          <head>
+              <charseq START="813" END="825">Supreme Court</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E4-M815">
+          <extent>
+              <charseq START="981" END="1001">the nine-member court</charseq>
+          </extent>
+          <head>
+              <charseq START="997" END="1001">court</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Supreme Court">
+              <charseq START="274" END="286">Supreme Court</charseq>
+          </name>
+          <name NAME="Supreme Court">
+              <charseq START="813" END="825">Supreme Court</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E5-M206">
+          <extent>
+              <charseq START="245" END="256">fourth woman</charseq>
+          </extent>
+          <head>
+              <charseq START="252" END="256">woman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E6" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E6-M302">
+          <extent>
+              <charseq START="321" END="342">President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="342">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E6-M303">
+          <extent>
+              <charseq START="321" END="329">President</charseq>
+          </extent>
+          <head>
+              <charseq START="321" END="329">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E6-M301">
+          <extent>
+              <charseq START="321" END="352">President Barack Obama&apos;s nominee</charseq>
+          </extent>
+          <head>
+              <charseq START="346" END="352">nominee</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="331" END="342">Barack Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E7-M305">
+          <extent>
+              <charseq START="373" END="397">Justice John Paul Stevens</charseq>
+          </extent>
+          <head>
+              <charseq START="381" END="397">John Paul Stevens</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E7-M306">
+          <extent>
+              <charseq START="373" END="379">Justice</charseq>
+          </extent>
+          <head>
+              <charseq START="373" END="379">Justice</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E7-M405">
+          <extent>
+              <charseq START="484" END="490">Stevens</charseq>
+          </extent>
+          <head>
+              <charseq START="484" END="490">Stevens</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Paul Stevens">
+              <charseq START="381" END="397">John Paul Stevens</charseq>
+          </name>
+          <name NAME="Stevens">
+              <charseq START="484" END="490">Stevens</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E8-M408">
+          <extent>
+              <charseq START="519" END="530">the liberals</charseq>
+          </extent>
+          <head>
+              <charseq START="523" END="530">liberals</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E9" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E9-M500">
+          <extent>
+              <charseq START="587" END="634">But the two parties clashed over her nomination.</charseq>
+          </extent>
+          <head>
+              <charseq START="599" END="605">parties</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E10" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E10-M600">
+          <extent>
+              <charseq START="636" END="646">Republicans</charseq>
+          </extent>
+          <head>
+              <charseq START="636" END="646">Republicans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E10-M900">
+          <extent>
+              <charseq START="1049" END="1064">Five Republicans</charseq>
+          </extent>
+          <head>
+              <charseq START="1054" END="1064">Republicans</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E10-M1108">
+          <extent>
+              <charseq START="1366" END="1389">fence-sitting Republican</charseq>
+          </extent>
+          <head>
+              <charseq START="1380" END="1389">Republican</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E10-M1206">
+          <extent>
+              <charseq START="1578" END="1587">Republican</charseq>
+          </extent>
+          <head>
+              <charseq START="1578" END="1587">Republican</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Republicans">
+              <charseq START="636" END="646">Republicans</charseq>
+          </name>
+          <name NAME="Republicans">
+              <charseq START="1054" END="1064">Republicans</charseq>
+          </name>
+          <name NAME="Republican">
+              <charseq START="1380" END="1389">Republican</charseq>
+          </name>
+          <name NAME="Republican">
+              <charseq START="1578" END="1587">Republican</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E11" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E11-M700">
+          <extent>
+              <charseq START="727" END="735">Democrats</charseq>
+          </extent>
+          <head>
+              <charseq START="727" END="735">Democrats</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E11-M904">
+          <extent>
+              <charseq START="1081" END="1092">one Democrat</charseq>
+          </extent>
+          <head>
+              <charseq START="1085" END="1092">Democrat</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Democrats">
+              <charseq START="727" END="735">Democrats</charseq>
+          </name>
+          <name NAME="Democrat">
+              <charseq START="1085" END="1092">Democrat</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E12-M808">
+          <extent>
+              <charseq START="876" END="882">a judge</charseq>
+          </extent>
+          <head>
+              <charseq START="878" END="882">judge</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E13-M814">
+          <extent>
+              <charseq START="946" END="956">three women</charseq>
+          </extent>
+          <head>
+              <charseq START="952" END="956">women</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E14-M816">
+          <extent>
+              <charseq START="1010" END="1037">justices over serve for life</charseq>
+          </extent>
+          <head>
+              <charseq START="1010" END="1017">justices</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E15" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E15-M906">
+          <extent>
+              <charseq START="1098" END="1126">the Senate&apos;s two independents</charseq>
+          </extent>
+          <head>
+              <charseq START="1115" END="1126">independents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E16-M1003">
+          <extent>
+              <charseq START="1213" END="1220">senators</charseq>
+          </extent>
+          <head>
+              <charseq START="1213" END="1220">senators</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E16-M1005">
+          <extent>
+              <charseq START="1229" END="1233">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1229" END="1233">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E16-M1008">
+          <extent>
+              <charseq START="1259" END="1263">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1259" END="1263">their</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E17" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E17-M1110">
+          <extent>
+              <charseq START="1392" END="1408">Sen. Scott Brown,</charseq>
+          </extent>
+          <head>
+              <charseq START="1397" END="1407">Scott Brown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E17-M1112">
+          <extent>
+              <charseq START="1392" END="1395">Sen.</charseq>
+          </extent>
+          <head>
+              <charseq START="1392" END="1395">Sen.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E17-M1116">
+          <extent>
+              <charseq START="1422" END="1424">his</charseq>
+          </extent>
+          <head>
+              <charseq START="1422" END="1424">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100805.0854-E17-M1202">
+          <extent>
+              <charseq START="1536" END="1600">Brown -- who had been seen as a potential Republican supporter --</charseq>
+          </extent>
+          <head>
+              <charseq START="1536" END="1540">Brown</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100805.0854-E17-M1204">
+          <extent>
+              <charseq START="1545" END="1547">who</charseq>
+          </extent>
+          <head>
+              <charseq START="1545" END="1547">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scott Brown">
+              <charseq START="1397" END="1407">Scott Brown</charseq>
+          </name>
+          <name NAME="Brown">
+              <charseq START="1536" END="1540">Brown</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100805.0854-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100805.0854-E18-M1205">
+          <extent>
+              <charseq START="1566" END="1597">a potential Republican supporter</charseq>
+          </extent>
+          <head>
+              <charseq START="1589" END="1597">supporter</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100805.0854-T0" VAL="2010-08-05-08">
+        <timex2_mention ID="APW_ENG_20100805.0854-T0-M1">
+            <extent>
+              <charseq START="131" END="140">2010-08-05</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100805.0854-T1" VAL="P40Y" MOD="LESS_THAN">
+        <timex2_mention ID="APW_ENG_20100805.0854-T1-M1">
+            <extent>
+              <charseq START="838" END="852">nearly 40 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100805.0854-T2" VAL="2010-08-05">
+        <timex2_mention ID="APW_ENG_20100805.0854-T2-M1">
+            <extent>
+              <charseq START="1457" END="1464">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100805.0854-T3" VAL="PTXH">
+        <timex2_mention ID="APW_ENG_20100805.0854-T3-M1">
+            <extent>
+              <charseq START="1467" END="1492">just hours before the vote</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100805.0854-R0" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100805.0854-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100805.0854-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100805.0854-R0-M200">
+          <extent>
+              <charseq START="208" END="218">Elena Kagan</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100805.0854-E1-M202" ROLE="Arg-1">
+            <extent>
+              <charseq START="208" END="218">Elena Kagan</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100805.0854-E4-M207" ROLE="Arg-2">
+            <extent>
+              <charseq START="270" END="286">the Supreme Court</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100805.0854-R1" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100805.0854-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100805.0854-E4" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100805.0854-R1-M800">
+          <extent>
+              <charseq START="946" END="956">three women</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100805.0854-E13-M814" ROLE="Arg-1">
+            <extent>
+              <charseq START="946" END="956">three women</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100805.0854-E4-M815" ROLE="Arg-2">
+            <extent>
+              <charseq START="981" END="1001">the nine-member court</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100805.0854-R2" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100805.0854-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100805.0854-E10" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100805.0854-R2-M1200">
+          <extent>
+              <charseq START="1566" END="1597">a potential Republican supporter</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100805.0854-E18-M1205" ROLE="Arg-1">
+            <extent>
+              <charseq START="1566" END="1597">a potential Republican supporter</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100805.0854-E10-M1206" ROLE="Arg-2">
+            <extent>
+              <charseq START="1578" END="1587">Republican</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,1361 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20090925.0156">
+  <document DOCID="XIN_ENG_20090925.0156">
+
+    <entity ID="XIN_ENG_20090925.0156-E0" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E0-M2">
+          <extent>
+              <charseq START="58" END="59">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="59">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E0-M0">
+          <extent>
+              <charseq START="58" END="97">UN agency assisting Palestinian refugees</charseq>
+          </extent>
+          <head>
+              <charseq START="61" END="66">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E0-M101">
+          <extent>
+              <charseq START="148" END="161">UNITED NATIONS</charseq>
+          </extent>
+          <head>
+              <charseq START="148" END="161">UNITED NATIONS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E0-M315">
+          <extent>
+              <charseq START="372" END="373">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="372" END="373">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E0-M313">
+          <extent>
+              <charseq START="370" END="442">a UN agency that has assisted Palestinian refugees across the Middle
+East</charseq>
+          </extent>
+          <head>
+              <charseq START="375" END="380">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E0-M407">
+          <extent>
+              <charseq START="544" END="545">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="544" END="545">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E0-M802">
+          <extent>
+              <charseq START="1411" END="1412">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="1411" END="1412">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E0-M1203">
+          <extent>
+              <charseq START="2125" END="2126">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="2125" END="2126">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UN">
+              <charseq START="58" END="59">UN</charseq>
+          </name>
+          <name NAME="UNITED NATIONS">
+              <charseq START="148" END="161">UNITED NATIONS</charseq>
+          </name>
+          <name NAME="UN">
+              <charseq START="372" END="373">UN</charseq>
+          </name>
+          <name NAME="UN">
+              <charseq START="544" END="545">UN</charseq>
+          </name>
+          <name NAME="UN">
+              <charseq START="1411" END="1412">UN</charseq>
+          </name>
+          <name NAME="UN">
+              <charseq START="2125" END="2126">UN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E1" TYPE="GPE" SUBTYPE="Special" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E1-M4" ROLE="GPE">
+          <extent>
+              <charseq START="78" END="88">Palestinian</charseq>
+          </extent>
+          <head>
+              <charseq START="78" END="88">Palestinian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E1-M318" ROLE="GPE">
+          <extent>
+              <charseq START="400" END="410">Palestinian</charseq>
+          </extent>
+          <head>
+              <charseq START="400" END="410">Palestinian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E1-M519" ROLE="GPE">
+          <extent>
+              <charseq START="893" END="901">Palestine</charseq>
+          </extent>
+          <head>
+              <charseq START="893" END="901">Palestine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E1-M818" ROLE="GPE">
+          <extent>
+              <charseq START="1590" END="1600">Palestinian</charseq>
+          </extent>
+          <head>
+              <charseq START="1590" END="1600">Palestinian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E1-M821" ROLE="GPE">
+          <extent>
+              <charseq START="1629" END="1637">Palestine</charseq>
+          </extent>
+          <head>
+              <charseq START="1629" END="1637">Palestine</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E1-M817" ROLE="PER">
+          <extent>
+              <charseq START="1586" END="1607">the Palestinian people</charseq>
+          </extent>
+          <head>
+              <charseq START="1602" END="1607">people</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E1-M1509" ROLE="GPE">
+          <extent>
+              <charseq START="2755" END="2765">Palestinian</charseq>
+          </extent>
+          <head>
+              <charseq START="2755" END="2765">Palestinian</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Palestinian">
+              <charseq START="78" END="88">Palestinian</charseq>
+          </name>
+          <name NAME="Palestinian">
+              <charseq START="400" END="410">Palestinian</charseq>
+          </name>
+          <name NAME="Palestine">
+              <charseq START="893" END="901">Palestine</charseq>
+          </name>
+          <name NAME="Palestinian">
+              <charseq START="1590" END="1600">Palestinian</charseq>
+          </name>
+          <name NAME="Palestine">
+              <charseq START="1629" END="1637">Palestine</charseq>
+          </name>
+          <name NAME="Palestinian">
+              <charseq START="2755" END="2765">Palestinian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E2" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E2-M3">
+          <extent>
+              <charseq START="78" END="97">Palestinian refugees</charseq>
+          </extent>
+          <head>
+              <charseq START="90" END="97">refugees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E2-M317">
+          <extent>
+              <charseq START="400" END="419">Palestinian refugees</charseq>
+          </extent>
+          <head>
+              <charseq START="412" END="419">refugees</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E3-M200">
+          <extent>
+              <charseq START="174" END="179">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="174" END="179">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="174" END="179">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E4-M307">
+          <extent>
+              <charseq START="288" END="314">United Nations Headquarters</charseq>
+          </extent>
+          <head>
+              <charseq START="288" END="314">United Nations Headquarters</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="United Nations Headquarters">
+              <charseq START="288" END="314">United Nations Headquarters</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E5" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E5-M308" ROLE="LOC">
+          <extent>
+              <charseq START="319" END="326">New York</charseq>
+          </extent>
+          <head>
+              <charseq START="319" END="326">New York</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E5-M305">
+          <extent>
+              <charseq START="233" END="242">government</charseq>
+          </extent>
+          <head>
+              <charseq START="233" END="242">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="New York">
+              <charseq START="319" END="326">New York</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E6" TYPE="GPE" SUBTYPE="GPE-Cluster" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E6-M319" ROLE="LOC">
+          <extent>
+              <charseq START="428" END="442">the Middle
+East</charseq>
+          </extent>
+          <head>
+              <charseq START="432" END="442">Middle
+East</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Middle
+East">
+              <charseq START="432" END="442">Middle
+East</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E7-M301">
+          <extent>
+              <charseq START="205" END="220">National leaders</charseq>
+          </extent>
+          <head>
+              <charseq START="214" END="220">leaders</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E8" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E8-M303">
+          <extent>
+              <charseq START="226" END="455">senior government ministers from around the world gathered
+at United Nations Headquarters in New York Thursday to pay tribute to the
+efforts of a UN agency that has assisted Palestinian refugees across the Middle
+East for 60 years</charseq>
+          </extent>
+          <head>
+              <charseq START="244" END="252">ministers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E9" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E9-M306">
+          <extent>
+              <charseq START="266" END="274">the world</charseq>
+          </extent>
+          <head>
+              <charseq START="270" END="274">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E10-M406">
+          <extent>
+              <charseq START="540" END="592">the UN
+Relief and Works Agency for Palestine Refugees</charseq>
+          </extent>
+          <head>
+              <charseq START="547" END="592">Relief and Works Agency for Palestine Refugees</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Relief and Works Agency for Palestine Refugees">
+              <charseq START="547" END="592">Relief and Works Agency for Palestine Refugees</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E11" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E11-M412">
+          <extent>
+              <charseq START="612" END="616">UNRWA</charseq>
+          </extent>
+          <head>
+              <charseq START="612" END="616">UNRWA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E11-M504">
+          <extent>
+              <charseq START="739" END="743">UNRWA</charseq>
+          </extent>
+          <head>
+              <charseq START="739" END="743">UNRWA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E11-M700">
+          <extent>
+              <charseq START="1137" END="1146">The agency</charseq>
+          </extent>
+          <head>
+              <charseq START="1141" END="1146">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E11-M805">
+          <extent>
+              <charseq START="1449" END="1458">the agency</charseq>
+          </extent>
+          <head>
+              <charseq START="1453" END="1458">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E11-M901">
+          <extent>
+              <charseq START="1663" END="1667">UNRWA</charseq>
+          </extent>
+          <head>
+              <charseq START="1663" END="1667">UNRWA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E11-M910">
+          <extent>
+              <charseq START="1758" END="1767">the agency</charseq>
+          </extent>
+          <head>
+              <charseq START="1762" END="1767">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090925.0156-E11-M908">
+          <extent>
+              <charseq START="1732" END="1736">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1732" END="1736">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E11-M1001">
+          <extent>
+              <charseq START="1858" END="1867">The agency</charseq>
+          </extent>
+          <head>
+              <charseq START="1862" END="1867">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090925.0156-E11-M1002">
+          <extent>
+              <charseq START="1897" END="1898">it</charseq>
+          </extent>
+          <head>
+              <charseq START="1897" END="1898">it</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E11-M1102">
+          <extent>
+              <charseq START="1995" END="1999">UNRWA</charseq>
+          </extent>
+          <head>
+              <charseq START="1995" END="1999">UNRWA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090925.0156-E11-M1106">
+          <extent>
+              <charseq START="2040" END="2042">its</charseq>
+          </extent>
+          <head>
+              <charseq START="2040" END="2042">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E11-M1208">
+          <extent>
+              <charseq START="2181" END="2190">the agency</charseq>
+          </extent>
+          <head>
+              <charseq START="2185" END="2190">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E11-M1303">
+          <extent>
+              <charseq START="2210" END="2214">UNRWA</charseq>
+          </extent>
+          <head>
+              <charseq START="2210" END="2214">UNRWA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E11-M1314">
+          <extent>
+              <charseq START="2355" END="2364">the
+agency</charseq>
+          </extent>
+          <head>
+              <charseq START="2359" END="2364">agency</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E11-M1407">
+          <extent>
+              <charseq START="2513" END="2517">UNRWA</charseq>
+          </extent>
+          <head>
+              <charseq START="2513" END="2517">UNRWA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E11-M1506">
+          <extent>
+              <charseq START="2738" END="2742">UNRWA</charseq>
+          </extent>
+          <head>
+              <charseq START="2738" END="2742">UNRWA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UNRWA">
+              <charseq START="612" END="616">UNRWA</charseq>
+          </name>
+          <name NAME="UNRWA">
+              <charseq START="739" END="743">UNRWA</charseq>
+          </name>
+          <name NAME="UNRWA">
+              <charseq START="1663" END="1667">UNRWA</charseq>
+          </name>
+          <name NAME="UNRWA">
+              <charseq START="1995" END="1999">UNRWA</charseq>
+          </name>
+          <name NAME="UNRWA">
+              <charseq START="2210" END="2214">UNRWA</charseq>
+          </name>
+          <name NAME="UNRWA">
+              <charseq START="2513" END="2517">UNRWA</charseq>
+          </name>
+          <name NAME="UNRWA">
+              <charseq START="2738" END="2742">UNRWA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E12" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E12-M420" ROLE="GPE">
+          <extent>
+              <charseq START="702" END="708">Israeli</charseq>
+          </extent>
+          <head>
+              <charseq START="702" END="708">Israeli</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Israeli">
+              <charseq START="702" END="708">Israeli</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E13" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E13-M501">
+          <extent>
+              <charseq START="724" END="736">Karen AbuZayd</charseq>
+          </extent>
+          <head>
+              <charseq START="724" END="736">Karen AbuZayd</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E13-M502">
+          <extent>
+              <charseq START="739" END="767">UNRWA&apos;s Commissioner-General,</charseq>
+          </extent>
+          <head>
+              <charseq START="747" END="758">Commissioner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E13-M505">
+          <extent>
+              <charseq START="760" END="767">General,</charseq>
+          </extent>
+          <head>
+              <charseq START="760" END="766">General</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090925.0156-E13-M617">
+          <extent>
+              <charseq START="1118" END="1120">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1118" END="1120">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E13-M1101">
+          <extent>
+              <charseq START="1975" END="1981">AbuZayd</charseq>
+          </extent>
+          <head>
+              <charseq START="1975" END="1981">AbuZayd</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E13-M1204">
+          <extent>
+              <charseq START="2128" END="2133">Member</charseq>
+          </extent>
+          <head>
+              <charseq START="2128" END="2133">Member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090925.0156-E13-M1200">
+          <extent>
+              <charseq START="2115" END="2117">She</charseq>
+          </extent>
+          <head>
+              <charseq START="2115" END="2117">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E13-M1400">
+          <extent>
+              <charseq START="2425" END="2431">AbuZayd</charseq>
+          </extent>
+          <head>
+              <charseq START="2425" END="2431">AbuZayd</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090925.0156-E13-M1401">
+          <extent>
+              <charseq START="2438" END="2440">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2438" END="2440">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090925.0156-E13-M1413">
+          <extent>
+              <charseq START="2596" END="2598">she</charseq>
+          </extent>
+          <head>
+              <charseq START="2596" END="2598">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Karen AbuZayd">
+              <charseq START="724" END="736">Karen AbuZayd</charseq>
+          </name>
+          <name NAME="AbuZayd">
+              <charseq START="1975" END="1981">AbuZayd</charseq>
+          </name>
+          <name NAME="AbuZayd">
+              <charseq START="2425" END="2431">AbuZayd</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E14-M518">
+          <extent>
+              <charseq START="893" END="910">Palestine refugees</charseq>
+          </extent>
+          <head>
+              <charseq START="903" END="910">refugees</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E14-M616">
+          <extent>
+              <charseq START="1086" END="1097">the
+refugees</charseq>
+          </extent>
+          <head>
+              <charseq START="1090" END="1097">refugees</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E17" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E17-M716">
+          <extent>
+              <charseq START="1319" END="1332">the Gaza Strip</charseq>
+          </extent>
+          <head>
+              <charseq START="1323" END="1332">Gaza Strip</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Gaza Strip">
+              <charseq START="1323" END="1332">Gaza Strip</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E18" TYPE="LOC" SUBTYPE="Region-General" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E18-M718">
+          <extent>
+              <charseq START="1335" END="1347">the West Bank</charseq>
+          </extent>
+          <head>
+              <charseq START="1339" END="1347">West Bank</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="West Bank">
+              <charseq START="1339" END="1347">West Bank</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E19" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E19-M721" ROLE="LOC">
+          <extent>
+              <charseq START="1350" END="1355">Jordan</charseq>
+          </extent>
+          <head>
+              <charseq START="1350" END="1355">Jordan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E19-M1513">
+          <extent>
+              <charseq START="2792" END="2797">Jordan</charseq>
+          </extent>
+          <head>
+              <charseq START="2792" END="2797">Jordan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Jordan">
+              <charseq START="1350" END="1355">Jordan</charseq>
+          </name>
+          <name NAME="Jordan">
+              <charseq START="2792" END="2797">Jordan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E20-M722" ROLE="LOC">
+          <extent>
+              <charseq START="1358" END="1364">Lebanon</charseq>
+          </extent>
+          <head>
+              <charseq START="1358" END="1364">Lebanon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E20-M1405" ROLE="LOC">
+          <extent>
+              <charseq START="2474" END="2486">every country</charseq>
+          </extent>
+          <head>
+              <charseq START="2480" END="2486">country</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lebanon">
+              <charseq START="1358" END="1364">Lebanon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E21" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E21-M723" ROLE="LOC">
+          <extent>
+              <charseq START="1370" END="1374">Syria</charseq>
+          </extent>
+          <head>
+              <charseq START="1370" END="1374">Syria</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Syria">
+              <charseq START="1370" END="1374">Syria</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E22-M713">
+          <extent>
+              <charseq START="1275" END="1374">an estimated
+4.6 million refugees living in the Gaza Strip, the West Bank, Jordan, Lebanon
+and Syria</charseq>
+          </extent>
+          <head>
+              <charseq START="1300" END="1307">refugees</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E23" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E23-M801">
+          <extent>
+              <charseq START="1411" END="1442">UN Secretary-General Ban Ki-moon</charseq>
+          </extent>
+          <head>
+              <charseq START="1432" END="1442">Ban Ki-moon</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E23-M803">
+          <extent>
+              <charseq START="1414" END="1430">Secretary-General</charseq>
+          </extent>
+          <head>
+              <charseq START="1414" END="1430">Secretary-General</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20090925.0156-E23-M1008">
+          <extent>
+              <charseq START="1946" END="1947">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1946" END="1947">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Ban Ki-moon">
+              <charseq START="1432" END="1442">Ban Ki-moon</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E24" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E24-M816">
+          <extent>
+              <charseq START="1534" END="1560">the
+international community</charseq>
+          </extent>
+          <head>
+              <charseq START="1552" END="1560">community</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E25" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E25-M904">
+          <extent>
+              <charseq START="1713" END="1795">all partners to
+do their part to ensure that the agency&apos;s invaluable work is placed</charseq>
+          </extent>
+          <head>
+              <charseq START="1717" END="1724">partners</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E26" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E26-M1105">
+          <extent>
+              <charseq START="2040" END="2055">its
+29,000 staff</charseq>
+          </extent>
+          <head>
+              <charseq START="2051" END="2055">staff</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E27" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E27-M1202">
+          <extent>
+              <charseq START="2125" END="2140">UN Member States</charseq>
+          </extent>
+          <head>
+              <charseq START="2135" END="2140">States</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E28" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E28-M1312" ROLE="GPE">
+          <extent>
+              <charseq START="2331" END="2334">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="2331" END="2334">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E28-M1518" ROLE="GPE">
+          <extent>
+              <charseq START="2829" END="2841">United States</charseq>
+          </extent>
+          <head>
+              <charseq START="2829" END="2841">United States</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="2331" END="2334">U.S.</charseq>
+          </name>
+          <name NAME="United States">
+              <charseq START="2829" END="2841">United States</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E29" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E29-M1307">
+          <extent>
+              <charseq START="2254" END="2277">the commissioner-general</charseq>
+          </extent>
+          <head>
+              <charseq START="2258" END="2277">commissioner-general</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E30" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E30-M1508">
+          <extent>
+              <charseq START="2755" END="2789">Palestinian President Mahmoud Abbas</charseq>
+          </extent>
+          <head>
+              <charseq START="2777" END="2789">Mahmoud Abbas</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E30-M1510">
+          <extent>
+              <charseq START="2767" END="2775">President</charseq>
+          </extent>
+          <head>
+              <charseq START="2767" END="2775">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mahmoud Abbas">
+              <charseq START="2777" END="2789">Mahmoud Abbas</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E31" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E31-M1512">
+          <extent>
+              <charseq START="2792" END="2823">Jordan&apos;s
+Queen Rania al Abdullah</charseq>
+          </extent>
+          <head>
+              <charseq START="2807" END="2823">Rania al Abdullah</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E31-M1514">
+          <extent>
+              <charseq START="2801" END="2805">Queen</charseq>
+          </extent>
+          <head>
+              <charseq START="2801" END="2805">Queen</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Rania al Abdullah">
+              <charseq START="2807" END="2823">Rania al Abdullah</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E32" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E32-M1519">
+          <extent>
+              <charseq START="2856" END="2876">State Hillary Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="2862" END="2876">Hillary Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hillary Clinton">
+              <charseq START="2862" END="2876">Hillary Clinton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E33" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20090925.0156-E33-M1520">
+          <extent>
+              <charseq START="2856" END="2860">State</charseq>
+          </extent>
+          <head>
+              <charseq START="2856" END="2860">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="State">
+              <charseq START="2856" END="2860">State</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20090925.0156-E34" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20090925.0156-E34-M1516">
+          <extent>
+              <charseq START="2829" END="2876">United States Secretary of State Hillary Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="2843" END="2851">Secretary</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T0" VAL="1960">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T0-M1">
+            <extent>
+              <charseq START="108" END="123">60th
+anniversary</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T1" VAL="2009-09-24">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T1-M1">
+            <extent>
+              <charseq START="164" END="171">Sept. 24</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T2" VAL="2009-09-24">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T2-M1">
+            <extent>
+              <charseq START="328" END="335">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T3" VAL="P60Y">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T3-M1">
+            <extent>
+              <charseq START="448" END="455">60 years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T4" VAL="1960">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T4-M1">
+            <extent>
+              <charseq START="516" END="535">the 60th anniversary</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T5" VAL="1948">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T5-M1">
+            <extent>
+              <charseq START="691" END="694">1948</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T6" VAL="P60Y">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T6-M1">
+            <extent>
+              <charseq START="844" END="860">60 years of exile</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T7" VAL="PRESENT_REF" ANCHOR_VAL="2009-09-25" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T7-M1">
+            <extent>
+              <charseq START="1148" END="1156">currently</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T8" VAL="PAST_REF" ANCHOR_VAL="2009-09-25" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T8-M1">
+            <extent>
+              <charseq START="1798" END="1801">once</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T9" VAL="2009-W38">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T9-M1">
+            <extent>
+              <charseq START="1965" END="1973">Last week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T10" VAL="2009" MOD="END">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T10-M1">
+            <extent>
+              <charseq START="2065" END="2084">the end of this year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <value ID="XIN_ENG_20090925.0156-V11" TYPE="Numeric" SUBTYPE="Money">
+        <value_mention ID="XIN_ENG_20090925.0156-V11-M1">
+            <extent>
+              <charseq START="2313" END="2342">nearly 17 million U.S. dollars</charseq>
+            </extent>
+        </value_mention>
+    </value>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T12" VAL="2010">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T12-M1">
+            <extent>
+              <charseq START="2410" END="2413">2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T13" VAL="P1W">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T13-M1">
+            <extent>
+              <charseq START="2457" END="2469">the past week</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20090925.0156-T14" VAL="PRESENT_REF" ANCHOR_VAL="2009-09-25" ANCHOR_DIR="AS_OF">
+        <timex2_mention ID="XIN_ENG_20090925.0156-T14-M1">
+            <extent>
+              <charseq START="2573" END="2579">current</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20090925.0156-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R0-M0">
+          <extent>
+              <charseq START="78" END="97">Palestinian refugees</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E2-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="78" END="97">Palestinian refugees</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E1-M4" ROLE="Arg-2">
+            <extent>
+              <charseq START="78" END="88">Palestinian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="XIN_ENG_20090925.0156-R0-M302">
+          <extent>
+              <charseq START="400" END="419">Palestinian refugees</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E2-M317" ROLE="Arg-1">
+            <extent>
+              <charseq START="400" END="419">Palestinian refugees</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E1-M318" ROLE="Arg-2">
+            <extent>
+              <charseq START="400" END="410">Palestinian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E5" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R1-M300">
+          <extent>
+              <charseq START="226" END="455">senior government ministers from around the world gathered
+at United Nations Headquarters in New York Thursday to pay tribute to the
+efforts of a UN agency that has assisted Palestinian refugees across the Middle
+East for 60 years</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E8-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="226" END="455">senior government ministers from around the world gathered
+at United Nations Headquarters in New York Thursday to pay tribute to the
+efforts of a UN agency that has assisted Palestinian refugees across the Middle
+East for 60 years</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E5-M305" ROLE="Arg-2">
+            <extent>
+              <charseq START="233" END="242">government</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E4" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E5" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R2-M301">
+          <extent>
+              <charseq START="288" END="314">United Nations Headquarters</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E4-M307" ROLE="Arg-1">
+            <extent>
+              <charseq START="288" END="314">United Nations Headquarters</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E5-M308" ROLE="Arg-2">
+            <extent>
+              <charseq START="319" END="326">New York</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R3" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E10" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R3-M400">
+          <extent>
+              <charseq START="540" END="592">the UN
+Relief and Works Agency for Palestine Refugees</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E10-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="540" END="592">the UN
+Relief and Works Agency for Palestine Refugees</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E0-M407" ROLE="Arg-2">
+            <extent>
+              <charseq START="544" END="545">UN</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E11" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R4-M500">
+          <extent>
+              <charseq START="739" END="767">UNRWA&apos;s Commissioner-General,</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E13-M502" ROLE="Arg-1">
+            <extent>
+              <charseq START="739" END="767">UNRWA&apos;s Commissioner-General,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E11-M504" ROLE="Arg-2">
+            <extent>
+              <charseq START="739" END="743">UNRWA</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R5" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R5-M501">
+          <extent>
+              <charseq START="893" END="910">Palestine refugees</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E14-M518" ROLE="Arg-1">
+            <extent>
+              <charseq START="893" END="910">Palestine refugees</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E1-M519" ROLE="Arg-2">
+            <extent>
+              <charseq START="893" END="901">Palestine</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R6" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E17" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R6-M700">
+          <extent>
+              <charseq START="1275" END="1374">an estimated
+4.6 million refugees living in the Gaza Strip, the West Bank, Jordan, Lebanon
+and Syria</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E22-M713" ROLE="Arg-1">
+            <extent>
+              <charseq START="1275" END="1374">an estimated
+4.6 million refugees living in the Gaza Strip, the West Bank, Jordan, Lebanon
+and Syria</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E17-M716" ROLE="Arg-2">
+            <extent>
+              <charseq START="1319" END="1332">the Gaza Strip</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E22" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E18" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R7-M701">
+          <extent>
+              <charseq START="1275" END="1374">an estimated
+4.6 million refugees living in the Gaza Strip, the West Bank, Jordan, Lebanon
+and Syria</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E22-M713" ROLE="Arg-1">
+            <extent>
+              <charseq START="1275" END="1374">an estimated
+4.6 million refugees living in the Gaza Strip, the West Bank, Jordan, Lebanon
+and Syria</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E18-M718" ROLE="Arg-2">
+            <extent>
+              <charseq START="1335" END="1347">the West Bank</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E19" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R8-M702">
+          <extent>
+              <charseq START="1335" END="1347">the West Bank</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E18-M718" ROLE="Arg-1">
+            <extent>
+              <charseq START="1335" END="1347">the West Bank</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E19-M721" ROLE="Arg-2">
+            <extent>
+              <charseq START="1350" END="1355">Jordan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R9" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E23" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R9-M800">
+          <extent>
+              <charseq START="1414" END="1430">Secretary-General</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E23-M803" ROLE="Arg-1">
+            <extent>
+              <charseq START="1414" END="1430">Secretary-General</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E0-M802" ROLE="Arg-2">
+            <extent>
+              <charseq START="1411" END="1412">UN</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R10" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E26" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E11" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R10-M1100">
+          <extent>
+              <charseq START="2040" END="2055">its
+29,000 staff</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E26-M1105" ROLE="Arg-1">
+            <extent>
+              <charseq START="2040" END="2055">its
+29,000 staff</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E11-M1106" ROLE="Arg-2">
+            <extent>
+              <charseq START="2040" END="2042">its</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R11" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E30" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R11-M1500">
+          <extent>
+              <charseq START="2767" END="2775">President</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E30-M1510" ROLE="Arg-1">
+            <extent>
+              <charseq START="2767" END="2775">President</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E1-M1509" ROLE="Arg-2">
+            <extent>
+              <charseq START="2755" END="2765">Palestinian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R12" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E31" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E19" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R12-M1501">
+          <extent>
+              <charseq START="2801" END="2805">Queen</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E31-M1514" ROLE="Arg-1">
+            <extent>
+              <charseq START="2801" END="2805">Queen</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E19-M1513" ROLE="Arg-2">
+            <extent>
+              <charseq START="2792" END="2797">Jordan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20090925.0156-R13" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20090925.0156-E34" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20090925.0156-E28" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20090925.0156-R13-M1502">
+          <extent>
+              <charseq START="2829" END="2876">United States Secretary of State Hillary Clinton</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E34-M1516" ROLE="Arg-1">
+            <extent>
+              <charseq START="2829" END="2876">United States Secretary of State Hillary Clinton</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20090925.0156-E28-M1518" ROLE="Arg-2">
+            <extent>
+              <charseq START="2829" END="2841">United States</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

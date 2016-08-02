@@ -1,0 +1,581 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100414.0085">
+  <document DOCID="AFP_ENG_20100414.0085">
+
+    <entity ID="AFP_ENG_20100414.0085-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E0-M0">
+          <extent>
+              <charseq START="58" END="72">Actress Winslet</charseq>
+          </extent>
+          <head>
+              <charseq START="66" END="72">Winslet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E0-M300">
+          <extent>
+              <charseq START="187" END="220">Oscar-winning actress Kate Winslet</charseq>
+          </extent>
+          <head>
+              <charseq START="209" END="220">Kate Winslet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100414.0085-E0-M304">
+          <extent>
+              <charseq START="228" END="230">her</charseq>
+          </extent>
+          <head>
+              <charseq START="228" END="230">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100414.0085-E0-M313">
+          <extent>
+              <charseq START="310" END="312">she</charseq>
+          </extent>
+          <head>
+              <charseq START="310" END="312">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E0-M401">
+          <extent>
+              <charseq START="389" END="395">Winslet</charseq>
+          </extent>
+          <head>
+              <charseq START="389" END="395">Winslet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E0-M402">
+          <extent>
+              <charseq START="398" END="460">winner of the 2009 best actress Academy Award for &quot;The Reader&quot;,</charseq>
+          </extent>
+          <head>
+              <charseq START="398" END="403">winner</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E0-M408">
+          <extent>
+              <charseq START="448" END="460">&quot;The Reader&quot;,</charseq>
+          </extent>
+          <head>
+              <charseq START="453" END="458">Reader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100414.0085-E0-M411">
+          <extent>
+              <charseq START="466" END="468">her</charseq>
+          </extent>
+          <head>
+              <charseq START="466" END="468">her</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100414.0085-E0-M718">
+          <extent>
+              <charseq START="1049" END="1051">she</charseq>
+          </extent>
+          <head>
+              <charseq START="1049" END="1051">she</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100414.0085-E0-M900">
+          <extent>
+              <charseq START="1273" END="1275">She</charseq>
+          </extent>
+          <head>
+              <charseq START="1273" END="1275">She</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E0-M1100">
+          <extent>
+              <charseq START="1552" END="1558">Winslet</charseq>
+          </extent>
+          <head>
+              <charseq START="1552" END="1558">Winslet</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E0-M1101">
+          <extent>
+              <charseq START="1563" END="1616">the latest British star to speak out against foie gras</charseq>
+          </extent>
+          <head>
+              <charseq START="1582" END="1585">star</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E0-M1201">
+          <extent>
+              <charseq START="1619" END="1623">Actor</charseq>
+          </extent>
+          <head>
+              <charseq START="1619" END="1623">Actor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Winslet">
+              <charseq START="66" END="72">Winslet</charseq>
+          </name>
+          <name NAME="Kate Winslet">
+              <charseq START="209" END="220">Kate Winslet</charseq>
+          </name>
+          <name NAME="Winslet">
+              <charseq START="389" END="395">Winslet</charseq>
+          </name>
+          <name NAME="Winslet">
+              <charseq START="1552" END="1558">Winslet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E1-M101" ROLE="LOC">
+          <extent>
+              <charseq START="135" END="140">LONDON</charseq>
+          </extent>
+          <head>
+              <charseq START="135" END="140">LONDON</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E1-M1211" ROLE="GPE">
+          <extent>
+              <charseq START="1708" END="1713">London</charseq>
+          </extent>
+          <head>
+              <charseq START="1708" END="1713">London</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E1-M1308">
+          <extent>
+              <charseq START="1832" END="1850">the
+British capital</charseq>
+          </extent>
+          <head>
+              <charseq START="1844" END="1850">capital</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="LONDON">
+              <charseq START="135" END="140">LONDON</charseq>
+          </name>
+          <name NAME="London">
+              <charseq START="1708" END="1713">London</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E2" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E2-M200">
+          <extent>
+              <charseq START="159" END="161">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="159" END="161">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="159" END="161">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E3-M414">
+          <extent>
+              <charseq START="495" END="559">campaign group People for the Ethical Treatment of
+Animals (PETA)</charseq>
+          </extent>
+          <head>
+              <charseq START="510" END="552">People for the Ethical Treatment of
+Animals</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E3-M419">
+          <extent>
+              <charseq START="555" END="558">PETA</charseq>
+          </extent>
+          <head>
+              <charseq START="555" END="558">PETA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E3-M417">
+          <extent>
+              <charseq START="504" END="508">group</charseq>
+          </extent>
+          <head>
+              <charseq START="504" END="508">group</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E3-M503">
+          <extent>
+              <charseq START="590" END="593">PETA</charseq>
+          </extent>
+          <head>
+              <charseq START="590" END="593">PETA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100414.0085-E3-M516">
+          <extent>
+              <charseq START="741" END="745">their</charseq>
+          </extent>
+          <head>
+              <charseq START="741" END="745">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E3-M1000">
+          <extent>
+              <charseq START="1418" END="1421">PETA</charseq>
+          </extent>
+          <head>
+              <charseq START="1418" END="1421">PETA</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E3-M1401">
+          <extent>
+              <charseq START="1946" END="1949">PETA</charseq>
+          </extent>
+          <head>
+              <charseq START="1946" END="1949">PETA</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="People for the Ethical Treatment of
+Animals">
+              <charseq START="510" END="552">People for the Ethical Treatment of
+Animals</charseq>
+          </name>
+          <name NAME="PETA">
+              <charseq START="555" END="558">PETA</charseq>
+          </name>
+          <name NAME="PETA">
+              <charseq START="590" END="593">PETA</charseq>
+          </name>
+          <name NAME="PETA">
+              <charseq START="1418" END="1421">PETA</charseq>
+          </name>
+          <name NAME="PETA">
+              <charseq START="1946" END="1949">PETA</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E4-M506">
+          <extent>
+              <charseq START="625" END="639">foie gras farms</charseq>
+          </extent>
+          <head>
+              <charseq START="635" END="639">farms</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E5" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E5-M704">
+          <extent>
+              <charseq START="912" END="927">some restaurants</charseq>
+          </extent>
+          <head>
+              <charseq START="917" END="927">restaurants</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E6" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E6-M705">
+          <extent>
+              <charseq START="933" END="937">shops</charseq>
+          </extent>
+          <head>
+              <charseq START="933" END="937">shops</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100414.0085-E7-M706">
+          <extent>
+              <charseq START="944" END="949">no one</charseq>
+          </extent>
+          <head>
+              <charseq START="947" END="949">one</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E9" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E9-M1002">
+          <extent>
+              <charseq START="1455" END="1498">exclusive department stores around the
+world</charseq>
+          </extent>
+          <head>
+              <charseq START="1476" END="1481">stores</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E10" TYPE="LOC" SUBTYPE="Celestial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E10-M1005">
+          <extent>
+              <charseq START="1490" END="1498">the
+world</charseq>
+          </extent>
+          <head>
+              <charseq START="1494" END="1498">world</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E11-M1103" ROLE="GPE">
+          <extent>
+              <charseq START="1574" END="1580">British</charseq>
+          </extent>
+          <head>
+              <charseq START="1574" END="1580">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E11-M1309" ROLE="GPE">
+          <extent>
+              <charseq START="1836" END="1842">British</charseq>
+          </extent>
+          <head>
+              <charseq START="1836" END="1842">British</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="British">
+              <charseq START="1574" END="1580">British</charseq>
+          </name>
+          <name NAME="British">
+              <charseq START="1836" END="1842">British</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E12" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E12-M1203">
+          <extent>
+              <charseq START="1640" END="1650">Roger Moore</charseq>
+          </extent>
+          <head>
+              <charseq START="1640" END="1650">Roger Moore</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Roger Moore">
+              <charseq START="1640" END="1650">Roger Moore</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E13" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E13-M1209">
+          <extent>
+              <charseq START="1702" END="1730">a top
+London shop in November</charseq>
+          </extent>
+          <head>
+              <charseq START="1715" END="1718">shop</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E14" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E14-M1306">
+          <extent>
+              <charseq START="1817" END="1826">Selfridges</charseq>
+          </extent>
+          <head>
+              <charseq START="1817" END="1826">Selfridges</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Selfridges">
+              <charseq START="1817" END="1826">Selfridges</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E15" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100414.0085-E15-M1307">
+          <extent>
+              <charseq START="1832" END="1866">the
+British capital&apos;s Oxford Street</charseq>
+          </extent>
+          <head>
+              <charseq START="1854" END="1866">Oxford Street</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E15-M1302">
+          <extent>
+              <charseq START="1787" END="1826">the upmarket department store Selfridges</charseq>
+          </extent>
+          <head>
+              <charseq START="1811" END="1815">store</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Oxford Street">
+              <charseq START="1854" END="1866">Oxford Street</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E16" TYPE="VEH" SUBTYPE="Land" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E16-M1300">
+          <extent>
+              <charseq START="1759" END="1765">The bus</charseq>
+          </extent>
+          <head>
+              <charseq START="1763" END="1765">bus</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100414.0085-E17" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100414.0085-E17-M1311">
+          <extent>
+              <charseq START="1875" END="1923">shoppers to think twice about buying the
+delicacy</charseq>
+          </extent>
+          <head>
+              <charseq START="1875" END="1882">shoppers</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100414.0085-T0" VAL="2010-04-14">
+        <timex2_mention ID="AFP_ENG_20100414.0085-T0-M1">
+            <extent>
+              <charseq START="143" END="156">April 14, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100414.0085-T1" VAL="2010-04-14">
+        <timex2_mention ID="AFP_ENG_20100414.0085-T1-M1">
+            <extent>
+              <charseq START="239" END="247">Wednesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100414.0085-T2" VAL="2009">
+        <timex2_mention ID="AFP_ENG_20100414.0085-T2-M1">
+            <extent>
+              <charseq START="412" END="415">2009</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100414.0085-T3" VAL="P1D">
+        <timex2_mention ID="AFP_ENG_20100414.0085-T3-M1">
+            <extent>
+              <charseq START="1192" END="1196">a day</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100414.0085-T4" VAL="PAST_REF" ANCHOR_VAL="2010-04-14" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="AFP_ENG_20100414.0085-T4-M1">
+            <extent>
+              <charseq START="1629" END="1634">former</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100414.0085-T5" VAL="2009-11">
+        <timex2_mention ID="AFP_ENG_20100414.0085-T5-M1">
+            <extent>
+              <charseq START="1723" END="1730">November</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100414.0085-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100414.0085-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100414.0085-E11" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100414.0085-R0-M1100">
+          <extent>
+              <charseq START="1563" END="1616">the latest British star to speak out against foie gras</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0085-E0-M1101" ROLE="Arg-1">
+            <extent>
+              <charseq START="1563" END="1616">the latest British star to speak out against foie gras</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0085-E11-M1103" ROLE="Arg-2">
+            <extent>
+              <charseq START="1574" END="1580">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100414.0085-R1" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100414.0085-E13" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100414.0085-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100414.0085-R1-M1200">
+          <extent>
+              <charseq START="1702" END="1730">a top
+London shop in November</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0085-E13-M1209" ROLE="Arg-1">
+            <extent>
+              <charseq START="1702" END="1730">a top
+London shop in November</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0085-E1-M1211" ROLE="Arg-2">
+            <extent>
+              <charseq START="1708" END="1713">London</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100414.0085-R2" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100414.0085-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100414.0085-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100414.0085-R2-M1300">
+          <extent>
+              <charseq START="1832" END="1866">the
+British capital&apos;s Oxford Street</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0085-E15-M1307" ROLE="Arg-1">
+            <extent>
+              <charseq START="1832" END="1866">the
+British capital&apos;s Oxford Street</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0085-E1-M1308" ROLE="Arg-2">
+            <extent>
+              <charseq START="1832" END="1850">the
+British capital</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100414.0085-R3" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100414.0085-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100414.0085-E11" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100414.0085-R3-M1301">
+          <extent>
+              <charseq START="1832" END="1850">the
+British capital</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0085-E1-M1308" ROLE="Arg-1">
+            <extent>
+              <charseq START="1832" END="1850">the
+British capital</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100414.0085-E11-M1309" ROLE="Arg-2">
+            <extent>
+              <charseq START="1836" END="1842">British</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

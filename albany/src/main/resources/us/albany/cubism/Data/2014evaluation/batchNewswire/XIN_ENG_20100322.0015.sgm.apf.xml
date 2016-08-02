@@ -1,0 +1,1207 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="XIN_ENG_20100322.0015">
+  <document DOCID="XIN_ENG_20100322.0015">
+
+    <entity ID="XIN_ENG_20100322.0015-E0" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M0">
+          <extent>
+              <charseq START="58" END="62">China</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M300">
+          <extent>
+              <charseq START="186" END="190">China</charseq>
+          </extent>
+          <head>
+              <charseq START="186" END="190">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M312" ROLE="GPE">
+          <extent>
+              <charseq START="373" END="379">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="373" END="379">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M407">
+          <extent>
+              <charseq START="485" END="489">China</charseq>
+          </extent>
+          <head>
+              <charseq START="485" END="489">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M603">
+          <extent>
+              <charseq START="813" END="817">China</charseq>
+          </extent>
+          <head>
+              <charseq START="813" END="817">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M802">
+          <extent>
+              <charseq START="1324" END="1328">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1324" END="1328">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M808">
+          <extent>
+              <charseq START="1364" END="1368">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1364" END="1368">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M900">
+          <extent>
+              <charseq START="1470" END="1474">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1470" END="1474">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100322.0015-E0-M909">
+          <extent>
+              <charseq START="1551" END="1553">its</charseq>
+          </extent>
+          <head>
+              <charseq START="1551" END="1553">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M1004" ROLE="GPE">
+          <extent>
+              <charseq START="1668" END="1672">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1668" END="1672">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M1205" ROLE="GPE">
+          <extent>
+              <charseq START="1843" END="1847">China</charseq>
+          </extent>
+          <head>
+              <charseq START="1843" END="1847">China</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E0-M1301" ROLE="GPE">
+          <extent>
+              <charseq START="1912" END="1918">Chinese</charseq>
+          </extent>
+          <head>
+              <charseq START="1912" END="1918">Chinese</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="China">
+              <charseq START="58" END="62">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="186" END="190">China</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="373" END="379">Chinese</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="485" END="489">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="813" END="817">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1324" END="1328">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1364" END="1368">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1470" END="1474">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1668" END="1672">China</charseq>
+          </name>
+          <name NAME="China">
+              <charseq START="1843" END="1847">China</charseq>
+          </name>
+          <name NAME="Chinese">
+              <charseq START="1912" END="1918">Chinese</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E1" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M3" ROLE="GPE">
+          <extent>
+              <charseq START="97" END="113">Tunisia: official</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="103">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M304">
+          <extent>
+              <charseq START="238" END="244">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="238" END="244">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M412" ROLE="GPE">
+          <extent>
+              <charseq START="540" END="547">Tunisian</charseq>
+          </extent>
+          <head>
+              <charseq START="540" END="547">Tunisian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M510" ROLE="GPE">
+          <extent>
+              <charseq START="719" END="725">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="719" END="725">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M604">
+          <extent>
+              <charseq START="823" END="829">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="823" END="829">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M805">
+          <extent>
+              <charseq START="1342" END="1348">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="1342" END="1348">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M901">
+          <extent>
+              <charseq START="1491" END="1497">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="1491" END="1497">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M1001">
+          <extent>
+              <charseq START="1600" END="1606">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="1600" END="1606">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M1201">
+          <extent>
+              <charseq START="1793" END="1799">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="1793" END="1799">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M1302" ROLE="LOC">
+          <extent>
+              <charseq START="1957" END="1963">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="1957" END="1963">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M1414">
+          <extent>
+              <charseq START="2138" END="2144">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="2138" END="2144">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M1500" ROLE="ORG" METONYMY_MENTION="TRUE">
+          <extent>
+              <charseq START="2188" END="2192">Tunis</charseq>
+          </extent>
+          <head>
+              <charseq START="2188" END="2192">Tunis</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E1-M1510" ROLE="LOC">
+          <extent>
+              <charseq START="2251" END="2257">Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="2251" END="2257">Tunisia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tunisia">
+              <charseq START="97" END="103">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="238" END="244">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisian">
+              <charseq START="540" END="547">Tunisian</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="719" END="725">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="823" END="829">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="1342" END="1348">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="1491" END="1497">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="1600" END="1606">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="1793" END="1799">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="1957" END="1963">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="2138" END="2144">Tunisia</charseq>
+          </name>
+          <name NAME="Tunisia">
+              <charseq START="2251" END="2257">Tunisia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E2-M5">
+          <extent>
+              <charseq START="106" END="113">official</charseq>
+          </extent>
+          <head>
+              <charseq START="106" END="113">official</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E2-M311">
+          <extent>
+              <charseq START="366" END="388">senior Chinese official</charseq>
+          </extent>
+          <head>
+              <charseq START="381" END="388">official</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E3-M101" ROLE="LOC">
+          <extent>
+              <charseq START="138" END="142">TUNIS</charseq>
+          </extent>
+          <head>
+              <charseq START="138" END="142">TUNIS</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="TUNIS">
+              <charseq START="138" END="142">TUNIS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E4" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E4-M200">
+          <extent>
+              <charseq START="155" END="160">Xinhua</charseq>
+          </extent>
+          <head>
+              <charseq START="155" END="160">Xinhua</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinhua">
+              <charseq START="155" END="160">Xinhua</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E5-M401">
+          <extent>
+              <charseq START="415" END="426">Wang Zhaoguo</charseq>
+          </extent>
+          <head>
+              <charseq START="415" END="426">Wang Zhaoguo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E5-M501">
+          <extent>
+              <charseq START="593" END="596">Wang</charseq>
+          </extent>
+          <head>
+              <charseq START="593" END="596">Wang</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E5-M502">
+          <extent>
+              <charseq START="599" END="788">also a member of the Political Bureau of the Central Committee of the
+Communist Party of China, led a NPC delegation to Tunisia for an official
+goodwill visit, starting from Saturday evening</charseq>
+          </extent>
+          <head>
+              <charseq START="606" END="611">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100322.0015-E5-M600">
+          <extent>
+              <charseq START="800" END="801">He</charseq>
+          </extent>
+          <head>
+              <charseq START="800" END="801">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E5-M710">
+          <extent>
+              <charseq START="1291" END="1294">Wang</charseq>
+          </extent>
+          <head>
+              <charseq START="1291" END="1294">Wang</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100322.0015-E5-M800">
+          <extent>
+              <charseq START="1311" END="1312">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1311" END="1312">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E5-M1105">
+          <extent>
+              <charseq START="1700" END="1703">Wang</charseq>
+          </extent>
+          <head>
+              <charseq START="1700" END="1703">Wang</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E5-M1400">
+          <extent>
+              <charseq START="1998" END="2001">Wang</charseq>
+          </extent>
+          <head>
+              <charseq START="1998" END="2001">Wang</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E5-M1504">
+          <extent>
+              <charseq START="2216" END="2219">Wang</charseq>
+          </extent>
+          <head>
+              <charseq START="2216" END="2219">Wang</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100322.0015-E5-M1508">
+          <extent>
+              <charseq START="2225" END="2227">his</charseq>
+          </extent>
+          <head>
+              <charseq START="2225" END="2227">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Wang Zhaoguo">
+              <charseq START="415" END="426">Wang Zhaoguo</charseq>
+          </name>
+          <name NAME="Wang">
+              <charseq START="593" END="596">Wang</charseq>
+          </name>
+          <name NAME="Wang">
+              <charseq START="1291" END="1294">Wang</charseq>
+          </name>
+          <name NAME="Wang">
+              <charseq START="1700" END="1703">Wang</charseq>
+          </name>
+          <name NAME="Wang">
+              <charseq START="1998" END="2001">Wang</charseq>
+          </name>
+          <name NAME="Wang">
+              <charseq START="2216" END="2219">Wang</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E6" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E6-M404">
+          <extent>
+              <charseq START="446" END="481">the National People&apos;s Congress ( NPC</charseq>
+          </extent>
+          <head>
+              <charseq START="450" END="481">National People&apos;s Congress ( NPC</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E6-M509">
+          <extent>
+              <charseq START="701" END="703">NPC</charseq>
+          </extent>
+          <head>
+              <charseq START="701" END="703">NPC</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="National People&apos;s Congress ( NPC">
+              <charseq START="450" END="481">National People&apos;s Congress ( NPC</charseq>
+          </name>
+          <name NAME="NPC">
+              <charseq START="701" END="703">NPC</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E7" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E7-M411">
+          <extent>
+              <charseq START="540" END="581">Tunisian Prime Minister Mohamed
+Ghannouchi</charseq>
+          </extent>
+          <head>
+              <charseq START="564" END="581">Mohamed
+Ghannouchi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E7-M414">
+          <extent>
+              <charseq START="555" END="562">Minister</charseq>
+          </extent>
+          <head>
+              <charseq START="555" END="562">Minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E7-M1000">
+          <extent>
+              <charseq START="1579" END="1588">Ghannouchi</charseq>
+          </extent>
+          <head>
+              <charseq START="1579" END="1588">Ghannouchi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100322.0015-E7-M1100">
+          <extent>
+              <charseq START="1675" END="1676">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1675" END="1676">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100322.0015-E7-M1102">
+          <extent>
+              <charseq START="1683" END="1684">he</charseq>
+          </extent>
+          <head>
+              <charseq START="1683" END="1684">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E7-M1200">
+          <extent>
+              <charseq START="1764" END="1781">The prime minister</charseq>
+          </extent>
+          <head>
+              <charseq START="1774" END="1781">minister</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Mohamed
+Ghannouchi">
+              <charseq START="564" END="581">Mohamed
+Ghannouchi</charseq>
+          </name>
+          <name NAME="Ghannouchi">
+              <charseq START="1579" END="1588">Ghannouchi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E8-M402">
+          <extent>
+              <charseq START="429" END="482">vice-chairman of the National People&apos;s Congress ( NPC)</charseq>
+          </extent>
+          <head>
+              <charseq START="429" END="441">vice-chairman</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E9" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E9-M406">
+          <extent>
+              <charseq START="485" END="502">China&apos;s
+parliament</charseq>
+          </extent>
+          <head>
+              <charseq START="493" END="502">parliament</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E10-M505">
+          <extent>
+              <charseq START="616" END="692">the Political Bureau of the Central Committee of the
+Communist Party of China</charseq>
+          </extent>
+          <head>
+              <charseq START="620" END="692">Political Bureau of the Central Committee of the
+Communist Party of China</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Political Bureau of the Central Committee of the
+Communist Party of China">
+              <charseq START="620" END="692">Political Bureau of the Central Committee of the
+Communist Party of China</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E11-M507">
+          <extent>
+              <charseq START="699" END="725">a NPC delegation to Tunisia</charseq>
+          </extent>
+          <head>
+              <charseq START="705" END="714">delegation</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E12-M621">
+          <extent>
+              <charseq START="1029" END="1052">people
+of both countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1029" END="1034">people</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E13" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E13-M623" ROLE="GPE">
+          <extent>
+              <charseq START="1039" END="1052">both countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1044" END="1052">countries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E13-M624">
+          <extent>
+              <charseq START="1061" END="1118">the two countries established diplomatic ties 46 years
+ago</charseq>
+          </extent>
+          <head>
+              <charseq START="1069" END="1077">countries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E13-M701">
+          <extent>
+              <charseq START="1147" END="1163">the two countries</charseq>
+          </extent>
+          <head>
+              <charseq START="1155" END="1163">countries</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="XIN_ENG_20100322.0015-E13-M704">
+          <extent>
+              <charseq START="1176" END="1180">their</charseq>
+          </extent>
+          <head>
+              <charseq START="1176" END="1180">their</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E13-M1404">
+          <extent>
+              <charseq START="2029" END="2045">the two countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2037" END="2045">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E14" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E14-M810" ROLE="LOC">
+          <extent>
+              <charseq START="1404" END="1443">Taiwan, Xinjiang Uygur Autonomous Region</charseq>
+          </extent>
+          <head>
+              <charseq START="1404" END="1409">Taiwan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Taiwan">
+              <charseq START="1404" END="1409">Taiwan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E15" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E15-M812" ROLE="LOC">
+          <extent>
+              <charseq START="1412" END="1443">Xinjiang Uygur Autonomous Region</charseq>
+          </extent>
+          <head>
+              <charseq START="1412" END="1443">Xinjiang Uygur Autonomous Region</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Xinjiang Uygur Autonomous Region">
+              <charseq START="1412" END="1443">Xinjiang Uygur Autonomous Region</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E16" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E16-M813" ROLE="LOC">
+          <extent>
+              <charseq START="1446" END="1450">Tibet</charseq>
+          </extent>
+          <head>
+              <charseq START="1446" END="1450">Tibet</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Tibet">
+              <charseq START="1446" END="1450">Tibet</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E17" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E17-M1300">
+          <extent>
+              <charseq START="1907" END="1930">More Chinese
+enterprises</charseq>
+          </extent>
+          <head>
+              <charseq START="1920" END="1930">enterprises</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E18-M1409">
+          <extent>
+              <charseq START="2112" END="2124">Fouad Mebazaa</charseq>
+          </extent>
+          <head>
+              <charseq START="2112" END="2124">Fouad Mebazaa</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E18-M1410">
+          <extent>
+              <charseq START="2127" END="2176">speaker of Tunisia&apos;s chamber
+of deputies on Monday</charseq>
+          </extent>
+          <head>
+              <charseq START="2127" END="2133">speaker</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Fouad Mebazaa">
+              <charseq START="2112" END="2124">Fouad Mebazaa</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E19-M1403">
+          <extent>
+              <charseq START="2029" END="2058">the two countries&apos; parliaments</charseq>
+          </extent>
+          <head>
+              <charseq START="2048" END="2058">parliaments</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E19-M1515">
+          <extent>
+              <charseq START="2301" END="2334">parliaments of the three countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2301" END="2311">parliaments</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E20" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E20-M1412">
+          <extent>
+              <charseq START="2138" END="2176">Tunisia&apos;s chamber
+of deputies on Monday</charseq>
+          </extent>
+          <head>
+              <charseq START="2148" END="2154">chamber</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E21-M1415">
+          <extent>
+              <charseq START="2159" END="2176">deputies on Monday</charseq>
+          </extent>
+          <head>
+              <charseq START="2159" END="2166">deputies</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E22" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E22-M1511" ROLE="LOC">
+          <extent>
+              <charseq START="2260" END="2264">Egypt</charseq>
+          </extent>
+          <head>
+              <charseq START="2260" END="2264">Egypt</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Egypt">
+              <charseq START="2260" END="2264">Egypt</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E23" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="XIN_ENG_20100322.0015-E23-M1512" ROLE="LOC">
+          <extent>
+              <charseq START="2270" END="2277">Malaysia</charseq>
+          </extent>
+          <head>
+              <charseq START="2270" END="2277">Malaysia</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Malaysia">
+              <charseq START="2270" END="2277">Malaysia</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E24" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E24-M1507">
+          <extent>
+              <charseq START="2225" END="2238">his delegation</charseq>
+          </extent>
+          <head>
+              <charseq START="2229" END="2238">delegation</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="XIN_ENG_20100322.0015-E25" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="XIN_ENG_20100322.0015-E25-M1517" ROLE="GPE">
+          <extent>
+              <charseq START="2316" END="2334">the three countries</charseq>
+          </extent>
+          <head>
+              <charseq START="2326" END="2334">countries</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="XIN_ENG_20100322.0015-T0" VAL="2010-03-22">
+        <timex2_mention ID="XIN_ENG_20100322.0015-T0-M1">
+            <extent>
+              <charseq START="145" END="152">March 22</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100322.0015-T1" VAL="2010-03-22">
+        <timex2_mention ID="XIN_ENG_20100322.0015-T1-M1">
+            <extent>
+              <charseq START="398" END="403">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100322.0015-T2" VAL="2010-03-20TEV">
+        <timex2_mention ID="XIN_ENG_20100322.0015-T2-M1">
+            <extent>
+              <charseq START="773" END="788">Saturday evening</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100322.0015-T3" VAL="1964">
+        <timex2_mention ID="XIN_ENG_20100322.0015-T3-M1">
+            <extent>
+              <charseq START="1107" END="1118">46 years
+ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100322.0015-T4" VAL="PXY" ANCHOR_VAL="2010" ANCHOR_DIR="BEFORE">
+        <timex2_mention ID="XIN_ENG_20100322.0015-T4-M1">
+            <extent>
+              <charseq START="1133" END="1144">recent years</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="XIN_ENG_20100322.0015-T5" VAL="2010-03-22">
+        <timex2_mention ID="XIN_ENG_20100322.0015-T5-M1">
+            <extent>
+              <charseq START="2171" END="2176">Monday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="XIN_ENG_20100322.0015-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R0-M300">
+          <extent>
+              <charseq START="366" END="388">senior Chinese official</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E2-M311" ROLE="Arg-1">
+            <extent>
+              <charseq START="366" END="388">senior Chinese official</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E0-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="373" END="379">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R1" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E8" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R1-M400">
+          <extent>
+              <charseq START="429" END="482">vice-chairman of the National People&apos;s Congress ( NPC)</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E8-M402" ROLE="Arg-1">
+            <extent>
+              <charseq START="429" END="482">vice-chairman of the National People&apos;s Congress ( NPC)</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E6-M404" ROLE="Arg-2">
+            <extent>
+              <charseq START="446" END="481">the National People&apos;s Congress ( NPC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R2" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R2-M401">
+          <extent>
+              <charseq START="485" END="502">China&apos;s
+parliament</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E9-M406" ROLE="Arg-1">
+            <extent>
+              <charseq START="485" END="502">China&apos;s
+parliament</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E0-M407" ROLE="Arg-2">
+            <extent>
+              <charseq START="485" END="489">China</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E7" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R3-M402">
+          <extent>
+              <charseq START="555" END="562">Minister</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E7-M414" ROLE="Arg-1">
+            <extent>
+              <charseq START="555" END="562">Minister</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E1-M412" ROLE="Arg-2">
+            <extent>
+              <charseq START="540" END="547">Tunisian</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R4" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E5" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E10" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R4-M500">
+          <extent>
+              <charseq START="599" END="788">also a member of the Political Bureau of the Central Committee of the
+Communist Party of China, led a NPC delegation to Tunisia for an official
+goodwill visit, starting from Saturday evening</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E5-M502" ROLE="Arg-1">
+            <extent>
+              <charseq START="599" END="788">also a member of the Political Bureau of the Central Committee of the
+Communist Party of China, led a NPC delegation to Tunisia for an official
+goodwill visit, starting from Saturday evening</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E10-M505" ROLE="Arg-2">
+            <extent>
+              <charseq START="616" END="692">the Political Bureau of the Central Committee of the
+Communist Party of China</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E6" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R5-M501">
+          <extent>
+              <charseq START="699" END="725">a NPC delegation to Tunisia</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E11-M507" ROLE="Arg-1">
+            <extent>
+              <charseq START="699" END="725">a NPC delegation to Tunisia</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E6-M509" ROLE="Arg-2">
+            <extent>
+              <charseq START="701" END="703">NPC</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R6" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E12" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E13" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R6-M600">
+          <extent>
+              <charseq START="1029" END="1052">people
+of both countries</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E12-M621" ROLE="Arg-1">
+            <extent>
+              <charseq START="1029" END="1052">people
+of both countries</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E13-M623" ROLE="Arg-2">
+            <extent>
+              <charseq START="1039" END="1052">both countries</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R7" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E15" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R7-M800">
+          <extent>
+              <charseq START="1404" END="1443">Taiwan, Xinjiang Uygur Autonomous Region</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E14-M810" ROLE="Arg-1">
+            <extent>
+              <charseq START="1404" END="1443">Taiwan, Xinjiang Uygur Autonomous Region</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E15-M812" ROLE="Arg-2">
+            <extent>
+              <charseq START="1412" END="1443">Xinjiang Uygur Autonomous Region</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E15" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E16" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R8-M801">
+          <extent>
+              <charseq START="1412" END="1443">Xinjiang Uygur Autonomous Region</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E15-M812" ROLE="Arg-1">
+            <extent>
+              <charseq START="1412" END="1443">Xinjiang Uygur Autonomous Region</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E16-M813" ROLE="Arg-2">
+            <extent>
+              <charseq START="1446" END="1450">Tibet</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R9" TYPE="GEN-AFF" SUBTYPE="Org-Location" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E17" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E0" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R9-M1300">
+          <extent>
+              <charseq START="1907" END="1930">More Chinese
+enterprises</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E17-M1300" ROLE="Arg-1">
+            <extent>
+              <charseq START="1907" END="1930">More Chinese
+enterprises</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E0-M1301" ROLE="Arg-2">
+            <extent>
+              <charseq START="1912" END="1918">Chinese</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R10" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E19" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E13" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R10-M1400">
+          <extent>
+              <charseq START="2029" END="2058">the two countries&apos; parliaments</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E19-M1403" ROLE="Arg-1">
+            <extent>
+              <charseq START="2029" END="2058">the two countries&apos; parliaments</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E13-M1404" ROLE="Arg-2">
+            <extent>
+              <charseq START="2029" END="2045">the two countries</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R11" TYPE="ORG-AFF" SUBTYPE="Membership" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E20" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R11-M1401">
+          <extent>
+              <charseq START="2127" END="2176">speaker of Tunisia&apos;s chamber
+of deputies on Monday</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E18-M1410" ROLE="Arg-1">
+            <extent>
+              <charseq START="2127" END="2176">speaker of Tunisia&apos;s chamber
+of deputies on Monday</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E20-M1412" ROLE="Arg-2">
+            <extent>
+              <charseq START="2138" END="2176">Tunisia&apos;s chamber
+of deputies on Monday</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R12" TYPE="PART-WHOLE" SUBTYPE="Subsidiary" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E20" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R12-M1402">
+          <extent>
+              <charseq START="2138" END="2176">Tunisia&apos;s chamber
+of deputies on Monday</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E20-M1412" ROLE="Arg-1">
+            <extent>
+              <charseq START="2138" END="2176">Tunisia&apos;s chamber
+of deputies on Monday</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E1-M1414" ROLE="Arg-2">
+            <extent>
+              <charseq START="2138" END="2144">Tunisia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R13" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E1" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R13-M1500">
+          <extent>
+              <charseq START="2225" END="2238">his delegation</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E24-M1507" ROLE="Arg-1">
+            <extent>
+              <charseq START="2225" END="2238">his delegation</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E1-M1510" ROLE="Arg-2">
+            <extent>
+              <charseq START="2251" END="2257">Tunisia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R14" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E22" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R14-M1501">
+          <extent>
+              <charseq START="2225" END="2238">his delegation</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E24-M1507" ROLE="Arg-1">
+            <extent>
+              <charseq START="2225" END="2238">his delegation</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E22-M1511" ROLE="Arg-2">
+            <extent>
+              <charseq START="2260" END="2264">Egypt</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="XIN_ENG_20100322.0015-R15" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="XIN_ENG_20100322.0015-E24" ROLE="Arg-1"/>
+      <relation_argument REFID="XIN_ENG_20100322.0015-E23" ROLE="Arg-2"/>
+        <relation_mention ID="XIN_ENG_20100322.0015-R15-M1502">
+          <extent>
+              <charseq START="2225" END="2238">his delegation</charseq>
+          </extent>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E24-M1507" ROLE="Arg-1">
+            <extent>
+              <charseq START="2225" END="2238">his delegation</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="XIN_ENG_20100322.0015-E23-M1512" ROLE="Arg-2">
+            <extent>
+              <charseq START="2270" END="2277">Malaysia</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

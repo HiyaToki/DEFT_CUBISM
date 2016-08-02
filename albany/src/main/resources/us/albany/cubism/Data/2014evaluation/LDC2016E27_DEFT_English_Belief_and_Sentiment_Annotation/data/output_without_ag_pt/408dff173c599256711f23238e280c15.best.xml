@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="408dff173c599256711f23238e280c15.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-619" length="4" offset="876">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-390" length="13" offset="1100">
+        <text>Whole country</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1151" length="14" offset="1390">
+        <text>other students</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-96" length="6" offset="85">jb9191</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-234" length="18" offset="2148">
+        <text>those armed guards</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-258" length="8" offset="1877">Huskaris</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-715" length="4" offset="2630">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-258" length="8" offset="1877">Huskaris</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-721" length="4" offset="2767">
+        <text>they</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-258" length="8" offset="1877">Huskaris</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-727" length="6" offset="2942">
+        <text>Nobody</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-300" length="7" offset="2932">NeoNerd</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="AFP_ENG_20100909.0011">
+  <document DOCID="AFP_ENG_20100909.0011">
+
+    <entity ID="AFP_ENG_20100909.0011-E0" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E0-M1">
+          <extent>
+              <charseq START="58" END="59">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="59">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E0-M412">
+          <extent>
+              <charseq START="436" END="437">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="436" END="437">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E0-M502">
+          <extent>
+              <charseq START="461" END="462">UN</charseq>
+          </extent>
+          <head>
+              <charseq START="461" END="462">UN</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="AFP_ENG_20100909.0011-E0-M603">
+          <extent>
+              <charseq START="619" END="621">its</charseq>
+          </extent>
+          <head>
+              <charseq START="619" END="621">its</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UN">
+              <charseq START="58" END="59">UN</charseq>
+          </name>
+          <name NAME="UN">
+              <charseq START="436" END="437">UN</charseq>
+          </name>
+          <name NAME="UN">
+              <charseq START="461" END="462">UN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100909.0011-E1" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E1-M4" ROLE="GPE">
+          <extent>
+              <charseq START="77" END="82">Kosovo</charseq>
+          </extent>
+          <head>
+              <charseq START="77" END="82">Kosovo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E1-M311">
+          <extent>
+              <charseq START="295" END="300">Kosovo</charseq>
+          </extent>
+          <head>
+              <charseq START="295" END="300">Kosovo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E1-M410" ROLE="GPE">
+          <extent>
+              <charseq START="412" END="417">Kosovo</charseq>
+          </extent>
+          <head>
+              <charseq START="412" END="417">Kosovo</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100909.0011-E1-M507">
+          <extent>
+              <charseq START="540" END="552">the neighbors</charseq>
+          </extent>
+          <head>
+              <charseq START="544" END="552">neighbors</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E1-M600" ROLE="ORG">
+          <extent>
+              <charseq START="603" END="608">Kosovo</charseq>
+          </extent>
+          <head>
+              <charseq START="603" END="608">Kosovo</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Kosovo">
+              <charseq START="77" END="82">Kosovo</charseq>
+          </name>
+          <name NAME="Kosovo">
+              <charseq START="295" END="300">Kosovo</charseq>
+          </name>
+          <name NAME="Kosovo">
+              <charseq START="412" END="417">Kosovo</charseq>
+          </name>
+          <name NAME="Kosovo">
+              <charseq START="603" END="608">Kosovo</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100909.0011-E2" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E2-M102">
+          <extent>
+              <charseq START="132" END="145">UNITED NATIONS</charseq>
+          </extent>
+          <head>
+              <charseq START="132" END="145">UNITED NATIONS</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100909.0011-E2-M411">
+          <extent>
+              <charseq START="432" END="442">the UN hall</charseq>
+          </extent>
+          <head>
+              <charseq START="439" END="442">hall</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UNITED NATIONS">
+              <charseq START="132" END="145">UNITED NATIONS</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100909.0011-E3" TYPE="ORG" SUBTYPE="Media" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E3-M200">
+          <extent>
+              <charseq START="162" END="164">AFP</charseq>
+          </extent>
+          <head>
+              <charseq START="162" END="164">AFP</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="AFP">
+              <charseq START="162" END="164">AFP</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100909.0011-E4" TYPE="ORG" SUBTYPE="Non-Governmental" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E4-M300">
+          <extent>
+              <charseq START="190" END="224">The UN General Assembly on Thursday</charseq>
+          </extent>
+          <head>
+              <charseq START="194" END="212">UN General Assembly</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="UN General Assembly">
+              <charseq START="194" END="212">UN General Assembly</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100909.0011-E5" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E5-M310">
+          <extent>
+              <charseq START="284" END="289">Serbia</charseq>
+          </extent>
+          <head>
+              <charseq START="284" END="289">Serbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E5-M405">
+          <extent>
+              <charseq START="377" END="382">Serbia</charseq>
+          </extent>
+          <head>
+              <charseq START="377" END="382">Serbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E5-M604" ROLE="LOC">
+          <extent>
+              <charseq START="641" END="646">Serbia</charseq>
+          </extent>
+          <head>
+              <charseq START="641" END="646">Serbia</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="AFP_ENG_20100909.0011-E5-M607" ROLE="GPE">
+          <extent>
+              <charseq START="674" END="680">Serbian</charseq>
+          </extent>
+          <head>
+              <charseq START="674" END="680">Serbian</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100909.0011-E5-M606" ROLE="ORG">
+          <extent>
+              <charseq START="670" END="691">the Serbian
+government</charseq>
+          </extent>
+          <head>
+              <charseq START="682" END="691">government</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Serbia">
+              <charseq START="284" END="289">Serbia</charseq>
+          </name>
+          <name NAME="Serbia">
+              <charseq START="377" END="382">Serbia</charseq>
+          </name>
+          <name NAME="Serbia">
+              <charseq START="641" END="646">Serbia</charseq>
+          </name>
+          <name NAME="Serbian">
+              <charseq START="674" END="680">Serbian</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="AFP_ENG_20100909.0011-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100909.0011-E6-M408">
+          <extent>
+              <charseq START="412" END="442">Kosovo officials in the UN hall</charseq>
+          </extent>
+          <head>
+              <charseq START="419" END="427">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="AFP_ENG_20100909.0011-E7" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="AFP_ENG_20100909.0011-E7-M500">
+          <extent>
+              <charseq START="454" END="474">Senior UN ambassadors</charseq>
+          </extent>
+          <head>
+              <charseq START="464" END="474">ambassadors</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="AFP_ENG_20100909.0011-T0" VAL="2010-09-09">
+        <timex2_mention ID="AFP_ENG_20100909.0011-T0-M1">
+            <extent>
+              <charseq START="148" END="159">Sept 9, 2010</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100909.0011-T1" VAL="2010-09-09">
+        <timex2_mention ID="AFP_ENG_20100909.0011-T1-M1">
+            <extent>
+              <charseq START="217" END="224">Thursday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100909.0011-T2" VAL="PT1H">
+        <timex2_mention ID="AFP_ENG_20100909.0011-T2-M1">
+            <extent>
+              <charseq START="345" END="365">a two-and-a-half hour</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="AFP_ENG_20100909.0011-T3" VAL="2008-02">
+        <timex2_mention ID="AFP_ENG_20100909.0011-T3-M1">
+            <extent>
+              <charseq START="651" END="663">February 2008</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="AFP_ENG_20100909.0011-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100909.0011-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100909.0011-E1" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100909.0011-R0-M400">
+          <extent>
+              <charseq START="412" END="442">Kosovo officials in the UN hall</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100909.0011-E6-M408" ROLE="Arg-1">
+            <extent>
+              <charseq START="412" END="442">Kosovo officials in the UN hall</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100909.0011-E1-M410" ROLE="Arg-2">
+            <extent>
+              <charseq START="412" END="417">Kosovo</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100909.0011-R1" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100909.0011-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100909.0011-E2" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100909.0011-R1-M401">
+          <extent>
+              <charseq START="412" END="442">Kosovo officials in the UN hall</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100909.0011-E6-M408" ROLE="Arg-1">
+            <extent>
+              <charseq START="412" END="442">Kosovo officials in the UN hall</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100909.0011-E2-M411" ROLE="Arg-2">
+            <extent>
+              <charseq START="432" END="442">the UN hall</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="AFP_ENG_20100909.0011-R2" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="AFP_ENG_20100909.0011-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="AFP_ENG_20100909.0011-E2" ROLE="Arg-2"/>
+        <relation_mention ID="AFP_ENG_20100909.0011-R2-M402">
+          <extent>
+              <charseq START="436" END="437">UN</charseq>
+          </extent>
+          <relation_mention_argument REFID="AFP_ENG_20100909.0011-E0-M412" ROLE="Arg-1">
+            <extent>
+              <charseq START="436" END="437">UN</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="AFP_ENG_20100909.0011-E2-M411" ROLE="Arg-2">
+            <extent>
+              <charseq START="432" END="442">the UN hall</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<committed_belief_doc id="tree-56acedc80000000000000003">
+  <belief_annotations>
+    <relations>
+      <relation ere_id="relm-582">
+        <trigger offset="1269" length="2">to</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-592">
+        <trigger offset="1300" length="11">grandfather</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-602">
+        <trigger offset="275" length="7">British</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-612">
+        <trigger offset="283" length="9">Pakistani</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-622">
+        <trigger offset="3134" length="9">Pakistani</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-306" offset="14" length="8">lonely14</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-824">
+        <trigger offset="303" length="10">brought up</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-849">
+        <trigger offset="1431" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-961">
+        <trigger offset="527" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1542">
+        <trigger offset="616" length="2">to</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1552">
+        <trigger offset="670" length="10">throughout</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1399">
+        <trigger offset="3443" length="2">in</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-306" offset="14" length="8">lonely14</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1496">
+        <trigger offset="5968" length="4">it's</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-378" offset="5615" length="11">oh-my-diddy</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1518">
+        <trigger offset="2893" length="7">world's</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-306" offset="14" length="8">lonely14</source>
+          </belief>
+        </beliefs>
+      </relation>
+      <relation ere_id="relm-1562">
+        <trigger offset="1269" length="2">to</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-636">
+        <trigger offset="1263" length="5">moved</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-336" offset="1245" length="66">
+            <text>most families who moved to England in the 60's like my grandfather</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-564" offset="1272" length="7">
+            <text>England</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="f-710" offset="1283" length="8">
+            <text>the 60's</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-342" offset="1297" length="14">
+            <text>my grandfather</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-657">
+        <trigger offset="294" length="4">born</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-78" offset="269" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-558" offset="317" length="6">
+            <text>London</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-678">
+        <trigger offset="661" length="8">traveled</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-108" offset="593" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-414" offset="681" length="11">
+            <text>the country</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-414" offset="681" length="11">
+            <text>the country</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-776">
+        <trigger offset="616" length="2">to</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-60" offset="85" length="6">Nash24</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-108" offset="593" length="1">
+            <text>I</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-408" offset="619" length="8">
+            <text>Pakistan</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-60" offset="85" length="6">Nash24</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1110">
+        <trigger offset="2092" length="7">burning</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-306" offset="14" length="8">lonely14</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1131" offset="2086" length="5">
+            <text>bride</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-306" offset="14" length="8">lonely14</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1142">
+        <trigger offset="2092" length="7">burning</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-306" offset="14" length="8">lonely14</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1131" offset="2086" length="5">
+            <text>bride</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-306" offset="14" length="8">lonely14</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1211">
+        <trigger offset="2318" length="10">mutilation</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-306" offset="14" length="8">lonely14</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1232" offset="2303" length="6">
+            <text>female</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-306" offset="14" length="8">lonely14</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1243">
+        <trigger offset="2318" length="10">mutilation</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-306" offset="14" length="8">lonely14</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1232" offset="2303" length="6">
+            <text>female</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-306" offset="14" length="8">lonely14</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+      <event ere_id="em-1312">
+        <trigger offset="2625" length="7">married</trigger>
+        <beliefs>
+          <belief type="cb" polarity="pos" sarcasm="no">
+            <source ere_id="m-306" offset="14" length="8">lonely14</source>
+          </belief>
+        </beliefs>
+        <arguments>
+          <arg ere_id="m-1333" offset="2602" length="11">
+            <text>young girls</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-306" offset="14" length="8">lonely14</source>
+              </belief>
+            </beliefs>
+          </arg>
+          <arg ere_id="m-1342" offset="2636" length="14">
+            <text>much older men</text>
+            <beliefs>
+              <belief type="cb" polarity="pos" sarcasm="no">
+                <source ere_id="m-306" offset="14" length="8">lonely14</source>
+              </belief>
+            </beliefs>
+          </arg>
+        </arguments>
+      </event>
+    </events>
+  </belief_annotations>
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-234" offset="5117" length="3">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-294" offset="3271" length="10">
+        <text>Saira Khan</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-300" offset="3384" length="3">
+        <text>She</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-336" offset="1245" length="66">
+        <text>most families who moved to England in the 60's like my grandfather</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-342" offset="1297" length="14">
+        <text>my grandfather</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-390" offset="5811" length="14">
+        <text>the government</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-378" offset="5615" length="11">oh-my-diddy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-426" offset="859" length="8">
+        <text>Pakistan</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-438" offset="1012" length="11">
+        <text>the country</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-444" offset="1043" length="2">
+        <text>it</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-450" offset="1434" length="8">
+        <text>Pakistan</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-456" offset="1560" length="8">
+        <text>Pakistan</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-462" offset="2801" length="8">
+        <text>Pakistan</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-474" offset="3204" length="8">
+        <text>Pakistan</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-480" offset="3446" length="8">
+        <text>Pakistan</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-486" offset="5904" length="8">
+        <text>Pakistan</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-378" offset="5615" length="11">oh-my-diddy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-492" offset="5739" length="4">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-378" offset="5615" length="11">oh-my-diddy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-498" offset="5663" length="11">
+        <text>the country</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-378" offset="5615" length="11">oh-my-diddy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-504" offset="5440" length="8">
+        <text>Pakistan</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-204" offset="3549" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-510" offset="5294" length="8">
+        <text>Pakistan</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-204" offset="3549" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-516" offset="4735" length="3">
+        <text>our</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-204" offset="3549" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-534" offset="2893" length="46">
+        <text>world's third most dangerous country for women</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-540" offset="5220" length="11">
+        <text>the country</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-204" offset="3549" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-992" offset="957" length="14">
+        <text>a Muslim state</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1506" offset="3176" length="3">
+        <text>our</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-570" offset="4081" length="81">
+        <text>the sovereign states whom are conformed to Islamic teachings as their rule of law</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-348" offset="3618" length="12">VeniViciVidi</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-757" offset="5968" length="11">
+        <text>it's people</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-378" offset="5615" length="11">oh-my-diddy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-949" offset="5363" length="5">
+        <text>Women</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-204" offset="3549" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1451" offset="5241" length="5">
+        <text>women</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-204" offset="3549" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-895" offset="3698" length="10">
+        <text>any nation</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-348" offset="3618" length="12">VeniViciVidi</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1001" offset="959" length="6">
+        <text>Muslim</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1007" offset="1088" length="16">
+        <text>the higher class</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1040" offset="1479" length="23">
+        <text>the upper class society</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1046" offset="1606" length="8">
+        <text>the rich</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1016" offset="1146" length="7">
+        <text>western</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1025" offset="1184" length="5">
+        <text>their</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1052" offset="1643" length="7">
+        <text>western</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1375" offset="3155" length="7">
+        <text>western</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1418" offset="4165" length="7">
+        <text>Western</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-348" offset="3618" length="12">VeniViciVidi</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1424" offset="4419" length="7">
+        <text>Western</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-348" offset="3618" length="12">VeniViciVidi</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1445" offset="5139" length="7">
+        <text>western</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-204" offset="3549" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1466" offset="5465" length="7">
+        <text>western</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-204" offset="3549" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1031" offset="1406" length="36">
+        <text>certain groups of people in Pakistan</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1381" offset="3223" length="24">
+        <text>a more civilized society</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1390" offset="3421" length="33">
+        <text>transgender community in Pakistan</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1409" offset="4124" length="7">
+        <text>Islamic</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-348" offset="3618" length="12">VeniViciVidi</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1436" offset="5021" length="42">
+        <text>a society based on basic morals and values</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-204" offset="3549" length="6">Nash24</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1478" offset="5832" length="15">
+        <text>the politicians</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-378" offset="5615" length="11">oh-my-diddy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1487" offset="5922" length="15">
+        <text>a strong leader</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-378" offset="5615" length="11">oh-my-diddy</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1575" offset="3954" length="8">
+        <text>the wall</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-348" offset="3618" length="12">VeniViciVidi</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations>
+      <relation ere_id="relm-592">
+        <trigger offset="1300" length="11">grandfather</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-612">
+        <trigger offset="283" length="9">Pakistani</trigger>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-60" offset="85" length="6">Nash24</source>
+        </sentiment>
+      </relation>
+      <relation ere_id="relm-622">
+        <trigger offset="3134" length="9">Pakistani</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </relation>
+    </relations>
+    <events>
+      <event ere_id="em-1110">
+        <trigger offset="2092" length="7">burning</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1142">
+        <trigger offset="2092" length="7">burning</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1211">
+        <trigger offset="2318" length="10">mutilation</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1243">
+        <trigger offset="2318" length="10">mutilation</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </event>
+      <event ere_id="em-1312">
+        <trigger offset="2625" length="7">married</trigger>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-306" offset="14" length="8">lonely14</source>
+        </sentiment>
+      </event>
+    </events>
+  </sentiment_annotations>
+</committed_belief_doc>

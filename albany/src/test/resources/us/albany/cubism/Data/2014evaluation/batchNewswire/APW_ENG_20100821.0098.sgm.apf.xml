@@ -1,0 +1,827 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20100821.0098">
+  <document DOCID="APW_ENG_20100821.0098">
+
+    <entity ID="APW_ENG_20100821.0098-E0" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E0-M0">
+          <extent>
+              <charseq START="58" END="62">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="58" END="62">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E0-M201">
+          <extent>
+              <charseq START="210" END="214">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="210" END="214">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E0-M202">
+          <extent>
+              <charseq START="246" END="312">the only person convicted for the 1988 bombing of Pan Am Flight 103</charseq>
+          </extent>
+          <head>
+              <charseq START="255" END="260">person</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E0-M303">
+          <extent>
+              <charseq START="371" END="392">President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="381" END="392">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E0-M304">
+          <extent>
+              <charseq START="371" END="379">President</charseq>
+          </extent>
+          <head>
+              <charseq START="371" END="379">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E0-M309">
+          <extent>
+              <charseq START="450" END="471">the vacationing leader</charseq>
+          </extent>
+          <head>
+              <charseq START="466" END="471">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Obama">
+              <charseq START="58" END="62">Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="210" END="214">Obama</charseq>
+          </name>
+          <name NAME="Barack Obama">
+              <charseq START="381" END="392">Barack Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E1" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E1-M4" ROLE="GPE">
+          <extent>
+              <charseq START="89" END="97">Lockerbie</charseq>
+          </extent>
+          <head>
+              <charseq START="89" END="97">Lockerbie</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E1-M906" ROLE="LOC">
+          <extent>
+              <charseq START="1473" END="1492">Lockerbie, Scotland,</charseq>
+          </extent>
+          <head>
+              <charseq START="1473" END="1481">Lockerbie</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Lockerbie">
+              <charseq START="89" END="97">Lockerbie</charseq>
+          </name>
+          <name NAME="Lockerbie">
+              <charseq START="1473" END="1481">Lockerbie</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E2" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E2-M3">
+          <extent>
+              <charseq START="89" END="104">Lockerbie bomber</charseq>
+          </extent>
+          <head>
+              <charseq START="99" END="104">bomber</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E3" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E3-M101">
+          <extent>
+              <charseq START="138" END="142">HAVEN</charseq>
+          </extent>
+          <head>
+              <charseq START="138" END="142">HAVEN</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="HAVEN">
+              <charseq START="138" END="142">HAVEN</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E4" TYPE="GPE" SUBTYPE="State-or-Province" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E4-M102">
+          <extent>
+              <charseq START="145" END="157">Massachusetts</charseq>
+          </extent>
+          <head>
+              <charseq START="145" END="157">Massachusetts</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Massachusetts">
+              <charseq START="145" END="157">Massachusetts</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E5" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E5-M207">
+          <extent>
+              <charseq START="296" END="301">Pan Am</charseq>
+          </extent>
+          <head>
+              <charseq START="296" END="301">Pan Am</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Pan Am">
+              <charseq START="296" END="301">Pan Am</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E6" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E6-M209" ROLE="GPE">
+          <extent>
+              <charseq START="331" END="338">Scottish</charseq>
+          </extent>
+          <head>
+              <charseq START="331" END="338">Scottish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E6-M315" ROLE="GPE">
+          <extent>
+              <charseq START="528" END="535">Scottish</charseq>
+          </extent>
+          <head>
+              <charseq START="528" END="535">Scottish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E6-M519" ROLE="GPE">
+          <extent>
+              <charseq START="922" END="929">Scottish</charseq>
+          </extent>
+          <head>
+              <charseq START="922" END="929">Scottish</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E6-M908" ROLE="LOC">
+          <extent>
+              <charseq START="1484" END="1491">Scotland</charseq>
+          </extent>
+          <head>
+              <charseq START="1484" END="1491">Scotland</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Scottish">
+              <charseq START="331" END="338">Scottish</charseq>
+          </name>
+          <name NAME="Scottish">
+              <charseq START="528" END="535">Scottish</charseq>
+          </name>
+          <name NAME="Scottish">
+              <charseq START="922" END="929">Scottish</charseq>
+          </name>
+          <name NAME="Scotland">
+              <charseq START="1484" END="1491">Scotland</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E7" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E7-M200">
+          <extent>
+              <charseq START="206" END="229">The Obama administration</charseq>
+          </extent>
+          <head>
+              <charseq START="216" END="229">administration</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E8" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E8-M208">
+          <extent>
+              <charseq START="329" END="345">a Scottish prison</charseq>
+          </extent>
+          <head>
+              <charseq START="340" END="345">prison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E8-M518">
+          <extent>
+              <charseq START="920" END="936">a Scottish prison</charseq>
+          </extent>
+          <head>
+              <charseq START="931" END="936">prison</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E8-M903">
+          <extent>
+              <charseq START="1445" END="1450">prison</charseq>
+          </extent>
+          <head>
+              <charseq START="1445" END="1450">prison</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E9-M301">
+          <extent>
+              <charseq START="357" END="368">John Brennan</charseq>
+          </extent>
+          <head>
+              <charseq START="357" END="368">John Brennan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E9-M302">
+          <extent>
+              <charseq START="371" END="419">President Barack Obama&apos;s counterterrorism adviser</charseq>
+          </extent>
+          <head>
+              <charseq START="413" END="419">adviser</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E9-M500">
+          <extent>
+              <charseq START="684" END="690">Brennan</charseq>
+          </extent>
+          <head>
+              <charseq START="684" END="690">Brennan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0098-E9-M502">
+          <extent>
+              <charseq START="708" END="709">he</charseq>
+          </extent>
+          <head>
+              <charseq START="708" END="709">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0098-E9-M505">
+          <extent>
+              <charseq START="781" END="783">him</charseq>
+          </extent>
+          <head>
+              <charseq START="781" END="783">him</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0098-E9-M517">
+          <extent>
+              <charseq START="904" END="906">his</charseq>
+          </extent>
+          <head>
+              <charseq START="904" END="906">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E9-M700">
+          <extent>
+              <charseq START="1089" END="1095">Brennan</charseq>
+          </extent>
+          <head>
+              <charseq START="1089" END="1095">Brennan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E9-M814">
+          <extent>
+              <charseq START="1375" END="1381">Brennan</charseq>
+          </extent>
+          <head>
+              <charseq START="1375" END="1381">Brennan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="John Brennan">
+              <charseq START="357" END="368">John Brennan</charseq>
+          </name>
+          <name NAME="Brennan">
+              <charseq START="684" END="690">Brennan</charseq>
+          </name>
+          <name NAME="Brennan">
+              <charseq START="1089" END="1095">Brennan</charseq>
+          </name>
+          <name NAME="Brennan">
+              <charseq START="1375" END="1381">Brennan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E10" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E10-M310" ROLE="PER">
+          <extent>
+              <charseq START="478" END="485">the U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="482" END="485">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E10-M608" ROLE="GPE">
+          <extent>
+              <charseq START="1054" END="1057">U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1054" END="1057">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E10-M701" ROLE="PER">
+          <extent>
+              <charseq START="1102" END="1109">the U.S.</charseq>
+          </extent>
+          <head>
+              <charseq START="1106" END="1109">U.S.</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="U.S.">
+              <charseq START="482" END="485">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="1054" END="1057">U.S.</charseq>
+          </name>
+          <name NAME="U.S.">
+              <charseq START="1106" END="1109">U.S.</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E11" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E11-M316">
+          <extent>
+              <charseq START="552" END="573">Abdel Baset Al-Megrahi</charseq>
+          </extent>
+          <head>
+              <charseq START="552" END="573">Abdel Baset Al-Megrahi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E11-M405">
+          <extent>
+              <charseq START="653" END="662">Al-Megrahi</charseq>
+          </extent>
+          <head>
+              <charseq START="653" END="662">Al-Megrahi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E11-M811">
+          <extent>
+              <charseq START="1353" END="1366">Mr. Al-Megrahi</charseq>
+          </extent>
+          <head>
+              <charseq START="1357" END="1366">Al-Megrahi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E11-M812">
+          <extent>
+              <charseq START="1353" END="1355">Mr.</charseq>
+          </extent>
+          <head>
+              <charseq START="1353" END="1355">Mr.</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E11-M900">
+          <extent>
+              <charseq START="1393" END="1402">Al-Megrahi</charseq>
+          </extent>
+          <head>
+              <charseq START="1393" END="1402">Al-Megrahi</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20100821.0098-E11-M1000">
+          <extent>
+              <charseq START="1558" END="1559">He</charseq>
+          </extent>
+          <head>
+              <charseq START="1558" END="1559">He</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Abdel Baset Al-Megrahi">
+              <charseq START="552" END="573">Abdel Baset Al-Megrahi</charseq>
+          </name>
+          <name NAME="Al-Megrahi">
+              <charseq START="653" END="662">Al-Megrahi</charseq>
+          </name>
+          <name NAME="Al-Megrahi">
+              <charseq START="1357" END="1366">Al-Megrahi</charseq>
+          </name>
+          <name NAME="Al-Megrahi">
+              <charseq START="1393" END="1402">Al-Megrahi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E12" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E12-M306">
+          <extent>
+              <charseq START="396" END="411">counterterrorism</charseq>
+          </extent>
+          <head>
+              <charseq START="396" END="411">counterterrorism</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E13" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E13-M307">
+          <extent>
+              <charseq START="427" END="471">reporters accompanying the vacationing leader</charseq>
+          </extent>
+          <head>
+              <charseq START="427" END="435">reporters</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E14" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E14-M314">
+          <extent>
+              <charseq START="528" END="545">Scottish officials</charseq>
+          </extent>
+          <head>
+              <charseq START="537" END="545">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E16" TYPE="ORG" SUBTYPE="Commercial" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E16-M511">
+          <extent>
+              <charseq START="840" END="849">Al-Begrahi</charseq>
+          </extent>
+          <head>
+              <charseq START="840" END="849">Al-Begrahi</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Al-Begrahi">
+              <charseq START="840" END="849">Al-Begrahi</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E17" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E17-M600" ROLE="LOC">
+          <extent>
+              <charseq START="960" END="969">Washington</charseq>
+          </extent>
+          <head>
+              <charseq START="960" END="969">Washington</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Washington">
+              <charseq START="960" END="969">Washington</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E18" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E18-M601">
+          <extent>
+              <charseq START="972" END="1012">Secretary of State Hillary Rodham Clinton</charseq>
+          </extent>
+          <head>
+              <charseq START="991" END="1012">Hillary Rodham Clinton</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E18-M602">
+          <extent>
+              <charseq START="972" END="989">Secretary of State</charseq>
+          </extent>
+          <head>
+              <charseq START="972" END="980">Secretary</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Hillary Rodham Clinton">
+              <charseq START="991" END="1012">Hillary Rodham Clinton</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E19" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E19-M603">
+          <extent>
+              <charseq START="985" END="989">State</charseq>
+          </extent>
+          <head>
+              <charseq START="985" END="989">State</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="State">
+              <charseq START="985" END="989">State</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E20" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20100821.0098-E20-M706" ROLE="GPE">
+          <extent>
+              <charseq START="1159" END="1164">Libyan</charseq>
+          </extent>
+          <head>
+              <charseq START="1159" END="1164">Libyan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Libyan">
+              <charseq START="1159" END="1164">Libyan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E21" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E21-M705">
+          <extent>
+              <charseq START="1159" END="1174">Libyan officials</charseq>
+          </extent>
+          <head>
+              <charseq START="1166" END="1174">officials</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20100821.0098-E22" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20100821.0098-E22-M1106">
+          <extent>
+              <charseq START="1671" END="1686">mostly Americans</charseq>
+          </extent>
+          <head>
+              <charseq START="1678" END="1686">Americans</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20100821.0098-T0" VAL="2010-08-21-08">
+        <timex2_mention ID="APW_ENG_20100821.0098-T0-M1">
+            <extent>
+              <charseq START="159" END="168">2010-08-21</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0098-T1" VAL="1988">
+        <timex2_mention ID="APW_ENG_20100821.0098-T1-M1">
+            <extent>
+              <charseq START="280" END="283">1988</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0098-T2" VAL="2010-08-20">
+        <timex2_mention ID="APW_ENG_20100821.0098-T2-M1">
+            <extent>
+              <charseq START="617" END="622">Friday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0098-T3" VAL="2008">
+        <timex2_mention ID="APW_ENG_20100821.0098-T3-M1">
+            <extent>
+              <charseq START="1227" END="1239">two years ago</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0098-T4" VAL="2001">
+        <timex2_mention ID="APW_ENG_20100821.0098-T4-M1">
+            <extent>
+              <charseq START="1419" END="1422">2001</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0098-T5" VAL="P27Y">
+        <timex2_mention ID="APW_ENG_20100821.0098-T5-M1">
+            <extent>
+              <charseq START="1427" END="1450">serve 27 years in prison</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0098-T6" VAL="2009-08-20">
+        <timex2_mention ID="APW_ENG_20100821.0098-T6-M1">
+            <extent>
+              <charseq START="1511" END="1530">Aug. 20 of last year</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20100821.0098-T7" VAL="PXM">
+        <timex2_mention ID="APW_ENG_20100821.0098-T7-M1">
+            <extent>
+              <charseq START="1600" END="1610">just months</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20100821.0098-R0" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0098-E2" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0098-E1" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0098-R0-M0">
+          <extent>
+              <charseq START="89" END="104">Lockerbie bomber</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E2-M3" ROLE="Arg-1">
+            <extent>
+              <charseq START="89" END="104">Lockerbie bomber</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E1-M4" ROLE="Arg-2">
+            <extent>
+              <charseq START="89" END="97">Lockerbie</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0098-R1" TYPE="ART" SUBTYPE="User-Owner-Inventor-Manufacturer" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0098-E6" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0098-E8" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0098-R1-M200">
+          <extent>
+              <charseq START="331" END="338">Scottish</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E6-M209" ROLE="Arg-1">
+            <extent>
+              <charseq START="331" END="338">Scottish</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E8-M208" ROLE="Arg-2">
+            <extent>
+              <charseq START="329" END="345">a Scottish prison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+        <relation_mention ID="APW_ENG_20100821.0098-R1-M500">
+          <extent>
+              <charseq START="922" END="929">Scottish</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E6-M519" ROLE="Arg-1">
+            <extent>
+              <charseq START="922" END="929">Scottish</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E8-M518" ROLE="Arg-2">
+            <extent>
+              <charseq START="920" END="936">a Scottish prison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0098-R2" TYPE="PER-SOC" SUBTYPE="Business" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0098-E0" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0098-E9" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0098-R2-M300">
+          <extent>
+              <charseq START="371" END="392">President Barack Obama</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E0-M303" ROLE="Arg-1">
+            <extent>
+              <charseq START="371" END="392">President Barack Obama</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E9-M302" ROLE="Arg-2">
+            <extent>
+              <charseq START="371" END="419">President Barack Obama&apos;s counterterrorism adviser</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0098-R3" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0098-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0098-E12" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0098-R3-M301">
+          <extent>
+              <charseq START="371" END="419">President Barack Obama&apos;s counterterrorism adviser</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E9-M302" ROLE="Arg-1">
+            <extent>
+              <charseq START="371" END="419">President Barack Obama&apos;s counterterrorism adviser</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E12-M306" ROLE="Arg-2">
+            <extent>
+              <charseq START="396" END="411">counterterrorism</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0098-R4" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0098-E14" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0098-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0098-R4-M302">
+          <extent>
+              <charseq START="528" END="545">Scottish officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E14-M314" ROLE="Arg-1">
+            <extent>
+              <charseq START="528" END="545">Scottish officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E6-M315" ROLE="Arg-2">
+            <extent>
+              <charseq START="528" END="535">Scottish</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0098-R5" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0098-E18" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0098-E19" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0098-R5-M600">
+          <extent>
+              <charseq START="972" END="989">Secretary of State</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E18-M602" ROLE="Arg-1">
+            <extent>
+              <charseq START="972" END="989">Secretary of State</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E19-M603" ROLE="Arg-2">
+            <extent>
+              <charseq START="985" END="989">State</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0098-R6" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0098-E21" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0098-E20" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0098-R6-M700">
+          <extent>
+              <charseq START="1159" END="1174">Libyan officials</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E21-M705" ROLE="Arg-1">
+            <extent>
+              <charseq START="1159" END="1174">Libyan officials</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E20-M706" ROLE="Arg-2">
+            <extent>
+              <charseq START="1159" END="1164">Libyan</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0098-R7" TYPE="PHYS" SUBTYPE="Located" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0098-E11" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0098-E8" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0098-R7-M900">
+          <extent>
+              <charseq START="1393" END="1402">Al-Megrahi</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E11-M900" ROLE="Arg-1">
+            <extent>
+              <charseq START="1393" END="1402">Al-Megrahi</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E8-M903" ROLE="Arg-2">
+            <extent>
+              <charseq START="1445" END="1450">prison</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20100821.0098-R8" TYPE="PART-WHOLE" SUBTYPE="Geographical" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20100821.0098-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20100821.0098-E6" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20100821.0098-R8-M901">
+          <extent>
+              <charseq START="1473" END="1492">Lockerbie, Scotland,</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E1-M906" ROLE="Arg-1">
+            <extent>
+              <charseq START="1473" END="1492">Lockerbie, Scotland,</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20100821.0098-E6-M908" ROLE="Arg-2">
+            <extent>
+              <charseq START="1484" END="1491">Scotland</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

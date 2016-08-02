@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<source_file SOURCE="UNKNOWN" TYPE="text" VERSION="2.0" URI="APW_ENG_20101116.0971">
+  <document DOCID="APW_ENG_20101116.0971">
+
+    <entity ID="APW_ENG_20101116.0971-E0" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E0-M6">
+          <extent>
+              <charseq START="89" END="95">US Army</charseq>
+          </extent>
+          <head>
+              <charseq START="89" END="95">US Army</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E0-M202">
+          <extent>
+              <charseq START="189" END="197">U.S. Army</charseq>
+          </extent>
+          <head>
+              <charseq START="189" END="197">U.S. Army</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E0-M600">
+          <extent>
+              <charseq START="767" END="774">The Army</charseq>
+          </extent>
+          <head>
+              <charseq START="771" END="774">Army</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="US Army">
+              <charseq START="89" END="95">US Army</charseq>
+          </name>
+          <name NAME="U.S. Army">
+              <charseq START="189" END="197">U.S. Army</charseq>
+          </name>
+          <name NAME="Army">
+              <charseq START="771" END="774">Army</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E1" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E1-M5">
+          <extent>
+              <charseq START="89" END="104">US Army sergeant</charseq>
+          </extent>
+          <head>
+              <charseq START="97" END="104">sergeant</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E2" TYPE="GPE" SUBTYPE="Population-Center" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E2-M101" ROLE="GPE">
+          <extent>
+              <charseq START="129" END="138">WASHINGTON</charseq>
+          </extent>
+          <head>
+              <charseq START="129" END="138">WASHINGTON</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="WASHINGTON">
+              <charseq START="129" END="138">WASHINGTON</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E3" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E3-M213" ROLE="GPE">
+          <extent>
+              <charseq START="282" END="287">Afghan</charseq>
+          </extent>
+          <head>
+              <charseq START="282" END="287">Afghan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E3-M218">
+          <extent>
+              <charseq START="343" END="352">the nation</charseq>
+          </extent>
+          <head>
+              <charseq START="347" END="352">nation</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E3-M315" ROLE="GPE">
+          <extent>
+              <charseq START="551" END="561">Afghanistan</charseq>
+          </extent>
+          <head>
+              <charseq START="551" END="561">Afghanistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E3-M608">
+          <extent>
+              <charseq START="823" END="833">Afghanistan</charseq>
+          </extent>
+          <head>
+              <charseq START="823" END="833">Afghanistan</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Afghan">
+              <charseq START="282" END="287">Afghan</charseq>
+          </name>
+          <name NAME="Afghanistan">
+              <charseq START="551" END="561">Afghanistan</charseq>
+          </name>
+          <name NAME="Afghanistan">
+              <charseq START="823" END="833">Afghanistan</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E4" TYPE="FAC" SUBTYPE="Building-Grounds" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E4-M214">
+          <extent>
+              <charseq START="310" END="327">the Medal of Honor</charseq>
+          </extent>
+          <head>
+              <charseq START="314" END="327">Medal of Honor</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Medal of Honor">
+              <charseq START="314" END="327">Medal of Honor</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E5" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E5-M200">
+          <extent>
+              <charseq START="187" END="299">A U.S. Army staff sergeant who stepped into the line of fire to help a pair of comrades on the Afghan battlefield</charseq>
+          </extent>
+          <head>
+              <charseq START="205" END="212">sergeant</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101116.0971-E5-M204">
+          <extent>
+              <charseq START="214" END="216">who</charseq>
+          </extent>
+          <head>
+              <charseq START="214" END="216">who</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E6" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E6-M210">
+          <extent>
+              <charseq START="266" END="299">comrades on the Afghan battlefield</charseq>
+          </extent>
+          <head>
+              <charseq START="266" END="273">comrades</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E8" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E8-M300">
+          <extent>
+              <charseq START="385" END="406">President Barack Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="395" END="406">Barack Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E8-M301">
+          <extent>
+              <charseq START="385" END="393">President</charseq>
+          </extent>
+          <head>
+              <charseq START="385" END="393">President</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E8-M307">
+          <extent>
+              <charseq START="480" END="500">the 25-year-old Iowan</charseq>
+          </extent>
+          <head>
+              <charseq START="496" END="500">Iowan</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E8-M500">
+          <extent>
+              <charseq START="646" END="650">Obama</charseq>
+          </extent>
+          <head>
+              <charseq START="646" END="650">Obama</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E8-M502">
+          <extent>
+              <charseq START="666" END="692">a solider who is &quot;as humble</charseq>
+          </extent>
+          <head>
+              <charseq START="668" END="674">solider</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101116.0971-E8-M504">
+          <extent>
+              <charseq START="676" END="678">who</charseq>
+          </extent>
+          <head>
+              <charseq START="676" END="678">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101116.0971-E8-M506">
+          <extent>
+              <charseq START="697" END="698">he</charseq>
+          </extent>
+          <head>
+              <charseq START="697" END="698">he</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Barack Obama">
+              <charseq START="395" END="406">Barack Obama</charseq>
+          </name>
+          <name NAME="Obama">
+              <charseq START="646" END="650">Obama</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E9" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E9-M304">
+          <extent>
+              <charseq START="429" END="444">Salvatore Giunta</charseq>
+          </extent>
+          <head>
+              <charseq START="429" END="444">Salvatore Giunta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E9-M308">
+          <extent>
+              <charseq START="502" END="583">the first living service member from the Iraq or Afghanistan wars to be so honored</charseq>
+          </extent>
+          <head>
+              <charseq START="527" END="532">member</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E9-M501">
+          <extent>
+              <charseq START="659" END="664">Giunta</charseq>
+          </extent>
+          <head>
+              <charseq START="659" END="664">Giunta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E9-M602">
+          <extent>
+              <charseq START="781" END="786">Giunta</charseq>
+          </extent>
+          <head>
+              <charseq START="781" END="786">Giunta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E9-M603">
+          <extent>
+              <charseq START="792" END="851">a rifle team leader in eastern Afghanistan&apos;s Korengal Valley</charseq>
+          </extent>
+          <head>
+              <charseq START="805" END="810">leader</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101116.0971-E9-M611">
+          <extent>
+              <charseq START="858" END="860">his</charseq>
+          </extent>
+          <head>
+              <charseq START="858" END="860">his</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E9-M701">
+          <extent>
+              <charseq START="934" END="939">Giunta</charseq>
+          </extent>
+          <head>
+              <charseq START="934" END="939">Giunta</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E9-M702">
+          <extent>
+              <charseq START="948" END="963">a fellow soldier</charseq>
+          </extent>
+          <head>
+              <charseq START="957" END="963">soldier</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E9-M707">
+          <extent>
+              <charseq START="1024" END="1032">the enemy</charseq>
+          </extent>
+          <head>
+              <charseq START="1028" END="1032">enemy</charseq>
+          </head>
+        </entity_mention>
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101116.0971-E9-M706">
+          <extent>
+              <charseq START="994" END="996">who</charseq>
+          </extent>
+          <head>
+              <charseq START="994" END="996">who</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Salvatore Giunta">
+              <charseq START="429" END="444">Salvatore Giunta</charseq>
+          </name>
+          <name NAME="Giunta">
+              <charseq START="659" END="664">Giunta</charseq>
+          </name>
+          <name NAME="Giunta">
+              <charseq START="781" END="786">Giunta</charseq>
+          </name>
+          <name NAME="Giunta">
+              <charseq START="934" END="939">Giunta</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E10" TYPE="ORG" SUBTYPE="Government" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E10-M306">
+          <extent>
+              <charseq START="451" END="461">White House</charseq>
+          </extent>
+          <head>
+              <charseq START="451" END="461">White House</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="White House">
+              <charseq START="451" END="461">White House</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E11" TYPE="GPE" SUBTYPE="Nation" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E11-M312" ROLE="LOC">
+          <extent>
+              <charseq START="539" END="546">the Iraq</charseq>
+          </extent>
+          <head>
+              <charseq START="543" END="546">Iraq</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Iraq">
+              <charseq START="543" END="546">Iraq</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E12" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="PRO" ID="APW_ENG_20101116.0971-E12-M400">
+          <extent>
+              <charseq START="586" END="597">Seven others</charseq>
+          </extent>
+          <head>
+              <charseq START="592" END="597">others</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E13" TYPE="LOC" SUBTYPE="Land-Region-Natural" CLASS="SPC">
+        <entity_mention TYPE="NAM" ID="APW_ENG_20101116.0971-E13-M607">
+          <extent>
+              <charseq START="815" END="851">eastern Afghanistan&apos;s Korengal Valley</charseq>
+          </extent>
+          <head>
+              <charseq START="837" END="851">Korengal Valley</charseq>
+          </head>
+        </entity_mention>
+        <entity_attributes>
+          <name NAME="Korengal Valley">
+              <charseq START="837" END="851">Korengal Valley</charseq>
+          </name>
+        </entity_attributes>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E14" TYPE="ORG" SUBTYPE="Sports" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E14-M606">
+          <extent>
+              <charseq START="800" END="803">team</charseq>
+          </extent>
+          <head>
+              <charseq START="800" END="803">team</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E15" TYPE="PER" SUBTYPE="Individual" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E15-M610">
+          <extent>
+              <charseq START="858" END="866">his squad</charseq>
+          </extent>
+          <head>
+              <charseq START="862" END="866">squad</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <entity ID="APW_ENG_20101116.0971-E16" TYPE="PER" SUBTYPE="Group" CLASS="SPC">
+        <entity_mention TYPE="NOM" ID="APW_ENG_20101116.0971-E16-M618">
+          <extent>
+              <charseq START="904" END="913">insurgents</charseq>
+          </extent>
+          <head>
+              <charseq START="904" END="913">insurgents</charseq>
+          </head>
+        </entity_mention>
+    </entity>
+
+    <timex2 ID="APW_ENG_20101116.0971-T0" VAL="2010-11-16-11">
+        <timex2_mention ID="APW_ENG_20101116.0971-T0-M1">
+            <extent>
+              <charseq START="140" END="149">2010-11-16</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101116.0971-T1" VAL="2010-11-16">
+        <timex2_mention ID="APW_ENG_20101116.0971-T1-M1">
+            <extent>
+              <charseq START="332" END="338">Tuesday</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <timex2 ID="APW_ENG_20101116.0971-T2" VAL="P25Y">
+        <timex2_mention ID="APW_ENG_20101116.0971-T2-M1">
+            <extent>
+              <charseq START="484" END="494">25-year-old</charseq>
+            </extent>
+        </timex2_mention>
+    </timex2>
+
+    <relation ID="APW_ENG_20101116.0971-R0" TYPE="ORG-AFF" SUBTYPE="Employment" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101116.0971-E1" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101116.0971-E0" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101116.0971-R0-M0">
+          <extent>
+              <charseq START="89" END="104">US Army sergeant</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101116.0971-E1-M5" ROLE="Arg-1">
+            <extent>
+              <charseq START="89" END="104">US Army sergeant</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101116.0971-E0-M6" ROLE="Arg-2">
+            <extent>
+              <charseq START="89" END="95">US Army</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+    <relation ID="APW_ENG_20101116.0971-R1" TYPE="GEN-AFF" SUBTYPE="Citizen-Resident-Religion-Ethnicity" MODALITY="Asserted" TENSE="Unspecified">
+      <relation_argument REFID="APW_ENG_20101116.0971-E9" ROLE="Arg-1"/>
+      <relation_argument REFID="APW_ENG_20101116.0971-E11" ROLE="Arg-2"/>
+        <relation_mention ID="APW_ENG_20101116.0971-R1-M300">
+          <extent>
+              <charseq START="502" END="583">the first living service member from the Iraq or Afghanistan wars to be so honored</charseq>
+          </extent>
+          <relation_mention_argument REFID="APW_ENG_20101116.0971-E9-M308" ROLE="Arg-1">
+            <extent>
+              <charseq START="502" END="583">the first living service member from the Iraq or Afghanistan wars to be so honored</charseq>
+            </extent>
+          </relation_mention_argument>
+          <relation_mention_argument REFID="APW_ENG_20101116.0971-E11-M312" ROLE="Arg-2">
+            <extent>
+              <charseq START="539" END="546">the Iraq</charseq>
+            </extent>
+          </relation_mention_argument>
+        </relation_mention>
+    </relation>
+
+  </document>
+</source_file>

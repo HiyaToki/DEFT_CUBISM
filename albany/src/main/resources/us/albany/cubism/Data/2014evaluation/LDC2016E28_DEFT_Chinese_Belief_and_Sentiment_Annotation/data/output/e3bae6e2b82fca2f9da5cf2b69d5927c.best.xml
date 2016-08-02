@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="e3bae6e2b82fca2f9da5cf2b69d5927c.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-99" length="3" offset="64">
+        <text>美国人</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-123" length="8" offset="14">baiyq180</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-93" length="2" offset="76">
+        <text>它们</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-123" length="8" offset="14">baiyq180</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-99" length="3" offset="64">
+        <text>美国人</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-117" length="8" offset="238">baiyq180</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-93" length="2" offset="76">
+        <text>它们</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-117" length="8" offset="238">baiyq180</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-207" length="5" offset="608">
+        <text>中央电视台</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-129" length="4" offset="475">煮石山人</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

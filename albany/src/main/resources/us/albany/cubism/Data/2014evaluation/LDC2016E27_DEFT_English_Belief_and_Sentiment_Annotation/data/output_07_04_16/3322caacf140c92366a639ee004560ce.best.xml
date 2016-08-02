@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="3322caacf140c92366a639ee004560ce.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-114" length="3" offset="289">
+        <text>she</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-84" length="4" offset="14">Hans</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-533" length="74" offset="325">
+        <text>a strong supporter of women's rights in Islam and of progressive democracy</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-84" length="4" offset="14">Hans</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-312" length="4" offset="989">
+        <text>they</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-330" length="3" offset="868">CHF</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-156" length="6" offset="1728">
+        <text>Bhutto</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-246" length="20" offset="1695">Pakistani extremists</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-204" length="2" offset="1666">
+        <text>He</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-258" length="9" offset="1518">twinstead</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-162" length="3" offset="1857">
+        <text>her</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-258" length="9" offset="1518">twinstead</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-228" length="3" offset="2083">
+        <text>him</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-648" length="6" offset="2065">people</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-639" length="25" offset="1963">
+        <text>a potential prime minster</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-258" length="9" offset="1518">twinstead</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>

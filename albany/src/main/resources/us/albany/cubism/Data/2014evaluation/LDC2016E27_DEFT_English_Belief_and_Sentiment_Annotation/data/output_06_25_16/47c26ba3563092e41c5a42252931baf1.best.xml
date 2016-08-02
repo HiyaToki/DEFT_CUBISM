@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><committed_belief_doc id="47c26ba3563092e41c5a42252931baf1.cmp.txt">
+  <sentiment_annotations>
+    <entities>
+      <entity ere_id="m-640" length="19" offset="214">
+        <text>Ground/Home drivers</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-81" length="7" offset="14">rosachs</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-667" length="8" offset="394">
+        <text>customer</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-81" length="7" offset="14">rosachs</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-673" length="3" offset="709">
+        <text>you</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-81" length="7" offset="14">rosachs</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-399" length="4" offset="1074">
+        <text>They</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-81" length="7" offset="14">rosachs</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-429" length="4" offset="1594">
+        <text>They</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-159" length="13" offset="1239">windchimeman1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-207" length="9" offset="1624">
+        <text>Tom Hanks</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-183" length="1" offset="1616">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-213" length="3" offset="1712">
+        <text>Tom</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-159" length="13" offset="1239">windchimeman1</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-471" length="4" offset="1935">
+        <text>USPS</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-231" length="1" offset="1926">I</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-315" length="6" offset="2309">
+        <text>a lady</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-225" length="9" offset="1874">debbiet22</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1283" length="6" offset="2534">
+        <text>nobody</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-225" length="9" offset="1874">debbiet22</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-447" length="6" offset="2664">
+        <text>Fed Ex</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-225" length="9" offset="1874">debbiet22</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-477" length="4" offset="2806">
+        <text>USPS</text>
+        <sentiment polarity="pos" sarcasm="no">
+          <source ere_id="m-225" length="9" offset="1874">debbiet22</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-483" length="4" offset="2992">
+        <text>usps</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-327" length="13" offset="2907">splakdaddy420</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-495" length="3" offset="3038">
+        <text>ups</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-327" length="13" offset="2907">splakdaddy420</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1346" length="10" offset="3199">
+        <text>a neighbor</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-327" length="13" offset="2907">splakdaddy420</source>
+        </sentiment>
+      </entity>
+      <entity ere_id="m-1384" length="3" offset="3244">
+        <text>you</text>
+        <sentiment polarity="neg" sarcasm="no">
+          <source ere_id="m-327" length="13" offset="2907">splakdaddy420</source>
+        </sentiment>
+      </entity>
+    </entities>
+    <relations/>
+    <events/>
+  </sentiment_annotations>
+</committed_belief_doc>
