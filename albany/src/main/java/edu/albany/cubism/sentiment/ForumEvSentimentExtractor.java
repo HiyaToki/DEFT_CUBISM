@@ -46,7 +46,7 @@ import edu.albany.cubism.util.Tools;
  *
  * @author Ting Liu 2015 Forum Data Sentiment analysis
  */
-public class ForumReSentimentExtractor extends edu.albany.cubism.sentiment.ForumDependencies {
+public class ForumEvSentimentExtractor extends edu.albany.cubism.sentiment.ForumDependencies {
 
     private static String origSlot;             // The original Slot Filler that was read from the query
     private static ArrayList<String> passiveActionVerbs = createPassiveActionVerbs();     // An arrayList that holds words which should be ignored
@@ -1297,7 +1297,7 @@ public class ForumReSentimentExtractor extends edu.albany.cubism.sentiment.Forum
 //                if (annoteStart != -1) {
                 //print out path of annotated answers
                 boltDoc.findEREEnInstances(sent_graph.getStartx(), sent_graph.getEndx(), currLine, sent_graph, ere_path);
-                boltDoc.findERERelInstances(sent_graph.getStartx(), sent_graph.getEndx(), currLine, sent_graph, ere_path);
+                boltDoc.findEREEvInstances(sent_graph.getStartx(), sent_graph.getEndx(), currLine, sent_graph, ere_path);
 //                if (true) {
 //                    continue;
 //                }
@@ -1314,7 +1314,7 @@ public class ForumReSentimentExtractor extends edu.albany.cubism.sentiment.Forum
                     }
                     System.out.println("processing q_head: " + q_head);
                     processed_nodes.add(q_head);
-                    anwPhrases.addAll(sent_graph.getPatientRels(q_head));//newswireFA.getEnInstances(key, pathName, annoteStart, annoteEnd, sent_graph.getSentence()));
+                    anwPhrases.addAll(sent_graph.getPatients(q_head));//newswireFA.getEnInstances(key, pathName, annoteStart, annoteEnd, sent_graph.getSentence()));
                     System.out.println("patient size: " + anwPhrases.size());
                     int sent_start = oriDoc.indexOf(currLine);
                     ArrayList processed_pats = new ArrayList();
@@ -1996,7 +1996,15 @@ public class ForumReSentimentExtractor extends edu.albany.cubism.sentiment.Forum
         }
         return senti;
     }
-
+    /**
+     * For event sentiment, the event trigger will be considered
+     * @param path
+     * @param agent
+     * @param patient
+     * @param tree
+     * @param rel_node
+     * @return 
+     */
     public double calSentiment(ArrayList<Node> path, Node agent, Node patient, Graph tree, ArrayList<Node> rel_node) {
         boolean hasNeg = false;
         double sentiment = -1;
@@ -2015,8 +2023,7 @@ public class ForumReSentimentExtractor extends edu.albany.cubism.sentiment.Forum
             ArrayList processed_nodes = new ArrayList();
             ArrayList<Node> child_path = new ArrayList();
             for (Node node : path) {
-                if (!(node.equals(agent)
-                        || node.equals(patient))
+                if (!(node.equals(agent))
                         && (node.getPos().startsWith("N")
                         || node.getPos().startsWith("V"))
                         || node.getPos().startsWith("J")) {
@@ -2033,11 +2040,11 @@ public class ForumReSentimentExtractor extends edu.albany.cubism.sentiment.Forum
                 }
             }
             for (Node node : child_path) {
-                if (!(node.equals(agent)
-                        || node.equals(patient))
+                if (!(node.equals(agent))
                         && (node.getPos().startsWith("N")
                         || node.getPos().startsWith("V"))
                         || node.getPos().startsWith("J")) {
+                    //patient is trigger which is a good indicator, therefore it's in the calculation
                     node.setSentiment(this.calSentiment(node.getName()));
                     node.setHasNeg(tree.isNegate(node));
                 }
