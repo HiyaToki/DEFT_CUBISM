@@ -937,6 +937,32 @@ public class Graph implements Serializable {
         return founds;
     }
 
+    public ArrayList<Node> getERERelInstances() {
+        ArrayList<Node> nodes = this.getSortedNodes();
+        ArrayList<Node> founds = new ArrayList();
+//        System.out.println("en: " + en);
+        for (Node node : nodes) {
+
+            if (node.getEreRelationMention()!= null) {
+                founds.add(node);
+            }
+        }
+        return founds;
+    }
+
+    public ArrayList<Node> getEREEvInstances() {
+        ArrayList<Node> nodes = this.getSortedNodes();
+        ArrayList<Node> founds = new ArrayList();
+//        System.out.println("en: " + en);
+        for (Node node : nodes) {
+
+            if (node.getEreEventMention()!= null) {
+                founds.add(node);
+            }
+        }
+        return founds;
+    }
+
     /**
      * get relation between two nodes if exists by TL
      */
@@ -1052,6 +1078,180 @@ public class Graph implements Serializable {
                         }
                         String rel_par = this.getRelation(ent_par, ent_par_par);
                         if (!rel_par.contains("obj")) {
+                            continue;
+                        }
+                    } else {
+                        continue;
+                    }
+                }
+            }
+            boolean hasEninBetween = false;
+            Node pre_node = null;
+            boolean bad_dependency = false;
+            String bad_rel = null;
+            for (Node node : path) {
+                if (node.getEre_entity() != null
+                        && !(node.equals(ent)
+                        || node.equals(agent))) {
+                    hasEninBetween = true;
+                    break;
+                }
+                if (pre_node == null) {
+                    pre_node = node;
+                    continue;
+                } else {
+                    String rel = this.getRelation(node, pre_node);
+                    System.out.println("rel between " + node.getName() + " and " + pre_node.getName() + " is: " + rel);
+                    if (rel != null
+                            && (rel.equals("dep")
+                            || rel.equals("conj")
+                            || rel.equals("advcl")
+                            && node.getPos().startsWith("V"))) {
+                        bad_rel = rel;
+                        //dep - A dependency is labeled as dep when the system is unable to determine a more precise dependency relation between two words.
+                        bad_dependency = true;
+                        break;
+                    }
+                    pre_node = node;
+                }
+            }
+            if (hasEninBetween) {
+                System.out.println("this path has enity in between: " + path);
+            } else if (path.size() > 5) {
+                System.out.println("this path is too long: " + path);
+            } else if (Math.abs(agent.getId() - ent.getId()) > 10) {
+                System.out.println("the distance between agent and ent is too long: " + path);
+            } else if (bad_dependency) {
+                System.out.println("bad dependency: " + bad_rel);
+            } else {
+                System.out.println("add patient: " + ent.getName() + "  " + ent.getId());
+                System.out.println("agent node: " + agent.getName() + "  " + agent.getId());
+                outs.add(ent);
+            }
+        }
+        return outs;
+    }
+
+    public ArrayList<Node> getPatientRels(Node agent) {
+        ArrayList<Node> outs = new ArrayList();
+        ArrayList<Node> ents = this.getERERelInstances();
+        for (Node ent : ents) {
+            if (ent.getName().equals(agent.getName())
+                    && ent.getId() == agent.getId()) {
+                continue;
+            }
+            ArrayList<Node> path = new ArrayList(this.shortestPathV2(agent, ent));
+            //added by TL 06/20/16
+            Node ent_par = this.getParent(ent);
+            if (ent_par != null) {
+                String rel = this.getRelation(ent, ent_par);
+                if (rel == null) {
+                    continue;
+                }
+                if (!rel.contains("obj")) {
+                    if (rel.contains("amod")) {
+                        Node ent_par_par = this.getParent(ent_par);
+                        if (ent_par_par == null) {
+                            continue;
+                        }
+                        String rel_par = this.getRelation(ent_par, ent_par_par);
+                        if (!rel_par.contains("obj")) {
+                            continue;
+                        }
+                    } else if (rel.contains("prep")) {
+                        ArrayList<Node> ent_par_child = this.getChildren(ent_par);
+                        if (ent_par_child == null) {
+                            continue;
+                        }
+                        String rel_child = this.getRelation(ent_par, ent_par_child.get(0));
+                        if (!rel_child.contains("obj")) {
+                            continue;
+                        }
+                    } else {
+                        continue;
+                    }
+                }
+            }
+            boolean hasEninBetween = false;
+            Node pre_node = null;
+            boolean bad_dependency = false;
+            String bad_rel = null;
+            for (Node node : path) {
+                if (node.getEre_entity() != null
+                        && !(node.equals(ent)
+                        || node.equals(agent))) {
+                    hasEninBetween = true;
+                    break;
+                }
+                if (pre_node == null) {
+                    pre_node = node;
+                    continue;
+                } else {
+                    String rel = this.getRelation(node, pre_node);
+                    System.out.println("rel between " + node.getName() + " and " + pre_node.getName() + " is: " + rel);
+                    if (rel != null
+                            && (rel.equals("dep")
+                            || rel.equals("conj")
+                            || rel.equals("advcl")
+                            && node.getPos().startsWith("V"))) {
+                        bad_rel = rel;
+                        //dep - A dependency is labeled as dep when the system is unable to determine a more precise dependency relation between two words.
+                        bad_dependency = true;
+                        break;
+                    }
+                    pre_node = node;
+                }
+            }
+            if (hasEninBetween) {
+                System.out.println("this path has enity in between: " + path);
+            } else if (path.size() > 5) {
+                System.out.println("this path is too long: " + path);
+            } else if (Math.abs(agent.getId() - ent.getId()) > 10) {
+                System.out.println("the distance between agent and ent is too long: " + path);
+            } else if (bad_dependency) {
+                System.out.println("bad dependency: " + bad_rel);
+            } else {
+                System.out.println("add patient: " + ent.getName() + "  " + ent.getId());
+                System.out.println("agent node: " + agent.getName() + "  " + agent.getId());
+                outs.add(ent);
+            }
+        }
+        return outs;
+    }
+
+    public ArrayList<Node> getPatientEvs(Node agent) {
+        ArrayList<Node> outs = new ArrayList();
+        ArrayList<Node> ents = this.getEREEvInstances();
+        for (Node ent : ents) {
+            if (ent.getName().equals(agent.getName())
+                    && ent.getId() == agent.getId()) {
+                continue;
+            }
+            ArrayList<Node> path = new ArrayList(this.shortestPathV2(agent, ent));
+            //added by TL 06/20/16
+            Node ent_par = this.getParent(ent);
+            if (ent_par != null) {
+                String rel = this.getRelation(ent, ent_par);
+                if (rel == null) {
+                    continue;
+                }
+                if (!rel.contains("obj")) {
+                    if (rel.contains("amod")) {
+                        Node ent_par_par = this.getParent(ent_par);
+                        if (ent_par_par == null) {
+                            continue;
+                        }
+                        String rel_par = this.getRelation(ent_par, ent_par_par);
+                        if (!rel_par.contains("obj")) {
+                            continue;
+                        }
+                    } else if (rel.contains("prep")) {
+                        ArrayList<Node> ent_par_child = this.getChildren(ent_par);
+                        if (ent_par_child == null) {
+                            continue;
+                        }
+                        String rel_child = this.getRelation(ent_par, ent_par_child.get(0));
+                        if (!rel_child.contains("obj")) {
                             continue;
                         }
                     } else {
