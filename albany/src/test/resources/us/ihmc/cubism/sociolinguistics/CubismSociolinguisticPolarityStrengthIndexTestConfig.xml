@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-<comment>Regression test for Cubism Belief Extractor</comment>
-<entry key="algorithmConfig">us/ihmc/cubism/sociolinguistics/SociolinguisticPolarityStrengthIndexConfig.xml</entry>
-<entry key="inputFileList">CubismSociolinguisticPolarityStrengthIndexTestFileList.txt</entry>
-</properties>

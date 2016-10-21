@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-<comment>Benchmark test for Cubism Sentiment extraction</comment>
-	<entry key="inputFileList">CubismSentimentExtractionBenchmarkTestFileList.txt</entry>
-	<entry key="algorithmConfig">us/ihmc/cubism/SentimentConfig.xml</entry>
-</properties>
